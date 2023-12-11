@@ -1,3 +1,8 @@
+# attested-conjectures
+A Database of Greek and Latin Conjectural Emendations Attested in MSS
+
+A CSV version can be found [here](./attested-conjectures.csv).
+
 Ref|Paradosis|Conjecture|Author|Year|Attested Place|Rem.
 ---|---|---|---|---|---|---
 Simon. fr.25|χεέτω|χείτω|M. L. West|1989|Oxy.81.5261|Bergk's χεάτω rejected;1st vowel of diphthong accented.

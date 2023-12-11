@@ -1,8 +1,16 @@
 import csv
 
+PREFACE = """# attested-conjectures
+A Database of Greek and Latin Conjectural Emendations Attested in MSS
+
+A CSV version can be found [here](./attested-conjectures.csv).
+
+"""
+
 with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:
     conj_reader = csv.reader(conj_csv)
-    with open("attested-conjectures.md", "w", encoding="utf8") as conj_md: # WARNING: rewrites the file!
+    with open("README.md", "w", encoding="utf8") as conj_md: # WARNING: rewrites the file!
+        conj_md.write(PREFACE)
         #first line is headers
         first_row = True
         for row in conj_reader:
