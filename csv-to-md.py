@@ -1,8 +1,8 @@
 import csv
 
-with open("attested-conjectures.csv", "r") as conj_csv:
+with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:
     conj_reader = csv.reader(conj_csv)
-    with open("attested-conjectures.md", "w") as conj_md: # WARNING: rewrites the file!
+    with open("attested-conjectures.md", "w", encoding="utf8") as conj_md: # WARNING: rewrites the file!
         #first line is headers
         first_row = True
         for row in conj_reader:
@@ -13,4 +13,3 @@ with open("attested-conjectures.csv", "r") as conj_csv:
                 delimiter_row = delimiter_row[:-1] + "\n" # [:-1] as above
                 conj_md.write(delimiter_row)
                 first_row = False # delimiter needs to be written after headers (which are the first row)
-        conj_md.write("\n") # for good markdown
