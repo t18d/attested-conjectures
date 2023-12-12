@@ -1,4 +1,4 @@
-# A Database of Greek and Latin Conjectural Emendations Attested in MSS
+# Database of Greek and Latin Conjectural Emendations Attested in MSS
 
 <details>
     <summary><h2>Bibliography</h2></summary>
