@@ -9,7 +9,7 @@ A Database of Greek and Latin Conjectural Emendations Attested in MSS
     </ul>
     <h3>Studies</h3>
     <ul>
-        <li>P.Oxy.I,II,IV,V,VI,VII,VIII,X,XI,XIII,LXXXI</li>
+        <li>P.Oxy.I, II, IV, V, VI, VII, VIII, X, XI, XIII, LXXXI</li>
         <li>Kenyon, Frederic George. <em>The Evidence of Greek Papyri with Regard to Textual Criticism.</em> London: Hernry Frowde, 1904.</li>
         <li>Grenfell, B. P. ‘The Value of Papyri for the Textual Criticism of Extant Greek Authors.’ <em>The Journal of Hellenic Studies</em> 39 (1919): 16-36.</li>
     </ul>
