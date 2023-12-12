@@ -27,7 +27,7 @@ Hes.Th.87|αἶψα τε|αἶψά κε|R. Peppmüller|1896|P.Achm.3|
 Hes.Th.93|οἷά τε|τοίη|Guiet|n.d.|P.Achm.3|
 Eur. Ph. 1040|ἰαζὰ|ἀχᾷ|S. Musgrave|1778|P.Oxy.II.224|Musgrave conjectured ἀχὰ
 Eur. Ph. 1040|πόλεως|πόλεος|R.Porson|1824|P.Oxy.II.224|
-Eur. Ph. 1132|βίαι|βάθρων|J. W. A. Kirchhoff|n.d.|Weinberger *Mitth. aus d. Sammlung d. Pap. Erzherzog Rainer* V. 74|Details from Kenyon's article.
+Eur. Ph. 1132|βίαι|βάθρων|J. W. A. Kirchhoff|n.d.|T.Vindob. inv. G HT 6|
 Ar.Av.1069|om.|πάνθ'|Ludolph Dissen|n.d.|P.Louvre ed. Weil = Austin 42|Weil *Revue de Philologie* xiii. 179 (1882)
 Ar.Av.1080|πᾶσι|om.|Triclinius|s.xiv in.|P.Louvre ed. Weil = Austin 42|Weil *Revue de Philologie* xiii. 179 (1882)
 Hdt.1.116|ἐσήει|ἐσήιε|H. Bekker|1833|P.Münch.II.40 = Pap.graec.mon.89|
@@ -129,3 +129,6 @@ Ach.Tat. Clitophon and Leucippe 2-9|προσέθιγεν|προσέθηκεν|Bo
 Sor. Gynaecia 2-3|Ἀθηναίων|Ἀθηνίων|Wellmann|n.d.|P. Soc. Ital. 117|Details from Grenfell.
 Sor. Gynaecia 2-3|ἐν τῷ α καὶ γ τῆς αἱρέσεως|ἐν τῷ α καὶ γ τῶν περὶ τῆς αἱρέσεως|Rose|n.d.|P. Soc. Ital. 117|Details from Grenfell.
 Sor. Gynaecia 2-3|καὶ Ζήνωνα καὶ Ἀριστοτέλην τὸν Ἐπικούριον|καὶ Ἀριστοτέλην καὶ Ζήνωνα τὸν Ἐπικούριον|Ermerins|n.d.|P. Soc. Ital. 117|Details from Grenfell.
+Anth.Pal.v. 217|γλυκεροὺς/γλυκεράς|Γλυκέρας|Scaliger|n.d.|P.Oxy.II.211|Conjecture in epigram verified by discovery of fr.
+Poet.Lyr.i. p. 4|τὴν ογ΄ Ὀλυμπιάδα|τὴν ος΄ Ὀλυμπιάδα|Bergk|n.d.|P.Oxy.II.222|
+Pind.O. scholia|Olympian and Pythian victories of Epharmostus occured in 73rd Olympiad and the Pythian in the 30th Pythiad|emended to 78th Olympiad|G. Hermann|n.d.|P.Oxy.II.222|
