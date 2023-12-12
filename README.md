@@ -12,7 +12,7 @@ A Database of Greek and Latin Conjectural Emendations Attested in MSS
         <li>Wilcken, <i>Sitzungsb. d. Berl. Akad.</i>, 1887 p. 807</li>
         <li>P.Louvre ed. Weil = Austin 42</li>
         <li>P.Münch.II.40 = Pap.graec.mon.89</li>
-        <li>Schoene in *Mélanges Graux* p.481 ff.</li>
+        <li>Papyrus Massiliensis</li>
     </ul>
 </details>
 Ref.|Paradosis|Conjecture|Author|Year|Attested Place|Rem.
@@ -32,6 +32,6 @@ Ar.Av.1069|om.|πάνθ'|Ludolph Dissen|n.d.|P.Louvre ed. Weil = Austin 42|Weil 
 Ar.Av.1080|πᾶσι|om.|Triclinius|s.xiv in.|P.Louvre ed. Weil = Austin 42|Weil *Revue de Philologie* xiii. 179 (1882)
 Hdt.1.116|ἐσήει|ἐσήιε|H. Bekker|1833|P.Münch.II.40 = Pap.graec.mon.89|
 Pl.Phd.82 E|τῳ δεδέσθαι|τοῦ δεδέσθαι|Heindorf|1810|P.Lond.Lit.145 = Pap.488|
-Isocrates *In Nicoclem*.2|διοικοῖς|διοικῇς|Blass|1891|Schoene in *Mélanges Graux* p.481 ff.|
-Isoc.Nic.8|ταῖς μοναρχίαις|τὰς μοναρχίας|Cobet|n.d.|Schoene in *Mélanges Graux* p.481 ff.|Editor's details from Kenyon's article.
+Isocrates *In Nicoclem*.2|διοικοῖς|διοικῇς|Blass|1891|Papyrus Massiliensis|
+Isoc.Nic.8|ταῖς μοναρχίαις|τὰς μοναρχίας|Cobet|n.d.|Papyrus Massiliensis|Editor's details from Kenyon's article.
 D.Prooem.26|κοιῶς|κοινῶν|Wolf|1812|P.Oxy.I.26|
