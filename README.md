@@ -1,9 +1,21 @@
 # attested-conjectures
 A Database of Greek and Latin Conjectural Emendations Attested in MSS
 
-A CSV version can be found [here](./attested-conjectures.csv).
-
-Ref|Paradosis|Conjecture|Author|Year|Attested Place|Rem.
+<details>
+    <summary>Bibliography</summary>
+    <ul>
+        <li>P.Oxy.I,II,LXXXI</li>
+        <li>James, Patrick. ‘Review of The Oxyrhynchus Papyri. Volume LXXXI.’ <i>The Classical Review</i> 68, no. 2 (2018): 395-398.</li>
+        <li>Kenyon, Frederic George. <i>The Evidence of Greek Papyri with Regard to Textual Criticism.</i> London: Hernry Frowde, 1904.</li>
+        <li>Wessely and Rzach, <i>Studien zur Palaeographie und Papyruskunde</i>, I (1901)</li>
+        <li>Weil, <i>Revue de Philologie</i>, xiii. 179 (1882)</li>
+        <li>Wilcken, <i>Sitzungsb. d. Berl. Akad.</i>, 1887 p. 807</li>
+        <li>P.Louvre ed. Weil = Austin 42</li>
+        <li>P.Münch.II.40 = Pap.graec.mon.89</li>
+        <li>Schoene in *Mélanges Graux* p.481 ff.</li>
+    </ul>
+</details>
+Ref.|Paradosis|Conjecture|Author|Year|Attested Place|Rem.
 ---|---|---|---|---|---|---
 Simon. fr.25|χεέτω|χείτω|M. L. West|1989|P.Oxy.LXXXI.5261|Accented χέιτω on papyrus.
 Plb.28.2.5-7|om.|cυνεχωρηcεν|F. Hultsch|1889|P.Oxy.LXXXI.5267|Papyrus reads c]υνεχωρηc[ε; Hultsch supplies verb (omitted in MSS).
