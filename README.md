@@ -14,7 +14,8 @@ A Database of Greek and Latin Conjectural Emendations Attested in MSS
         <li>P.Münch.II.40 = Pap.graec.mon.89</li>
         <li>Papyrus Massiliensis</li>
     </ul>
-</details>
+</details>  
+
 Ref.|Paradosis|Conjecture|Author|Year|Attested Place|Rem.
 ---|---|---|---|---|---|---
 Simon. fr.25|χεέτω|χείτω|M. L. West|1989|P.Oxy.LXXXI.5261|Accented χέιτω on papyrus.
