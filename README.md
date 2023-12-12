@@ -14,9 +14,10 @@
     </ul>
 </details>
 
+&nbsp;  
 This database is searchable at the [repo](./attested-conjectures.csv).
 
-<h2>Database</h2>
+&nbsp;  
 
 Ref.|Paradosis|Conjecture|Author|Year|Attested Place|Rem.
 ---|---|---|---|---|---|---
