@@ -14,7 +14,7 @@ A Database of Greek and Latin Conjectural Emendations Attested in MSS
         <li>Wilcken, <i>Sitzungsb. d. Berl. Akad.</i>, 1887 p. 807</li>
         <li>P.Louvre ed. Weil = Austin 42</li>
         <li>P.Münch.II.40 = Pap.graec.mon.89</li>
-        <li>Schoene in *Mélanges Graux* p.481 ff.</li>
+        <li>Papyrus Massiliensis</li>
     </ul>
 </details>
 """
