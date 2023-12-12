@@ -1,7 +1,7 @@
 # Database of Greek and Latin Conjectural Emendations Attested in MSS
 
 <details>
-    <summary><h2>Bibliography</h2></summary>
+    <summary>Bibliography</summary>
     <h3>Methodology</h3>
     <ul>
         <li>James, Patrick. ‘Review of The Oxyrhynchus Papyri. Volume LXXXI.’ <em>The Classical Review</em> 68, no. 2 (2018): 395-398.</li>
@@ -13,8 +13,6 @@
         <li>Grenfell, B. P. ‘The Value of Papyri for the Textual Criticism of Extant Greek Authors.’ <em>The Journal of Hellenic Studies</em> 39 (1919): 16-36.</li>
     </ul>
 </details>
-
-<h2>Search</h2>
 
 This database is searchable at the [repo](./attested-conjectures.csv).
 
