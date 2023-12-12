@@ -9,7 +9,7 @@ A Database of Greek and Latin Conjectural Emendations Attested in MSS
     </ul>
     <h3>Studies</h3>
     <ul>
-        <li>P.Oxy.I, II, IV, V, VI, VII, VIII, X, XI, XIII, LXXXI</li>
+        <li>P.Oxy.I, II, III, IV, V, VI, VII, VIII, X, XI, XIII, LXXXI</li>
         <li>Kenyon, Frederic George. <em>The Evidence of Greek Papyri with Regard to Textual Criticism.</em> London: Hernry Frowde, 1904.</li>
         <li>Grenfell, B. P. ‘The Value of Papyri for the Textual Criticism of Extant Greek Authors.’ <em>The Journal of Hellenic Studies</em> 39 (1919): 16-36.</li>
     </ul>
@@ -134,3 +134,5 @@ Poet.Lyr.i. p. 4|τὴν ογ΄ Ὀλυμπιάδα|τὴν ος΄ Ὀλυμπι
 Pind.O. scholia|Olympian and Pythian victories of Epharmostus occured in 73rd Olympiad and the Pythian in the 30th Pythiad|emended to 78th Olympiad|G. Hermann|n.d.|P.Oxy.II.222|
 Hom.Il.6.493|πᾶσιν ἐμοὶ δ[ε μάλιστα τοὶ Ἰλίῳ|πασι μαλιστα δ εμοι τοι Ιλιωι|Hoffman & Bekker|n.d.|P.Oxy.III.445|Pap. preserves digamma before Ιλιωι
 Eust.1833.58|νῦν|νυνί|Grotius|n.d.|P.Oxy.III.409|Pap. is long fr. of Men. Kolax.
+Hom.Il.5.667|ἀμφιέποντες|αμ]φις ἐποιτ[ες|Brandreth|n.d.|P.Oxy.IV.759|
+Logia Iesou 1.7-8|θαυμάσας|θαμβηβεὶς|Zahn|n.d.|P.Oxy.IV.654|Zahn: *Gesch. d. NT. Kan.* ii. p. 657; Zahn's conjecture is that a. θαμβηβεὶς b. that θαμβηβεὶς is a mistranslation of a Hebrew/Aramaic word also meaning θορυβηθείς and thus συντετριμμένης would be the right term; howver θαμβηθείς appears in the pap. and so this further conjecture is disproved.
