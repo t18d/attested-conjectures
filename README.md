@@ -5,11 +5,11 @@ A Database of Greek and Latin Conjectural Emendations Attested in MSS
     <summary>Bibliography</summary>
     <ul>
         <li>P.Oxy.I,II,LXXXI</li>
-        <li>James, Patrick. ‘Review of The Oxyrhynchus Papyri. Volume LXXXI.’ <i>The Classical Review</i> 68, no. 2 (2018): 395-398.</li>
-        <li>Kenyon, Frederic George. <i>The Evidence of Greek Papyri with Regard to Textual Criticism.</i> London: Hernry Frowde, 1904.</li>
-        <li>Wessely and Rzach, <i>Studien zur Palaeographie und Papyruskunde</i>, I (1901)</li>
-        <li>Weil, <i>Revue de Philologie</i>, xiii. 179 (1882)</li>
-        <li>Wilcken, <i>Sitzungsb. d. Berl. Akad.</i>, 1887 p. 807</li>
+        <li>James, Patrick. ‘Review of The Oxyrhynchus Papyri. Volume LXXXI.’ <em>The Classical Review</em> 68, no. 2 (2018): 395-398.</li>
+        <li>Kenyon, Frederic George. <em>The Evidence of Greek Papyri with Regard to Textual Criticism.</em> London: Hernry Frowde, 1904.</li>
+        <li>Wessely and Rzach, <em>Studien zur Palaeographie und Papyruskunde</em>, I (1901)</li>
+        <li>Weil, <em>Revue de Philologie</em>, xiii. 179 (1882)</li>
+        <li>Wilcken, <em>Sitzungsb. d. Berl. Akad.</em>, 1887 p. 807</li>
         <li>P.Louvre ed. Weil = Austin 42</li>
         <li>P.Münch.II.40 = Pap.graec.mon.89</li>
         <li>Papyrus Massiliensis</li>
