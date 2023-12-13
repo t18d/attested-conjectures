@@ -47,6 +47,7 @@ Ar. Ach. 917|θρυαλλίδας|θρυαλλίδα|Elmsley|n.d.|*Berl. klass. 
 Ar. Av. 1069|om.|πάνθ'|Ludolph Dissen|n.d.|P.Louvre ed. Weil = Austin 42|Weil *Revue de Philologie* xiii. 179 (1882)
 Ar. Av. 1080|πᾶσι|om.|Triclinius|s.xiv in.|P.Louvre ed. Weil = Austin 42|Weil *Revue de Philologie* xiii. 179 (1882)
 Ar. Eq. 1017|ἐκέλευσ'|ἐκελευ'|Blaydes|n.d.|P.Oxy.XI.1373|Editor's details from Grenfell's article.
+Ar. Eq. 1058|φράσαι/φράζευ|φρασ]σαι|Brunck|n.d.|P.Oxy.XI.1373|
 Ar. Vesp. 576|γράψομαι|γράφομαι|Brunck|n.d.|P.Oxy.XI.1374|Editor's details from Grenfell's article.
 Ar. Vesp. 790|ἐπέθηκε|ἐνέθηκε|Bergk|n.d.|P.Oxy.XI.1374|Editor's details from Grenfell's article.
 Arat. Phaen.  736|ἰοῦσα|ἄγουσα|Buttman|n.d.|*Berl. klass. Texte* v.1 p.47|Editor's details from Grenfell's article.
@@ -62,6 +63,9 @@ Arist. Rh. Al|περιττῶς|τριττῶς|Spengel|n.d.|P. Hibeh 26|Details
 Bacchyl. 53|μ[ε κουρ]α|με νυμ[φα|Jurenka|n.d.|P.Oxy.VII.1091|
 Bacchyl. 62|κόσμον Βαθείας| κόσμον ἐκ βαθείας|Blass|n.d.|P.Oxy.VIII.1091|
 Bacchyl. 62-63|l.62 δικὼν θράσει σῶμα πατρὸς [ἐ]ς δόμους|l.63 δικὼν θράσει σῶμα πατρὸς [ἐ]ς δόμους|Blass|n.d.|P.Oxy.VIII.1091|End of l.62 is actually l.63.
+Bacchyl. fr. 1.11|αὐτὴ μέν/αὐτὰς μέν|αὐτίκα μέν|Kaibel|n.d.|P.Oxy.XI.1361|
+Callim. fr. 111. 2-4|ναυτιλίῃσιν ἥν|[ναυτι]λίης εἰ νῆιν|Nauck (εἰ) and Bentley (νῆιν)|n.d.|P.Oxy.XI.1362|
+Callim. fr. 86.2|χάλχεον|Παγχαῖον|Bentley|n.d.|P.Oxy.XI.1363|
 Chariton ii. 3| ψόφου δέ ποθεν αἰσθομένη|ψόφου δὲ ποδῶν αἰσθομένη|D'Orville|n.d.|P.Oxy.VII.1019|Editor's details from Grenfell.
 Dem. De fals. leg. 280|καὶ|om.|Dobree|n.d.O|P.Oxy.VIII.1094|Editor's details from Grenfell.
 Dem. Ep. 3. 22|ἀγνώμοσι|ἀγνῶσι|Dobree|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
@@ -77,6 +81,7 @@ Dem. Ep. 3. 9|τὸ ὅσον|ὅσον|Blass|n.d.|P.Brit.Mus.133|Editor's detai
 Dem. Prooem. 26|κοιῶς|κοινῶν|Wolf|1812|P.Oxy.I.26|
 Eur. IT. 1618|τήνδε|τῆσδε|Bothe|n.d.|P.Hibeh 24|Editor's details from Grenfell's article.
 Eur. IT. 252|καὶ τυχόντες|κἀντυχόντες|Reiske|n.d.|P.Hibeh 24|Editor's details from Grenfell's article.
+Eur. Or. 1340|ἀλλ'|ἄγ'|Weil|n.d.|P.Oxy.XI.1370|
 Eur. Ph.  1040|ἰαζὰ|ἀχᾷ|S. Musgrave|1778|P.Oxy.II.224|Musgrave conjectured ἀχὰ
 Eur. Ph.  1040|πόλεως|πόλεος|Porson|1824|P.Oxy.II.224|
 Eur. Ph.  1132|βίαι|βάθρων|J. W. A. Kirchhoff|n.d.|T.Vindob. inv. G HT 6|
@@ -156,7 +161,9 @@ Plb. 28. 2. 4|om.|cυνεχωρηcεν|Friedrich Otto Hultsch|1889|P.Oxy.LXXXI.5
 Plu. Caes.  45. 8|ταιc|αις|Moses Solanus|1729|P.Oxy.LXXXI.5270|
 Poet. Lyr. i. p.  4|τὴν ογ΄ Ὀλυμπιάδα|τὴν ος΄ Ὀλυμπιάδα|Bergk|n.d.|P.Oxy.II.222|
 Simon. fr. 25|χεέτω|χείτω|M. L. West|1989|P.Oxy.LXXXI.5261|Accented χέιτω on papyrus.
+Simon. fr. 88|λεύχης|λέσχης|H. Stephanus|n.d.|P.Oxy.XI.1362|
 Soph. fr. 294|ἐπισχολάζεται|κοὐκ ἔτι σχολάζεται|Meineke|n.d.|P.Oxy.IX.1174|
+Soph.OT.1310|δίαπέταται|διαπωτᾶται|Musgrave & Seidler|n.d.|P.Oxy.XI.1369|
 Sor. Gynaecia 2-3|Ἀθηναίων|Ἀθηνίων|Wellmann|n.d.|P. Soc. Ital. 117|Details from Grenfell.
 Sor. Gynaecia 2-3|ἐν τῷ α καὶ γ τῆς αἱρέσεως|ἐν τῷ α καὶ γ τῶν περὶ τῆς αἱρέσεως|Rose|n.d.|P. Soc. Ital. 117|Details from Grenfell.
 Sor. Gynaecia 2-3|καὶ Ζήνωνα καὶ Ἀριστοτέλην τὸν Ἐπικούριον|καὶ Ἀριστοτέλην καὶ Ζήνωνα τὸν Ἐπικούριον|Ermerins|n.d.|P. Soc. Ital. 117|Details from Grenfell.
