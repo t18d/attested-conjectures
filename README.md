@@ -23,9 +23,6 @@ This database is searchable as a [CSV file](https://github.com/t18d/attested-con
 
 Ref.|Paradosis|Conjecture|Author|Year|Attested Place|Rem.
 ---|---|---|---|---|---|---
-A. R. 263|-σι νέεσθαι/νέεσθε|-σιν ἕλεσθε|Brunck|n.d.|P.Oxy.V.874|Editor's details from Grenfell's article.
-A. R. 745|ναῦται εἰς Ἑλίκην|ναυτίλοι εἰς Ἑλίκην|Porson|n.d.|P.Oxy.IV.690|Editor's details from Grenfell's article.
-A. R. 909|κατὰ|μετὰ|Stephanus|n.d.|P.Oxy.IV.691|Editor's details from Grenfell's article.
 Ach. Tat. Leuc.  2-9|τότε γὰρ τὸν Διόνυσον|τότε τὸν γὰρ Διόνυσον|Jacobs|n.d.|P.Oxy.X.1250|Details from Grenfell.
 Ach. Tat. Leuc.  2-9|προσέθιγεν|προσέθηκεν|Boden|n.d.|P.Oxy.X.1250|Details from Grenfell.
 Aeschin. In Ctes.  167|προσκαθίζεις/προσκαθεστήσῃ|προσκαθιζήσει|Lobeck|n.d.|P.Oxy.III.457|Pap. reads προσκαθ[ιζ]ήσ[ει; editor's details from Grenfell.
@@ -40,6 +37,9 @@ Aeschin. In Tim. |ἐπὶ πᾶσι τοῖς δικαίοις|τοῖς om.|Hi
 Aeschin. In Tim. |κατηγορούντων|κατηγόρων|Blass|n.d.|P. Halle 6|Editor's details from Grenfell.
 Anth. Pal. 9. 588|ἐπωμίδας|βραχείονας|Johann Pierson|n.d.|P.Tebt.3|Editor's details from Grenfell.
 Anth. Pal. v. 217|γλυκεροὺς/γλυκεράς|Γλυκέρας|Scaliger|n.d.|P.Oxy.II.211|Conjecture in epigram verified by discovery of fr.
+Ap. Rhod. 263|-σι νέεσθαι/νέεσθε|-σιν ἕλεσθε|Brunck|n.d.|P.Oxy.V.874|Editor's details from Grenfell's article.
+Ap. Rhod. 745|ναῦται εἰς Ἑλίκην|ναυτίλοι εἰς Ἑλίκην|Porson|n.d.|P.Oxy.IV.690|Editor's details from Grenfell's article.
+Ap. Rhod. 909|κατὰ|μετὰ|Stephanus|n.d.|P.Oxy.IV.691|Editor's details from Grenfell's article.
 Ap. Rhod. Argon. 3. 263|φημοσύνηισινέεσθαι L/εφημοσύνῃσιν εεσθε G|εφ]ημοσυνηι[σι]ν ελεσ[θε|Brunck|n.d.|P.Oxy.VI.874|Pap. uncertain but letters only agree with Brunck not MSS.
 Ar. Ach. 912|τί δαὶ κακὸν παθών|τί δὲ κακὸν παθών|Bentley|n.d.|*Berl. klass. Texte* v.2 p.99|Editor's details from Grenfell's article.
 Ar. Ach. 912|φορούμενος|φερόμενος|Brunck|n.d.|*Berl. klass. Texte* v.2 p.99|Editor's details from Grenfell's article.
@@ -47,8 +47,8 @@ Ar. Ach. 917|θρυαλλίδας|θρυαλλίδα|Elmsley|n.d.|*Berl. klass. 
 Ar. Av. 1069|om.|πάνθ'|Ludolph Dissen|n.d.|P.Louvre ed. Weil = Austin 42|Weil *Revue de Philologie* xiii. 179 (1882)
 Ar. Av. 1080|πᾶσι|om.|Triclinius|s.xiv in.|P.Louvre ed. Weil = Austin 42|Weil *Revue de Philologie* xiii. 179 (1882)
 Ar. Eq. 1017|ἐκέλευσ'|ἐκελευ'|Blaydes|n.d.|P.Oxy.XI.1373|Editor's details from Grenfell's article.
-Ar. V. 576|γράψομαι|γράφομαι|Brunck|n.d.|P.Oxy.XI.1374|Editor's details from Grenfell's article.
-Ar. V. 790|ἐπέθηκε|ἐνέθηκε|Bergk|n.d.|P.Oxy.XI.1374|Editor's details from Grenfell's article.
+Ar. Vesp. 576|γράψομαι|γράφομαι|Brunck|n.d.|P.Oxy.XI.1374|Editor's details from Grenfell's article.
+Ar. Vesp. 790|ἐπέθηκε|ἐνέθηκε|Bergk|n.d.|P.Oxy.XI.1374|Editor's details from Grenfell's article.
 Arat. Phaen.  736|ἰοῦσα|ἄγουσα|Buttman|n.d.|*Berl. klass. Texte* v.1 p.47|Editor's details from Grenfell's article.
 Arat. Phaen.  750|ἐμπλήσει|ἐμπλήσσει|Voss|n.d.|*Berl. klass. Texte* v.1 p.47|Editor's details from Grenfell's article.
 Arat. Phaen.  870|φαίνονται|φαίνωνται|Voss|n.d.|*Berl. klass. Texte* v.1 p.47|Editor's details from Grenfell's article.
@@ -63,18 +63,18 @@ Bacchyl. 53|μ[ε κουρ]α|με νυμ[φα|Jurenka|n.d.|P.Oxy.VII.1091|
 Bacchyl. 62|κόσμον Βαθείας| κόσμον ἐκ βαθείας|Blass|n.d.|P.Oxy.VIII.1091|
 Bacchyl. 62-63|l.62 δικὼν θράσει σῶμα πατρὸς [ἐ]ς δόμους|l.63 δικὼν θράσει σῶμα πατρὸς [ἐ]ς δόμους|Blass|n.d.|P.Oxy.VIII.1091|End of l.62 is actually l.63.
 Chariton ii. 3| ψόφου δέ ποθεν αἰσθομένη|ψόφου δὲ ποδῶν αἰσθομένη|D'Orville|n.d.|P.Oxy.VII.1019|Editor's details from Grenfell.
-D. De fals. leg. 280|καὶ|om.|Dobree|n.d.O|P.Oxy.VIII.1094|Editor's details from Grenfell.
-D. Ep. 3. 22|ἀγνώμοσι|ἀγνῶσι|Dobree|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
-D. Ep. 3. 22|ἠδικεῖσθε/ἀδικεῖσθαι|ἀδικοῖσθε|Sauppe|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
-D. Ep. 3. 25|οὐδεὶς ἂν|οὐδεὶς|Sauppe|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
-D. Ep. 3. 27|τὴν|τιν'|Blass|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
-D. Ep. 3. 28|δὲ|δ'ἐν|Reiske|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
-D. Ep. 3. 30|πατρώιος|πατρίους|Wolf|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
-D. Ep. 3. 30|γενήσεσθαι|γενέσθαι|Fuhr|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
-D. Ep. 3. 31|Εὔδικον/Εὔδημον|Εὐθύδικον|Blass|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
-D. Ep. 3. 38|om.|ἐὰν|Bekker|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
-D. Ep. 3. 9|τὸ ὅσον|ὅσον|Blass|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
-D. Prooem. 26|κοιῶς|κοινῶν|Wolf|1812|P.Oxy.I.26|
+Dem. De fals. leg. 280|καὶ|om.|Dobree|n.d.O|P.Oxy.VIII.1094|Editor's details from Grenfell.
+Dem. Ep. 3. 22|ἀγνώμοσι|ἀγνῶσι|Dobree|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
+Dem. Ep. 3. 22|ἠδικεῖσθε/ἀδικεῖσθαι|ἀδικοῖσθε|Sauppe|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
+Dem. Ep. 3. 25|οὐδεὶς ἂν|οὐδεὶς|Sauppe|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
+Dem. Ep. 3. 27|τὴν|τιν'|Blass|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
+Dem. Ep. 3. 28|δὲ|δ'ἐν|Reiske|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
+Dem. Ep. 3. 30|πατρώιος|πατρίους|Wolf|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
+Dem. Ep. 3. 30|γενήσεσθαι|γενέσθαι|Fuhr|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
+Dem. Ep. 3. 31|Εὔδικον/Εὔδημον|Εὐθύδικον|Blass|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
+Dem. Ep. 3. 38|om.|ἐὰν|Bekker|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
+Dem. Ep. 3. 9|τὸ ὅσον|ὅσον|Blass|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
+Dem. Prooem. 26|κοιῶς|κοινῶν|Wolf|1812|P.Oxy.I.26|
 Eur. IT. 1618|τήνδε|τῆσδε|Bothe|n.d.|P.Hibeh 24|Editor's details from Grenfell's article.
 Eur. IT. 252|καὶ τυχόντες|κἀντυχόντες|Reiske|n.d.|P.Hibeh 24|Editor's details from Grenfell's article.
 Eur. Ph.  1040|ἰαζὰ|ἀχᾷ|S. Musgrave|1778|P.Oxy.II.224|Musgrave conjectured ἀχὰ
@@ -114,7 +114,6 @@ Pind. Pae. 9. 1|ἐμῆς θεῶ μ'ἄτερ|μήσεαι ὦ μᾶτερ|Bla
 Pind. Pae. 9. 4|ἰσχὺν πτανὸν (ἀν)δράσιν|ἰσχύν τ'ἀνδράσι(ν)|Blass|n.d.|P.Oxy.V.841|
 Pl. Phd. 82 E|τῳ δεδέσθαι|τοῦ δεδέσθαι|Heindorf|1810|P.Lond.Lit.145 = Pap.488|
 Pl. Phdr. 228b|πάνυ τις|πάνυ τι|Schanz|n.d.|P.Oxy.VII.1016|Editor's details from Grenfell.
-Pl. Phdr. 230C|οὐ δέ γε/σὺ οὐ| σύ δέ γε|Editors|n.d.|P.Oxy.VII.1016|Editor's details from P.Oxy.VII.
 Pl. Phdr. 239a|τῶν|τοῖς|Heindorf|n.d.|P.Oxy.VII.1017|Editor's details from Grenfell.
 Pl. Phdr. 251a|δεδίει/δεδιείη|ἐδεδίει|Cobet|n.d.|P.Oxy.VII.1017|Editor's details from Grenfell.
 Pl. Phdr. 356c|ἴσαι|αἱ ἴσαι|Heindorf|n.d.|P.Oxy.VII.1016|Confirmed by 1st hand but rejected by corrector; editor's details are from Grenfell.

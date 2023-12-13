@@ -18,10 +18,11 @@ PREFACE = """# Database of Greek and Latin Conjectural Emendations Attested in M
 </details>
 
 &nbsp;  
-This database is searchable at the [repo](https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv).
+See also James Zetzel's [Textual Criticism and the Transmission of Latin Texts](./zetzel.md).
+
+This database is searchable as a [CSV file](https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv).
 
 &nbsp;  
-Zetzel's guide to textual criticism is available [here](./zetzel.md).
 
 """
 
