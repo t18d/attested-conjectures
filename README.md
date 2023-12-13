@@ -58,8 +58,11 @@ Arist. Rh. Al|τὸν τρόπον τοῦτον|τοῦτον τὸν τρόπ�
 Arist. Rh. Al|διέλωμεν|διέλθωμεν|Spengel|n.d.|P. Hibeh 26|Details from Grenfell.
 Arist. Rh. Al|νόμος|ὁ νόμος|Spengel|n.d.|P. Hibeh 26|Details from Grenfell.
 Arist. Rh. Al|περιττῶς|τριττῶς|Spengel|n.d.|P. Hibeh 26|Details from Grenfell.
+Bacchyl. 53|μ[ε κουρ]α|με νυμ[φα|Jurenka|n.d.|P.Oxy.VII.1091|
+Bacchyl. 62|κόσμον Βαθείας| κόσμον ἐκ βαθείας|Blass|n.d.|P.Oxy.VIII.1091|
+Bacchyl. 62-63|l.62 δικὼν θράσει σῶμα πατρὸς [ἐ]ς δόμους|l.63 δικὼν θράσει σῶμα πατρὸς [ἐ]ς δόμους|Blass|n.d.|P.Oxy.VIII.1091|End of l.62 is actually l.63.
 Chariton ii. 3| ψόφου δέ ποθεν αἰσθομένη|ψόφου δὲ ποδῶν αἰσθομένη|D'Orville|n.d.|P.Oxy.VII.1019|Editor's details from Grenfell.
-D. De fals.  leg.  280|καὶ|om.|Dobree|n.d.O|P.Oxy.VIII.1094|Editor's details from Grenfell.
+D. De fals. leg. 280|καὶ|om.|Dobree|n.d.O|P.Oxy.VIII.1094|Editor's details from Grenfell.
 D. Ep. 3. 22|ἀγνώμοσι|ἀγνῶσι|Dobree|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
 D. Ep. 3. 22|ἠδικεῖσθε/ἀδικεῖσθαι|ἀδικοῖσθε|Sauppe|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
 D. Ep. 3. 25|οὐδεὶς ἂν|οὐδεὶς|Sauppe|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
@@ -102,7 +105,10 @@ Opp. H. 15. 165|Βάκχοιο|Γλαύκοιο|Falkenburg|n.d.|See Grenfell p.2
 Opp. H. 15. 165|μαχητάς|μαχηταῖς|Köchly|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
 Opp. H. 15. 87|οἰνηθέντες|οἰνωθεντες|Graefe|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
 Orac. Sib.  516-517|516 before 517|517 before 516|Geffcken|n.d.|P.Flor.398|Editor's details from Grenfell.
+P. Brit. Mus. 214. 20||ἔ]νγραφα|Wilcken|n.d.|P.Oxy.VIII.1121|See Wilcken *Archiv* i. 154.
 P. Brit. Mus. 256 recto (e) l. 10|χειρογραφίαν|ἀποχήν|Wilcken|n.d.|P.Oxy.VII.1024|Confirms restoration of ἀποχήν "in place of" χειρογραφίαν; Wilcken *Archiv* iii. pp. 236-7.
+P. Oxy. III. 579||Θοή[ριδος|Grenfell & Hunt|1903|P.Oxy.VIII.1118|Reading Θοή[ριδος confirmed by τῆς καὶ Θοήριδος l. 5
+P. Tebt. 286. 15|om.|ἱερεύς|Hunt|n.d.|P.Oxy.VIII.1092|Restoration of ἱερεύς.
 Pind. Pae. 9. 1|ἐμῆς θεῶ μ'ἄτερ|μήσεαι ὦ μᾶτερ|Blass|n.d.|P.Oxy.V.841|Confirmed by metre; Bergk's ἐμήσαο also possible.
 Pind. Pae. 9. 4|ἰσχὺν πτανὸν (ἀν)δράσιν|ἰσχύν τ'ἀνδράσι(ν)|Blass|n.d.|P.Oxy.V.841|
 Pl. Phd. 82 E|τῳ δεδέσθαι|τοῦ δεδέσθαι|Heindorf|1810|P.Lond.Lit.145 = Pap.488|
