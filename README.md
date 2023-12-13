@@ -15,10 +15,11 @@
 </details>
 
 &nbsp;  
-This database is searchable at the [repo](https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv).
+See also James Zetzel's [Textual Criticism and the Transmission of Latin Texts](./zetzel.md).
+
+This database is searchable as a [CSV file](https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv).
 
 &nbsp;  
-Zetzel's guide to textual criticism is available [here](./zetzel.md).
 
 Ref.|Paradosis|Conjecture|Author|Year|Attested Place|Rem.
 ---|---|---|---|---|---|---
