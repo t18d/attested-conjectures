@@ -114,7 +114,7 @@ Giuseppe Billanovich, “Petrarch and the Textual Tradition of Livy”  *Journal
           
 ---, “Dall’antica Ravenna alle bibliotheche umanistiche”  *Aevum*  30 (1956) 319-53
           
-W. Clausen, ed.,  *A. Persi Flacci *  *Saturarum liber*  (1956) 
+W. Clausen, ed.,  *A. Persi Flacci Saturarum liber*  (1956) 
           
 E. Courtney, “The Transmission of Juvenal’s Text,”  *BICS*  14 (1967) 38-50
           
@@ -232,7 +232,7 @@ c) Abbreviations.
           
 A. Cappelli,  *Lexicon abbreviaturarum : dizionario di abbreviature latine ed italiane usate nelle carte e codici specialmente del Medio-Evo, riprodotte con oltre 14000 segni incisi, con l'aggiunta di uno studio sulla brachigrafia medioevale, un prontuario di sigle epigrafiche, l'antica numerazione romana ed arabica ed i segni indicanti monete, pesi, misure, etc.*  (ed. 6, 1990; many editions with various titles in several languages)
           
-W. M. Lindsay,  *Notae latinae : an account of abbreviation in Latin Mss. of the early minuscule period (c. 700-850) * (1915)
+W. M. Lindsay,  *Notae latinae : an account of abbreviation in Latin Mss. of the early minuscule period (c. 700-850)* (1915)
           
 L. Traube,  *Nomina sacra, versuch einer geschichte der christlichen kürzung*  (1907)
         
