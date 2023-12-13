@@ -1,7 +1,10 @@
 # Textual Criticism and the Transmission of Latin Texts
       
-James Zetzel, Columbia University (zetzel@columbia.edu)
-      
+James Zetzel, Columbia University (zetzel@columbia.edu)  
+
+© 2022. This work is openly [licensed](https://github.com/cnx-user-books/cnxbook-tools-of-the-trade-bibliographies-for-roman-studies) via [CC BY 3.0 DEED](https://creativecommons.org/licenses/by/3.0/).
+
+&nbsp;        
 This guide concerns both a very precise subject (textual criticism) and a very broad one (transmission of texts). The broader question can lead into the history of scripts and of manuscript collections and into European intellectual history from antiquity to the present, depending on how you define the subject. What follows falls into three sections, moving from the particular to the general, and becoming less thorough and less expert at every step. The basic rule, however, is simple: if you want to know about ancient (particularly) Latin texts and how to treat them, find some scholars whose approach you admire and read their work. The lists below include some of the scholars I admire and have learned from, but it is both opinionated and by no means exhaustive; you are likely to think of others. Suggestions for additions to this list are always welcome.
       
 Before you delve into the detailed bibliographies below, there is one book you should read first:
