@@ -102,10 +102,12 @@ Opp. H. 15. 165|Βάκχοιο|Γλαύκοιο|Falkenburg|n.d.|See Grenfell p.2
 Opp. H. 15. 165|μαχητάς|μαχηταῖς|Köchly|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
 Opp. H. 15. 87|οἰνηθέντες|οἰνωθεντες|Graefe|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
 Orac. Sib.  516-517|516 before 517|517 before 516|Geffcken|n.d.|P.Flor.398|Editor's details from Grenfell.
+P. Brit. Mus. 256 recto (e) l. 10|χειρογραφίαν|ἀποχήν|Wilcken|n.d.|P.Oxy.VII.1024|Confirms restoration of ἀποχήν "in place of" χειρογραφίαν; Wilcken *Archiv* iii. pp. 236-7.
 Pind. Pae. 9. 1|ἐμῆς θεῶ μ'ἄτερ|μήσεαι ὦ μᾶτερ|Blass|n.d.|P.Oxy.V.841|Confirmed by metre; Bergk's ἐμήσαο also possible.
 Pind. Pae. 9. 4|ἰσχὺν πτανὸν (ἀν)δράσιν|ἰσχύν τ'ἀνδράσι(ν)|Blass|n.d.|P.Oxy.V.841|
 Pl. Phd. 82 E|τῳ δεδέσθαι|τοῦ δεδέσθαι|Heindorf|1810|P.Lond.Lit.145 = Pap.488|
 Pl. Phdr. 228b|πάνυ τις|πάνυ τι|Schanz|n.d.|P.Oxy.VII.1016|Editor's details from Grenfell.
+Pl. Phdr. 230C|οὐ δέ γε/σὺ οὐ| σύ δέ γε|Editors|n.d.|P.Oxy.VII.1016|Editor's details from P.Oxy.VII.
 Pl. Phdr. 239a|τῶν|τοῖς|Heindorf|n.d.|P.Oxy.VII.1017|Editor's details from Grenfell.
 Pl. Phdr. 251a|δεδίει/δεδιείη|ἐδεδίει|Cobet|n.d.|P.Oxy.VII.1017|Editor's details from Grenfell.
 Pl. Phdr. 356c|ἴσαι|αἱ ἴσαι|Heindorf|n.d.|P.Oxy.VII.1016|Confirmed by 1st hand but rejected by corrector; editor's details are from Grenfell.
