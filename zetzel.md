@@ -25,7 +25,7 @@ Like many international treaties, however, it is frequently ignored and the conv
           
 Fuller than the chapter of  *Scribes and Scholars* , the most straightforward explanation of how to write and read an apparatus, and a good account of how textual criticism works, is:
           
-M. L. West,  *Textual Criticism * and * Editorial Technique*  (1973)
+M. L. West,  *Textual Criticism* and *Editorial Technique*  (1973)
           
 West’s is a relatively user-friendly version of the classic exposition of the editorial theory generally known as the Method of Lachmann (on which see further below). The theory itself is set out in terse, elegant, and abstract form in a very brief masterpiece:
           
@@ -87,13 +87,13 @@ G. Pasquali,  *Storia della tradizione e critica del testo*  (ed. 2, 1962)
           
 Some other recent works dealing with more than a single author include:
           
-G. Cavallo et al.,  *Lo *  *Spazio*  **  *letterario*  * di Roma antica*  (1989--)
+G. Cavallo et al.,  *Lo Spazioletterario di Roma antica*  (1989--)
           
 O. Pecere, ed.,  *Itinerari dei testi antichi*  (1991)
           
 O. Pecere and M. Reeve, eds.,  *Formative stages of classical traditions : Latin texts from antiquity to the Renaissance*  (1995)
           
-C. Questa and R. Raffaelli, eds.,  *Il*  **  *Libro*  * e *  *il*  **  *testo*  (1984)
+C. Questa and R. Raffaelli, eds.,  *Il Libro e il testo*  (1984)
         
         
 ### 3. Great editions and works of practical criticism
@@ -138,9 +138,9 @@ K. Lachmann, ed.,  *T. Lucreti Cari De rerum natura libri sex*  (1851)
           
 F. Leo, ed.  *L. Annaei Senecae Tragoediae*  (1878-79)
           
-J. N. Madvig, ed.,  *M. Tulli Ciceronis De Finibus Bonorum et Malorum Libri V * (1876)
+J. N. Madvig, ed.,  *M. Tulli Ciceronis De Finibus Bonorum et Malorum Libri Vs* (1876)
           
-K. Mueller, ed.,  *Quintus Curtius Rufus:*  **  *Historiarum Alexandri Magni Macedonis libri qui supersunt*  (1954) 
+K. Mueller, ed.,  *Quintus Curtius Rufus: Historiarum Alexandri Magni Macedonis libri qui supersunt*  (1954) 
           
 L. D. Reynolds,  *The Medieval Tradition of Seneca’s Letters*  (1965)
           
