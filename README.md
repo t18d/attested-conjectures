@@ -15,7 +15,7 @@
 </details>
 
 &nbsp;  
-This database is searchable at the [repo](./attested-conjectures.csv).
+This database is searchable at the [repo](https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv).
 
 &nbsp;  
 
