@@ -1,7 +1,6 @@
 import csv
 # preface must be edited here for changes to stick
-PREFACE = """# attested-conjectures
-A Database of Greek and Latin Conjectural Emendations Attested in MSS
+PREFACE = """# Database of Greek and Latin Conjectural Emendations Attested in MSS
 
 <details>
     <summary>Bibliography</summary>
@@ -16,6 +15,11 @@ A Database of Greek and Latin Conjectural Emendations Attested in MSS
         <li>Grenfell, B. P. ‘The Value of Papyri for the Textual Criticism of Extant Greek Authors.’ <em>The Journal of Hellenic Studies</em> 39 (1919): 16-36.</li>
     </ul>
 </details>
+
+&nbsp;  
+This database is searchable at the [repo](https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv).
+
+&nbsp;  
 
 """
 
