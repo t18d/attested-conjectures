@@ -19,22 +19,24 @@ This database is searchable at the [repo](https://github.com/t18d/attested-conje
 
 &nbsp;  
 
+Zetzel's guide to textual criticism is available [here](./zetzel.md)
+
 Ref.|Paradosis|Conjecture|Author|Year|Attested Place|Rem.
 ---|---|---|---|---|---|---
 Simon. fr.25|χεέτω|χείτω|M. L. West|1989|P.Oxy.LXXXI.5261|Accented χέιτω on papyrus.
-Plb. 28.2.4|om.|cυνεχωρηcεν|F. Hultsch|1889|P.Oxy.LXXXI.5267|Papyrus reads c]υνεχωρηc[ε; Hultsch supplies verb (omitted in MSS).
-Plu. Caes. 45.8|ταιc|αις|M. Solanus|1729|P.Oxy.LXXXI.5270|
-Opp.C.4.208|ἐρυccάμενοι|ερειcάμεν[οι|J. Pierson|1752|P.Oxy.LXXXI.5278|
+Plb. 28.2.4|om.|cυνεχωρηcεν|Friedrich Otto Hultsch|1889|P.Oxy.LXXXI.5267|Papyrus reads c]υνεχωρηc[ε; Hultsch supplies verb (omitted in MSS).
+Plu. Caes. 45.8|ταιc|αις|Moses Solanus|1729|P.Oxy.LXXXI.5270|
+Opp.C.4.208|ἐρυccάμενοι|ερειcάμεν[οι|Johann Pierson|1752|P.Oxy.LXXXI.5278|
 Hes.Sc.15|οὐ γὰρ οἱ|οὐδέ οἱ|Hermann A. T. Köchly|1874|Stud.Pal.I|
 Hes.Sc.432|ἐλθεῖν|ἐλθέμεν|Nauck|1889|Stud.Pal.I|
 Hes.Th.87|αἶψα τε|αἶψά κε|R. Peppmüller|1896|P.Achm.3|
 Hes.Th.93|οἷά τε|τοίη|Guiet|n.d.|P.Achm.3|
 Eur. Ph. 1040|ἰαζὰ|ἀχᾷ|S. Musgrave|1778|P.Oxy.II.224|Musgrave conjectured ἀχὰ
-Eur. Ph. 1040|πόλεως|πόλεος|R.Porson|1824|P.Oxy.II.224|
+Eur. Ph. 1040|πόλεως|πόλεος|Porson|1824|P.Oxy.II.224|
 Eur. Ph. 1132|βίαι|βάθρων|J. W. A. Kirchhoff|n.d.|T.Vindob. inv. G HT 6|
 Ar.Av.1069|om.|πάνθ'|Ludolph Dissen|n.d.|P.Louvre ed. Weil = Austin 42|Weil *Revue de Philologie* xiii. 179 (1882)
 Ar.Av.1080|πᾶσι|om.|Triclinius|s.xiv in.|P.Louvre ed. Weil = Austin 42|Weil *Revue de Philologie* xiii. 179 (1882)
-Hdt.1.116|ἐσήει|ἐσήιε|H. Bekker|1833|P.Münch.II.40 = Pap.graec.mon.89|
+Hdt.1.116|ἐσήει|ἐσήιε|Bekker|1833|P.Münch.II.40 = Pap.graec.mon.89|
 Pl.Phd.82 E|τῳ δεδέσθαι|τοῦ δεδέσθαι|Heindorf|1810|P.Lond.Lit.145 = Pap.488|
 Isoc. Ad Nic. 2|διοικοῖς|διοικῇς|Blass|1891|Papyrus Massiliensis = CPF I.2 17|
 Isoc. Ad Nic. 8|ταῖς μοναρχίαις|τὰς μοναρχίας|Cobet|n.d.|Papyrus Massiliensis = CPF I.2 17|Editor's details from Kenyon's article.
@@ -65,14 +67,14 @@ Opp.H.15.87|οἰνηθέντες|οἰνωθεντες|Graefe|n.d.|See Grenfell
 Opp.H.15.112|ἐλαίης|Ἀθήνης|Köchly|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
 Opp.H.15.165|Βάκχοιο|Γλαύκοιο|Falkenburg|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
 Opp.H.15.165|μαχητάς|μαχηταῖς|Köchly|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
-Anth.Pal.9.588|ἐπωμίδας|βραχείονας|Pierson|n.d.|P.Tebt.3|Editor's details from Grenfell.
-Sibylline Oracles 516-517|516 before 517|517 before 516|Geffcken|n.d.|P.Flor.398|Editor's details from Grenfell.
-Hdt.2.175|οἱ|οἷα|Commonly accepted - Grenfell p. 25|n.d.|P.Oxy.VIII.1092|
-Th.4.37|ὅτι|om.|Proposed by several editors - Grenfell p. 26|n.d.|P.Oxy.I.16 + IV.696|
+Anth.Pal.9.588|ἐπωμίδας|βραχείονας|Johann Pierson|n.d.|P.Tebt.3|Editor's details from Grenfell.
+Orac. Sib. 516-517|516 before 517|517 before 516|Geffcken|n.d.|P.Flor.398|Editor's details from Grenfell.
+Hdt.2.175|οἱ|οἷα|Friedrich Ludwig Abresch|s.xviii med.|P.Oxy.VIII.1092|
+Th.4.37|ὅτι|om.|Henrik van Herwerden|s.xix ex.|P.Oxy.I.16 + IV.696|
 Th.7|στρατιὰς|στρατείας|Aemilius Portus|n.d.|P.Oxy.XI.1376|Details from Grenfell.
 Th.7|δὴ|ἤδη|Gertz|n.d.|P.Oxy.XI.1376|Details from Grenfell.
 Th.7|τε|om.|Hude|n.d.|P.Oxy.XI.1376|Details from Grenfell.
-Th.7|ὅπως ἂν ἀπολισθάνοι|ἂν om.|Herwerden|n.d.|P.Oxy.XI.1376|Details from Grenfell.
+Th.7|ὅπως ἂν ἀπολισθάνοι|ἂν om.|Henrik van Herwerden|s.xix ex.|P.Oxy.XI.1376|Details from Grenfell.
 Th.8.10|ἑπτὰ|ἐς ἑπτὰ|Westermann|n.d.|P.Oxy.X.1247|Editor's details from Grenfell.
 Th.11.9|ἡμῖν|ὑμῖν|Hude|n.d.|P.Oxy.VI.853 & P.Oxy.XIII.1621|Editor's details from Grenfell.
 Th.11.6|οὔτω|om.|Madvig|n.d.|P.Oxy.XIII.1621|Editor's details from Grenfell.
@@ -105,16 +107,16 @@ D.Ep.3.28|δὲ|δ'ἐν|Reiske|n.d.|P.Brit.Mus.133|Editor's details from Grenfe
 D.Ep.3.30|πατρώιος|πατρίους|Wolf|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
 D.Ep.3.30|γενήσεσθαι|γενέσθαι|Fuhr|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
 D.Ep.3.38|om.|ἐὰν|Bekker|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
-Aeschin. In Ctesiphontem 20|καὶ τὴν ἐκεῖ σκυθρωπὸν|καὶ τῶν ἐκεῖ σκυθρωπῶν|Lambinus|n.d.|P.Oxy.XIII.1625|Editor's details from Grenfell.
-Aeschin.Ctes.20|ἄγειν|ἄγει|Wolf|n.d.|P.Oxy.XIII.1625|Editor's details from Grenfell. 
-Aeschin.Ctes.20|γέρα|ἱερὰ|Hamaker|n.d.|P.Oxy.XIII.1625|Editor's details from Grenfell.
-Aeschin.Ctes.94|ὁρώντων|ζώντων|Kaibel|n.d.|P.Oxy.IV.703|Editor's details from Grenfell.
-Aeschin.Ctes.167|προσκαθίζεις/προσκαθεστήσῃ|προσκαθιζήσει|Lobeck|n.d.|P.Oxy.III.457|Pap. reads προσκαθ[ιζ]ήσ[ει; editor's details from Grenfell.
-Aeschin. Contra Timarchum|διισχυρίζεσθαι|ἰσχθυρίζεσθαι|Wolf|n.d.|2nd cent. Geneva pap.: Nicole *Textes grecs inéd.* 1|Editor's details from Grenfell.
-Aeschin. Contra Timarchum|ἐξαιτήσεται|ἐξαιρήσεται|Blass|n.d.|2nd cent. Geneva pap.: Nicole *Textes grecs inéd.* 1|Editor's details from Grenfell.
-Aeschin. Contra Timarchum|τοὺς νόμους μὲν|τὸυς μὲν νόμους|Cobet|n.d.|2nd cent. Geneva pap.: Nicole *Textes grecs inéd.* 1 & P. Halle 6|Editor's details from Grenfell.
-Aeschin. Contra Timarchum|ἐπὶ πᾶσι τοῖς δικαίοις|τοῖς om.|Hillebrand|n.d.|2nd cent. Geneva pap.: Nicole *Textes grecs inéd.* 1 & P. Halle 6|Editor's details from Grenfell.
-Aeschin. Contra Timarchum|κατηγορούντων|κατηγόρων|Blass|n.d.|P. Halle 6|Editor's details from Grenfell.
+Aeschin. In Ctes. 20|καὶ τὴν ἐκεῖ σκυθρωπὸν|καὶ τῶν ἐκεῖ σκυθρωπῶν|Lambinus|n.d.|P.Oxy.XIII.1625|Editor's details from Grenfell.
+Aeschin. In Ctes. 20|ἄγειν|ἄγει|Wolf|n.d.|P.Oxy.XIII.1625|Editor's details from Grenfell. 
+Aeschin. In Ctes. 20|γέρα|ἱερὰ|Hamaker|n.d.|P.Oxy.XIII.1625|Editor's details from Grenfell.
+Aeschin. In Ctes. 94|ὁρώντων|ζώντων|Kaibel|n.d.|P.Oxy.IV.703|Editor's details from Grenfell.
+Aeschin. In Ctes. 167|προσκαθίζεις/προσκαθεστήσῃ|προσκαθιζήσει|Lobeck|n.d.|P.Oxy.III.457|Pap. reads προσκαθ[ιζ]ήσ[ει; editor's details from Grenfell.
+Aeschin. In Tim.|διισχυρίζεσθαι|ἰσχθυρίζεσθαι|Wolf|n.d.|2nd cent. Geneva pap.: Nicole *Textes grecs inéd.* 1|Editor's details from Grenfell.
+Aeschin. In Tim.|ἐξαιτήσεται|ἐξαιρήσεται|Blass|n.d.|2nd cent. Geneva pap.: Nicole *Textes grecs inéd.* 1|Editor's details from Grenfell.
+Aeschin. In Tim.|τοὺς νόμους μὲν|τὸυς μὲν νόμους|Cobet|n.d.|2nd cent. Geneva pap.: Nicole *Textes grecs inéd.* 1 & P. Halle 6|Editor's details from Grenfell.
+Aeschin. In Tim.|ἐπὶ πᾶσι τοῖς δικαίοις|τοῖς om.|Hillebrand|n.d.|2nd cent. Geneva pap.: Nicole *Textes grecs inéd.* 1 & P. Halle 6|Editor's details from Grenfell.
+Aeschin. In Tim.|κατηγορούντων|κατηγόρων|Blass|n.d.|P. Halle 6|Editor's details from Grenfell.
 Plb.11.15.7|τέλος|θέρος|Causabon|n.d.|Arch. f. Papyrusf. i. 388 + P. Ryl. 60|Editor's details from Grenfell.
 Plb.11.16.3|om.|γὰρ|Causabon|n.d.|Arch. f. Papyrusf. i. 388 + P. Ryl. 60|Editor's details from Grenfell.
 Plb.11.16.5-6|προειρημένον|τὸ προειρημένον|Causabon|n.d.|Arch. f. Papyrusf. i. 388 + P. Ryl. 60|Editor's details from Grenfell.
@@ -127,22 +129,20 @@ Plb.11.15.5|ὡρακίτας|θωρακίτας|Ursinus|n.d.|Arch. f. Papyrusf.
 Plb.11.16.1|ὑπάγειν|ἐπάγειν|Arcesius|n.d.|Arch. f. Papyrusf. i. 388 + P. Ryl. 60|Editor's details from Grenfell.
 Plb.11.14.2|ἐμπειρίαν|παρὰ τὴν τῶν ἡγουμένων ἐμπειρίαν|Gronovius|n.d.|Arch. f. Papyrusf. i. 388 + P. Ryl. 60|Editor's details from Grenfell.
 Plb.11.|καταβαίνοντες|καταβάσει|Reiske|n.d.|Arch. f. Papyrusf. i. 388 + P. Ryl. 60|Details from Grenfell; pap. adds προσβαίνοντες.
-Chariton Chaereas and Callirhoe ii.3| ψόφου δέ ποθεν αἰσθομένη|ψόφου δὲ ποδῶν αἰσθομένη|D'Orville|n.d.|P.Oxy.VII.1019|Editor's details from Grenfell.
-Ach.Tat. Clitophon and Leucippe 2-9|τότε γὰρ τὸν Διόνυσον|τότε τὸν γὰρ Διόνυσον|Jacobs|n.d.|P.Oxy.X.1250|Details from Grenfell.
-Ach.Tat. Clitophon and Leucippe 2-9|προσέθιγεν|προσέθηκεν|Boden|n.d.|P.Oxy.X.1250|Details from Grenfell.
+Chariton ii.3| ψόφου δέ ποθεν αἰσθομένη|ψόφου δὲ ποδῶν αἰσθομένη|D'Orville|n.d.|P.Oxy.VII.1019|Editor's details from Grenfell.
+Ach.Tat. Leuc. 2-9|τότε γὰρ τὸν Διόνυσον|τότε τὸν γὰρ Διόνυσον|Jacobs|n.d.|P.Oxy.X.1250|Details from Grenfell.
+Ach.Tat. Leuc. 2-9|προσέθιγεν|προσέθηκεν|Boden|n.d.|P.Oxy.X.1250|Details from Grenfell.
 Sor. Gynaecia 2-3|Ἀθηναίων|Ἀθηνίων|Wellmann|n.d.|P. Soc. Ital. 117|Details from Grenfell.
 Sor. Gynaecia 2-3|ἐν τῷ α καὶ γ τῆς αἱρέσεως|ἐν τῷ α καὶ γ τῶν περὶ τῆς αἱρέσεως|Rose|n.d.|P. Soc. Ital. 117|Details from Grenfell.
 Sor. Gynaecia 2-3|καὶ Ζήνωνα καὶ Ἀριστοτέλην τὸν Ἐπικούριον|καὶ Ἀριστοτέλην καὶ Ζήνωνα τὸν Ἐπικούριον|Ermerins|n.d.|P. Soc. Ital. 117|Details from Grenfell.
 Anth.Pal.v. 217|γλυκεροὺς/γλυκεράς|Γλυκέρας|Scaliger|n.d.|P.Oxy.II.211|Conjecture in epigram verified by discovery of fr.
 Poet.Lyr.i. p. 4|τὴν ογ΄ Ὀλυμπιάδα|τὴν ος΄ Ὀλυμπιάδα|Bergk|n.d.|P.Oxy.II.222|
-Pind.O. scholia|Olympian and Pythian victories of Epharmostus occured in 73rd Olympiad and the Pythian in the 30th Pythiad|emended to 78th Olympiad|G. Hermann|n.d.|P.Oxy.II.222|
 Hom.Il.6.493|πᾶσιν ἐμοὶ δ[ε μάλιστα τοὶ Ἰλίῳ|πασι μαλιστα δ εμοι τοι Ιλιωι|Hoffman & Bekker|n.d.|P.Oxy.III.445|Pap. preserves digamma before Ιλιωι
-Eust.1833.58|νῦν|νυνί|Grotius|n.d.|P.Oxy.III.409|Pap. is long fr. of Men. Kolax.
+Men. Kol. 49-50|νῦν|νυνί|Grotius|s.xvii in.|P.Oxy.III.409|Eust.1833.58.; emend. apud Clericum
 Hom.Il.5.667|ἀμφιέποντες|αμ]φις ἐποιτ[ες|Brandreth|n.d.|P.Oxy.IV.759|
 Logia Iesou 1.7-8|θαυμάσας|θαμβηβεὶς|Zahn|n.d.|P.Oxy.IV.654|Zahn: *Gesch. d. NT. Kan.* ii. p. 657; Zahn's conjecture is that a. θαμβηβεὶς b. that θαμβηβεὶς is a mistranslation of a Hebrew/Aramaic word also meaning θορυβηθείς and thus συντετριμμένης would be the right term; howver θαμβηθείς appears in the pap. and so this further conjecture is disproved.
 Pl.Smp.222D|διαβάλῃ|διαβαλει|Hirschig|n.d.|P.Oxy.V.843|
-Pl.Smp.209B|ἐπιθυμεῖ|επιθυμη|Stephanus|n.d.|P.Oxy.V.843
-Isoc. Panegyricus 68|om. γε|ελαττω γε|Cobet|n.d.|P.Oxy.V.844
+Pl.Smp.209B|ἐπιθυμεῖ|επιθυμη|Stephanus|n.d.|P.Oxy.V.843|
+Isoc. Panegyricus 68|om. γε|ελαττω γε|Cobet|n.d.|P.Oxy.V.844|
 Pind.Pae.9.1|ἐμῆς θεῶ μ'ἄτερ|μήσεαι ὦ μᾶτερ|Blass|n.d.|P.Oxy.V.841|Confirmed by metre; Bergk's ἐμήσαο also possible.
-Pind.Pae.6.5|χωρῳ|χρόνῳ|Traditional reading accepted by Keil and Schroeder|n.d.|P.Oxy.V.841|
-Pind.Pae.9.4|ἰσχὺν πτανὸν (ἀν)δράσιν|ἰσχύν τ'ἀνδράσι(ν)|Blass|n.d.|P.Oxy.V.841
+Pind.Pae.9.4|ἰσχὺν πτανὸν (ἀν)δράσιν|ἰσχύν τ'ἀνδράσι(ν)|Blass|n.d.|P.Oxy.V.841|

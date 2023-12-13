@@ -1,0 +1,199 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Textual Criticism &amp; Textual Transmission</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35176</md:content-id>
+  <md:title>Textual Criticism &amp; Textual Transmission</md:title>
+  <md:abstract>A bibliography composed with the needs of graduate students in mind.</md:abstract>
+  <md:uuid>1a45b9c8-9fbb-453a-b161-3861c63db0f5</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1167129450644">
+      <title>Textual Criticism and the Transmission of Latin Texts</title>
+      <para id="id1167128177404">James Zetzel, Columbia University (zetzel@columbia.edu)</para>
+      <para id="id1167139509593">This guide concerns both a very precise subject (textual criticism) and a very broad one (transmission of texts). The broader question can lead into the history of scripts and of manuscript collections and into European intellectual history from antiquity to the present, depending on how you define the subject. What follows falls into three sections, moving from the particular to the general, and becoming less thorough and less expert at every step. The basic rule, however, is simple: if you want to know about ancient (particularly) Latin texts and how to treat them, find some scholars whose approach you admire and read their work. The lists below include some of the scholars I admire and have learned from, but it is both opinionated and by no means exhaustive; you are likely to think of others. Suggestions for additions to this list are always welcome.</para>
+      <para id="id1167133773642">Before you delve into the detailed bibliographies below, there is one book you should read first:</para>
+      <para id="id1167138294983">L. D. Reynolds and N. G. Wilson, <emphasis effect="italics">Scribes and Scholars</emphasis> (ed. 3, 1991). </para>
+      <para id="id1167129181381">It is a lucid, readable, and accurate account of how ancient texts, both Greek and Roman, got from antiquity to Now, followed by a clear and brief explanation of textual criticism. For many purposes, you need go no further. But if you want or need more, read on.</para>
+      <section id="id6781810">
+        <title>I. I am using a critical edition and need to learn what the hen-tracks at the foot of the page mean—and why it matters.</title>
+        <section id="id1167136280714">
+          <title>1. Textual criticism: theory and practice</title>
+          <para id="id1167126510427">A critical apparatus is meant to explain to the reader what words in the text are preserved in what manuscripts (generally identified with capital Roman letters in modern editions) or groups of manuscripts (generally identified with lower-case Greek letters or occasionally lower-case Roman letters), and what words in the text are modern (broadly defined) corrections. The key to the codes used in the apparatus was set out by an international convention printed as:</para>
+          <para id="id1167126843529"><emphasis effect="italics">Emploi des signes critiques, dispostion de l'apparat dans les éditions savantes de textes grecs et latins, conseils et recommandations</emphasis>. Union Académique Internationale. Paris, 1932</para>
+          <para id="id1167125393220">Like many international treaties, however, it is frequently ignored and the conventions for editing texts preserved in different media (manuscript, papyrus, inscription) remain quite different from one another. Not to mention the fact that these conventions are fairly recent, and any edition earlier than the 20<sup>th</sup> century is likely to convey information using a different code.</para>
+          <para id="id1167139006723">Fuller than the chapter of <emphasis effect="italics">Scribes and Scholars</emphasis>, the most straightforward explanation of how to write and read an apparatus, and a good account of how textual criticism works, is:</para>
+          <para id="id1167138196898">M. L. West, <emphasis effect="italics">Textual Criticism </emphasis>and<emphasis effect="italics"> Editorial Technique</emphasis> (1973)</para>
+          <para id="id1167127682024">West’s is a relatively user-friendly version of the classic exposition of the editorial theory generally known as the Method of Lachmann (on which see further below). The theory itself is set out in terse, elegant, and abstract form in a very brief masterpiece:</para>
+          <para id="id1167144810580">P. Maas, Textual Criticism, transl. B. Flower (1958)</para>
+          <para id="id1167127424405">Also valuable for judiciousness and lucidity is:</para>
+          <para id="id7574342">R. J. Tarrant, “Classical Latin Literature” in D. Greetham, ed., <emphasis effect="italics">Scholarly Editing: A Guide to Research</emphasis> (1995): 95-148</para>
+          <para id="id1167124436651">You should be aware, however, that the classic theory is not the only theory of textual criticism. For medieval or non-literary texts, the most important theoretical work is:</para>
+          <para id="id1167125276622">H. Kantorowicz, Einführung in die Textkritik. Systematische Darstellung der textkritischen Grundsätze fur Philologen und Juristen (1921)</para>
+          <para id="id1167125039430">Postmodern textual theory, which concentrates on reception rather than reconstruction, is also valuable, even for classicists. Among the most useful works are:</para>
+          <para id="id1167128183224">G. Bornstein and R. Williams, eds., <emphasis effect="italics">Palimpsest : editorial theory in the humanities</emphasis> (1993)</para>
+          <para id="id1167124091108">D. Greetham, <emphasis effect="italics">Theories of the Text</emphasis> (1999)</para>
+          <para id="id1167139916742">J. McGann, <emphasis effect="italics">A Critique of Modern Textual Criticism</emphasis> (ed. 2, 1992)</para>
+          <para id="id1167126578234">---, <emphasis effect="italics">The Textual Condition</emphasis> (1991)</para>
+          <para id="id1167139401120">Other major theoretical works you may encounter include:</para>
+          <para id="id1167128632380">J. Bédier, <emphasis effect="italics">La tradition manuscrite du Lai de l'ombre : réflexions sur l'art d'éditer les anciens textes</emphasis> (1970)</para>
+          <para id="id1167133863911">L. Havet, <emphasis effect="italics">Manuel de critique verbale appliquée aux textes latins</emphasis> (1911)</para>
+          <para id="id1167128218396">H. Quentin, <emphasis effect="italics">Essais de critique textuelle (ecdotique)</emphasis> (1926)</para>
+          <para id="id1167137855276">Textbooks of practical textual criticism are not reliable, but are occasionally useful:</para>
+          <para id="id8580701">J. Willis, <emphasis effect="italics">Latin Textual Criticism</emphasis> (1972). Aside from the fundamental error of equating textual criticism with emendation, the book is entertaining and gives practical exercises in emending texts without assuming (or supplying) any knowledge of their history or manuscripts.</para>
+          <para id="id1167124084514">W. M. Lindsay, <emphasis effect="italics">An Introduction to Latin Textual Emendation, Based on the Text of Plautus</emphasis> (1896). Lindsay’s work (and there is a great deal of it) is rarely exciting, almost always (with the exception of his book on Plautine meter) useful and clear. This book is exactly what it says it is—discussing varieties of correction, largely involving palaeographical errors.</para>
+          <para id="id1167144958091">The one truly great work of this kind for Latin is old, but still well worth reading:</para>
+          <para id="id5166710">J. N. Madvig, <emphasis effect="italics">Adversaria Critica ad scriptores Graecos et Latinos</emphasis> (1871-1884). Madvig is a truly great scholar, often undervalued because he did not go in for the pyrotechnics and polemics of a Bentley or Housman. He is always worth reading.</para>
+        </section>
+        <section id="id1167125258594">
+          <title>2. The History of Texts (Recension)</title>
+          <para id="id1167139169087">Textual criticism is generally divided into two (circularly overlapping) parts: <emphasis effect="italics">recension</emphasis> is the assembly, organization, and assessment of the manuscript (and sometimes other) evidence for the text in question, while <emphasis effect="italics">emendation</emphasis> is the process of judging whether that transmitted text is what the author wrote and attempting to correct the transmitted text on the basis of style, history, grammar, or other criteria. Textual critics who emphasize recension and are wary of emendation are often described as conservative; textual critics who emphasize emendation and pay little attention to the manuscripts and transmission may be described as radical. These descriptions do not in fact map onto the political sensibilities of the critics of various types, and in any case responsible editors are close to the middle of the spectrum, with greater or lesser emphasis on recension or emendation, but making full use of both. Different texts require different approaches: one can not edit Catullus or Propertius conservatively, because the manuscript evidence is so poor; one can not be a radical emender in editing Virgil or Horace, because the manuscript evidence is so good. But even the manuscripts of Propertius and sometimes right, and those of Virgil sometimes wrong. But editors vary widely in their beliefs about the possibility of true conjecture and about the fallibility of the human intellect. A truly radical critic, such as Bentley or Housman or Shackleton Bailey, is supremely confident in his own genius, and believes that he knows Latin better than the scribes (not unreasonable) and better than the author he is editing (less reasonable). A conservative critic can often be too cautious in correcting passages that are obviously corrupt.</para>
+          <para id="id1167135756489">The first place to turn to find out the history of most works of Latin literature is:</para>
+          <para id="id1167144585285">L. D. Reynolds ed., <emphasis effect="italics">Texts and Transmission</emphasis> (1983). A collection of articles of remarkably high quality about the transmission of every major Latin author (and some fairly minor ones).</para>
+          <para id="id1167126777320">Other guides are much less useful and much less complete, e.g.</para>
+          <para id="id1167123864040">F. W. Hall, <emphasis effect="italics">Companion to Classical Texts</emphasis> (1913; now very out of date)</para>
+          <para id="id1167140941390">H. Hunger et al., <emphasis effect="italics">Geschichte der Textüberlieferung der antiken und mittelalterlichen Literatur, I : Antikes und mittelalterliches Buch- und Schriftwesen, Ueberlieferungsgeschichte der antiken Literatur</emphasis> (1961)</para>
+          <para id="id1167133788701">The one great, classic work on the transmission of ancient literature is:</para>
+          <para id="id1167144676566">G. Pasquali, <emphasis effect="italics">Storia della tradizione e critica del testo</emphasis> (ed. 2, 1962)</para>
+          <para id="id2178229">Some other recent works dealing with more than a single author include:</para>
+          <para id="id1167128331030">G. Cavallo et al., <emphasis effect="italics">Lo </emphasis><emphasis effect="italics">Spazio</emphasis><emphasis effect="italics"/><emphasis effect="italics">letterario</emphasis><emphasis effect="italics"> di Roma antica</emphasis> (1989--)</para>
+          <para id="id7532554">O. Pecere, ed., <emphasis effect="italics">Itinerari dei testi antichi</emphasis> (1991)</para>
+          <para id="id1167139374474">O. Pecere and M. Reeve, eds., <emphasis effect="italics">Formative stages of classical traditions : Latin texts from antiquity to the Renaissance</emphasis> (1995)</para>
+          <para id="id1167134293445">C. Questa and R. Raffaelli, eds., <emphasis effect="italics">Il</emphasis><emphasis effect="italics"/><emphasis effect="italics">Libro</emphasis><emphasis effect="italics"> e </emphasis><emphasis effect="italics">il</emphasis><emphasis effect="italics"/><emphasis effect="italics">testo</emphasis> (1984)</para>
+        </section>
+        <section id="id6932966">
+          <title>3. Great editions and works of practical criticism</title>
+          <para id="id1167124533234">When it comes to the history of particular texts, every scholar has his or her own favorites, and most important works are signalled in <emphasis effect="italics">Texts and Transmission</emphasis>. The one work on a non-classical text that is necessary reading is:</para>
+          <para id="id1167135967427">L. Traube, <emphasis effect="italics">Textgeschichte der Regula Benedicti</emphasis> (ed. 2, 1910). If you are seriously interested in textual criticism or the history of texts, start here. In fact, read anything Traube ever wrote. Various essays on the transmission of texts are included in his <emphasis effect="italics">Kleine Schriften</emphasis> (1920). Some of his conclusions have been modified by later research, but no one has ever had a better understanding of the process of transmission. A note on intellectual genealogy: Traube taught, among others, the American scholars E. K. Rand, E. A. Lowe, and C. H. Beeson; most American palaeographers and textual critics of Latin in the twentieth century were taught by them.</para>
+          <para id="id1167136325470">If you really want to learn textual criticism, read the work of good editors and historians of texts. For Latin literature, here are some I admire, listed by scholar, not by ancient text.. There are other outstanding editions; these offer prefaces or comments that illuminate editorial method and textual history. The secondary bibliography offered on a few scholars is very limited, but offers a start.</para>
+          <para id="id4044811">R. Bentley, ed., <emphasis effect="italics">Q. Horatius Flaccus ex recensione &amp; cum notis atque emendationibus Richardi Bentleii</emphasis> (1711)</para>
+          <para id="id1167144750211">---, ed., <emphasis effect="italics">P. Terenti Afri Comoediae</emphasis> (1727)</para>
+          <para id="id1167134969156"> On Bentley, see now K. Haugen, <emphasis effect="italics">Richard Bentley: Scholarship and Criticism in Eighteenth-Century England</emphasis> (Diss. Princeton 2001)</para>
+          <para id="id1167126453410">Giuseppe Billanovich, “Petrarch and the Textual Tradition of Livy” <emphasis effect="italics">Journal of the Warburg and Courtauld Institutes</emphasis> 14 (1951) 137-208</para>
+          <para id="id1167144851898">---, “Dall’antica Ravenna alle bibliotheche umanistiche” <emphasis effect="italics">Aevum</emphasis> 30 (1956) 319-53</para>
+          <para id="id1167136079486">W. Clausen, ed., <emphasis effect="italics">A. Persi Flacci </emphasis><emphasis effect="italics">Saturarum liber</emphasis> (1956) </para>
+          <para id="id1167133931954">E. Courtney, “The Transmission of Juvenal’s Text,” <emphasis effect="italics">BICS</emphasis> 14 (1967) 38-50</para>
+          <para id="id1167137252822">G. P. Goold, “Servius and the Helen Episode,” <emphasis effect="italics">HSCP</emphasis> 74 (1970) 101-68</para>
+          <para id="id1167134326907">H. C. Gotoff, <emphasis effect="italics">The Transmission of the Text of Lucan in the Ninth Century</emphasis> (1971)</para>
+          <para id="id1167130105726">A. E. Housman, ed., <emphasis effect="italics">M. Manilii Astronomicon liber primus[-quintus]</emphasis> (5 vols., 1903-1930)</para>
+          <para id="id1167133811169">---, ed., <emphasis effect="italics">M. Annaei Lucani Belli civilis libri decem</emphasis> (1926)</para>
+          <para id="id1167124075077"> On Housman, see now D. Butterfield and C. Stray, eds., <emphasis effect="italics">A. E. Housman: Classical Scholar</emphasis> (2009) </para>
+          <para id="id1167126369104">O. Jahn, ed., <emphasis effect="italics">Auli Persii Flacci Satirarum Liber</emphasis> (1843)</para>
+          <para id="id7907463">---, “Ueber die Subscriptionen in den Hanschriften römischer Classiker,” <emphasis effect="italics">Berichte d. sächs. Ges. Der Wiss. zu Leipzig</emphasis>, Phil.-Hist. Klasse 3 (1851) 327-72</para>
+          <para id="id1167133121873">K. Lachmann, ed., <emphasis effect="italics">T. Lucreti Cari De rerum natura libri sex</emphasis> (1851)</para>
+          <para id="id1167140856112"> On Lachmann, see S. Timpanaro, <emphasis effect="italics">The Genesis of Lachmann’s Method</emphasis>, tr. G. Most (2005)</para>
+          <para id="id6531951">F. Leo, ed. <emphasis effect="italics">L. Annaei Senecae Tragoediae</emphasis> (1878-79)</para>
+          <para id="id1167144626300">J. N. Madvig, ed., <emphasis effect="italics">M. Tulli Ciceronis De Finibus Bonorum et Malorum Libri V </emphasis>(1876)</para>
+          <para id="id1167124093610">K. Mueller, ed., <emphasis effect="italics">Quintus Curtius Rufus:</emphasis><emphasis effect="italics"/><emphasis effect="italics">Historiarum Alexandri Magni Macedonis libri qui supersunt</emphasis> (1954) </para>
+          <para id="id1167128331510">L. D. Reynolds, <emphasis effect="italics">The Medieval Tradition of Seneca’s Letters</emphasis> (1965)</para>
+          <para id="id1167139889552">O. Ribbeck, ed., <emphasis effect="italics">P. Vergili Maronis opera. Vol 5: Prolegomena critica</emphasis> (1868) </para>
+          <para id="id1167133398986">F. Ritschl, ed., <emphasis effect="italics">T. Macci Plauti Comoediae</emphasis> (1848-54)</para>
+          <para id="id1167133115955">J. J. Scaliger, <emphasis effect="italics">Catulli, Tibulli, Propertii nova editio</emphasis> (1577)</para>
+          <para id="id1167127616392"> On Scaliger as a critic, see A. T. Grafton, <emphasis effect="italics">Joseph Scaliger: A Study in the History of Classical Scholarship</emphasis> Vol. 1 (1983)</para>
+          <para id="id1167142384525">D. R. Shackleton Bailey, ed., <emphasis effect="italics">Cicero’s Letters to Atticus</emphasis> (7 vols., 1965-1970)</para>
+          <para id="id1167129101859">R. J. Tarrant, ed., <emphasis effect="italics">P. Ovidi Nasonis Metamorphoses</emphasis> (2004)</para>
+          <para id="id1167132951717">P. Wessner, ed., <emphasis effect="italics">Scholia in Iuuenalem Vetustiora</emphasis> (1931)</para>
+        </section>
+        <section id="id1167141076682">
+          <title>4. History of textual criticism</title>
+          <para id="id6640686">This section inevitably repeats some previous entries and there is much on the subject in studies (above, #3) of particular texts.</para>
+          <para id="id1167142450837">E. J. Kenney, <emphasis effect="italics">The Classical Text</emphasis> (1974)</para>
+          <para id="id1167140883919">G. Pasquali, <emphasis effect="italics">Storia della tradizione e critica del testo</emphasis> (ed. 2, 1962)</para>
+          <para id="id1167129667989">L. D. Reynolds and N. G. Wilson, <emphasis effect="italics">Scribes and Scholars</emphasis> (ed. 3, 1991)</para>
+          <para id="id1167126891486">S. Timpanaro, <emphasis effect="italics">The Genesis of Lachmann’s Method</emphasis>, tr. G. Most (2005)</para>
+          <para id="id1167139189692">J. Zetzel, <emphasis effect="italics">Latin Textual Criticism in Antiquity</emphasis> (1981)</para>
+        </section>
+      </section>
+      <section id="id1167123896624">
+        <title>II. I have found a reference to a manuscript and need to find out more about it.</title>
+        <section id="id1167142495387">
+          <title>1. Repertories of catalogues and groups of manuscripts</title>
+          <para id="id1167129276981">All manuscript collections have catalogues, but not all catalogues are either a) printed or b) informative. If you want to start serious study of manuscripts of a given author (or of manuscript catalogues that mention a given author), start from broader collections and work your way down to specific libraries.</para>
+          <para id="id1167123862136">G. Becker, <emphasis effect="italics">Catalogi bibliothecarum antiqui</emphasis> (1885)</para>
+          <para id="id1167134550760">B. Bischoff, <emphasis effect="italics">Katalog der festländischen Handschriften des neunten Jahrhunderts: (mit Ausnahme der wisigotischen)</emphasis> (1998-)</para>
+          <para id="id7638947">P. O. Kristeller, <emphasis effect="italics">Iter Italicum; a finding list of uncatalogued or incompletely catalogued humanistic manuscripts of the Renaissance in Italian and other libraries</emphasis>. (1963-97)</para>
+          <para id="id1167133455150">---, <emphasis effect="italics">Latin manuscript books before 1600; a list of the printed catalogues and unpublished inventories of extant collections</emphasis>. (1965)</para>
+          <para id="id1167126990755">P. O. Kristeller et al., <emphasis effect="italics">Catalogus Translationum et Commentariorum</emphasis> (1960--)</para>
+          <para id="id1167132610951">E. A. Lowe, ed., <emphasis effect="italics">Codices latini antiquiores : a palaeographical guide to Latin manuscripts prior to the ninth century</emphasis> (1934-1972)</para>
+          <para id="id1167140736840">B. Munk Olsen, <emphasis effect="italics">L'étude des auteurs classiques latins aux XIe et XIIe siècles</emphasis> (1982-2009)</para>
+        </section>
+        <section id="id1167138213560">
+          <title>2. Palaeography</title>
+          <para id="id1167139226090">The invention of the historical study of script belongs to the Maurist priest Jean Mabillon:</para>
+          <para id="id1167136977511">J. Mabillon, <emphasis effect="italics">De re diplomatica Libri VI</emphasis> (1681)</para>
+          <para id="id7851617">It is a grand book, which includes not only the development of Latin scripts but diplomatics and the historical authentication of documents. The term ‘palaeography’ was invented a few years later by Mabillon’s friend and fellow Maurist Bernard de Montfaucon in his <emphasis effect="italics">Palaeographia Graeca</emphasis>. Mabillon’s account of the history of scripts is no longer valid; Montfaucon’s book is still a good introduction to Greek palaeography.</para>
+          <para id="id8408290">a) textbooks and studies of scripts</para>
+          <para id="id8844384">G. Battelli, <emphasis effect="italics">Lezioni di paleografia</emphasis> (1949)</para>
+          <para id="id1167136772527">B. Bischoff, <emphasis effect="italics">Latin palaeography : antiquity and the Middle Ages</emphasis>, transl. Dáibhí ó Cróinin and David Ganz (1990). There is a more recent edition in German.</para>
+          <para id="id4283851">J. Kirchner, <emphasis effect="italics">Scriptura Latina libraria, a saeculo primo usque ad finem medii aevi, LXXVII imaginibus illustrata</emphasis> (ed. 2, 1970)</para>
+          <para id="id1167138190165">E. A. Lowe, <emphasis effect="italics">The Beneventan Script</emphasis> (ed. 2, 1980)</para>
+          <para id="id1167125192875">J. Mallon, <emphasis effect="italics">Paléographie romaine</emphasis> (1952). Mallon is concerned only with early Roman writing, not the full history of Latin hands.</para>
+          <para id="id3493923">E. M. Thompson, <emphasis effect="italics">An introduction to Greek and Latin palaeography</emphasis> (1912)</para>
+          <para id="id2438501">B. L. Ullman, <emphasis effect="italics">The origin and development of humanistic script</emphasis> (1960)</para>
+          <para id="id1167139393553">
+            <emphasis effect="italics">b) Illustrations of manuscripts of Latin literature. There are many facsimiles of individual important manuscripts. These are collections that allow you to see multiple manuscripts of the same texts.</emphasis>
+          </para>
+          <para id="id1556646">E. Chatelain, <emphasis effect="italics">Paléographie des classiques latins</emphasis> (1884-1900)</para>
+          <para id="id1167138016285">R. Merkelbach and H. van Thiel, <emphasis effect="italics">Lateinisches Leseheft : zur Einführung in Paläographie und Textkritik</emphasis> (1969)</para>
+          <para id="id1167126640660">c) Abbreviations.</para>
+          <para id="id1167125693828">A. Cappelli, <emphasis effect="italics">Lexicon abbreviaturarum : dizionario di abbreviature latine ed italiane usate nelle carte e codici specialmente del Medio-Evo, riprodotte con oltre 14000 segni incisi, con l'aggiunta di uno studio sulla brachigrafia medioevale, un prontuario di sigle epigrafiche, l'antica numerazione romana ed arabica ed i segni indicanti monete, pesi, misure, etc.</emphasis> (ed. 6, 1990; many editions with various titles in several languages)</para>
+          <para id="id1167139157654">W. M. Lindsay, <emphasis effect="italics">Notae latinae : an account of abbreviation in Latin Mss. of the early minuscule period (c. 700-850) </emphasis>(1915)</para>
+          <para id="id1167127664823">L. Traube, <emphasis effect="italics">Nomina sacra, versuch einer geschichte der christlichen kürzung</emphasis> (1907)</para>
+        </section>
+        <section id="id1167140761122">
+          <title>3. History of Palaeography</title>
+          <para id="id7368520">L. Traube, “Geschichte der Palaeographie” in <emphasis effect="italics">Vorlesungen und Abhandlungen</emphasis>, vol. 1 (1909)</para>
+          <para id="id3371791">T. J. Brown, “Latin Palaeography since Traube” in <emphasis effect="italics">A Palaeographer’s View</emphasis> (1993)</para>
+        </section>
+      </section>
+      <section id="id1167142513780">
+        <title>III. I have found a reference to an editor or modern scholar, and need to learn more about him/her.</title>
+        <section id="id7144579">
+          <title>1. Biographical Dictionaries of Classicists. </title>
+          <para id="id1167138027362">These are of very variable value. For early scholars, start with the very brief but invaluable Pökel. National biographical dictionaries, where available, are generally more informed about intellectual background and context than biographical dictionaries of classicists alone.</para>
+          <para id="id5930129">W. Briggs, ed., <emphasis effect="italics">Biographical Dictionary of North American Classicists</emphasis> (1994)</para>
+          <para id="id1167128527660">W. Briggs and W. Calder, eds., <emphasis effect="italics">Classical Scholarship: A Biographical Encyclopedia</emphasis> (1990)</para>
+          <para id="id1167134181396">W. Calder and D. J. Kramer, <emphasis effect="italics">An Introductory Bibliography to the History of Classical Scholarship Chiefly in the XIXth and XXth Centuries</emphasis> (1992)</para>
+          <para id="id1167137035727">--- , <emphasis effect="italics">A Supplementary Bibliography to the History of Classical Scholarship Chiefly in the XIXth and XXth Centuries</emphasis> (2000)</para>
+          <para id="id4859105">A. Eckstein, <emphasis effect="italics">Nomenclator Philologorum</emphasis> (1871)</para>
+          <para id="id1167124120307">J.-F. Maillard, J. Kecskeméti et M. Portalier, eds., <emphasis effect="italics">L’Europe des humanistes (XIVe-XVIIe siècles)</emphasis> (1995)</para>
+          <para id="id5211114">C. Nativel, ed., <emphasis effect="italics">Centuriæ latinæ : cent une figures humanistes de la Renaissance aux Lumières offertes à Jacques Chomarat</emphasis> (1997)</para>
+          <para id="id1167135076516">W. Pökel, <emphasis effect="italics">Philologische Schriftstellerlexikon</emphasis> (1882)</para>
+          <para id="id1167132846650">R. B. Todd (ed.), <emphasis effect="italics">The Dictionary of British Classicists</emphasis> (2005)</para>
+          <para id="id4527671">W. Unte, <emphasis effect="italics">Heroen und Epigonen : Gelehrtenbiographien der klassischen Altertumswissenschaft im 19. und 20. Jahrhundert</emphasis> (2003)</para>
+        </section>
+        <section id="id1167128542553">
+          <title>2. Histories of Classical Scholarship </title>
+          <para id="id1167132969084">This is a small and idiosyncratic list of works I find useful.</para>
+          <para id="id7751892">a) General</para>
+          <para id="id7784288">A. Gudeman, <emphasis effect="italics">Grundriss der Geschichte der klassischen Philologie</emphasis> (ed. 2, 1909)</para>
+          <para id="id1167133199132">J. Sandys, <emphasis effect="italics">History of Classical Scholarship</emphasis> (3 vols.. 1903-1908)</para>
+          <para id="id1167126712133">U. von Wilamowitz-Moellendorf, <emphasis effect="italics">History of Classical Scholarship</emphasis>, transl. A. Harris (1982)</para>
+          <para id="id7982061"><emphasis effect="italics">b) By period</emphasis> (a few works relevant to the transmission and editing of Latin texts):</para>
+          <para id="id1167134203235">i. Ancient and Medieval</para>
+          <para id="id3795391">R. Kaster, <emphasis effect="italics">Guardians of Language: The Grammarian and Society in Late Antiquity</emphasis> (1988)</para>
+          <para id="id1167133016625">E. Lesne, <emphasis effect="italics">Histoire de la propriété ecclésiastique en France</emphasis>, vol. 4: <emphasis effect="italics">Les livres des églises et des monastères; "scriptoria" et bibliothèques du VIIe siècle à la fin du XIe</emphasis> (1910-)</para>
+          <para id="id4104984">H. I. Marrou, <emphasis effect="italics">Patristique et humanisme</emphasis> (1976)</para>
+          <para id="id1167139816696">P. Riché, <emphasis effect="italics">Education and Culture in the Barbarian West</emphasis> (1976)</para>
+          <para id="id1167142450011">W. Wattenbach, <emphasis effect="italics">Das Schriftwesen im mittelalter</emphasis> (ed. 3, 1897)</para>
+          <para id="id7826172">J. Zetzel, <emphasis effect="italics">Latin Textual Criticism in Antiquity</emphasis> (1981)</para>
+          <para id="id1167139501966">---, <emphasis effect="italics">Marginal Scholarship and Textual Deviance</emphasis> (1995)</para>
+          <para id="id1167129785278">ii. Early Modern</para>
+          <para id="id1167124206474">A. Grafton, <emphasis effect="italics">Forgers and Critics</emphasis> (1990) </para>
+          <para id="id3954059">---, <emphasis effect="italics">Defenders of the Text</emphasis> (1991) [and other books and articles by the same author]</para>
+          <para id="id1167134177029">R. Pfeiffer, <emphasis effect="italics">History of Classical Scholarship from 1300 to 1850</emphasis> (1976)</para>
+          <para id="id1167132685264">S. Rizzo, <emphasis effect="italics">Il lessico filologico degli umanisti</emphasis> (1973). Organized as a dictionary, but absolutely invaluable for understanding what humanist critics did.</para>
+          <para id="id7093967">R. Sabbadini, <emphasis effect="italics">Le scoperte dei codici latini e greci ne’secoli XIV e XV</emphasis> (1914; ed. 2 with additions by E. Garin, 1967)</para>
+          <para id="id6850328">iii. Regional/Modern</para>
+          <para id="id1167135518737">C. Brink, <emphasis effect="italics">English classical scholarship : historical reflections on Bentley, Porson and Housman</emphasis> (1985)</para>
+          <para id="id1167140614291">C. Bursian, <emphasis effect="italics">Geschichte der classischen Philologie in Deutschland</emphasis> (1883)</para>
+          <para id="id1167135485973">L. Mueller, <emphasis effect="italics">Geschichte der klassischen Philologie in den Niederlanden</emphasis> (1869)</para>
+          <para id="id1167127687178">M. Platnauer, ed., <emphasis effect="italics">Fifty Years (and Twelve) of Classical Scholarship</emphasis> (1968)</para>
+          <para id="id1167140007146">C. Stray, <emphasis effect="italics">Classics transformed : schools, universities, and society in England, 1830-1960</emphasis> (1998) [and other books and articles by the same author]</para>
+          <para id="id7065412">S. Timpanaro, <emphasis effect="italics">La Filologia di Giacomo Leopardi</emphasis> (ed. 3, 1997)</para>
+          <para id="id1167124205097">P. Treves, <emphasis effect="italics">Lo Studio dell’antichità classica nell’Ottocento</emphasis> (1962)</para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

@@ -21,6 +21,8 @@ This database is searchable at the [repo](https://github.com/t18d/attested-conje
 
 &nbsp;  
 
+Zetzel's guide to textual criticism is available [here](./zetzel.md)
+
 """
 
 with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:
