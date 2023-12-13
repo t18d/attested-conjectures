@@ -18,8 +18,7 @@
 This database is searchable at the [repo](https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv).
 
 &nbsp;  
-
-Zetzel's guide to textual criticism is available [here](./zetzel.md)
+Zetzel's guide to textual criticism is available [here](./zetzel.md).
 
 Ref.|Paradosis|Conjecture|Author|Year|Attested Place|Rem.
 ---|---|---|---|---|---|---
@@ -40,6 +39,7 @@ Aeschin. In Tim. |ἐπὶ πᾶσι τοῖς δικαίοις|τοῖς om.|Hi
 Aeschin. In Tim. |κατηγορούντων|κατηγόρων|Blass|n.d.|P. Halle 6|Editor's details from Grenfell.
 Anth. Pal. 9. 588|ἐπωμίδας|βραχείονας|Johann Pierson|n.d.|P.Tebt.3|Editor's details from Grenfell.
 Anth. Pal. v. 217|γλυκεροὺς/γλυκεράς|Γλυκέρας|Scaliger|n.d.|P.Oxy.II.211|Conjecture in epigram verified by discovery of fr.
+Ap. Rhod. Argon. 3. 263|φημοσύνηισινέεσθαι L/εφημοσύνῃσιν εεσθε G|εφ]ημοσυνηι[σι]ν ελεσ[θε|Brunck|n.d.|P.Oxy.VI.874|Pap. uncertain but letters only agree with Brunck not MSS.
 Ar. Ach. 912|τί δαὶ κακὸν παθών|τί δὲ κακὸν παθών|Bentley|n.d.|*Berl. klass. Texte* v.2 p.99|Editor's details from Grenfell's article.
 Ar. Ach. 912|φορούμενος|φερόμενος|Brunck|n.d.|*Berl. klass. Texte* v.2 p.99|Editor's details from Grenfell's article.
 Ar. Ach. 917|θρυαλλίδας|θρυαλλίδα|Elmsley|n.d.|*Berl. klass. Texte* v.2 p.99|Editor's details from Grenfell's article.
@@ -71,11 +71,11 @@ D. Ep. 3. 31|Εὔδικον/Εὔδημον|Εὐθύδικον|Blass|n.d.|P.Br
 D. Ep. 3. 38|om.|ἐὰν|Bekker|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
 D. Ep. 3. 9|τὸ ὅσον|ὅσον|Blass|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
 D. Prooem. 26|κοιῶς|κοινῶν|Wolf|1812|P.Oxy.I.26|
+Eur. IT. 1618|τήνδε|τῆσδε|Bothe|n.d.|P.Hibeh 24|Editor's details from Grenfell's article.
+Eur. IT. 252|καὶ τυχόντες|κἀντυχόντες|Reiske|n.d.|P.Hibeh 24|Editor's details from Grenfell's article.
 Eur. Ph.  1040|ἰαζὰ|ἀχᾷ|S. Musgrave|1778|P.Oxy.II.224|Musgrave conjectured ἀχὰ
 Eur. Ph.  1040|πόλεως|πόλεος|Porson|1824|P.Oxy.II.224|
 Eur. Ph.  1132|βίαι|βάθρων|J. W. A. Kirchhoff|n.d.|T.Vindob. inv. G HT 6|
-Eur. IT. 1618|τήνδε|τῆσδε|Bothe|n.d.|P.Hibeh 24|Editor's details from Grenfell's article.
-Eur. IT. 252|καὶ τυχόντες|κἀντυχόντες|Reiske|n.d.|P.Hibeh 24|Editor's details from Grenfell's article.
 Hdt. 1. 116|ἐσήει|ἐσήιε|Bekker|1833|P.Münch.II.40 = Pap.graec.mon.89|
 Hdt. 2. 175|οἱ|οἷα|Friedrich Ludwig Abresch|s.xviii med.|P.Oxy.VIII.1092|
 Hes. Op. 263|Βασιλεῖς/Βασιλῆες|Βασιλῆς|||P.Oxy.VIII.1090|Editor's details from Grenfell's article.
@@ -116,7 +116,6 @@ Pl. Smp. 209B|ἐπιθυμεῖ|επιθυμη|Stephanus|n.d.|P.Oxy.V.843|
 Pl. Smp. 209a|κυεῖν|τεκεῖν|Hug|n.d.|P.Oxy.VI.843|Editor's details from Grenfell.
 Pl. Smp. 222D|διαβάλῃ|διαβαλει|Hirschig|n.d.|P.Oxy.V.843|
 Pl. Tht. 152b|ἔστιν γαρ|ἐστιν om.|Ast|n.d.|*Berl. klass. Texte* ii.|Editor's details from Grenfell.
-Plb. 28. 2. 4|om.|cυνεχωρηcεν|Friedrich Otto Hultsch|1889|P.Oxy.LXXXI.5267|Papyrus reads c]υνεχωρηc[ε; Hultsch supplies verb (omitted in MSS).
 Plb. 11. |καταβαίνοντες|καταβάσει|Reiske|n.d.|Arch. f. Papyrusf. i. 388 + P. Ryl. 60|Details from Grenfell; pap. adds προσβαίνοντες.
 Plb. 11. 14. 2|προθεῖναι|προσθεῖναι|Scaliger|n.d.|Arch. f. Papyrusf. i. 388 + P. Ryl. 60|Editor's details from Grenfell.
 Plb. 11. 14. 2|ἐμπειρίαν|παρὰ τὴν τῶν ἡγουμένων ἐμπειρίαν|Gronovius|n.d.|Arch. f. Papyrusf. i. 388 + P. Ryl. 60|Editor's details from Grenfell.
@@ -129,20 +128,22 @@ Plb. 11. 16. 5-6|προειρημένον|τὸ προειρημένον|Causabo
 Plb. 11. 16. 5-6|τὴν δυσχρήστην|τὸ δύσχρηστον|Causabon|n.d.|Arch. f. Papyrusf. i. 388 + P. Ryl. 60|Editor's details from Grenfell.
 Plb. 11. 16. 6|διαβάλλει|διαβαλεῖ|Scaliger|n.d.|Arch. f. Papyrusf. i. 388 + P. Ryl. 60|Editor's details from Grenfell.
 Plb. 11. 16. 6 and 7|ἐμπορεῖα|ἐν πορείᾳ|Schweighäuser|n.d.|Arch. f. Papyrusf. i. 388 + P. Ryl. 60|Editor's details from Grenfell.
+Plb. 28. 2. 4|om.|cυνεχωρηcεν|Friedrich Otto Hultsch|1889|P.Oxy.LXXXI.5267|Papyrus reads c]υνεχωρηc[ε; Hultsch supplies verb (omitted in MSS).
 Plu. Caes.  45. 8|ταιc|αις|Moses Solanus|1729|P.Oxy.LXXXI.5270|
 Poet. Lyr. i. p.  4|τὴν ογ΄ Ὀλυμπιάδα|τὴν ος΄ Ὀλυμπιάδα|Bergk|n.d.|P.Oxy.II.222|
 Simon. fr. 25|χεέτω|χείτω|M. L. West|1989|P.Oxy.LXXXI.5261|Accented χέιτω on papyrus.
 Sor. Gynaecia 2-3|Ἀθηναίων|Ἀθηνίων|Wellmann|n.d.|P. Soc. Ital. 117|Details from Grenfell.
 Sor. Gynaecia 2-3|ἐν τῷ α καὶ γ τῆς αἱρέσεως|ἐν τῷ α καὶ γ τῶν περὶ τῆς αἱρέσεως|Rose|n.d.|P. Soc. Ital. 117|Details from Grenfell.
 Sor. Gynaecia 2-3|καὶ Ζήνωνα καὶ Ἀριστοτέλην τὸν Ἐπικούριον|καὶ Ἀριστοτέλην καὶ Ζήνωνα τὸν Ἐπικούριον|Ermerins|n.d.|P. Soc. Ital. 117|Details from Grenfell.
-Th. 11. 6|οὔτω|om.|Madvig|n.d.|P.Oxy.XIII.1621|Editor's details from Grenfell.
-Th. 11. 9|ἡμῖν|ὑμῖν|Hude|n.d.|P.Oxy.VI.853 & P.Oxy.XIII.1621|Editor's details from Grenfell.
-Th. 4. 37|ὅτι|om.|Henrik van Herwerden|s.xix ex.|P.Oxy.I.16 + IV.696|
-Th. 7|στρατιὰς|στρατείας|Aemilius Portus|n.d.|P.Oxy.XI.1376|Details from Grenfell.
-Th. 7|δὴ|ἤδη|Gertz|n.d.|P.Oxy.XI.1376|Details from Grenfell.
-Th. 7|τε|om.|Hude|n.d.|P.Oxy.XI.1376|Details from Grenfell.
-Th. 7|ὅπως ἂν ἀπολισθάνοι|ἂν om.|Henrik van Herwerden|s.xix ex.|P.Oxy.XI.1376|Details from Grenfell.
-Th. 8. 10|ἑπτὰ|ἐς ἑπτὰ|Westermann|n.d.|P.Oxy.X.1247|Editor's details from Grenfell.
 Theoc. Idylls 15. 98|σπέρχιν/πέρχην|πέρυσιν|Reiske|n.d.|P.Oxy.XIII.1618|Paradosis corrupt; papyrus reads πέρυ]σιν; editor's details from Grenfell's article.
+Thuc. 11. 6|οὔτω|om.|Madvig|n.d.|P.Oxy.XIII.1621|Editor's details from Grenfell.
+Thuc. 11. 9|ἡμῖν|ὑμῖν|Hude|n.d.|P.Oxy.VI.853 & P.Oxy.XIII.1621|Editor's details from Grenfell.
+Thuc. 4. 37|ὅτι|om.|Henrik van Herwerden|s.xix ex.|P.Oxy.I.16 + IV.696|
+Thuc. 5. 97|καὶ τοῦ|τοῦ καὶ|Krüger|n.d.|P.Oxy.VI.880|
+Thuc. 7|στρατιὰς|στρατείας|Aemilius Portus|n.d.|P.Oxy.XI.1376|Details from Grenfell.
+Thuc. 7|δὴ|ἤδη|Gertz|n.d.|P.Oxy.XI.1376|Details from Grenfell.
+Thuc. 7|τε|om.|Hude|n.d.|P.Oxy.XI.1376|Details from Grenfell.
+Thuc. 7|ὅπως ἂν ἀπολισθάνοι|ἂν om.|Henrik van Herwerden|s.xix ex.|P.Oxy.XI.1376|Details from Grenfell.
+Thuc. 8. 10|ἑπτὰ|ἐς ἑπτὰ|Westermann|n.d.|P.Oxy.X.1247|Editor's details from Grenfell.
 Xen. Oec. 9. 2|τῆς οἰκίας|τῆς γε οἰκίας|Cobet|n.d.|P.Oxy.II.227|Editor's details from Grenfell.
 Xen. Oec. 9. 2|ἑκάστῳ|ἐν ἑκάστῳ|Schneider|n.d.|P.Oxy.II.227|Editor's details from Grenfell.

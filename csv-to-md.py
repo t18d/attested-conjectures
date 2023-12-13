@@ -1,4 +1,5 @@
 import csv
+import csv_tools
 # preface must be edited here for changes to stick
 PREFACE = """# Database of Greek and Latin Conjectural Emendations Attested in MSS
 
@@ -20,10 +21,11 @@ PREFACE = """# Database of Greek and Latin Conjectural Emendations Attested in M
 This database is searchable at the [repo](https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv).
 
 &nbsp;  
-
-Zetzel's guide to textual criticism is available [here](./zetzel.md)
+Zetzel's guide to textual criticism is available [here](./zetzel.md).
 
 """
+
+csv_tools.sort_csv()
 
 with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:
     conj_reader = csv.reader(conj_csv)
@@ -39,3 +41,4 @@ with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:
                 delimiter_row = delimiter_row[:-1] + "\n" # [:-1] as above
                 conj_md.write(delimiter_row)
                 first_row = False # delimiter needs to be written after headers (which are the first row)
+
