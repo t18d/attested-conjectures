@@ -8,7 +8,7 @@
     </ul>
     <h3>Studies</h3>
     <ul>
-        <li>P.Oxy.I, II, III, IV, V, VI, VII, VIII, X, XI, XIII, LXXXI</li>
+        <li>P.Oxy.I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, LXXXI</li>
         <li>Kenyon, Frederic George. <em>The Evidence of Greek Papyri with Regard to Textual Criticism.</em> London: Hernry Frowde, 1904.</li>
         <li>Grenfell, B. P. ‘The Value of Papyri for the Textual Criticism of Extant Greek Authors.’ <em>The Journal of Hellenic Studies</em> 39 (1919): 16-36.</li>
     </ul>
@@ -84,6 +84,8 @@ Eur. fr. 403.3-4|ποῖόν ποτ'οἰκεῖ|ποῦ καί ποτ'οἰκε
 Eur. fr. 912|χοήν|χλόην|Bergk|n.d.|P.Oxy.IX.1176|
 Hdt. 1. 116|ἐσήει|ἐσήιε|Bekker|1833|P.Münch.II.40 = Pap.graec.mon.89|
 Hdt. 2. 175|οἱ|οἷα|Friedrich Ludwig Abresch|s.xviii med.|P.Oxy.VIII.1092|
+Hdt.1.105|ὁ θέος|η θε[ος|Hude|n.d.|P.Oxy.X.1244|
+Hdt.1.106|ὑποθέμενος|ῡπερθεμενος|Schaefer|n.d.|P.Oxy.X.1244|
 Hermae Pastor l. 17|⟨καὶ⟩ εὐχαριστεῖ|εὐχαριστῶν|Tischendorf|n.d.|P.Oxy.IX.1172|
 Hermae Pastor l. 28|συνιει|συνηκεν|Tischendorf|n.d.|P.Oxy.IX.1172|
 Hes. Op. 263|Βασιλεῖς/Βασιλῆες|Βασιλῆς|||P.Oxy.VIII.1090|Editor's details from Grenfell's article.
@@ -102,6 +104,7 @@ Isoc. Ad Nic.  8|ταῖς μοναρχίαις|τὰς μοναρχίας|Cobet
 Isoc. Panegyricus 68|om. γε|ελαττω γε|Cobet|n.d.|P.Oxy.V.844|
 Logia Iesou 1. 7-8|θαυμάσας|θαμβηβεὶς|Zahn|n.d.|P.Oxy.IV.654|Zahn: *Gesch. d. NT. Kan.* ii. p. 657; Zahn's conjecture is that a. θαμβηβεὶς b. that θαμβηβεὶς is a mistranslation of a Hebrew/Aramaic word also meaning θορυβηθείς and thus συντετριμμένης would be the right term; howver θαμβηθείς appears in the pap. and so this further conjecture is disproved.
 Men. Kol.  49-50|νῦν|νυνί|Grotius|s.xvii in.|P.Oxy.III.409|Eust.1833.58.; emend. apud Clericum
+Men.Epit.476|συγγν[..]ης [..]ρως Lefebvre/συγγν . μην . ρων|συγγνώμ]ης [μέ]ρος|Van Leeuwen|n.d.|P.Oxy.X.1236|
 Opp. C. 4. 208|ἐρυccάμενοι|ερειcάμεν[οι|Johann Pierson|1752|P.Oxy.LXXXI.5278|
 Opp. H. 14. 393|ἀκωκήν|κολώνην|Graefe|n.d.|See Grenfell p.24 (7th cent. pap.)|Bordeline: Pap. has ἀκωκήν corrected to κορώνην (i.e. κολώνην) which is corrected to ἀκωκήν (which is from the end of 394).
 Opp. H. 14. 398|πολυσταφύλῳ|φιλοσταφύλῳ|Graefe|n.d.|See Grenfell p. 24 (7th cent. pap.)|Editor's details from Grenfell.
@@ -112,8 +115,10 @@ Opp. H. 15. 87|οἰνηθέντες|οἰνωθεντες|Graefe|n.d.|See Grenf
 Orac. Sib.  516-517|516 before 517|517 before 516|Geffcken|n.d.|P.Flor.398|Editor's details from Grenfell.
 P. Brit. Mus. 214. 20||ἔ]νγραφα|Wilcken|n.d.|P.Oxy.VIII.1121|See Wilcken *Archiv* i. 154.
 P. Brit. Mus. 256 recto (e) l. 10|χειρογραφίαν|ἀποχήν|Wilcken|n.d.|P.Oxy.VII.1024|Confirms restoration of ἀποχήν "in place of" χειρογραφίαν; Wilcken *Archiv* iii. pp. 236-7.
+P. Giessen 50.34||Σαλωνείνου Οὐαλεριανοῦ|P. M. Meyer|n.d.|P.Oxy.X.1274|Restoration; details thereof obscure in P.Oxy.10.
 P. Oxy. III. 579||Θοή[ριδος|Grenfell & Hunt|1903|P.Oxy.VIII.1118|Reading Θοή[ριδος confirmed by τῆς καὶ Θοήριδος l. 5
 P. Tebt. 286. 15|om.|ἱερεύς|Hunt|n.d.|P.Oxy.VIII.1092|Restoration of ἱερεύς.
+P.Oxy.VI.917||σπ(ονδῆς) Διον(ύσου)|Grenfell and Hunt|1908|P.Oxy.X.1283|Reading confirmed.
 Philo De Ebrietate 2|τῆς ἀπαιδευσίας|τη]ν απαιδευσιαν|Turnebus & Wendland|n.d.|P.Oxy.IX.1173|
 Philo De Ebrietate 2|om.|τοῦ|Wendland with Richter|n.d.|P.Oxy.IX.1173|
 Philo De Ebrietate 219|ευπρεπεις|ευτρεπεις|Wendland|n.d.|P.Oxy.IX.1173|
