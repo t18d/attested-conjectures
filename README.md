@@ -22,7 +22,7 @@
         <li>Grenfell, B. P., 'The Value of Papyri for the Textual Criticism of Extant Greek Authors', <em>The Journal of Hellenic Studies</em>, 39 (1919), 16-36.</li>
         <li>Markus, D., and G. Schwendner, 'Seneca’s Medea in Egypt (663–704)', <em>ZPE</em>, 117 (1997), 73–84.</li>
         <li>Sommerstein, Alan H., 'The history of the text of Aristophanes', in <em>Brill's Companion to the Study of Greek Comedy</em> (Brill, 2010), 399-422 at 412n69.</li>
-        <li>Wilson, N. G., <em>Herodotea: studies on the text of Herodotus</em>, (Oxford, 2015), xii-xiii.</li>
+        <li>Wilson, N. G., <em>Herodotea: studies on the text of Herodotus</em> (Oxford, 2015), xii-xiii.</li>
     </ul>
 </details>
 
