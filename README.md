@@ -10,6 +10,7 @@
     <ul>
         <li>P.Oxy.I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XV, XVII, LXXXI</li>
         <li>Borges, Cassandra, and C. Michael Sampson. <em>New literary papyri from the Michigan collection: mythographic lyric and a catalogue of poetic first lines</em> (University of Michigan Press, 2012), 20.</li>
+        <li>El-Maghrabi, M.G., and C. Römer (eds), <em>Texts from the "Archive" of Socrates, the Tax Collector, and Other Contexts at Karanis (P. Cair. Mich. II)</em> (Berlin, 2015), 48.</li>
         <li>Finglass, P. J. "Unpublished Conjectures on Sophocles by Jeremiah Markland." <em>Greek, Roman, and Byzantine Studies</em> 51, no. 2 (2011): 232-238.</li>
         <li>Finglass, Patrick J. ‘Il valore dei papiri per la critica testuale di Sofocle.’ <em><a href="https://library.oapen.org/bitstream/handle/20.500.12657/55124/9788866553878.pdf">Il valore dei papiri per la critica testuale di Sofocle</a></em> (2013): 33-51.</li>
         <li>Finglass, P. J. "Editions of Sappho since the Renaissance." <em>The Cambridge Companion to Sappho</em> (2021): 255.</li>
@@ -19,6 +20,10 @@
         <li>Homerus, <em>Odyssea</em>, ed. Martin L. West (Berlin, 2017).</li>
         <li>Kenyon, Frederic George. <em>The Evidence of Greek Papyri with Regard to Textual Criticism.</em> London: Hernry Frowde, 1904.</li>
         <li>Grenfell, B. P. ‘The Value of Papyri for the Textual Criticism of Extant Greek Authors.’ <em>The Journal of Hellenic Studies</em> 39 (1919): 16-36.</li>
+        <li>Markus, D., and G. Schwendner. 1997. ‘‘Seneca’s Medea in Egypt (663–704).’’ ZPE 117: 73–84.</li>
+        <li>Sommerstein, Alan H. "The history of the text of Aristophanes." In Brill's Companion to the Study of Greek Comedy (Brill, 2010), 412n69.</li>
+        <li>Wilson, Nigel Guy. Herodotea: studies on the text of Herodotus. Oxford University Press, 2015.</li>
+
     </ul>
 </details>
 
