@@ -9,7 +9,7 @@
     </ul>
     <h3>Sources</h3>
     <ul>
-        <li>P.Oxy.I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XV, XVII, XIX, XX, XXII, XXIV, XXVI, XXVII, LXXXI</li>
+        <li>P.Oxy.I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XV, XVII, XIX, XX, XXII, XXIV, XXVI, XXVII, XXXII, LXXXI</li>
         <li>Borges, Cassandra, and C. Michael Sampson, <em>New literary papyri from the Michigan collection: mythographic lyric and a catalogue of poetic first lines</em> (Ann Arbor, 2012), 20.</li>
         <li>El-Maghrabi, M. G., and C. Römer (eds), <em>Texts from the "Archive" of Socrates, the Tax Collector, and Other Contexts at Karanis (P. Cair. Mich. II)</em> (Berlin, 2015), 48.</li>
         <li>Finglass, P. J., 'Unpublished Conjectures on Sophocles by Jeremiah Markland', <em>Greek, Roman, and Byzantine Studies</em> 51/2 (2011), 232-238.</li>
@@ -129,6 +129,7 @@ Hes. Op. 268|ἐθέληισ'|ἐθέληι|||P.Oxy.VIII.1090|Editor's details f
 Hes. Sc. 15|οὐ γὰρ οἱ|οὐδέ οἱ|Hermann A. T. Köchly|1874|Stud.Pal.I|
 Hes. Sc. 432|ἐλθεῖν|ἐλθέμεν|Nauck|1889|Stud.Pal.I|
 Hes. Th. 656|ὅτι|ὅ τοι|Hermann|n.d.|P.Ryl.54|Editor's details from Grenfell's article.
+Hes. Th. 768|verse exists|verse om.|Wolf|n.d.|P.Oxy.XXXII.2648|Verse interpolated from Od. 10.533 (= 11. 46); omitted here and by Wolf.
 Hes. Th. 87|αἶψα τε|αἶψά κε|R. Peppmüller|1896|P.Achm.3|
 Hes. Th. 93|οἷά τε|τοίη|Guiet|n.d.|P.Achm.3|
 Hom. Il. 23.198|ὠκέα δ'Ἶρις|ὦκα δὲ Ἶρις|Fick|n.d.|P.Grenf.ii.4|Editor's details from Grenfell's article.
