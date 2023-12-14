@@ -117,9 +117,9 @@ If you really want to learn textual criticism, read the work of good editors and
 R. Bentley, ed.,  *Q. Horatius Flaccus ex recensione & cum notis atque emendationibus Richardi Bentleii*  (1711)
           
 ———, ed.,  *P. Terenti Afri Comoediae*  (1727)
-
- *On Bentley, see now K. Haugen, *Richard Bentley: Poetry and Enlightenment* (Boston 2011)          
-          
+<ul>
+*On Bentley, see now K. Haugen, *Richard Bentley: Poetry and Enlightenment* (Boston 2011)          
+</ul>          
 Giuseppe Billanovich, “Petrarch and the Textual Tradition of Livy”  *Journal of the Warburg and Courtauld Institutes*  14 (1951) 137-208
           
 ———, “Dall’antica Ravenna alle bibliotheche umanistiche”  *Aevum*  30 (1956) 319-53
@@ -139,17 +139,17 @@ H. C. Gotoff,  *The Transmission of the Text of Lucan in the Ninth Century*  (19
 A. E. Housman, ed.,  *M. Manilii Astronomicon liber primus[-quintus]*  (5 vols., 1903-1930)
           
 ———, ed.,  *M. Annaei Lucani Belli civilis libri decem*  (1926)
-          
- On Housman, see now D. Butterfield and C. Stray, eds.,  *A. E. Housman: Classical Scholar*  (2009) 
-          
+<ul>          
+On Housman, see now D. Butterfield and C. Stray, eds.,  *A. E. Housman: Classical Scholar*  (2009) 
+</ul>          
 O. Jahn, ed.,  *Auli Persii Flacci Satirarum Liber*  (1843)
           
 ———, “Ueber die Subscriptionen in den Hanschriften römischer Classiker,”  *Berichte d. sächs. Ges. Der Wiss. zu Leipzig*, Phil.-Hist. Klasse 3 (1851) 327-72
           
 K. Lachmann, ed.,  *T. Lucreti Cari De rerum natura libri sex*  (1851)
-          
- On Lachmann, see S. Timpanaro,  *The Genesis of Lachmann’s Method*, tr. G. Most (2005)
-          
+<ul>          
+On Lachmann, see S. Timpanaro,  *The Genesis of Lachmann’s Method*, tr. G. Most (2005)
+</ul>          
 F. Leo, ed.  *L. Annaei Senecae Tragoediae*  (1878-79)
           
 J. N. Madvig, ed.,  *M. Tulli Ciceronis De Finibus Bonorum et Malorum Libri Vs* (1876)
@@ -163,9 +163,9 @@ O. Ribbeck, ed.,  *P. Vergili Maronis opera. Vol 5: Prolegomena critica*  (1868)
 F. Ritschl, ed.,  *T. Macci Plauti Comoediae*  (1848-54)
           
 J. J. Scaliger,  *Catulli, Tibulli, Propertii nova editio*  (1577)
-          
- On Scaliger as a critic, see A. T. Grafton,  *Joseph Scaliger: A Study in the History of Classical Scholarship*  Vol. 1 (1983)
-          
+<ul>          
+On Scaliger as a critic, see A. T. Grafton,  *Joseph Scaliger: A Study in the History of Classical Scholarship*  Vol. 1 (1983)
+</ul>          
 D. R. Shackleton Bailey, ed.,  *Cicero’s Letters to Atticus*  (7 vols., 1965-1970)
           
 R. J. Tarrant, ed.,  *P. Ovidi Nasonis Metamorphoses*  (2004)
