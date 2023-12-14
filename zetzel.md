@@ -23,7 +23,7 @@ It is a lucid, readable, and accurate account of how ancient texts, both Greek a
           
 A critical apparatus is meant to explain to the reader what words in the text are preserved in what manuscripts (generally identified with capital Roman letters in modern editions) or groups of manuscripts (generally identified with lower-case Greek letters or occasionally lower-case Roman letters), and what words in the text are modern (broadly defined) corrections. The key to the codes used in the apparatus was set out by an international convention printed as:
           
- *Emploi des signes critiques, dispostion de l'apparat dans les éditions savantes de textes grecs et latins, conseils et recommandations* . Union Académique Internationale. Paris, 1932
+ *Emploi des signes critiques, dispostion de l'apparat dans les éditions savantes de textes grecs et latins, conseils et recommandations*. Union Académique Internationale. Paris, 1932
           
 Like many international treaties, however, it is frequently ignored and the conventions for editing texts preserved in different media (manuscript, papyrus, inscription) remain quite different from one another. Not to mention the fact that these conventions are fairly recent, and any edition earlier than the 20th century is likely to convey information using a different code.
           
@@ -108,7 +108,7 @@ C. Questa and R. Raffaelli, eds.,  *Il Libro e il testo*  (1984)
         
 ### 3. Great editions and works of practical criticism
           
-When it comes to the history of particular texts, every scholar has his or her own favorites, and most important works are signalled in  *Texts and Transmission* . The one work on a non-classical text that is necessary reading is:
+When it comes to the history of particular texts, every scholar has his or her own favorites, and most important works are signalled in  *Texts and Transmission*. The one work on a non-classical text that is necessary reading is:
           
 L. Traube,  *Textgeschichte der Regula Benedicti*  (ed. 2, 1910). If you are seriously interested in textual criticism or the history of texts, start here. In fact, read anything Traube ever wrote. Various essays on the transmission of texts are included in his  *Kleine Schriften*  (1920). Some of his conclusions have been modified by later research, but no one has ever had a better understanding of the process of transmission. A note on intellectual genealogy: Traube taught, among others, the American scholars E. K. Rand, E. A. Lowe, and C. H. Beeson; most American palaeographers and textual critics of Latin in the twentieth century were taught by them.
           
@@ -199,9 +199,9 @@ G. Becker,  *Catalogi bibliothecarum antiqui*  (1885)
           
 B. Bischoff,  *Katalog der festländischen Handschriften des neunten Jahrhunderts: (mit Ausnahme der wisigotischen)*  (1998-)
           
-P. O. Kristeller,  *Iter Italicum; a finding list of uncatalogued or incompletely catalogued humanistic manuscripts of the Renaissance in Italian and other libraries* . (1963-97)
+P. O. Kristeller,  *Iter Italicum; a finding list of uncatalogued or incompletely catalogued humanistic manuscripts of the Renaissance in Italian and other libraries*. (1963-97)
           
-———,  *Latin manuscript books before 1600; a list of the printed catalogues and unpublished inventories of extant collections* . (1965)
+———,  *Latin manuscript books before 1600; a list of the printed catalogues and unpublished inventories of extant collections*. (1965)
           
 P. O. Kristeller et al.,  *Catalogus Translationum et Commentariorum*  (1960-)
           
@@ -216,7 +216,7 @@ The invention of the historical study of script belongs to the Maurist priest Je
           
 J. Mabillon,  *De re diplomatica Libri VI*  (1681)
           
-It is a grand book, which includes not only the development of Latin scripts but diplomatics and the historical authentication of documents. The term ‘palaeography’ was invented a few years later by Mabillon’s friend and fellow Maurist Bernard de Montfaucon in his  *Palaeographia Graeca* . Mabillon’s account of the history of scripts is no longer valid; Montfaucon’s book is still a good introduction to Greek palaeography.
+It is a grand book, which includes not only the development of Latin scripts but diplomatics and the historical authentication of documents. The term ‘palaeography’ was invented a few years later by Mabillon’s friend and fellow Maurist Bernard de Montfaucon in his  *Palaeographia Graeca*. Mabillon’s account of the history of scripts is no longer valid; Montfaucon’s book is still a good introduction to Greek palaeography.
           
 #### a) textbooks and studies of scripts
           
