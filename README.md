@@ -9,7 +9,7 @@
     </ul>
     <h3>Sources</h3>
     <ul>
-        <li>P.Oxy.I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XV, XVII, XIX, LXXXI</li>
+        <li>P.Oxy.I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XV, XVII, XIX, XX, XXII, LXXXI</li>
         <li>Borges, Cassandra, and C. Michael Sampson, <em>New literary papyri from the Michigan collection: mythographic lyric and a catalogue of poetic first lines</em> (Ann Arbor, 2012), 20.</li>
         <li>El-Maghrabi, M. G., and C. Römer (eds), <em>Texts from the "Archive" of Socrates, the Tax Collector, and Other Contexts at Karanis (P. Cair. Mich. II)</em> (Berlin, 2015), 48.</li>
         <li>Finglass, P. J., 'Unpublished Conjectures on Sophocles by Jeremiah Markland', <em>Greek, Roman, and Byzantine Studies</em> 51/2 (2011), 232-238.</li>
@@ -43,6 +43,7 @@ Aeschin. In Ctes. 167|προσκαθίζεις/προσκαθεστήσῃ|πρ�
 Aeschin. In Ctes. 20|καὶ τὴν ἐκεῖ σκυθρωπὸν|καὶ τῶν ἐκεῖ σκυθρωπῶν|Lambinus|n.d.|P.Oxy.XIII.1625|Editor's details from Grenfell.
 Aeschin. In Ctes. 20|ἄγειν|ἄγει|Wolf|n.d.|P.Oxy.XIII.1625|Editor's details from Grenfell. 
 Aeschin. In Ctes. 20|γέρα|ἱερὰ|Hamaker|n.d.|P.Oxy.XIII.1625|Editor's details from Grenfell.
+Aeschin. In Ctes. 53|μὲν ἀληθῆ|ἀληθῆ μὲν|Cobet|n.d.|P.Oxy.XXIV.2404|
 Aeschin. In Ctes. 94|ὁρώντων|ζώντων|Kaibel|n.d.|P.Oxy.IV.703|Editor's details from Grenfell.
 Aeschin. In Tim.|διισχυρίζεσθαι|ἰσχθυρίζεσθαι|Wolf|n.d.|P.Gen.I.256|Editor's details from Grenfell.
 Aeschin. In Tim.|ἐξαιτήσεται|ἐξαιρήσεται|Blass|n.d.|P.Gen.I.256|Editor's details from Grenfell.
@@ -146,6 +147,7 @@ Nonn. Dion. 15.165|μαχητάς|μαχηταῖς|Köchly|n.d.|See Grenfell p.
 Nonn. Dion. 15.87|οἰνηθέντες|οἰνωθεντες|Graefe|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
 Opp. C. 4.208|ἐρυccάμενοι|ερειcάμεν[οι|Johann Pierson|1752|P.Oxy.LXXXI.5278|
 Orac. Sib. 516-517|516 before 517|517 before 516|Geffcken|n.d.|P.Flor.398|Editor's details from Grenfell.
+P. Ryl. 652, 10|ορ⟨ ⟩|ἁρρίοις|Editors|n.d.|P.Oxy.XXIV.2409|
 P.Brit.Mus.214.20||ἔ]νγραφα|Wilcken|n.d.|P.Oxy.VIII.1121|See Wilcken *Archiv* i. 154.
 P.Brit.Mus.256 recto (e) l. 10|χειρογραφίαν|ἀποχήν|Wilcken|n.d.|P.Oxy.VII.1024|Confirms restoration of ἀποχήν "in place of" χειρογραφίαν; Wilcken *Archiv* iii. pp. 236-7.
 P.Giessen 50.34||Σαλωνείνου Οὐαλεριανοῦ|P. M. Meyer|n.d.|P.Oxy.X.1274|Restoration; details thereof obscure in P.Oxy.10.
@@ -198,6 +200,7 @@ Soph. fr. 294|ἐπισχολάζεται|κοὐκ ἔτι σχολάζεται
 Sor. Gyn. 2-3|Ἀθηναίων|Ἀθηνίων|Wellmann|n.d.|P. Soc. Ital. 117|Details from Grenfell.
 Sor. Gyn. 2-3|ἐν τῷ α καὶ γ τῆς αἱρέσεως|ἐν τῷ α καὶ γ τῶν περὶ τῆς αἱρέσεως|Rose|n.d.|P. Soc. Ital. 117|Details from Grenfell.
 Sor. Gyn. 2-3|καὶ Ζήνωνα καὶ Ἀριστοτέλην τὸν Ἐπικούριον|καὶ Ἀριστοτέλην καὶ Ζήνωνα τὸν Ἐπικούριον|Ermerins|n.d.|P. Soc. Ital. 117|Details from Grenfell.
+Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy.XIV.2401|
 Theoc. Id. 15.98|σπέρχιν/πέρχην|πέρυσιν|Reiske|n.d.|P.Oxy.XIII.1618|Paradosis corrupt; papyrus reads πέρυ]σιν; editor's details from Grenfell's article.
 Theoc. Id. 22.40|πεφύκασιν|πεφυκεσαν|Stephanus|n.d.|P.Oxy.XV.1806|
 Thuc. 11.6|οὔτω|om.|Madvig|n.d.|P.Oxy.XIII.1621|Editor's details from Grenfell.
