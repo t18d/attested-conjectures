@@ -27,14 +27,12 @@
     </ul>
 </details>
 
-&nbsp;  
-See also James Zetzel's <a href="./zetzel.md">Textual Criticism and the Transmission of Latin Texts</a>.
+<br>
+<p>See also James Zetzel's <a href="./zetzel.md">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
-&nbsp;  
-This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.
+<p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
-&nbsp;  
-&nbsp;  
+<br>
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
 Ref.|Paradosis|Conjecture|Author|Year|Attested Place|Rem.
