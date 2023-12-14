@@ -14,10 +14,10 @@ Aeschin. In Tim. ,κατηγορούντων,κατηγόρων,Blass,n.d.,P. Ha
 Alc. 19,τῷ προτέρῳ νεομω,τῳ π.'νέμῳ,Blass,n.d.,P.Oxy.XV.1789,Only conjecture listed that is consistent with the pap. - not necessarily right.
 Anth. Pal. 9. 588,ἐπωμίδας,βραχείονας,Johann Pierson,n.d.,P.Tebt.3,Editor's details from Grenfell.
 Anth. Pal. v. 217,γλυκεροὺς/γλυκεράς,Γλυκέρας,Scaliger,n.d.,P.Oxy.II.211,Conjecture in epigram verified by discovery of fr.
-Ap. Rhod. 263,-σι νέεσθαι/νέεσθε,-σιν ἕλεσθε,Brunck,n.d.,P.Oxy.V.874,Editor's details from Grenfell's article.
-Ap. Rhod. 745,ναῦται εἰς Ἑλίκην,ναυτίλοι εἰς Ἑλίκην,Porson,n.d.,P.Oxy.IV.690,Editor's details from Grenfell's article.
-Ap. Rhod. 909,κατὰ,μετὰ,Stephanus,n.d.,P.Oxy.IV.691,Editor's details from Grenfell's article.
-Ap. Rhod. Argon. 3. 263,φημοσύνηισινέεσθαι L/εφημοσύνῃσιν εεσθε G,εφ]ημοσυνηι[σι]ν ελεσ[θε,Brunck,n.d.,P.Oxy.VI.874,Pap. uncertain but letters only agree with Brunck not MSS.
+Ap. Rhod. 3.263,-σι νέεσθαι/νέεσθε,-σιν ἕλεσθε,Brunck,n.d.,P.Oxy.VI.874,Editor's details from Grenfell's article.
+Ap. Rhod. 3.745,ναῦται εἰς Ἑλίκην,ναυτίλοι εἰς Ἑλίκην,Porson,n.d.,P.Oxy.IV.690,Editor's details from Grenfell's article.
+Ap. Rhod. 3.909,κατὰ,μετὰ,Stephanus,n.d.,P.Oxy.IV.691,Editor's details from Grenfell's article.
+Ap. Rhod. 3.263,φημοσύνηισινέεσθαι L/εφημοσύνῃσιν εεσθε G,εφ]ημοσυνηι[σι]ν ελεσ[θε,Brunck,n.d.,P.Oxy.VI.874,Pap. uncertain but letters only agree with Brunck not MSS.
 Ar. Ach. 912,τί δαὶ κακὸν παθών,τί δὲ κακὸν παθών,Bentley,n.d.,*Berl. klass. Texte* v.2 p.99,Editor's details from Grenfell's article.
 Ar. Ach. 912,φορούμενος,φερόμενος,Brunck,n.d.,*Berl. klass. Texte* v.2 p.99,Editor's details from Grenfell's article.
 Ar. Ach. 917,θρυαλλίδας,θρυαλλίδα,Elmsley,n.d.,*Berl. klass. Texte* v.2 p.99,Editor's details from Grenfell's article.
@@ -74,9 +74,9 @@ Hdt. 1. 116,ἐσήει,ἐσήιε,Bekker,1833,P.Münch.II.40 = Pap.graec.mon.8
 Hdt. 2. 175,οἱ,οἷα,Friedrich Ludwig Abresch,s.xviii med.,P.Oxy.VIII.1092,
 Hdt.1.105,ὁ θέος,η θε[ος,Hude,n.d.,P.Oxy.X.1244,
 Hdt.1.106,ὑποθέμενος,ῡπερθεμενος,Schaefer,n.d.,P.Oxy.X.1244,
-Hermae Pastor l. 17,⟨καὶ⟩ εὐχαριστεῖ,εὐχαριστῶν,Tischendorf,n.d.,P.Oxy.IX.1172,
-Hermae Pastor l. 28,συνιει,συνηκεν,Tischendorf,n.d.,P.Oxy.IX.1172,
-Hermae Pastor l. 54,λοιπόν,αὐτόν,Hilgenfeld,n.d.,P.Oxy.XIII.1599,
+Herm. l.17,⟨καὶ⟩ εὐχαριστεῖ,εὐχαριστῶν,Tischendorf,n.d.,P.Oxy.IX.1172,
+Herm. l.28,συνιει,συνηκεν,Tischendorf,n.d.,P.Oxy.IX.1172,
+Herm. l.54,λοιπόν,αὐτόν,Hilgenfeld,n.d.,P.Oxy.XIII.1599,
 Hes. Op. 263,Βασιλεῖς/Βασιλῆες,Βασιλῆς,,,P.Oxy.VIII.1090,Editor's details from Grenfell's article.
 Hes. Op. 264,δικῶν,δικέων,,,P.Oxy.VIII.1090,Editor's details from Grenfell's article.
 Hes. Op. 268,ἐθέληισ',ἐθέληι,,,P.Oxy.VIII.1090,Editor's details from Grenfell's article.
@@ -118,7 +118,7 @@ Philo De Ebrietate 222,μαρμάρζει,μαιμᾷ,Mangey,n.d.,P.Oxy.IX.1173,
 Pind. Ol. ii. 76,γᾶς/γῆς/παῖς,μεγας,Pauw,n.d.,P.Oxy.XVII.2092,
 Pind. Pae. 9. 1,ἐμῆς θεῶ μ'ἄτερ,μήσεαι ὦ μᾶτερ,Blass,n.d.,P.Oxy.V.841,Confirmed by metre; Bergk's ἐμήσαο also possible.
 Pind. Pae. 9. 4,ἰσχὺν πτανὸν (ἀν)δράσιν,ἰσχύν τ'ἀνδράσι(ν),Blass,n.d.,P.Oxy.V.841,
-Pl. Phd. 82 E,τῳ δεδέσθαι,τοῦ δεδέσθαι,Heindorf,1810,P.Lond.Lit.145 = Pap.488,
+Pl. Phd. 82e,τῳ δεδέσθαι,τοῦ δεδέσθαι,Heindorf,1810,P.Lond.Lit.145 = Pap.488,
 Pl. Phdr. 228b,πάνυ τις,πάνυ τι,Schanz,n.d.,P.Oxy.VII.1016,Editor's details from Grenfell.
 Pl. Phdr. 239a,τῶν,τοῖς,Heindorf,n.d.,P.Oxy.VII.1017,Editor's details from Grenfell.
 Pl. Phdr. 251a,δεδίει/δεδιείη,ἐδεδίει,Cobet,n.d.,P.Oxy.VII.1017,Editor's details from Grenfell.
@@ -127,9 +127,9 @@ Pl. Resp. 547c,τό,[τω]ι,Burnet,n.d.,P.Oxy.XV.1808,
 Pl. Smp. 202a,καὶ,om.,Stallbaum,n.d.,P.Oxy.VI.843,Editor's details from Grenfell.
 Pl. Smp. 206c,τῷ καλῷ,τῷ om.,Badham,n.d.,P.Oxy.VI.843,Editor's details from Grenfell.
 Pl. Smp. 208b,μετέχειν,μετέχει,Stephanus,n.d.,P.Oxy.VI.843,Editor's details from Grenfell.
-Pl. Smp. 209B,ἐπιθυμεῖ,επιθυμη,Stephanus,n.d.,P.Oxy.V.843,
+Pl. Smp. 209b,ἐπιθυμεῖ,επιθυμη,Stephanus,n.d.,P.Oxy.V.843,
 Pl. Smp. 209a,κυεῖν,τεκεῖν,Hug,n.d.,P.Oxy.VI.843,Editor's details from Grenfell.
-Pl. Smp. 222D,διαβάλῃ,διαβαλει,Hirschig,n.d.,P.Oxy.V.843,
+Pl. Smp. 222d,διαβάλῃ,διαβαλει,Hirschig,n.d.,P.Oxy.V.843,
 Pl. Tht. 152b,ἔστιν γαρ,ἐστιν om.,Ast,n.d.,*Berl. klass. Texte* ii.,Editor's details from Grenfell.
 Plb. 11. ,καταβαίνοντες,καταβάσει,Reiske,n.d.,Arch. f. Papyrusf. i. 388 + P. Ryl. 60,Details from Grenfell; pap. adds προσβαίνοντες.
 Plb. 11. 14. 2,προθεῖναι,προσθεῖναι,Scaliger,n.d.,Arch. f. Papyrusf. i. 388 + P. Ryl. 60,Editor's details from Grenfell.
