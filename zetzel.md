@@ -1,8 +1,12 @@
 # Textual Criticism and the Transmission of Latin Texts
       
-James Zetzel, Columbia University (zetzel@columbia.edu)  
+**A bibliography composed with the needs of graduate students in mind**
+
+James Zetzel, Columbia University
 
 © 2022. This work is openly [licensed](https://github.com/cnx-user-books/cnxbook-tools-of-the-trade-bibliographies-for-roman-studies) via [CC BY 3.0 DEED](https://creativecommons.org/licenses/by/3.0/).
+
+*Revised December 2023 by Sander Goldberg, UCLA (sander@humnet.ucla.edu), whose additions are marked by an asterisk (\*).*
 
 &nbsp;        
 This guide concerns both a very precise subject (textual criticism) and a very broad one (transmission of texts). The broader question can lead into the history of scripts and of manuscript collections and into European intellectual history from antiquity to the present, depending on how you define the subject. What follows falls into three sections, moving from the particular to the general, and becoming less thorough and less expert at every step. The basic rule, however, is simple: if you want to know about ancient (particularly) Latin texts and how to treat them, find some scholars whose approach you admire and read their work. The lists below include some of the scholars I admire and have learned from, but it is both opinionated and by no means exhaustive; you are likely to think of others. Suggestions for additions to this list are always welcome.
@@ -32,8 +36,10 @@ West’s is a relatively user-friendly version of the classic exposition of the 
 P. Maas, Textual Criticism, transl. B. Flower (1958)
           
 Also valuable for judiciousness and lucidity is:
+
+*R. J. Tarrant, *Texts, Editors, and Readers: Methods and Problems in Latin Textual Criticism. Roman Literature and its Contexts*. Cambridge: Cambridge University Press, 2016. 
           
-R. J. Tarrant, “Classical Latin Literature” in D. Greetham, ed.,  *Scholarly Editing: A Guide to Research*  (1995): 95-148
+———, “Classical Latin Literature” in D. Greetham, ed.,  *Scholarly Editing: A Guide to Research*  (1995): 95-148
           
 You should be aware, however, that the classic theory is not the only theory of textual criticism. For medieval or non-literary texts, the most important theoretical work is:
           
@@ -47,7 +53,7 @@ D. Greetham,  *Theories of the Text*  (1999)
           
 J. McGann,  *A Critique of Modern Textual Criticism*  (ed. 2, 1992)
           
----,  *The Textual Condition*  (1991)
+———,  *The Textual Condition*  (1991)
           
 Other major theoretical works you may encounter include:
           
@@ -66,6 +72,9 @@ W. M. Lindsay,  *An Introduction to Latin Textual Emendation, Based on the Text 
 The one truly great work of this kind for Latin is old, but still well worth reading:
           
 J. N. Madvig,  *Adversaria Critica ad scriptores Graecos et Latinos*  (1871-1884). Madvig is a truly great scholar, often undervalued because he did not go in for the pyrotechnics and polemics of a Bentley or Housman. He is always worth reading.
+
+*How does our growing dependence on digital texts affect the editor’s work? Students of Greco-Roman antiquity were among the first humanists to recognize and embrace the many advantages of digital resources, but our main repositories of texts, viz. [The Perseus Digital Library](http://www.perseus.tufts.edu/hopper/), the [Thesaurus Linguae Graecae](https://stephanus.tlg.uci.edu/), [The Packard Humanities Institute](https://latin.packhum.org/), and [The Latin Library](http://www.thelatinlibrary.com/) provide what are in essence digitized versions of pre-existing printed texts. What would a born-digital text look like? How would it make available the full range of information provided by a standard critical edition? Does it change in any way the very concept of an authoritative edition? The first major initiative to tackle the many challenges facing textual criticism in the digital age is The Digital Latin Library, a joint project of the Society for Classical Studies, the Medieval Academy of America, and the Renaissance Society of America. Its [web site](https://digitallatin.org/#main) contains a wealth of information on this and related digital initiatives. Developing the digital equivalent of an apparatus criticus has proven especially challenging. On this important topic, see,
+C. Damon, “Beyond variants: Some digital desiderata for the critical apparatus of ancient Greek and Latin texts,” in *Digital Scholarly Editing: Theories and Practices*, edited by M. Driscoll and E. Pierazzo. Cambridge: OpenBook Publishers, 2016. 201-18.
         
 ### 2. The History of Texts (Recension)
           
@@ -106,31 +115,35 @@ If you really want to learn textual criticism, read the work of good editors and
           
 R. Bentley, ed.,  *Q. Horatius Flaccus ex recensione & cum notis atque emendationibus Richardi Bentleii*  (1711)
           
----, ed.,  *P. Terenti Afri Comoediae*  (1727)
-          
- On Bentley, see now K. Haugen,  *Richard Bentley: Scholarship and Criticism in Eighteenth-Century England*  (Diss. Princeton 2001)
+———, ed.,  *P. Terenti Afri Comoediae*  (1727)
+
+*On Bentley, see now K. Haugen, *Richard Bentley: Poetry and Enlightenment* (Boston 2011)          
           
 Giuseppe Billanovich, “Petrarch and the Textual Tradition of Livy”  *Journal of the Warburg and Courtauld Institutes*  14 (1951) 137-208
           
----, “Dall’antica Ravenna alle bibliotheche umanistiche”  *Aevum*  30 (1956) 319-53
+———, “Dall’antica Ravenna alle bibliotheche umanistiche”  *Aevum*  30 (1956) 319-53
           
 W. Clausen, ed.,  *A. Persi Flacci Saturarum liber*  (1956) 
           
 E. Courtney, “The Transmission of Juvenal’s Text,”  *BICS*  14 (1967) 38-50
+
+*C. Damon, “Editing Caesar,” in [*The Landmark Julius Caesar: Web Essays*](http://thelandmarkcaesar.com/), edited by K.A. Raaflaub. 271-74.
           
 G. P. Goold, “Servius and the Helen Episode,”  *HSCP*  74 (1970) 101-68
           
 H. C. Gotoff,  *The Transmission of the Text of Lucan in the Ninth Century*  (1971)
+
+*N. Horsfall, “Fraud as Scholarship: The Helen Episode and the Appendix Vergiliana,” *ICS* 31/32 (2006-2007) 1-27 
           
 A. E. Housman, ed.,  *M. Manilii Astronomicon liber primus[-quintus]*  (5 vols., 1903-1930)
           
----, ed.,  *M. Annaei Lucani Belli civilis libri decem*  (1926)
+———, ed.,  *M. Annaei Lucani Belli civilis libri decem*  (1926)
           
  On Housman, see now D. Butterfield and C. Stray, eds.,  *A. E. Housman: Classical Scholar*  (2009) 
           
 O. Jahn, ed.,  *Auli Persii Flacci Satirarum Liber*  (1843)
           
----, “Ueber die Subscriptionen in den Hanschriften römischer Classiker,”  *Berichte d. sächs. Ges. Der Wiss. zu Leipzig* , Phil.-Hist. Klasse 3 (1851) 327-72
+———, “Ueber die Subscriptionen in den Hanschriften römischer Classiker,”  *Berichte d. sächs. Ges. Der Wiss. zu Leipzig* , Phil.-Hist. Klasse 3 (1851) 327-72
           
 K. Lachmann, ed.,  *T. Lucreti Cari De rerum natura libri sex*  (1851)
           
@@ -171,7 +184,7 @@ L. D. Reynolds and N. G. Wilson,  *Scribes and Scholars*  (ed. 3, 1991)
           
 S. Timpanaro,  *The Genesis of Lachmann’s Method* , tr. G. Most (2005)
           
-J. Zetzel,  *Latin Textual Criticism in Antiquity*  (1981)
+*J. E. G. Zetzel, *Critics, Compilers, and Commentators. An Introduction to Roman Philology, 200BCE – 800CE* (Oxford 2018)
         
       
       
@@ -187,9 +200,9 @@ B. Bischoff,  *Katalog der festländischen Handschriften des neunten Jahrhundert
           
 P. O. Kristeller,  *Iter Italicum; a finding list of uncatalogued or incompletely catalogued humanistic manuscripts of the Renaissance in Italian and other libraries* . (1963-97)
           
----,  *Latin manuscript books before 1600; a list of the printed catalogues and unpublished inventories of extant collections* . (1965)
+———,  *Latin manuscript books before 1600; a list of the printed catalogues and unpublished inventories of extant collections* . (1965)
           
-P. O. Kristeller et al.,  *Catalogus Translationum et Commentariorum*  (1960--)
+P. O. Kristeller et al.,  *Catalogus Translationum et Commentariorum*  (1960-)
           
 E. A. Lowe, ed.,  *Codices latini antiquiores : a palaeographical guide to Latin manuscripts prior to the ninth century*  (1934-1972)
           
@@ -227,6 +240,8 @@ B. L. Ullman,  *The origin and development of humanistic script*  (1960)
 E. Chatelain,  *Paléographie des classiques latins*  (1884-1900)
           
 R. Merkelbach and H. van Thiel,  *Lateinisches Leseheft : zur Einführung in Paläographie und Textkritik*  (1969)
+
+*Major libraries are increasingly putting complete digital versions of their manuscript holdings online. Notable examples include [The Vatican Library](https://digi.vatlib.it/) and [The Bodleian Library](https://digital.bodleian.ox.ac.uk/).
           
 c) Abbreviations.
           
@@ -249,7 +264,9 @@ T. J. Brown, “Latin Palaeography since Traube” in  *A Palaeographer’s View
         
 ### 1. Biographical Dictionaries of Classicists. 
           
-These are of very variable value. For early scholars, start with the very brief but invaluable Pökel. National biographical dictionaries, where available, are generally more informed about intellectual background and context than biographical dictionaries of classicists alone.
+*Immediate answers can often be found online by consulting [The Database of Classical Scholars](https://dbcs.rutgers.edu/). Entries, which are limited to North American and European scholars no longer living, vary from basic facts of biography and bibliography to extended appreciations. They are generally fuller and more reliable than entries in Wikipedia, The site also provides access to the APA Oral History Project, which has posted video interviews with prominent contemporary scholars.
+
+Print dictionaries are of very variable value. For early scholars, start with the very brief but invaluable Pökel. National biographical dictionaries, where available, are generally more informed about intellectual background and context than biographical dictionaries of classicists alone.
           
 W. Briggs, ed.,  *Biographical Dictionary of North American Classicists*  (1994)
           
@@ -257,7 +274,7 @@ W. Briggs and W. Calder, eds.,  *Classical Scholarship: A Biographical Encyclope
           
 W. Calder and D. J. Kramer,  *An Introductory Bibliography to the History of Classical Scholarship Chiefly in the XIXth and XXth Centuries*  (1992)
           
---- ,  *A Supplementary Bibliography to the History of Classical Scholarship Chiefly in the XIXth and XXth Centuries*  (2000)
+———,  *A Supplementary Bibliography to the History of Classical Scholarship Chiefly in the XIXth and XXth Centuries*  (2000)
           
 A. Eckstein,  *Nomenclator Philologorum*  (1871)
           
@@ -297,16 +314,18 @@ H. I. Marrou,  *Patristique et humanisme*  (1976)
 P. Riché,  *Education and Culture in the Barbarian West*  (1976)
           
 W. Wattenbach,  *Das Schriftwesen im mittelalter*  (ed. 3, 1897)
+
+*J. E. G. Zetzel, *Critics, Compilers, and Commentators. An Introduction to Roman Philology, 200BCE – 800CE* (Oxford 2018) 
           
-J. Zetzel,  *Latin Textual Criticism in Antiquity*  (1981)
+———,  *Latin Textual Criticism in Antiquity*  (1981)
           
----,  *Marginal Scholarship and Textual Deviance*  (1995)
+———,  *Marginal Scholarship and Textual Deviance*  (1995)
           
 ii. Early Modern
           
 A. Grafton,  *Forgers and Critics*  (1990) 
           
----,  *Defenders of the Text*  (1991) [and other books and articles by the same author]
+———,  *Defenders of the Text*  (1991) [and other books and articles by the same author]
           
 R. Pfeiffer,  *History of Classical Scholarship from 1300 to 1850*  (1976)
           
