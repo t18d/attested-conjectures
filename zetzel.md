@@ -17,7 +17,7 @@ L. D. Reynolds and N. G. Wilson,  *Scribes and Scholars*  (ed. 3, 1991).
       
 It is a lucid, readable, and accurate account of how ancient texts, both Greek and Roman, got from antiquity to Now, followed by a clear and brief explanation of textual criticism. For many purposes, you need go no further. But if you want or need more, read on.
 
-## I. *I am using a critical edition and need to learn what the hen-tracks at the foot of the page mean—and why it matters*.
+## I. *I am using a critical edition and need to learn what the hen-tracks at the foot of the page mean – and why it matters*.
         
 ### 1. Textual criticism: theory and practice
           
@@ -67,7 +67,7 @@ Textbooks of practical textual criticism are not reliable, but are occasionally 
           
 J. Willis,  *Latin Textual Criticism*  (1972). Aside from the fundamental error of equating textual criticism with emendation, the book is entertaining and gives practical exercises in emending texts without assuming (or supplying) any knowledge of their history or manuscripts.
           
-W. M. Lindsay,  *An Introduction to Latin Textual Emendation, Based on the Text of Plautus*  (1896). Lindsay’s work (and there is a great deal of it) is rarely exciting, almost always (with the exception of his book on Plautine meter) useful and clear. This book is exactly what it says it is—discussing varieties of correction, largely involving palaeographical errors.
+W. M. Lindsay,  *An Introduction to Latin Textual Emendation, Based on the Text of Plautus*  (1896). Lindsay’s work (and there is a great deal of it) is rarely exciting, almost always (with the exception of his book on Plautine meter) useful and clear. This book is exactly what it says it is – discussing varieties of correction, largely involving palaeographical errors.
           
 The one truly great work of this kind for Latin is old, but still well worth reading:
           
