@@ -5,7 +5,7 @@
 &nbsp;  
 James Zetzel, Columbia University
 
-© 2022. This work is openly [licensed](https://github.com/cnx-user-books/cnxbook-tools-of-the-trade-bibliographies-for-roman-studies) via [CC BY 3.0 DEED](https://creativecommons.org/licenses/by/3.0/).
+© 2022. This work is openly [licensed](https://github.com/cnx-user-books/cnxbook-tools-of-the-trade-bibliographies-for-roman-studies) via [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
 *Revised December 2023 by Sander Goldberg, UCLA (sander@humnet.ucla.edu), whose additions are marked by an asterisk (\*).*
 
