@@ -27,7 +27,7 @@ A critical apparatus is meant to explain to the reader what words in the text ar
           
 Like many international treaties, however, it is frequently ignored and the conventions for editing texts preserved in different media (manuscript, papyrus, inscription) remain quite different from one another. Not to mention the fact that these conventions are fairly recent, and any edition earlier than the 20th century is likely to convey information using a different code.
           
-Fuller than the chapter of  *Scribes and Scholars* , the most straightforward explanation of how to write and read an apparatus, and a good account of how textual criticism works, is:
+Fuller than the chapter of  *Scribes and Scholars*, the most straightforward explanation of how to write and read an apparatus, and a good account of how textual criticism works, is:
           
 M. L. West,  *Textual Criticism* and *Editorial Technique*  (1973)
           
@@ -118,7 +118,7 @@ R. Bentley, ed.,  *Q. Horatius Flaccus ex recensione & cum notis atque emendatio
           
 ———, ed.,  *P. Terenti Afri Comoediae*  (1727)
 
-*On Bentley, see now K. Haugen, *Richard Bentley: Poetry and Enlightenment* (Boston 2011)          
+ *On Bentley, see now K. Haugen, *Richard Bentley: Poetry and Enlightenment* (Boston 2011)          
           
 Giuseppe Billanovich, “Petrarch and the Textual Tradition of Livy”  *Journal of the Warburg and Courtauld Institutes*  14 (1951) 137-208
           
@@ -144,11 +144,11 @@ A. E. Housman, ed.,  *M. Manilii Astronomicon liber primus[-quintus]*  (5 vols.,
           
 O. Jahn, ed.,  *Auli Persii Flacci Satirarum Liber*  (1843)
           
-———, “Ueber die Subscriptionen in den Hanschriften römischer Classiker,”  *Berichte d. sächs. Ges. Der Wiss. zu Leipzig* , Phil.-Hist. Klasse 3 (1851) 327-72
+———, “Ueber die Subscriptionen in den Hanschriften römischer Classiker,”  *Berichte d. sächs. Ges. Der Wiss. zu Leipzig*, Phil.-Hist. Klasse 3 (1851) 327-72
           
 K. Lachmann, ed.,  *T. Lucreti Cari De rerum natura libri sex*  (1851)
           
- On Lachmann, see S. Timpanaro,  *The Genesis of Lachmann’s Method* , tr. G. Most (2005)
+ On Lachmann, see S. Timpanaro,  *The Genesis of Lachmann’s Method*, tr. G. Most (2005)
           
 F. Leo, ed.  *L. Annaei Senecae Tragoediae*  (1878-79)
           
@@ -183,7 +183,7 @@ G. Pasquali,  *Storia della tradizione e critica del testo*  (ed. 2, 1962)
           
 L. D. Reynolds and N. G. Wilson,  *Scribes and Scholars*  (ed. 3, 1991)
           
-S. Timpanaro,  *The Genesis of Lachmann’s Method* , tr. G. Most (2005)
+S. Timpanaro,  *The Genesis of Lachmann’s Method*, tr. G. Most (2005)
           
 *J. E. G. Zetzel, *Critics, Compilers, and Commentators. An Introduction to Roman Philology, 200BCE – 800CE* (Oxford 2018)
         
@@ -222,7 +222,7 @@ a) textbooks and studies of scripts
           
 G. Battelli,  *Lezioni di paleografia*  (1949)
           
-B. Bischoff,  *Latin palaeography : antiquity and the Middle Ages* , transl. Dáibhí ó Cróinin and David Ganz (1990). There is a more recent edition in German.
+B. Bischoff,  *Latin palaeography : antiquity and the Middle Ages*, transl. Dáibhí ó Cróinin and David Ganz (1990). There is a more recent edition in German.
           
 J. Kirchner,  *Scriptura Latina libraria, a saeculo primo usque ad finem medii aevi, LXXVII imaginibus illustrata*  (ed. 2, 1970)
           
@@ -235,7 +235,7 @@ E. M. Thompson,  *An introduction to Greek and Latin palaeography*  (1912)
 B. L. Ullman,  *The origin and development of humanistic script*  (1960)
           
 
-*b) Illustrations of manuscripts of Latin literature. There are many facsimiles of individual important manuscripts. These are collections that allow you to see multiple manuscripts of the same texts.* 
+b) Illustrations of manuscripts of Latin literature. There are many facsimiles of individual important manuscripts. These are collections that allow you to see multiple manuscripts of the same texts.
           
           
 E. Chatelain,  *Paléographie des classiques latins*  (1884-1900)
@@ -255,7 +255,7 @@ L. Traube,  *Nomina sacra, versuch einer geschichte der christlichen kürzung*  
         
 ### 3. History of Palaeography
           
-L. Traube, “Geschichte der Palaeographie” in  *Vorlesungen und Abhandlungen* , vol. 1 (1909)
+L. Traube, “Geschichte der Palaeographie” in  *Vorlesungen und Abhandlungen*, vol. 1 (1909)
           
 T. J. Brown, “Latin Palaeography since Traube” in  *A Palaeographer’s View*  (1993)
         
@@ -300,15 +300,15 @@ A. Gudeman,  *Grundriss der Geschichte der klassischen Philologie*  (ed. 2, 1909
           
 J. Sandys,  *History of Classical Scholarship*  (3 vols.. 1903-1908)
           
-U. von Wilamowitz-Moellendorf,  *History of Classical Scholarship* , transl. A. Harris (1982)
+U. von Wilamowitz-Moellendorf,  *History of Classical Scholarship*, transl. A. Harris (1982)
           
- *b) By period*  (a few works relevant to the transmission and editing of Latin texts):
+ b) By period  (a few works relevant to the transmission and editing of Latin texts):
           
 i. Ancient and Medieval
           
 R. Kaster,  *Guardians of Language: The Grammarian and Society in Late Antiquity*  (1988)
           
-E. Lesne,  *Histoire de la propriété ecclésiastique en France* , vol. 4:  *Les livres des églises et des monastères; "scriptoria" et bibliothèques du VIIe siècle à la fin du XIe*  (1910-)
+E. Lesne,  *Histoire de la propriété ecclésiastique en France*, vol. 4:  *Les livres des églises et des monastères; "scriptoria" et bibliothèques du VIIe siècle à la fin du XIe*  (1910-)
           
 H. I. Marrou,  *Patristique et humanisme*  (1976)
           
