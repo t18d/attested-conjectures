@@ -48,8 +48,8 @@ Aeschin. In Tim.|τοὺς νόμους μὲν|τὸυς μὲν νόμους|C
 Aeschin. In Tim.|ἐπὶ πᾶσι τοῖς δικαίοις|τοῖς om.|Hillebrand|n.d.|2nd cent. Geneva pap.: Nicole *Textes grecs inéd.* 1 & P. Halle 6|Editor's details from Grenfell.
 Aeschin. In Tim.|κατηγορούντων|κατηγόρων|Blass|n.d.|P. Halle 6|Editor's details from Grenfell.
 Alc. 19|τῷ προτέρῳ νεομω|τῳ π.'νέμῳ|Blass|n.d.|P.Oxy.XV.1789|Only conjecture listed that is consistent with the pap. - not necessarily right.
+Anth. Pal. 5.217|γλυκεροὺς/γλυκεράς|Γλυκέρας|Scaliger|n.d.|P.Oxy.II.211|Conjecture in epigram verified by discovery of fr.
 Anth. Pal. 9.588|ἐπωμίδας|βραχείονας|Johann Pierson|n.d.|P.Tebt.3|Editor's details from Grenfell.
-Anth. Pal. v.217|γλυκεροὺς/γλυκεράς|Γλυκέρας|Scaliger|n.d.|P.Oxy.II.211|Conjecture in epigram verified by discovery of fr.
 Ap. Rhod. 3.263|-σι νέεσθαι/νέεσθε|-σιν ἕλεσθε|Brunck|n.d.|P.Oxy.VI.874|Editor's details from Grenfell's article.
 Ap. Rhod. 3.263|φημοσύνηισινέεσθαι L/εφημοσύνῃσιν εεσθε G|εφ]ημοσυνηι[σι]ν ελεσ[θε|Brunck|n.d.|P.Oxy.VI.874|Pap. uncertain but letters only agree with Brunck not MSS.
 Ap. Rhod. 3.745|ναῦται εἰς Ἑλίκην|ναυτίλοι εἰς Ἑλίκην|Porson|n.d.|P.Oxy.IV.690|Editor's details from Grenfell's article.
@@ -85,8 +85,8 @@ Callim. fr. 158|γαιοδόται|γεωδαῖται|Bentley|n.d.|P.Oxy.XVII.2
 Callim. fr. 209|Φωκείων|Φωκαέων|Valckenaer|n.d.|P.Oxy.XV.1793|
 Callim. fr. 86.2|χάλχεον|Παγχαῖον|Bentley|n.d.|P.Oxy.XI.1363|
 Callim. frs. 502 + 172|γυνή|γύπῃ|Toup and Ruhnken|n.d.|P.Oxy.XVII.2080|
-Chariton ii. 3| ψόφου δέ ποθεν αἰσθομένη|ψόφου δὲ ποδῶν αἰσθομένη|D'Orville|n.d.|P.Oxy.VII.1019|Editor's details from Grenfell.
-Dem. De fals. leg. 280|καὶ|om.|Dobree|n.d.O|P.Oxy.VIII.1094|Editor's details from Grenfell.
+Charito 2.3| ψόφου δέ ποθεν αἰσθομένη|ψόφου δὲ ποδῶν αἰσθομένη|D'Orville|n.d.|P.Oxy.VII.1019|Editor's details from Grenfell.
+Dem. 19.280|καὶ|om.|Dobree|n.d.O|P.Oxy.VIII.1094|Editor's details from Grenfell.
 Dem. Ep. 3.22|ἀγνώμοσι|ἀγνῶσι|Dobree|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
 Dem. Ep. 3.22|ἠδικεῖσθε/ἀδικεῖσθαι|ἀδικοῖσθε|Sauppe|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
 Dem. Ep. 3.25|οὐδεὶς ἂν|οὐδεὶς|Sauppe|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
@@ -97,7 +97,7 @@ Dem. Ep. 3.30|γενήσεσθαι|γενέσθαι|Fuhr|n.d.|P.Brit.Mus.133|Edi
 Dem. Ep. 3.31|Εὔδικον/Εὔδημον|Εὐθύδικον|Blass|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
 Dem. Ep. 3.38|om.|ἐὰν|Bekker|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
 Dem. Ep. 3.9|τὸ ὅσον|ὅσον|Blass|n.d.|P.Brit.Mus.133|Editor's details from Grenfell.
-Dem. Prooem.26|κοιῶς|κοινῶν|Wolf|1812|P.Oxy.I.26|
+Dem. Prooem. 26|κοιῶς|κοινῶν|Wolf|1812|P.Oxy.I.26|
 Eur. IT. 1618|τήνδε|τῆσδε|Bothe|n.d.|P.Hibeh 24|Editor's details from Grenfell's article.
 Eur. IT. 252|καὶ τυχόντες|κἀντυχόντες|Reiske|n.d.|P.Hibeh 24|Editor's details from Grenfell's article.
 Eur. Or. 1340|ἀλλ'|ἄγ'|Weil|n.d.|P.Oxy.XI.1370|
@@ -110,9 +110,9 @@ Hdt. 1.105|ὁ θέος|η θε[ος|Hude|n.d.|P.Oxy.X.1244|
 Hdt. 1.106|ὑποθέμενος|ῡπερθεμενος|Schaefer|n.d.|P.Oxy.X.1244|
 Hdt. 1.116|ἐσήει|ἐσήιε|Bekker|1833|P.Münch.II.40 = Pap.graec.mon.89|
 Hdt. 2.175|οἱ|οἷα|Friedrich Ludwig Abresch|s.xviii med.|P.Oxy.VIII.1092|
-Herm. l.17|⟨καὶ⟩ εὐχαριστεῖ|εὐχαριστῶν|Tischendorf|n.d.|P.Oxy.IX.1172|
-Herm. l.28|συνιει|συνηκεν|Tischendorf|n.d.|P.Oxy.IX.1172|
-Herm. l.54|λοιπόν|αὐτόν|Hilgenfeld|n.d.|P.Oxy.XIII.1599|
+Herm. Sim. 2.17|⟨καὶ⟩ εὐχαριστεῖ|εὐχαριστῶν|Tischendorf|n.d.|P.Oxy.IX.1172|
+Herm. Sim. 2.28|συνιει|συνηκεν|Tischendorf|n.d.|P.Oxy.IX.1172|
+Herm. Sim. 8.54|λοιπόν|αὐτόν|Hilgenfeld|n.d.|P.Oxy.XIII.1599|
 Hes. Op. 263|Βασιλεῖς/Βασιλῆες|Βασιλῆς|||P.Oxy.VIII.1090|Editor's details from Grenfell's article.
 Hes. Op. 264|δικῶν|δικέων|||P.Oxy.VIII.1090|Editor's details from Grenfell's article.
 Hes. Op. 268|ἐθέληισ'|ἐθέληι|||P.Oxy.VIII.1090|Editor's details from Grenfell's article.
@@ -126,10 +126,10 @@ Hom. Il. 5.667|ἀμφιέποντες|αμ]φις ἐποιτ[ες|Brandreth|n.
 Hom. Il. 6.493|πᾶσιν ἐμοὶ δ[ε μάλιστα τοὶ Ἰλίῳ|πασι μαλιστα δ εμοι τοι Ιλιωι|Hoffman & Bekker|n.d.|P.Oxy.III.445|Pap. preserves digamma before Ιλιωι
 Isoc. Ad Nic. 2|διοικοῖς|διοικῇς|Blass|1891|Papyrus Massiliensis = CPF I.2 17|
 Isoc. Ad Nic. 8|ταῖς μοναρχίαις|τὰς μοναρχίας|Cobet|n.d.|Papyrus Massiliensis = CPF I.2 17|Editor's details from Kenyon's article.
-Isoc. Panegyricus 68|om. γε|ελαττω γε|Cobet|n.d.|P.Oxy.V.844|
+Isoc. Paneg. 68|om. γε|ελαττω γε|Cobet|n.d.|P.Oxy.V.844|
 Logia Iesou 1.7-8|θαυμάσας|θαμβηβεὶς|Zahn|n.d.|P.Oxy.IV.654|Zahn: *Gesch. d. NT. Kan.* ii. p. 657; Zahn's conjecture is that a. θαμβηβεὶς b. that θαμβηβεὶς is a mistranslation of a Hebrew/Aramaic word also meaning θορυβηθείς and thus συντετριμμένης would be the right term; howver θαμβηθείς appears in the pap. and so this further conjecture is disproved.
-Men. Kol.  49-50|νῦν|νυνί|Grotius|s.xvii in.|P.Oxy.III.409|Eust.1833.58.; emend. apud Clericum
-Men.Epit.476|συγγν[..]ης [..]ρως Lefebvre/συγγν . μην . ρων|συγγνώμ]ης [μέ]ρος|Van Leeuwen|n.d.|P.Oxy.X.1236|
+Men. Epit. 476|συγγν[..]ης [..]ρως Lefebvre/συγγν . μην . ρων|συγγνώμ]ης [μέ]ρος|Van Leeuwen|n.d.|P.Oxy.X.1236|
+Men. Kol. 50|νῦν|νυνί|Grotius|s.xvii in.|P.Oxy.III.409|Eust.1833.58.; emend. apud Clericum
 Opp. C. 4.208|ἐρυccάμενοι|ερειcάμεν[οι|Johann Pierson|1752|P.Oxy.LXXXI.5278|
 Opp. H. 14.393|ἀκωκήν|κολώνην|Graefe|n.d.|See Grenfell p.24 (7th cent. pap.)|Bordeline: Pap. has ἀκωκήν corrected to κορώνην (i.e. κολώνην) which is corrected to ἀκωκήν (which is from the end of 394).
 Opp. H. 14.398|πολυσταφύλῳ|φιλοσταφύλῳ|Graefe|n.d.|See Grenfell p. 24 (7th cent. pap.)|Editor's details from Grenfell.
@@ -138,19 +138,19 @@ Opp. H. 15.165|Βάκχοιο|Γλαύκοιο|Falkenburg|n.d.|See Grenfell p.24
 Opp. H. 15.165|μαχητάς|μαχηταῖς|Köchly|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
 Opp. H. 15.87|οἰνηθέντες|οἰνωθεντες|Graefe|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
 Orac. Sib. 516-517|516 before 517|517 before 516|Geffcken|n.d.|P.Flor.398|Editor's details from Grenfell.
-P. Brit. Mus. 214.20||ἔ]νγραφα|Wilcken|n.d.|P.Oxy.VIII.1121|See Wilcken *Archiv* i. 154.
-P. Brit. Mus. 256 recto (e) l. 10|χειρογραφίαν|ἀποχήν|Wilcken|n.d.|P.Oxy.VII.1024|Confirms restoration of ἀποχήν "in place of" χειρογραφίαν; Wilcken *Archiv* iii. pp. 236-7.
-P. Giessen 50.34||Σαλωνείνου Οὐαλεριανοῦ|P. M. Meyer|n.d.|P.Oxy.X.1274|Restoration; details thereof obscure in P.Oxy.10.
-P. Oxy. III.579||Θοή[ριδος|Grenfell & Hunt|1903|P.Oxy.VIII.1118|Reading Θοή[ριδος confirmed by τῆς καὶ Θοήριδος l. 5
-P. Tebt. 286.15|om.|ἱερεύς|Hunt|n.d.|P.Oxy.VIII.1092|Restoration of ἱερεύς.
+P.Brit.Mus.214.20||ἔ]νγραφα|Wilcken|n.d.|P.Oxy.VIII.1121|See Wilcken *Archiv* i. 154.
+P.Brit.Mus.256 recto (e) l. 10|χειρογραφίαν|ἀποχήν|Wilcken|n.d.|P.Oxy.VII.1024|Confirms restoration of ἀποχήν "in place of" χειρογραφίαν; Wilcken *Archiv* iii. pp. 236-7.
+P.Giessen 50.34||Σαλωνείνου Οὐαλεριανοῦ|P. M. Meyer|n.d.|P.Oxy.X.1274|Restoration; details thereof obscure in P.Oxy.10.
+P.Oxy.III.579||Θοή[ριδος|Grenfell & Hunt|1903|P.Oxy.VIII.1118|Reading Θοή[ριδος confirmed by τῆς καὶ Θοήριδος l. 5
 P.Oxy.VI.917||σπ(ονδῆς) Διον(ύσου)|Grenfell and Hunt|1908|P.Oxy.X.1283|Reading confirmed.
-Philo De Ebrietate 2|τῆς ἀπαιδευσίας|τη]ν απαιδευσιαν|Turnebus & Wendland|n.d.|P.Oxy.IX.1173|
-Philo De Ebrietate 2|om.|τοῦ|Wendland with Richter|n.d.|P.Oxy.IX.1173|
-Philo De Ebrietate 219|ευπρεπεις|ευτρεπεις|Wendland|n.d.|P.Oxy.IX.1173|
-Philo De Ebrietate 219|συνεχούσης|συνεχους|Wendland|n.d.|P.Oxy.IX.1173|
-Philo De Ebrietate 221|ἐπειδάν|ἐπειδάν δὲ|Wendland|n.d.|P.Oxy.IX.1173|
-Philo De Ebrietate 221|οἰνηρεύσεις|οινηρυσει[ς|Turnebus|n.d.|P.Oxy.IX.1173|
-Philo De Ebrietate 222|μαρμάρζει|μαιμᾷ|Mangey|n.d.|P.Oxy.IX.1173|
+P.Tebt.286.15|om.|ἱερεύς|Hunt|n.d.|P.Oxy.VIII.1092|Restoration of ἱερεύς.
+Philo Ebr. 2|τῆς ἀπαιδευσίας|τη]ν απαιδευσιαν|Turnebus & Wendland|n.d.|P.Oxy.IX.1173|
+Philo Ebr. 2|om.|τοῦ|Wendland with Richter|n.d.|P.Oxy.IX.1173|
+Philo Ebr. 219|ευπρεπεις|ευτρεπεις|Wendland|n.d.|P.Oxy.IX.1173|
+Philo Ebr. 219|συνεχούσης|συνεχους|Wendland|n.d.|P.Oxy.IX.1173|
+Philo Ebr. 221|ἐπειδάν|ἐπειδάν δὲ|Wendland|n.d.|P.Oxy.IX.1173|
+Philo Ebr. 221|οἰνηρεύσεις|οινηρυσει[ς|Turnebus|n.d.|P.Oxy.IX.1173|
+Philo Ebr. 222|μαρμάρζει|μαιμᾷ|Mangey|n.d.|P.Oxy.IX.1173|
 Pind. Ol. ii.76|γᾶς/γῆς/παῖς|μεγας|Pauw|n.d.|P.Oxy.XVII.2092|
 Pind. Pae. 9.1|ἐμῆς θεῶ μ'ἄτερ|μήσεαι ὦ μᾶτερ|Blass|n.d.|P.Oxy.V.841|Confirmed by metre; Bergk's ἐμήσαο also possible.
 Pind. Pae. 9.4|ἰσχὺν πτανὸν (ἀν)δράσιν|ἰσχύν τ'ἀνδράσι(ν)|Blass|n.d.|P.Oxy.V.841|
@@ -187,9 +187,9 @@ Simon. fr. 88|λεύχης|λέσχης|H. Stephanus|n.d.|P.Oxy.XI.1362|
 Soph. OT. 1310|δίαπέταται|διαπωτᾶται|Musgrave & Seidler|n.d.|P.Oxy.XI.1369|
 Soph. Trach. 1136|μνωμένη|μωμ[ενη|Heath|n.d.|P.Oxy.XV.1806|According to Subkoff [this] was the reading of L2 - Grenfell and Hunt.
 Soph. fr. 294|ἐπισχολάζεται|κοὐκ ἔτι σχολάζεται|Meineke|n.d.|P.Oxy.IX.1174|
-Sor. Gynaecia 2-3|Ἀθηναίων|Ἀθηνίων|Wellmann|n.d.|P. Soc. Ital. 117|Details from Grenfell.
-Sor. Gynaecia 2-3|ἐν τῷ α καὶ γ τῆς αἱρέσεως|ἐν τῷ α καὶ γ τῶν περὶ τῆς αἱρέσεως|Rose|n.d.|P. Soc. Ital. 117|Details from Grenfell.
-Sor. Gynaecia 2-3|καὶ Ζήνωνα καὶ Ἀριστοτέλην τὸν Ἐπικούριον|καὶ Ἀριστοτέλην καὶ Ζήνωνα τὸν Ἐπικούριον|Ermerins|n.d.|P. Soc. Ital. 117|Details from Grenfell.
+Sor. Gyn. 2-3|Ἀθηναίων|Ἀθηνίων|Wellmann|n.d.|P. Soc. Ital. 117|Details from Grenfell.
+Sor. Gyn. 2-3|ἐν τῷ α καὶ γ τῆς αἱρέσεως|ἐν τῷ α καὶ γ τῶν περὶ τῆς αἱρέσεως|Rose|n.d.|P. Soc. Ital. 117|Details from Grenfell.
+Sor. Gyn. 2-3|καὶ Ζήνωνα καὶ Ἀριστοτέλην τὸν Ἐπικούριον|καὶ Ἀριστοτέλην καὶ Ζήνωνα τὸν Ἐπικούριον|Ermerins|n.d.|P. Soc. Ital. 117|Details from Grenfell.
 Theoc. Id. 15.98|σπέρχιν/πέρχην|πέρυσιν|Reiske|n.d.|P.Oxy.XIII.1618|Paradosis corrupt; papyrus reads πέρυ]σιν; editor's details from Grenfell's article.
 Theoc. Id. 22.40|πεφύκασιν|πεφυκεσαν|Stephanus|n.d.|P.Oxy.XV.1806|
 Thuc. 11.6|οὔτω|om.|Madvig|n.d.|P.Oxy.XIII.1621|Editor's details from Grenfell.
