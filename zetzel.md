@@ -218,7 +218,7 @@ J. Mabillon,  *De re diplomatica Libri VI*  (1681)
           
 It is a grand book, which includes not only the development of Latin scripts but diplomatics and the historical authentication of documents. The term ‘palaeography’ was invented a few years later by Mabillon’s friend and fellow Maurist Bernard de Montfaucon in his  *Palaeographia Graeca* . Mabillon’s account of the history of scripts is no longer valid; Montfaucon’s book is still a good introduction to Greek palaeography.
           
-a) textbooks and studies of scripts
+#### a) textbooks and studies of scripts
           
 G. Battelli,  *Lezioni di paleografia*  (1949)
           
@@ -235,8 +235,9 @@ E. M. Thompson,  *An introduction to Greek and Latin palaeography*  (1912)
 B. L. Ullman,  *The origin and development of humanistic script*  (1960)
           
 
-b) Illustrations of manuscripts of Latin literature. There are many facsimiles of individual important manuscripts. These are collections that allow you to see multiple manuscripts of the same texts.
-          
+#### b) Illustrations of manuscripts of Latin literature.
+
+There are many facsimiles of individual important manuscripts. These are collections that allow you to see multiple manuscripts of the same texts.          
           
 E. Chatelain,  *Paléographie des classiques latins*  (1884-1900)
           
@@ -244,7 +245,7 @@ R. Merkelbach and H. van Thiel,  *Lateinisches Leseheft : zur Einführung in Pal
 
 *Major libraries are increasingly putting complete digital versions of their manuscript holdings online. Notable examples include [The Vatican Library](https://digi.vatlib.it/) and [The Bodleian Library](https://digital.bodleian.ox.ac.uk/).
           
-c) Abbreviations.
+#### c) Abbreviations.
           
 A. Cappelli,  *Lexicon abbreviaturarum : dizionario di abbreviature latine ed italiane usate nelle carte e codici specialmente del Medio-Evo, riprodotte con oltre 14000 segni incisi, con l'aggiunta di uno studio sulla brachigrafia medioevale, un prontuario di sigle epigrafiche, l'antica numerazione romana ed arabica ed i segni indicanti monete, pesi, misure, etc.*  (ed. 6, 1990; many editions with various titles in several languages)
           
@@ -290,11 +291,11 @@ R. B. Todd (ed.),  *The Dictionary of British Classicists*  (2005)
 W. Unte,  *Heroen und Epigonen : Gelehrtenbiographien der klassischen Altertumswissenschaft im 19. und 20. Jahrhundert*  (2003)
         
         
-## 2. Histories of Classical Scholarship 
+### 2. Histories of Classical Scholarship 
           
 This is a small and idiosyncratic list of works I find useful.
           
-a) General
+#### a) General
           
 A. Gudeman,  *Grundriss der Geschichte der klassischen Philologie*  (ed. 2, 1909)
           
@@ -302,9 +303,9 @@ J. Sandys,  *History of Classical Scholarship*  (3 vols.. 1903-1908)
           
 U. von Wilamowitz-Moellendorf,  *History of Classical Scholarship*, transl. A. Harris (1982)
           
- b) By period  (a few works relevant to the transmission and editing of Latin texts):
+#### b) By period  (a few works relevant to the transmission and editing of Latin texts):
           
-i. Ancient and Medieval
+##### i. Ancient and Medieval
           
 R. Kaster,  *Guardians of Language: The Grammarian and Society in Late Antiquity*  (1988)
           
@@ -322,7 +323,7 @@ W. Wattenbach,  *Das Schriftwesen im mittelalter*  (ed. 3, 1897)
           
 ———,  *Marginal Scholarship and Textual Deviance*  (1995)
           
-ii. Early Modern
+##### ii. Early Modern
           
 A. Grafton,  *Forgers and Critics*  (1990) 
           
@@ -334,7 +335,7 @@ S. Rizzo,  *Il lessico filologico degli umanisti*  (1973). Organized as a dictio
           
 R. Sabbadini,  *Le scoperte dei codici latini e greci ne’secoli XIV e XV*  (1914; ed. 2 with additions by E. Garin, 1967)
           
-iii. Regional/Modern
+##### iii. Regional/Modern
           
 C. Brink,  *English classical scholarship : historical reflections on Bentley, Porson and Housman*  (1985)
           
