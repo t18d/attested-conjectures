@@ -28,7 +28,7 @@
 </details>
 
 <br>
-<p>See also James Zetzel's <a href="./zetzel.md">Textual Criticism and the Transmission of Latin Texts</a>.</p>
+<p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
