@@ -218,7 +218,7 @@ J. Mabillon,  *De re diplomatica Libri VI*  (1681)
           
 It is a grand book, which includes not only the development of Latin scripts but diplomatics and the historical authentication of documents. The term ‘palaeography’ was invented a few years later by Mabillon’s friend and fellow Maurist Bernard de Montfaucon in his  *Palaeographia Graeca*. Mabillon’s account of the history of scripts is no longer valid; Montfaucon’s book is still a good introduction to Greek palaeography.
           
-#### a) textbooks and studies of scripts
+#### a) Textbooks and studies of scripts
           
 G. Battelli,  *Lezioni di paleografia*  (1949)
           
@@ -235,7 +235,7 @@ E. M. Thompson,  *An introduction to Greek and Latin palaeography*  (1912)
 B. L. Ullman,  *The origin and development of humanistic script*  (1960)
           
 
-#### b) Illustrations of manuscripts of Latin literature.
+#### b) Illustrations of manuscripts of Latin literature
 
 There are many facsimiles of individual important manuscripts. These are collections that allow you to see multiple manuscripts of the same texts.          
           
@@ -245,7 +245,7 @@ R. Merkelbach and H. van Thiel,  *Lateinisches Leseheft : zur Einführung in Pal
 
 *Major libraries are increasingly putting complete digital versions of their manuscript holdings online. Notable examples include [The Vatican Library](https://digi.vatlib.it/) and [The Bodleian Library](https://digital.bodleian.ox.ac.uk/).
           
-#### c) Abbreviations.
+#### c) Abbreviations
           
 A. Cappelli,  *Lexicon abbreviaturarum : dizionario di abbreviature latine ed italiane usate nelle carte e codici specialmente del Medio-Evo, riprodotte con oltre 14000 segni incisi, con l'aggiunta di uno studio sulla brachigrafia medioevale, un prontuario di sigle epigrafiche, l'antica numerazione romana ed arabica ed i segni indicanti monete, pesi, misure, etc.*  (ed. 6, 1990; many editions with various titles in several languages)
           
