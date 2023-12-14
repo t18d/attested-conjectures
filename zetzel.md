@@ -31,21 +31,21 @@ Like many international treaties, however, it is frequently ignored and the conv
           
 Fuller than the chapter of  *Scribes and Scholars*, the most straightforward explanation of how to write and read an apparatus, and a good account of how textual criticism works, is:
           
-M. L. West,  *Textual Criticism* and *Editorial Technique*  (1973)
+M. L. West,  *Textual Criticism and Editorial Technique*  (1973)
           
 West’s is a relatively user-friendly version of the classic exposition of the editorial theory generally known as the Method of Lachmann (on which see further below). The theory itself is set out in terse, elegant, and abstract form in a very brief masterpiece:
           
-P. Maas, Textual Criticism, transl. B. Flower (1958)
+P. Maas, *Textual Criticism*, transl. B. Flower (1958)
           
 Also valuable for judiciousness and lucidity is:
 
-*R. J. Tarrant, *Texts, Editors, and Readers: Methods and Problems in Latin Textual Criticism. Roman Literature and its Contexts*. Cambridge: Cambridge University Press, 2016. 
+\*R. J. Tarrant, *Texts, Editors, and Readers: Methods and Problems in Latin Textual Criticism. Roman Literature and its Contexts*. Cambridge: Cambridge University Press, 2016. 
           
 ———, “Classical Latin Literature” in D. Greetham, ed.,  *Scholarly Editing: A Guide to Research*  (1995): 95-148
           
 You should be aware, however, that the classic theory is not the only theory of textual criticism. For medieval or non-literary texts, the most important theoretical work is:
           
-H. Kantorowicz, Einführung in die Textkritik. Systematische Darstellung der textkritischen Grundsätze fur Philologen und Juristen (1921)
+H. Kantorowicz, *Einführung in die Textkritik. Systematische Darstellung der textkritischen Grundsätze fur Philologen und Juristen* (1921)
           
 Postmodern textual theory, which concentrates on reception rather than reconstruction, is also valuable, even for classicists. Among the most useful works are:
           
@@ -114,7 +114,7 @@ When it comes to the history of particular texts, every scholar has his or her o
           
 L. Traube,  *Textgeschichte der Regula Benedicti*  (ed. 2, 1910). If you are seriously interested in textual criticism or the history of texts, start here. In fact, read anything Traube ever wrote. Various essays on the transmission of texts are included in his  *Kleine Schriften*  (1920). Some of his conclusions have been modified by later research, but no one has ever had a better understanding of the process of transmission. A note on intellectual genealogy: Traube taught, among others, the American scholars E. K. Rand, E. A. Lowe, and C. H. Beeson; most American palaeographers and textual critics of Latin in the twentieth century were taught by them.
           
-If you really want to learn textual criticism, read the work of good editors and historians of texts. For Latin literature, here are some I admire, listed by scholar, not by ancient text.. There are other outstanding editions; these offer prefaces or comments that illuminate editorial method and textual history. The secondary bibliography offered on a few scholars is very limited, but offers a start.
+If you really want to learn textual criticism, read the work of good editors and historians of texts. For Latin literature, here are some I admire, listed by scholar, not by ancient text. There are other outstanding editions; these offer prefaces or comments that illuminate editorial method and textual history. The secondary bibliography offered on a few scholars is very limited, but offers a start.
           
 R. Bentley, ed.,  *Q. Horatius Flaccus ex recensione & cum notis atque emendationibus Richardi Bentleii*  (1711)
           
@@ -137,7 +137,7 @@ G. P. Goold, “Servius and the Helen Episode,”  *HSCP*  74 (1970) 101-68
           
 H. C. Gotoff,  *The Transmission of the Text of Lucan in the Ninth Century*  (1971)
 
-*N. Horsfall, “Fraud as Scholarship: The Helen Episode and the Appendix Vergiliana,” *ICS* 31/32 (2006-2007) 1-27 
+\*N. Horsfall, “Fraud as Scholarship: The Helen Episode and the Appendix Vergiliana,” *ICS* 31/32 (2006-2007) 1-27 
           
 A. E. Housman, ed.,  *M. Manilii Astronomicon liber primus[-quintus]*  (5 vols., 1903-1930)
           
@@ -191,7 +191,7 @@ L. D. Reynolds and N. G. Wilson,  *Scribes and Scholars*  (ed. 3, 1991)
           
 S. Timpanaro,  *The Genesis of Lachmann’s Method*, tr. G. Most (2005)
           
-*J. E. G. Zetzel, *Critics, Compilers, and Commentators. An Introduction to Roman Philology, 200BCE – 800CE* (Oxford 2018)
+\*J. E. G. Zetzel, *Critics, Compilers, and Commentators. An Introduction to Roman Philology, 200BCE – 800CE* (Oxford 2018)
         
       
       
@@ -203,7 +203,7 @@ All manuscript collections have catalogues, but not all catalogues are either a)
           
 G. Becker,  *Catalogi bibliothecarum antiqui*  (1885)
           
-B. Bischoff,  *Katalog der festländischen Handschriften des neunten Jahrhunderts: (mit Ausnahme der wisigotischen)*  (1998-)
+B. Bischoff,  *Katalog der festländischen Handschriften des neunten Jahrhunderts (mit Ausnahme der wisigotischen)*  (1998-)
           
 P. O. Kristeller,  *Iter Italicum; a finding list of uncatalogued or incompletely catalogued humanistic manuscripts of the Renaissance in Italian and other libraries*. (1963-97)
           
@@ -305,7 +305,7 @@ This is a small and idiosyncratic list of works I find useful.
           
 A. Gudeman,  *Grundriss der Geschichte der klassischen Philologie*  (ed. 2, 1909)
           
-J. Sandys,  *History of Classical Scholarship*  (3 vols.. 1903-1908)
+J. Sandys,  *History of Classical Scholarship*  (3 vols., 1903-1908)
           
 U. von Wilamowitz-Moellendorf,  *History of Classical Scholarship*, transl. A. Harris (1982)
           
@@ -323,7 +323,7 @@ P. Riché,  *Education and Culture in the Barbarian West*  (1976)
           
 W. Wattenbach,  *Das Schriftwesen im mittelalter*  (ed. 3, 1897)
 
-*J. E. G. Zetzel, *Critics, Compilers, and Commentators. An Introduction to Roman Philology, 200BCE – 800CE* (Oxford 2018) 
+\*J. E. G. Zetzel, *Critics, Compilers, and Commentators. An Introduction to Roman Philology, 200BCE – 800CE* (Oxford 2018) 
           
 ———,  *Latin Textual Criticism in Antiquity*  (1981)
           
