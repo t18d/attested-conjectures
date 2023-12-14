@@ -21,7 +21,7 @@ with open("amsterdam-db.txt", "r", encoding="utf8") as amst_txt:
                         fn[3]: scholar[1:], 
                         fn[4]: year, 
                         fn[5]: "",# no place in the txt file.
-                        fn[6]: f"https://ntvmr.uni-muenster.de/nt-conjectures?conjID={ID[1:]}"}
+                        fn[6]: f"[{ID[1:]}](https://ntvmr.uni-muenster.de/nt-conjectures?conjID={ID[1:]})"}
             amst_csv.append(new_line)
         else:
             bad_lines.append(line)
