@@ -11,7 +11,7 @@ with open("amsterdam-db.txt", "r", encoding="utf8") as amst_txt:
         # Ref. = REF X:Y [X]
         # note that a successful re.split returns an empty string at [0]
         # the following regex means that everything non-ref starts with a string
-        results = re.split(r"([0-9]*\s*[A-Za-z]+\s[0-9]+:[0-9]+\s\[[0-9]+\])(\s.+\.*\s\])(\s.+)(\s[A-Za-z]+)(\s\(*[0-9]+\)*)(\scj[0-9]+)", line)
+        results = re.split(r"([0-9]*\s*[A-Za-z]+\s[0-9]+:[0-9]+\s\[[0-9]+–*[0-9]*\])((?:\s.+)*\s\])((?:\s.+\.*)*)(\s[A-Za-z]+)(\s\(*[0-9]+\)*)(\scj[0-9]+)", line)
         if results[0] == '':
             ref, paradosis, conjecture, scholar, year, ID = results[1:-1]
             if "(" in year: year = year[2:-1] # got to get rid of brackets
