@@ -1,0 +1,17 @@
+name: Run csv-to-md.py
+run-name: csv-to-md
+on: 
+  push:
+    paths:
+      - attested-conjectures.csv
+jobs:
+  Run-CSV-To-MD_PY:
+    runs-on: [windows-latest, ubuntu-latest]
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with: 
+          python-version: '3.10'
+      - name: Run csv-to-md.py
+      - run: python csv-to-md.py
