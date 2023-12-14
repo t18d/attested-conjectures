@@ -9,7 +9,7 @@
     </ul>
     <h3>Sources</h3>
     <ul>
-        <li>P.Oxy.I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XV, XVII, LXXXI</li>
+        <li>P.Oxy.I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XV, XVII, XIX, LXXXI</li>
         <li>Borges, Cassandra, and C. Michael Sampson, <em>New literary papyri from the Michigan collection: mythographic lyric and a catalogue of poetic first lines</em> (Ann Arbor, 2012), 20.</li>
         <li>El-Maghrabi, M. G., and C. Römer (eds), <em>Texts from the "Archive" of Socrates, the Tax Collector, and Other Contexts at Karanis (P. Cair. Mich. II)</em> (Berlin, 2015), 48.</li>
         <li>Finglass, P. J., 'Unpublished Conjectures on Sophocles by Jeremiah Markland', <em>Greek, Roman, and Byzantine Studies</em> 51/2 (2011), 232-238.</li>
@@ -204,5 +204,7 @@ Thuc. 7|τε|om.|Hude|n.d.|P.Oxy.XI.1376|Details from Grenfell.
 Thuc. 7|ὅπως ἂν ἀπολισθάνοι|ἂν om.|Henrik van Herwerden|s.xix ex.|P.Oxy.XI.1376|Details from Grenfell.
 Thuc. 8.10|ἑπτὰ|ἐς ἑπτὰ|Westermann|n.d.|P.Oxy.X.1247|Editor's details from Grenfell.
 Thuc. 8.23.5|om.|Ἰώνων|Gertz|1925|P.Oxy.XVII.2100|Justified not confirmed by νεῶν -> ξυμμάχων at same place; year given is that of Hude's Teubner which adopts this conjecture.
+Unknown l. 106|ἤδη|οὐδὲν|Bergk|n.d.|P.Oxy.XIX.2226|As above: on p.80 yet p. 79 (and prev.) is missing.
+Unknown l. 93|ἶνες/ἴρις/ἶρις|ρινος|Valckenaer|n.d.|P.Oxy.XIX.2226|p.80 of P.Oxy.XIX; p. 79 seems to be unavailable online.
 Xen. Oec. 9.2|τῆς οἰκίας|τῆς γε οἰκίας|Cobet|n.d.|P.Oxy.II.227|Editor's details from Grenfell.
 Xen. Oec. 9.2|ἑκάστῳ|ἐν ἑκάστῳ|Schneider|n.d.|P.Oxy.II.227|Editor's details from Grenfell.
