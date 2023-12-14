@@ -29,9 +29,9 @@
 </details>
 
 &nbsp;  
-See also James Zetzel's [Textual Criticism and the Transmission of Latin Texts](./zetzel.md).
+See also James Zetzel's <a href="./zetzel.md">Textual Criticism and the Transmission of Latin Texts</a>.
 
-This database is searchable as a [CSV file](https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv).
+This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.
 
 &nbsp;  
 
