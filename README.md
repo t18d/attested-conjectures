@@ -4,7 +4,7 @@
     <summary>Bibliography</summary>
     <h3>Methodology</h3>
     <ul>
-        <li>James, Patrick. ‘Review of The Oxyrhynchus Papyri. Volume LXXXI.’ <em>The Classical Review</em> 68, no. 2 (2018): 395-398.</li>
+        <li>James, Patrick, review of <em>The Oxyrhynchus Papyri. Volume LXXXI</em>, in <em>The Classical Review</em>, 68/2 (2018), 395-398 at 396.</li>
     </ul>
     <h3>Sources</h3>
     <ul>
@@ -23,7 +23,6 @@
         <li>Markus, D., and G. Schwendner. 1997. ‘‘Seneca’s Medea in Egypt (663–704).’’ ZPE 117: 73–84.</li>
         <li>Sommerstein, Alan H. "The history of the text of Aristophanes." In Brill's Companion to the Study of Greek Comedy (Brill, 2010), 412n69.</li>
         <li>Wilson, Nigel Guy. Herodotea: studies on the text of Herodotus. Oxford University Press, 2015.</li>
-
     </ul>
 </details>
 
