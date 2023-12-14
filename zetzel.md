@@ -17,7 +17,7 @@ L. D. Reynolds and N. G. Wilson,  *Scribes and Scholars*  (ed. 3, 1991).
       
 It is a lucid, readable, and accurate account of how ancient texts, both Greek and Roman, got from antiquity to Now, followed by a clear and brief explanation of textual criticism. For many purposes, you need go no further. But if you want or need more, read on.
 
-## I. I am using a critical edition and need to learn what the hen-tracks at the foot of the page mean—and why it matters.
+## I. *I am using a critical edition and need to learn what the hen-tracks at the foot of the page mean—and why it matters*.
         
 ### 1. Textual criticism: theory and practice
           
@@ -74,7 +74,8 @@ The one truly great work of this kind for Latin is old, but still well worth rea
 J. N. Madvig,  *Adversaria Critica ad scriptores Graecos et Latinos*  (1871-1884). Madvig is a truly great scholar, often undervalued because he did not go in for the pyrotechnics and polemics of a Bentley or Housman. He is always worth reading.
 
 *How does our growing dependence on digital texts affect the editor’s work? Students of Greco-Roman antiquity were among the first humanists to recognize and embrace the many advantages of digital resources, but our main repositories of texts, viz. [The Perseus Digital Library](http://www.perseus.tufts.edu/hopper/), the [Thesaurus Linguae Graecae](https://stephanus.tlg.uci.edu/), [The Packard Humanities Institute](https://latin.packhum.org/), and [The Latin Library](http://www.thelatinlibrary.com/) provide what are in essence digitized versions of pre-existing printed texts. What would a born-digital text look like? How would it make available the full range of information provided by a standard critical edition? Does it change in any way the very concept of an authoritative edition? The first major initiative to tackle the many challenges facing textual criticism in the digital age is The Digital Latin Library, a joint project of the Society for Classical Studies, the Medieval Academy of America, and the Renaissance Society of America. Its [web site](https://digitallatin.org/#main) contains a wealth of information on this and related digital initiatives. Developing the digital equivalent of an apparatus criticus has proven especially challenging. On this important topic, see,
-C. Damon, “Beyond variants: Some digital desiderata for the critical apparatus of ancient Greek and Latin texts,” in *Digital Scholarly Editing: Theories and Practices*, edited by M. Driscoll and E. Pierazzo. Cambridge: OpenBook Publishers, 2016. 201-18.
+
+C. Damon, “[Beyond variants: Some digital desiderata for the critical apparatus of ancient Greek and Latin texts](http://books.openedition.org/obp/3421),” in *Digital Scholarly Editing: Theories and Practices*, edited by M. Driscoll and E. Pierazzo. Cambridge: OpenBook Publishers, 2016. 201-18.
         
 ### 2. The History of Texts (Recension)
           
@@ -96,7 +97,7 @@ G. Pasquali,  *Storia della tradizione e critica del testo*  (ed. 2, 1962)
           
 Some other recent works dealing with more than a single author include:
           
-G. Cavallo et al.,  *Lo Spazioletterario di Roma antica*  (1989--)
+G. Cavallo et al.,  *Lo Spazioletterario di Roma antica*  (1989-)
           
 O. Pecere, ed.,  *Itinerari dei testi antichi*  (1991)
           
@@ -188,7 +189,7 @@ S. Timpanaro,  *The Genesis of Lachmann’s Method* , tr. G. Most (2005)
         
       
       
-## II. I have found a reference to a manuscript and need to find out more about it.
+## II. *I have found a reference to a manuscript and need to find out more about it*.
         
 ### 1. Repertories of catalogues and groups of manuscripts
           
@@ -260,7 +261,7 @@ T. J. Brown, “Latin Palaeography since Traube” in  *A Palaeographer’s View
         
       
       
-## III. I have found a reference to an editor or modern scholar, and need to learn more about him/her.
+## III. *I have found a reference to an editor or modern scholar, and need to learn more about him/her*.
         
 ### 1. Biographical Dictionaries of Classicists. 
           
