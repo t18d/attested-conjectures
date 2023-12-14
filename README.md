@@ -9,7 +9,7 @@
     </ul>
     <h3>Sources</h3>
     <ul>
-        <li>P.Oxy.I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XV, XVII, XIX, XX, XXII, LXXXI</li>
+        <li>P.Oxy.I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XV, XVII, XIX, XX, XXII, XXIV, XXVI, LXXXI</li>
         <li>Borges, Cassandra, and C. Michael Sampson, <em>New literary papyri from the Michigan collection: mythographic lyric and a catalogue of poetic first lines</em> (Ann Arbor, 2012), 20.</li>
         <li>El-Maghrabi, M. G., and C. Römer (eds), <em>Texts from the "Archive" of Socrates, the Tax Collector, and Other Contexts at Karanis (P. Cair. Mich. II)</em> (Berlin, 2015), 48.</li>
         <li>Finglass, P. J., 'Unpublished Conjectures on Sophocles by Jeremiah Markland', <em>Greek, Roman, and Byzantine Studies</em> 51/2 (2011), 232-238.</li>
@@ -147,6 +147,7 @@ Nonn. Dion. 15.165|μαχητάς|μαχηταῖς|Köchly|n.d.|See Grenfell p.
 Nonn. Dion. 15.87|οἰνηθέντες|οἰνωθεντες|Graefe|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
 Opp. C. 4.208|ἐρυccάμενοι|ερειcάμεν[οι|Johann Pierson|1752|P.Oxy.LXXXI.5278|
 Orac. Sib. 516-517|516 before 517|517 before 516|Geffcken|n.d.|P.Flor.398|Editor's details from Grenfell.
+P. Oxy. V. 841 frr. 16, 17||ἐπεύχομαι|Grenfell and Hunt|1908|P.Oxy.XXVI.2442. fr. 14. col i.17|
 P. Ryl. 652, 10|ορ⟨ ⟩|ἁρρίοις|Editors|n.d.|P.Oxy.XXIV.2409|
 P.Brit.Mus.214.20||ἔ]νγραφα|Wilcken|n.d.|P.Oxy.VIII.1121|See Wilcken *Archiv* i. 154.
 P.Brit.Mus.256 recto (e) l. 10|χειρογραφίαν|ἀποχήν|Wilcken|n.d.|P.Oxy.VII.1024|Confirms restoration of ἀποχήν "in place of" χειρογραφίαν; Wilcken *Archiv* iii. pp. 236-7.
