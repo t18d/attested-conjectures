@@ -47,7 +47,7 @@ H. Kantorowicz, Einführung in die Textkritik. Systematische Darstellung der tex
           
 Postmodern textual theory, which concentrates on reception rather than reconstruction, is also valuable, even for classicists. Among the most useful works are:
           
-G. Bornstein and R. Williams, eds.,  *Palimpsest : editorial theory in the humanities*  (1993)
+G. Bornstein and R. Williams, eds.,  *Palimpsest: editorial theory in the humanities*  (1993)
           
 D. Greetham,  *Theories of the Text*  (1999)
           
@@ -57,7 +57,7 @@ J. McGann,  *A Critique of Modern Textual Criticism*  (ed. 2, 1992)
           
 Other major theoretical works you may encounter include:
           
-J. Bédier,  *La tradition manuscrite du Lai de l'ombre : réflexions sur l'art d'éditer les anciens textes*  (1970)
+J. Bédier,  *La tradition manuscrite du Lai de l'ombre: réflexions sur l'art d'éditer les anciens textes*  (1970)
           
 L. Havet,  *Manuel de critique verbale appliquée aux textes latins*  (1911)
           
@@ -89,7 +89,7 @@ Other guides are much less useful and much less complete, e.g.
           
 F. W. Hall,  *Companion to Classical Texts*  (1913; now very out of date)
           
-H. Hunger et al.,  *Geschichte der Textüberlieferung der antiken und mittelalterlichen Literatur, I : Antikes und mittelalterliches Buch- und Schriftwesen, Ueberlieferungsgeschichte der antiken Literatur*  (1961)
+H. Hunger et al.,  *Geschichte der Textüberlieferung der antiken und mittelalterlichen Literatur, I: Antikes und mittelalterliches Buch- und Schriftwesen, Ueberlieferungsgeschichte der antiken Literatur*  (1961)
           
 The one great, classic work on the transmission of ancient literature is:
           
@@ -101,7 +101,7 @@ G. Cavallo et al.,  *Lo Spazioletterario di Roma antica*  (1989-)
           
 O. Pecere, ed.,  *Itinerari dei testi antichi*  (1991)
           
-O. Pecere and M. Reeve, eds.,  *Formative stages of classical traditions : Latin texts from antiquity to the Renaissance*  (1995)
+O. Pecere and M. Reeve, eds.,  *Formative stages of classical traditions: Latin texts from antiquity to the Renaissance*  (1995)
           
 C. Questa and R. Raffaelli, eds.,  *Il Libro e il testo*  (1984)
         
@@ -209,7 +209,7 @@ P. O. Kristeller,  *Iter Italicum; a finding list of uncatalogued or incompletel
           
 P. O. Kristeller et al.,  *Catalogus Translationum et Commentariorum*  (1960-)
           
-E. A. Lowe, ed.,  *Codices latini antiquiores : a palaeographical guide to Latin manuscripts prior to the ninth century*  (1934-1972)
+E. A. Lowe, ed.,  *Codices latini antiquiores: a palaeographical guide to Latin manuscripts prior to the ninth century*  (1934-1972)
           
 B. Munk Olsen,  *L'étude des auteurs classiques latins aux XIe et XIIe siècles*  (1982-2009)
         
@@ -226,7 +226,7 @@ It is a grand book, which includes not only the development of Latin scripts but
           
 G. Battelli,  *Lezioni di paleografia*  (1949)
           
-B. Bischoff,  *Latin palaeography : antiquity and the Middle Ages*, transl. Dáibhí ó Cróinin and David Ganz (1990). There is a more recent edition in German.
+B. Bischoff,  *Latin palaeography: antiquity and the Middle Ages*, transl. Dáibhí ó Cróinin and David Ganz (1990). There is a more recent edition in German.
           
 J. Kirchner,  *Scriptura Latina libraria, a saeculo primo usque ad finem medii aevi, LXXVII imaginibus illustrata*  (ed. 2, 1970)
           
@@ -245,15 +245,15 @@ There are many facsimiles of individual important manuscripts. These are collect
           
 E. Chatelain,  *Paléographie des classiques latins*  (1884-1900)
           
-R. Merkelbach and H. van Thiel,  *Lateinisches Leseheft : zur Einführung in Paläographie und Textkritik*  (1969)
+R. Merkelbach and H. van Thiel,  *Lateinisches Leseheft: zur Einführung in Paläographie und Textkritik*  (1969)
 
 *Major libraries are increasingly putting complete digital versions of their manuscript holdings online. Notable examples include [The Vatican Library](https://digi.vatlib.it/) and [The Bodleian Library](https://digital.bodleian.ox.ac.uk/).
           
 #### c) Abbreviations
           
-A. Cappelli,  *Lexicon abbreviaturarum : dizionario di abbreviature latine ed italiane usate nelle carte e codici specialmente del Medio-Evo, riprodotte con oltre 14000 segni incisi, con l'aggiunta di uno studio sulla brachigrafia medioevale, un prontuario di sigle epigrafiche, l'antica numerazione romana ed arabica ed i segni indicanti monete, pesi, misure, etc.*  (ed. 6, 1990; many editions with various titles in several languages)
+A. Cappelli,  *Lexicon abbreviaturarum: dizionario di abbreviature latine ed italiane usate nelle carte e codici specialmente del Medio-Evo, riprodotte con oltre 14000 segni incisi, con l'aggiunta di uno studio sulla brachigrafia medioevale, un prontuario di sigle epigrafiche, l'antica numerazione romana ed arabica ed i segni indicanti monete, pesi, misure, etc.*  (ed. 6, 1990; many editions with various titles in several languages)
           
-W. M. Lindsay,  *Notae latinae : an account of abbreviation in Latin Mss. of the early minuscule period (c. 700-850)* (1915)
+W. M. Lindsay,  *Notae latinae: an account of abbreviation in Latin Mss. of the early minuscule period (c. 700-850)* (1915)
           
 L. Traube,  *Nomina sacra, versuch einer geschichte der christlichen kürzung*  (1907)
         
@@ -286,13 +286,13 @@ A. Eckstein,  *Nomenclator Philologorum*  (1871)
           
 J.-F. Maillard, J. Kecskeméti et M. Portalier, eds.,  *L’Europe des humanistes (XIVe-XVIIe siècles)*  (1995)
           
-C. Nativel, ed.,  *Centuriæ latinæ : cent une figures humanistes de la Renaissance aux Lumières offertes à Jacques Chomarat*  (1997)
+C. Nativel, ed.,  *Centuriæ latinæ: cent une figures humanistes de la Renaissance aux Lumières offertes à Jacques Chomarat*  (1997)
           
 W. Pökel,  *Philologische Schriftstellerlexikon*  (1882)
           
 R. B. Todd (ed.),  *The Dictionary of British Classicists*  (2005)
           
-W. Unte,  *Heroen und Epigonen : Gelehrtenbiographien der klassischen Altertumswissenschaft im 19. und 20. Jahrhundert*  (2003)
+W. Unte,  *Heroen und Epigonen: Gelehrtenbiographien der klassischen Altertumswissenschaft im 19. und 20. Jahrhundert*  (2003)
         
         
 ### 2. Histories of Classical Scholarship 
@@ -341,7 +341,7 @@ R. Sabbadini,  *Le scoperte dei codici latini e greci ne’secoli XIV e XV*  (19
           
 ##### iii. Regional/Modern
           
-C. Brink,  *English classical scholarship : historical reflections on Bentley, Porson and Housman*  (1985)
+C. Brink,  *English classical scholarship: historical reflections on Bentley, Porson and Housman*  (1985)
           
 C. Bursian,  *Geschichte der classischen Philologie in Deutschland*  (1883)
           
@@ -349,7 +349,7 @@ L. Mueller,  *Geschichte der klassischen Philologie in den Niederlanden*  (1869)
           
 M. Platnauer, ed.,  *Fifty Years (and Twelve) of Classical Scholarship*  (1968)
           
-C. Stray,  *Classics transformed : schools, universities, and society in England, 1830-1960*  (1998) [and other books and articles by the same author]
+C. Stray,  *Classics transformed: schools, universities, and society in England, 1830-1960*  (1998) [and other books and articles by the same author]
           
 S. Timpanaro,  *La Filologia di Giacomo Leopardi*  (ed. 3, 1997)
           
