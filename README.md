@@ -1,6 +1,5 @@
-<preface> <!-- for sake of completeness -->
-
 # Database of Greek and Latin Conjectural Emendations Attested in MSS
+<preface> <!-- for sake of completeness -->
 
 <details>
     <summary>Bibliography</summary>
@@ -31,10 +30,11 @@
 &nbsp;  
 See also James Zetzel's <a href="./zetzel.md">Textual Criticism and the Transmission of Latin Texts</a>.
 
+&nbsp;  
 This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.
 
 &nbsp;  
-
+&nbsp;  
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
 Ref.|Paradosis|Conjecture|Author|Year|Attested Place|Rem.
