@@ -44,8 +44,8 @@ Aeschin. In Ctes. 20|καὶ τὴν ἐκεῖ σκυθρωπὸν|καὶ τ�
 Aeschin. In Ctes. 20|ἄγειν|ἄγει|Wolf|n.d.|P.Oxy.XIII.1625|Editor's details from Grenfell. 
 Aeschin. In Ctes. 20|γέρα|ἱερὰ|Hamaker|n.d.|P.Oxy.XIII.1625|Editor's details from Grenfell.
 Aeschin. In Ctes. 94|ὁρώντων|ζώντων|Kaibel|n.d.|P.Oxy.IV.703|Editor's details from Grenfell.
-Aeschin. In Tim.|διισχυρίζεσθαι|ἰσχθυρίζεσθαι|Wolf|n.d.|2nd cent. Geneva pap.: Nicole *Textes grecs inéd.* 1|Editor's details from Grenfell.
-Aeschin. In Tim.|ἐξαιτήσεται|ἐξαιρήσεται|Blass|n.d.|2nd cent. Geneva pap.: Nicole *Textes grecs inéd.* 1|Editor's details from Grenfell.
+Aeschin. In Tim.|διισχυρίζεσθαι|ἰσχθυρίζεσθαι|Wolf|n.d.|P.Gen.I.256|Editor's details from Grenfell.
+Aeschin. In Tim.|ἐξαιτήσεται|ἐξαιρήσεται|Blass|n.d.|P.Gen.I.256|Editor's details from Grenfell.
 Aeschin. In Tim.|τοὺς νόμους μὲν|τὸυς μὲν νόμους|Cobet|n.d.|2nd cent. Geneva pap.: Nicole *Textes grecs inéd.* 1 & P. Halle 6|Editor's details from Grenfell.
 Aeschin. In Tim.|ἐπὶ πᾶσι τοῖς δικαίοις|τοῖς om.|Hillebrand|n.d.|2nd cent. Geneva pap.: Nicole *Textes grecs inéd.* 1 & P. Halle 6|Editor's details from Grenfell.
 Aeschin. In Tim.|κατηγορούντων|κατηγόρων|Blass|n.d.|P. Halle 6|Editor's details from Grenfell.
@@ -132,13 +132,13 @@ Isoc. Paneg. 68|om. γε|ελαττω γε|Cobet|n.d.|P.Oxy.V.844|
 Logia Iesou 1.7-8|θαυμάσας|θαμβηβεὶς|Zahn|n.d.|P.Oxy.IV.654|Zahn: *Gesch. d. NT. Kan.* ii. p. 657; Zahn's conjecture is that a. θαμβηβεὶς b. that θαμβηβεὶς is a mistranslation of a Hebrew/Aramaic word also meaning θορυβηθείς and thus συντετριμμένης would be the right term; howver θαμβηθείς appears in the pap. and so this further conjecture is disproved.
 Men. Epit. 476|συγγν[..]ης [..]ρως Lefebvre/συγγν . μην . ρων|συγγνώμ]ης [μέ]ρος|Van Leeuwen|n.d.|P.Oxy.X.1236|
 Men. Kol. 50|νῦν|νυνί|Grotius|s.xvii in.|P.Oxy.III.409|Eust.1833.58.; emend. apud Clericum
+Nonn. Dion. 14.393|ἀκωκήν|κολώνην|Graefe|n.d.|See Grenfell p.24 (7th cent. pap.)|Bordeline: Pap. has ἀκωκήν corrected to κορώνην (i.e. κολώνην) which is corrected to ἀκωκήν (which is from the end of 394).
+Nonn. Dion. 14.398|πολυσταφύλῳ|φιλοσταφύλῳ|Graefe|n.d.|See Grenfell p. 24 (7th cent. pap.)|Editor's details from Grenfell.
+Nonn. Dion. 15.112|ἐλαίης|Ἀθήνης|Köchly|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
+Nonn. Dion. 15.165|Βάκχοιο|Γλαύκοιο|Falkenburg|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
+Nonn. Dion. 15.165|μαχητάς|μαχηταῖς|Köchly|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
+Nonn. Dion. 15.87|οἰνηθέντες|οἰνωθεντες|Graefe|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
 Opp. C. 4.208|ἐρυccάμενοι|ερειcάμεν[οι|Johann Pierson|1752|P.Oxy.LXXXI.5278|
-Opp. H. 14.393|ἀκωκήν|κολώνην|Graefe|n.d.|See Grenfell p.24 (7th cent. pap.)|Bordeline: Pap. has ἀκωκήν corrected to κορώνην (i.e. κολώνην) which is corrected to ἀκωκήν (which is from the end of 394).
-Opp. H. 14.398|πολυσταφύλῳ|φιλοσταφύλῳ|Graefe|n.d.|See Grenfell p. 24 (7th cent. pap.)|Editor's details from Grenfell.
-Opp. H. 15.112|ἐλαίης|Ἀθήνης|Köchly|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
-Opp. H. 15.165|Βάκχοιο|Γλαύκοιο|Falkenburg|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
-Opp. H. 15.165|μαχητάς|μαχηταῖς|Köchly|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
-Opp. H. 15.87|οἰνηθέντες|οἰνωθεντες|Graefe|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
 Orac. Sib. 516-517|516 before 517|517 before 516|Geffcken|n.d.|P.Flor.398|Editor's details from Grenfell.
 P.Brit.Mus.214.20||ἔ]νγραφα|Wilcken|n.d.|P.Oxy.VIII.1121|See Wilcken *Archiv* i. 154.
 P.Brit.Mus.256 recto (e) l. 10|χειρογραφίαν|ἀποχήν|Wilcken|n.d.|P.Oxy.VII.1024|Confirms restoration of ἀποχήν "in place of" χειρογραφίαν; Wilcken *Archiv* iii. pp. 236-7.
@@ -153,7 +153,7 @@ Philo Ebr. 219|συνεχούσης|συνεχους|Wendland|n.d.|P.Oxy.IX.1173
 Philo Ebr. 221|ἐπειδάν|ἐπειδάν δὲ|Wendland|n.d.|P.Oxy.IX.1173|
 Philo Ebr. 221|οἰνηρεύσεις|οινηρυσει[ς|Turnebus|n.d.|P.Oxy.IX.1173|
 Philo Ebr. 222|μαρμάρζει|μαιμᾷ|Mangey|n.d.|P.Oxy.IX.1173|
-Pind. Ol. ii.76|γᾶς/γῆς/παῖς|μεγας|Pauw|n.d.|P.Oxy.XVII.2092|
+Pind. Ol. 2.76|γᾶς/γῆς/παῖς|μεγας|Pauw|n.d.|P.Oxy.XVII.2092|
 Pind. Pae. 9.1|ἐμῆς θεῶ μ'ἄτερ|μήσεαι ὦ μᾶτερ|Blass|n.d.|P.Oxy.V.841|Confirmed by metre; Bergk's ἐμήσαο also possible.
 Pind. Pae. 9.4|ἰσχὺν πτανὸν (ἀν)δράσιν|ἰσχύν τ'ἀνδράσι(ν)|Blass|n.d.|P.Oxy.V.841|
 Pl. Phd. 82e|τῳ δεδέσθαι|τοῦ δεδέσθαι|Heindorf|1810|P.Lond.Lit.145 = Pap.488|
@@ -184,7 +184,7 @@ Plb. 11. 16.6 and 7|ἐμπορεῖα|ἐν πορείᾳ|Schweighäuser|n.d.|A
 Plb. 28. 2.4|om.|cυνεχωρηcεν|Friedrich Otto Hultsch|1889|P.Oxy.LXXXI.5267|Papyrus reads c]υνεχωρηc[ε; Hultsch supplies verb (omitted in MSS).
 Plu. Caes. 45.8|ταιc|αις|Moses Solanus|1729|P.Oxy.LXXXI.5270|
 Poet. Lyr. i. p.4|τὴν ογ΄ Ὀλυμπιάδα|τὴν ος΄ Ὀλυμπιάδα|Bergk|n.d.|P.Oxy.II.222|
-Simon. fr. 25|χεέτω|χείτω|M. L. West|1989|P.Oxy.LXXXI.5261|Accented χέιτω on papyrus.
+Simon. fr. 25|χεέτω|χείτω|M. L. West|1989|P.Oxy.LXXXI.5261|χέιτω is accented on papyrus.
 Simon. fr. 88|λεύχης|λέσχης|H. Stephanus|n.d.|P.Oxy.XI.1362|
 Soph. OT. 1310|δίαπέταται|διαπωτᾶται|Musgrave & Seidler|n.d.|P.Oxy.XI.1369|
 Soph. Trach. 1136|μνωμένη|μωμ[ενη|Heath|n.d.|P.Oxy.XV.1806|According to Subkoff [this] was the reading of L2 - Grenfell and Hunt.
