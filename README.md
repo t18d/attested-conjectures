@@ -30,6 +30,8 @@
 <br>
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
+<p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
+
 <p>The top 10 critics are Beza (25), Blass (24), Naber (18), Markland (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), Mangey (11), and Holwerda (10).</p>
 <br>
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including </preface>) below this , no more, no less. -->
