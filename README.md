@@ -5,7 +5,7 @@
     <summary>Bibliography</summary>
     <h3>Methodology</h3>
     <ul>
-        <li>James, Patrick, review of <em>The Oxyrhynchus Papyri. Volume LXXXI</em>, in <em>The Classical Review</em>, 68/2 (2018), 395-398 at 396.</li>
+        <li>James, Patrick, review of <em>The Oxyrhynchus Papyri. Volume LXXXI</em>, in <em>The Classical Review</em>, 68/2 (2018), 395-8 at 396.</li>
     </ul>
     <h3>Sources</h3>
     <ul>
