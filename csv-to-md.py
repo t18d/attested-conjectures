@@ -14,7 +14,7 @@ csv_tools.sort_csv()
 
 with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:    
     with open("amsterdam-db.csv", "r", encoding="utf8") as amst_csv:        
-        # use league ranking
+        # use league ranking to make top 10 sentence in preface
         league = csv_tools.create_league_table((conj_csv, amst_csv))
         top_10 = sorted(league.items(), key=operator.itemgetter(1), reverse=True)
         limit = 9 # keep ties for 10th

@@ -1,15 +1,32 @@
 import csv
 from copy import copy
 from datetime import datetime
+import re
 
 fieldnames = "Ref.,Paradosis,Conjecture,Author,Year,Attested Place,Rem.".split(",")
+
+# next two functions from https://stackoverflow.com/questions/5967500/how-to-correctly-sort-a-string-with-a-number-inside under CC-BY-SA 3.0 
+def atoi(text):
+    return int(text) if text.isdigit() else text
+
+def natural_keys(text):
+    """
+    alist.sort(key=natural_keys) sorts in human order
+    http://nedbatchelder.com/blog/200712/human_sorting.html
+    (See Toothy's implementation in the comments)
+    """
+    return [ atoi(c) for c in re.split(r'(\d+)', text) ]
+
+def human_sort_dict(row, column):
+    "Provide a naturally-sorted key for the row of a DictReader."
+    return natural_keys(row[column])
 
 def sort_csv(file="attested-conjectures.csv", column="Ref."):
     "Sorts the file given by the column provided."
     with open(file, "r", encoding="utf8") as conj_csv:
         conjj = csv.DictReader(conj_csv) # has to be forced into a list so that we can close the file
         # fieldnames are the first row of the csv file so don't need to be provided
-        sorted_conj = sorted(conjj, key=lambda row: row[column])
+        sorted_conj = sorted(conjj, key=lambda row: human_sort_dict(row, column))
     try:
         with open(file, "w", encoding="utf8", newline="") as conj_csv:
             writer = csv.DictWriter(conj_csv, fieldnames)
@@ -22,7 +39,10 @@ def sort_csv(file="attested-conjectures.csv", column="Ref."):
 
 
 def format_ref_column():
-    "Makes sure all references are properly spaced."
+    """
+    Makes sure all references are properly spaced; does not work on the numbered part properly.
+    Properly spaced references are of the type "Plu. Caes. 45.8".
+    """
     with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:
         conjj = csv.DictReader(conj_csv)
         # fieldnames are the first row of the csv file so don't need to be provided
@@ -69,7 +89,7 @@ def create_league_table(csvs):
 
 
 if __name__ == "__main__": # functions to be called when this file is run
-    sort_csv("amsterdam-db.csv", "Ref.") #TODO: sort amst-csv by Bible books
+    sort_csv("attested-conjectures copy.csv", "Ref.")
     #format_ref_column()
     #with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:
      #   with open("amsterdam-db.csv", "r", encoding="utf8") as amst_csv:
