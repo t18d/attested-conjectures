@@ -13,7 +13,6 @@ def natural_keys(text):
     """
     alist.sort(key=natural_keys) sorts in human order
     http://nedbatchelder.com/blog/200712/human_sorting.html
-    (See Toothy's implementation in the comments)
     """
     return [ atoi(c) for c in re.split(r'(\d+)', text) ]
 
@@ -26,7 +25,7 @@ def sort_csv(file="attested-conjectures.csv", column="Ref."):
     with open(file, "r", encoding="utf8") as conj_csv:
         conjj = csv.DictReader(conj_csv) # has to be forced into a list so that we can close the file
         # fieldnames are the first row of the csv file so don't need to be provided
-        sorted_conj = sorted(conjj, key=lambda row: human_sort_dict(row, column))
+        sorted_conj = sorted(conjj, key=lambda row: human_sort_dict(row, column)) # old key=lambda row: row[column]
     try:
         with open(file, "w", encoding="utf8", newline="") as conj_csv:
             writer = csv.DictWriter(conj_csv, fieldnames)
