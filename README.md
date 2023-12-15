@@ -31,8 +31,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
-
-<p>The top 10 critics are Beza (25), Blass (24), Naber (18), Markland (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), Mangey (11), and Erasmus (10).</p>
+<p>The top 10 critics are Beza (25), Blass (24), Naber (18), Markland (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), Mangey (11), and Holwerda (10).</p><p>The top 10 critics are Beza (25), Blass (24), Naber (18), Markland (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), Mangey (11), and Erasmus (10).</p>
 <br>
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -141,6 +140,7 @@ Isoc. Ad Nic. 8|ταῖς μοναρχίαις|τὰς μοναρχίας|Cobet|
 Isoc. Paneg. 68|om. γε|ελαττω γε|Cobet|n.d.|P.Oxy. V 844|
 Logia Iesou 1.7-8|θαυμάσας|θαμβηβεὶς|Zahn|n.d.|P.Oxy. IV 654|Zahn: *Gesch. d. NT. Kan.* ii. p. 657; Zahn's conjecture is that a. θαμβηβεὶς b. that θαμβηβεὶς is a mistranslation of a Hebrew/Aramaic word also meaning θορυβηθείς and thus συντετριμμένης would be the right term; howver θαμβηθείς appears in the pap. and so this further conjecture is disproved.
 Men. Epit. 476|συγγν[..]ης [..]ρως Lefebvre/συγγν . μην . ρων|συγγνώμ]ης [μέ]ρος|Van Leeuwen|n.d.|P.Oxy. X 1236|
+Men. Epit. 51|δέ|δή|Wilamowitz|n.d.|P.Oxy. XXXVIII 2829|
 Men. Kol. 50|νῦν|νυνί|Grotius|s.xvii in.|P.Oxy. III 409|Eust.1833.58.; emend. apud Clericum
 Nonn. Dion. 14.393|ἀκωκήν|κολώνην|Graefe|n.d.|See Grenfell p.24 (7th cent. pap.)|Bordeline: Pap. has ἀκωκήν corrected to κορώνην (i.e. κολώνην) which is corrected to ἀκωκήν (which is from the end of 394).
 Nonn. Dion. 14.398|πολυσταφύλῳ|φιλοσταφύλῳ|Graefe|n.d.|See Grenfell p. 24 (7th cent. pap.)|Editor's details from Grenfell.
@@ -150,6 +150,7 @@ Nonn. Dion. 15.165|μαχητάς|μαχηταῖς|Köchly|n.d.|See Grenfell p.
 Nonn. Dion. 15.87|οἰνηθέντες|οἰνωθεντες|Graefe|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
 Opp. C. 4.208|ἐρυccάμενοι|ερειcάμεν[οι|Johann Pierson|1752|P.Oxy. LXXXI 5278|
 Orac. Sib. 516-517|516 before 517|517 before 516|Geffcken|n.d.|P.Flor. 398|Editor's details from Grenfell.
+P. Oxy. II 384|τριω|τρι<sup>μ</sup>|H. C. Youtie|n.d.|P. Oxy. XXXVIII 2841|Original source of this error now BM pap. 812 - implied to be the same as P. Oxy. II 384.
 P.Giss. 50.34|[|Σαλωνείνου Οὐαλεριανοῦ|Paul M. Meyer|1910|P.Oxy. X 1273|
 P.Lond. 256 recto(e) 10|[|ἀποχήν|Wilcken|1906|P.Oxy. VII 1024|χιρογρα̣φιαν Kenyon
 P.Lond. II 214.20|]νγραφα|ἔνγραφα|Wilcken|1901|P.Oxy. VIII 1121|συνγραφα Kenyon
