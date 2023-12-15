@@ -118,7 +118,7 @@ Eur. fr. 403.3-4|ποῖόν ποτ'οἰκεῖ|ποῦ καί ποτ'οἰκε
 Eur. fr. 912|χοήν|χλόην|Bergk|n.d.|P.Oxy. IX 1176|
 Hdt. 1.105|ὁ θέος|η θε[ος|Hude|n.d.|P.Oxy. X 1244|
 Hdt. 1.106|ὑποθέμενος|ῡπερθεμενος|Schaefer|n.d.|P.Oxy. X 1244|
-Hdt. 1.116|ἐσήει|ἐσήιε|Bekker|1833|P.Münch.II.40 = Pap.graec.mon. 89|
+Hdt. 1.116|ἐσήει|ἐσήιε|Bekker|1833|P.Münch. II 40 = Pap.graec.mon. 89|
 Hdt. 2.175|οἱ|οἷα|Friedrich Ludwig Abresch|s.xviii med.|P.Oxy. VIII 1092|
 Herm. Sim. 2.17|⟨καὶ⟩ εὐχαριστεῖ|εὐχαριστῶν|Tischendorf|n.d.|P.Oxy. IX 1172|
 Herm. Sim. 2.28|συνιει|συνηκεν|Tischendorf|n.d.|P.Oxy. IX 1172|
@@ -150,14 +150,14 @@ Nonn. Dion. 15.87|οἰνηθέντες|οἰνωθεντες|Graefe|n.d.|See Gr
 Opp. C. 4.208|ἐρυccάμενοι|ερειcάμεν[οι|Johann Pierson|1752|P.Oxy. LXXXI 5278|
 Orac. Sib. 516-517|516 before 517|517 before 516|Geffcken|n.d.|P.Flor. 398|Editor's details from Grenfell.
 P. Ryl. 652, 10|ορ⟨ ⟩|ἁρρίοις|Editors|n.d.|P.Oxy. XXIV 2409|
-P.Brit.Mus.214 20||ἔ]νγραφα|Wilcken|n.d.|P.Oxy. VIII 1121|See Wilcken *Archiv* i. 154.
-P.Brit.Mus.256 recto (e) l. 10|χειρογραφίαν|ἀποχήν|Wilcken|n.d.|P.Oxy. VII 1024|Confirms restoration of ἀποχήν "in place of" χειρογραφίαν; Wilcken *Archiv* iii. pp. 236-7.
-P.Giessen.50 34||Σαλωνείνου Οὐαλεριανοῦ|P. M. Meyer|n.d.|P.Oxy. X 1274|Restoration; details thereof obscure in P.Oxy.10.
-P.Oxy.III.579||Θοή[ριδος|Grenfell & Hunt|1903|P.Oxy. VIII 1118|Reading Θοή[ριδος confirmed by τῆς καὶ Θοήριδος l. 5
-P.Oxy.V.841 frr.16/17||ἐπεύχομαι|Grenfell and Hunt|1908|P.Oxy. XXVI 2442. fr. 14. col i.17|
-P.Oxy.VI.917||σπ(ονδῆς) Διον(ύσου)|Grenfell and Hunt|1908|P.Oxy. X 1283|Reading confirmed.
-P.Oxy.XIV.1659|Ἀντιπ(έρα) Πέλα|Ἀντιπέρα Πέλα|Grenfell and Hunt|1920|P.Oxy. XXVII 2474|
-P.Tebt.286.15|om.|ἱερεύς|Hunt|n.d.|P.Oxy. VIII 1092|Restoration of ἱερεύς.
+P.Brit.Mus. 214.20||ἔ]νγραφα|Wilcken|n.d.|P.Oxy. VIII 1121|See Wilcken *Archiv* i. 154.
+P.Brit.Mus. 256 recto (e) l. 10|χειρογραφίαν|ἀποχήν|Wilcken|n.d.|P.Oxy. VII 1024|Confirms restoration of ἀποχήν "in place of" χειρογραφίαν; Wilcken *Archiv* iii. pp. 236-7.
+P.Giessen. 50.34||Σαλωνείνου Οὐαλεριανοῦ|P. M. Meyer|n.d.|P.Oxy. X 1274|Restoration; details thereof obscure in P.Oxy.10.
+P.Oxy. V 841 frr.16/17||ἐπεύχομαι|Grenfell and Hunt|1908|P.Oxy. XXVI 2442. fr. 14. col i.17|
+P.Oxy. VI 917||σπ(ονδῆς) Διον(ύσου)|Grenfell and Hunt|1908|P.Oxy. X 1283|Reading confirmed.
+P.Oxy. XIV 1659|Ἀντιπ(έρα) Πέλα|Ἀντιπέρα Πέλα|Grenfell and Hunt|1920|P.Oxy. XXVII 2474|
+P.Oxy.III. 579||Θοή[ριδος|Grenfell & Hunt|1903|P.Oxy. VIII 1118|Reading Θοή[ριδος confirmed by τῆς καὶ Θοήριδος l. 5
+P.Tebt. 286.15|om.|ἱερεύς|Hunt|n.d.|P.Oxy. VIII 1092|Restoration of ἱερεύς.
 Philo Ebr. 2|τῆς ἀπαιδευσίας|τη]ν απαιδευσιαν|Turnebus & Wendland|n.d.|P.Oxy. IX 1173|
 Philo Ebr. 2|om.|τοῦ|Wendland with Richter|n.d.|P.Oxy. IX 1173|
 Philo Ebr. 219|ευπρεπεις|ευτρεπεις|Wendland|n.d.|P.Oxy. IX 1173|
