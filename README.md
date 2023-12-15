@@ -149,9 +149,9 @@ Nonn. Dion. 15.165|μαχητάς|μαχηταῖς|Köchly|n.d.|See Grenfell p.
 Nonn. Dion. 15.87|οἰνηθέντες|οἰνωθεντες|Graefe|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
 Opp. C. 4.208|ἐρυccάμενοι|ερειcάμεν[οι|Johann Pierson|1752|P.Oxy. LXXXI 5278|
 Orac. Sib. 516-517|516 before 517|517 before 516|Geffcken|n.d.|P.Flor. 398|Editor's details from Grenfell.
-P.Brit.Mus. 256 recto (e) l. 10|χειρογραφίαν|ἀποχήν|Wilcken|n.d.|P.Oxy. VII 1024|Confirms restoration of ἀποχήν "in place of" χειρογραφίαν; Wilcken *Archiv* iii. pp. 236-7.
 P.Giss. 50.34|[|Σαλωνείνου Οὐαλεριανοῦ|Paul M. Meyer|1910|P.Oxy. X 1273|Restoration; details thereof obscure in P.Oxy.10.
-P.Lond. II 214.20|]νγραφα|ἔνγραφα|Wilcken|1901|P.Oxy. VIII 1121|[συ]νγραφα Kenyon
+P.Lond. 256 recto(e) 10|[|ἀποχήν|Wilcken|1906|P.Oxy. VII 1024|χιρογρα̣φιαν Kenyon
+P.Lond. II 214.20|]νγραφα|ἔνγραφα|Wilcken|1901|P.Oxy. VIII 1121|συνγραφα Kenyon
 P.Oxy. XIV 1659.42|Ἀντιπ(έρα) Πέλα|Ἀντιπέρα Πέλα|Grenfell-Hunt|1920|P.Oxy. XXVII 2473|
 P.Ryl. 652.10|ορ( )|ὁρρίοις|Roberts-Turner|1952|P.Oxy. XXIV 2408|
 P.Tebt. 286.15|om.|ἱερεύς|Hunt|n.d.|P.Oxy. VIII 1092|Restoration of ἱερεύς.
