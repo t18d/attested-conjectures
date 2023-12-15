@@ -156,6 +156,7 @@ Nonn. Dion. 15.165|μαχητάς|μαχηταῖς|Köchly|n.d.|See Grenfell p.
 Nonn. Dion. 15.87|οἰνηθέντες|οἰνωθεντες|Graefe|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
 Opp. C. 4.208|ἐρυccάμενοι|ερειcάμεν[οι|Johann Pierson|1752|P.Oxy. LXXXI 5278|
 Orac. Sib. 516-517|516 before 517|517 before 516|Geffcken|n.d.|P.Flor. 398|Editor's details from Grenfell.
+P. Oxy. VI 970|πρὸς ταῖς ἐπ̣ι̣σ̣κ(εφθείσαις)|πρὸς ταῖς ἐπισκέψεσι|Grenfell and Hunt|1908|P. Oxy. XLII 3046|
 P.Giss. 50.34|[|Σαλωνείνου Οὐαλεριανοῦ|Paul M. Meyer|1910|P.Oxy. X 1273|
 P.Lond. 256 recto(e) 10|[|ἀποχήν|Wilcken|1906|P.Oxy. VII 1024|χιρογρα̣φιαν Kenyon
 P.Lond. II 214.20|]νγραφα|ἔνγραφα|Wilcken|1901|P.Oxy. VIII 1121|συνγραφα Kenyon
@@ -163,6 +164,7 @@ P.Oxy. II 384|τριω|τρι<sup>μ</sup>|H. C. Youtie|n.d.|P. Oxy. XXXVIII 284
 P.Oxy. XIV 1659.42|Ἀντιπ(έρα) Πέλα|Ἀντιπέρα Πέλα|Grenfell-Hunt|1920|P.Oxy. XXVII 2473|
 P.Ryl. 652.10|ορ( )|ὁρρίοις|Roberts-Turner|1952|P.Oxy. XXIV 2408|
 P.Tebt. 286.15|om.|ἱερεύς|Hunt|n.d.|P.Oxy. VIII 1092|Restoration of ἱερεύς.
+PBeattyPanop. p. xvi||procurator Heptanomiae|Skeat|n.d.|P.Oxy. XLII 3031|Full title of Annius Diogenes conjectured by Skeat.
 Philo Ebr. 2|τῆς ἀπαιδευσίας|τη]ν απαιδευσιαν|Turnebus & Wendland|n.d.|P.Oxy. IX 1173|
 Philo Ebr. 2|om.|τοῦ|Wendland with Richter|n.d.|P.Oxy. IX 1173|
 Philo Ebr. 219|ευπρεπεις|ευτρεπεις|Wendland|n.d.|P.Oxy. IX 1173|
