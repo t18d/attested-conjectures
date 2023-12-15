@@ -2,6 +2,8 @@ import csv
 from copy import copy
 from datetime import datetime
 
+fieldnames = "Ref.,Paradosis,Conjecture,Author,Year,Attested Place,Rem.".split(",")
+
 def sort_csv(column="Ref."):
     "Sorts attested-conjectures.csv by the column provided."
     with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:
@@ -44,11 +46,32 @@ def format_ref_column():
             new_conjj.append(row)
 
         with open("attested-conjectures.csv", "w", encoding="utf8", newline="") as conj_csv2:
-            fieldnames = "Ref.,Paradosis,Conjecture,Author,Year,Attested Place,Rem.".split(",")
             writer = csv.DictWriter(conj_csv2, fieldnames)
             writer.writeheader()
             writer.writerows(new_conjj)
 
+def create_league_table(csvs):
+    """
+    Creates a sorted dictionary of authors to how many entries they have in the table.
+    Takes a list of open CSV files (not readers).
+    """
+    csv_readers = []
+    for file in csvs:
+        csv_readers.append(csv.DictReader(file))
+
+    league = {} # Author : Total Conjectures
+    for reader in csv_readers:
+       for row in reader:
+            if row["Author"] in league:
+                league[row["Author"]] += 1
+            else:
+                league[row["Author"]] = 1
+    return league
+
+
 if __name__ == "__main__": # functions to be called when this file is run
-    sort_csv("Ref.")
-    format_ref_column()
+    #sort_csv("Ref.")
+    #format_ref_column()
+    with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:
+        with open("amsterstam-db.csv", "r", encoding="utf8") as amst_csv:
+            from pprint import pprint;pprint(create_league_table([conj_csv, amst_csv]))
