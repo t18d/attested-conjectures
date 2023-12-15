@@ -4,15 +4,14 @@ from datetime import datetime
 
 fieldnames = "Ref.,Paradosis,Conjecture,Author,Year,Attested Place,Rem.".split(",")
 
-def sort_csv(column="Ref."):
-    "Sorts attested-conjectures.csv by the column provided."
-    with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:
+def sort_csv(file="attested-conjectures.csv", column="Ref."):
+    "Sorts the file given by the column provided."
+    with open(file, "r", encoding="utf8") as conj_csv:
         conjj = csv.DictReader(conj_csv) # has to be forced into a list so that we can close the file
         # fieldnames are the first row of the csv file so don't need to be provided
         sorted_conj = sorted(conjj, key=lambda row: row[column])
     try:
-        with open("attested-conjectures.csv", "w", encoding="utf8", newline="") as conj_csv:
-            fieldnames = "Ref.,Paradosis,Conjecture,Author,Year,Attested Place,Rem.".split(",")
+        with open(file, "w", encoding="utf8", newline="") as conj_csv:
             writer = csv.DictWriter(conj_csv, fieldnames)
             writer.writeheader()
             writer.writerows(sorted_conj)
@@ -70,8 +69,8 @@ def create_league_table(csvs):
 
 
 if __name__ == "__main__": # functions to be called when this file is run
-    #sort_csv("Ref.")
+    sort_csv("amsterstam-db.csv", "Ref.")
     #format_ref_column()
-    with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:
-        with open("amsterstam-db.csv", "r", encoding="utf8") as amst_csv:
-            from pprint import pprint;pprint(create_league_table([conj_csv, amst_csv]))
+    #with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:
+     #   with open("amsterstam-db.csv", "r", encoding="utf8") as amst_csv:
+      #      from pprint import pprint;pprint(create_league_table([conj_csv, amst_csv]))
