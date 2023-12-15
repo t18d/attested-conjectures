@@ -99,6 +99,10 @@ Callim. fr. 209|Φωκείων|Φωκαέων|Valckenaer|n.d.|P.Oxy. XV 1793|
 Callim. fr. 86.2|χάλχεον|Παγχαῖον|Bentley|n.d.|P.Oxy. XI 1363|
 Callim. frs. 502 + 172|γυνή|γύπῃ|Toup and Ruhnken|n.d.|P.Oxy. XVII 2080|
 Charito 2.3| ψόφου δέ ποθεν αἰσθομένη|ψόφου δὲ ποδῶν αἰσθομένη|D'Orville|n.d.|P.Oxy. VII 1019|Editor's details from Grenfell.
+Charito 2.4.18|μή τις|μή τι|Gasda|1859|P.Oxy. XLI 2948|Gasda *Mnemosyne VIII* (1859), p.258
+Charito 2.4.22|ἀπόλωλαc ὦ Λεωνᾶ|ἀπόλωλά|Zimmerman|1925|P. Oxy. XLI 2948|Zimmerman, *Philologus LXXX* (1925)
+Charito 2.4.33|δαίμων δὲ τίc|δαίμων cέ τιc|Cobet|n.d.|P. Oxy. XLI 2948|
+Charito 2.4.35|τίνας|τίνα|Hercher|n.d.|P. Oxy. XLI 2948|
 Dem. 19.280|καὶ|om.|Dobree|n.d.O|P.Oxy. VIII 1094|Editor's details from Grenfell.
 Dem. Ep. 3.22|ἀγνώμοσι|ἀγνῶσι|Dobree|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
 Dem. Ep. 3.22|ἠδικεῖσθε/ἀδικεῖσθαι|ἀδικοῖσθε|Sauppe|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
