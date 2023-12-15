@@ -6,20 +6,10 @@ on:
       - attested-conjectures.csv
 jobs:
   Run-CSV-To-MD_PY:
-    runs-on: [windows-latest, ubuntu-latest]
+    runs-on: ubuntu-latest
     steps:
-      - name: checkout repo content
-        uses: actions/checkout@v4
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v4
         with: 
           python-version: '3.10'
-      - name: Run csv-to-md.py
-        run: python csv-to-md.py
-      - name: commit files
-        run: |
-          git config --local user.email "adoria298@users.noreplygithub.com"
-          git config --local user.name "csv-to-md.yml Github action"
-          git add -A
-          git commit -m "Ran csv-to-md.py"
-          git push
+      - run: python csv-to-md.py
