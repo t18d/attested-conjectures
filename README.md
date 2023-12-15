@@ -30,12 +30,9 @@
 <br>
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
-<p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
+<p>The top 10 critics are Beza (25), Blass (24), Naber (18), Markland (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), Mangey (11), and Holwerda (10).</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including </preface>) below this , no more, no less. -->
-<p>The top 10 critics are Beza (25), Blass (24), Naber (18), Markland (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), Mangey (11), and Holwerda (10).</p>
-<br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
-</preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
 Ref.|Paradosis|Conjecture|Author|Year|Attested Place|Rem.
 ---|---|---|---|---|---|---
@@ -47,11 +44,11 @@ Aeschin. In Ctes. 20|ἄγειν|ἄγει|Wolf|n.d.|P.Oxy. XIII 1625|Editor's d
 Aeschin. In Ctes. 20|γέρα|ἱερὰ|Hamaker|n.d.|P.Oxy. XIII 1625|Editor's details from Grenfell.
 Aeschin. In Ctes. 53|μὲν ἀληθῆ|ἀληθῆ μὲν|Cobet|n.d.|P.Oxy. XXIV 2404|
 Aeschin. In Ctes. 94|ὁρώντων|ζώντων|Kaibel|n.d.|P.Oxy. IV 703|Editor's details from Grenfell.
-Aeschin. In Tim.|διισχυρίζεσθαι|ἰσχθυρίζεσθαι|Wolf|n.d.|P.Gen. I 256|Editor's details from Grenfell.
 Aeschin. In Tim.|ἐξαιτήσεται|ἐξαιρήσεται|Blass|n.d.|P.Gen. I 256|Editor's details from Grenfell.
 Aeschin. In Tim.|τοὺς νόμους μὲν|τὸυς μὲν νόμους|Cobet|n.d.|2nd cent. Geneva pap.: Nicole *Textes grecs inéd.* 1 & P. Halle 6|Editor's details from Grenfell.
 Aeschin. In Tim.|ἐπὶ πᾶσι τοῖς δικαίοις|τοῖς om.|Hillebrand|n.d.|2nd cent. Geneva pap.: Nicole *Textes grecs inéd.* 1 & P. Halle 6|Editor's details from Grenfell.
 Aeschin. In Tim.|κατηγορούντων|κατηγόρων|Blass|n.d.|P.Halle 6|Editor's details from Grenfell.
+Aeschin. In Tim. 176|διισχυρίζεσθαι|ἰσχθυρίζεσθαι|Wolf|n.d.|P.Gen. I 256|Editor's details from Grenfell.
 Alc. 19|τῷ προτέρῳ νεομω|τῳ π.'νέμῳ|Blass|n.d.|P.Oxy. XV 1789|Only conjecture listed that is consistent with the pap. - not necessarily right.
 Anth. Pal. 5.217|γλυκεροὺς/γλυκεράς|Γλυκέρας|Scaliger|n.d.|P.Oxy. II 211|Conjecture in epigram verified by discovery of fr.
 Anth. Pal. 9.588|ἐπωμίδας|βραχείονας|Johann Pierson|n.d.|P.Tebt. 3|Editor's details from Grenfell.
