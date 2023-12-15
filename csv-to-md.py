@@ -16,15 +16,23 @@ with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:
     with open("amsterdam-db.csv", "r", encoding="utf8") as amst_csv:        
         # use league ranking
         league = csv_tools.create_league_table((conj_csv, amst_csv))
-        top_10 = dict(sorted(league.items(), key=operator.itemgetter(1), reverse=True)[:10])
+        top_10 = sorted(league.items(), key=operator.itemgetter(1), reverse=True)
+        limit = 9 # keep ties for 10th
+        tie = False
+        while top_10[limit][1] == top_10[limit+1][1]: # [1] to access the actual score
+            limit += 1
+            tie = True
+        top_10 = dict(top_10[:limit+1])
         top_10_line = "<p>The top 10 critics are "
         for i, critic in enumerate(top_10.keys()):
             top_10_line += f"{critic} ({top_10[critic]})"
-            if i < 8:
+            if i < len(top_10)-2:
                 top_10_line += ", "
-            elif i == 8:
+            elif i == len(top_10)-2:
                 top_10_line += ", and "
             else:
+                if tie:
+                    top_10_line += f" (last {limit-8} tied for 10th place)"
                 top_10_line += ".</p>\n"
         # juggle the last few lines around
         preface_lines[-3] = top_10_line
