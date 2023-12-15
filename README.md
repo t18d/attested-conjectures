@@ -126,7 +126,7 @@ Herm. Sim. 8.54|λοιπόν|αὐτόν|Hilgenfeld|n.d.|P.Oxy.XIII.1599|
 Hes. Op. 263|Βασιλεῖς/Βασιλῆες|Βασιλῆς|||P.Oxy.VIII.1090|Editor's details from Grenfell's article.
 Hes. Op. 264|δικῶν|δικέων|||P.Oxy.VIII.1090|Editor's details from Grenfell's article.
 Hes. Op. 268|ἐθέληισ'|ἐθέληι|||P.Oxy.VIII.1090|Editor's details from Grenfell's article.
-Hes. Sc. 15|οὐ γὰρ οἱ|οὐδέ οἱ|Hermann A. T. Köchly|1874|Stud.Pal.I|
+Hes. Sc. 15|οὐ γάρ οἱ|οὐδέ οἱ|Hermann|1874|Stud.Pal.I|
 Hes. Sc. 432|ἐλθεῖν|ἐλθέμεν|Nauck|1889|Stud.Pal.I|
 Hes. Th. 656|ὅτι|ὅ τοι|Hermann|n.d.|P.Ryl.54|Editor's details from Grenfell's article.
 Hes. Th. 768|verse exists|verse om.|Wolf|n.d.|P.Oxy.XXXII.2648|Verse interpolated from Od. 10.533 (= 11. 46); omitted here and by Wolf.
@@ -149,14 +149,14 @@ Nonn. Dion. 15.165|μαχητάς|μαχηταῖς|Köchly|n.d.|See Grenfell p.
 Nonn. Dion. 15.87|οἰνηθέντες|οἰνωθεντες|Graefe|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
 Opp. C. 4.208|ἐρυccάμενοι|ερειcάμεν[οι|Johann Pierson|1752|P.Oxy.LXXXI.5278|
 Orac. Sib. 516-517|516 before 517|517 before 516|Geffcken|n.d.|P.Flor.398|Editor's details from Grenfell.
-P. Oxy. V. 841 frr. 16, 17||ἐπεύχομαι|Grenfell and Hunt|1908|P.Oxy.XXVI.2442. fr. 14. col i.17|
-P. Oxy. XIV.1659|Ἀντιπ(έρα) Πέλα|Ἀντιπέρα Πέλα|Grenfell and Hunt|1920|P.Oxy.XXVII.2474|
 P. Ryl. 652, 10|ορ⟨ ⟩|ἁρρίοις|Editors|n.d.|P.Oxy.XXIV.2409|
 P.Brit.Mus.214.20||ἔ]νγραφα|Wilcken|n.d.|P.Oxy.VIII.1121|See Wilcken *Archiv* i. 154.
 P.Brit.Mus.256 recto (e) l. 10|χειρογραφίαν|ἀποχήν|Wilcken|n.d.|P.Oxy.VII.1024|Confirms restoration of ἀποχήν "in place of" χειρογραφίαν; Wilcken *Archiv* iii. pp. 236-7.
 P.Giessen 50.34||Σαλωνείνου Οὐαλεριανοῦ|P. M. Meyer|n.d.|P.Oxy.X.1274|Restoration; details thereof obscure in P.Oxy.10.
 P.Oxy.III.579||Θοή[ριδος|Grenfell & Hunt|1903|P.Oxy.VIII.1118|Reading Θοή[ριδος confirmed by τῆς καὶ Θοήριδος l. 5
+P.Oxy.V.841 frr. 16, 17||ἐπεύχομαι|Grenfell and Hunt|1908|P.Oxy.XXVI.2442. fr. 14. col i.17|
 P.Oxy.VI.917||σπ(ονδῆς) Διον(ύσου)|Grenfell and Hunt|1908|P.Oxy.X.1283|Reading confirmed.
+P.Oxy.XIV.1659|Ἀντιπ(έρα) Πέλα|Ἀντιπέρα Πέλα|Grenfell and Hunt|1920|P.Oxy.XXVII.2474|
 P.Tebt.286.15|om.|ἱερεύς|Hunt|n.d.|P.Oxy.VIII.1092|Restoration of ἱερεύς.
 Philo Ebr. 2|τῆς ἀπαιδευσίας|τη]ν απαιδευσιαν|Turnebus & Wendland|n.d.|P.Oxy.IX.1173|
 Philo Ebr. 2|om.|τοῦ|Wendland with Richter|n.d.|P.Oxy.IX.1173|
