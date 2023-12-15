@@ -25,9 +25,9 @@ with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:
             elif i == 8:
                 top_10_line += ", and "
             else:
-                top_10_line += ".</p>"
+                top_10_line += ".</p>\n"
         # juggle the last few lines around
-        preface_lines[-4] = top_10_line
+        preface_lines[-3] = top_10_line
 
 # reopen files to create new readers
 with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:    
