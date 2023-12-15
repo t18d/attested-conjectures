@@ -69,7 +69,7 @@ def create_league_table(csvs):
 
 
 if __name__ == "__main__": # functions to be called when this file is run
-    sort_csv("amsterdam-db.csv", "Ref.")
+    sort_csv("amsterdam-db.csv", "Ref.") #TODO: sort amst-csv by Bible books
     #format_ref_column()
     #with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:
      #   with open("amsterdam-db.csv", "r", encoding="utf8") as amst_csv:
