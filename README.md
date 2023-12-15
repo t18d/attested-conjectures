@@ -154,8 +154,7 @@ P.Brit.Mus. 256 recto (e) l. 10|χειρογραφίαν|ἀποχήν|Wilcken|n
 P.Giessen. 50.34||Σαλωνείνου Οὐαλεριανοῦ|P. M. Meyer|n.d.|P.Oxy. X 1274|Restoration; details thereof obscure in P.Oxy.10.
 P.Oxy. III 579||Θοή[ριδος|Grenfell & Hunt|1903|P.Oxy. VIII 1118|Reading Θοή[ριδος confirmed by τῆς καὶ Θοήριδος l. 5
 P.Oxy. V 841 frr.16/17||ἐπεύχομαι|Grenfell and Hunt|1908|P.Oxy. XXVI 2442. fr. 14. col i.17|
-P.Oxy. VI 917||σπ(ονδῆς) Διον(ύσου)|Grenfell and Hunt|1908|P.Oxy. X 1283|Reading confirmed.
-P.Oxy. XIV 1659.42|Ἀντιπ(έρα) Πέλα|Ἀντιπέρα Πέλα|Grenfell and Hunt|1920|P.Oxy. XXVII 2473|
+P.Oxy. XIV 1659.42|Ἀντιπ(έρα) Πέλα|Ἀντιπέρα Πέλα|Grenfell-Hunt|1920|P.Oxy. XXVII 2473|
 P.Ryl. 652.10|ορ( )|ὁρρίοις|Roberts-Turner|1952|P.Oxy. XXIV 2408|
 P.Tebt. 286.15|om.|ἱερεύς|Hunt|n.d.|P.Oxy. VIII 1092|Restoration of ἱερεύς.
 Philo Ebr. 2|τῆς ἀπαιδευσίας|τη]ν απαιδευσιαν|Turnebus & Wendland|n.d.|P.Oxy. IX 1173|
