@@ -1,3 +1,8 @@
+# © 2023. This work is openly licensed via CC BY-SA 4.0.
+# You may obtain a copy of the License at 
+#
+#     https://creativecommons.org/licenses/by-sa/4.0/
+
 import csv
 from copy import copy
 from datetime import datetime
