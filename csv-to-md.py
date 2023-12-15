@@ -17,7 +17,7 @@ with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:
         # use league ranking
         league = csv_tools.create_league_table((conj_csv, amst_csv))
         top_10 = dict(sorted(league.items(), key=operator.itemgetter(1), reverse=True)[:10])
-        top_10_line = "The top 10 critics are "
+        top_10_line = "<p>The top 10 critics are "
         for i, critic in enumerate(top_10.keys()):
             top_10_line += f"{critic} ({top_10[critic]})"
             if i < 8:
@@ -25,7 +25,7 @@ with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:
             elif i == 8:
                 top_10_line += ", and "
             else:
-                top_10_line += ".\n"
+                top_10_line += ".</p>"
         # juggle the last few lines around
         preface_lines[-4] = top_10_line
 
