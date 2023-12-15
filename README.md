@@ -98,9 +98,9 @@ Callim. fr. 86.2|χάλχεον|Παγχαῖον|Bentley|n.d.|P.Oxy. XI 1363|
 Callim. frs. 502 + 172|γυνή|γύπῃ|Toup and Ruhnken|n.d.|P.Oxy. XVII 2080|
 Charito 2.3| ψόφου δέ ποθεν αἰσθομένη|ψόφου δὲ ποδῶν αἰσθομένη|D'Orville|n.d.|P.Oxy. VII 1019|Editor's details from Grenfell.
 Charito 2.4.18|μή τις|μή τι|Gasda|1859|P.Oxy. XLI 2948|Gasda *Mnemosyne VIII* (1859), p.258
-Charito 2.4.22|ἀπόλωλαc ὦ Λεωνᾶ|ἀπόλωλά|Zimmerman|1925|P. Oxy. XLI 2948|Zimmerman, *Philologus LXXX* (1925)
-Charito 2.4.33|δαίμων δὲ τίc|δαίμων cέ τιc|Cobet|n.d.|P. Oxy. XLI 2948|
-Charito 2.4.35|τίνας|τίνα|Hercher|n.d.|P. Oxy. XLI 2948|
+Charito 2.4.22|ἀπόλωλαc ὦ Λεωνᾶ|ἀπόλωλά|Zimmerman|1925|P.Oxy. XLI 2948|Zimmerman, *Philologus LXXX* (1925)
+Charito 2.4.33|δαίμων δὲ τίc|δαίμων cέ τιc|Cobet|n.d.|P.Oxy. XLI 2948|
+Charito 2.4.35|τίνας|τίνα|Hercher|n.d.|P.Oxy. XLI 2948|
 Dem. 19.280|καὶ|om.|Dobree|n.d.O|P.Oxy. VIII 1094|Editor's details from Grenfell.
 Dem. Ep. 3.22|ἀγνώμοσι|ἀγνῶσι|Dobree|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
 Dem. Ep. 3.22|ἠδικεῖσθε/ἀδικεῖσθαι|ἀδικοῖσθε|Sauppe|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
@@ -156,11 +156,12 @@ Nonn. Dion. 15.165|μαχητάς|μαχηταῖς|Köchly|n.d.|See Grenfell p.
 Nonn. Dion. 15.87|οἰνηθέντες|οἰνωθεντες|Graefe|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
 Opp. C. 4.208|ἐρυccάμενοι|ερειcάμεν[οι|Johann Pierson|1752|P.Oxy. LXXXI 5278|
 Orac. Sib. 516-517|516 before 517|517 before 516|Geffcken|n.d.|P.Flor. 398|Editor's details from Grenfell.
-P. Oxy. VI 970|πρὸς ταῖς ἐπ̣ι̣σ̣κ(εφθείσαις)|πρὸς ταῖς ἐπισκέψεσι|Grenfell and Hunt|1908|P. Oxy. XLII 3046|
 P.Giss. 50.34|[|Σαλωνείνου Οὐαλεριανοῦ|Paul M. Meyer|1910|P.Oxy. X 1273|
 P.Lond. 256 recto(e) 10|[|ἀποχήν|Wilcken|1906|P.Oxy. VII 1024|χιρογρα̣φιαν Kenyon
 P.Lond. II 214.20|]νγραφα|ἔνγραφα|Wilcken|1901|P.Oxy. VIII 1121|συνγραφα Kenyon
-P.Oxy. II 384|τριω|τρι<sup>μ</sup>|H. C. Youtie|n.d.|P. Oxy. XXXVIII 2841|Original source of this error now BM pap. 812 - implied to be the same as P. Oxy. II 384.
+P.Mert. II 75||1(δραχμας) ις|||P.Oxy. XLIV 3166 l. 27|Fee confirmed as 12 drachmas.
+P.Oxy. II 384|τριω|τρι<sup>μ</sup>|H. C. Youtie|n.d.|P.Oxy. XXXVIII 2841|Original source of this error now BM pap. 812 - implied to be the same as P.Oxy. II 384.
+P.Oxy. VI 970|πρὸς ταῖς ἐπ̣ι̣σ̣κ(εφθείσαις)|πρὸς ταῖς ἐπισκέψεσι|Grenfell and Hunt|1908|P.Oxy. XLII 3046|
 P.Oxy. XIV 1659.42|Ἀντιπ(έρα) Πέλα|Ἀντιπέρα Πέλα|Grenfell-Hunt|1920|P.Oxy. XXVII 2473|
 P.Ryl. 652.10|ορ( )|ὁρρίοις|Roberts-Turner|1952|P.Oxy. XXIV 2408|
 P.Tebt. 286.15|om.|ἱερεύς|Hunt|n.d.|P.Oxy. VIII 1092|Restoration of ἱερεύς.
