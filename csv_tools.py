@@ -69,8 +69,8 @@ def create_league_table(csvs):
 
 
 if __name__ == "__main__": # functions to be called when this file is run
-    sort_csv("amsterstam-db.csv", "Ref.")
+    sort_csv("amsterdam-db.csv", "Ref.")
     #format_ref_column()
     #with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:
-     #   with open("amsterstam-db.csv", "r", encoding="utf8") as amst_csv:
+     #   with open("amsterdam-db.csv", "r", encoding="utf8") as amst_csv:
       #      from pprint import pprint;pprint(create_league_table([conj_csv, amst_csv]))

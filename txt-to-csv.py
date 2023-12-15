@@ -27,7 +27,7 @@ with open("amsterdam-db.txt", "r", encoding="utf8") as amst_txt:
             bad_lines.append(line)
 
 #from pprint import pprint; pprint(amst_csv)
-with open("amsterstam-db.csv", "w", encoding="utf8", newline="") as amst_csv_f:
+with open("amsterdam-db.csv", "w", encoding="utf8", newline="") as amst_csv_f:
     writer = csv.DictWriter(amst_csv_f, fieldnames=fn)
     writer.writerows(amst_csv)
     for line in bad_lines:

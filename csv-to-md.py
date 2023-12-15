@@ -13,7 +13,7 @@ with open("README.md", "r", encoding="utf8") as readme:
 csv_tools.sort_csv()
 
 with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:    
-    with open("amsterstam-db.csv", "r", encoding="utf8") as amst_csv:        
+    with open("amsterdam-db.csv", "r", encoding="utf8") as amst_csv:        
         # use league ranking
         league = csv_tools.create_league_table((conj_csv, amst_csv))
         top_10 = dict(sorted(league.items(), key=operator.itemgetter(1), reverse=True)[:10])
@@ -31,7 +31,7 @@ with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:
 
 # reopen files to create new readers
 with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:    
-    with open("amsterstam-db.csv", "r", encoding="utf8") as amst_csv:   
+    with open("amsterdam-db.csv", "r", encoding="utf8") as amst_csv:   
         conj_reader = csv.reader(conj_csv)
         amst_reader = csv.reader(amst_csv)
         with open("README.md", "w", encoding="utf8") as conj_md: # WARNING: rewrites the file!
