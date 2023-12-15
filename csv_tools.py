@@ -27,7 +27,7 @@ def format_ref_column():
         # fieldnames are the first row of the csv file so don't need to be provided
         refs = (row["Ref."] for row in conjj)
         new_refs = {}
-        for ref in refs:
+        for ref in refs: #TODO: make this remove spaces between numbers automatically
             parts = ref.split(".")
             new_ref = ". ".join(parts)
             if "  " in new_ref:
