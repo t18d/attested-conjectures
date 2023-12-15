@@ -30,8 +30,7 @@
 <br>
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
-<p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
-<p>The top 10 critics are Beza (25), Blass (24), Naber (18), Markland (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), Mangey (11), and Holwerda (10).</p><p>The top 10 critics are Beza (25), Blass (24), Naber (18), Markland (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), Mangey (11), and Erasmus (10).</p>
+<p>The top 10 critics are Beza (25), Blass (24), Naber (18), Markland (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), Mangey (11), and Holwerda (10).</p><p>The top 10 critics are Beza (25), Blass (24), Naber (18), Markland (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), Mangey (11), and Holwerda (10).</p><p>The top 10 critics are Beza (25), Blass (24), Naber (18), Markland (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), Mangey (11), and Erasmus (10).</p>
 <br>
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -150,10 +149,10 @@ Nonn. Dion. 15.165|μαχητάς|μαχηταῖς|Köchly|n.d.|See Grenfell p.
 Nonn. Dion. 15.87|οἰνηθέντες|οἰνωθεντες|Graefe|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
 Opp. C. 4.208|ἐρυccάμενοι|ερειcάμεν[οι|Johann Pierson|1752|P.Oxy. LXXXI 5278|
 Orac. Sib. 516-517|516 before 517|517 before 516|Geffcken|n.d.|P.Flor. 398|Editor's details from Grenfell.
-P. Oxy. II 384|τριω|τρι<sup>μ</sup>|H. C. Youtie|n.d.|P. Oxy. XXXVIII 2841|Original source of this error now BM pap. 812 - implied to be the same as P. Oxy. II 384.
 P.Giss. 50.34|[|Σαλωνείνου Οὐαλεριανοῦ|Paul M. Meyer|1910|P.Oxy. X 1273|
 P.Lond. 256 recto(e) 10|[|ἀποχήν|Wilcken|1906|P.Oxy. VII 1024|χιρογρα̣φιαν Kenyon
 P.Lond. II 214.20|]νγραφα|ἔνγραφα|Wilcken|1901|P.Oxy. VIII 1121|συνγραφα Kenyon
+P.Oxy. II 384|τριω|τρι<sup>μ</sup>|H. C. Youtie|n.d.|P. Oxy. XXXVIII 2841|Original source of this error now BM pap. 812 - implied to be the same as P. Oxy. II 384.
 P.Oxy. XIV 1659.42|Ἀντιπ(έρα) Πέλα|Ἀντιπέρα Πέλα|Grenfell-Hunt|1920|P.Oxy. XXVII 2473|
 P.Ryl. 652.10|ορ( )|ὁρρίοις|Roberts-Turner|1952|P.Oxy. XXIV 2408|
 P.Tebt. 286.15|om.|ἱερεύς|Hunt|n.d.|P.Oxy. VIII 1092|Restoration of ἱερεύς.
