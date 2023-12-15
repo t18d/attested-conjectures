@@ -32,15 +32,14 @@
 
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
-The top 10 critics are Beza (25), Blass (24), Naber (18), Markland (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), Mangey (11), and Holwerda (10).
-
+<p>The top 10 critics are Beza (25), Blass (24), Naber (18), Markland (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), Mangey (11), and Erasmus (10).</p>
 <br>
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
 Ref.|Paradosis|Conjecture|Author|Year|Attested Place|Rem.
 ---|---|---|---|---|---|---
-Ach. Tat. Leuc. 2-9|τότε γὰρ τὸν Διόνυσον|τότε τὸν γὰρ Διόνυσον|Jacobs|n.d.|P.Oxy. X 1250|Details from Grenfell.
-Ach. Tat. Leuc. 2-9|προσέθιγεν|προσέθηκεν|Boden|n.d.|P.Oxy. X 1250|Details from Grenfell.
+Ach.Tat. Leuc. 2-9|τότε γὰρ τὸν Διόνυσον|τότε τὸν γὰρ Διόνυσον|Jacobs|n.d.|P.Oxy. X 1250|Details from Grenfell.
+Ach.Tat. Leuc. 2-9|προσέθιγεν|προσέθηκεν|Boden|n.d.|P.Oxy. X 1250|Details from Grenfell.
 Aeschin. In Ctes. 167|προσκαθίζεις/προσκαθεστήσῃ|προσκαθιζήσει|Lobeck|n.d.|P.Oxy. III 457|Pap. reads προσκαθ[ιζ]ήσ[ει; editor's details from Grenfell.
 Aeschin. In Ctes. 20|καὶ τὴν ἐκεῖ σκυθρωπὸν|καὶ τῶν ἐκεῖ σκυθρωπῶν|Lambinus|n.d.|P.Oxy. XIII 1625|Editor's details from Grenfell.
 Aeschin. In Ctes. 20|ἄγειν|ἄγει|Wolf|n.d.|P.Oxy. XIII 1625|Editor's details from Grenfell. 
