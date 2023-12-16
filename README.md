@@ -54,7 +54,7 @@ Aeschin. In Tim.|κατηγορούντων|κατηγόρων|Blass|n.d.|P.Gen.
 Aeschin. In Tim. 173|ἐξαιτήσεται|ἐξαιρήσεται|Blass|n.d.|P.Gen. I 256|Editor's details from Grenfell.
 Aeschin. In Tim. 176|διισχυρίζεσθαι|ἰσχθυρίζεσθαι|Wolf|n.d.|P.Gen. I 256|Editor's details from Grenfell.
 Alc. 19|τῷ προτέρῳ νεομω|τῳ π.'νέμῳ|Blass|n.d.|P.Oxy. XV 1789|Only conjecture listed that is consistent with the pap. - not necessarily right.
-Alc. fr. 34|]cον|δεῦτ̣[έ] μοι νᾶcον|Gallavotti|n.d.|P.Mich. inv. 3498+3250b recto|
+Alc. fr. 34|]cον|δεῦτέ μοι νᾶcον|Gallavotti|n.d.|P.Mich. inv. 3498+3250b recto|δεῦτ̣[έ] μοι νᾶcον
 Anth. Pal. 5.217|γλυκεροὺς/γλυκεράς|Γλυκέρας|Scaliger|n.d.|P.Oxy. II 211|Conjecture in epigram verified by discovery of fr.
 Anth. Pal. 9.588|ἐπωμίδας|βραχείονας|Johann Pierson|n.d.|P.Tebt. 3|Editor's details from Grenfell.
 Ap. Rhod. 3.263|-σι νέεσθαι/νέεσθε|-σιν ἕλεσθε|Brunck|n.d.|P.Oxy. VI 874|Editor's details from Grenfell's article.
