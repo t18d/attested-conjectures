@@ -35,7 +35,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (44), Markland (40), Beza (25), Blass (24), Naber (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), and Mangey (11).</p>
+<p>The top 10 critics are Valckenaer (46), Markland (40), Beza (25), Blass (24), Naber (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), and Mangey (11).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -84,6 +84,8 @@ Ar. Lys. 427|ἀλλ’|ἄλλ’|Valckenaer|1757|MS teste Brunck 1781|
 Ar. Nub. 507|μελιττοῦταν|μελιτοῦτταν|Valckenaer|s.xviii ex.|Laur. Conv. Soppr. 140|
 Ar. Pax 1013|ἀποχειρωθείς|ἀποχηρωθείς|Valckenaer|1757|Marc. gr. 474 (V)|
 Ar. Plut. 1018|παγκάλας|παγκάλους|Valckenaer|1757|MpcL|
+Ar. Plut. 1037|τυγχάνει|τυγχάνοι|Valckenaer|1757|Marc. gr. 474 (V)|
+Ar. Plut. 1116|ἐπιθύει|ἔτι θύει|Valckenaer|1757|Marc. gr. 474 (V)|
 Ar. Ran. 269|τῷ κωπίῳ|τὼ κωπίω|Valckenaer|1757|Matrit. 4683|
 Ar. Ran. 673|ποιῆσαι|νοῆσαι|Valckenaer|1757|Marc. gr. 474 (V)|
 Ar. Ran. 690|ἐγγενέσθαι|ἐκγένεσθαι|Valckenaer|1757|Md1UVs1|ἐκγενέσθαι MSS
