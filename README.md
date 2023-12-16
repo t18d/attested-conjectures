@@ -35,7 +35,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (40), Beza (25), Blass (24), Naber (18), Valckenaer (17), Michelsen (15), Owen (14), Bentley (12), Hort (12), and Mangey (11).</p>
+<p>The top 10 critics are Markland (40), Beza (25), Blass (24), Valckenaer (18), Naber (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), and Mangey (11).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -245,6 +245,7 @@ Soph. OC 534|σοίτ’ ἄρ’/σαίτ’ ἄρ’|αὔτ’ ἄρ’|Markl
 Soph. OC 1012|om.|θ’|Markland|s.xviii med.|suppl. Paris. gr. 2886|
 Soph. OC 1345|σθένω|θέλω|Markland|s.xviii med.|r|
 Soph. OT 458|αὐτὸς|αὑτὸς|Markland|s.xviii med.|Vindob. suppl. gr. 71 (Xs)|pc
+Soph. OT 778|habent|del.|Valckenaer|s.xviii ex.|P.Oxy. 1369|
 Soph. OT 1474|ἐγγόνοιν|ἐκγόνοιν|Valckenaer|1743-6|Paris. gr. 2787 (Zn)/Marc. gr. 472 (Jebb)|
 Soph. Phil. 256|που|πω|Markland|s.xviii med.|Marc. gr. 468 (V)|
 Soph. Phil. 614|ἤκουσεν|ἤκουσ’|Markland|s.xviii med.|z|
