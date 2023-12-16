@@ -35,7 +35,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (40), Valckenaer (37), Beza (25), Blass (24), Naber (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), and Mangey (11).</p>
+<p>The top 10 critics are Valckenaer (40), Markland (40), Beza (25), Blass (24), Naber (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), and Mangey (11).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -81,6 +81,9 @@ Ar. Lys. 427|ἀλλ’|ἄλλ’|Valckenaer|1757|MS teste Brunck 1781|
 Ar. Nub. 507|μελιττοῦταν|μελιτοῦτταν|Valckenaer|s.xviii ex.|Laur. Conv. Soppr. 140|
 Ar. Pax 1013|ἀποχειρωθείς|ἀποχηρωθείς|Valckenaer|1757|Marc. gr. 474 (V)|
 Ar. Ran. 269|τῷ κωπίῳ|τὼ κωπίω|Valckenaer|1757|Matrit. 4683|
+Ar. Ran. 673|ποιῆσαι|νοῆσαι|Valckenaer|1757|Marc. gr. 474 (V)|
+Ar. Ran. 690|ἐγγενέσθαι|ἐκγένεσθαι|Valckenaer|1757|Md1UVs1|ἐκγενέσθαι MSS
+Ar. Ran. 743|οἴμωζε|ᾤμωζε|Valckenaer|1757|Neap. II F 22 (Np1)|
 Ar. Vesp. 576|γράψομαι|γράφομαι|Brunck|n.d.|P.Oxy. XI 1374|
 Ar. Vesp. 790|ἐπέθηκε|ἐνέθηκε|Bergk|n.d.|P.Oxy. XI 1374|
 Ar. Vesp. 1132/5|ἀναλαβοῦ|ἀναβαλοῦ|Valckenaer|1757|B/Rpc|
