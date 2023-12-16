@@ -35,7 +35,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (46), Markland (40), Beza (25), Blass (24), Naber (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), and Mangey (11).</p>
+<p>The top 10 critics are Valckenaer (46), Markland (40), Beza (25), Blass (24), Naber (18), Michelsen (15), Owen (14), Johannes Pierson (12), Bentley (12), and Hort (12).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -265,6 +265,8 @@ Soph. Ant. 384|om.|ἡ|Markland|s.xviii med.|Vat. Pal. gr. 287 (Zo)|
 Soph. Ant. 406|εὐρέθη|ᾑρέθη|Markland|s.xviii med.|Laur. 32. 9 (L)|fort. pc legit sch. ut videtur
 Soph. Ant. 592|βρέμουσι δ'|βρέμουσιν|Johannes Pierson|s.xviii med.|Vat. Pal. gr. 287 (Zo)|
 Soph. Ant. 599|ὑπὲρ|ὅπερ|Markland|s.xviii med.|Laur. 31.10 (K)|s.l. (ex sch.)
+Soph. Ant. 695|ἀπ’|ἐπ’|Johannes Pierson|s.xviii med.|Paris. gr. 2712 (A)|
+Soph. Ant. 836|-ῃ/-ῳ/αν|φθιμένᾳ|Johannes Pierson|s.xviii med.|Laur. 32. 9 (L)/a|
 Soph. Ant. 938|πατρογενεῖς|προγενεῖς|Valckenaer|pre-1775|Laur. 32. 9 (L)|
 Soph. Ant. 1238|ἐκβάλλει|ἐμβάλλει|Markland|s.xviii med.|Berol. Phillips 1588|
 Soph. Ant. 1350|μηδὲν|μηδέν’|Markland|s.xviii med.|MSS|
