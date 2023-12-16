@@ -58,7 +58,7 @@ Aeschin. In Tim. 176|διισχυρίζεσθαι|ἰσχθυρίζεσθαι|Wo
 Alc. 19|τῷ προτέρῳ νεομω|τῳ π.'νέμῳ|Blass|n.d.|P.Oxy. XV 1789|Only conjecture listed that is consistent with the pap. - not necessarily right.
 Alc. fr. 34|]cον|δεῦτέ μοι νᾶcον|Gallavotti|n.d.|P.Mich. inv. 3498+3250b recto|δεῦτ̣[έ] μοι νᾶcον
 Anth. Pal. 5.217|γλυκεροὺς/γλυκεράς|Γλυκέρας|Scaliger|n.d.|P.Oxy. II 211|Conjecture in epigram verified by discovery of fr.
-Anth. Pal. 9.588|ἐπωμίδας|βραχείονας|Johann Pierson|n.d.|P.Tebt. 3|Editor's details from Grenfell.
+Anth. Pal. 9.588|ἐπωμίδας|βραχείονας|Johannes Pierson|n.d.|P.Tebt. 3|Editor's details from Grenfell.
 Ap. Rhod. 3.263|-σι νέεσθαι/νέεσθε|-σιν ἕλεσθε|Brunck|n.d.|P.Oxy. VI 874|Editor's details from Grenfell's article.
 Ap. Rhod. 3.263|φημοσύνηισινέεσθαι L/εφημοσύνῃσιν εεσθε G|εφ]ημοσυνηι[σι]ν ελεσ[θε|Brunck|n.d.|P.Oxy. VI 874|Pap. uncertain but letters only agree with Brunck not MSS.
 Ap. Rhod. 3.745|ναῦται εἰς Ἑλίκην|ναυτίλοι εἰς Ἑλίκην|Porson|n.d.|P.Oxy. IV 690|Editor's details from Grenfell's article.
@@ -194,7 +194,7 @@ Nonn. Dion. 15.87|οἰνηθέντες|οἰνωθεντες|Graefe|n.d.|See Gr
 Nonn. Dion. 15.112|ἐλαίης|Ἀθήνης|Köchly|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
 Nonn. Dion. 15.165|Βάκχοιο|Γλαύκοιο|Falkenburg|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
 Nonn. Dion. 15.165|μαχητάς|μαχηταῖς|Köchly|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
-Opp. C. 4.208|ἐρυccάμενοι|ερειcάμεν[οι|Johann Pierson|1752|P.Oxy. LXXXI 5278|
+Opp. C. 4.208|ἐρυccάμενοι|ερειcάμεν[οι|Johannes Pierson|1752|P.Oxy. LXXXI 5278|
 Orac. Sib. 516-517|516 before 517|517 before 516|Geffcken|n.d.|P.Flor. 398|Editor's details from Grenfell.
 P.Giss. 50.34|[|Σαλωνείνου Οὐαλεριανοῦ|Paul M. Meyer|1910|P.Oxy. X 1273|
 P.Lond. 256 recto(e) 10|[|ἀποχήν|Wilcken|1906|P.Oxy. VII 1024|χιρογρα̣φιαν Kenyon
@@ -250,11 +250,14 @@ Simon. fr. 88|λεύχης|λέσχης|H. Stephanus|n.d.|P.Oxy. XI 1362|
 Soph. Aj. 378|ἔχειν|ἔχῃ|Valckenaer|pre-1775|Paris. gr. 2735 (C)|
 Soph. Aj. 560|ὑβρίσῃ|ὑβρίσει|Valckenaer|1743-6|MS|
 Soph. Aj. 756||ἐθ’|Markland|s.xviii med.|MS|
+Soph. Aj. 773|τότ'/ὅδ'|τόδ|Johannes Pierson|s.xviii med.|Laur. 32.40 (H)|
+Soph. Aj. 773|τότ'/ὅδ'|τόδ|Samuel Musgrave|s.xviii med.|Laur. 32.40 (H)|
 Soph. Aj. 842||ἐκγόνων τ’|Markland|s.xviii med.|MSS|
 Soph. Aj. 842||ἐκγόνων τ’|Samuel Musgrave|pre-1780|MSS|
 Soph. Aj. 1051|ὑβρίσῃ|οὔκουν|Valckenaer|1743-6|Vat. gr. 1333 (Zc)|
 Soph. Aj. 1098|τὸν|τόνδ’|Markland|s.xviii med.|Laur. 32. 9 (L)|
 Soph. Aj. 1237|ἔχειν|ποῖ|Valckenaer|pre-1775|cod. rec.|
+Soph. Aj. 1243|ἤρεσκεν|ἤρκεσε|Johannes Pierson|s.xviii med.|MS|
 Soph. Aj. 1274||ἐντός|Markland|s.xviii med.|a|
 Soph. Ant. 76|σοί|σύ|Valckenaer|1746|Vat. gr. 57 s.l.|
 Soph. Ant. 384|om.|ἡ|Markland|s.xviii med.|Vat. Pal. gr. 287 (Zo)|
@@ -263,6 +266,8 @@ Soph. Ant. 599|ὑπὲρ|ὅπερ|Markland|s.xviii med.|Laur. 31.10 (K)|s.l. (
 Soph. Ant. 938|πατρογενεῖς|προγενεῖς|Valckenaer|pre-1775|Laur. 32. 9 (L)|
 Soph. Ant. 1238|ἐκβάλλει|ἐμβάλλει|Markland|s.xviii med.|Berol. Phillips 1588|
 Soph. Ant. 1350|μηδὲν|μηδέν’|Markland|s.xviii med.|MSS|
+Soph. El. 952||γ’|Johannes Pierson|s.xviii med.|Paris. gr. 2820|
+Soph. El. 1029|μάθῃς|πάθῃς|Johannes Pierson|s.xviii med.|Pal. gr. 40 (P)/a|
 Soph. El. 1044||ποήσεις|Valckenaer|pre-1775|MSS|
 Soph. El. 1127|om.|σ’|Markland|s.xviii med.|gl. in Matrit. gr. 4677 (N)|
 Soph. El. 1139|om.|σ’|Markland|s.xviii med.|p|
@@ -276,6 +281,7 @@ Soph. OC 1345|σθένω|θέλω|Markland|s.xviii med.|r|
 Soph. OC 1515|στρέψαντα|στράψαντα|Reiske|1743|Laur. 31.10 (K)|
 Soph. OT 458|αὐτὸς|αὑτὸς|Markland|s.xviii med.|Vindob. suppl. gr. 71 (Xs)|pc
 Soph. OT 778|habent|del.|Valckenaer|pre-1775|P.Oxy. XI 1369|
+Soph. OT 1245|κάλει|καλεῖ|Johannes Pierson|s.xviii med.|Ambr. G 56 sup.|
 Soph. OT 1474|ἐγγόνοιν|ἐκγόνοιν|Valckenaer|1743-6|Paris. gr. 2787 (Zn)/Marc. gr. 472 (Jebb)|
 Soph. Phil. 256|που|πω|Markland|s.xviii med.|Marc. gr. 468 (V)|
 Soph. Phil. 614|ἤκουσεν|ἤκουσ’|Markland|s.xviii med.|z|
