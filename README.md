@@ -74,7 +74,7 @@ Ar. Eq. 143|ἐξολῶν|ἐξελῶν|Valckenaer|1757|Ravennas 429 (R)/sch.|
 Ar. Eq. 881|τηλικουτονί|τηλικοῦτον|Valckenaer|1757|Laur. 31.13 (X)|
 Ar. Eq. 1017|ἐκέλευσ'|ἐκελευ'|Blaydes|n.d.|P.Oxy. XI 1373|Editor's details from Grenfell's article.
 Ar. Eq. 1058|φράσαι/φράζευ|φρασ]σαι|Brunck|n.d.|P.Oxy. XI 1373|
-Ar. Nub. 507|μελιττοῦταν|μελιτοῦτταν|Valckenaer|s.xviii ex.|Laur. Conv. Sopp. 140|
+Ar. Nub. 507|μελιττοῦταν|μελιτοῦτταν|Valckenaer|s.xviii ex.|Laur. Conv. Soppr. 140|
 Ar. Vesp. 576|γράψομαι|γράφομαι|Brunck|n.d.|P.Oxy. XI 1374|Editor's details from Grenfell's article.
 Ar. Vesp. 790|ἐπέθηκε|ἐνέθηκε|Bergk|n.d.|P.Oxy. XI 1374|Editor's details from Grenfell's article.
 Ar. fr. 755|καὶ τῶν βελέκκων|βελέκκων|Kock|n.d.|P.Oxy. XV 1801|
