@@ -35,7 +35,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (40), Beza (25), Blass (24), Naber (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), Mangey (11), Holwerda (10), and Erasmus (10) (last 2 tied).</p>
+<p>The top 10 critics are Markland (40), Beza (25), Blass (24), Naber (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), Valckenaer (11), and Mangey (11).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -222,9 +222,11 @@ Plu. Caes. 45.8|ταιc|αις|Moses Solanus|1729|P.Oxy. LXXXI 5270|
 Poet. Lyr. i. p.4|τὴν ογ΄ Ὀλυμπιάδα|τὴν ος΄ Ὀλυμπιάδα|Bergk|n.d.|P.Oxy. II 222|
 Simon. fr. 25|χεέτω|χείτω|M. L. West|1989|P.Oxy. LXXXI 5261|χέιτω is accented on papyrus.
 Simon. fr. 88|λεύχης|λέσχης|H. Stephanus|n.d.|P.Oxy. XI 1362|
+Soph. Aj. 560|ὑβρίσῃ|ὑβρίσει|Valckenaer|1743-6|MS|
 Soph. Aj. 756||ἐθ’|Markland|s.xviii med.|MS|
 Soph. Aj. 842||ἐκγόνων τ’|Markland|s.xviii med.|MSS|
 Soph. Aj. 842||ἐκγόνων τ’|Samuel Musgrave|pre-1780|MSS|
+Soph. Aj. 1051|ὑβρίσῃ|οὔκουν|Valckenaer|1743-6|Vat. gr. 1333 (Zc)|
 Soph. Aj. 1098|τὸν|τόνδ’|Markland|s.xviii med.|Laur. 32. 9 (L)|
 Soph. Aj. 1274||ἐντός|Markland|s.xviii med.|a|
 Soph. Ant. 384|om.|ἡ|Markland|s.xviii med.|Vat. Pal. gr. 287 (Zo)|
@@ -238,6 +240,7 @@ Soph. OC 534|σοίτ’ ἄρ’/σαίτ’ ἄρ’|αὔτ’ ἄρ’|Markl
 Soph. OC 1012|om.|θ’|Markland|s.xviii med.|suppl. Paris. gr. 2886|
 Soph. OC 1345|σθένω|θέλω|Markland|s.xviii med.|r|
 Soph. OT 458|αὐτὸς|αὑτὸς|Markland|s.xviii med.|Vindob. suppl. gr. 71 (Xs)|pc
+Soph. OT 1474|ἐγγόνοιν|ἐκγόνοιν|Valckenaer|1743-6|Paris. gr. 2787 (Zn)/Marc. gr. 472 (Jebb)|
 Soph. Phil. 256|που|πω|Markland|s.xviii med.|Marc. gr. 468 (V)|
 Soph. Phil. 614|ἤκουσεν|ἤκουσ’|Markland|s.xviii med.|z|
 Soph. Phil. 614|ἤκουσεν|ἤκουσ’|Valckenaer|pre-1775|z|
