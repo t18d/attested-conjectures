@@ -34,7 +34,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (34), Beza (25), Blass (24), Naber (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), Mangey (11), Holwerda (10), and Erasmus (10) (last 2 tied).</p>
+<p>The top 10 critics are Markland (36), Beza (25), Blass (24), Naber (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), Mangey (11), Holwerda (10), and Erasmus (10) (last 2 tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -232,11 +232,13 @@ Soph. Ant. 1350|μηδὲν|μηδέν’|Markland|s.xviii med.|MSS|
 Soph. El. 1127|om.|σ’|Markland|s.xviii med.|gl. in Matr. gr. 4677 (N)|
 Soph. El. 1139|om.|σ’|Markland|s.xviii med.|p|
 Soph. OT 458|αὐτὸς|αὑτὸς|Markland|s.xviii med.|Vindob. suppl. gr. 71 (Xs)|pc
+Soph. Phil. 256|που|πω|Markland|s.xviii med.|Marc. gr. 468 (V)|
+Soph. Phil. 614|ἤκουσεν|ἤκουσ’|Markland|s.xviii med.|z|Valckenaer (pre-1775)
 Soph. Trach. 326|δακρυρρόει|δακρυρροεῖ|Markland|s.xviii med.|Laur. 31.10 (K)|
 Soph. Trach. 328|αὐτῇ|αὐτή|Markland|s.xviii med.|Laur. 31.10 (K)/Laur. 32.2 (Zg)|
 Soph. Trach. 747|καὶ|κοὐ|Markland|s.xviii med.|Laur. 32.2 (Zg)|Valckenaer (pre-1775)
 Soph. Trach. 977|γέρων|γέρον|Markland|s.xviii med.|a|
-Soph. Trach. 1136|μνωμένη|μωμένη|Benjamin Heath|n.d.|P.Oxy. XV 1805/Laur. 31.10 (K)|μωμ[
+Soph. Trach. 1136|μνωμένη|μωμένη|Benjamin Heath|s.xviii in.|P.Oxy. XV 1805/Laur. 31.10 (K)|μωμ[
 Soph. fr. 294|ἐπισχολάζεται|κοὐκ ἔτι σχολάζεται|Meineke|n.d.|P.Oxy. IX 1174|
 Sor. Gyn. 2-3|Ἀθηναίων|Ἀθηνίων|Wellmann|n.d.|P.Soc.Ital. 117|Details from Grenfell.
 Sor. Gyn. 2-3|ἐν τῷ α καὶ γ τῆς αἱρέσεως|ἐν τῷ α καὶ γ τῶν περὶ τῆς αἱρέσεως|Rose|n.d.|P.Soc.Ital. 117|Details from Grenfell.
