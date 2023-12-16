@@ -35,7 +35,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (40), Markland (40), Beza (25), Blass (24), Naber (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), and Mangey (11).</p>
+<p>The top 10 critics are Valckenaer (42), Markland (40), Beza (25), Blass (24), Naber (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), and Mangey (11).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -73,6 +73,8 @@ Ar. Av. 1069|om.|πάνθ'|Ludolph Dissen|n.d.|P.Louvre ed. Weil = Austin 42|
 Ar. Av. 1080|πᾶσι|om.|Triclinius|s.xiv in.|P.Louvre ed. Weil = Austin 42|
 Ar. Av. 1314|καλεῖ|καλοῖ|Valckenaer|1757|Γ s.l./Bp|
 Ar. Av. 1693|διδότω|δότω|Valckenaer|1757|ΓUL|
+Ar. Eccl. 51|Φιλοδωρίτου|Φιλοδωρήτου|Valckenaer|1757|Paris. gr. 2712 (A)|
+Ar. Eccl. 707|λαβούσας|λαβόντας|Valckenaer|1757|Rav. 429 (R)/Perus. H 56 (Λ)|tacite
 Ar. Eq. 143|ἐξολῶν|ἐξελῶν|Valckenaer|1757|Rav. 429 (R)/sch.|V. cites the scholia
 Ar. Eq. 881|τηλικουτονί|τηλικοῦτον|Valckenaer|1757|Laur. 31.13 (X)|
 Ar. Eq. 1017|ἐκέλευσ'|ἐκελευ'|Blaydes|n.d.|P.Oxy. XI 1373|Editor's details from Grenfell's article.
