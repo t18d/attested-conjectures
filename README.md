@@ -35,7 +35,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (40), Beza (25), Valckenaer (24), Blass (24), Naber (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), and Mangey (11).</p>
+<p>The top 10 critics are Markland (40), Valckenaer (27), Beza (25), Blass (24), Naber (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), and Mangey (11).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -63,9 +63,11 @@ Ap. Rhod. 3.263|-σι νέεσθαι/νέεσθε|-σιν ἕλεσθε|Brunck|n
 Ap. Rhod. 3.263|φημοσύνηισινέεσθαι L/εφημοσύνῃσιν εεσθε G|εφ]ημοσυνηι[σι]ν ελεσ[θε|Brunck|n.d.|P.Oxy. VI 874|Pap. uncertain but letters only agree with Brunck not MSS.
 Ap. Rhod. 3.745|ναῦται εἰς Ἑλίκην|ναυτίλοι εἰς Ἑλίκην|Porson|n.d.|P.Oxy. IV 690|Editor's details from Grenfell's article.
 Ap. Rhod. 3.909|κατὰ|μετὰ|Stephanus|n.d.|P.Oxy. IV 691|Editor's details from Grenfell's article.
+Ar. Ach. 401|σαφῶς|σοφῶς|Valckenaer|1757|Ravennas 429 (R)|
 Ar. Ach. 912|τί δαὶ κακὸν παθών|τί δὲ κακὸν παθών|Bentley|n.d.|*Berl. klass. Texte* v.2 p.99|Editor's details from Grenfell's article.
 Ar. Ach. 912|φορούμενος|φερόμενος|Brunck|n.d.|*Berl. klass. Texte* v.2 p.99|Editor's details from Grenfell's article.
 Ar. Ach. 917|θρυαλλίδας|θρυαλλίδα|Elmsley|n.d.|*Berl. klass. Texte* v.2 p.99|Editor's details from Grenfell's article.
+Ar. Ach. 970|κιχλᾶν|κιχλῶν|Valckenaer|1757|Ravennas 429 (R)|
 Ar. Av. 1069|om.|πάνθ'|Ludolph Dissen|n.d.|P.Louvre ed. Weil = Austin 42|Weil *Revue de Philologie* xiii. 179 (1882)
 Ar. Av. 1080|πᾶσι|om.|Triclinius|s.xiv in.|P.Louvre ed. Weil = Austin 42|Weil *Revue de Philologie* xiii. 179 (1882)
 Ar. Eq. 1017|ἐκέλευσ'|ἐκελευ'|Blaydes|n.d.|P.Oxy. XI 1373|Editor's details from Grenfell's article.
@@ -125,8 +127,9 @@ Eur. Hec. 931|Ἰλιάδα|Ἰλιάδος|Valckenaer|1749|K1c et PrRfRw|
 Eur. IT. 252|καὶ τυχόντες|κἀντυχόντες|Reiske|n.d.|P.Hibeh 24|Editor's details from Grenfell's article.
 Eur. IT. 1618|τήνδε|τῆσδε|Bothe|n.d.|P.Hibeh 24|Editor's details from Grenfell's article.
 Eur. Med. 1180|δρομήμασιν|δραμήμασιν|Cobet|n.d.|P.Oxy.XX.2337|
-Eur. Or. 239|δ' εἰς|φέροις|Valckenaer|1749|Laur. 32.2/Cantab. Nn. 3.14|
+Eur. Or. 239|δ' εἰς|φέροις|Valckenaer|1749|Laur. 32.2 (L)/Cantab. Nn. 3.14 (Z)|
 Eur. Or. 294|ἀνακαλύπτ', ὦ|ἀνακαλύπτου|Valckenaer|1749|B2Tt1/2|
+Eur. Or. 329|απόφατιν|ἄπο φάτιν|Valckenaer|1749|RS et Prc|
 Eur. Or. 1340|ἀλλ'|ἄγ'|Weil|n.d.|P.Oxy. XI 1370|
 Eur. Ph. 1040|ἰαζὰ|ἀχὰ|Samuel Musgrave|1778|P.Oxy. II 224|ἀχᾷ Π2
 Eur. Ph. 1040|πόλεως|πόλεος|Porson|1824|P.Oxy. II 224|
