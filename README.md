@@ -35,7 +35,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (40), Beza (25), Blass (24), Naber (18), Michelsen (15), Owen (14), Valckenaer (13), Bentley (12), Hort (12), and Mangey (11).</p>
+<p>The top 10 critics are Markland (40), Beza (25), Blass (24), Naber (18), Valckenaer (17), Michelsen (15), Owen (14), Bentley (12), Hort (12), and Mangey (11).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -222,20 +222,24 @@ Plu. Caes. 45.8|ταιc|αις|Moses Solanus|1729|P.Oxy. LXXXI 5270|
 Poet. Lyr. i. p.4|τὴν ογ΄ Ὀλυμπιάδα|τὴν ος΄ Ὀλυμπιάδα|Bergk|n.d.|P.Oxy. II 222|
 Simon. fr. 25|χεέτω|χείτω|M. L. West|1989|P.Oxy. LXXXI 5261|χέιτω is accented on papyrus.
 Simon. fr. 88|λεύχης|λέσχης|H. Stephanus|n.d.|P.Oxy. XI 1362|
+Soph. Aj. 378|ἔχειν|ἔχῃ|Valckenaer|s.xviii ex.|Paris. gr. 2735 (C)|
 Soph. Aj. 560|ὑβρίσῃ|ὑβρίσει|Valckenaer|1743-6|MS|
 Soph. Aj. 756||ἐθ’|Markland|s.xviii med.|MS|
 Soph. Aj. 842||ἐκγόνων τ’|Markland|s.xviii med.|MSS|
 Soph. Aj. 842||ἐκγόνων τ’|Samuel Musgrave|pre-1780|MSS|
 Soph. Aj. 1051|ὑβρίσῃ|οὔκουν|Valckenaer|1743-6|Vat. gr. 1333 (Zc)|
 Soph. Aj. 1098|τὸν|τόνδ’|Markland|s.xviii med.|Laur. 32. 9 (L)|
+Soph. Aj. 1237|ἔχειν|ποῖ|Valckenaer|s.xviii ex.|cod. rec.|
 Soph. Aj. 1274||ἐντός|Markland|s.xviii med.|a|
 Soph. Ant. 384|om.|ἡ|Markland|s.xviii med.|Vat. Pal. gr. 287 (Zo)|
 Soph. Ant. 406|εὐρέθη|ᾑρέθη|Markland|s.xviii med.|Laur. 32. 9 (L)|fort. pc legit sch. ut videtur
 Soph. Ant. 599|ὑπὲρ|ὅπερ|Markland|s.xviii med.|Laur. 31.10 (K)|s.l. (ex sch.)
 Soph. Ant. 1238|ἐκβάλλει|ἐμβάλλει|Markland|s.xviii med.|Berol. Phillips 1588|
 Soph. Ant. 1350|μηδὲν|μηδέν’|Markland|s.xviii med.|MSS|
+Soph. El. 1044||ποήσεις|Valckenaer|s.xviii ex.||
 Soph. El. 1127|om.|σ’|Markland|s.xviii med.|gl. in Matrit. gr. 4677 (N)|
 Soph. El. 1139|om.|σ’|Markland|s.xviii med.|p|
+Soph. El. 1226|ἔχεις|ἔχοις|Valckenaer|s.xviii ex.|Laur. 32. 9 (L)|
 Soph. OC 180|προσβίβαζε|προβίβαζε|Valckenaer|1743-6|r|
 Soph. OC 534|σοίτ’ ἄρ’/σαίτ’ ἄρ’|αὔτ’ ἄρ’|Markland|s.xviii med.|z|
 Soph. OC 1012|om.|θ’|Markland|s.xviii med.|suppl. Paris. gr. 2886|
