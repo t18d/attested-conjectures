@@ -32,7 +32,7 @@ with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:
                 top_10_line += ", and "
             else:
                 if tie:
-                    top_10_line += f" (last {limit-8} tied for 10th place)"
+                    top_10_line += f" (last {limit-8} tied)"
                 top_10_line += ".</p>\n"
         # juggle the last few lines around
         preface_lines[-3] = top_10_line
