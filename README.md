@@ -34,7 +34,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Beza (25), Blass (24), Markland (24), Naber (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), Mangey (11), Holwerda (10), and Erasmus (10) (last 2 tied).</p>
+<p>The top 10 critics are Markland (25), Beza (25), Blass (24), Naber (18), Michelsen (15), Owen (14), Bentley (12), Hort (12), Mangey (11), Holwerda (10), and Erasmus (10) (last 2 tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -226,6 +226,7 @@ Soph. Aj. 1098|τὸν|τόνδ’|Markland|s.xviii med.|Laur. 32. 9 (L)|
 Soph. Aj. 1274||ἐντός|Markland|s.xviii med.|a|
 Soph. El. 1127|om.|σ’|Markland|s.xviii med.|gl. in Matr. gr. 4677 (N)|
 Soph. El. 1139|om.|σ’|Markland|s.xviii med.|p|
+Soph. OT 458|αὐτὸς|αὑτὸς|Markland|s.xviii med.|Vindob. suppl. gr. 71 (Xs)|pc
 Soph. Trach. 1136|μνωμένη|μωμ[ενη|Heath|n.d.|P.Oxy. XV 1806|According to Subkoff [this] was the reading of L2 - Grenfell and Hunt.
 Soph. fr. 294|ἐπισχολάζεται|κοὐκ ἔτι σχολάζεται|Meineke|n.d.|P.Oxy. IX 1174|
 Sor. Gyn. 2-3|Ἀθηναίων|Ἀθηνίων|Wellmann|n.d.|P.Soc.Ital. 117|Details from Grenfell.
