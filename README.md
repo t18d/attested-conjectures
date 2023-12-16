@@ -43,7 +43,7 @@ Ref.|Paradosis|Conjecture|Author|Year|Attested Place|Rem.
 ---|---|---|---|---|---|---
 Ach.Tat. Leuc. 2-9|τότε γὰρ τὸν Διόνυσον|τότε τὸν γὰρ Διόνυσον|Jacobs|n.d.|P.Oxy. X 1250|Details from Grenfell.
 Ach.Tat. Leuc. 2-9|προσέθιγεν|προσέθηκεν|Boden|n.d.|P.Oxy. X 1250|Details from Grenfell.
-Aesch. PV 157||||||
+Aesch. PV 157|ἐπεγήθει/ἐπιγήθει|ἐγεγήθει|Valckenaer|s.xviii med.|Ambros. gr. G 56/Matrit. gr. 4677|
 Aeschin. In Ctes. 20|καὶ τὴν ἐκεῖ σκυθρωπὸν|καὶ τῶν ἐκεῖ σκυθρωπῶν|Lambinus|n.d.|P.Oxy. XIII 1625|Editor's details from Grenfell.
 Aeschin. In Ctes. 20|ἄγειν|ἄγει|Wolf|n.d.|P.Oxy. XIII 1625|Editor's details from Grenfell. 
 Aeschin. In Ctes. 20|γέρα|ἱερὰ|Hamaker|n.d.|P.Oxy. XIII 1625|Editor's details from Grenfell.
@@ -232,7 +232,7 @@ Soph. Ant. 406|εὐρέθη|ᾑρέθη|Markland|s.xviii med.|Laur. 32. 9 (L)|f
 Soph. Ant. 599|ὑπὲρ|ὅπερ|Markland|s.xviii med.|Laur. 31.10 (K)|s.l. (ex sch.)
 Soph. Ant. 1238|ἐκβάλλει|ἐμβάλλει|Markland|s.xviii med.|Berol. Phillips 1588|
 Soph. Ant. 1350|μηδὲν|μηδέν’|Markland|s.xviii med.|MSS|
-Soph. El. 1127|om.|σ’|Markland|s.xviii med.|gl. in Matr. gr. 4677 (N)|
+Soph. El. 1127|om.|σ’|Markland|s.xviii med.|gl. in Matrit. gr. 4677 (N)|
 Soph. El. 1139|om.|σ’|Markland|s.xviii med.|p|
 Soph. OC 534|σοίτ’ ἄρ’/σαίτ’ ἄρ’|αὔτ’ ἄρ’|Markland|s.xviii med.|z|
 Soph. OC 1012|om.|θ’|Markland|s.xviii med.|suppl. Paris. gr. 2886|
