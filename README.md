@@ -222,7 +222,8 @@ Poet. Lyr. i. p.4|τὴν ογ΄ Ὀλυμπιάδα|τὴν ος΄ Ὀλυμπ�
 Simon. fr. 25|χεέτω|χείτω|M. L. West|1989|P.Oxy. LXXXI 5261|χέιτω is accented on papyrus.
 Simon. fr. 88|λεύχης|λέσχης|H. Stephanus|n.d.|P.Oxy. XI 1362|
 Soph. Aj. 756||ἐθ’|Markland|s.xviii med.|MS|
-Soph. Aj. 842||ἐκγόνων τ’|Markland|s.xviii med.|MSS|Musgrave (pre-1780/1800)
+Soph. Aj. 842||ἐκγόνων τ’|Markland|s.xviii med.|MSS|
+Soph. Aj. 842||ἐκγόνων τ’|Samuel Musgrave|pre-1780|MSS|
 Soph. Aj. 1098|τὸν|τόνδ’|Markland|s.xviii med.|Laur. 32. 9 (L)|
 Soph. Aj. 1274||ἐντός|Markland|s.xviii med.|a|
 Soph. Ant. 384|om.|ἡ|Markland|s.xviii med.|Vat. Pal. gr. 287 (Zo)|
@@ -237,11 +238,13 @@ Soph. OC 1012|om.|θ’|Markland|s.xviii med.|suppl. Paris. gr. 2886|
 Soph. OC 1345|σθένω|θέλω|Markland|s.xviii med.|r|
 Soph. OT 458|αὐτὸς|αὑτὸς|Markland|s.xviii med.|Vindob. suppl. gr. 71 (Xs)|pc
 Soph. Phil. 256|που|πω|Markland|s.xviii med.|Marc. gr. 468 (V)|
-Soph. Phil. 614|ἤκουσεν|ἤκουσ’|Markland|s.xviii med.|z|Valckenaer (pre-1775)
+Soph. Phil. 614|ἤκουσεν|ἤκουσ’|Markland|s.xviii med.|z|
+Soph. Phil. 614|ἤκουσεν|ἤκουσ’|Valckenaer|pre-1775|z|
 Soph. Phil. 1238|ταῦτα|ταὐτὰ|Markland|s.xviii med.|LGRS|
 Soph. Trach. 326|δακρυρρόει|δακρυρροεῖ|Markland|s.xviii med.|Laur. 31.10 (K)|
 Soph. Trach. 328|αὐτῇ|αὐτή|Markland|s.xviii med.|Laur. 31.10 (K)/Laur. 32.2 (Zg)|
-Soph. Trach. 747|καὶ|κοὐ|Markland|s.xviii med.|Laur. 32.2 (Zg)|Valckenaer (pre-1775)
+Soph. Trach. 747|καὶ|κοὐ|Markland|s.xviii med.|Laur. 32.2 (Zg)|
+Soph. Trach. 747|καὶ|κοὐ|Valckenaer|pre-1775|Laur. 32.2 (Zg)|
 Soph. Trach. 977|γέρων|γέρον|Markland|s.xviii med.|a|
 Soph. Trach. 1136|μνωμένη|μωμένη|Benjamin Heath|s.xviii in.|P.Oxy. XV 1805/Laur. 31.10 (K)|μωμ[
 Soph. fr. 294|ἐπισχολάζεται|κοὐκ ἔτι σχολάζεται|Meineke|n.d.|P.Oxy. IX 1174|
