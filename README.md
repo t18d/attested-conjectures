@@ -47,9 +47,9 @@ Aeschin. In Ctes. 20|γέρα|ἱερὰ|Hamaker|n.d.|P.Oxy. XIII 1625|Editor's 
 Aeschin. In Ctes. 53|μὲν ἀληθῆ|ἀληθῆ μὲν|Cobet|n.d.|P.Oxy. XXIV 2404|
 Aeschin. In Ctes. 94|ὁρώντων|ζώντων|Kaibel|n.d.|P.Oxy. IV 703|Editor's details from Grenfell.
 Aeschin. In Ctes. 167|προσκαθίζεις/προσκαθεστήσῃ|προσκαθιζήσει|Lobeck|n.d.|P.Oxy. III 457|Pap. reads προσκαθ[ιζ]ήσ[ει; editor's details from Grenfell.
-Aeschin. In Tim.|τοὺς νόμους μὲν|τὸυς μὲν νόμους|Cobet|n.d.|2nd cent. Geneva pap.: Nicole *Textes grecs inéd.* 1 & P. Halle 6|Editor's details from Grenfell.
-Aeschin. In Tim.|ἐπὶ πᾶσι τοῖς δικαίοις|τοῖς om.|Hillebrand|n.d.|2nd cent. Geneva pap.: Nicole *Textes grecs inéd.* 1 & P. Halle 6|Editor's details from Grenfell.
-Aeschin. In Tim.|κατηγορούντων|κατηγόρων|Blass|n.d.|P.Halle 6|Editor's details from Grenfell.
+Aeschin. In Tim.|τοὺς νόμους μὲν|τὸυς μὲν νόμους|Cobet|n.d.|P.Gen. I 256|Editor's details from Grenfell.
+Aeschin. In Tim.|ἐπὶ πᾶσι τοῖς δικαίοις|τοῖς om.|Hillebrand|n.d.|P.Gen. I 256|Editor's details from Grenfell.
+Aeschin. In Tim.|κατηγορούντων|κατηγόρων|Blass|n.d.|P.Gen. I 256|Editor's details from Grenfell.
 Aeschin. In Tim. 173|ἐξαιτήσεται|ἐξαιρήσεται|Blass|n.d.|P.Gen. I 256|Editor's details from Grenfell.
 Aeschin. In Tim. 176|διισχυρίζεσθαι|ἰσχθυρίζεσθαι|Wolf|n.d.|P.Gen. I 256|Editor's details from Grenfell.
 Alc. 19|τῷ προτέρῳ νεομω|τῳ π.'νέμῳ|Blass|n.d.|P.Oxy. XV 1789|Only conjecture listed that is consistent with the pap. - not necessarily right.
