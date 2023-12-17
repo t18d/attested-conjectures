@@ -246,6 +246,7 @@ Plb. 11. 16.6 and 7|ἐμπορεῖα|ἐν πορείᾳ|Schweighäuser|n.d.|A
 Plb. 28. 2.4|om.|cυνεχωρηcεν|Friedrich Otto Hultsch|1889|P.Oxy. LXXXI 5267|Papyrus reads c]υνεχωρηc[ε; Hultsch supplies verb (omitted in MSS).
 Plu. Caes. 45.8|ταιc|αις|Moses Solanus|1729|P.Oxy. LXXXI 5270|
 Poet. Lyr. i. p.4|τὴν ογ΄ Ὀλυμπιάδα|τὴν ος΄ Ὀλυμπιάδα|Bergk|n.d.|P.Oxy. II 222|
+Sapph. fr. 44A.5|ἀεί|ἄϊ|Heinrich Ludolf Ahrens|s.xix med.|P.Sapph.Obbink|
 Simon. fr. 25|χεέτω|χείτω|M. L. West|1989|P.Oxy. LXXXI 5261|χέιτω is accented on papyrus.
 Simon. fr. 88|λεύχης|λέσχης|H. Stephanus|n.d.|P.Oxy. XI 1362|
 Soph. Aj. 378|ἔχειν|ἔχῃ|Valckenaer|pre-1775|Paris. gr. 2735 (C)|
