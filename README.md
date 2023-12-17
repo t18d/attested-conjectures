@@ -35,7 +35,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (48), Markland (40), Beza (25), Blass (24), Naber (18), Johannes Pierson (15), Michelsen (15), Owen (14), Bentley (13), and Hort (12).</p>
+<p>The top 10 critics are Valckenaer (47), Markland (40), Beza (25), Blass (24), Naber (18), Johannes Pierson (15), Michelsen (15), Bentley (14), Owen (14), and Hort (12).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -65,7 +65,7 @@ Ap. Rhod. 3.745|ναῦται εἰς Ἑλίκην|ναυτίλοι εἰς Ἑ
 Ap. Rhod. 3.909|κατὰ|μετὰ|Stephanus|n.d.|P.Oxy. IV 691|Editor's details from Grenfell's article.
 Ar. Ach. 297|σύ μοι|μοι σὺ|Hermann|s.xviii/xix|P.Oxy. LXVI 4510|
 Ar. Ach. 323|γ' ἆρα|τἄρα|Elmsley|s.xviii/xix|P.Oxy. LXVI 4510|
-Ar. Ach. 325|σαφῶς|σοφῶς|Valckenaer|1757|Rav. 429 (R)|
+Ar. Ach. 325|δήξομαι γὰρ (vel γ' ἄρ') ὑμᾶς|δήξομἄρ' ὑμᾶς|Bentley|s.xviii in.|P.Oxy. LXVI 4510|
 Ar. Ach. 401|σαφῶς|σοφῶς|Valckenaer|1757|Rav. 429 (R)|
 Ar. Ach. 541|σαφῶς|σοφῶς|Valckenaer|1757|Rav. 429 (R)|
 Ar. Ach. 912|δαὶ|δὲ|Bentley|n.d.|BKT V/II 231|
