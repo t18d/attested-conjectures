@@ -164,6 +164,8 @@ Eur. fr. 912|χοήν|χλόην|Bergk|n.d.|P.Oxy. IX 1176|
 Hdt. 1.105|ὁ θέος|η θε[ος|Hude|n.d.|P.Oxy. X 1244|
 Hdt. 1.106|ὑποθέμενος|ῡπερθεμενος|Schaefer|n.d.|P.Oxy. X 1244|
 Hdt. 1.116|ἐσήει|ἐσήιε|Bekker|1833|P.Münch. II 40 = Pap.graec.mon. 89|
+Hdt. 1.196.1|ὧδε|οἵδε|Eltz|n.d.|P.Ross.Georg. I 15|
+Hdt. 1.196.3|οἱ ἐξέλθοι|διεξέλθοι|Stephan Bergler|1715|P.Ross.Georg. I 15|
 Hdt. 2.175|οἱ|οἷα|Friedrich Ludwig Abresch|s.xviii med.|P.Oxy. VIII 1092|
 Herm. Sim. 2.17|⟨καὶ⟩ εὐχαριστεῖ|εὐχαριστῶν|Tischendorf|n.d.|P.Oxy. IX 1172|
 Herm. Sim. 2.28|συνιει|συνηκεν|Tischendorf|n.d.|P.Oxy. IX 1172|
