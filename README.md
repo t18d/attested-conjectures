@@ -289,6 +289,7 @@ Soph. OC 1345|σθένω|θέλω|Markland|s.xviii med.|r|
 Soph. OC 1515|στρέψαντα|στράψαντα|Reiske|1743|Laur. 31.10 (K)|
 Soph. OT 188|ὧν|τῶν|B. H. Kennedy|1885|PSI 1192|τω]ν
 Soph. OT 430|οὐ|αὖ|G. Wolff|n.d.|P.Oxy. I 22|in linea
+Soph. OT 433|ᾔδει(ν)|ᾔδη|Dawes|pre-1775|P.Oxy. XVIII 2180|in margine
 Soph. OT 458|αὐτὸς|αὑτὸς|Markland|s.xviii med.|Vindob. suppl. gr. 71 (Xs)|pc
 Soph. OT 523|om.|δ'|Moriz Schmidt|1871-80|P.Oxy. XVIII 2180|in linea (Barrett/OCT)
 Soph. OT 778|habent|del.|Valckenaer|pre-1775|P.Oxy. XI 1369|
