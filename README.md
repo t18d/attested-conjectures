@@ -35,7 +35,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (46), Markland (40), Beza (25), Blass (24), Naber (18), Johannes Pierson (15), Michelsen (15), Owen (14), Bentley (12), and Hort (12).</p>
+<p>The top 10 critics are Valckenaer (46), Markland (40), Beza (25), Blass (24), Naber (18), Johannes Pierson (15), Michelsen (15), Owen (14), Bentley (13), and Hort (12).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -179,7 +179,7 @@ Hom. Il. 6.493|πᾶσιν ἐμοὶ δ[ε μάλιστα τοὶ Ἰλίῳ|π
 Hom. Il. 12.449|εἰσ'· ὃ δέ μιν ῥέα|ει[σιν ο δε]ρρεα|Nauck|1877|P.Lit.Lond. 251 + P.Harr. I 36|
 Hom. Il. 13.742|ἤ κεν ἐνὶ|ηε κεν εν|Ahrens|1843|P.Amh. inv. G 202|Rh. Mus. 2 (1843) 170
 Hom. Il. 17.89|ἀσβέστωι|ἀσβέτωι|Ludwich|1916|P.Berol. inv. 16007|Rh. Mus. 71 (1916) 211
-Hom. Il. 23.198|ὠκέα δ'Ἶρις|ὦκα δὲ Ἶρις|Fick|n.d.|P.Grenf. ii 4|Editor's details from Grenfell's article.
+Hom. Il. 23.198|ὠκέα δ'|ὦκα δὲ|Bentley|n.d.|P.Grenf. ii 4|
 Hom. Il. 23.535|δ᾽ ἐν ᾿Αργείοις|δ]᾽εν Αχαιοισιν|Nauck|1877|BKT V/I 5|
 Hom. Il. 24.192|κεχάνδει|κεχ]όνδει|Fick|1886|P.Lit.Lond. 27|
 Hom. Od. 5.8|καὶ|μηδ’|Nauck|1874|P.Tebt. III/I 697|
