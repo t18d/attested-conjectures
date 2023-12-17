@@ -71,28 +71,28 @@ Ar. Ach. 970|κιχλᾶν|κιχλῶν|Valckenaer|1757|Rav. 429 (R)|
 Ar. Av. 75|γὰρ/γὰρ ἅτ’|γ’ ἅτ’|Valckenaer|1757|Rav. 429 (R)|
 Ar. Av. 1069|om.|πάνθ'|Ludolph Dissen|n.d.|P.Louvre ed. Weil = Austin 42|
 Ar. Av. 1080|πᾶσι|om.|Triclinius|s.xiv in.|P.Louvre ed. Weil = Austin 42|
-Ar. Av. 1314|καλεῖ|καλοῖ|Valckenaer|1757|Γ s.l./Bp|
+Ar. Av. 1314|καλεῖ|καλοῖ|Valckenaer|1757|Γ s.l. et Bp|
 Ar. Av. 1693|διδότω|δότω|Valckenaer|1757|ΓUL|
 Ar. Eccl. 51|Φιλοδωρίτου|Φιλοδωρήτου|Valckenaer|1757|Paris. gr. 2712 (A)|
-Ar. Eccl. 707|λαβούσας|λαβόντας|Valckenaer|1757|Rav. 429 (R)/Perus. H 56 (Λ)|tacite
+Ar. Eccl. 707|λαβούσας|λαβόντας|Valckenaer|1757|Rav. 429 (R) et Perus. H 56 (Λ)|tacite
 Ar. Eccl. 1124|ἔχει/ἔχοι|ἔχῃ|Valckenaer|1757|Perus. H 56 (Λ)|tacite
-Ar. Eq. 143|ἐξολῶν|ἐξελῶν|Valckenaer|1757|Rav. 429 (R)/sch.|V. cites the scholia
+Ar. Eq. 143|ἐξολῶν|ἐξελῶν|Valckenaer|1757|Rav. 429 (R) et sch.|V. cites the scholia
 Ar. Eq. 881|τηλικουτονί|τηλικοῦτον|Valckenaer|1757|Laur. 31.13 (X)|
 Ar. Eq. 1017|ἐκέλευσ'|ἐκελευ'|Blaydes|n.d.|P.Oxy. XI 1373|Editor's details from Grenfell's article.
 Ar. Eq. 1058|φράσαι/φράζευ|φρασ]σαι|Brunck|n.d.|P.Oxy. XI 1373|
 Ar. Lys. 427|ἀλλ’|ἄλλ’|Valckenaer|1757|MS teste Brunck 1781|
 Ar. Nub. 507|μελιττοῦταν|μελιτοῦτταν|Valckenaer|s.xviii ex.|Laur. Conv. Soppr. 140|
 Ar. Pax 1013|ἀποχειρωθείς|ἀποχηρωθείς|Valckenaer|1757|Marc. gr. 474 (V)|
-Ar. Plut. 1018|παγκάλας|παγκάλους|Valckenaer|1757|MpcL|
+Ar. Plut. 1018|παγκάλας|παγκάλους|Valckenaer|1757|Mpc et L|
 Ar. Plut. 1037|τυγχάνει|τυγχάνοι|Valckenaer|1757|Marc. gr. 474 (V)|
 Ar. Plut. 1116|ἐπιθύει|ἔτι θύει|Valckenaer|1757|Marc. gr. 474 (V)|
 Ar. Ran. 269|τῷ κωπίῳ|τὼ κωπίω|Valckenaer|1757|Matrit. 4683|
 Ar. Ran. 673|ποιῆσαι|νοῆσαι|Valckenaer|1757|Marc. gr. 474 (V)|
-Ar. Ran. 690|ἐγγενέσθαι|ἐκγένεσθαι|Valckenaer|1757|Md1UVs1|ἐκγενέσθαι MSS
+Ar. Ran. 690|ἐγγενέσθαι|ἐκγένεσθαι|Valckenaer|1757|Md1 et U et Vs1|ἐκγενέσθαι MSS
 Ar. Ran. 743|οἴμωζε|ᾤμωζε|Valckenaer|1757|Neap. II F 22 (Np1)|
 Ar. Vesp. 576|γράψομαι|γράφομαι|Brunck|n.d.|P.Oxy. XI 1374|
 Ar. Vesp. 790|ἐπέθηκε|ἐνέθηκε|Bergk|n.d.|P.Oxy. XI 1374|
-Ar. Vesp. 1132/5|ἀναλαβοῦ|ἀναβαλοῦ|Valckenaer|1757|B/Rpc|
+Ar. Vesp. 1132/5|ἀναλαβοῦ|ἀναβαλοῦ|Valckenaer|1757|B et Rpc|
 Ar. fr. 755|καὶ τῶν βελέκκων|βελέκκων|Kock|n.d.|P.Oxy. XV 1801|
 Arat. Phaen. 736|ἰοῦσα|ἄγουσα|Buttman|n.d.|*Berl. klass. Texte* v.1 p.47|Editor's details from Grenfell's article.
 Arat. Phaen. 750|ἐμπλήσει|ἐμπλήσσει|Voss|n.d.|*Berl. klass. Texte* v.1 p.47|Editor's details from Grenfell's article.
@@ -147,8 +147,8 @@ Eur. Hec. 931|Ἰλιάδα|Ἰλιάδος|Valckenaer|1749|K1c et PrRfRw|
 Eur. IT. 252|καὶ τυχόντες|κἀντυχόντες|Reiske|n.d.|P.Hibeh 24|Editor's details from Grenfell's article.
 Eur. IT. 1618|τήνδε|τῆσδε|Bothe|n.d.|P.Hibeh 24|Editor's details from Grenfell's article.
 Eur. Med. 1180|δρομήμασιν|δραμήμασιν|Cobet|n.d.|P.Oxy.XX.2337|
-Eur. Or. 239|δ' εἰς|φέροις|Valckenaer|1749|Laur. 32.2 (L)/Cantab. Nn. 3.14 (Z)|
-Eur. Or. 294|ἀνακαλύπτ', ὦ|ἀνακαλύπτου|Valckenaer|1749|B2Tt1/2|
+Eur. Or. 239|δ' εἰς|φέροις|Valckenaer|1749|Laur. 32.2 (L) et Cantab. Nn. 3.14 (Z)|
+Eur. Or. 294|ἀνακαλύπτ', ὦ|ἀνακαλύπτου|Valckenaer|1749|B2 et Tt1/2|
 Eur. Or. 329|απόφατιν|ἄπο φάτιν|Valckenaer|1749|RS et Prc|
 Eur. Or. 1340|ἀλλ'|ἄγ'|Weil|n.d.|P.Oxy. XI 1370|
 Eur. Ph. 1040|ἰαζὰ|ἀχὰ|Samuel Musgrave|1778|P.Oxy. II 224|ἀχᾷ Π2
@@ -261,26 +261,26 @@ Soph. Aj. 1237|ἔχειν|ποῖ|Valckenaer|pre-1775|cod. rec.|
 Soph. Aj. 1243|ἤρεσκεν|ἤρκεσε|Johannes Pierson|s.xviii med.|MS|
 Soph. Aj. 1274||ἐντός|Markland|s.xviii med.|a|
 Soph. Ant. 76|σοί|σύ|Valckenaer|1746|Vat. gr. 57 s.l.|
-Soph. Ant. 342|κουφονέων|κουφονόων|Johannes Pierson|s.xviii med.|ΛacS|
+Soph. Ant. 342|κουφονέων|κουφονόων|Johannes Pierson|s.xviii med.|Λac et S|
 Soph. Ant. 384|om.|ἡ|Markland|s.xviii med.|Vat. Pal. gr. 287 (Zo)|
 Soph. Ant. 406|εὐρέθη|ᾑρέθη|Markland|s.xviii med.|Laur. 32. 9 (L)|fort. pc legit sch. ut videtur
 Soph. Ant. 592|βρέμουσι δ'|βρέμουσιν|Johannes Pierson|s.xviii med.|Vat. Pal. gr. 287 (Zo)|
 Soph. Ant. 599|ὑπὲρ|ὅπερ|Markland|s.xviii med.|Laur. 31.10 (K)|s.l. (ex sch.)
 Soph. Ant. 695|ἀπ’|ἐπ’|Johannes Pierson|s.xviii med.|Paris. gr. 2712 (A)|
-Soph. Ant. 836|-ῃ/-ῳ/αν|φθιμένᾳ|Johannes Pierson|s.xviii med.|Laur. 32. 9 (L)/a|
+Soph. Ant. 836|-ῃ/-ῳ/αν|φθιμένᾳ|Johannes Pierson|s.xviii med.|Laur. 32. 9 (L) et a|
 Soph. Ant. 938|πατρογενεῖς|προγενεῖς|Valckenaer|pre-1775|Laur. 32. 9 (L)|
 Soph. Ant. 1238|ἐκβάλλει|ἐμβάλλει|Markland|s.xviii med.|Berol. Phillips 1588|
 Soph. Ant. 1350|μηδὲν|μηδέν’|Markland|s.xviii med.|MSS|
 Soph. El. 952||γ’|Johannes Pierson|s.xviii med.|Paris. gr. 2820|
-Soph. El. 1029|μάθῃς|πάθῃς|Johannes Pierson|s.xviii med.|Pal. gr. 40 (P)/a|
+Soph. El. 1029|μάθῃς|πάθῃς|Johannes Pierson|s.xviii med.|Pal. gr. 40 (P) et a|
 Soph. El. 1044||ποήσεις|Valckenaer|pre-1775|MSS|
 Soph. El. 1127|om.|σ’|Markland|s.xviii med.|gl. in Matrit. gr. 4677 (N)|
 Soph. El. 1139|om.|σ’|Markland|s.xviii med.|p|
 Soph. El. 1226|ἔχεις|ἔχοις|Valckenaer|pre-1775|Laur. 32. 9 (L)|
 Soph. OC 180|προσβίβαζε|προβίβαζε|Valckenaer|1743-6|r|
-Soph. OC 213|γεγωνῶ|γεγώνω|Reiske|1743|Laur. 32. 9 (L)/Vat. gr. 2291 (R)|
+Soph. OC 213|γεγωνῶ|γεγώνω|Reiske|1743|Laur. 32. 9 (L) et Vat. gr. 2291 (R)|
 Soph. OC 534|σοίτ’ ἄρ’/σαίτ’ ἄρ’|αὔτ’ ἄρ’|Markland|s.xviii med.|z|
-Soph. OC 566|σ’|del.|Johannes Pierson|s.xviii med.|Laur. 31.10 (K)/a|
+Soph. OC 566|σ’|del.|Johannes Pierson|s.xviii med.|Laur. 31.10 (K) et a|
 Soph. OC 1012|om.|θ’|Markland|s.xviii med.|suppl. Paris. gr. 2886|
 Soph. OC 1340|-σῃς/-σεις|ξυμπαραστήσῃ|Reiske|1743|a|
 Soph. OC 1345|σθένω|θέλω|Markland|s.xviii med.|r|
@@ -288,21 +288,21 @@ Soph. OC 1515|στρέψαντα|στράψαντα|Reiske|1743|Laur. 31.10 (K)|
 Soph. OT 458|αὐτὸς|αὑτὸς|Markland|s.xviii med.|Vindob. suppl. gr. 71 (Xs)|pc
 Soph. OT 778|habent|del.|Valckenaer|pre-1775|P.Oxy. XI 1369|
 Soph. OT 1245|κάλει|καλεῖ|Johannes Pierson|s.xviii med.|Ambros. G 56 sup.|
-Soph. OT 1453|ζῶντε|ζῶντι|Johannes Pierson|s.xviii med.|Pal. gr. 40 (P)/a|
-Soph. OT 1474|ἐγγόνοιν|ἐκγόνοιν|Valckenaer|1743-6|Paris. gr. 2787 (Zn)/Marc. gr. 472 (Jebb)|
+Soph. OT 1453|ζῶντε|ζῶντι|Johannes Pierson|s.xviii med.|Pal. gr. 40 (P) et a|
+Soph. OT 1474|ἐγγόνοιν|ἐκγόνοιν|Valckenaer|1743-6|Paris. gr. 2787 (Zn) et Marc. gr. 472 (Jebb)|
 Soph. Phil. 256|που|πω|Markland|s.xviii med.|Marc. gr. 468 (V)|
 Soph. Phil. 614|ἤκουσεν|ἤκουσ’|Markland|s.xviii med.|z|
 Soph. Phil. 614|ἤκουσεν|ἤκουσ’|Valckenaer|pre-1775|z|
-Soph. Phil. 896|λόγῳ|λόγων|Valckenaer|pre-1775|Lond. Bibl.Brit.Harl. 5743|Miscell. Obs. Nov. T 3 p. 23
-Soph. Phil. 1028|ἐξέβαλον/ἔκβαλον/ἐκβάλλον|ἔβαλον|Johannes Pierson|s.xviii med.|LaZo|
+Soph. Phil. 896|λόγῳ|λόγων|Valckenaer|pre-1775|Lond. Bibl.Brit.Harl. 5743|Miscell. Obs. Nov. T 3 p. 23 (?)
+Soph. Phil. 1028|ἐξέβαλον/ἔκβαλον/ἐκβάλλον|ἔβαλον|Johannes Pierson|s.xviii med.|L et a et Zo|
 Soph. Phil. 1238|ταῦτα|ταὐτὰ|Markland|s.xviii med.|LGRS|
 Soph. Trach. 326|δακρυρρόει|δακρυρροεῖ|Markland|s.xviii med.|Laur. 31.10 (K)|
-Soph. Trach. 328|αὐτῇ|αὐτή|Markland|s.xviii med.|Laur. 31.10 (K)/Laur. 32.2 (Zg)|
+Soph. Trach. 328|αὐτῇ|αὐτή|Markland|s.xviii med.|Laur. 31.10 (K) et Laur. 32.2 (Zg)|
 Soph. Trach. 747|καὶ|κοὐ|Markland|s.xviii med.|Laur. 32.2 (Zg)|
 Soph. Trach. 747|καὶ|κοὐ|Valckenaer|pre-1775|Laur. 32.2 (Zg)|
 Soph. Trach. 825|ἀναδοχάν|ἀνακωχάν|Valckenaer|1743-6|Laur. 32.2 (Zg)|ἀνοκωχάν Zg
 Soph. Trach. 977|γέρων|γέρον|Markland|s.xviii med.|a|
-Soph. Trach. 1136|μνωμένη|μωμένη|Benjamin Heath|s.xviii in.|P.Oxy. XV 1805/Laur. 31.10 (K)|μωμ[
+Soph. Trach. 1136|μνωμένη|μωμένη|Benjamin Heath|s.xviii in.|P.Oxy. XV 1805 et Laur. 31.10 (K)|μωμ[
 Soph. fr. 294|ἐπισχολάζεται|κοὐκ ἔτι σχολάζεται|Meineke|n.d.|P.Oxy. IX 1174|
 Sor. Gyn. 2-3|Ἀθηναίων|Ἀθηνίων|Wellmann|n.d.|P.Soc.Ital. 117|Details from Grenfell.
 Sor. Gyn. 2-3|ἐν τῷ α καὶ γ τῆς αἱρέσεως|ἐν τῷ α καὶ γ τῶν περὶ τῆς αἱρέσεως|Rose|n.d.|P.Soc.Ital. 117|Details from Grenfell.
@@ -311,7 +311,7 @@ Strabo 9 fr. 14.i.20|οὔτε|οὐδέ|Meineke|n.d.|P.Oxy. XLIX 3447|Pap. read
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
 Theoc. Id. 15.98|σπέρχιν/πέρχην|πέρυσιν|Reiske|n.d.|P.Oxy. XIII 1618|Paradosis corrupt; papyrus reads πέρυ]σιν; editor's details from Grenfell's article.
 Theoc. Id. 22.40|πεφύκασιν|πεφυκεσαν|Stephanus|n.d.|P.Oxy. XV 1806|
-Thuc. 4.37|ὅτι|om.|Henrik van Herwerden|s.xix ex.|P.Oxy. I 16 + IV 696|
+Thuc. 4.37|ὅτι|om.|Henrik van Herwerden|s.xix ex.|P.Oxy. I 16 et IV 696|
 Thuc. 5.97|καὶ τοῦ|τοῦ καὶ|Krüger|n.d.|P.Oxy. VI 880|
 Thuc. 7|στρατιὰς|στρατείας|Aemilius Portus|n.d.|P.Oxy. XI 1376|Details from Grenfell.
 Thuc. 7|δὴ|ἤδη|Gertz|n.d.|P.Oxy. XI 1376|Details from Grenfell.
