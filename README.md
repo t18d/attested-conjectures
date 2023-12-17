@@ -35,7 +35,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (47), Markland (40), Beza (25), Blass (24), Naber (18), Johannes Pierson (15), Michelsen (15), Bentley (14), Owen (14), and Hort (12).</p>
+<p>The top 10 critics are Valckenaer (46), Markland (40), Beza (25), Blass (24), Naber (18), Johannes Pierson (15), Michelsen (15), Bentley (14), Owen (14), and Hort (12).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -67,7 +67,6 @@ Ar. Ach. 297|σύ μοι|μοι σὺ|Hermann|s.xviii/xix|P.Oxy. LXVI 4510|
 Ar. Ach. 323|γ' ἆρα|τἄρα|Elmsley|s.xviii/xix|P.Oxy. LXVI 4510|
 Ar. Ach. 325|δήξομαι γὰρ (vel γ' ἄρ') ὑμᾶς|δήξομἄρ' ὑμᾶς|Bentley|s.xviii in.|P.Oxy. LXVI 4510|
 Ar. Ach. 401|σαφῶς|σοφῶς|Valckenaer|1757|Rav. 429 (R)|
-Ar. Ach. 541|σαφῶς|σοφῶς|Valckenaer|1757|Rav. 429 (R)|
 Ar. Ach. 912|δαὶ|δὲ|Bentley|n.d.|BKT V/II 231|
 Ar. Ach. 917|θρυαλλίδας|θρυαλλίδα|Elmsley|n.d.|BKT V/II 231|
 Ar. Ach. 928|φορούμενος|φερόμενος|Brunck|n.d.|BKT V/II 231|
@@ -76,6 +75,7 @@ Ar. Av. 75|γὰρ/γὰρ ἅτ’|γ’ ἅτ’|Valckenaer|1757|Rav. 429 (R)|
 Ar. Av. 1069|om.|πάνθ'|Ludolph Dissen|n.d.|P.Louvre ed. Weil = Austin 42|
 Ar. Av. 1080|πᾶσι|om.|Triclinius|s.xiv in.|P.Louvre ed. Weil = Austin 42|
 Ar. Av. 1314|καλεῖ|καλοῖ|Valckenaer|1757|Γ s.l. et Bp|
+Ar. Av. 1672|καταστήσω|καταστήσας|R. B. Hirschig|1849|P.Oxy. LXVI 4516|
 Ar. Av. 1693|διδότω|δότω|Valckenaer|1757|ΓUL|
 Ar. Eccl. 51|Φιλοδωρίτου|Φιλοδωρήτου|Valckenaer|1757|Paris. gr. 2712 (A)|
 Ar. Eccl. 707|λαβούσας|λαβόντας|Valckenaer|1757|Rav. 429 (R) et Perus. H 56 (Λ)|tacite
