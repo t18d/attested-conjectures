@@ -35,7 +35,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (46), Markland (40), Beza (25), Blass (24), Naber (18), Michelsen (15), Johannes Pierson (14), Owen (14), Bentley (12), and Hort (12).</p>
+<p>The top 10 critics are Valckenaer (46), Markland (40), Beza (25), Blass (24), Naber (18), Johannes Pierson (15), Michelsen (15), Owen (14), Bentley (12), and Hort (12).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -142,6 +142,7 @@ Din. 1.109|ἐλεήcετε|ελεηcαιτε|Dobree|n.d.|P.Oxy. XLIX 3436|
 Din. 3.20|καταλλάξαcθαι|ἀντικαταλλάξαcθαι|Hirschig|n.d.|P.Oxy. XLIX 3437|
 Din. Phil. 20|τῶν τοῦ δήμου|τῶν τοῦ δήμου ψηφιcμάτων|Maetzner|n.d.|P.Oxy. XLIX 3437|
 Epict. Diatr. 4.1.136|om.|εἰ|Hieronymus Wolf|1560|P.Cair.Mich. II 11|vel πότερον Wolf
+Eur. Hec. 580|λέγον|λέγων|Johannes Pierson|pre-1752|MB et V2 et iΣm|
 Eur. Hec. 931|Ἰλιάδα|Ἰλιάδος|Valckenaer|1749|K1c et PrRfRw|
 Eur. IT. 252|καὶ τυχόντες|κἀντυχόντες|Reiske|n.d.|P.Hibeh 24|Editor's details from Grenfell's article.
 Eur. IT. 1618|τήνδε|τῆσδε|Bothe|n.d.|P.Hibeh 24|Editor's details from Grenfell's article.
