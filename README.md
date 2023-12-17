@@ -272,6 +272,7 @@ Soph. Ant. 938|πατρογενεῖς|προγενεῖς|Valckenaer|pre-1775|L
 Soph. Ant. 1238|ἐκβάλλει|ἐμβάλλει|Markland|s.xviii med.|Berol. Phillips 1588|
 Soph. Ant. 1350|μηδὲν|μηδέν’|Markland|s.xviii med.|MSS|
 Soph. El. 952||γ’|Johannes Pierson|s.xviii med.|Paris. gr. 2820|
+Soph. El. 998|ἔλαττον|ἔλαϲϲον|Brunck|1786-9|P.Oxy 693|
 Soph. El. 1029|μάθῃς|πάθῃς|Johannes Pierson|s.xviii med.|Pal. gr. 40 (P) et a|
 Soph. El. 1044||ποήσεις|Valckenaer|pre-1775|MSS|
 Soph. El. 1127|om.|σ’|Markland|s.xviii med.|gl. in Matrit. gr. 4677 (N)|
