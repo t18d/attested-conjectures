@@ -181,6 +181,7 @@ Hom. Il. 13.742|ἤ κεν ἐνὶ|ηε κεν εν|Ahrens|1843|P.Amh. inv. G 2
 Hom. Il. 17.89|ἀσβέστωι|ἀσβέτωι|Ludwich|1916|P.Berol. inv. 16007|Rh. Mus. 71 (1916) 211
 Hom. Il. 23.198|ὠκέα δ'Ἶρις|ὦκα δὲ Ἶρις|Fick|n.d.|P.Grenf. ii 4|Editor's details from Grenfell's article.
 Hom. Il. 23.535|δ᾽ ἐν ᾿Αργείοις|δ]᾽εν Αχαιοισιν|Nauck|1877|BKT V/I 5|
+Hom. Il. 24.192|κεχάνδει|κεχ]όνδει|Fick|1886|P.Lit.Lond. 27|
 Hom. Od. 5.8|καὶ|μηδ’|Nauck|1874|P.Tebt. III/I 697|
 Hom. Od. 10.10|αὐλῆ(ι)|αὐδῆι|Nitzsch|1826–1840|P.Oxy. XLIX 3441|αυδη[]
 Hom. Od. 10.19|δῶκε δέ μοι ἐκδ-|δῶκέ μοι ἐκδείρας|Voss|pre-1782|P. Oxy. XLIX 3441|
