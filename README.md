@@ -266,7 +266,7 @@ Plu. Caes. 45.8|ταιc|αις|Moses Solanus|1729|P.Oxy. LXXXI 5270|
 Poet. Lyr. i. p.4|τὴν ογ΄ Ὀλυμπιάδα|τὴν ος΄ Ὀλυμπιάδα|Bergk|n.d.|P.Oxy. II 222|
 Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Bergk|1835|FP|κωϋ κεθέλουσα F: κ’ ώυ κ’ ἐθέλοις P
 Sapph. fr. 44A.5|ἀεί|ἄϊ|Ahrens|1839-43|P.Sapph.Obbink|
-Sen. Med. 677|effudit|effundit|Nicolaus Heinsius|s.xviii med.|P.Mich. inv. 4969 fr. 36|H. never held an academic appointment
+Sen. Med. 677|effudit|effundit|Nicolaus Heinsius|s.xviii med.|P.Mich. inv. 4969 fr. 36|H. had a public career.
 Simon. fr. 25|χεέτω|χείτω|M. L. West|1989|P.Oxy. LXXXI 5261|χέιτω is accented on papyrus.
 Simon. fr. 88|λεύχης|λέσχης|H. Stephanus|n.d.|P.Oxy. XI 1362|
 Soph. Aj. 378|ἔχειν|ἔχῃ|Valckenaer|pre-1775|Paris. gr. 2735 (C)|
