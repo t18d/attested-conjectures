@@ -215,7 +215,7 @@ Philo Ebr. 219|συνεχούσης|συνεχους|Wendland|n.d.|P.Oxy. IX 117
 Philo Ebr. 221|ἐπειδάν|ἐπειδάν δὲ|Wendland|n.d.|P.Oxy. IX 1173|
 Philo Ebr. 221|οἰνηρεύσεις|οινηρυσει[ς|Turnebus|n.d.|P.Oxy. IX 1173|
 Philo Ebr. 222|μαρμάρζει|μαιμᾷ|Mangey|n.d.|P.Oxy. IX 1173|
-Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|PBerol. 16367|
+Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|Berol. 16367|
 Pi. O. 2.76|γᾶς|μέγας|Jan Cornelis de Pauw|1747|P.Oxy. XVII 2092|
 Pi. O. 6.77|ὄροις|ὄρος|Zacharias Callierges|1515|P.Oxy. XIII 1614|
 Pi. Pae. 9.1|ἐμῆς θεῶ μ'ἄτερ|μήσεαι ὦ μᾶτερ|Blass|n.d.|P.Oxy. V 841|Confirmed by metre; Bergk's ἐμήσαο also possible.
