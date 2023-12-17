@@ -43,7 +43,7 @@ Ref.|Paradosis|Conjecture|Author|Year|Attested Place|Rem.
 ---|---|---|---|---|---|---
 Ach.Tat. Leuc. 2-9|τότε γὰρ τὸν Διόνυσον|τότε τὸν γὰρ Διόνυσον|Jacobs|n.d.|P.Oxy. X 1250|Details from Grenfell.
 Ach.Tat. Leuc. 2-9|προσέθιγεν|προσέθηκεν|Boden|n.d.|P.Oxy. X 1250|Details from Grenfell.
-Aesch. PV 157|ἐπεγήθει/ἐπιγήθει|ἐγεγήθει|Valckenaer|s.xviii med.|Ambros. gr. G 56 (D)/Matrit. gr. 4677 (N)|
+Aesch. PV 157|ἐπεγήθει/ἐπιγήθει|ἐγεγήθει|Valckenaer|s.xviii med.|Ambros. gr. G 56 (D) et Matrit. gr. 4677 (N)|
 Aeschin. In Ctes. 20|καὶ τὴν ἐκεῖ σκυθρωπὸν|καὶ τῶν ἐκεῖ σκυθρωπῶν|Lambinus|n.d.|P.Oxy. XIII 1625|Editor's details from Grenfell.
 Aeschin. In Ctes. 20|ἄγειν|ἄγει|Wolf|n.d.|P.Oxy. XIII 1625|Editor's details from Grenfell. 
 Aeschin. In Ctes. 20|γέρα|ἱερὰ|Hamaker|n.d.|P.Oxy. XIII 1625|Editor's details from Grenfell.
@@ -320,7 +320,7 @@ Thuc. 7|ὅπως ἂν ἀπολισθάνοι|ἂν om.|Henrik van Herwerden|s
 Thuc. 8.10|ἑπτὰ|ἐς ἑπτὰ|Westermann|n.d.|P.Oxy. X 1247|Editor's details from Grenfell.
 Thuc. 8.23.5|om.|Ἰώνων|Gertz|1925|P.Oxy. XVII 2100|Justified not confirmed by νεῶν -> ξυμμάχων at same place; year given is that of Hude's Teubner which adopts this conjecture.
 Thuc. 11.6|οὔτω|om.|Madvig|n.d.|P.Oxy. XIII 1621|Editor's details from Grenfell.
-Thuc. 11.9|ἡμῖν|ὑμῖν|Hude|n.d.|P.Oxy. VI 853 & P.Oxy. XIII 1621|Editor's details from Grenfell.
+Thuc. 11.9|ἡμῖν|ὑμῖν|Hude|n.d.|P.Oxy. VI 853 et XIII 1621|Editor's details from Grenfell.
 Thuc. 100.3|τοιc δε|αυ]τοις δε|Nattman|n.d.|P.Oxy. XLIX 3450|Borderline: spacing in papyrus would allow either reading.
 Xen. Oec. 9.2|τῆς οἰκίας|τῆς γε οἰκίας|Cobet|n.d.|P.Oxy. II 227|Editor's details from Grenfell.
 Xen. Oec. 9.2|ἑκάστῳ|ἐν ἑκάστῳ|Schneider|n.d.|P.Oxy. II 227|Editor's details from Grenfell.
