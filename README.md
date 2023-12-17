@@ -177,7 +177,9 @@ Hes. Th. 768|verse exists|verse om.|Wolf|n.d.|P.Oxy. XXXII 2648|Verse interpolat
 Hom. Il. 5.667|ἀμφιέποντες|αμ]φις ἐποιτ[ες|Brandreth|n.d.|P.Oxy. IV 759|
 Hom. Il. 6.493|πᾶσιν ἐμοὶ δ[ε μάλιστα τοὶ Ἰλίῳ|πασι μαλιστα δ εμοι τοι Ιλιωι|Hoffman & Bekker|n.d.|P.Oxy. III 445|Pap. preserves digamma before Ιλιωι
 Hom. Il. 23.198|ὠκέα δ'Ἶρις|ὦκα δὲ Ἶρις|Fick|n.d.|P.Grenf. ii 4|Editor's details from Grenfell's article.
+Hom. Od. 5.8|καὶ|μηδ’|Nauck|1874|P.Tebt. III/I 697|
 Hom. Od. 10.10|αὐλή/αὐλῆι|αὐδή/αὐδῆι|West|n.d.|P.Oxy. XLIX 3441|Borderline: possibly ancient variant; possibly conjectured by West.
+Hom. Od. 10.19|δῶκε δέ μοι ἐκδ-|δῶκέ μοι ἐκδείρας|Voss|pre-1782|P. Oxy. XLIX 3441|
 Isoc. Ad Nic. 2|διοικοῖς|διοικῇς|Blass|1891|Papyrus Massiliensis = CPF I.2 17|
 Isoc. Ad Nic. 8|ταῖς μοναρχίαις|τὰς μοναρχίας|Cobet|n.d.|Papyrus Massiliensis = CPF I.2 17|Editor's details from Kenyon's article.
 Isoc. Paneg. 68|om. γε|ελαττω γε|Cobet|n.d.|P.Oxy. V 844|
