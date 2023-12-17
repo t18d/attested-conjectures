@@ -175,7 +175,7 @@ Hes. Th. 93|οἷά τε|τοίη|Guiet|n.d.|P.Achm. 3|
 Hes. Th. 656|ὅτι|ὅ τοι|Hermann|n.d.|P.Ryl. 54|Editor's details from Grenfell's article.
 Hes. Th. 768|verse exists|verse om.|Wolf|n.d.|P.Oxy. XXXII 2648|Verse interpolated from Od. 10.533 (= 11. 46); omitted here and by Wolf.
 Hom. Il. 5.667|ἀμφιέποντες|αμ]φις έποιτ[ες|Brandreth|1841|P.Oxy. IV 759|
-Hom. Il. 6.493|πᾶσιν ἐμοὶ δ[ε μάλιστα τοὶ Ἰλίῳ|πασι μαλιστα δ εμοι τοι Ιλιωι|Hoffman & Bekker|n.d.|P.Oxy. III 445|Pap. preserves digamma before Ιλιωι
+Hom. Il. 6.493|πᾶσιν ἐμοὶ δὲ μάλιστα τοὶ Ἰλίῳ|πασι μαλιστα δ εμοι τοι Ιλιωι|C. A. J. Hoffmann|s.xix med.|P.Oxy. III 445|
 Hom. Il. 12.449|εἰσ'· ὃ δέ μιν ῥέα|ει[σιν ο δε]ρρεα|Nauck|1877|P.Lit.Lond. 251 + P.Harr. I 36|
 Hom. Il. 13.742|ἤ κεν ἐνὶ|ηε κεν εν|Ahrens|1843|P.Amh. inv. G 202|Rh. Mus. 2 (1843) 170
 Hom. Il. 17.89|ἀσβέστωι|ἀσβέτωι|Ludwich|1916|P.Berol. inv. 16007|Rh. Mus. 71 (1916) 211
