@@ -177,7 +177,7 @@ Hes. Th. 768|verse exists|verse om.|Wolf|n.d.|P.Oxy. XXXII 2648|Verse interpolat
 Hom. Il. 5.667|ἀμφιέποντες|αμ]φις ἐποιτ[ες|Brandreth|n.d.|P.Oxy. IV 759|
 Hom. Il. 6.493|πᾶσιν ἐμοὶ δ[ε μάλιστα τοὶ Ἰλίῳ|πασι μαλιστα δ εμοι τοι Ιλιωι|Hoffman & Bekker|n.d.|P.Oxy. III 445|Pap. preserves digamma before Ιλιωι
 Hom. Il. 12.449|εἰσ'· ὃ δέ μιν ῥέα|ει[σιν ο δε]ρρεα|Nauck|1877|P.Lit.Lond. 251 + P.Harr. I 36|
-Hom. Il. 13.742|ἤ κεν ἐνὶ|ηε κεν εν|Ahrens|1843|P. Morgan|Rh. Mus. 2 [1843] 170
+Hom. Il. 13.742|ἤ κεν ἐνὶ|ηε κεν εν|Ahrens|1843|P.Amh. inv. G 202|Rh. Mus. 2 [1843] 170
 Hom. Il. 23.198|ὠκέα δ'Ἶρις|ὦκα δὲ Ἶρις|Fick|n.d.|P.Grenf. ii 4|Editor's details from Grenfell's article.
 Hom. Od. 5.8|καὶ|μηδ’|Nauck|1874|P.Tebt. III/I 697|
 Hom. Od. 10.10|αὐλῆ(ι)|αὐδῆι|Nitzsch|1826–1840|P.Oxy. XLIX 3441|αυδη[]
