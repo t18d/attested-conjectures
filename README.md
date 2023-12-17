@@ -181,7 +181,7 @@ Hom. Od. 5.8|καὶ|μηδ’|Nauck|1874|P.Tebt. III/I 697|
 Hom. Od. 10.10|αὐλῆ(ι)|αὐδῆι|Nitzsch|1826–1840|P.Oxy. XLIX 3441|αυδη[]
 Hom. Od. 10.19|δῶκε δέ μοι ἐκδ-|δῶκέ μοι ἐκδείρας|Voss|pre-1782|P. Oxy. XLIX 3441|
 Hom. Od. 11.393|ἔτ’ ἦν|εην|Nauck|1874|P. CtYBR inv. 5128|
-Hom. Od. 24.209|ἠδὲ ἴαυον|ἠδ’ενϊαυον|Nauck|1874|P.Ryl. 53|
+Hom. Od. 24.209|ἠδὲ ἴαυον|ἠδ’ ενϊαυον|Nauck|1874|P.Ryl. 53|
 Isoc. Ad Nic. 2|διοικοῖς|διοικῇς|Blass|1891|Papyrus Massiliensis = CPF I.2 17|
 Isoc. Ad Nic. 8|ταῖς μοναρχίαις|τὰς μοναρχίας|Cobet|n.d.|Papyrus Massiliensis = CPF I.2 17|Editor's details from Kenyon's article.
 Isoc. Paneg. 68|om. γε|ελαττω γε|Cobet|n.d.|P.Oxy. V 844|
