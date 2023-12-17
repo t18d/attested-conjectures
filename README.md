@@ -177,6 +177,7 @@ Hes. Th. 768|verse exists|verse om.|Wolf|n.d.|P.Oxy. XXXII 2648|Verse interpolat
 Hom. Il. 5.667|ἀμφιέποντες|αμ]φις ἐποιτ[ες|Brandreth|n.d.|P.Oxy. IV 759|
 Hom. Il. 6.493|πᾶσιν ἐμοὶ δ[ε μάλιστα τοὶ Ἰλίῳ|πασι μαλιστα δ εμοι τοι Ιλιωι|Hoffman & Bekker|n.d.|P.Oxy. III 445|Pap. preserves digamma before Ιλιωι
 Hom. Il. 12.449|εἰσ'· ὃ δέ μιν ῥέα|ει[σιν ο δε]ρρεα|Nauck|1877|P.Lit.Lond. 251 + P.Harr. I 36|
+Hom. Il. 13.742|ἤ κεν ἐνὶ|ηε κεν εν|Ahrens|1843|P. Morgan|Rh. Mus. 2 [1843] 170
 Hom. Il. 23.198|ὠκέα δ'Ἶρις|ὦκα δὲ Ἶρις|Fick|n.d.|P.Grenf. ii 4|Editor's details from Grenfell's article.
 Hom. Od. 5.8|καὶ|μηδ’|Nauck|1874|P.Tebt. III/I 697|
 Hom. Od. 10.10|αὐλῆ(ι)|αὐδῆι|Nitzsch|1826–1840|P.Oxy. XLIX 3441|αυδη[]
@@ -254,7 +255,7 @@ Plb. 28. 2.4|om.|cυνεχωρηcεν|Friedrich Otto Hultsch|1889|P.Oxy. LXXXI 5
 Plu. Caes. 45.8|ταιc|αις|Moses Solanus|1729|P.Oxy. LXXXI 5270|
 Poet. Lyr. i. p.4|τὴν ογ΄ Ὀλυμπιάδα|τὴν ος΄ Ὀλυμπιάδα|Bergk|n.d.|P.Oxy. II 222|
 Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Bergk|1835|FP|κωϋ κεθέλουσα F: κ’ ώυ κ’ ἐθέλοις P
-Sapph. fr. 44A.5|ἀεί|ἄϊ|Heinrich Ludolf Ahrens|1839-43|P.Sapph.Obbink|
+Sapph. fr. 44A.5|ἀεί|ἄϊ|Ahrens|1839-43|P.Sapph.Obbink|
 Simon. fr. 25|χεέτω|χείτω|M. L. West|1989|P.Oxy. LXXXI 5261|χέιτω is accented on papyrus.
 Simon. fr. 88|λεύχης|λέσχης|H. Stephanus|n.d.|P.Oxy. XI 1362|
 Soph. Aj. 378|ἔχειν|ἔχῃ|Valckenaer|pre-1775|Paris. gr. 2735 (C)|
