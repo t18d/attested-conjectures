@@ -215,9 +215,10 @@ Philo Ebr. 219|συνεχούσης|συνεχους|Wendland|n.d.|P.Oxy. IX 117
 Philo Ebr. 221|ἐπειδάν|ἐπειδάν δὲ|Wendland|n.d.|P.Oxy. IX 1173|
 Philo Ebr. 221|οἰνηρεύσεις|οινηρυσει[ς|Turnebus|n.d.|P.Oxy. IX 1173|
 Philo Ebr. 222|μαρμάρζει|μαιμᾷ|Mangey|n.d.|P.Oxy. IX 1173|
-Pind. Ol. 2.76|γᾶς/γῆς/παῖς|μεγας|Pauw|n.d.|P.Oxy. XVII 2092|
-Pind. Pae. 9.1|ἐμῆς θεῶ μ'ἄτερ|μήσεαι ὦ μᾶτερ|Blass|n.d.|P.Oxy. V 841|Confirmed by metre; Bergk's ἐμήσαο also possible.
-Pind. Pae. 9.4|ἰσχὺν πτανὸν (ἀν)δράσιν|ἰσχύν τ'ἀνδράσι(ν)|Blass|n.d.|P.Oxy. V 841|
+Pi. O. 2.76|γᾶς/γῆς/παῖς|μεγας|Pauw|n.d.|P.Oxy. XVII 2092|
+Pi. O. 6.77|ὄροις|ὄρος|Zacharias Callierges|1515|P.Oxy. XIII 1614|
+Pi. Pae. 9.1|ἐμῆς θεῶ μ'ἄτερ|μήσεαι ὦ μᾶτερ|Blass|n.d.|P.Oxy. V 841|Confirmed by metre; Bergk's ἐμήσαο also possible.
+Pi. Pae. 9.4|ἰσχὺν πτανὸν (ἀν)δράσιν|ἰσχύν τ'ἀνδράσι(ν)|Blass|n.d.|P.Oxy. V 841|
 Pl. Phd. 82e|τῳ δεδέσθαι|τοῦ δεδέσθαι|Heindorf|1810|P.Lond.Lit. 145 = Pap. 488|
 Pl. Phdr. 228b|πάνυ τις|πάνυ τι|Schanz|n.d.|P.Oxy. VII 1016|Editor's details from Grenfell.
 Pl. Phdr. 239a|τῶν|τοῖς|Heindorf|n.d.|P.Oxy. VII 1017|Editor's details from Grenfell.
