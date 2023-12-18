@@ -143,7 +143,7 @@ Dem. Ep. 3.31|Εὔδικον/Εὔδημον|Εὐθύδικον|Blass|n.d.|P.B
 Dem. Ep. 3.38|om.|ἐὰν|Bekker|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
 Dem. Prooem. 26|κοιῶς|κοινῶν|Wolf|1812|P.Oxy. I 26|
 Din. 1.109|ἐλεήcετε|ελεηcαιτε|Dobree|n.d.|P.Oxy. XLIX 3436|
-Din. 3.20|καταλλάξαcθαι|ἀντικαταλλάξαcθαι|Hirschig|n.d.|P.Oxy. XLIX 3437|
+Din. 3.20|καταλλάξαcθαι|ἀντικαταλλάξαcθαι|G. A. Hirschig|n.d.|P.Oxy. XLIX 3437|
 Din. Phil. 20|τῶν τοῦ δήμου|τῶν τοῦ δήμου ψηφιcμάτων|Maetzner|n.d.|P.Oxy. XLIX 3437|
 Epict. Diatr. 4.1.136|om.|εἰ|Hieronymus Wolf|1560|P.Cair.Mich. II 11|vel πότερον Wolf
 Eur. Hec. 580|λέγον|λέγων|Johannes Pierson|pre-1752|MB et V2 et iΣm|
@@ -247,7 +247,7 @@ Pl. Smp. 206c|τῷ καλῷ|τῷ om.|Badham|n.d.|P.Oxy. VI 843|Editor's detai
 Pl. Smp. 208b|μετέχειν|μετέχει|Stephanus|n.d.|P.Oxy. VI 843|Editor's details from Grenfell.
 Pl. Smp. 209a|κυεῖν|τεκεῖν|Hug|n.d.|P.Oxy. VI 843|Editor's details from Grenfell.
 Pl. Smp. 209b|ἐπιθυμεῖ|επιθυμη|Stephanus|n.d.|P.Oxy. V 843|
-Pl. Smp. 222d|διαβάλῃ|διαβαλει|Hirschig|n.d.|P.Oxy. V 843|
+Pl. Smp. 222d|διαβάλῃ|διαβαλει|R. B. Hirschig|n.d.|P.Oxy. V 843|
 Pl. Tht. 152b|ἔστιν γαρ|ἐστιν om.|Ast|n.d.|*Berl. klass. Texte* ii.|Editor's details from Grenfell.
 Plb. 11. |καταβαίνοντες|καταβάσει|Reiske|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Details from Grenfell; pap. adds προσβαίνοντες.
 Plb. 11. 14.2|προθεῖναι|προσθεῖναι|Scaliger|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
