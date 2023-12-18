@@ -142,9 +142,9 @@ Dem. Ep. 3.30|γενήσεσθαι|γενέσθαι|Fuhr|n.d.|P.Brit.Mus. 133|Ed
 Dem. Ep. 3.31|Εὔδικον/Εὔδημον|Εὐθύδικον|Blass|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
 Dem. Ep. 3.38|om.|ἐὰν|Bekker|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
 Dem. Prooem. 26|κοιῶς|κοινῶν|Wolf|1812|P.Oxy. I 26|
-Din. 1.109|ἐλεήcετε|ελεηcαιτε|Dobree|n.d.|P.Oxy. XLIX 3436|
-Din. 3.20|καταλλάξαcθαι|ἀντικαταλλάξαcθαι|G. A. Hirschig|n.d.|P.Oxy. XLIX 3437|
-Din. Phil. 20|τῶν τοῦ δήμου|τῶν τοῦ δήμου ψηφιcμάτων|Maetzner|n.d.|P.Oxy. XLIX 3437|
+Din. 1.109|ἐλεήϲετε|ελεηϲαιτε|Dobree|n.d.|P.Oxy. XLIX 3436|
+Din. 3.20|καταλλάξαϲθαι|ἀντικαταλλάξαϲθαι|G. A. Hirschig|n.d.|P.Oxy. XLIX 3437|
+Din. Phil. 20|τῶν τοῦ δήμου|τῶν τοῦ δήμου ψηφιϲμάτων|Maetzner|n.d.|P.Oxy. XLIX 3437|
 Epict. Diatr. 4.1.136|om.|εἰ|Hieronymus Wolf|1560|P.Cair.Mich. II 11|vel πότερον Wolf
 Eur. Hec. 580|λέγον|λέγων|Johannes Pierson|pre-1752|MB et V2 et iΣm|
 Eur. Hec. 931|Ἰλιάδα|Ἰλιάδος|Valckenaer|1749|K1c et PrRfRw|
