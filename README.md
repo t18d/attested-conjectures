@@ -203,12 +203,13 @@ Men. Epit. 476|συγγν[..]ης [..]ρως Lefebvre/συγγν . μην . ρω
 Men. Kol. 50|νῦν|νυνί|Grotius|s.xvii in.|P.Oxy. III 409|Eust.1833.58.; G. apud Clericum
 Men. fr. 180.2|ἀρπάγην|ἀρπαγήν|Valckenaer|1739|Ph.Bybl. 28|Animad. p. 23
 Men. fr. 189.3|-άϲαϲαν|ἐπιπολάϲαν|Wilamowitz|1870|Phot. (z) α 2806|Obs. (diss. Berol.)
-Men. fr. 288|τε|δὲ|Meineke|s.xix med.|Schol. R Soph. OC 1375|
+Men. fr. 288|τε|δὲ|Meineke|1839-51|Schol. R Soph. OC 1375|FCG
 Men. fr. 454.2|εἰς τὴν ἕκτην (ἐπὶ δέκα)|ἕκτην ἐπὶ δέκα|Porson|pre-1815|Ph.Bybl. 87|Misc. p. 253
 Men. fr. 740.2|γε|τε|Schaefer|1817|P.Oxy. XLIX 3433|ad Brunck ΗΘΙΚΗ ΠΟΙΗϹΙϹ (1817) p. 264
 Men. fr. 740.5|ἐψευϲμένοϲ|ϲ' ἐψευϲμένοϲ|Grotius|1626|P.Oxy. XLIX 3433|Exc. p. 755
 Men. fr. 740.11|οἶκτον|ὄγκον|L. Duebner|1932|P.Oxy. XLIX 3433|Attische Feste p. 54
 Men. fr. 740.18|λοιπόν|λυπηρόν|Wilamowitz|1876|P.Oxy. XLIX 3433|Herm. 11 (1876) 504
+Men. fr. 767|ἀπολόμ-|ἀπωλλύμεϲθα|Th. Kock|1880-1888|Schol. V Ar. Av. 374|CAF
 Nonn. Dion. 14.393|ἀκωκήν|κολώνην|Graefe|n.d.|See Grenfell p.24 (7th cent. pap.)|Bordeline: Pap. has ἀκωκήν corrected to κορώνην (i.e. κολώνην) which is corrected to ἀκωκήν (which is from the end of 394).
 Nonn. Dion. 14.398|πολυσταφύλῳ|φιλοσταφύλῳ|Graefe|n.d.|See Grenfell p. 24 (7th cent. pap.)|Editor's details from Grenfell.
 Nonn. Dion. 15.87|οἰνηθέντες|οἰνωθεντες|Graefe|n.d.|See Grenfell p.24 (7th cent. pap.)|Editor's details from Grenfell.
@@ -340,7 +341,7 @@ Sor. Gyn. 2-3|Ἀθηναίων|Ἀθηνίων|Wellmann|n.d.|P.Soc.Ital. 117|De
 Sor. Gyn. 2-3|ἐν τῷ α καὶ γ τῆς αἱρέσεως|ἐν τῷ α καὶ γ τῶν περὶ τῆς αἱρέσεως|Rose|n.d.|P.Soc.Ital. 117|Details from Grenfell.
 Sor. Gyn. 2-3|καὶ Ζήνωνα καὶ Ἀριστοτέλην τὸν Ἐπικούριον|καὶ Ἀριστοτέλην καὶ Ζήνωνα τὸν Ἐπικούριον|Ermerins|n.d.|P.Soc.Ital. 117|Details from Grenfell.
 Str. 9 fr. 14.i.20|οὔτε|οὐδέ|Meineke|n.d.|P.Oxy. XLIX 3447|Pap. reads οὐδ'
-Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|n.d.|Phot. ε 424|Men. et Phil. p. 15
+Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. ε 424|Men. et Phil. p. 15
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
 Theoc. Id. 15.98|σπέρχιν/πέρχην|πέρυσιν|Reiske|n.d.|P.Oxy. XIII 1618|Paradosis corrupt; papyrus reads πέρυ]σιν; editor's details from Grenfell's article.
 Theoc. Id. 22.40|πεφύκασιν|πεφυκεσαν|Stephanus|n.d.|P.Oxy. XV 1806|
