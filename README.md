@@ -211,10 +211,12 @@ Men. Her. fr. 2.2|δὲ δεῖ|δεῖ|Guil. Morelius|1553|P.Bour. 1|
 Men. Kol. 50|νῦν|νυνί|Grotius|s.xvii in.|P.Oxy. III 409|Eust.1833.58.; G. apud Clericum
 Men. Kon. fr. 1.2|ἴδηις|ειδηις|Meineke|1839-51|P.Berol. inv. 21312 b. c + P.Schub. 27|Men. et Phil. p. 103
 Men. Mis. 51–52|ὕοντα πολλῶι|ϋοντα πολλω|Porson|s.xviii/xix|P.Oxy. XLVIII 3368|ap. Dobree Adv. II p. 285
+Men. Pk. 46|θ’ εαυτων|θ αυτων|Headlam|1908|P.Heid. G 219 + 239 h|
+Men. Pk. 46|θ’ εαυτων|θ αυτων|J. van Leeuwen|1908|P.Heid. G 219 + 239 h|
 Men. fr. 180.2|ἀρπάγην|ἀρπαγήν|Valckenaer|1739|Ph.Bybl. 28|Animad. p. 23
 Men. fr. 189.3|-άϲαϲαν|ἐπιπολάϲαν|Wilamowitz|1870|Phot. (z) α 2806|Obs. (diss. Berol.)
 Men. fr. 288|τε|δὲ|Meineke|1839-51|Schol. R Soph. OC 1375|FCG
-Men. fr. 454.2|εἰς τὴν ἕκτην (ἐπὶ δέκα)|ἕκτην ἐπὶ δέκα|Porson|pre-1815|Ph.Bybl. 87|Misc. p. 253
+Men. fr. 454.2|εἰς τὴν ἕκτην (ἐπὶ δέκα)|ἕκτην ἐπὶ δέκα|Porson|s.xviii/xix|Ph.Bybl. 87|Misc. p. 253
 Men. fr. 740.2|γε|τε|Schaefer|1817|P.Oxy. XLIX 3433|ad Brunck ΗΘΙΚΗ ΠΟΙΗϹΙϹ (1817) p. 264
 Men. fr. 740.5|ἐψευϲμένοϲ|ϲ' ἐψευϲμένοϲ|Grotius|1626|P.Oxy. XLIX 3433|Exc. p. 755
 Men. fr. 740.11|οἶκτον|ὄγκον|L. Duebner|1932|P.Oxy. XLIX 3433|Attische Feste p. 54
