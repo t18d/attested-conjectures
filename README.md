@@ -361,6 +361,7 @@ Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. ε 424|Men. e
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
 Theoc. Id. 15.98|σπέρχιν/πέρχην|πέρυσιν|Reiske|n.d.|P.Oxy. XIII 1618|Paradosis corrupt; papyrus reads πέρυ]σιν; editor's details from Grenfell's article.
 Theoc. Id. 22.40|πεφύκασιν|πεφυκεσαν|Stephanus|n.d.|P.Oxy. XV 1806|
+Thuc. 1.110.4|Ἀθηναίων|Ἀθηνῶν|Bekker|n.d.|P.Oxy. XXXIV 2073|α[θη]ν̣ων
 Thuc. 4.37|ὅτι|om.|Henrik van Herwerden|s.xix ex.|P.Oxy. I 16 et IV 696|
 Thuc. 5.97|καὶ τοῦ|τοῦ καὶ|Krüger|n.d.|P.Oxy. VI 880|
 Thuc. 7|στρατιὰς|στρατείας|Aemilius Portus|n.d.|P.Oxy. XI 1376|Details from Grenfell.
