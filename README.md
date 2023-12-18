@@ -35,7 +35,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (46), Markland (40), Beza (25), Blass (24), Naber (18), Johannes Pierson (15), Michelsen (15), Bentley (14), Owen (14), and Hort (12).</p>
+<p>The top 10 critics are Valckenaer (47), Markland (40), Beza (25), Blass (24), Naber (18), Johannes Pierson (15), Michelsen (15), Bentley (14), Owen (14), and Hort (12).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -200,7 +200,8 @@ Isoc. Paneg. 68|γε|ελαττω γε|Cobet|n.d.|P.Oxy. V 844|
 Logia Iesou 1.7-8|θαυμάσας|θαμβηβεὶς|Zahn|n.d.|P.Oxy. IV 654|Zahn: *Gesch. d. NT. Kan.* ii. p. 657; Zahn's conjecture is that a. θαμβηβεὶς b. that θαμβηβεὶς is a mistranslation of a Hebrew/Aramaic word also meaning θορυβηθείς and thus συντετριμμένης would be the right term; howver θαμβηθείς appears in the pap. and so this further conjecture is disproved.
 Men. Epit. 51|δέ|δή|Wilamowitz|n.d.|P.Oxy. XXXVIII 2829|
 Men. Epit. 476|συγγν[..]ης [..]ρως Lefebvre/συγγν . μην . ρων|συγγνώμ]ης [μέ]ρος|Van Leeuwen|n.d.|P.Oxy. X 1236|
-Men. Kol. 50|νῦν|νυνί|Grotius|s.xvii in.|P.Oxy. III 409|Eust.1833.58.; emend. apud Clericum
+Men. Kol. 50|νῦν|νυνί|Grotius|s.xvii in.|P.Oxy. III 409|Eust.1833.58.; G. apud Clericum
+Men. fr. 180.2|άρπάγην|άρπαγήν|Valckenaer|1739|Ph.Bybl|Animad. p. 23
 Men. fr. 740.2|γε|τε|Schaefer|n.d.|P.Oxy. XLIX 3433|
 Men. fr. 740.5|ἐψευϲμένοϲ|ϲ'ἐψευϲμένοϲ|Grotius|n.d.|P.Oxy. XLIX 3433|
 Men. fr. 740.11|οἶκτον|ὄγκον|Duebner|n.d.|P.Oxy. XLIX 3433|
