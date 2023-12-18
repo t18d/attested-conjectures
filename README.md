@@ -207,7 +207,7 @@ Men. fr. 288|τε|δὲ|Meineke|s.xix med.|Schol. R Soph. OC 1375|
 Men. fr. 454.2|εἰς τὴν ἕκτην (ἐπὶ δέκα)|ἕκτην ἐπὶ δέκα|Porson|pre-1815|Ph.Bybl. 87|Misc. p. 253
 Men. fr. 740.2|γε|τε|Schaefer|1817|P.Oxy. XLIX 3433|ad Brunck ΗΘΙΚΗ ΠΟΙΗϹΙϹ (1817) p. 264
 Men. fr. 740.5|ἐψευϲμένοϲ|ϲ' ἐψευϲμένοϲ|Grotius|1626|P.Oxy. XLIX 3433|Exc. p. 755
-Men. fr. 740.11|οἶκτον|ὄγκον|Duebner|n.d.|P.Oxy. XLIX 3433|
+Men. fr. 740.11|οἶκτον|ὄγκον|L. Duebner|1932|P.Oxy. XLIX 3433|Attische Feste p. 54
 Men. fr. 740.18|λοιπόν|λυπηρόν|Wilamowitz|1876|P.Oxy. XLIX 3433|Herm. 11 (1876) 504
 Nonn. Dion. 14.393|ἀκωκήν|κολώνην|Graefe|n.d.|See Grenfell p.24 (7th cent. pap.)|Bordeline: Pap. has ἀκωκήν corrected to κορώνην (i.e. κολώνην) which is corrected to ἀκωκήν (which is from the end of 394).
 Nonn. Dion. 14.398|πολυσταφύλῳ|φιλοσταφύλῳ|Graefe|n.d.|See Grenfell p. 24 (7th cent. pap.)|Editor's details from Grenfell.
