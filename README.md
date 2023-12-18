@@ -202,7 +202,7 @@ Men. Epit. 51|δέ|δή|Wilamowitz|n.d.|P.Oxy. XXXVIII 2829|
 Men. Epit. 476|συγγν[..]ης [..]ρως Lefebvre/συγγν . μην . ρων|συγγνώμ]ης [μέ]ρος|Van Leeuwen|n.d.|P.Oxy. X 1236|
 Men. Kol. 50|νῦν|νυνί|Grotius|s.xvii in.|P.Oxy. III 409|Eust.1833.58.; G. apud Clericum
 Men. fr. 180.2|ἀρπάγην|ἀρπαγήν|Valckenaer|1739|Ph.Bybl|Animad. p. 23
-Men. fr. 189.3|-άϲαϲαν|ἐπιπολάϲαν|Wilamowitz|1739|Ph.Bybl|
+Men. fr. 189.3|-άϲαϲαν|ἐπιπολάϲαν|Wilamowitz|1870|Phot. (z) α 2806|Obs. (diss. Berol.)
 Men. fr. 740.2|γε|τε|Schaefer|n.d.|P.Oxy. XLIX 3433|
 Men. fr. 740.5|ἐψευϲμένοϲ|ϲ' ἐψευϲμένοϲ|Grotius|n.d.|P.Oxy. XLIX 3433|
 Men. fr. 740.11|οἶκτον|ὄγκον|Duebner|n.d.|P.Oxy. XLIX 3433|
