@@ -46,17 +46,17 @@ Ref.|Paradosis|Conjecture|Author|Year|Attested Place|Rem.
 Ach.Tat. Leuc. 2-9|τότε γὰρ τὸν Διόνυσον|τότε τὸν γὰρ Διόνυσον|Jacobs|n.d.|P.Oxy. X 1250|Details from Grenfell.
 Ach.Tat. Leuc. 2-9|προσέθιγεν|προσέθηκεν|Boden|n.d.|P.Oxy. X 1250|Details from Grenfell.
 Aesch. PV 157|ἐπεγήθει/ἐπιγήθει|ἐγεγήθει|Valckenaer|s.xviii med.|Ambros. gr. G 56 (D) et Matrit. gr. 4677 (N)|
-Aeschin. In Ctes. 20|καὶ τὴν ἐκεῖ σκυθρωπὸν|καὶ τῶν ἐκεῖ σκυθρωπῶν|Lambinus|n.d.|P.Oxy. XIII 1625|Editor's details from Grenfell.
-Aeschin. In Ctes. 20|ἄγειν|ἄγει|Wolf|n.d.|P.Oxy. XIII 1625|Editor's details from Grenfell. 
-Aeschin. In Ctes. 20|γέρα|ἱερὰ|Hamaker|n.d.|P.Oxy. XIII 1625|Editor's details from Grenfell.
-Aeschin. In Ctes. 53|μὲν ἀληθῆ|ἀληθῆ μὲν|Cobet|n.d.|P.Oxy. XXIV 2404|
-Aeschin. In Ctes. 94|ὁρώντων|ζώντων|Kaibel|n.d.|P.Oxy. IV 703|Editor's details from Grenfell.
-Aeschin. In Ctes. 167|προσκαθίζεις/προσκαθεστήσῃ|προσκαθιζήσει|Lobeck|n.d.|P.Oxy. III 457|Pap. reads προσκαθ[ιζ]ήσ[ει; editor's details from Grenfell.
-Aeschin. In Tim.|τοὺς νόμους μὲν|τὸυς μὲν νόμους|Cobet|n.d.|P.Gen. I 256|Editor's details from Grenfell.
-Aeschin. In Tim.|ἐπὶ πᾶσι τοῖς δικαίοις|τοῖς om.|Hillebrand|n.d.|P.Gen. I 256|Editor's details from Grenfell.
-Aeschin. In Tim.|κατηγορούντων|κατηγόρων|Blass|n.d.|P.Gen. I 256|Editor's details from Grenfell.
-Aeschin. In Tim. 173|ἐξαιτήσεται|ἐξαιρήσεται|Blass|n.d.|P.Gen. I 256|Editor's details from Grenfell.
-Aeschin. In Tim. 176|διισχυρίζεσθαι|ἰσχθυρίζεσθαι|Wolf|n.d.|P.Gen. I 256|Editor's details from Grenfell.
+Aeschin. Ctes. 20|καὶ τὴν ἐκεῖ σκυθρωπὸν|καὶ τῶν ἐκεῖ σκυθρωπῶν|Lambinus|n.d.|P.Oxy. XIII 1625|Editor's details from Grenfell.
+Aeschin. Ctes. 20|ἄγειν|ἄγει|Wolf|n.d.|P.Oxy. XIII 1625|Editor's details from Grenfell. 
+Aeschin. Ctes. 20|γέρα|ἱερὰ|Hamaker|n.d.|P.Oxy. XIII 1625|Editor's details from Grenfell.
+Aeschin. Ctes. 53|μὲν ἀληθῆ|ἀληθῆ μὲν|Cobet|n.d.|P.Oxy. XXIV 2404|
+Aeschin. Ctes. 94|ὁρώντων|ζώντων|Kaibel|n.d.|P.Oxy. IV 703|Editor's details from Grenfell.
+Aeschin. Ctes. 167|προσκαθίζεις/προσκαθεστήσῃ|προσκαθιζήσει|Lobeck|n.d.|P.Oxy. III 457|Pap. reads προσκαθ[ιζ]ήσ[ει; editor's details from Grenfell.
+Aeschin. Tim.|τοὺς νόμους μὲν|τὸυς μὲν νόμους|Cobet|n.d.|P.Gen. I 256|Editor's details from Grenfell.
+Aeschin. Tim.|ἐπὶ πᾶσι τοῖς δικαίοις|τοῖς om.|Hillebrand|n.d.|P.Gen. I 256|Editor's details from Grenfell.
+Aeschin. Tim.|κατηγορούντων|κατηγόρων|Blass|n.d.|P.Gen. I 256|Editor's details from Grenfell.
+Aeschin. Tim. 173|ἐξαιτήσεται|ἐξαιρήσεται|Blass|n.d.|P.Gen. I 256|Editor's details from Grenfell.
+Aeschin. Tim. 176|διισχυρίζεσθαι|ἰσχθυρίζεσθαι|Wolf|n.d.|P.Gen. I 256|Editor's details from Grenfell.
 Alc. 19|τῷ προτέρῳ νεομω|τῳ π.'νέμῳ|Blass|n.d.|P.Oxy. XV 1789|Only conjecture listed that is consistent with the pap. - not necessarily right.
 Alc. fr. 34|]ϲον|δεῦτέ μοι νᾶϲον|Gallavotti|n.d.|P.Mich. inv. 3498+3250b recto|δεῦτ̣[έ] μοι νᾶcον
 Anth. Pal. 5.217|γλυκεροὺς/γλυκεράς|Γλυκέρας|Scaliger|n.d.|P.Oxy. II 211|Conjecture in epigram verified by discovery of fr.
