@@ -202,7 +202,7 @@ Men. Epit. 51|δέ|δή|Wilamowitz|n.d.|P.Oxy. XXXVIII 2829|
 Men. Epit. 476|συγγν[..]ης [..]ρως Lefebvre/συγγν . μην . ρων|συγγνώμ]ης [μέ]ρος|Van Leeuwen|n.d.|P.Oxy. X 1236|
 Men. Kol. 50|νῦν|νυνί|Grotius|s.xvii in.|P.Oxy. III 409|Eust.1833.58.; emend. apud Clericum
 Men. fr. 740.2|γε|τε|Schaefer|n.d.|P.Oxy. XLIX 3433|
-Men. fr. 740.5|ἐψευcμένος|c'ἐψευψμένος|Grotius|n.d.|P.Oxy. XLIX 3433|
+Men. fr. 740.5|ἐψευϲμένοϲ|ϲ'ἐψευϲμένοϲ|Grotius|n.d.|P.Oxy. XLIX 3433|
 Men. fr. 740.11|οἶκτον|ὄγκον|Duebner|n.d.|P.Oxy. XLIX 3433|
 Men. fr. 740.18|λοιπόν|λυπηρόν|Nauck|n.d.|P.Oxy. XLIX 3433|
 Nonn. Dion. 14.393|ἀκωκήν|κολώνην|Graefe|n.d.|See Grenfell p.24 (7th cent. pap.)|Bordeline: Pap. has ἀκωκήν corrected to κορώνην (i.e. κολώνην) which is corrected to ἀκωκήν (which is from the end of 394).
