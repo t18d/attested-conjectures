@@ -242,8 +242,8 @@ Pl. Phdr. 239a|τῶν|τοῖς|Heindorf|n.d.|P.Oxy. VII 1017|Editor's details 
 Pl. Phdr. 251a|δεδίει/δεδιείη|ἐδεδίει|Cobet|n.d.|P.Oxy. VII 1017|Editor's details from Grenfell.
 Pl. Phdr. 356c|ἴσαι|αἱ ἴσαι|Heindorf|n.d.|P.Oxy. VII 1016|Confirmed by 1st hand but rejected by corrector; editor's details are from Grenfell.
 Pl. Resp. 547c|τό|[τω]ι|Burnet|n.d.|P.Oxy. XV 1808|
-Pl. Smp. 202a|καὶ|om.|Stallbaum|n.d.|P.Oxy. VI 843|Editor's details from Grenfell.
-Pl. Smp. 206c|τῷ καλῷ|τῷ om.|Badham|n.d.|P.Oxy. VI 843|Editor's details from Grenfell.
+Pl. Smp. 202a|καὶ|del.|Stallbaum|n.d.|P.Oxy. VI 843|Editor's details from Grenfell.
+Pl. Smp. 206c5|τῷ|del.|Badham|n.d.|P.Oxy. VI 843|Editor's details from Grenfell.
 Pl. Smp. 208b|μετέχειν|μετέχει|Stephanus|n.d.|P.Oxy. VI 843|Editor's details from Grenfell.
 Pl. Smp. 209a|κυεῖν|τεκεῖν|Hug|n.d.|P.Oxy. VI 843|Editor's details from Grenfell.
 Pl. Smp. 209b|ἐπιθυμεῖ|επιθυμη|Stephanus|n.d.|P.Oxy. V 843|
