@@ -207,7 +207,9 @@ Men. Asp. 394|-ως|ασμενος|M. L. West|1966|B|Philologus 110 (1966) 157
 Men. Epit. 51|δέ|δή|Wilamowitz|n.d.|P.Oxy. XXXVIII 2829|
 Men. Epit. 385|ϲτριφνοϲ|ϲτιφ[ρο]&#x3F2;&#x323;[|Sandbach|1972|P.Oxy. LX 4022|
 Men. Epit. 476|συγγν[..]ης [..]ρως Lefebvre/συγγν . μην . ρων|συγγνώμ]ης [μέ]ρος|Van Leeuwen|n.d.|P.Oxy. X 1236|
+Men. Her. fr. 2.2|δὲ δεῖ|δεῖ|Guil. Morelius|1553|P.Bour. 1|
 Men. Kol. 50|νῦν|νυνί|Grotius|s.xvii in.|P.Oxy. III 409|Eust.1833.58.; G. apud Clericum
+Men. Kon. fr. 1.2|ἴδηις|ειδηις|Meineke|1839-51|P.Berol. inv. 21312 b. c + P.Schub. 27|Men. et Phil. p. 103
 Men. fr. 180.2|ἀρπάγην|ἀρπαγήν|Valckenaer|1739|Ph.Bybl. 28|Animad. p. 23
 Men. fr. 189.3|-άϲαϲαν|ἐπιπολάϲαν|Wilamowitz|1870|Phot. (z) α 2806|Obs. (diss. Berol.)
 Men. fr. 288|τε|δὲ|Meineke|1839-51|Schol. R Soph. OC 1375|FCG
