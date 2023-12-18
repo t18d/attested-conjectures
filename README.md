@@ -37,7 +37,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (47), Markland (40), Beza (25), Blass (24), Naber (18), Johannes Pierson (15), Michelsen (15), Bentley (14), Owen (14), and Hort (12).</p>
+<p>The top 10 critics are Valckenaer (47), Markland (40), Beza (25), Blass (24), Naber (18), Johannes Pierson (15), Bentley (15), Michelsen (15), Owen (14), and Hort (12).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -196,8 +196,8 @@ Hom. Od. 10.10|αὐλῆ(ι)|αὐδῆι|Nitzsch|1826–1840|P.Oxy. XLIX 3441|
 Hom. Od. 10.19|δῶκε δέ μοι ἐκδ-|δῶκέ μοι ἐκδείρας|Voss|pre-1782|P. Oxy. XLIX 3441|
 Hom. Od. 11.393|ἔτ’ ἦν|εην|Nauck|1874|P. CtYBR inv. 5128|
 Hom. Od. 24.209|ἠδὲ ἴαυον|ἠδ’ ενϊαυον|Nauck|1874|P.Ryl. 53|
-Isoc. Ad Nic. 2|διοικοῖς|διοικῇς|Blass|1891|Papyrus Massiliensis = CPF I.2 17|
-Isoc. Ad Nic. 8|ταῖς μοναρχίαις|τὰς μοναρχίας|Cobet|n.d.|Papyrus Massiliensis = CPF I.2 17|Editor's details from Kenyon's article.
+Isoc. Ad Nic. 2|διοικοῖς|διοικῇς|Blass|1891|Pap. Massiliensis = CPF I.2 17|
+Isoc. Ad Nic. 8|ταῖς μοναρχίαις|τὰς μοναρχίας|Cobet|n.d.|Pap. Massiliensis = CPF I.2 17|Editor's details from Kenyon's article.
 Isoc. Paneg. 68|γε|ελαττω γε|Cobet|n.d.|P.Oxy. V 844|
 Logia Iesou 1.7-8|θαυμάσας|θαμβηβεὶς|Zahn|n.d.|P.Oxy. IV 654|Zahn: *Gesch. d. NT. Kan.* ii. p. 657; Zahn's conjecture is that a. θαμβηβεὶς b. that θαμβηβεὶς is a mistranslation of a Hebrew/Aramaic word also meaning θορυβηθείς and thus συντετριμμένης would be the right term; howver θαμβηθείς appears in the pap. and so this further conjecture is disproved.
 Men. Asp. 173|τ’ εμου|τ̣ι̣ μ̣[ου|E. W. Handley|1969|P.Oxy. LXI 4094|apud Austin ZPE 4 (1969) 162
@@ -211,10 +211,12 @@ Men. Her. fr. 2.2|δὲ δεῖ|δεῖ|Guil. Morelius|1553|P.Bour. 1|
 Men. Kol. 50|νῦν|νυνί|Grotius|s.xvii in.|P.Oxy. III 409|Eust.1833.58.; G. apud Clericum
 Men. Kon. fr. 1.2|ἴδηις|ειδηις|Meineke|1839-51|P.Berol. inv. 21312 b. c + P.Schub. 27|Men. et Phil. p. 103
 Men. Mis. 51–52|ὕοντα πολλῶι|ϋοντα πολλω|Porson|s.xviii/xix|P.Oxy. XLVIII 3368|ap. Dobree Adv. II p. 285
+Men. Phasm. 73|-ϲθαι ἀν|ε]π̣ιϲημ̣[αιν]εϲθεαν|Bentley|post-1710|P.Oxy. XXXVIII 2825|Meineke Men. et Phil. p. 498
+Men. Pk. 46|θ’ εαυτων|θ αυτων|W. G. Headlam|1908|P.Heid. G 219 + 239 h|
 Men. Pk. 46|θ’ εαυτων|θ αυτων|W. G. Headlam|1908|P.Heid. G 219 + 239 h|
 Men. Pk. 46|θ’ εαυτων|θ αυτων|Jan van Leeuwen|1908|P.Heid. G 219 + 239 h|
-Men. Pk. 47|-ραινε|εδυϲχερανε|Wilamowitz|1907|P.Heid. G 219 + 239 h|
 Men. Sam. 280|τουτον|τουτονϊ|Jan van Leeuwen|1908|P.Bodm. XXV + Pap. Barcinonensis inv. 45|
+Men. Sam. 588|μικρο̄|μικρα|Leo|1907|P.Bodm. XXV + Pap. Barcinonensis inv. 45|NGG (1907) 315–341
 Men. fr. 180.2|ἀρπάγην|ἀρπαγήν|Valckenaer|1739|Ph.Bybl. 28|Animad. p. 23
 Men. fr. 189.3|-άϲαϲαν|ἐπιπολάϲαν|Wilamowitz|1870|Phot. (z) α 2806|Obs. (diss. Berol.)
 Men. fr. 288|τε|δὲ|Meineke|1839-51|Schol. R Soph. OC 1375|FCG
