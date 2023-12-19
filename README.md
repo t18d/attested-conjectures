@@ -38,7 +38,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (47), Markland (40), Beza (25), Blass (23), Naber (18), Johannes Pierson (15), Bentley (15), Michelsen (15), Owen (14), and Hort (12).</p>
+<p>The top 10 critics are Valckenaer (47), Markland (40), Beza (25), Blass (22), Naber (18), Johannes Pierson (15), Bentley (15), Michelsen (15), Owen (14), and Hort (12).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -59,7 +59,6 @@ Aeschin. Tim. 176|διισχ-|ἰσχθυρίζεσθαι|Hieronymus Wolf|1572|P
 Aeschin. Tim. 177|νόμους μέν|μὲν νόμους|Cobet|s.xix ex.|P.Gen. I 256|
 Aeschin. Tim. 178|-γορούντων|κατηγόρων|Blass|1896|P.Gen. I 256|
 Aeschin. Tim. 178|πᾶσι τοῖς δικαίοις|πᾶσι δικαίοις|Joseph Anton Hillebrand|1868|P.Gen. I 256|
-Alc. 19|τῷ προτέρῳ νεομω|τῳ π.'νέμῳ|Blass|n.d.|P.Oxy. XV 1789|Only conjecture listed that is consistent with the pap. - not necessarily right.
 Alc. fr. 34|]ϲον|δεῦτέ μοι νᾶϲον|Gallavotti|n.d.|P.Mich. inv. 3498 + 3250b recto|δεῦτ̣[έ] μοι νᾶcον
 Anth. Pal. 5.217|γλυκεροὺς/γλυκεράς|Γλυκέρας|Scaliger|n.d.|P.Oxy. II 211|Conjecture in epigram verified by discovery of fr.
 Anth. Pal. 9.588|ἐπωμίδας|βραχείονας|Johannes Pierson|n.d.|P.Tebt. 3|Editor's details from Grenfell.
