@@ -100,16 +100,16 @@ Ar. Vesp. 576|γράψομαι|γράφομαι|Brunck|n.d.|P.Oxy. XI 1374|
 Ar. Vesp. 790|ἐπέθηκε|ἐνέθηκε|Bergk|n.d.|P.Oxy. XI 1374|
 Ar. Vesp. 1132/5|ἀναλαβοῦ|ἀναβαλοῦ|Valckenaer|1757|B et Rpc|
 Ar. fr. 755|καὶ τῶν βελέκκων|βελέκκων|Kock|n.d.|P.Oxy. XV 1801|
-Arat. Phaen. 736|ἰοῦσα|ἄγουσα|Buttman|n.d.|*Berl. klass. Texte* v.1 p.47|Editor's details from Grenfell's article.
-Arat. Phaen. 750|ἐμπλήσει|ἐμπλήσσει|Voss|n.d.|*Berl. klass. Texte* v.1 p.47|Editor's details from Grenfell's article.
-Arat. Phaen. 870|φαίνονται|φαίνωνται|Voss|n.d.|*Berl. klass. Texte* v.1 p.47|Editor's details from Grenfell's article.
-Arist. Rh. Al|ἴσασι/εἰδῶσι|τιμῶσι|Spengel|n.d.|P.Hibeh 26|Details from Grenfell.
-Arist. Rh. Al|τὸ κατηγορούμενον|om.|Spengel|n.d.|P.Hibeh 26|Details from Grenfell.
-Arist. Rh. Al|ἢ ἄνθρώπων|ἢ ὑπ'ἄνθρώπων|Spengel|n.d.|P.Hibeh 26|Details from Grenfell.
-Arist. Rh. Al|τὸν τρόπον τοῦτον|τοῦτον τὸν τρόπον|Spengel|n.d.|P.Hibeh 26|Details from Grenfell.
-Arist. Rh. Al|διέλωμεν|διέλθωμεν|Spengel|n.d.|P.Hibeh 26|Details from Grenfell.
-Arist. Rh. Al|νόμος|ὁ νόμος|Spengel|n.d.|P.Hibeh 26|Details from Grenfell.
-Arist. Rh. Al|περιττῶς|τριττῶς|Spengel|n.d.|P.Hibeh 26|Details from Grenfell.
+Arat. Phaen. 736|ἰοῦσα|ἄγουσα|Buttman|n.d.|BKT V/I 7503 + 7804|
+Arat. Phaen. 750|ἐμπλήσει|ἐμπλήσσει|Voss|n.d.|BKT V/I 7503 + 7804|
+Arat. Phaen. 870|φαίνονται|φαίνωνται|Voss|n.d.|BKT V/I 7503 + 7804|
+Arist. Rh. Al|ἴσασι/εἰδῶσι|τιμῶσι|Spengel|n.d.|P.Hib. I 26|
+Arist. Rh. Al|τὸ κατηγορούμενον|om.|Spengel|n.d.|P.Hib. I 26|
+Arist. Rh. Al|ἢ ἄνθρώπων|ἢ ὑπ'ἄνθρώπων|Spengel|n.d.|P.Hib. I 26|
+Arist. Rh. Al|τὸν τρόπον τοῦτον|τοῦτον τὸν τρόπον|Spengel|n.d.|P.Hib. I 26|
+Arist. Rh. Al|διέλωμεν|διέλθωμεν|Spengel|n.d.|P.Hib. I 26|
+Arist. Rh. Al|νόμος|ὁ νόμος|Spengel|n.d.|P.Hib. I 26|
+Arist. Rh. Al|περιττῶς|τριττῶς|Spengel|n.d.|P.Hib. I 26|
 BGU 1074|Οὐήρῳ|Σευήρῳ|Viereck|n.d.|P.Oxy. XXVII 2476|
 Bacchyl. 17.53|μ[ε κουρ]α|με νυμ[φα|Jurenka|1898|P.Oxy. VIII 1091|
 Bacchyl. 17.62|βαθείας| ἐκ βαθείας|Blass|1898|P.Oxy. VIII 1091|
