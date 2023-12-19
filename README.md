@@ -284,7 +284,7 @@ Pl. Tht. 152b12|αἰσθάνεσθαί|αἰσθάνεταί|Gottfried Faehse|n
 Plb. 11|καταβαίνοντες|καταβάσει|Reiske|1757-66|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|pap. adds προσβαίνοντες.
 Plb. 11.14.2|ἐμπειρίαν|τὴν τῶν ἡγουμένων ἐ.|Gronovius|s.xvii med.|P.Ryl. 60|
 Plb. 11.14.3|προθεῖναι|προσθ-|Scaliger|s.xvi/xvii|P.Ryl. 60|
-Plb. 11.15.5|ὡρακίτας|θωρακίτας|Ursinus|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
+Plb. 11.15.5|ὡρακίτας|θωρ-|Ursinus|1582|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
 Plb. 11.15.7|τέλος|θέρος|Causabon|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
 Plb. 11.16.1|ὑπάγειν|ἐπάγειν|Arcesius|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
 Plb. 11.16.2|τοὺς ὑπερδεξίους|τοὺς om.|Schweighäuser|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
