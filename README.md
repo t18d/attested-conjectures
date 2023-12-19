@@ -62,8 +62,8 @@ Alc. 19|τῷ προτέρῳ νεομω|τῳ π.'νέμῳ|Blass|n.d.|P.Oxy. X
 Alc. fr. 34|]ϲον|δεῦτέ μοι νᾶϲον|Gallavotti|n.d.|P.Mich. inv. 3498+3250b recto|δεῦτ̣[έ] μοι νᾶcον
 Anth. Pal. 5.217|γλυκεροὺς/γλυκεράς|Γλυκέρας|Scaliger|n.d.|P.Oxy. II 211|Conjecture in epigram verified by discovery of fr.
 Anth. Pal. 9.588|ἐπωμίδας|βραχείονας|Johannes Pierson|n.d.|P.Tebt. 3|Editor's details from Grenfell.
-Ap. Rhod. 3.745|ναῦται|ναυτίλοι|Porson|n.d.|P.Oxy. IV 690|ναυ]τίλοι
-Ap. Rhod. 3.909|κατὰ|μετὰ|Stephanus|n.d.|P.Oxy. IV 691|
+Ap. Rhod. 3.745|ναῦται|ναυτίλοι|Porson|s.xviii/xix|P.Oxy. IV 690|ναυ]τίλο̣ι
+Ap. Rhod. 3.909|κατὰ|μετὰ|Henri Estienne|n.d.|P.Oxy. IV 691|μ[
 Ar. Ach. 297|σύ μοι|μοι σὺ|Hermann|s.xviii/xix|P.Oxy. LXVI 4510|
 Ar. Ach. 323|γ' ἆρα|τἄρα|Elmsley|s.xviii/xix|P.Oxy. LXVI 4510|
 Ar. Ach. 325|δήξομαι γὰρ (vel γ' ἄρ') ὑμᾶς|δήξομἄρ' ὑμᾶς|Bentley|s.xviii in.|P.Oxy. LXVI 4510|
