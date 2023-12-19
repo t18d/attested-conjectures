@@ -98,7 +98,7 @@ Ar. Ran. 743|οἴμωζε|ᾤμωζε|Valckenaer|1757|Neap. II F 22 (Np1)|
 Ar. Vesp. 576|γράψομαι|γράφομαι|Brunck|n.d.|P.Oxy. XI 1374|
 Ar. Vesp. 790|ἐπέθηκε|ἐνέθηκε|Bergk|n.d.|P.Oxy. XI 1374|
 Ar. Vesp. 1132/5|ἀναλαβοῦ|ἀναβαλοῦ|Valckenaer|1757|B et Rpc|
-Ar. fr. 755|καὶ τῶν βελέκκων|βελέκκων|Kock|n.d.|P.Oxy. XV 1801|
+Ar. fr. 755|καὶ τῶν βελέκκων|βελέκκων|Theodor Kock|n.d.|P.Oxy. XV 1801|
 Arat. Phaen. 736|ἰοῦσα|ἄγουσα|Buttman|n.d.|BKT V/I 7503 + 7804|
 Arat. Phaen. 750|ἐμπλήσει|ἐμπλήσσει|Voss|n.d.|BKT V/I 7503 + 7804|
 Arat. Phaen. 870|φαίνονται|φαίνωνται|Voss|n.d.|BKT V/I 7503 + 7804|
