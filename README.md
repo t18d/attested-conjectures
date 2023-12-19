@@ -144,16 +144,16 @@ Charito 8.6.11|ἐπεκλύοντο|-κυλιοντο|D'Orville|1750|codex Theb
 Charito 8.6.12|-ριον|αργυρον|Hercher|1854|codex Thebanus|
 Charito 8.7.2|ὅτε|ποτε|Reiske|1750|codex Thebanus|
 Dem. 19.280|καὶ|del.|Dobree|n.d.O|P.Oxy. VIII 1094|Editor's details from Grenfell.
-Dem. Ep. 3.9|τὸ ὅσον|ὅσον|Blass|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
-Dem. Ep. 3.22|ἀγνώμοσι|ἀγνῶσι|Dobree|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
-Dem. Ep. 3.22|ἠδικεῖσθε/ἀδικεῖσθαι|ἀδικοῖσθε|Sauppe|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
-Dem. Ep. 3.25|οὐδεὶς ἂν|οὐδεὶς|Sauppe|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
-Dem. Ep. 3.27|τὴν|τιν'|Blass|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
-Dem. Ep. 3.28|δὲ|δ'ἐν|Reiske|1770-3|P.Brit.Mus. 133|
-Dem. Ep. 3.30|πατρώιος|πατρίους|Wolf|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
-Dem. Ep. 3.30|γενήσεσθαι|γενέσθαι|Fuhr|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
-Dem. Ep. 3.31|Εὔδικον/Εὔδημον|Εὐθύδικον|Blass|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
-Dem. Ep. 3.38|om.|ἐὰν|Bekker|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
+Dem. Ep. 3.9|τὸ ὅσον|ὅσον|Blass|n.d.|P.Lond.Lit. 130 (inv. 133)|
+Dem. Ep. 3.22|ἀγνώμοσι|ἀγνῶσι|Dobree|n.d.|P.Lond.Lit. 130 (inv. 133)|
+Dem. Ep. 3.22|ἠδικεῖσθε/ἀδικεῖσθαι|ἀδικοῖσθε|Sauppe|n.d.|P.Lond.Lit. 130 (inv. 133)|
+Dem. Ep. 3.25|οὐδεὶς ἂν|οὐδεὶς|Sauppe|n.d.|P.Lond.Lit. 130 (inv. 133)|
+Dem. Ep. 3.27|τὴν|τιν'|Blass|n.d.|P.Lond.Lit. 130 (inv. 133)|
+Dem. Ep. 3.28|δὲ|δ'ἐν|Reiske|1770-3|P.Lond.Lit. 130 (inv. 133)|
+Dem. Ep. 3.30|πατρώιος|πατρίους|Wolf|n.d.|P.Lond.Lit. 130 (inv. 133)|
+Dem. Ep. 3.30|γενήσεσθαι|γενέσθαι|Fuhr|n.d.|P.Lond.Lit. 130 (inv. 133)|
+Dem. Ep. 3.31|Εὔδικον/Εὔδημον|Εὐθύδικον|Blass|n.d.|P.Lond.Lit. 130 (inv. 133)|
+Dem. Ep. 3.38|om.|ἐὰν|Bekker|n.d.|P.Lond.Lit. 130 (inv. 133)|
 Dem. Prooem. 26|κοιῶς|κοινῶν|Wolf|1812|P.Oxy. I 26|
 Din. 1.109|ἐλεήϲετε|ε̣λ̣ε̣ηϲαιτε|P. P. Dobree|1831|P.Oxy. XLIX 3436|
 Din. 3.21|καταλλάξαϲθαι|ἀντικαταλλ-|G. A. Hirschig|1850|P.Oxy. XLIX 3437|Philologue 5 (1850) 326—328
@@ -196,12 +196,12 @@ Hes. Th. 656|ὅτι|ὅ τοι|Hermann|n.d.|P.Ryl. 54|Editor's details from Gre
 Hes. Th. 768|habent|del.|Wolf|n.d.|P.Oxy. XXXII 2648|Verse interpolated from Od. 10.533 (= 11. 46); omitted here and by Wolf.
 Hom. Il. 5.667|ἀμφιέποντες|αμ]φις έποιτ[ες|Brandreth|1841|P.Oxy. IV 759|
 Hom. Il. 6.493|πᾶσιν ἐμοὶ δὲ μάλιστα τοὶ Ἰλίῳ|πασι μαλιστα δ εμοι τοι Ιλιωι|C. A. J. Hoffmann|s.xix med.|P.Oxy. III 445|
-Hom. Il. 12.449|εἰσ'· ὃ δέ μιν ῥέα|ει[σιν ο δε]ρρεα|Nauck|1877|P.Lit.Lond. 251 + P.Harr. I 36|
+Hom. Il. 12.449|εἰσ'· ὃ δέ μιν ῥέα|ει[σιν ο δε]ρρεα|Nauck|1877|P.Lond.Lit. 251 + P.Harr. I 36|
 Hom. Il. 13.742|ἤ κεν ἐνὶ|ηε κεν εν|Ahrens|1843|P.Amh. inv. G 202|Rh. Mus. 2 (1843) 170
 Hom. Il. 17.89|ἀσβέστωι|ἀσβέτωι|Ludwich|1916|P.Berol. inv. 16007|Rh. Mus. 71 (1916) 211
 Hom. Il. 23.198|ὠκέα δ'|ὦκα δὲ|Bentley|1730s|P.Grenf. II 4|
 Hom. Il. 23.535|δ᾽ ἐν ᾿Αργείοις|δ]᾽ εν Αχαιοισιν|Nauck|1877|BKT V/I 5|
-Hom. Il. 24.192|κεχάνδει|κεχ]όνδει|August Fick|1886|P.Lit.Lond. 27|
+Hom. Il. 24.192|κεχάνδει|κεχ]όνδει|August Fick|1886|P.Lond.Lit. 27|
 Hom. Od. 5.8|καὶ|μηδ’|Nauck|1874|P.Tebt. III/I 697|
 Hom. Od. 10.10|αὐλῆ(ι)|αὐδῆι|Nitzsch|1826–1840|P.Oxy. XLIX 3441|αυδη[]
 Hom. Od. 10.19|δῶκε δέ μοι ἐκδ-|δῶκέ μοι ἐκδείρας|Voss|pre-1782|P. Oxy. XLIX 3441|
@@ -268,7 +268,7 @@ Pi. O. 2.76|γᾶς|μέγας|Jan Cornelis de Pauw|1747|P.Oxy. XVII 2092|
 Pi. O. 6.77|ὄροις|ὄρος|Zacharias Callierges|1515|P.Oxy. XIII 1614|
 Pi. Pae. 9.1|ἐμῆς θεῶ μ'ἄτερ|μήσεαι ὦ μᾶτερ|Blass|n.d.|P.Oxy. V 841|Confirmed by metre; Bergk's ἐμήσαο also possible.
 Pi. Pae. 9.4|ἰσχὺν πτανὸν (ἀν)δράσιν|ἰσχύν τ'ἀνδράσι(ν)|Blass|n.d.|P.Oxy. V 841|
-Pl. Phd. 82e|τῳ δεδέσθαι|τοῦ δεδέσθαι|Heindorf|1810|P.Lond.Lit. 145 = Pap. 488|
+Pl. Phd. 82e|τῳ δεδέσθαι|τοῦ δεδέσθαι|Heindorf|1810|P.Lond.Lit. 145 (inv. 488)|
 Pl. Phdr. 228b|πάνυ τις|πάνυ τι|Schanz|n.d.|P.Oxy. VII 1016|Editor's details from Grenfell.
 Pl. Phdr. 239a|τῶν|τοῖς|Heindorf|n.d.|P.Oxy. VII 1017|Editor's details from Grenfell.
 Pl. Phdr. 251a|δεδίει/δεδιείη|ἐδεδίει|Cobet|s.xix ex.|P.Oxy. VII 1017|Editor's details from Grenfell.
