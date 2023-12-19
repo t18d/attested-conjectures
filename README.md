@@ -281,13 +281,13 @@ Pl. Smp. 209a|κυεῖν|τεκεῖν|Hug|n.d.|P.Oxy. VI 843|
 Pl. Smp. 209b|ἐπιθυμεῖ|επιθυμη|Henri Estienne|1578|P.Oxy. V 843|
 Pl. Smp. 222d|διαβάλῃ|διαβαλει|R. B. Hirschig|s.xix med.|P.Oxy. V 843|
 Pl. Tht. 152b12|αἰσθάνεσθαί|αἰσθάνεταί|Gottfried Faehse|n.d.|BKT II|ἐστιν om.
-Plb. 11|καταβαίνοντες|καταβάσει|Reiske|1757-66|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|pap. adds προσβαίνοντες.
 Plb. 11.14.2|ἐμπειρίαν|τὴν τῶν ἡγουμένων ἐ.|Gronovius|s.xvii med.|P.Ryl. 60|
 Plb. 11.14.3|προθεῖναι|προσθ-|Scaliger|s.xvi/xvii|P.Ryl. 60|
 Plb. 11.15.5|ὡρακίτας|θωρ-|Ursinus|1582|P.Berol. inv. 9570|
 Plb. 11.15.7|τέλος|θέρος|Causabon|1609|P.Ryl. 60|
-Plb. 11.16.1|ὑπάγειν|ἐπάγ-|Arcesius|1613|P.Berol. inv. 9570|ad Aelian. Tact. 32 p. 152
-Plb. 11.16.2|τοὺς ὑπερδεξίους|τοὺς om.|Schweighäuser|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
+Plb. 11.16.1|ὑπάγειν|ἐπάγ-|Arcerius|1613|P.Berol. inv. 9570|ad Aelian. Tact. 32 p. 152
+Plb. 11.16.2|καταβαίνοντες|καταβάσει|Reiske|1757-66|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|pap. adds προσβαίνοντες.
+Plb. 11.16.2|πρὸς τοὺς|τοὺς|Johann Schweighäuser|n.d.|P.Berol. inv. 9570|
 Plb. 11.16.3|om.|γὰρ|Causabon|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
 Plb. 11.16.5-6|προειρημένον|τὸ προειρημένον|Causabon|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
 Plb. 11.16.5-6|τὴν δυσχρήστην|τὸ δύσχρηστον|Causabon|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
