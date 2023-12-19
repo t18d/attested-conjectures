@@ -286,9 +286,9 @@ Plb. 11.14.3|προθεῖναι|προσθ-|Scaliger|s.xvi/xvii|P.Ryl. 60|
 Plb. 11.15.5|ὡρακίτας|θωρ-|Ursinus|1582|P.Berol. inv. 9570|
 Plb. 11.15.7|τέλος|θέρος|Causabon|1609|P.Ryl. 60|
 Plb. 11.16.1|ὑπάγειν|ἐπάγ-|Sixtus Arcerius|1613|P.Berol. inv. 9570|ad Aelian. Tact. 32 p. 152
-Plb. 11.16.2|πρὸς τοὺς|τοὺς|Johann Schweighäuser|1795|P.Berol. inv. 9570|
-Plb. 11.16.4|προειρημένον|τὸ προειρημένον|Causabon|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
-Plb. 11.16.5-6|τὴν δυσχρήστην|τὸ δύσχρηστον|Causabon|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
+Plb. 11.16.2|πρὸς τ.|τοὺς|Johann Schweighäuser|1795|P.Berol. inv. 9570|
+Plb. 11.16.4|προειρημένον|τὸ π.|Causabon|1609|P.Berol. inv. 9570|
+Plb. 11.16.5|τὴν δυσχρήστην|τὸ -τον|Causabon|1609|P.Berol. inv. 9570|
 Plb. 11.16.6|διαβάλλει|διαβαλεῖ|Scaliger|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
 Plb. 11.16.6 and 7|ἐμπορεῖα|ἐν πορείᾳ|Schweighäuser|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
 Plb. 28.2.4|om.|cυνεχωρηcεν|Friedrich Otto Hultsch|1889|P.Oxy. LXXXI 5267|Papyrus reads c]υνεχωρηc[ε; Hultsch supplies verb (omitted in MSS).
