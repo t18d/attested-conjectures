@@ -140,6 +140,8 @@ Charito 4.2.13|ἐμνημόνευσεν|εμνη]μονε[υ]σας|Reiske|1750
 Charito 8.5.12|ἔχειν|del.|Hercher|1854|codex Thebanus|spatium non sufficit in Theb.
 Charito 8.6.10|λειποψυχῶν|λιπ-|Cobet|1842|codex Thebanus|
 Charito 8.6.11|ἐπεκλύοντο|-κυλιοντο|D'Orville|1750|codex Thebanus|
+Charito 8.6.12|-ριον|αργυρον|Hercher|1854|codex Thebanus|
+Charito 8.7.2|ὅτε|ποτε|Reiske|1750|codex Thebanus|
 Dem. 19.280|καὶ|del.|Dobree|n.d.O|P.Oxy. VIII 1094|Editor's details from Grenfell.
 Dem. Ep. 3.9|τὸ ὅσον|ὅσον|Blass|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
 Dem. Ep. 3.22|ἀγνώμοσι|ἀγνῶσι|Dobree|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
