@@ -361,9 +361,9 @@ Soph. Trach. 825|ἀναδοχάν|ἀνακωχάν|Valckenaer|1743-6|Laur. 32.
 Soph. Trach. 977|γέρων|γέρον|Markland|s.xviii med.|a|
 Soph. Trach. 1136|μνωμένη|μωμένη|Benjamin Heath|s.xviii in.|P.Oxy. XV 1805 et Laur. 31.10 (K)|μωμ[
 Soph. fr. 294|ἐπισχολάζεται|κοὐκ ἔτι σχολάζεται|Meineke|n.d.|P.Oxy. IX 1174|
-Sor. Gyn. 2-3|Ἀθηναίων|Ἀθηνίων|Wellmann|n.d.|P.Soc.Ital. 117|Details from Grenfell.
-Sor. Gyn. 2-3|ἐν τῷ α καὶ γ τῆς αἱρέσεως|ἐν τῷ α καὶ γ τῶν περὶ τῆς αἱρέσεως|Rose|n.d.|P.Soc.Ital. 117|Details from Grenfell.
-Sor. Gyn. 2-3|καὶ Ζήνωνα καὶ Ἀριστοτέλην τὸν Ἐπικούριον|καὶ Ἀριστοτέλην καὶ Ζήνωνα τὸν Ἐπικούριον|Ermerins|n.d.|P.Soc.Ital. 117|Details from Grenfell.
+Sor. Gyn. 2-3|Ἀθηναίων|Ἀθηνίων|Wellmann|n.d.|PSI II 117|
+Sor. Gyn. 2-3|τῆς αἱρέσεως|τῶν περὶ τ. α.|Rose|n.d.|PSI II 117|
+Sor. Gyn. 2-3|Ζήνωνα ... Ἀριστοτέλην τὸν Ἐπικούριον|Ἀ. ... Ζ. τ. Ἐ.|Ermerins|n.d.|PSI II 117|
 Str. 9 fr. 14.i.20|οὔτε|οὐδέ|Meineke|n.d.|P.Oxy. XLIX 3447|Pap. reads οὐδ'
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. ε 424|Men. et Phil. p. 15
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
