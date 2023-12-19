@@ -377,7 +377,6 @@ Thuc. 7|δὴ|ἤδη|Gertz|n.d.|P.Oxy. XI 1376|Details from Grenfell.
 Thuc. 7|τε|om.|Hude|n.d.|P.Oxy. XI 1376|Details from Grenfell.
 Thuc. 7|ὅπως ἂν ἀπολισθάνοι|ἂν om.|Henrik van Herwerden|s.xix ex.|P.Oxy. XI 1376|Details from Grenfell.
 Thuc. 8.10|ἑπτὰ|ἐς ἑπτὰ|Westermann|n.d.|P.Oxy. X 1247|Editor's details from Grenfell.
-Thuc. 8.23.5|om.|Ἰώνων|Gertz|1925|P.Oxy. XVII 2100|Justified not confirmed by νεῶν -> ξυμμάχων at same place; year given is that of Hude's Teubner which adopts this conjecture.
 Thuc. 11.6|οὔτω|om.|Madvig|n.d.|P.Oxy. XIII 1621|Editor's details from Grenfell.
 Thuc. 11.9|ἡμῖν|ὑμῖν|Hude|n.d.|P.Oxy. VI 853 et XIII 1621|Editor's details from Grenfell.
 Thuc. 100.3|τοιc δε|αυ]τοις δε|Nattman|n.d.|P.Oxy. XLIX 3450|Borderline: spacing in papyrus would allow either reading.
