@@ -37,7 +37,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (47), Markland (40), Beza (25), Blass (24), Naber (18), Johannes Pierson (15), Bentley (15), Michelsen (15), Owen (14), and Hort (12).</p>
+<p>The top 10 critics are Valckenaer (47), Markland (40), Beza (25), Blass (23), Naber (18), Johannes Pierson (15), Bentley (15), Michelsen (15), Owen (14), and Hort (12).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -110,9 +110,8 @@ Arist. Rh. Al|διέλωμεν|διέλθωμεν|Spengel|n.d.|P.Hibeh 26|Detail
 Arist. Rh. Al|νόμος|ὁ νόμος|Spengel|n.d.|P.Hibeh 26|Details from Grenfell.
 Arist. Rh. Al|περιττῶς|τριττῶς|Spengel|n.d.|P.Hibeh 26|Details from Grenfell.
 BGU 1074|Οὐήρῳ|Σευήρῳ|Viereck|n.d.|P.Oxy. XXVII 2476|
-Bacchyl. 53|μ[ε κουρ]α|με νυμ[φα|Jurenka|n.d.|P.Oxy. VII 1091|
-Bacchyl. 62|κόσμον Βαθείας| κόσμον ἐκ βαθείας|Blass|n.d.|P.Oxy. VIII 1091|
-Bacchyl. 62-63|l.62 δικὼν θράσει σῶμα πατρὸς [ἐ]ς δόμους|l.63 δικὼν θράσει σῶμα πατρὸς [ἐ]ς δόμους|Blass|n.d.|P.Oxy. VIII 1091|End of l.62 is actually l.63.
+Bacchyl. 17.53|μ[ε κουρ]α|με νυμ[φα|Jurenka|1898|P.Oxy. VIII 1091|
+Bacchyl. 17.62|βαθείας| ἐκ βαθείας|Blass|1898|P.Oxy. VIII 1091|
 Bacchyl. fr. 1.11|αὐτὴ μέν/αὐτὰς μέν|αὐτίκα μέν|Kaibel|n.d.|P.Oxy. XI 1361|
 Callim. Hymn 2.2|οἷο δ'ὅλον|οἷον ὅλον|Unnamed|n.d.|P.Oxy. XX 2258|See P.Oxy.XX. p. 74 for details.
 Callim. Hymn 2.10|ἴδηι|ἴδεν|Unnamed|n.d.|P.Oxy. XX 2258|See P.Oxy. XX p. 74 for details.
