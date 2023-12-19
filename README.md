@@ -275,7 +275,7 @@ Pl. Smp. 209a|κυεῖν|τεκεῖν|Hug|n.d.|P.Oxy. VI 843|
 Pl. Smp. 209b|ἐπιθυμεῖ|επιθυμη|Henri Estienne|1578|P.Oxy. V 843|
 Pl. Smp. 222d|διαβάλῃ|διαβαλει|R. B. Hirschig|s.xix med.|P.Oxy. V 843|
 Pl. Tht. 152b12|αἰσθάνεσθαί|αἰσθάνεταί|Gottfried Faehse|n.d.|BKT II|ἐστιν om.
-Plb. 11. |καταβαίνοντες|καταβάσει|Reiske|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Details from Grenfell; pap. adds προσβαίνοντες.
+Plb. 11|καταβαίνοντες|καταβάσει|Reiske|1757-66|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Details from Grenfell; pap. adds προσβαίνοντες.
 Plb. 11. 14.2|προθεῖναι|προσθεῖναι|Scaliger|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
 Plb. 11. 14.2|ἐμπειρίαν|παρὰ τὴν τῶν ἡγουμένων ἐμπειρίαν|Gronovius|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
 Plb. 11. 15.5|ὡρακίτας|θωρακίτας|Ursinus|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
@@ -364,7 +364,7 @@ Sor. Gyn. 2-3|καὶ Ζήνωνα καὶ Ἀριστοτέλην τὸν Ἐπ
 Str. 9 fr. 14.i.20|οὔτε|οὐδέ|Meineke|n.d.|P.Oxy. XLIX 3447|Pap. reads οὐδ'
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. ε 424|Men. et Phil. p. 15
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
-Theoc. Id. 15.98|σπέρχιν/πέρχην|πέρυσιν|Reiske|n.d.|P.Oxy. XIII 1618|Paradosis corrupt; papyrus reads πέρυ]σιν; editor's details from Grenfell's article.
+Theoc. Id. 15.98|σπέρχιν/πέρχην|πέρυσιν|Reiske|s.xviii ex.|P.Oxy. XIII 1618|Paradosis corrupt; papyrus reads πέρυ]σιν; editor's details from Grenfell's article.
 Theoc. Id. 22.40|πεφύκασιν|πεφυκεσαν|Stephanus|n.d.|P.Oxy. XV 1806|
 Thuc. 1.110.4|Ἀθηναίων|Ἀθηνῶν|Bekker|1821|P.Oxy. XXXIV 2073|α[θη]ν̣ων
 Thuc. 4.37|ὅτι|del.|Henrik van Herwerden|s.xix ex.|P.Oxy. I 16 et IV 696|
