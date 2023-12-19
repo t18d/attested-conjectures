@@ -282,18 +282,18 @@ Pl. Smp. 209b|ἐπιθυμεῖ|επιθυμη|Henri Estienne|1578|P.Oxy. V 843
 Pl. Smp. 222d|διαβάλῃ|διαβαλει|R. B. Hirschig|s.xix med.|P.Oxy. V 843|
 Pl. Tht. 152b12|αἰσθάνεσθαί|αἰσθάνεταί|Gottfried Faehse|n.d.|BKT II|ἐστιν om.
 Plb. 11|καταβαίνοντες|καταβάσει|Reiske|1757-66|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|pap. adds προσβαίνοντες.
-Plb. 11. 14.2|προθεῖναι|προσθεῖναι|Scaliger|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
-Plb. 11. 14.2|ἐμπειρίαν|παρὰ τὴν τῶν ἡγουμένων ἐμπειρίαν|Gronovius|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
-Plb. 11. 15.5|ὡρακίτας|θωρακίτας|Ursinus|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
-Plb. 11. 15.7|τέλος|θέρος|Causabon|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
-Plb. 11. 16.1|ὑπάγειν|ἐπάγειν|Arcesius|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
-Plb. 11. 16.2|τοὺς ὑπερδεξίους|τοὺς om.|Schweighäuser|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
-Plb. 11. 16.3|om.|γὰρ|Causabon|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
-Plb. 11. 16.5-6|προειρημένον|τὸ προειρημένον|Causabon|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
-Plb. 11. 16.5-6|τὴν δυσχρήστην|τὸ δύσχρηστον|Causabon|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
-Plb. 11. 16.6|διαβάλλει|διαβαλεῖ|Scaliger|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
-Plb. 11. 16.6 and 7|ἐμπορεῖα|ἐν πορείᾳ|Schweighäuser|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
-Plb. 28. 2.4|om.|cυνεχωρηcεν|Friedrich Otto Hultsch|1889|P.Oxy. LXXXI 5267|Papyrus reads c]υνεχωρηc[ε; Hultsch supplies verb (omitted in MSS).
+Plb. 11.14.2|ἐμπειρίαν|τὴν τῶν ἡγουμένων ἐ.|Gronovius|s.xvii med.|P.Ryl. 60|
+Plb. 11.14.3|προθεῖναι|προσθ-|Scaliger|s.xvi/xvii|P.Ryl. 60|
+Plb. 11.15.5|ὡρακίτας|θωρακίτας|Ursinus|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
+Plb. 11.15.7|τέλος|θέρος|Causabon|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
+Plb. 11.16.1|ὑπάγειν|ἐπάγειν|Arcesius|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
+Plb. 11.16.2|τοὺς ὑπερδεξίους|τοὺς om.|Schweighäuser|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
+Plb. 11.16.3|om.|γὰρ|Causabon|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
+Plb. 11.16.5-6|προειρημένον|τὸ προειρημένον|Causabon|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
+Plb. 11.16.5-6|τὴν δυσχρήστην|τὸ δύσχρηστον|Causabon|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
+Plb. 11.16.6|διαβάλλει|διαβαλεῖ|Scaliger|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
+Plb. 11.16.6 and 7|ἐμπορεῖα|ἐν πορείᾳ|Schweighäuser|n.d.|Arch. f. Papyrusf. i. 388 + P.Ryl. 60|Editor's details from Grenfell.
+Plb. 28.2.4|om.|cυνεχωρηcεν|Friedrich Otto Hultsch|1889|P.Oxy. LXXXI 5267|Papyrus reads c]υνεχωρηc[ε; Hultsch supplies verb (omitted in MSS).
 Plu. Caes. 45.8|ταιc|αις|Moses Solanus|1729|P.Oxy. LXXXI 5270|
 Poet. Lyr. i. p.4|τὴν ογ΄ Ὀλυμπιάδα|τὴν ος΄ Ὀλυμπιάδα|Bergk|n.d.|P.Oxy. II 222|
 Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Bergk|1835|FP|κωϋ κεθέλουσα F: κ’ ώυ κ’ ἐθέλοις P
