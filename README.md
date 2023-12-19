@@ -43,8 +43,8 @@
 
 Ref.|Paradosis|Conjecture|Author|Year|Attested Place|Rem.
 ---|---|---|---|---|---|---
-Ach.Tat. Leuc. 2-9|τότε γὰρ τὸν Διόνυσον|τότε τὸν γὰρ Διόνυσον|Jacobs|n.d.|P.Oxy. X 1250|Details from Grenfell.
-Ach.Tat. Leuc. 2-9|προσέθιγεν|προσέθηκεν|Boden|n.d.|P.Oxy. X 1250|Details from Grenfell.
+Ach.Tat. L&C 2.2.1|γὰρ τὸν|τὸν γὰρ|Friedrich Jacobs|1821|P.Oxy. X 1250|
+Ach.Tat. L&C 2.9.2|-θιγεν|προσέθηκεν|B. G. L. Boden|1776|P.Oxy. X 1250|]ηκεν
 Aesch. PV 157|ἐπεγήθει/ἐπιγήθει|ἐγεγήθει|Valckenaer|s.xviii med.|Ambros. gr. G 56 (D) et Matrit. gr. 4677 (N)|
 Aeschin. Ctes. 20|καὶ τὴν ἐκεῖ σκυθρωπὸν|καὶ τῶν ἐκεῖ σκυθρωπῶν|Lambinus|n.d.|P.Oxy. XIII 1625|Editor's details from Grenfell.
 Aeschin. Ctes. 20|ἄγειν|ἄγει|Wolf|n.d.|P.Oxy. XIII 1625|Editor's details from Grenfell. 
