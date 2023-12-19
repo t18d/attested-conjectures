@@ -112,7 +112,7 @@ Arist. Rh. Al|περιττῶς|τριττῶς|Spengel|n.d.|P.Hibeh 26|Details 
 BGU 1074|Οὐήρῳ|Σευήρῳ|Viereck|n.d.|P.Oxy. XXVII 2476|
 Bacchyl. 17.53|μ[ε κουρ]α|με νυμ[φα|Jurenka|1898|P.Oxy. VIII 1091|
 Bacchyl. 17.62|βαθείας| ἐκ βαθείας|Blass|1898|P.Oxy. VIII 1091|
-Bacchyl. fr. 20B.11|αὐτὴ/αὐτὰς|αὐτίκα|Kaibel|n.d.|P.Oxy. XI 1361|αυτ̣ικ̣[.]
+Bacchyl. fr. 20B.11|αὐτὴ/αὐτὰς|αὐτίκα|Georg Kaibel|s.xix ex.|P.Oxy. XI 1361|αυτ̣ικ̣[.]
 Callim. Hymn 2.2|οἷο δ'ὅλον|οἷον ὅλον|Unnamed|n.d.|P.Oxy. XX 2258|See P.Oxy.XX. p. 74 for details.
 Callim. Hymn 2.10|ἴδηι|ἴδεν|Unnamed|n.d.|P.Oxy. XX 2258|See P.Oxy. XX p. 74 for details.
 Callim. Hymn 4.25|ὑπαὶ ῥιπῆς|ὑπ]ὸ ῥιπαῖς|Blomfield|n.d.|P.Oxy. XIX 2225|
