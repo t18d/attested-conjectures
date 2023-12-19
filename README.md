@@ -143,7 +143,7 @@ Dem. Ep. 3.22|ἀγνώμοσι|ἀγνῶσι|Dobree|n.d.|P.Brit.Mus. 133|Edito
 Dem. Ep. 3.22|ἠδικεῖσθε/ἀδικεῖσθαι|ἀδικοῖσθε|Sauppe|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
 Dem. Ep. 3.25|οὐδεὶς ἂν|οὐδεὶς|Sauppe|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
 Dem. Ep. 3.27|τὴν|τιν'|Blass|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
-Dem. Ep. 3.28|δὲ|δ'ἐν|Reiske|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
+Dem. Ep. 3.28|δὲ|δ'ἐν|Reiske|1770-3|P.Brit.Mus. 133|Editor's details from Grenfell.
 Dem. Ep. 3.30|πατρώιος|πατρίους|Wolf|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
 Dem. Ep. 3.30|γενήσεσθαι|γενέσθαι|Fuhr|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
 Dem. Ep. 3.31|Εὔδικον/Εὔδημον|Εὐθύδικον|Blass|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
@@ -155,7 +155,7 @@ Din. 3.22|om.|ψηφιϲμάτων|Eduard Maetzner|1842|P.Oxy. XLIX 3437|
 Epict. Diatr. 4.1.136|om.|εἰ|Hieronymus Wolf|1560|P.Cair.Mich. II 11|vel πότερον Wolf
 Eur. Hec. 580|λέγον|λέγων|Johannes Pierson|pre-1752|MB et V2 et iΣm|
 Eur. Hec. 931|Ἰλιάδα|Ἰλιάδος|Valckenaer|1749|K1c et PrRfRw|
-Eur. IT. 252|καὶ τυχόντες|κἀντυχόντες|Reiske|n.d.|P.Hibeh 24|Editor's details from Grenfell's article.
+Eur. IT. 252|καὶ τυχόντες|κἀντυχόντες|Reiske|1753-4|P.Hibeh 24|Editor's details from Grenfell's article.
 Eur. IT. 1618|τήνδε|τῆσδε|Bothe|n.d.|P.Hibeh 24|Editor's details from Grenfell's article.
 Eur. Med. 1180|δρομήμασιν|δραμήμασιν|Cobet|s.xix ex.|P.Oxy. XX 2337|
 Eur. Or. 239|δ' εἰς|φέροις|Valckenaer|1749|Laur. 32.2 (L) et Cantab. Nn. 3.14 (Z)|
