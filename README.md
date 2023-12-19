@@ -134,6 +134,7 @@ Charito 2.4.8|δὲ τίc|cέ τιc|Cobet|1842|P.Oxy. XLI 2948|
 Charito 2.4.8|τίνας|τίνα|Hercher|1854|P.Oxy. XLI 2948|
 Charito 2.4.9|αν επειθεν|ανεπειθ[εν|Hercher|1854|P.Oxy. XLI 2948|
 Charito 2.11.5|μᾶλλον οὐ|μαλλον η|C. D. Beck|1783|P.Michael. 1|
+Charito 4.2.8|τοσοῦτον|τουτον|F. L. Abresch|1753-5|P.Fay. 1|
 Dem. 19.280|καὶ|del.|Dobree|n.d.O|P.Oxy. VIII 1094|Editor's details from Grenfell.
 Dem. Ep. 3.9|τὸ ὅσον|ὅσον|Blass|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
 Dem. Ep. 3.22|ἀγνώμοσι|ἀγνῶσι|Dobree|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
