@@ -54,7 +54,7 @@ Aeschin. Ctes. 53|μὲν ἀληθῆ|ἀληθῆ μὲν|Cobet|s.xix ex.|P.Ox
 Aeschin. Ctes. 94|ὁρώντων|ζώντων|Georg Kaibel|s.xix ex.|P.Oxy. IV 703|ζων[
 Aeschin. Ctes. 167|-θίζει/-θεστήσῃ κτλ.|προσκαθιζήσει|Lobeck|s.xix in.|P.Oxy. III 457|προσκαθ[ιζ]ησ[ει
 Aeschin. Tim. 173|ἐξαιτήσ-|ἐξαιρήσεται|Blass|1896|P.Gen. I 256|
-Aeschin. Tim. 176|διισχυρίζεσθαι|ἰσχθυρίζεσθαι|Hieronymus Wolf|1572|P.Gen. I 256|
+Aeschin. Tim. 176|διισχ-|ἰσχθυρίζεσθαι|Hieronymus Wolf|1572|P.Gen. I 256|
 Aeschin. Tim. 177|νόμους μέν|μὲν νόμους|Cobet|s.xix ex.|P.Gen. I 256|
 Aeschin. Tim. 178|-γορούντων|κατηγόρων|Blass|1896|P.Gen. I 256|
 Aeschin. Tim. 178|πᾶσι τοῖς δικαίοις|πᾶσι δικαίοις|Joseph Anton Hillebrand|1868|P.Gen. I 256|
