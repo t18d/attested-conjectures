@@ -50,10 +50,10 @@ Aeschin. Ctes. 18|γέρα|ἱερὰ|P. P. Dobree|s.xviii/xix|P.Oxy. XIII 1625|
 Aeschin. Ctes. 18|γέρα|ἱερὰ|Hendrik Arent Hamaker|s.xviii/xix|P.Oxy. XIII 1625|ϊ[ε]ρα
 Aeschin. Ctes. 20|τὸν ... σκυθρωπὸν|τῶν ... σκυθρωπῶν|Denys Lambin|s.xvi med.|P.Oxy. XIII 1625|
 Aeschin. Ctes. 20|ἄγειν|ἄγει|Hieronymus Wolf|1572|P.Oxy. XIII 1625|
-Aeschin. Ctes. 53|μὲν ἀληθῆ|ἀληθῆ μὲν|Cobet|n.d.|P.Oxy. XXIV 2404|
-Aeschin. Ctes. 94|ὁρώντων|ζώντων|Kaibel|n.d.|P.Oxy. IV 703|
-Aeschin. Ctes. 167|προσκαθίζεις/προσκαθεστήσῃ|προσκαθιζήσει|Lobeck|n.d.|P.Oxy. III 457|προσκαθ[ιζ]ήσ[ει
-Aeschin. Tim.|τοὺς νόμους μὲν|τὸυς μὲν νόμους|Cobet|n.d.|P.Gen. I 256|
+Aeschin. Ctes. 53|μὲν ἀληθῆ|ἀληθῆ μὲν|Cobet|s.xix ex.|P.Oxy. XXIV 2404|
+Aeschin. Ctes. 94|ὁρώντων|ζώντων|Georg Kaibel|s.xix ex.|P.Oxy. IV 703|ζων[
+Aeschin. Ctes. 167|-θίζει/-θεστήσῃ κτλ.|προσκαθιζήσει|Lobeck|s.xix in.|P.Oxy. III 457|προσκαθ[ιζ]ήσ[ει
+Aeschin. Tim.|τοὺς νόμους μὲν|τὸυς μὲν νόμους|Cobet|s.xix ex.|P.Gen. I 256|
 Aeschin. Tim.|ἐπὶ πᾶσι τοῖς δικαίοις|τοῖς om.|Hillebrand|n.d.|P.Gen. I 256|
 Aeschin. Tim.|κατηγορούντων|κατηγόρων|Blass|n.d.|P.Gen. I 256|
 Aeschin. Tim. 173|ἐξαιτήσεται|ἐξαιρήσεται|Blass|n.d.|P.Gen. I 256|
