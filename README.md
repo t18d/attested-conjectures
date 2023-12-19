@@ -216,7 +216,7 @@ Men. Asp. 194|δ’ ειμαι vel δειμαι|δ’ ει με|Kassel|1969|P.Ox
 Men. Asp. 394|-ως|ασμενος|M. L. West|1966|B|Philologus 110 (1966) 157
 Men. Epit. 51|δέ|δή|Wilamowitz|n.d.|P.Oxy. XXXVIII 2829|
 Men. Epit. 385|ϲτριφνοϲ|ϲτιφ[ρο]ϲ̣[|Sandbach|1972|P.Oxy. LX 4022|
-Men. Epit. 476|συγγν[..]ης [..]ρως Lefebvre/συγγν . μην . ρων|συγγνώμ]ης [μέ]ρος|Jan van Leeuwen|n.d.|P.Oxy. X 1236|
+Men. Epit. 897|συγγν[..]ης [..]ρος|συγγν[ώμ]ης [μέ]ρος|Jan van Leeuwen|1908|P.Oxy. X 1236|
 Men. Her. fr. 2.2|δὲ δεῖ|δεῖ|Guil. Morelius|1553|P.Bour. 1|
 Men. Kol. 50|νῦν|νυνί|Grotius|s.xvii in.|P.Oxy. III 409|Eust.1833.58.; G. apud Clericum
 Men. Kon. fr. 1.2|ἴδηις|ειδηις|Meineke|1839-51|P.Berol. inv. 21312 b. c + P.Schub. 27|Men. et Phil. p. 103
