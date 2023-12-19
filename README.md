@@ -156,7 +156,7 @@ Eur. Hec. 580|λέγον|λέγων|Johannes Pierson|pre-1752|MB et V2 et iΣm|
 Eur. Hec. 931|Ἰλιάδα|Ἰλιάδος|Valckenaer|1749|K1c et PrRfRw|
 Eur. IT. 252|καὶ τυχόντες|κἀντυχόντες|Reiske|n.d.|P.Hibeh 24|Editor's details from Grenfell's article.
 Eur. IT. 1618|τήνδε|τῆσδε|Bothe|n.d.|P.Hibeh 24|Editor's details from Grenfell's article.
-Eur. Med. 1180|δρομήμασιν|δραμήμασιν|Cobet|n.d.|P.Oxy. XX 2337|
+Eur. Med. 1180|δρομήμασιν|δραμήμασιν|Cobet|s.xix ex.|P.Oxy. XX 2337|
 Eur. Or. 239|δ' εἰς|φέροις|Valckenaer|1749|Laur. 32.2 (L) et Cantab. Nn. 3.14 (Z)|
 Eur. Or. 294|ἀνακαλύπτ', ὦ|ἀνακαλύπτου|Valckenaer|1749|B2 et Tt1/2|
 Eur. Or. 329|απόφατιν|ἄπο φάτιν|Valckenaer|1749|RS et Prc|
@@ -201,8 +201,8 @@ Hom. Od. 10.19|δῶκε δέ μοι ἐκδ-|δῶκέ μοι ἐκδείρας
 Hom. Od. 11.393|ἔτ’ ἦν|εην|Nauck|1874|P. CtYBR inv. 5128|
 Hom. Od. 24.209|ἠδὲ ἴαυον|ἠδ’ ενϊαυον|Nauck|1874|P.Ryl. 53|
 Isoc. Ad Nic. 2|διοικοῖς|διοικῇς|Blass|1891|Pap. Massiliensis = CPF I.2 17|
-Isoc. Ad Nic. 8|ταῖς μοναρχίαις|τὰς μοναρχίας|Cobet|n.d.|Pap. Massiliensis = CPF I.2 17|Editor's details from Kenyon's article.
-Isoc. Paneg. 68|γε|ελαττω γε|Cobet|n.d.|P.Oxy. V 844|
+Isoc. Ad Nic. 8|ταῖς μοναρχίαις|τὰς μοναρχίας|Cobet|s.xix ex.|Pap. Massiliensis = CPF I.2 17|Editor's details from Kenyon's article.
+Isoc. Paneg. 68|γε|ελαττω γε|Cobet|s.xix ex.|P.Oxy. V 844|
 Logia Iesou 1.7-8|θαυμάσας|θαμβηβεὶς|Zahn|n.d.|P.Oxy. IV 654|Zahn: *Gesch. d. NT. Kan.* ii. p. 657; Zahn's conjecture is that a. θαμβηβεὶς b. that θαμβηβεὶς is a mistranslation of a Hebrew/Aramaic word also meaning θορυβηθείς and thus συντετριμμένης would be the right term; howver θαμβηθείς appears in the pap. and so this further conjecture is disproved.
 Men. Asp. 173|τ’ εμου|τ̣ι̣ μ̣[ου|E. W. Handley|1969|P.Oxy. LXI 4094|apud Austin ZPE 4 (1969) 162
 Men. Asp. 194|δ’ ειμαι vel δειμαι|δει με|Parsons|1969|P.Oxy. LXI 4094|apud Austin ZPE 4 (1969) 163
@@ -264,7 +264,7 @@ Pi. Pae. 9.4|ἰσχὺν πτανὸν (ἀν)δράσιν|ἰσχύν τ'ἀν
 Pl. Phd. 82e|τῳ δεδέσθαι|τοῦ δεδέσθαι|Heindorf|1810|P.Lond.Lit. 145 = Pap. 488|
 Pl. Phdr. 228b|πάνυ τις|πάνυ τι|Schanz|n.d.|P.Oxy. VII 1016|Editor's details from Grenfell.
 Pl. Phdr. 239a|τῶν|τοῖς|Heindorf|n.d.|P.Oxy. VII 1017|Editor's details from Grenfell.
-Pl. Phdr. 251a|δεδίει/δεδιείη|ἐδεδίει|Cobet|n.d.|P.Oxy. VII 1017|Editor's details from Grenfell.
+Pl. Phdr. 251a|δεδίει/δεδιείη|ἐδεδίει|Cobet|s.xix ex.|P.Oxy. VII 1017|Editor's details from Grenfell.
 Pl. Phdr. 356c|ἴσαι|αἱ ἴσαι|Heindorf|n.d.|P.Oxy. VII 1016|Confirmed by 1st hand but rejected by corrector; editor's details are from Grenfell.
 Pl. R. 547c|τό|[τω]ι|Burnet|n.d.|P.Oxy. XV 1808|
 Pl. Smp. 202a|καὶ|del.|Stallbaum|n.d.|P.Oxy. VI 843|
@@ -377,7 +377,7 @@ Thuc. 8.23.5|om.|Ἰώνων|Gertz|1925|P.Oxy. XVII 2100|Justified not confirmed
 Thuc. 11.6|οὔτω|om.|Madvig|n.d.|P.Oxy. XIII 1621|Editor's details from Grenfell.
 Thuc. 11.9|ἡμῖν|ὑμῖν|Hude|n.d.|P.Oxy. VI 853 et XIII 1621|Editor's details from Grenfell.
 Thuc. 100.3|τοιc δε|αυ]τοις δε|Nattman|n.d.|P.Oxy. XLIX 3450|Borderline: spacing in papyrus would allow either reading.
-Xen. Oec. 9.2|τῆς οἰκίας|τῆς γε οἰκίας|Cobet|n.d.|P.Oxy. II 227|Editor's details from Grenfell.
+Xen. Oec. 9.2|τῆς οἰκίας|τῆς γε οἰκίας|Cobet|s.xix ex.|P.Oxy. II 227|Editor's details from Grenfell.
 Xen. Oec. 9.2|ἑκάστῳ|ἐν ἑκάστῳ|Schneider|n.d.|P.Oxy. II 227|Editor's details from Grenfell.
 Matt 5:13 [22]|μωρανθῇ|μαρανθῇ|Naber|1881||[cj10730](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10730)
 Matt 5:19 [58]|οὗτος μέγας|οὕτως, μέγας|Markland|1739||[cj11195](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11195)
