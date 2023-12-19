@@ -127,9 +127,9 @@ Callim. fr. 209|Φωκείων|Φωκαέων|Valckenaer|n.d.|P.Oxy. XV 1793|
 Callim. frs. 502 + 172|γυνή|γύπῃ|Toup and Ruhnken|n.d.|P.Oxy. XVII 2080|
 Charito 2.3.5|ποθεν|ποδῶν|D'Orville|1750|P.Oxy. VII 1019|
 Charito 2.4.6|μή τις|μή τι|Cobet|1842|P.Oxy. XLI 2948|
-Charito 2.4.22|ἀπόλωλαc ὦ Λεωνᾶ|ἀπόλωλά|Zimmerman|1925|P.Oxy. XLI 2948|Zimmerman, *Philologus LXXX* (1925)
-Charito 2.4.33|δαίμων δὲ τίc|δαίμων cέ τιc|Cobet|n.d.|P.Oxy. XLI 2948|
-Charito 2.4.35|τίνας|τίνα|Hercher|n.d.|P.Oxy. XLI 2948|
+Charito 2.4.7|ἀπόλωλαc ὦ|ἀπόλωλά cοι|Zimmerman|1925|P.Oxy. XLI 2948|Philologus LXXX (1925); απολ]ωλ̣α̣ ϲ̣οι
+Charito 2.4.8|δὲ τίc|cέ τιc|Cobet|1842|P.Oxy. XLI 2948|
+Charito 2.4.8|τίνας|τίνα|Hercher|1854|P.Oxy. XLI 2948|
 Dem. 19.280|καὶ|del.|Dobree|n.d.O|P.Oxy. VIII 1094|Editor's details from Grenfell.
 Dem. Ep. 3.9|τὸ ὅσον|ὅσον|Blass|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
 Dem. Ep. 3.22|ἀγνώμοσι|ἀγνῶσι|Dobree|n.d.|P.Brit.Mus. 133|Editor's details from Grenfell.
