@@ -115,6 +115,7 @@ Bacchyl. 17.53|μ[ε κουρ]α|με νυμ[φα|H. Jurenka|1898|P.Oxy. VIII 10
 Bacchyl. 17.62|βαθείας| ἐκ βαθείας|Blass|1898|P.Oxy. VIII 1091|
 Bacchyl. fr. 20B.11|αὐτὴ/αὐτὰς|αὐτίκα|Georg Kaibel|s.xix ex.|P.Oxy. XI 1361|αυτ̣ικ̣[.]
 Call. Ap. 2|οἷο δ'|οἷον|Valckenaer|1799|P.Oxy. XX 2258|
+Call. Ap. 8 schol. Ψ|-ρευομ-|καθιερωμένων|Meineke|1861|Ambros. 734 (e)|
 Call. Ap. 10|ἴδη|ἴδεν|C. J. Blomfield|1815|P.Oxy. XX 2258|]δεν
 Call. Cer. 86|om. vel ἀμέλγει|ἀμιθρεῖ|David Ruhnken|1761|P.Oxy. XIX 2226|
 Call. Cer. 86|om. vel ἀμέλγει|ἀμιθρεῖ|Valckenaer|1799|P.Oxy. XIX 2226|
@@ -124,7 +125,7 @@ Call. Del. 25|ὑπαὶ ῥιπῆς|ὑπ]ὸ ῥιπαῖς|C. J. Blomfield|1
 Call. Del. 158|ὑπ᾽ ὀμ-|ὑφ᾽ ὁμοκλῆς|Janus Lascaris|1496|P.Oxy. XIX 2225|υφομ[
 Call. Del. 159|πανσυ-|πασσυδίῃ|Janus Lascaris|1496|P.Oxy. XIX 2225|
 Call. Dian. 70|-ύσεται|μορμύσσεται|Janus Lascaris|1496|P.Ant. I 20|
-Call. Lav.Pall. 117|ἐ.|δ᾽ ἐρέει|Bergk|s.xix med.|Paris. Gr. 2763|
+Call. Lav.Pall. 117|ἐ.|δ᾽ ἐρέει|Bergk|s.xix med.|Paris. Gr. 2763 (E)|
 Call. fr. 43.14|παραχρῆμ'|παρὰ χρέος|Naeke|1845|P.Oxy. XVII 2080|
 Call. fr. 43.16|ἀκουὰς|ἀκουαῖς|Bentley|1693|P.Oxy. XVII 2080|
 Call. fr. 43.64|γαιοδόται|γεωδαῖται|Bentley|1693|P.Oxy. XVII 2080|
