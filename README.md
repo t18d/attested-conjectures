@@ -39,7 +39,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (49), Markland (40), Beza (25), Blass (22), Naber (18), Johannes Pierson (15), Bentley (15), Michelsen (15), Owen (14), and Hort (12).</p>
+<p>The top 10 critics are Valckenaer (49), Markland (40), Beza (25), Blass (22), Naber (18), Bentley (16), Johannes Pierson (15), Michelsen (15), Owen (14), and Hort (12).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -127,6 +127,7 @@ Call. Del. 159|πανσυ-|πασσυδίῃ|Janus Lascaris|1496|P.Oxy. XIX 2225
 Call. Del. 179|καρπόν|καπνόν|Reiske|1757-66|P.Oxy. XIX 2225|
 Call. Dian. 61|μοχθίσσειαν|μυχ-|Meineke|1861|P.Ant. I 20|lemma
 Call. Dian. 70|-ύσεται|μορμύσσεται|Janus Lascaris|1496|P.Ant. I 20|
+Call. Jov. 80|σφι|σφε|Bentley|1693|P.Oxy. ined. A fr. 1 recto|
 Call. Lav.Pall. 52|μ᾽ οὐκ|μὴ οὐκ|Arnaldus|s.xviii in.|Paris. Gr. 2763 (E)|
 Call. Lav.Pall. 117|ἐ.|δ᾽ ἐρέει|Bergk|s.xix med.|Paris. Gr. 2763 (E)|
 Call. fr. 43.14|παραχρῆμ'|παρὰ χρέος|Naeke|1845|P.Oxy. XVII 2080|
