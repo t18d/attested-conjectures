@@ -203,7 +203,7 @@ Hom. Il. 23.198|ὠκέα δ'|ὦκα δὲ|Bentley|1730s|P.Grenf. II 4|
 Hom. Il. 23.535|δ᾽ ἐν ᾿Αργείοις|δ]᾽ εν Αχαιοισιν|Nauck|1877|BKT V/I 5|
 Hom. Il. 24.192|κεχάνδει|κεχ]όνδει|August Fick|1886|P.Lond.Lit. 27|
 Hom. Od. 5.8|καὶ|μηδ’|Nauck|1874|P.Tebt. III/I 697|
-Hom. Od. 10.10|αὐλῆ(ι)|αὐδῆι|Nitzsch|1826–1840|P.Oxy. XLIX 3441|αυδη[]
+Hom. Od. 10.10|αὐλῆ(ι)|αὐδῆι|Nitzsch|1826–40|P.Oxy. XLIX 3441|αυδη[]
 Hom. Od. 10.19|δῶκε δέ μοι ἐκδ-|δῶκέ μοι ἐκδείρας|Voss|pre-1782|P. Oxy. XLIX 3441|
 Hom. Od. 11.393|ἔτ’ ἦν|εην|Nauck|1874|P. CtYBR inv. 5128|
 Hom. Od. 24.209|ἠδὲ ἴαυον|ἠδ’ ενϊαυον|Nauck|1874|P.Ryl. 53|
@@ -235,7 +235,7 @@ Men. fr. 602.2|γε|τε|G. H. Schaefer|1817|P.Oxy. XLIX 3433|ad Brunck ΗΘΙΚ
 Men. fr. 602.5|ἐψευϲμένοϲ|ϲ' ἐψευϲμένοϲ|Grotius|1626|P.Oxy. XLIX 3433|Exc. p. 755
 Men. fr. 602.11|οἶκτον|ὄγκον|Friedrich Duebner|1938|P.Oxy. XLIX 3433|Menandri et Philemonis Fragmenta p. 54
 Men. fr. 602.18|λοιπόν|λυπηρόν|Wilamowitz|1876|P.Oxy. XLIX 3433|Herm. 11 (1876) 504
-Men. fr. 644|ἀπολόμ-|ἀπωλλύμεϲθα|Theodor Kock|1880-1888|Schol. V Ar. Av. 374|CAF
+Men. fr. 644|ἀπολόμ-|ἀπωλλύμεϲθα|Theodor Kock|1880-8|Schol. V Ar. Av. 374|CAF
 Nonn. Dion. 14.393|ἀκωκήν|κολώνην|Graefe|n.d.|P.Berol. inv. 10567|κορώνην
 Nonn. Dion. 14.398|πολυσταφύλῳ|φιλοσταφύλῳ|Graefe|n.d.|P.Berol. inv. 10567|
 Nonn. Dion. 15.87|οἰνηθέντες|οἰνωθεντες|Graefe|n.d.|P.Berol. inv. 10567|
