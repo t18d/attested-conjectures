@@ -39,7 +39,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (49), Markland (40), Beza (25), Blass (22), Naber (18), Bentley (16), Johannes Pierson (15), Michelsen (15), Owen (14), and Hort (12).</p>
+<p>The top 10 critics are Valckenaer (49), Markland (40), Beza (25), Blass (22), Naber (18), Bentley (17), Johannes Pierson (15), Michelsen (15), Owen (14), and Hort (12).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -142,6 +142,7 @@ Call. fr. 43.71|γυνή|γύπῃ|Jonathan Toup|s.xviii med.|P.Oxy. XVII 2080|E
 Call. fr. 178.33|ναυτιλίῃσιν ἥν|]λίης εἰ νῆιν|Nauck|s.xix ex.|P.Oxy. XI 1362|?
 Call. fr. 191.10|χάλκεον|Παγχαῖον|Bentley|1693|P.Oxy. XI 1363|
 Call. fr. 197.1|ὅπερ Φεραῖοϲ αἰνείων-|-αῖοϲαινίωνθὲοϲ|Wilamowitz|1905|P.Oxy. XVIII 2171|Herm. 40 p. 158
+Call. fr. 272|Δεκελ-|δ᾽ ἐκλειόθεν|Bentley|1693|Et.Gen.|
 Call. fr. 388.9|Φωκείων|Φωκαέων|Valckenaer|1799|P.Oxy. XV 1793|
 Call. fr. 407.92|ὀρνίθων|ὀρνέων|F. J. Bast|s.xviii/xix|Anon.Vat.|
 Charito 2.3.5|ποθεν|ποδῶν|D'Orville|1750|P.Oxy. VII 1019|
@@ -389,6 +390,7 @@ Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. ε 424|Men. e
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
 Theoc. Id. 15.98|σπέρχιν/πέρχην|πέρυσιν|Reiske|s.xviii ex.|P.Oxy. XIII 1618|πέρυ]σιν
 Theoc. Id. 22.40|πεφύκασιν|πεφυκεσαν|Stephanus|n.d.|P.Oxy. XV 1806|
+Theognost. p. 38 22|ἔαϲιν|ἐωϲιν|Dindorf|1864|cod. Barocc.|Thes.L.Gr. I/2 p. 9 C
 Thuc. 1.110.4|Ἀθηναίων|Ἀθηνῶν|Bekker|1821|P.Oxy. XXXIV 2073|α[θη]ν̣ων
 Thuc. 4.37|ὅτι|del.|Henrik van Herwerden|s.xix ex.|P.Oxy. I 16 et IV 696|
 Thuc. 5.97|καὶ τοῦ|τοῦ καὶ|Krüger|n.d.|P.Oxy. VI 880|
@@ -399,7 +401,7 @@ Thuc. 7|ὅπως ἂν ἀπολισθάνοι|ἂν om.|Henrik van Herwerden|s
 Thuc. 8.10|ἑπτὰ|ἐς ἑπτὰ|Westermann|n.d.|P.Oxy. X 1247|Editor's details from Grenfell.
 Thuc. 11.6|οὔτω|om.|Madvig|n.d.|P.Oxy. XIII 1621|Editor's details from Grenfell.
 Thuc. 11.9|ἡμῖν|ὑμῖν|Hude|n.d.|P.Oxy. VI 853 et XIII 1621|Editor's details from Grenfell.
-Thuc. 100.3|τοιc δε|αυ]τοις δε|Nattman|n.d.|P.Oxy. XLIX 3450|Borderline: spacing in papyrus would allow either reading.
+Thuc. 100.3|τοιϲ δε|αυ]τοιϲ δε|Nattman|n.d.|P.Oxy. XLIX 3450|Borderline: spacing in papyrus would allow either reading.
 Xen. Oec. 9.2|τῆς οἰκίας|τῆς γε οἰκίας|Cobet|s.xix ex.|P.Oxy. II 227|Editor's details from Grenfell.
 Xen. Oec. 9.2|ἑκάστῳ|ἐν ἑκάστῳ|Schneider|n.d.|P.Oxy. II 227|Editor's details from Grenfell.
 Matt 5:13 [22]|μωρανθῇ|μαρανθῇ|Naber|1881||[cj10730](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10730)
