@@ -65,6 +65,7 @@ Aeschin. Tim. 178|πᾶσι τοῖς δικαίοις|πᾶσι δικαίοι�
 Alc. fr. 34|]ϲον|δεῦτέ μοι νᾶϲον|C. Gallavotti|1947|P.Mich. inv. 3498 + 3250b recto|δεῦτ̣[έ] μοι νᾶcον
 Ap. Rhod. 3.745|ναῦται|ναυτίλοι|Porson|s.xviii/xix|P.Oxy. IV 690|ναυ]τίλο̣ι
 Ap. Rhod. 3.909|κατὰ|μετὰ|Henri Estienne|s.xvi ex.|P.Oxy. IV 691|μ[
+Ap. Rhod. 3.1226 schol.|ἠμφίεστο|ὑφέεστο|A. F. Naeke|1833-7|Laur. 32.9|
 Ar. Ach. 297|σύ μοι|μοι σὺ|Hermann|s.xviii/xix|P.Oxy. LXVI 4510|
 Ar. Ach. 323|γ' ἆρα|τἄρα|Elmsley|s.xviii/xix|P.Oxy. LXVI 4510|
 Ar. Ach. 325|δήξομαι γὰρ (vel γ' ἄρ') ὑμᾶς|δήξομἄρ' ὑμᾶς|Bentley|s.xviii in.|P.Oxy. LXVI 4510|
@@ -133,7 +134,7 @@ Call. Dian. 70|-ύσεται|μορμύσσεται|Janus Lascaris|1496|P.Ant. I
 Call. Jov. 80|σφι|σφε|Bentley|1693|P.Oxy. ined. A fr. 1 recto|
 Call. Lav.Pall. 52|μ᾽ οὐκ|μὴ οὐκ|Arnaldus|s.xviii in.|Paris. Gr. 2763 (E)|
 Call. Lav.Pall. 117|ἐ.|δ᾽ ἐρέει|Bergk|s.xix med.|Paris. Gr. 2763 (E)|
-Call. fr. 43.14|παραχρῆμ'|παρὰ χρέος|Naeke|1845|P.Oxy. XVII 2080|
+Call. fr. 43.14|παραχρῆμ'|παρὰ χρέος|A. F. Naeke|1845|P.Oxy. XVII 2080|
 Call. fr. 43.16|ἀκουὰς|ἀκουαῖς|Bentley|1693|P.Oxy. XVII 2080|
 Call. fr. 43.64|γαιοδόται|γεωδαῖται|Bentley|1693|P.Oxy. XVII 2080|
 Call. fr. 43.71|γυνή|γύπῃ|David Ruhnken|1761|P.Oxy. XVII 2080|
