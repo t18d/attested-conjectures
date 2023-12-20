@@ -149,7 +149,7 @@ Charito 2.4.5|ἐπυρφόρει|επυρπ̣ο[λει|Hercher|1854|P.Oxy. XLI 
 Charito 2.4.6|μή τις|μή τι|Cobet|1842|P.Oxy. XLI 2948|
 Charito 2.4.7|ἀπόλωλαc ὦ|ἀπόλωλά cοι|Zimmerman|1925|P.Oxy. XLI 2948|Philologus LXXX (1925); απολ]ωλ̣α̣ ϲ̣οι
 Charito 2.4.7|οὐδ' ... οὐδ'|ουτε ... ο[υ]τ̣[ε|Hercher|1854|P.Oxy. XLI 2948|
-Charito 2.4.8|δὲ τίc|cέ τιc|Cobet|1842|P.Oxy. XLI 2948|
+Charito 2.4.8|δὲ τίϲ|ϲέ τιϲ|Cobet|1842|P.Oxy. XLI 2948|
 Charito 2.4.8|τίνας|τίνα|Hercher|1854|P.Oxy. XLI 2948|
 Charito 2.4.9|αν επειθεν|ανεπειθ[εν|Hercher|1854|P.Oxy. XLI 2948|
 Charito 2.11.5|μᾶλλον οὐ|μαλλον η|C. D. Beck|1783|P.Michael. 1|
