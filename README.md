@@ -38,7 +38,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (48), Markland (40), Beza (25), Blass (22), Naber (18), Johannes Pierson (15), Bentley (15), Michelsen (15), Owen (14), and Hort (12).</p>
+<p>The top 10 critics are Valckenaer (48), Markland (40), Beza (24), Blass (22), Naber (18), Johannes Pierson (15), Bentley (15), Michelsen (15), Owen (14), and Hort (12).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -386,7 +386,7 @@ Xen. Oec. 9.2|τῆς οἰκίας|τῆς γε οἰκίας|Cobet|s.xix ex.|P
 Xen. Oec. 9.2|ἑκάστῳ|ἐν ἑκάστῳ|Schneider|n.d.|P.Oxy. II 227|Editor's details from Grenfell.
 Matt 5:13 [22]|μωρανθῇ|μαρανθῇ|Naber|1881||[cj10730](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10730)
 Matt 5:19 [58]|οὗτος μέγας|οὕτως, μέγας|Markland|1739||[cj11195](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11195)
-Matt 5:45 [20]|ὅτι|ὅστις|Beza|1556||[cj11200](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11200)
+Matt 5:45 [20]|ὅτι|ὅστις|Theodorus Beza|1556||[cj11200](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11200)
 Matt 6:24 [31]|ἐνός|τοῦ ἐνός|Markland|1772||[cj11202](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11202)
 Matt 7:6 [22]|ὑμῶν|om.|Blass|1901||[cj16275](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj16275)
 Matt 8:28 [22]|Γαδαρηνῶν|Γεργεσηνῶν|Origen| 248||[cj10148](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10148)
@@ -397,10 +397,10 @@ Matt 12:35 [37]|πονηρά|τὰ πονηρά|Markland|1772||[cj11218](https:/
 Matt 12:48 [10–12]|τῷ λέγοντι|om.|Holwerda|1860||[cj10613](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10613)
 Matt 15:31 [16–18]|κυλλοὺς ὑγιεῖς|om.|Erasmus|1516||[cj11222](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11222)
 Matt 21:7 [28]|ἐπεκάθισεν|ἐπεκάθησεν|Gerbel|1521||[cj12346](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj12346)
-Matt 21:41 [2–4]|λέγουσιν αὐτῷ|om.|Heinsius|1639||[cj11248](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11248)
+Matt 21:41 [2–4]|λέγουσιν αὐτῷ|om.|Daniel Heinsius|1639||[cj11248](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11248)
 Matt 22:28 [17]|τίνος τῶν ἑπτὰ ἔσται γυνή;|τίνος τῶν ἑπτὰ ἔσται ἡ γυνή;|Fritzsche|1826||[cj12353](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj12353)
 Matt 23:11 [10]|ἔσται|ἔστω|Schmidius|1637||[cj11255](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11255)
-Matt 23:14 [28]|καί|om.|Heinsius|1639||[cj11257](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11257)
+Matt 23:14 [28]|καί|om.|Daniel Heinsius|1639||[cj11257](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11257)
 Matt 23:35 [44–46]|υἱοῦ Βαραχίου|om.|Anonymous|1653||[cj11258](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11258)
 Matt 24:6 [20]|θροεῖσθε|θορυβεῖσθε|Naber|1878||[cj10753](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10753)
 Matt 25:9 [4]|δέ|om. Hombergk zu|Vach|1712||[cj11262](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11262)
@@ -429,7 +429,7 @@ Mark 9:7 [14]|καὶ ἐγένετο φωνή|καὶ φωνή|Michelsen|1867||
 Mark 9:18 [12]|ῥήσσει|ῥάσσει|Bois|1643||[cj11317](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11317)
 Mark 9:43 [54–62]|εἰς τὸ πῦρ τὸ ἄσβεστον|om.|Beza|1582||[cj11321](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11321)
 Mark 10:30 [20–44]|οἰκίας καὶ ἀδελφοὺς καὶ ἀδελφὰς καὶ μητέρας … μετὰ διωγμῶν|om.|Pearce|1774||[cj11325](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11325)
-Mark 10:30 [44]|διωγνῶν|διωγμόν|Heinsius|1639||[cj11783](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11783)
+Mark 10:30 [44]|διωγνῶν|διωγμόν|Daniel Heinsius|1639||[cj11783](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11783)
 Mark 10:36 [14]|[με] ποιήσω|ἵνα ποιήσω|Michelsen|1867||[cj10437](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10437)
 Mark 12:27 [5]|οὐκ ἔστιν θεὸς νεκρῶν|οὐκ ἔστιν ὁ θεὸς θεὸς νεκρῶν|Markland|1772||[cj10446](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10446)
 Mark 12:30 [36–46]|καὶ ἐξ ὅλης τῆς διανοίας σου|om.|Drusius|1588||[cj10513](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10513)
@@ -691,7 +691,7 @@ Rev 12:18 [4]|ἐστάθη|txt|Piscator|1613||[cj10560](https://ntvmr.uni-muens
 Rev 13:16 [44]|δῶσιν|δώσει Westcott &|Hort|1881||[cj10684](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10684)
 Rev 14:19 [40]|τὴν ληνόν|τὸν ληνόν Breunissen|Troost|1861||[cj12064](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj12064)
 Rev 15:3 [72]|ἐθνῶν|αἰώνων|Mill|1707||[cj15199](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj15199)
-Rev 18:3 [14–16]|τῆς πορνείας|om.|Zahn|1926||[cj10409](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10409)
+Rev 18:3 [14–16]|τῆς πορνείας|om.|Theodor Zahn|1926||[cj10409](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10409)
 Rev 18:17 [30]|τόπον|πόντον|Nestle|1897||[cj11174](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11174)
 Rev 18:21 [16]|μύλινον|μυλικόν|Junius|1642||[cj12073](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj12073)
 Rev 19:9 [44–46]|τοῦ θεοῦ|om.|Bousset|1896||[cj12133](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj12133)
