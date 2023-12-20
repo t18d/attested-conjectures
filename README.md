@@ -227,15 +227,15 @@ Men. Pk. 46|θ’ εαυτων|θ αυτων|W. G. Headlam|1908|P.Heid. G 219 + 
 Men. Pk. 46|θ’ εαυτων|θ αυτων|Jan van Leeuwen|1908|P.Heid. G 219 + 239 h|
 Men. Sam. 280|τουτον|τουτονϊ|Jan van Leeuwen|1908|P.Bodm. XXV + Pap. Barcinonensis inv. 45|
 Men. Sam. 588|μικρο̄|μικρα|Leo|1907|P.Bodm. XXV + Pap. Barcinonensis inv. 45|NGG (1907) 315–341
-Men. fr. 180.2|ἀρπάγην|ἀρπαγήν|Valckenaer|1739|Ph.Bybl. 28|Animad. p. 23
-Men. fr. 189.3|-άϲαϲαν|ἐπιπολάϲαν|Wilamowitz|1870|Phot. (z) α 2806|Obs. (diss. Berol.)
-Men. fr. 288|τε|δὲ|Meineke|1839-51|Schol. R Soph. OC 1375|FCG
-Men. fr. 454.2|εἰς τὴν ἕκτην (ἐπὶ δέκα)|ἕκτην ἐπὶ δέκα|Porson|s.xviii/xix|Ph.Bybl. 87|Misc. p. 253
-Men. fr. 740.2|γε|τε|G. H. Schaefer|1817|P.Oxy. XLIX 3433|ad Brunck ΗΘΙΚΗ ΠΟΙΗϹΙϹ (1817) p. 264
-Men. fr. 740.5|ἐψευϲμένοϲ|ϲ' ἐψευϲμένοϲ|Grotius|1626|P.Oxy. XLIX 3433|Exc. p. 755
-Men. fr. 740.11|οἶκτον|ὄγκον|Friedrich Duebner|1938|P.Oxy. XLIX 3433|Menandri et Philemonis Fragmenta p. 54
-Men. fr. 740.18|λοιπόν|λυπηρόν|Wilamowitz|1876|P.Oxy. XLIX 3433|Herm. 11 (1876) 504
-Men. fr. 767|ἀπολόμ-|ἀπωλλύμεϲθα|Theodor Kock|1880-1888|Schol. V Ar. Av. 374|CAF
+Men. fr. 158.2|ἀρπάγην|ἀρπαγήν|Valckenaer|1739|Ph.Bybl. 28|Animad. p. 23
+Men. fr. 167.3|-άϲαϲαν|ἐπιπολάϲαν|Wilamowitz|1870|Phot. (z) α 2806|Obs. (diss. Berol.)
+Men. fr. 248|τε|δὲ|Meineke|1839-51|Schol. R Soph. OC 1375|FCG
+Men. fr. 412.2|εἰς τὴν ἕκτην (ἐπὶ δέκα)|ἕκτην ἐπὶ δέκα|Porson|s.xviii/xix|Ph.Bybl. 87|Misc. p. 253
+Men. fr. 602.2|γε|τε|G. H. Schaefer|1817|P.Oxy. XLIX 3433|ad Brunck ΗΘΙΚΗ ΠΟΙΗϹΙϹ (1817) p. 264
+Men. fr. 602.5|ἐψευϲμένοϲ|ϲ' ἐψευϲμένοϲ|Grotius|1626|P.Oxy. XLIX 3433|Exc. p. 755
+Men. fr. 602.11|οἶκτον|ὄγκον|Friedrich Duebner|1938|P.Oxy. XLIX 3433|Menandri et Philemonis Fragmenta p. 54
+Men. fr. 602.18|λοιπόν|λυπηρόν|Wilamowitz|1876|P.Oxy. XLIX 3433|Herm. 11 (1876) 504
+Men. fr. 644|ἀπολόμ-|ἀπωλλύμεϲθα|Theodor Kock|1880-1888|Schol. V Ar. Av. 374|CAF
 Nonn. Dion. 14.393|ἀκωκήν|κολώνην|Graefe|n.d.|P.Berol. inv. 10567|κορώνην
 Nonn. Dion. 14.398|πολυσταφύλῳ|φιλοσταφύλῳ|Graefe|n.d.|P.Berol. inv. 10567|
 Nonn. Dion. 15.87|οἰνηθέντες|οἰνωθεντες|Graefe|n.d.|P.Berol. inv. 10567|
