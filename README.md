@@ -39,7 +39,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (49), Markland (40), Beza (25), Blass (22), Naber (18), Bentley (17), Johannes Pierson (15), Michelsen (15), Owen (14), and Hort (12).</p>
+<p>The top 10 critics are Valckenaer (49), Markland (40), Beza (25), Blass (22), Bentley (18), Naber (18), Johannes Pierson (15), Michelsen (15), Owen (14), and Hort (12).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -75,6 +75,7 @@ Ar. Ach. 917|θρυαλλίδας|θρυαλλίδα|Elmsley|n.d.|BKT V/II 231|
 Ar. Ach. 928|φορούμενος|φερόμενος|Brunck|n.d.|BKT V/II 231|
 Ar. Ach. 970|κιχλᾶν|κιχλῶν|Valckenaer|1757|Rav. 429 (R)|
 Ar. Av. 75|γὰρ/γὰρ ἅτ’|γ’ ἅτ’|Valckenaer|1757|Rav. 429 (R)|
+Ar. Av. 765 schol.|-φω|ἀναγράφει|Bentley|1693|cod. Ambr. M|
 Ar. Av. 1069|om.|πάνθ'|Ludolph Dissen|n.d.|P.Louvre ed. Weil = Austin 42|
 Ar. Av. 1080|πᾶσι|om.|Triclinius|s.xiv in.|P.Louvre ed. Weil = Austin 42|
 Ar. Av. 1314|καλεῖ|καλοῖ|Valckenaer|1757|Γ s.l. et Bp|
