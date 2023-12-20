@@ -126,6 +126,8 @@ Call. Del. 25|ὑπαὶ ῥιπῆς|ὑπ]ὸ ῥιπαῖς|C. J. Blomfield|1
 Call. Del. 158|ὑπ᾽ ὀμ-|ὑφ᾽ ὁμοκλῆς|Janus Lascaris|1496|P.Oxy. XIX 2225|υφομ[
 Call. Del. 159|πανσυ-|πασσυδίῃ|Janus Lascaris|1496|P.Oxy. XIX 2225|
 Call. Del. 179|καρπόν|καπνόν|Reiske|1757-66|P.Oxy. XIX 2225|
+Call. Dian. 16|-μάδας|ἐνδρομίδας|Janus Lascaris|1496|Et.Gen.|
+Call. Dian. 29|ὅτι|ὅτε|Janus Lascaris|1496|P.Mil.Vogl. II 42|
 Call. Dian. 61|μοχθίσσειαν|μυχ-|Meineke|1861|P.Ant. I 20|lemma
 Call. Dian. 70|-ύσεται|μορμύσσεται|Janus Lascaris|1496|P.Ant. I 20|
 Call. Jov. 80|σφι|σφε|Bentley|1693|P.Oxy. ined. A fr. 1 recto|
