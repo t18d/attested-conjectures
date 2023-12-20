@@ -38,7 +38,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (48), Markland (40), Beza (24), Blass (22), Naber (18), Johannes Pierson (15), Bentley (15), Michelsen (15), Owen (14), and Hort (12).</p>
+<p>The top 10 critics are Valckenaer (48), Markland (40), Beza (25), Blass (22), Naber (18), Johannes Pierson (15), Bentley (15), Michelsen (15), Owen (14), and Hort (12).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -386,7 +386,7 @@ Xen. Oec. 9.2|τῆς οἰκίας|τῆς γε οἰκίας|Cobet|s.xix ex.|P
 Xen. Oec. 9.2|ἑκάστῳ|ἐν ἑκάστῳ|Schneider|n.d.|P.Oxy. II 227|Editor's details from Grenfell.
 Matt 5:13 [22]|μωρανθῇ|μαρανθῇ|Naber|1881||[cj10730](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10730)
 Matt 5:19 [58]|οὗτος μέγας|οὕτως, μέγας|Markland|1739||[cj11195](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11195)
-Matt 5:45 [20]|ὅτι|ὅστις|Theodorus Beza|1556||[cj11200](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11200)
+Matt 5:45 [20]|ὅτι|ὅστις|Beza|1556||[cj11200](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11200)
 Matt 6:24 [31]|ἐνός|τοῦ ἐνός|Markland|1772||[cj11202](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11202)
 Matt 7:6 [22]|ὑμῶν|om.|Blass|1901||[cj16275](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj16275)
 Matt 8:28 [22]|Γαδαρηνῶν|Γεργεσηνῶν|Origen| 248||[cj10148](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10148)
