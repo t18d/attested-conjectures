@@ -121,8 +121,10 @@ Call. Cer. 86|om. vel ἀμέλγει|ἀμιθρεῖ|Valckenaer|1799|P.Oxy. XI
 Call. Cer. 93|ἶνες|ρινος|Valckenaer|1799|P.Oxy. XIX 2226|
 Call. Cer. 106|ἤδη|οὐδὲν|Bergk|s.xix med.|P.Oxy. XIX 2226|
 Call. Del. 25|ὑπαὶ ῥιπῆς|ὑπ]ὸ ῥιπαῖς|C. J. Blomfield|1815|P.Oxy. XIX 2225|
+Call. Del. 158|ὑπ᾽ ὀμ-|ὑφ᾽ ὁμοκλῆς|Janus Lascaris|1496|P.Oxy. XIX 2225|υφομ[
 Call. Del. 159|πανσυ-|πασσυδίῃ|Janus Lascaris|1496|P.Oxy. XIX 2225|
 Call. Dian. 70|-ύσεται|μορμύσσεται|Janus Lascaris|1496|P.Ant. I 20|
+Call. Lav.Pall. 117|ἐ.|δ᾽ ἐρέει|Bergk|s.xix med.|Paris. Gr. 2763|
 Call. fr. 43.14|παραχρῆμ'|παρὰ χρέος|Naeke|1845|P.Oxy. XVII 2080|
 Call. fr. 43.16|ἀκουὰς|ἀκουαῖς|Bentley|1693|P.Oxy. XVII 2080|
 Call. fr. 43.64|γαιοδόται|γεωδαῖται|Bentley|1693|P.Oxy. XVII 2080|
