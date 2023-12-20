@@ -38,7 +38,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (48), Markland (40), Beza (25), Blass (22), Naber (18), Johannes Pierson (15), Bentley (15), Michelsen (15), Owen (14), and Hort (12).</p>
+<p>The top 10 critics are Valckenaer (49), Markland (40), Beza (25), Blass (22), Naber (18), Johannes Pierson (15), Bentley (15), Michelsen (15), Owen (14), and Hort (12).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -113,9 +113,9 @@ BGU 1074|Οὐήρῳ|Σευήρῳ|Viereck|n.d.|P.Oxy. XXVII 2476|
 Bacchyl. 17.53|μ[ε κουρ]α|με νυμ[φα|H. Jurenka|1898|P.Oxy. VIII 1091|
 Bacchyl. 17.62|βαθείας| ἐκ βαθείας|Blass|1898|P.Oxy. VIII 1091|
 Bacchyl. fr. 20B.11|αὐτὴ/αὐτὰς|αὐτίκα|Georg Kaibel|s.xix ex.|P.Oxy. XI 1361|αυτ̣ικ̣[.]
-Callim. Hymn 2.2|οἷο δ'ὅλον|οἷον ὅλον|Unnamed|n.d.|P.Oxy. XX 2258|See P.Oxy.XX. p. 74 for details.
-Callim. Hymn 2.10|ἴδηι|ἴδεν|Unnamed|n.d.|P.Oxy. XX 2258|See P.Oxy. XX p. 74 for details.
-Callim. Hymn 4.25|ὑπαὶ ῥιπῆς|ὑπ]ὸ ῥιπαῖς|Blomfield|n.d.|P.Oxy. XIX 2225|
+Callim. Hymn 2.2|οἷο δ'|οἷον|Valckenaer|1799|P.Oxy. XX 2258|
+Callim. Hymn 2.10|ἴδη|ἴδεν|C. J. Blomfield|1815|P.Oxy. XX 2258|]δεν
+Callim. Hymn 4.25|ὑπαὶ ῥιπῆς|ὑπ]ὸ ῥιπαῖς|C. J. Blomfield|1815|P.Oxy. XIX 2225|
 Callim. Hymn 6.86|om. vel ἀμέλγει|ἀμιθρεῖ|David Ruhnken|1761|P.Oxy. XIX 2226|
 Callim. Hymn 6.86|om. vel ἀμέλγει|ἀμιθρεῖ|Valckenaer|1799|P.Oxy. XIX 2226|
 Callim. Hymn 6.93|ἶνες/ἴρις/ἶρις|ρινος|Valckenaer|1799|P.Oxy. XIX 2226|
