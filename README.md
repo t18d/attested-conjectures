@@ -39,7 +39,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (49), Markland (40), Beza (25), Blass (22), Bentley (18), Naber (18), Johannes Pierson (15), Michelsen (15), Owen (14), and Hort (12).</p>
+<p>The top 10 critics are Valckenaer (49), Markland (40), Beza (25), Blass (22), Bentley (19), Naber (18), Johannes Pierson (15), Michelsen (15), Owen (14), and Hort (12).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -144,6 +144,7 @@ Call. fr. 178.33|ναυτιλίῃσιν ἥν|]λίης εἰ νῆιν|Nauck|s
 Call. fr. 191.10|χάλκεον|Παγχαῖον|Bentley|1693|P.Oxy. XI 1363|
 Call. fr. 197.1|ὅπερ Φεραῖοϲ αἰνείων-|-αῖοϲαινίωνθὲοϲ|Wilamowitz|1905|P.Oxy. XVIII 2171|Herm. 40 p. 158
 Call. fr. 272|Δεκελ-|δ᾽ ἐκλειόθεν|Bentley|1693|Et.Gen.|
+Call. fr. 326|θανεῖν|θανέειν|Bentley|1693|'Zonar.' codd. Tittm.|
 Call. fr. 384.26|-ϲομ-|θηϲαμενω|Hunt|1922|P.Oxy. ined.|]ηϲαμενω[
 Call. fr. 388.9|Φωκείων|Φωκαέων|Valckenaer|1799|P.Oxy. XV 1793|
 Call. fr. 407.92|ὀρνίθων|ὀρνέων|F. J. Bast|s.xviii/xix|Anon.Vat.|
