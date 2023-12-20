@@ -114,20 +114,20 @@ BGU 1074|Οὐήρῳ|Σευήρῳ|Viereck|n.d.|P.Oxy. XXVII 2476|
 Bacchyl. 17.53|μ[ε κουρ]α|με νυμ[φα|H. Jurenka|1898|P.Oxy. VIII 1091|
 Bacchyl. 17.62|βαθείας| ἐκ βαθείας|Blass|1898|P.Oxy. VIII 1091|
 Bacchyl. fr. 20B.11|αὐτὴ/αὐτὰς|αὐτίκα|Georg Kaibel|s.xix ex.|P.Oxy. XI 1361|αυτ̣ικ̣[.]
-Callim. Hymn 2.2|οἷο δ'|οἷον|Valckenaer|1799|P.Oxy. XX 2258|
-Callim. Hymn 2.10|ἴδη|ἴδεν|C. J. Blomfield|1815|P.Oxy. XX 2258|]δεν
-Callim. Hymn 4.25|ὑπαὶ ῥιπῆς|ὑπ]ὸ ῥιπαῖς|C. J. Blomfield|1815|P.Oxy. XIX 2225|
-Callim. Hymn 6.86|om. vel ἀμέλγει|ἀμιθρεῖ|David Ruhnken|1761|P.Oxy. XIX 2226|
-Callim. Hymn 6.86|om. vel ἀμέλγει|ἀμιθρεῖ|Valckenaer|1799|P.Oxy. XIX 2226|
-Callim. Hymn 6.93|ἶνες/ἴρις/ἶρις|ρινος|Valckenaer|1799|P.Oxy. XIX 2226|
-Callim. Hymn 6.106|ἤδη|οὐδὲν|Bergk|n.d.|P.Oxy. XIX 2226|
-Callim. fr. 86.2|χάλχεον|Παγχαῖον|Bentley|n.d.|P.Oxy. XI 1363|
-Callim. fr. 106.3|παραχρῆμ'|παρὰ χρέος|Naeke|n.d.|P.Oxy. XVII 2080|
-Callim. fr. 106.4|ἀκουάς|ἀκουαῖς|Bentley|n.d.|P.Oxy. XVII 2080|
-Callim. fr. 111.2-4|ναυτιλίῃσιν ἥν|[ναυτι]λίης εἰ νῆιν|Nauck (εἰ) and Bentley (νῆιν)|n.d.|P.Oxy. XI 1362|
-Callim. fr. 158|γαιοδόται|γεωδαῖται|Bentley|n.d.|P.Oxy. XVII 2080|
-Callim. fr. 209|Φωκείων|Φωκαέων|Valckenaer|1799|P.Oxy. XV 1793|
-Callim. frs. 502 + 172|γυνή|γύπῃ|Toup and Ruhnken|n.d.|P.Oxy. XVII 2080|
+Call. Ap. 2|οἷο δ'|οἷον|Valckenaer|1799|P.Oxy. XX 2258|
+Call. Ap. 10|ἴδη|ἴδεν|C. J. Blomfield|1815|P.Oxy. XX 2258|]δεν
+Call. Cer. 86|om. vel ἀμέλγει|ἀμιθρεῖ|David Ruhnken|1761|P.Oxy. XIX 2226|
+Call. Cer. 86|om. vel ἀμέλγει|ἀμιθρεῖ|Valckenaer|1799|P.Oxy. XIX 2226|
+Call. Cer. 93|ἶνες/ἴρις/ἶρις|ρινος|Valckenaer|1799|P.Oxy. XIX 2226|
+Call. Cer. 106|ἤδη|οὐδὲν|Bergk|n.d.|P.Oxy. XIX 2226|
+Call. Del. 25|ὑπαὶ ῥιπῆς|ὑπ]ὸ ῥιπαῖς|C. J. Blomfield|1815|P.Oxy. XIX 2225|
+Call. fr. 86.2|χάλχεον|Παγχαῖον|Bentley|n.d.|P.Oxy. XI 1363|
+Call. fr. 106.3|παραχρῆμ'|παρὰ χρέος|Naeke|n.d.|P.Oxy. XVII 2080|
+Call. fr. 106.4|ἀκουάς|ἀκουαῖς|Bentley|n.d.|P.Oxy. XVII 2080|
+Call. fr. 111.2-4|ναυτιλίῃσιν ἥν|[ναυτι]λίης εἰ νῆιν|Nauck (εἰ) and Bentley (νῆιν)|n.d.|P.Oxy. XI 1362|
+Call. fr. 158|γαιοδόται|γεωδαῖται|Bentley|n.d.|P.Oxy. XVII 2080|
+Call. fr. 209|Φωκείων|Φωκαέων|Valckenaer|1799|P.Oxy. XV 1793|
+Call. frs. 502 + 172|γυνή|γύπῃ|Toup and Ruhnken|n.d.|P.Oxy. XVII 2080|
 Charito 2.3.5|ποθεν|ποδῶν|D'Orville|1750|P.Oxy. VII 1019|
 Charito 2.4.5|ἐπυρφόρει|επυρπ̣ο[λει|Hercher|1854|P.Oxy. XLI 2948|
 Charito 2.4.6|μή τις|μή τι|Cobet|1842|P.Oxy. XLI 2948|
