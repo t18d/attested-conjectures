@@ -141,6 +141,7 @@ Call. fr. 43.71|γυνή|γύπῃ|David Ruhnken|1761|P.Oxy. XVII 2080|
 Call. fr. 43.71|γυνή|γύπῃ|Jonathan Toup|s.xviii med.|P.Oxy. XVII 2080|Exeter
 Call. fr. 178.33|ναυτιλίῃσιν ἥν|]λίης εἰ νῆιν|Nauck|s.xix ex.|P.Oxy. XI 1362|?
 Call. fr. 191.10|χάλκεον|Παγχαῖον|Bentley|1693|P.Oxy. XI 1363|
+Call. fr. 197.1|ὅπερ Φεραῖοϲ αἰνείων-|-αῖοϲαἰνίωνθὲοϲ|Wilamowitz|1905|P.Oxy. XVIII 2171|Herm. 40 p. 158
 Call. fr. 388.9|Φωκείων|Φωκαέων|Valckenaer|1799|P.Oxy. XV 1793|
 Call. fr. 407.92|ὀρνίθων|ὀρνέων|F. J. Bast|s.xviii/xix|Anon.Vat.|
 Charito 2.3.5|ποθεν|ποδῶν|D'Orville|1750|P.Oxy. VII 1019|
