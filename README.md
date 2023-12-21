@@ -275,9 +275,8 @@ Orac. Sib. 516-517|516, 517|517, 516|Geffcken|n.d.|P.Flor. 398|Editor's details 
 P.Giss. 50.34|[|Σαλωνείνου Οὐαλεριανοῦ|Paul M. Meyer|1910|P.Oxy. X 1273|
 P.Lond. 256 recto(e) 10|[|ἀποχήν|Wilcken|1906|P.Oxy. VII 1024|χιρογρα̣φιαν Kenyon
 P.Lond. II 214.20|]νγραφα|ἔνγραφα|Wilcken|1901|P.Oxy. VIII 1121|συνγραφα Kenyon
-P.Mert. II 75||1(δραχμας) ις|||P.Oxy. XLIV 3166 l. 27|Fee confirmed as 12 drachmas.
 P.Oxy. II 266.15|[ἀν]αζυγήν|[δι]α-|Edgar-Hunt|1932|P.Oxy. XLIX 3491|Sel.Pap. I 7.15
-P.Oxy. II 384|τριω|τρι<sup>μ</sup>|H. C. Youtie|n.d.|P.Oxy. XXXVIII 2841|
+P.Oxy. II 384|τριω|τρι<sup>μ</sup>|Herbert C. Youtie|n.d.|P.Oxy. XXXVIII 2841|
 P.Oxy. VI 970|πρὸς ταῖς ἐπ̣ι̣σ̣κ(εφθείσαις)|πρὸς ταῖς ἐπισκέψεσι|Grenfell-Hunt|1908|P.Oxy. XLII 3046|
 P.Oxy. XIV 1659.42|Ἀντιπ(έρα) Πέλα|Ἀντιπέρα Πέλα|Grenfell-Hunt|1920|P.Oxy. XXVII 2473|
 P.Ryl. 652.10|ορ( )|ὁρρίοις|Roberts-Turner|1952|P.Oxy. XXIV 2408|
