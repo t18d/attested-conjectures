@@ -199,6 +199,7 @@ Eur. Ph. 134 schol.|εἰμὶ|εἶμι|Bentley|1693|Taur. B IV 13|
 Eur. Ph. 1040|ἰαζὰ|ἀχὰ|Samuel Musgrave|1778|P.Oxy. II 224|ἀχᾷ Π2
 Eur. Ph. 1040|πόλεως|πόλεος|Porson|1824|P.Oxy. II 224|
 Eur. Ph. 1132|βίαι|βάθρων|Adolf Kirchhoff|1855|T.Vindob. inv. G HT 6|
+Eur. T 1.IA.2-3|ἑταῖρος δὲ δοκεῖ|ἑταῖρος. δοκεῖ δὲ|Elmsley|1821|RwZc|
 Eur. fr. 653.4|ἄρα καί|χρῆν|Nauck|1855|P.Oxy. XLV 3214|Obs. 45 sq.
 Eur. fr. 912.1|χοήν|χλόην|Bergk|1839-41|P.Oxy. IX 1176|ap. Welcker 1602
 Eur. fr. 912.2|φέρων|φέρω|Grotius|1626|P.Oxy. IX 1176|φερ[.]
