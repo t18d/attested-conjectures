@@ -39,7 +39,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (49), Markland (40), Beza (25), Blass (22), Bentley (19), Naber (18), Johannes Pierson (15), Michelsen (15), Owen (14), and Hort (12).</p>
+<p>The top 10 critics are Valckenaer (49), Markland (40), Beza (25), Blass (22), Bentley (20), Naber (18), Johannes Pierson (15), Michelsen (15), Owen (14), and Hort (12).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -148,6 +148,7 @@ Call. fr. 326|θανεῖν|θανέειν|Bentley|1693|'Zonar.' codd. Tittm.|
 Call. fr. 384.26|-ϲομ-|θηϲαμενω|Hunt|1922|P.Oxy. ined.|]ηϲαμενω[
 Call. fr. 388.9|Φωκείων|Φωκαέων|Valckenaer|1799|P.Oxy. XV 1793|
 Call. fr. 407.92|ὀρνίθων|ὀρνέων|F. J. Bast|s.xviii/xix|Anon.Vat.|
+Call. fr. 621|εἰ μὴ vel εἶμι|εἰμὶ|Bentley|1693|schol. Eur. AB|
 Charito 2.3.5|ποθεν|ποδῶν|D'Orville|1750|P.Oxy. VII 1019|
 Charito 2.4.5|ἐπυρφόρει|επυρπ̣ο[λει|Hercher|1854|P.Oxy. XLI 2948|
 Charito 2.4.6|μή τις|μή τι|Cobet|1842|P.Oxy. XLI 2948|
