@@ -41,7 +41,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (49), Markland (40), Beza (25), Blass (22), Bentley (21), Naber (18), Johannes Pierson (15), Michelsen (15), Owen (14), and Hort (12).</p>
+<p>The top 10 critics are Valckenaer (49), Markland (40), Beza (25), Blass (21), Bentley (21), Naber (18), Johannes Pierson (15), Michelsen (15), Owen (14), and Hort (12).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -293,13 +293,12 @@ Philo Ebr. 222|μαρμάρζει|μαιμᾷ|Mangey|n.d.|P.Oxy. IX 1173|
 Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|P.Berol. inv. 16367|
 Pi. O. 2.76|γᾶς|μέγας|Jan Cornelis de Pauw|1747|P.Oxy. XVII 2092|
 Pi. O. 6.77|ὄροις|ὄρος|Zacharias Callierges|1515|P.Oxy. XIII 1614|
-Pi. Pae. 9.1|ἐμῆς θεῶ μ'ἄτερ|μήσεαι ὦ μᾶτερ|Blass|n.d.|P.Oxy. V 841|Confirmed by metre; Bergk's ἐμήσαο also possible.
 Pi. Pae. 9.4|ἰσχὺν πτανὸν (ἀν)δράσιν|ἰσχύν τ'ἀνδράσι(ν)|Blass|n.d.|P.Oxy. V 841|
 Pl. Phd. 82e|τῳ δεδέσθαι|τοῦ δεδέσθαι|Heindorf|1810|P.Lond.Lit. 145 (inv. 488)|
 Pl. Phdr. 228b|πάνυ τις|πάνυ τι|Schanz|n.d.|P.Oxy. VII 1016|Editor's details from Grenfell.
 Pl. Phdr. 239a|τῶν|τοῖς|Heindorf|n.d.|P.Oxy. VII 1017|Editor's details from Grenfell.
 Pl. Phdr. 251a|δεδίει/δεδιείη|ἐδεδίει|Cobet|s.xix ex.|P.Oxy. VII 1017|Editor's details from Grenfell.
-Pl. Phdr. 356c|ἴσαι|αἱ ἴσαι|Heindorf|n.d.|P.Oxy. VII 1016|Confirmed by 1st hand but rejected by corrector; editor's details are from Grenfell.
+Pl. Phdr. 356c|ἴσαι|αἱ ἴσαι|Heindorf|n.d.|P.Oxy. VII 1016|
 Pl. R. 547c|τό|[τω]ι|Burnet|n.d.|P.Oxy. XV 1808|
 Pl. Smp. 202a|καὶ|del.|Stallbaum|n.d.|P.Oxy. VI 843|
 Pl. Smp. 206c5|τῷ|del.|Badham|n.d.|P.Oxy. VI 843|
