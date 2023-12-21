@@ -64,7 +64,7 @@ Aeschin. Tim. 176|διισχ-|ἰσχθυρίζεσθαι|Hieronymus Wolf|1572|P
 Aeschin. Tim. 177|νόμους μέν|μὲν νόμους|Cobet|s.xix ex.|P.Gen. I 256|
 Aeschin. Tim. 178|-γορούντων|κατηγόρων|Blass|1896|P.Gen. I 256|
 Aeschin. Tim. 178|πᾶσι τοῖς δικαίοις|πᾶσι δικαίοις|Joseph Anton Hillebrand|1868|P.Gen. I 256|
-Alc. fr. 34|]ϲον|δεῦτέ μοι νᾶϲον|C. Gallavotti|1947|P.Mich. inv. 3498 + 3250b recto|δεῦτ̣[έ] μοι νᾶcον
+Alc. fr. 34|]ϲον|δεῦτέ μοι νᾶϲον|C. Gallavotti|1947|P.Mich. inv. 3498 + 3250b recto|δεῦτ̣[έ] μοι νᾶcον; Borges-Sampson (2012)
 Ap. Rhod. 3.745|ναῦται|ναυτίλοι|Porson|s.xviii/xix|P.Oxy. IV 690|ναυ]τίλο̣ι
 Ap. Rhod. 3.909|κατὰ|μετὰ|Henri Estienne|s.xvi ex.|P.Oxy. IV 691|μ[
 Ap. Rhod. 3.1226 schol.|ἠμφίεστο|ὑφέεστο|A. F. Naeke|1833-7|Laur. 32.9|Rh. Mus. 2-5
@@ -304,13 +304,13 @@ Pl. Smp. 222d|διαβάλῃ|διαβαλει|R. B. Hirschig|s.xix med.|P.Oxy. 
 Pl. Tht. 152b12|αἰσθάνεσθαί|αἰσθάνεταί|Gottfried Faehse|n.d.|BKT II|ἐστιν om.
 Plb. 11.14.2|ἐμπειρίαν|τὴν τῶν ἡγουμένων ἐ.|Gronovius|s.xvii med.|P.Ryl. 60|
 Plb. 11.14.3|προθεῖναι|προσθ-|Scaliger|s.xvi/xvii|P.Ryl. 60|
-Plb. 11.15.5|ὡρακίτας|θωρ-|Ursinus|1582|P.Berol. inv. 9570 = APF 1:388-95|Borges-Sampson (2012)
+Plb. 11.15.5|ὡρακίτας|θωρ-|Ursinus|1582|P.Berol. inv. 9570 = APF 1:388-95|
 Plb. 11.15.7|τέλος|θέρος|Causabon|1609|P.Ryl. 60|
-Plb. 11.16.1|ὑπάγειν|ἐπάγ-|Sixtus Arcerius|1613|P.Berol. inv. 9570 = APF 1:388-95|ad Aelian. Tact. 32 p. 152; Borges-Sampson (2012)
-Plb. 11.16.2|πρὸς τ.|τοὺς|Johann Schweighäuser|1795|P.Berol. inv. 9570 = APF 1:388-95|Borges-Sampson (2012)
-Plb. 11.16.5|προειρημένον|τὸ π.|Causabon|1609|P.Berol. inv. 9570 = APF 1:388-95|Borges-Sampson (2012)
-Plb. 11.16.6|τὴν δυσχρήστην|τὸ -τον|Causabon|1609|P.Berol. inv. 9570 = APF 1:388-95|Borges-Sampson (2012)
-Plb. 11.16.6|διαβάλλει|-βαλεῖ|Scaliger|s.xvi/xvii|P.Berol. inv. 9570 = APF 1:388-95|Borges-Sampson (2012)
+Plb. 11.16.1|ὑπάγειν|ἐπάγ-|Sixtus Arcerius|1613|P.Berol. inv. 9570 = APF 1:388-95|ad Aelian. Tact. 32 p. 152
+Plb. 11.16.2|πρὸς τ.|τοὺς|Johann Schweighäuser|1795|P.Berol. inv. 9570 = APF 1:388-95|
+Plb. 11.16.5|προειρημένον|τὸ π.|Causabon|1609|P.Berol. inv. 9570 = APF 1:388-95|
+Plb. 11.16.6|τὴν δυσχρήστην|τὸ -τον|Causabon|1609|P.Berol. inv. 9570 = APF 1:388-95|
+Plb. 11.16.6|διαβάλλει|-βαλεῖ|Scaliger|s.xvi/xvii|P.Berol. inv. 9570 = APF 1:388-95|
 Plb. 11.16.7|ἐμπορεία|ἐν πορείᾳ|Johann Schweighäuser|1795|P.Ryl. 60|
 Plb. 28.2.4|om.|ϲυνεχωρηϲεν|Friedrich Otto Hultsch|1889|P.Oxy. LXXXI 5267|ϲ]υνεχωρηϲ[ε
 Plu. Caes. 45.8|ταιc|αις|Moses Solanus|1729|P.Oxy. LXXXI 5270|
