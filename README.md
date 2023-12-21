@@ -202,6 +202,7 @@ Eur. Ph. 1040|ἰαζὰ|ἀχὰ|Samuel Musgrave|1778|P.Oxy. II 224|ἀχᾷ Π
 Eur. Ph. 1040|πόλεως|πόλεος|Porson|1824|P.Oxy. II 224|
 Eur. Ph. 1132|βίαι|βάθρων|Adolf Kirchhoff|1855|T.Vindob. inv. G HT 6|
 Eur. T 1.IA.2-3|ἑταῖρος δὲ δοκεῖ|ἑταῖρος. δοκεῖ δὲ|Elmsley|1821|RwZc|
+Eur. fr. 119+120.6|πατρος|πάτρας|Düntzer|1850|P.Oxy. XXXII 2628|Philologus 5 [1850] 186
 Eur. fr. 653.4|ἄρα καί|χρῆν|Nauck|1855|P.Oxy. XLV 3214|Obs. 45 sq.
 Eur. fr. 912.1|χοήν|χλόην|Bergk|1839-41|P.Oxy. IX 1176|ap. Welcker 1602
 Eur. fr. 912.2|φέρων|φέρω|Grotius|1626|P.Oxy. IX 1176|φερ[.]
@@ -288,7 +289,7 @@ Philo Ebr. 2|om.|τοῦ|Richter|n.d.|P.Oxy. IX 1173|[τ]ο̣υ
 Philo Ebr. 221|ἐπειδάν|ἐπειδάν δ'|Wendland|1897|P.Oxy. IX 1173|
 Philo Ebr. 221|οἰνηρεύσεις|οινηρυσει[ς|Turnebus|n.d.|P.Oxy. IX 1173|
 Philo Ebr. 222|μαρμάζει|μαιμᾷ|Mangey|n.d.|P.Oxy. IX 1173|μαιμαῑ
-Phot. α 448|ἄμπελον|ἄπεπλον|Leo|n.d.|z|
+Phot. α 448|ἄμπελον|ἄπεπλον|Leo|n.d.|z|Leo KI. Schr. 2,409 et Wil. Kl. Schr. 4,529
 Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|P.Berol. inv. 16367|
 Pi. O. 2.76|γᾶς|μέγας|Jan Cornelis de Pauw|1747|P.Oxy. XVII 2092|
 Pi. O. 6.77|ὄροις|ὄρος|Zacharias Callierges|1515|P.Oxy. XIII 1614|
