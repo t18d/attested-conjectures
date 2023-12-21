@@ -396,10 +396,10 @@ Theognost. p. 38 22|ἔαϲιν|ἐωϲιν|Dindorf|1864|cod. Barocc.|Thes.L.Gr.
 Thuc. 1.110.4|Ἀθηναίων|Ἀθηνῶν|Bekker|1821|P.Oxy. XXXIV 2073|α[θη]ν̣ων
 Thuc. 4.37|ὅτι|del.|Henrik van Herwerden|s.xix ex.|P.Oxy. I 16 et IV 696|
 Thuc. 5.97|καὶ τοῦ|τοῦ καὶ|Krüger|n.d.|P.Oxy. VI 880|
-Thuc. 7|στρατιὰς|στρατείας|Aemilius Portus|n.d.|P.Oxy. XI 1376|Details from Grenfell.
-Thuc. 7|δὴ|ἤδη|Gertz|n.d.|P.Oxy. XI 1376|Details from Grenfell.
+Thuc. 7|δὴ|ἤδη|Gertz|n.d.|P.Oxy. XI 1376|
 Thuc. 7|τε|om.|Hude|n.d.|P.Oxy. XI 1376|Details from Grenfell.
 Thuc. 7|ὅπως ἂν ἀπολισθάνοι|ἂν om.|Henrik van Herwerden|s.xix ex.|P.Oxy. XI 1376|Details from Grenfell.
+Thuc. 7.55.1|στρατιᾶς|στρατείας|Aemilius Portus|n.d.|P.Oxy. XI 1376|
 Thuc. 8.10|ἑπτὰ|ἐς ἑπτὰ|Westermann|n.d.|P.Oxy. X 1247|Editor's details from Grenfell.
 Thuc. 11.6|οὔτω|om.|Madvig|n.d.|P.Oxy. XIII 1621|Editor's details from Grenfell.
 Thuc. 11.9|ἡμῖν|ὑμῖν|Hude|n.d.|P.Oxy. VI 853 et XIII 1621|Editor's details from Grenfell.
