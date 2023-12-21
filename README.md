@@ -276,12 +276,11 @@ P.Giss. 50.34|[|Σαλωνείνου Οὐαλεριανοῦ|Paul M. Meyer|1910
 P.Lond. 256 recto(e) 10|[|ἀποχήν|Wilcken|1906|P.Oxy. VII 1024|χιρογρα̣φιαν Kenyon
 P.Lond. II 214.20|]νγραφα|ἔνγραφα|Wilcken|1901|P.Oxy. VIII 1121|συνγραφα Kenyon
 P.Oxy. II 266.15|[ἀν]αζυγήν|[δι]α-|Edgar-Hunt|1932|P.Oxy. XLIX 3491|Sel.Pap. I 7.15
-P.Oxy. II 384|τριω|τρι<sup>μ</sup>|Herbert C. Youtie|n.d.|P.Oxy. XXXVIII 2841|
+P.Oxy. II 384|τριω( )|τρι<sup>μ</sup>|Herbert C. Youtie|1971|P.Oxy. XXXVIII p. 45|P.Oxy. II p. 280
 P.Oxy. VI 970|πρὸς ταῖς ἐπ̣ι̣σ̣κ(εφθείσαις)|πρὸς ταῖς ἐπισκέψεσι|Grenfell-Hunt|1908|P.Oxy. XLII 3046|
 P.Oxy. XIV 1659.42|Ἀντιπ(έρα) Πέλα|Ἀντιπέρα Πέλα|Grenfell-Hunt|1920|P.Oxy. XXVII 2473|
 P.Ryl. 652.10|ορ( )|ὁρρίοις|Roberts-Turner|1952|P.Oxy. XXIV 2408|
-P.Tebt. 286.15|om.|ἱερεύς|Hunt|n.d.|P.Oxy. VIII 1092|
-PBeattyPanop. p. xvi||procurator Heptanomiae|Skeat|n.d.|P.Oxy. XLII 3031|
+P.Tebt. 286.15|om.|ἱερεύς|Hunt|1907|P.Oxy. VIII 1092|
 Philo Ebr. 2|τῆς ἀπαιδευσίας|τη]ν απαιδευσιαν|Turnebus & Wendland|n.d.|P.Oxy. IX 1173|
 Philo Ebr. 2|om.|τοῦ|Wendland with Richter|n.d.|P.Oxy. IX 1173|
 Philo Ebr. 219|ευπρεπεις|ευτρεπεις|Wendland|n.d.|P.Oxy. IX 1173|
