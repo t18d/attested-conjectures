@@ -148,7 +148,6 @@ Call. fr. 326|θανεῖν|θανέειν|Bentley|1693|'Zonar.' codd. Tittm.|
 Call. fr. 384.26|-ϲομ-|θηϲαμενω|Hunt|1922|P.Oxy. ined.|]ηϲαμενω[
 Call. fr. 388.9|Φωκείων|Φωκαέων|Valckenaer|1799|P.Oxy. XV 1793|
 Call. fr. 407.92|ὀρνίθων|ὀρνέων|F. J. Bast|s.xviii/xix|Anon.Vat.|
-Call. fr. 621|εἰ μὴ vel εἶμι|εἰμὶ|Bentley|1693|schol. Eur. AB|
 Charito 2.3.5|ποθεν|ποδῶν|D'Orville|1750|P.Oxy. VII 1019|
 Charito 2.4.5|ἐπυρφόρει|επυρπ̣ο[λει|Hercher|1854|P.Oxy. XLI 2948|
 Charito 2.4.6|μή τις|μή τι|Cobet|1842|P.Oxy. XLI 2948|
@@ -194,6 +193,7 @@ Eur. Or. 239|δ' εἰς|φέροις|Valckenaer|1749|Laur. 32.2 (L) et Cantab. 
 Eur. Or. 294|ἀνακαλύπτ', ὦ|ἀνακαλύπτου|Valckenaer|1749|B2 et Tt1/2|
 Eur. Or. 329|απόφατιν|ἄπο φάτιν|Valckenaer|1749|RS et Prc|
 Eur. Or. 1340|ἀλλ'|ἄγ'|Weil|n.d.|P.Oxy. XI 1370|
+Eur. Ph. 134 schol.|εἰμὶ|εἶμι|Bentley|1693|Taur. B IV 13|
 Eur. Ph. 1040|ἰαζὰ|ἀχὰ|Samuel Musgrave|1778|P.Oxy. II 224|ἀχᾷ Π2
 Eur. Ph. 1040|πόλεως|πόλεος|Porson|1824|P.Oxy. II 224|
 Eur. Ph. 1132|βίαι|βάθρων|Adolf Kirchhoff|n.d.|T.Vindob. inv. G HT 6|
