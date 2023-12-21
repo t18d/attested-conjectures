@@ -396,15 +396,14 @@ Theognost. p. 38 22|ἔαϲιν|ἐωϲιν|Dindorf|1864|cod. Barocc.|Thes.L.Gr.
 Thuc. 1.110.4|Ἀθηναίων|Ἀθηνῶν|Bekker|1821|P.Oxy. XXXIV 2073|α[θη]ν̣ων
 Thuc. 4.37|ὅτι|del.|Henrik van Herwerden|s.xix ex.|P.Oxy. I 16 et IV 696|
 Thuc. 5.97|καὶ τοῦ|τοῦ καὶ|Krüger|n.d.|P.Oxy. VI 880|
-Thuc. 7|δὴ|ἤδη|Gertz|n.d.|P.Oxy. XI 1376|
-Thuc. 7|τε|om.|Hude|n.d.|P.Oxy. XI 1376|Details from Grenfell.
-Thuc. 7|ὅπως ἂν ἀπολισθάνοι|ἂν om.|Henrik van Herwerden|s.xix ex.|P.Oxy. XI 1376|Details from Grenfell.
 Thuc. 7.55.1|στρατιᾶς|στρατείας|Aemilius Portus|n.d.|P.Oxy. XI 1376|
-Thuc. 8.10|ἑπτὰ|ἐς ἑπτὰ|Westermann|n.d.|P.Oxy. X 1247|Editor's details from Grenfell.
-Thuc. 11.6|οὔτω|om.|Madvig|n.d.|P.Oxy. XIII 1621|Editor's details from Grenfell.
-Thuc. 11.9|ἡμῖν|ὑμῖν|Hude|n.d.|P.Oxy. VI 853 et XIII 1621|Editor's details from Grenfell.
-Xen. Oec. 9.2|τῆς οἰκίας|τῆς γε οἰκίας|Cobet|s.xix ex.|P.Oxy. II 227|Editor's details from Grenfell.
-Xen. Oec. 9.2|ἑκάστῳ|ἐν ἑκάστῳ|Schneider|n.d.|P.Oxy. II 227|Editor's details from Grenfell.
+Thuc. 7.55.2|δὴ|ἤδη|Gertz|n.d.|P.Oxy. XI 1376|
+Thuc. 7.65.2|ἂν|del.|Henrik van Herwerden|s.xix ex.|P.Oxy. XI 1376|sed cf. Stahl Qu. Gr. p. 25
+Thuc. 8.10|ἑπτὰ|ἐς ἑπτὰ|Westermann|n.d.|P.Oxy. X 1247|
+Thuc. 11.6|οὔτω|om.|Madvig|n.d.|P.Oxy. XIII 1621|
+Thuc. 11.9|ἡμῖν|ὑμῖν|Hude|n.d.|P.Oxy. VI 853 et XIII 1621|
+Xen. Oec. 9.2|τῆς οἰκίας|τῆς γε οἰκίας|Cobet|s.xix ex.|P.Oxy. II 227|
+Xen. Oec. 9.2|ἑκάστῳ|ἐν ἑκάστῳ|Schneider|n.d.|P.Oxy. II 227|
 Matt 5:13 [22]|μωρανθῇ|μαρανθῇ|Naber|1881||[cj10730](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10730)
 Matt 5:19 [58]|οὗτος μέγας|οὕτως, μέγας|Markland|1739||[cj11195](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11195)
 Matt 5:45 [20]|ὅτι|ὅστις|Beza|1556||[cj11200](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11200)
