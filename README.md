@@ -69,7 +69,7 @@ Ap. Rhod. 3.745|ναῦται|ναυτίλοι|Porson|s.xviii/xix|P.Oxy. IV 690|
 Ap. Rhod. 3.909|κατὰ|μετὰ|Henri Estienne|s.xvi ex.|P.Oxy. IV 691|μ[
 Ap. Rhod. 3.1226 schol.|ἠμφίεστο|ὑφέεστο|A. F. Naeke|1833-7|Laur. 32.9|Rh. Mus. 2-5
 Ar. Ach. 297|σύ μοι|μοι σὺ|Hermann|s.xviii/xix|P.Oxy. LXVI 4510|
-Ar. Ach. 323|γ' ἆρα|τἄρα|Elmsley|1809|P.Oxy. LXVI 4510|
+Ar. Ach. 323|γ' ἆρα|τἄρα|Elmsley|1809|P.Oxy. LXVI 4510|E. was an heir
 Ar. Ach. 325|δήξομαι γὰρ (vel γ' ἄρ') ὑμᾶς|δήξομἄρ' ὑμᾶς|Bentley|s.xviii in.|P.Oxy. LXVI 4510|
 Ar. Ach. 401|σαφῶς|σοφῶς|Valckenaer|1757|Rav. 429 (R)|
 Ar. Ach. 912|δαὶ|δὲ|Bentley|n.d.|BKT V/II 231|
@@ -88,7 +88,7 @@ Ar. Eccl. 707|λαβούσας|λαβόντας|Valckenaer|1757|Rav. 429 (R) et 
 Ar. Eccl. 1124|ἔχει/ἔχοι|ἔχῃ|Valckenaer|1757|Perus. H 56 (Λ)|tacite
 Ar. Eq. 143|ἐξολῶν|ἐξελῶν|Valckenaer|1757|Rav. 429 (R) et sch.|V. cites the scholia
 Ar. Eq. 881|τηλικουτονί|τηλικοῦτον|Valckenaer|1757|Laur. 31.13 (X)|
-Ar. Eq. 1017|ἐκέλευσ'|ἐκελευ'|Frederick H. M. Blaydes|1882|P.Oxy. XI 1373|Christ Church
+Ar. Eq. 1017|ἐκέλευσ'|ἐκελευ'|Frederick H. M. Blaydes|1882|P.Oxy. XI 1373|
 Ar. Eq. 1058|φράσαι/φράζευ|φρασ]σαι|Brunck|1783|P.Oxy. XI 1373|
 Ar. Lys. 427|ἀλλ’|ἄλλ’|Valckenaer|1757|MS (Brunck 1781)|
 Ar. Nub. 507|μελιττοῦταν|μελιτοῦτταν|Valckenaer|s.xviii ex.|Laur. Conv. Soppr. 140|
