@@ -11,6 +11,8 @@
     <ul>
         <li>P.Oxy. I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XV, XVII, XIX, XX, XXII, XXIV, XXVI, XXVII, XXXII, XXXVIII, XLI, XLII, XLIV, XLV, XLIX, LXXXI</li>
         <li>Borges, Cassandra, and C. Michael Sampson, <em>New literary papyri from the Michigan collection: mythographic lyric and a catalogue of poetic first lines</em> (Ann Arbor, 2012), 20.</li>
+        <li>Callimachus, <em>Fragmenta</em>, ed. Rudolf Pfeiffer (Oxford, 1949).</li>
+        <li>Callimachus, <em>Hymni et Epigrammata</em>, ed. Rudolf Pfeiffer (Oxford, 1953).</li>
         <li>Callimachus, <em>The Hymns</em>, ed. Susan A. Stephens (Oxford, 2015).</li>
         <li>Chariton Aphrodisiensis, <em>De Callirhoe Narrationes Amatoriae</em>, ed. B. P. Reardon (Munich, 2004).</li> 
         <li>El-Maghrabi, M. G., and C. Römer (eds), <em>Texts from the "Archive" of Socrates, the Tax Collector, and Other Contexts at Karanis (P. Cair. Mich. II)</em> (Berlin, 2015), 48.</li>
