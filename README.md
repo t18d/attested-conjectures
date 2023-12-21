@@ -282,7 +282,7 @@ P.Oxy. XIV 1659.42|Ἀντιπ(έρα) Πέλα|Ἀντιπέρα Πέλα|Grenf
 P.Ryl. 652.10|ορ( )|ὁρρίοις|Roberts-Turner|1952|P.Oxy. XXIV 2408|
 P.Tebt. 286.15|om.|ἱερεύς|Hunt|1907|P.Oxy. VIII 1092|
 Philo Ebr. 2|om.|τοῦ|Richter|n.d.|P.Oxy. IX 1173|[τ]ο̣υ
-Philo Ebr. 221|ἐπειδάν|ἐπειδάν δὲ|Wendland|n.d.|P.Oxy. IX 1173|
+Philo Ebr. 221|ἐπειδάν|ἐπειδάν δ'|Wendland|1897|P.Oxy. IX 1173|
 Philo Ebr. 221|οἰνηρεύσεις|οινηρυσει[ς|Turnebus|n.d.|P.Oxy. IX 1173|
 Philo Ebr. 222|μαρμάρζει|μαιμᾷ|Mangey|n.d.|P.Oxy. IX 1173|
 Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|P.Berol. inv. 16367|
