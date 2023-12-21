@@ -74,7 +74,7 @@ Ar. Ach. 325|δήξομαι γὰρ (vel γ' ἄρ') ὑμᾶς|δήξομἄρ'
 Ar. Ach. 401|σαφῶς|σοφῶς|Valckenaer|1757|Rav. 429 (R)|
 Ar. Ach. 912|δαὶ|δὲ|Bentley|n.d.|BKT V/II 231|
 Ar. Ach. 917|θρυαλλίδας|θρυαλλίδα|Elmsley|n.d.|BKT V/II 231|
-Ar. Ach. 928|φορούμενος|φερόμενος|Brunck|n.d.|BKT V/II 231|
+Ar. Ach. 928|φορούμενος|φερόμενος|Brunck|1783|BKT V/II 231|
 Ar. Ach. 970|κιχλᾶν|κιχλῶν|Valckenaer|1757|Rav. 429 (R)|
 Ar. Av. 75|γὰρ/γὰρ ἅτ’|γ’ ἅτ’|Valckenaer|1757|Rav. 429 (R)|
 Ar. Av. 765 schol.|-φω|ἀναγράφει|Bentley|1693|cod. Ambr. M|
@@ -89,7 +89,7 @@ Ar. Eccl. 1124|ἔχει/ἔχοι|ἔχῃ|Valckenaer|1757|Perus. H 56 (Λ)|tac
 Ar. Eq. 143|ἐξολῶν|ἐξελῶν|Valckenaer|1757|Rav. 429 (R) et sch.|V. cites the scholia
 Ar. Eq. 881|τηλικουτονί|τηλικοῦτον|Valckenaer|1757|Laur. 31.13 (X)|
 Ar. Eq. 1017|ἐκέλευσ'|ἐκελευ'|Frederick H. M. Blaydes|1882|P.Oxy. XI 1373|Christ Church
-Ar. Eq. 1058|φράσαι/φράζευ|φρασ]σαι|Brunck|n.d.|P.Oxy. XI 1373|
+Ar. Eq. 1058|φράσαι/φράζευ|φρασ]σαι|Brunck|1783|P.Oxy. XI 1373|
 Ar. Lys. 427|ἀλλ’|ἄλλ’|Valckenaer|1757|MS (Brunck 1781)|
 Ar. Nub. 507|μελιττοῦταν|μελιτοῦτταν|Valckenaer|s.xviii ex.|Laur. Conv. Soppr. 140|
 Ar. Pax 1013|ἀποχειρωθείς|ἀποχηρωθείς|Valckenaer|1757|Marc. gr. 474 (V)|
@@ -100,7 +100,7 @@ Ar. Ran. 269|τῷ κωπίῳ|τὼ κωπίω|Valckenaer|1757|Matrit. 4683|
 Ar. Ran. 673|ποιῆσαι|νοῆσαι|Valckenaer|1757|Marc. gr. 474 (V)|
 Ar. Ran. 690|ἐγγενέσθαι|ἐκγένεσθαι|Valckenaer|1757|Md1 et U et Vs1|ἐκγενέσθαι MSS
 Ar. Ran. 743|οἴμωζε|ᾤμωζε|Valckenaer|1757|Neap. II F 22 (Np1)|
-Ar. Vesp. 576|γράψομαι|γράφομαι|Brunck|n.d.|P.Oxy. XI 1374|
+Ar. Vesp. 576|γράψομαι|γράφομαι|Brunck|1783|P.Oxy. XI 1374|
 Ar. Vesp. 790|ἐπέθηκε|ἐνέθηκε|Bergk|n.d.|P.Oxy. XI 1374|
 Ar. Vesp. 1132/5|ἀναλαβοῦ|ἀναβαλοῦ|Valckenaer|1757|B et Rpc|
 Ar. fr. 755|καὶ τῶν βελέκκων|βελέκκων|Theodor Kock|n.d.|P.Oxy. XV 1801|
