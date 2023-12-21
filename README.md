@@ -41,7 +41,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (49), Markland (40), Beza (25), Blass (21), Bentley (21), Naber (18), Johannes Pierson (15), Michelsen (15), Owen (14), and Hort (12).</p>
+<p>The top 10 critics are Valckenaer (49), Markland (40), Beza (25), Blass (21), Bentley (21), Naber (18), Johannes Pierson (15), Michelsen (15), Owen (14), Cobet (12), and Hort (12) (last 2 tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -77,6 +77,7 @@ Ar. Ach. 917|θρυαλλίδας|θρυαλλίδα|Elmsley|1809|BKT V/II 231|
 Ar. Ach. 928|φορούμενος|φερόμενος|Brunck|1783|BKT V/II 231|
 Ar. Ach. 970|κιχλᾶν|κιχλῶν|Valckenaer|1757|Rav. 429 (R)|
 Ar. Av. 75|γὰρ (ἅτ’)|γ’ ἅτ’|Valckenaer|1757|Rav. 429 (R)|
+Ar. Av. 494a schol.|μᾶτερ/μάτερ|μάτηρ|Elmsley|1821|M9Lh|
 Ar. Av. 765 schol.|-φω|ἀναγράφει|Bentley|1693|cod. Ambr. M|
 Ar. Av. 1069|om.|πάνθ'|Ludolph Dissen|n.d.|P.Louvre ed. Weil = Austin 42|
 Ar. Av. 1080|πᾶσι|om.|Triclinius|s.xiv in.|P.Louvre ed. Weil = Austin 42|
@@ -185,6 +186,7 @@ Dem. Prooem. 26|κοιῶς|κοινῶν|Wolf|1812|P.Oxy. I 26|
 Din. 1.109|ἐλεήϲετε|ε̣λ̣ε̣ηϲαιτε|P. P. Dobree|1831|P.Oxy. XLIX 3436|
 Din. 3.21|καταλλάξαϲθαι|ἀντικαταλλ-|G. A. Hirschig|1850|P.Oxy. XLIX 3437|Philologue 5 (1850) 326—328
 Din. 3.22|om.|ψηφιϲμάτων|Eduard Maetzner|1842|P.Oxy. XLIX 3437|
+Diog. Laert. 2.18|Εὐριπίδης|-δας|Cobet|s.xix med.|Laur. 69.13 (F)|
 Epict. Diatr. 4.1.136|om.|εἰ|Hieronymus Wolf|1560|P.Cair.Mich. II 11|vel πότερον Wolf
 Eur. Hec. 580|λέγον|λέγων|Johannes Pierson|pre-1752|MB et V2 et iΣm|
 Eur. Hec. 931|Ἰλιάδα|Ἰλιάδος|Valckenaer|1749|K1c et PrRfRw|
@@ -286,6 +288,7 @@ Philo Ebr. 2|om.|τοῦ|Richter|n.d.|P.Oxy. IX 1173|[τ]ο̣υ
 Philo Ebr. 221|ἐπειδάν|ἐπειδάν δ'|Wendland|1897|P.Oxy. IX 1173|
 Philo Ebr. 221|οἰνηρεύσεις|οινηρυσει[ς|Turnebus|n.d.|P.Oxy. IX 1173|
 Philo Ebr. 222|μαρμάζει|μαιμᾷ|Mangey|n.d.|P.Oxy. IX 1173|μαιμαῑ
+Phot. α 448|ἄμπελον|ἄπεπλον|Leo|n.d.|z|
 Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|P.Berol. inv. 16367|
 Pi. O. 2.76|γᾶς|μέγας|Jan Cornelis de Pauw|1747|P.Oxy. XVII 2092|
 Pi. O. 6.77|ὄροις|ὄρος|Zacharias Callierges|1515|P.Oxy. XIII 1614|
