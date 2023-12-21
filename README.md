@@ -281,10 +281,7 @@ P.Oxy. VI 970|ἐπ̣ι̣σ̣κ[|ἐπισκέψεσι|Grenfell-Hunt|1908|P.Oxy.
 P.Oxy. XIV 1659.42|Ἀντιπ(έρα) Πέλα|Ἀντιπέρα Πέλα|Grenfell-Hunt|1920|P.Oxy. XXVII 2473|
 P.Ryl. 652.10|ορ( )|ὁρρίοις|Roberts-Turner|1952|P.Oxy. XXIV 2408|
 P.Tebt. 286.15|om.|ἱερεύς|Hunt|1907|P.Oxy. VIII 1092|
-Philo Ebr. 2|τῆς ἀπαιδευσίας|τη]ν απαιδευσιαν|Turnebus & Wendland|n.d.|P.Oxy. IX 1173|
-Philo Ebr. 2|om.|τοῦ|Wendland with Richter|n.d.|P.Oxy. IX 1173|
-Philo Ebr. 219|ευπρεπεις|ευτρεπεις|Wendland|n.d.|P.Oxy. IX 1173|
-Philo Ebr. 219|συνεχούσης|συνεχους|Wendland|n.d.|P.Oxy. IX 1173|
+Philo Ebr. 2|om.|τοῦ|Richter|n.d.|P.Oxy. IX 1173|[τ]ο̣υ
 Philo Ebr. 221|ἐπειδάν|ἐπειδάν δὲ|Wendland|n.d.|P.Oxy. IX 1173|
 Philo Ebr. 221|οἰνηρεύσεις|οινηρυσει[ς|Turnebus|n.d.|P.Oxy. IX 1173|
 Philo Ebr. 222|μαρμάρζει|μαιμᾷ|Mangey|n.d.|P.Oxy. IX 1173|
