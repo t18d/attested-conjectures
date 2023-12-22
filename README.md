@@ -216,7 +216,7 @@ Eur. fr. 870|αἷμα|ὄμμα|J. Fr. Boissonade|1826|Phot. z|
 Eur. fr. 911.2|ἐρόεντα|πτερ-|Grotius|1626|P.Oxy. IX 1176|Satyr. Vit.Eur.; πτε[...]τα
 Eur. fr. 912.1|χοήν|χλόην|Bergk|1839-41|P.Oxy. IX 1176|ap. Welcker 1602
 Eur. fr. 912.2|φέρων|φέρω|Grotius|1626|P.Oxy. IX 1176|φερ[.]
-Eur. fr. 1063.2|: ἄνδρ᾽ ἢ κτλ.|ἄνδρα χρὴ|Gesner|1826|Chor. 32.52|
+Eur. fr. 1063.2|: ἄνδρ᾽ ἢ κτλ.|ἄνδρα χρὴ|Conrad Gesner|1543|Chor. 32.52|
 Hdt. 1.105|ὁ θέος|η θε[ος|Hude|n.d.|P.Oxy. X 1244|
 Hdt. 1.107|ὑπο-|ῡπερθεμενος|Henri Estienne|s.xvi ex.|P.Oxy. X 1244|
 Hdt. 1.116|ἐσήει|ἐσήιε|Bekker|1833|P.Münch. II 40 = Pap. graec. mon. 89|
