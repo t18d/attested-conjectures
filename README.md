@@ -41,7 +41,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (51), Markland (40), Beza (25), Blass (21), Bentley (21), Naber (18), Johannes Pierson (15), Michelsen (15), Cobet (14), and Owen (14).</p>
+<p>The top 10 critics are Valckenaer (52), Markland (40), Beza (25), Blass (21), Bentley (21), Naber (18), Johannes Pierson (15), Michelsen (15), Cobet (14), and Owen (14).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -402,6 +402,8 @@ St.Byz. Δ 40|δειδείχ-/δεδείχ-|δειδέχαται|Bentley|1693|RV
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.34.2|λέγε|λέγ᾽ εὖ|Valckenaer|1767|Laur. 8.22 (L)|
 Stob. 3.34.2|φέροι|φέρει|Cobet|1878|Laur. 8.22 (L)|L 3.13
+Stob. 4.21.20|-ειν|ἔχων|August Matthiae|1829|Exc. Stob. Escor. X-1-13|
+Stob. 4.21.20|εἴην|εἴη|Valckenaer|1767|Exc. Stob. Escor. X-1-13|'ut Pelopis fortasse sit votum, vel alterius, de filio loquentis'
 Str. 8.5.6|πολέμοις|-μιοις|Theodorus Agallianus|1446|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.5.6|-ϲ(ιν) ἅρμαϲι|μυρίοιϲι νάμαϲι(ν)|Casaubon|1621|Vat. gr. 2306 + 2061 A (P)|μυριοιϲιν ναμαϲιν
 Str. 8.5.6|-οτάτην|εὐβοτωτάτην|Casaubon|1621|Vat. gr. 2306 + 2061 A (P)|
