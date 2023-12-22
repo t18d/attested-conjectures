@@ -55,6 +55,8 @@ Ach.Tat. LC 2.9.2|-θιγεν|προσέθηκεν|B. G. L. Boden|1776|P.Oxy. X 
 Aesch. PV 157|ἐπεγήθει/ἐπιγήθει|ἐγεγήθει|Valckenaer|s.xviii med.|Ambros. gr. G 56 (D) et Matrit. gr. 4677 (N)|
 Aesch. T 1.5|-ουϲ|Ἀριϲτοφάνει|Bergk|1883|BXc|Hermes 18 (1883) 483
 Aesch. T 56b.2|καταθ-|καϑέϲειϲ|Casaubon|1600|Marc. gr. 468 (V)|Animadv. 260.24 sq.
+Aesch. fr. 191.2|μέγα πῇ δ'|μέγαν ἠδ᾽|Vossius|1629|Anon. B|
+Aesch. fr. 300.3|-δεῖ/-δων|κυλίνδει|Salmasius|1629 (?)|Anon. C|
 Aeschin. Ctes. 18|γέρα|ἱερὰ|P. P. Dobree|s.xviii/xix|P.Oxy. XIII 1625|ϊ[ε]ρα
 Aeschin. Ctes. 18|γέρα|ἱερὰ|Hendrik Arent Hamaker|s.xviii/xix|P.Oxy. XIII 1625|ϊ[ε]ρα
 Aeschin. Ctes. 20|τὸν ... σκυθρωπὸν|τῶν ... σκυθρωπῶν|Denys Lambin|s.xvi med.|P.Oxy. XIII 1625|
