@@ -172,6 +172,7 @@ Choerob. in Theod. p. 268 35|λινό-|αἰνοτάλαντα|Bekker|1821|Marc.
 Choerob. in Theod. p. 352 11|-τήτειρα|ὀπτῆρα|A. F. Naeke|1845|Coisl. 176 (Bekker)|Gr. Gr. iv/1 Hilg.
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 D.L. 2.18|Εὐριπίδης|-δας|Cobet|s.xix med.|Laur. 69.13 (F)|
+D.S. 9.10.4|ἐᾷ τὰ γρ.|ἐᾷ με γρ.|Dindorf|1831|Vat. teste Herwerden|
 Dem. 19.280|καὶ τοῦ|τοῦ|P. P. Dobree|s.xviii/xix|P.Oxy. VIII 1094|
 Dem. Ep. 3.9|τὸ ὅσον|ὅσον|Blass|n.d.|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.22|ἀγνώμοσι|ἀγνῶσι|P. P. Dobree|s.xviii/xix|P.Lond.Lit. 130 (inv. 133)|
