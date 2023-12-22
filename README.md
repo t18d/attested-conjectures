@@ -311,6 +311,7 @@ Philo Ebr. 221|οἰνηρεύσεις|οινηρυσει[ς|Turnebus|n.d.|P.Oxy
 Philo Ebr. 222|μαρμάζει|μαιμᾷ|Mangey|n.d.|P.Oxy. IX 1173|μαιμαῑ
 Phot. α 448|ἄμπελον|ἄπεπλον|Leo|n.d.|z|Leo KI. Schr. 2,409 et Wil. Kl. Schr. 4,529
 Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|P.Berol. inv. 16367|
+Pi. O. 1 schol. Inscr. a|ογ΄|οϛ΄|Bergk|1878|P.Oxy. II 222|Poet. Lyr. i. p.4
 Pi. O. 2.76|γᾶς|μέγας|Jan Cornelis de Pauw|1747|P.Oxy. XVII 2092|
 Pi. O. 6.77|ὄροις|ὄρος|Zacharias Callierges|1515|P.Oxy. XIII 1614|
 Pi. Pae. 9.4|ἰσχὺν πτανὸν (ἀν)δράσιν|ἰσχύν τ'ἀνδράσι(ν)|Blass|n.d.|P.Oxy. V 841|
@@ -339,7 +340,6 @@ Plb. 11.16.6|διαβάλλει|-βαλεῖ|Scaliger|s.xvi/xvii|P.Berol. inv. 9
 Plb. 11.16.7|ἐμπορεία|ἐν πορείᾳ|Johann Schweighäuser|1795|P.Ryl. 60|
 Plb. 28.2.4|om.|ϲυνεχωρηϲεν|Friedrich Otto Hultsch|1889|P.Oxy. LXXXI 5267|ϲ]υνεχωρηϲ[ε
 Plu. Caes. 45.8|ταιc|αις|Moses Solanus|1729|P.Oxy. LXXXI 5270|
-Poet. Lyr. i. p.4|τὴν ογ΄ Ὀλυμπιάδα|τὴν ος΄ Ὀλυμπιάδα|Bergk|n.d.|P.Oxy. II 222|
 Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Bergk|1835|FP|κωϋ κεθέλουσα F: κ’ ώυ κ’ ἐθέλοις P
 Sapph. fr. 44A.5|ἀεί|ἄϊ|Ahrens|1839-43|P.Sapph.Obbink|
 Sen. Med. 677|effudit|effundit|Nicolaus Heinsius|s.xviii med.|P.Mich. inv. 4969 fr. 36|H. had a public career.
