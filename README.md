@@ -390,7 +390,7 @@ Soph. OT 430|οὐ|αὖ|G. Wolff|n.d.|P.Oxy. I 22|in linea
 Soph. OT 433|ᾔδει(ν)|ᾔδη|Dawes|s.xviii med.|P.Oxy. XVIII 2180|in margine
 Soph. OT 458|αὐτὸς|αὑτὸς|Markland|s.xviii med.|Vindob. suppl. gr. 71 (Xs)|pc
 Soph. OT 523|om.|δ'|Moriz Schmidt|1871-80|P.Oxy. XVIII 2180|in linea (Barrett apud OCT)
-Soph. OT 733 schol.|κέλευϑον|κελεύθων|Scaliger|pre-1775|GMR|
+Soph. OT 733 schol.|κέλευϑον|κελεύθων|Scaliger|post-1568|GMR|
 Soph. OT 778|habent|del.|Valckenaer|pre-1775|P.Oxy. XI 1369|
 Soph. OT 1245|κάλει|καλεῖ|Johannes Pierson|s.xviii med.|Ambros. G 56 sup.|
 Soph. OT 1453|ζῶντε|ζῶντι|Johannes Pierson|s.xviii med.|Pal. gr. 40 (P) et a|
@@ -429,6 +429,7 @@ Str. 9.2.35|οὔτε|οὐδὲ|Adamantios Korais|1805|P.Petr. I 3|ουδ
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. ε 424|Men. et Phil. p. 15
 Synag. 353.9|ἀτη-|ἀτειρής|Friedrich Wilhelm Wagner|1852|Phot. α 474|
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
+Theoc. Id. 2.35/36a schol.|-δρομος|πρόδομος|Samuel Butler|1816|Bodl. Can. gr. 86 (Gaisford)|
 Theoc. Id. 15.98|σπέρχιν/πέρχην|πέρυσιν|Reiske|s.xviii ex.|P.Oxy. XIII 1618|πέρυ]σιν
 Theoc. Id. 22.40|πεφύκασιν|πεφυκεσαν|Stephanus|n.d.|P.Oxy. XV 1806|
 Theognost. p. 38 22|ἔαϲιν|ἐωϲιν|Dindorf|1864|cod. Barocc.|Thes.L.Gr. I/2 p. 9 C
