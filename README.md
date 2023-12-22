@@ -57,6 +57,7 @@ Aesch. T 1.5|-ουϲ|Ἀριϲτοφάνει|Bergk|1883|BXc|Hermes 18 (1883) 483
 Aesch. T 56b.2|καταθ-|καϑέϲειϲ|Casaubon|1600|Marc. gr. 468 (V)|Animadv. 260.24 sq.
 Aesch. fr. 191.2|μέγα πῇ δ'|μέγαν ἠδ᾽|Vossius|1629|Anon. B|
 Aesch. fr. 300.3|-δεῖ/-δων|κυλίνδει|Salmasius|1629 (?)|Anon. C|
+Aesch. fr. 300.7|ἀγγέ-|ἀντέλλει|Grotius|1626|Anon. C et Tz.|
 Aeschin. Ctes. 18|γέρα|ἱερὰ|P. P. Dobree|s.xviii/xix|P.Oxy. XIII 1625|ϊ[ε]ρα
 Aeschin. Ctes. 18|γέρα|ἱερὰ|Hendrik Arent Hamaker|s.xviii/xix|P.Oxy. XIII 1625|ϊ[ε]ρα
 Aeschin. Ctes. 20|τὸν ... σκυθρωπὸν|τῶν ... σκυθρωπῶν|Denys Lambin|s.xvi med.|P.Oxy. XIII 1625|
@@ -121,6 +122,7 @@ Arist. Rh. Al|τὸν τρόπον τοῦτον|τοῦτον τὸν τρόπ�
 Arist. Rh. Al|διέλωμεν|διέλθωμεν|Spengel|n.d.|P.Hib. I 26|
 Arist. Rh. Al|νόμος|ὁ νόμος|Spengel|n.d.|P.Hib. I 26|
 Arist. Rh. Al|περιττῶς|τριττῶς|Spengel|n.d.|P.Hib. I 26|
+Ath. 9.375E|νοϑ-|νοτοῦντι|Jan Cornelis de Pauw|1745|A|
 BGU 1074|Οὐήρῳ|Σευήρῳ|Viereck|n.d.|P.Oxy. XXVII 2476|
 Bacchyl. 17.53|μ[ε κουρ]α|με νυμ[φα|H. Jurenka|1898|P.Oxy. VIII 1091|
 Bacchyl. 17.62|βαθείας| ἐκ βαθείας|Blass|1898|P.Oxy. VIII 1091|
