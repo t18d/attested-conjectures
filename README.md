@@ -159,7 +159,7 @@ Call. fr. 326|θανεῖν|θανέειν|Bentley|1693|'Zonar.' codd. Tittm.|
 Call. fr. 384.26|-ϲομ-|θηϲαμενω|Hunt|1922|P.Oxy. ined.|]ηϲαμενω[
 Call. fr. 388.9|Φωκείων|Φωκαέων|Valckenaer|1799|P.Oxy. XV 1793|
 Call. fr. 407.92|ὀρνίθων|ὀρνέων|F. J. Bast|s.xviii/xix|Anon.Vat.|
-Charito 2.3.5|ποθεν|ποδῶν|D'Orville|1750|P.Oxy. VII 1019|
+Charito 2.3.5|ποθεν|ποδῶν|Jacques Philippe D'Orville|1750|P.Oxy. VII 1019|
 Charito 2.4.5|ἐπυρφόρει|επυρπ̣ο[λει|Hercher|1854|P.Oxy. XLI 2948|
 Charito 2.4.6|μή τις|μή τι|Cobet|1842|P.Oxy. XLI 2948|
 Charito 2.4.7|ἀπόλωλαϲ ὦ|ἀπόλωλά cοι|Zimmerman|1925|P.Oxy. XLI 2948|Philologus LXXX (1925); απολ]ωλ̣α̣ ϲ̣οι
@@ -173,7 +173,7 @@ Charito 4.2.9|αἵματος|τ̣ολμ[ηματος|Cobet|1842|P.Fay. 1|
 Charito 4.2.13|ἐμνημόνευσεν|εμνη]μονε[υ]σας|Reiske|1750|P.Fay. 1|
 Charito 8.5.12|ἔχειν|del.|Hercher|1854|codex Thebanus|spatium non sufficit in Theb.
 Charito 8.6.10|λειποψυχῶν|λιπ-|Cobet|1842|codex Thebanus|
-Charito 8.6.11|ἐπεκλύοντο|-κυλιοντο|D'Orville|1750|codex Thebanus|
+Charito 8.6.11|ἐπεκλύοντο|-κυλιοντο|Jacques Philippe D'Orville|1750|codex Thebanus|
 Charito 8.6.12|-ριον|αργυρον|Hercher|1854|codex Thebanus|
 Charito 8.7.2|ὅτε|ποτε|Reiske|1750|codex Thebanus|
 Choerob. in Theod. p. 268 35|λινό-|αἰνοτάλαντα|Bekker|1821|Marc. 489|Gr. Gr. iv/1 Hilg.
