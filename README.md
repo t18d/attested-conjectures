@@ -122,7 +122,7 @@ Arist. Rh. Al|τὸν τρόπον τοῦτον|τοῦτον τὸν τρόπ�
 Arist. Rh. Al|διέλωμεν|διέλθωμεν|Spengel|n.d.|P.Hib. I 26|
 Arist. Rh. Al|νόμος|ὁ νόμος|Spengel|n.d.|P.Hib. I 26|
 Arist. Rh. Al|περιττῶς|τριττῶς|Spengel|n.d.|P.Hib. I 26|
-Ath. 9.375E|νοϑ-|νοτοῦντι|Jan Cornelis de Pauw|1745|A|
+Ath. 9.375E|νοϑ-|νοτοῦντι|Jan Cornelis de Pauw|1745|Marc. 447 (A)|
 BGU 1074|Οὐήρῳ|Σευήρῳ|Viereck|n.d.|P.Oxy. XXVII 2476|
 Bacchyl. 17.53|μ[ε κουρ]α|με νυμ[φα|H. Jurenka|1898|P.Oxy. VIII 1091|
 Bacchyl. 17.62|βαθείας| ἐκ βαθείας|Blass|1898|P.Oxy. VIII 1091|
