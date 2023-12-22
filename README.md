@@ -204,7 +204,7 @@ Eur. Ph. 1040|πόλεως|πόλεος|Porson|1824|P.Oxy. II 224|
 Eur. Ph. 1132|βίαι|βάθρων|Adolf Kirchhoff|1855|T.Vindob. inv. G HT 6|
 Eur. Ph. 1149 schol.|-ϲτρέψαι|ἀναϲτέψαι|Joshua Barnes|1694|Vat. 909 (A)|
 Eur. T 1.IA.2-3|ἑταῖρος δὲ δοκεῖ|ἑταῖρος. δοκεῖ δὲ|Elmsley|1821|RwZc|
-Eur. fr. 119+120.6|πατρος|πάτρας|Heinrich Düntzer|1850|P.Oxy. XXXII 2628|Philologus 5 [1850] 186
+Eur. fr. 119+120.6|πατρος|πάτρας|Heinrich Düntzer|1850|P.Oxy. XXXII 2628|Philologus 5 (1850) 186
 Eur. fr. 495.42|τῶν τέχνων|τω]ν κενων|Conrad Gesner|1543|BKT V/II 5514|
 Eur. fr. 588.3|οὐδὲν|οὐδέν᾽|Grotius|1623|Diog. Laert. Bc|
 Eur. fr. 653.4|ἄρα καί|χρῆν|Nauck|1855|P.Oxy. XLV 3214|Obs. 45 sq.
@@ -399,7 +399,8 @@ St.Byz. Δ 40|δειδείχ-/δεδείχ-|δειδέχαται|Bentley|1693|RV
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.34.2|λέγε|λέγ᾽ εὖ|Valckenaer|1767|Laur. 8.22 (L)|
 Stob. 3.34.2|φέροι|φέρει|Cobet|1878|Laur. 8.22 (L)|L 3.13
-Str. 8.6.16|Οἰνώνης|Οἰνόης|Alessandro Politi|s.xvii/xviii|Vat. gr. 2306/2061 A|
+Str. 8.5.6|πολέμοις|-μιοις|Theodorus Agallianus|1446|Vat. gr. 2306/2061 A (P)|
+Str. 8.6.16|Οἰνώνης|Οἰνόης|Alessandro Politi|s.xvii/xviii|Vat. gr. 2306/2061 A (P)|
 Str. 9.2.35|οὔτε|οὐδὲ|Adamantios Korais|1805|P.Petr. I 3|ουδ
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. ε 424|Men. et Phil. p. 15
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
