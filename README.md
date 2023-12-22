@@ -71,6 +71,12 @@ Aeschin. Tim. 177|νόμους μέν|μὲν νόμους|Cobet|s.xix ex.|P.Gen
 Aeschin. Tim. 178|-γορούντων|κατηγόρων|Blass|1896|P.Gen. I 256|
 Aeschin. Tim. 178|πᾶσι τοῖς δικαίοις|πᾶσι δικαίοις|Joseph Anton Hillebrand|1868|P.Gen. I 256|
 Alc. fr. 34|]ϲον|δεῦτέ μοι νᾶϲον|C. Gallavotti|1947|P.Mich. inv. 3498 + 3250b recto|δεῦτ̣[έ] μοι νᾶcον; Borges-Sampson (2012)
+Anaximen. Rh.|ἢ ἄνθρώπων|ἢ ὑπ'ἄνθρώπων|Spengel|1844|P.Hib. I 26|
+Anaximen. Rh. 1.15|τὸν τρόπον τοῦτον|τοῦτον τὸν τρόπον|Spengel|1844|P.Hib. I 26|[τ]οῦ[το]ν τὸν [
+Anaximen. Rh. 2.3|περιττῶς|τριττῶς|Bekker|1831|P.Hib. I 26|
+Anaximen. Rh. 4.1|-λωμεν|διέλθωμεν|Spengel|1844|P.Hib. I 26|
+Anaximen. Rh. 4.3|νόμος|ὁ ν.|Spengel|1844|P.Hib. I 26|
+Anaximen. Rh. 4.4|ἴσασι/εἰδῶσι|τιμῶσι|Spengel|1844|P.Hib. I 26|
 Ap. Rhod. 3.745|ναῦται|ναυτίλοι|Porson|s.xviii/xix|P.Oxy. IV 690|ναυ]τίλο̣ι
 Ap. Rhod. 3.909|κατὰ|μετὰ|Henri Estienne|s.xvi ex.|P.Oxy. IV 691|μ[
 Ap. Rhod. 3.1226 schol.|ἠμφίεστο|ὑφέεστο|A. F. Naeke|1833-7|Laur. 32.9|Rh. Mus. 2-5
@@ -115,13 +121,6 @@ Ar. fr. 755|καὶ τῶν βελέκκων|βελέκκων|Theodor Kock|n.d.|
 Arat. Phaen. 736|ἰοῦσα|ἄγουσα|Buttman|n.d.|BKT V/I 7503 + 7804|
 Arat. Phaen. 750|ἐμπλήσει|ἐμπλήσσει|Voss|n.d.|BKT V/I 7503 + 7804|
 Arat. Phaen. 870|φαίνονται|φαίνωνται|Voss|n.d.|BKT V/I 7503 + 7804|
-Arist. Rh.Al.|ἴσασι/εἰδῶσι|τιμῶσι|Spengel|n.d.|P.Hib. I 26|
-Arist. Rh.Al.|τὸ κατηγορούμενον|om.|Spengel|n.d.|P.Hib. I 26|
-Arist. Rh.Al.|ἢ ἄνθρώπων|ἢ ὑπ'ἄνθρώπων|Spengel|n.d.|P.Hib. I 26|
-Arist. Rh.Al.|τὸν τρόπον τοῦτον|τοῦτον τὸν τρόπον|Spengel|n.d.|P.Hib. I 26|
-Arist. Rh.Al.|διέλωμεν|διέλθωμεν|Spengel|n.d.|P.Hib. I 26|
-Arist. Rh.Al.|νόμος|ὁ νόμος|Spengel|n.d.|P.Hib. I 26|
-Arist. Rh.Al.|περιττῶς|τριττῶς|Spengel|n.d.|P.Hib. I 26|
 Ath. 9.375E|νοϑ-|νοτοῦντι|Jan Cornelis de Pauw|1745|Marc. 447 (A)|
 BGU 1074|Οὐήρῳ|Σευήρῳ|Viereck|n.d.|P.Oxy. XXVII 2476|
 Bacchyl. 17.53|μ[ε κουρ]α|με νυμ[φα|H. Jurenka|1898|P.Oxy. VIII 1091|
