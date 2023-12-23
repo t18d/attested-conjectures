@@ -439,6 +439,7 @@ Soph. fr. 330|-ὴν -ην/-ὴ -η|λευκῇ στάθμῃ|T. G. Tucker|1904|
 Soph. fr. 481|δρώπα/δρωπτά|δρωπά|J. A. H. Tittmann|1808|Suid. δ 1538|T. apud Zonar.
 Soph. fr. 591|ἐν φύλων|ἕν φῦλον|Bergk|1836|Favorin. Π φυγῆς|ZfA 3 (1836) 78
 Soph. fr. 635|σακκο-|σακοδερμηστής|Palmerius|1668|Synag. Phot.|ap. Hsch. σ 76
+Soph. fr. 871|εὐγενεστ-|εὐπρεπεστάτη|Ritschl|1829|Plu. 5.517D|
 Sor. Gyn. 2-3|Ἀθηναίων|Ἀθηνίων|Wellmann|n.d.|PSI II 117|
 Sor. Gyn. 2-3|τῆς αἱρέσεως|τῶν περὶ τ. α.|Rose|n.d.|PSI II 117|
 Sor. Gyn. 2-3|Ζήνωνα ... Ἀριστοτέλην τὸν Ἐπικούριον|Ἀ. ... Ζ. τ. Ἐ.|Ermerins|n.d.|PSI II 117|
