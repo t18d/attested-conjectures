@@ -99,6 +99,7 @@ Ar. Av. 1693|διδότω|δότω|Valckenaer|1757|ΓUL|
 Ar. Eccl. 51|Φιλοδωρίτου|Φιλοδωρήτου|Valckenaer|1757|Paris. gr. 2712 (A)|
 Ar. Eccl. 707|λαβούσας|λαβόντας|Valckenaer|1757|Rav. 429 (R) et Perus. H 56 (Λ)|tacite
 Ar. Eccl. 1124|ἔχει/ἔχοι|ἔχῃ|Valckenaer|1757|Perus. H 56 (Λ)|tacite
+Ar. Eq. 84b schol.|πλεῖον/πλείω|πλείους|Dindorf|1837|Estensis α.U.5.10 (E)|
 Ar. Eq. 143|ἐξολῶν|ἐξελῶν|Valckenaer|1757|Rav. 429 (R) et sch.|V. cites the scholia
 Ar. Eq. 881|τηλικουτονί|τηλικοῦτον|Valckenaer|1757|Laur. 31.13 (X)|
 Ar. Eq. 1017|ἐκέλευσ'|ἐκελευ'|Frederick H. M. Blaydes|1882|P.Oxy. XI 1373|
@@ -427,7 +428,8 @@ Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
 Stob. 3.34.2|λέγε|λέγ᾽ εὖ|Valckenaer|1767|Laur. 8.22 (L)|
 Stob. 3.34.2|φέροι|φέρει|Cobet|1878|Laur. 8.22 (L)|L 3.13
-Stob. 4.20.46|χερσὶ(ν)|χεροῖν|Scaliger|1623|B teste Gaisford|S. apud Grotium
+Stob. 4.20.46|χερσὶ(ν)|χεροῖν|Scaliger|1623|Paris. 1985 (B) teste Brunck/Gaisford|S. apud Grotium
+Stob. 4.20.46|ποτ᾽ ἐνίους|ποταινίους|Scaliger|1623|Paris. 1985 (B) teste Gaisford|S. apud Grotium
 Stob. 4.21.20|-ειν|ἔχων|August Matthiae|1829|Exc. Stob. Escor. X-1-13|
 Stob. 4.21.20|εἴην|εἴη|Valckenaer|1767|Exc. Stob. Escor. X-1-13|'ut Pelopis fortasse sit votum, vel alterius, de filio loquentis'
 Str. 8.5.6|πολέμοις|-μιοις|Theodorus Agallianus|1446|Vat. gr. 2306 + 2061 A (P)|
