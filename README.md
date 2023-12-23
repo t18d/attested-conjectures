@@ -121,7 +121,7 @@ Ar. fr. 755|καὶ τῶν βελέκκων|βελέκκων|Theodor Kock|n.d.|
 Arat. Phaen. 736|ἰοῦσα|ἄγουσα|Buttman|n.d.|BKT V/I 7503 + 7804|
 Arat. Phaen. 750|ἐμπλήσει|ἐμπλήσσει|Voss|n.d.|BKT V/I 7503 + 7804|
 Arat. Phaen. 870|φαίνονται|φαίνωνται|Voss|n.d.|BKT V/I 7503 + 7804|
-Ath. 9.375E|νοϑ-|νοτοῦντι|Jan Cornelis de Pauw|1745|Marc. 447 (A)|
+Ath. 9.375E|νοθ-|νοτοῦντι|Jan Cornelis de Pauw|1745|Marc. 447 (A)|
 Ath. 11.490E|οὐρανός τε γῆ|οὐρανοστεγῆ|Benjamin Heath|1798|Marc. 447 (A)|apud Schweighäuser
 BGU 1074|Οὐήρῳ|Σευήρῳ|Viereck|n.d.|P.Oxy. XXVII 2476|
 Bacchyl. 17.53|μ[ε κουρ]α|με νυμ[φα|H. Jurenka|1898|P.Oxy. VIII 1091|
@@ -404,6 +404,7 @@ Soph. Phil. 614|ἤκουσεν|ἤκουσ’|Valckenaer|pre-1775|z|
 Soph. Phil. 896|λόγῳ|λόγων|Valckenaer|pre-1775|Lond. Bibl.Brit.Harl. 5743|Miscell. Obs. Nov. T 3 p. 23 (?)
 Soph. Phil. 1028|ἐξέβαλον/ἔκβαλον/ἐκβάλλον|ἔβαλον|Johannes Pierson|s.xviii med.|L et a et Zo|
 Soph. Phil. 1238|ταῦτα|ταὐτὰ|Markland|s.xviii med.|LGRS|
+Soph. T 1.1|σαφίλου/σοφίλου|Σοφίλλου|Anton Westermann|1845|Laur. 28.25 (F)|
 Soph. Trach. 326|δακρυρρόει|δακρυρροεῖ|Markland|s.xviii med.|Laur. 31.10 (K)|
 Soph. Trach. 328|αὐτῇ|αὐτή|Markland|s.xviii med.|Laur. 31.10 (K) et Laur. 32.2 (Zg)|
 Soph. Trach. 579|-ει(σ)μένον|ἐγκεκλῃμενον|Dindorf|n.d.|Oxy. XV 1805|
@@ -418,6 +419,7 @@ Sor. Gyn. 2-3|τῆς αἱρέσεως|τῶν περὶ τ. α.|Rose|n.d.|PSI 
 Sor. Gyn. 2-3|Ζήνωνα ... Ἀριστοτέλην τὸν Ἐπικούριον|Ἀ. ... Ζ. τ. Ἐ.|Ermerins|n.d.|PSI II 117|
 St.Byz. Δ 40|δειδείχ-/δεδείχ-|δειδέχαται|Bentley|1693|RVΠ|
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
+Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
 Stob. 3.34.2|λέγε|λέγ᾽ εὖ|Valckenaer|1767|Laur. 8.22 (L)|
 Stob. 3.34.2|φέροι|φέρει|Cobet|1878|Laur. 8.22 (L)|L 3.13
 Stob. 4.21.20|-ειν|ἔχων|August Matthiae|1829|Exc. Stob. Escor. X-1-13|
