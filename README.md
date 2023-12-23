@@ -433,6 +433,8 @@ Soph. fr. 265|ἀντεροῦσ-|ἀνταίρουσιν|Isaac Vossius|s.xvii|C
 Soph. fr. 294|ἐπισχολάζεται|κοὐκ ἔτι σχολάζεται|Meineke|n.d.|P.Oxy. IX 1174|
 Soph. fr. 330|-ὴν -ην/-ὴ -η|λευκῇ στάθμῃ|T. G. Tucker|1904|Sud. A (F)|CR 18 (1904) 245
 Soph. fr. 481|δρώπα/δρωπτά|δρωπά|J. A. H. Tittmann|1808|Suid. δ 1538|T. apud Zonar.
+Soph. fr. 591|ἐν φύλων|ἕν φῦλον|Bergk|1836|Favorin. Π φυγῆς|ZfA 3 (1836) 78
+Soph. fr. 635|σακκο-|σακοδερμηστής|Palmerius|1668|Synag. Phot.|ap. Hsch. σ 76
 Sor. Gyn. 2-3|Ἀθηναίων|Ἀθηνίων|Wellmann|n.d.|PSI II 117|
 Sor. Gyn. 2-3|τῆς αἱρέσεως|τῶν περὶ τ. α.|Rose|n.d.|PSI II 117|
 Sor. Gyn. 2-3|Ζήνωνα ... Ἀριστοτέλην τὸν Ἐπικούριον|Ἀ. ... Ζ. τ. Ἐ.|Ermerins|n.d.|PSI II 117|
