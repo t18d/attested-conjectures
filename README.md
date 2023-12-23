@@ -267,6 +267,7 @@ Hom. Od. 11.393|ἔτ’ ἦν|εην|Nauck|1874|P. CtYBR inv. 5128|
 Hom. Od. 24.209|ἠδὲ ἴαυον|ἠδ’ ενϊαυον|Nauck|1874|P.Ryl. 53|
 Hsch. α 2737|παλαιός|μάταιος|F. W. Schmidt|1886|Cyrill. ph|Krit. St. 1,112
 Hsch. α 2737|ἀλαιός|ἀλεός|Gottfried Sopingius|s.xvi/xvii|Cyrill. ph|apud Schrevelius/Alberti
+Hsch. κ 4905|καμίκην|Καμικοῖς|Johannes Alberti|1766|Cyrill.|
 Isoc. Ad Nic. 2|διοικοῖς|διοικῇς|Blass|1891|Pap. Massiliensis = CPF I.2 17|
 Isoc. Ad Nic. 8|ταῖς μοναρχίαις|τὰς μοναρχίας|Cobet|1783|Pap. Massiliensis = CPF I.2 17|Editor's details from Kenyon's article.
 Isoc. Paneg. 68|γε|ελαττω γε|Cobet|1783|P.Oxy. V 844|
@@ -423,6 +424,7 @@ Soph. Trach. 1136|μνωμένη|μωμένη|Benjamin Heath|s.xviii in.|P.Oxy. 
 Soph. fr. 240|τὰ δ᾽ ὅσα|τάδε σε|Bergk|1859|Anon. Ambros. de re metr. 2.12|
 Soph. fr. 265|ἀντεροῦσ-|ἀνταίρουσιν|Isaac Vossius|s.xvii|Cyrill.|apud Alberti
 Soph. fr. 294|ἐπισχολάζεται|κοὐκ ἔτι σχολάζεται|Meineke|n.d.|P.Oxy. IX 1174|
+Soph. fr. 330|-ὴν -ην/-ὴ -η|λευκῇ στάθμῃ|T. G. Tucker|1904|Sud. A (F)|CR 18 (1904) 245
 Sor. Gyn. 2-3|Ἀθηναίων|Ἀθηνίων|Wellmann|n.d.|PSI II 117|
 Sor. Gyn. 2-3|τῆς αἱρέσεως|τῶν περὶ τ. α.|Rose|n.d.|PSI II 117|
 Sor. Gyn. 2-3|Ζήνωνα ... Ἀριστοτέλην τὸν Ἐπικούριον|Ἀ. ... Ζ. τ. Ἐ.|Ermerins|n.d.|PSI II 117|
