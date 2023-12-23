@@ -31,6 +31,7 @@
         <li>Kenyon, Frederic George, <em>The Evidence of Greek Papyri with Regard to Textual Criticism</em> (London, 1904).</li>
         <li>Krans-Plaisier, Jan, '<a href="http://vuntblog.blogspot.com/2023/12/amsterdam-database-conjectures-with.html">Amsterdam Database: Conjectures with Attestation</a>', the Amsterdam NT Weblog (2 Dec. 2023), accessed 14 Dec. 2023.</li>
         <li>Markus, D., and G. Schwendner, 'Seneca’s Medea in Egypt (663–704)', <em>ZPE</em>, 117 (1997), 73–84.</li>
+        <li>Radt, Stefan (ed.), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, iii: <em>Aeschylus</em> (Göttingen, 1985).</li>
         <li>Sommerstein, Alan H., 'The history of the text of Aristophanes', in <em>Brill's Companion to the Study of Greek Comedy</em> (Brill, 2010), 399-422 at 412n69.</li>
         <li>Wilson, N. G., <em>Herodotea: studies on the text of Herodotus</em> (Oxford, 2015), xii-xiii.</li>
     </ul>
