@@ -438,6 +438,7 @@ Stob. 4.20.46|χερσὶ(ν)|χεροῖν|Scaliger|1623|Paris. 1985 (B) teste 
 Stob. 4.20.46|ποτ᾽ ἐνίους|ποταινίους|Scaliger|1623|Paris. 1985 (B) teste Gaisford|S. apud Grotium
 Stob. 4.21.20|-ειν|ἔχων|August Matthiae|1829|Exc. Stob. Escor. X-1-13|
 Stob. 4.21.20|εἴην|εἴη|Valckenaer|1767|Exc. Stob. Escor. X-1-13|'ut Pelopis fortasse sit votum, vel alterius, de filio loquentis'
+Stob. 4.39.15|λώϊστον δὲ ζ.|λῷστον δὲ τὸ ζῆν|Johann Pierson|1759|Paris. 1985 (B) teste Brunck/Gaisford|
 Str. 8.5.6|πολέμοις|-μιοις|Theodorus Agallianus|1446|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.5.6|-ϲ(ιν) ἅρμαϲι|μυρίοιϲι νάμαϲι(ν)|Casaubon|1621|Vat. gr. 2306 + 2061 A (P)|μυριοιϲιν ναμαϲιν
 Str. 8.5.6|-οτάτην|εὐβοτωτάτην|Casaubon|1621|Vat. gr. 2306 + 2061 A (P)|
@@ -464,6 +465,7 @@ Thuc. 11.6|οὔτω|om.|Madvig|n.d.|P.Oxy. XIII 1621|
 Thuc. 11.9|ἡμῖν|ὑμῖν|Hude|n.d.|P.Oxy. VI 853 et XIII 1621|
 Xen. Oec. 9.2|τῆς οἰκίας|τῆς γε οἰκίας|Cobet|s.xix ex.|P.Oxy. II 227|
 Xen. Oec. 9.2|ἑκάστῳ|ἐν ἑκάστῳ|Schneider|n.d.|P.Oxy. II 227|
+[Hdn.] Philet. 210|κυν-|κινάραν|Nauck|1889|Q|
 Matt 5:13 [22]|μωρανθῇ|μαρανθῇ|Naber|1881||[cj10730](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10730)
 Matt 5:19 [58]|οὗτος μέγας|οὕτως, μέγας|Markland|1739||[cj11195](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11195)
 Matt 5:45 [20]|ὅτι|ὅστις|Beza|1556||[cj11200](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11200)
