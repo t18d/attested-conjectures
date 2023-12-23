@@ -42,7 +42,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (52), Markland (40), Beza (25), Blass (21), Bentley (21), Naber (18), Johannes Pierson (15), Michelsen (15), Cobet (14), and Owen (14).</p>
+<p>The top 10 critics are Valckenaer (52), Markland (40), Beza (25), Bentley (22), Blass (21), Naber (18), Johannes Pierson (15), Michelsen (15), Cobet (14), and Owen (14).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -109,6 +109,7 @@ Ar. Pax 1013|ἀποχειρωθείς|ἀποχηρωθείς|Valckenaer|1757|M
 Ar. Plut. 1018|παγκάλας|παγκάλους|Valckenaer|1757|Mpc et L|
 Ar. Plut. 1037|τυγχάνει|τυγχάνοι|Valckenaer|1757|Marc. gr. 474 (V)|
 Ar. Plut. 1116|ἐπιθύει|ἔτι θύει|Valckenaer|1757|Marc. gr. 474 (V)|
+Ar. Ran. 77|om.|γ᾽|Bentley|1691|Marc. gr. 475|teste Peppink ad Mnem. N.S. 60 (1933) 382
 Ar. Ran. 269|τῷ κωπίῳ|τὼ κωπίω|Valckenaer|1757|Matrit. 4683|
 Ar. Ran. 673|ποιῆσαι|νοῆσαι|Valckenaer|1757|Marc. gr. 474 (V)|
 Ar. Ran. 690|ἐγγενέσθαι|ἐκγένεσθαι|Valckenaer|1757|Md1 et U et Vs1|ἐκγενέσθαι MSS
@@ -181,8 +182,9 @@ Choerob. in Theod. p. 268, 35|λινό-|αἰνοτάλαντα|Bekker|1821|Marc
 Choerob. in Theod. p. 352, 11|-τήτειρα|ὀπτῆρα|A. F. Naeke|1845|Coisl. 176 (Bekker)|Gr. Gr. iv/1 Hilg.
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 D.L. 2.18|Εὐριπίδης|-δας|Cobet|1850|Laur. 69.13 (F)|
-D.L. 3.56|-ϲαν|ϲυνεπλήρωϲεν|Usener|1870|Laur. 69.13 (F) et Paris. gr. 1759 (P)|-σαν BPF teste Dorandi
+D.L. 3.56|-ϲαν|ϲυνεπλήρωϲεν|Usener|1870|Laur. 69.13 (F) et Paris. gr. 1759 (P)|RhM 25 (1870) 579; -σαν BPF teste Dorandi
 D.S. 9.10.4|ἐᾷ τὰ γρ.|ἐᾷ με γρ.|Dindorf|s.xix med.|Vat. teste Herwerden|
+D.T. schol. p. 471, 35|Ἀντιφ-|Ἰοφῶντος|Cramer|1850|Laur. 69.13 (F)|
 Dem. 19.280|καὶ τοῦ|τοῦ|P. P. Dobree|s.xviii/xix|P.Oxy. VIII 1094|
 Dem. Ep. 3.9|τὸ ὅσον|ὅσον|Blass|n.d.|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.22|ἀγνώμοσι|ἀγνῶσι|P. P. Dobree|s.xviii/xix|P.Lond.Lit. 130 (inv. 133)|
@@ -406,7 +408,7 @@ Soph. Phil. 1028|ἐξέβαλον/ἔκβαλον/ἐκβάλλον|ἔβαλο
 Soph. Phil. 1238|ταῦτα|ταὐτὰ|Markland|s.xviii med.|LGRS|
 Soph. T 1.9|σαφίλου/σοφίλου|Ἀναίους|Anton Westermann|1845|Laur. 28.25 (F)|
 Soph. T 1.16|(ἐν) τῇ|ἐν|Frederick H. M. Blaydes|1859|Vindob. phil. gr. 281 (Wc)|
-Soph. T 1.20|ὀδυσσ-/ὠδυσσ-|ὠδύσαντο|Schaefer|1810|Paris. gr. 2712 (A)|
+Soph. T 1.20|ὀδυσσ-/ὠδυσσ-|ὠδύσαντο|G. H. Schaefer|1810|Paris. gr. 2712 (A)|
 Soph. Trach. 326|δακρυρρόει|δακρυρροεῖ|Markland|s.xviii med.|Laur. 31.10 (K)|
 Soph. Trach. 328|αὐτῇ|αὐτή|Markland|s.xviii med.|Laur. 31.10 (K) et Laur. 32.2 (Zg)|
 Soph. Trach. 579|-ει(σ)μένον|ἐγκεκλῃμενον|Dindorf|n.d.|Oxy. XV 1805|
