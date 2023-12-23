@@ -393,7 +393,7 @@ Soph. OT 430|οὐ|αὖ|G. Wolff|n.d.|P.Oxy. I 22|in linea
 Soph. OT 433|ᾔδει(ν)|ᾔδη|Dawes|s.xviii med.|P.Oxy. XVIII 2180|in margine
 Soph. OT 458|αὐτὸς|αὑτὸς|Markland|s.xviii med.|Vindob. suppl. gr. 71 (Xs)|pc
 Soph. OT 523|om.|δ'|Moriz Schmidt|1871-80|P.Oxy. XVIII 2180|in linea (Barrett apud OCT)
-Soph. OT 733 schol.|κέλευϑον|κελεύθων|Scaliger|post-1568|GMR|
+Soph. OT 733 schol.|κέλευθον|κελεύθων|Scaliger|post-1568|GMR|
 Soph. OT 778|habent|del.|Valckenaer|pre-1775|P.Oxy. XI 1369|
 Soph. OT 1245|κάλει|καλεῖ|Johannes Pierson|s.xviii med.|Ambros. G 56 sup.|
 Soph. OT 1453|ζῶντε|ζῶντι|Johannes Pierson|s.xviii med.|Pal. gr. 40 (P) et a|
@@ -404,7 +404,8 @@ Soph. Phil. 614|ἤκουσεν|ἤκουσ’|Valckenaer|pre-1775|z|
 Soph. Phil. 896|λόγῳ|λόγων|Valckenaer|pre-1775|Lond. Bibl.Brit.Harl. 5743|Miscell. Obs. Nov. T 3 p. 23 (?)
 Soph. Phil. 1028|ἐξέβαλον/ἔκβαλον/ἐκβάλλον|ἔβαλον|Johannes Pierson|s.xviii med.|L et a et Zo|
 Soph. Phil. 1238|ταῦτα|ταὐτὰ|Markland|s.xviii med.|LGRS|
-Soph. T 1.1|σαφίλου/σοφίλου|Σοφίλλου|Anton Westermann|1845|Laur. 28.25 (F)|
+Soph. T 1.9|σαφίλου/σοφίλου|Ἀναίους|Anton Westermann|1845|Laur. 28.25 (F)|
+Soph. T 1.16|(ἐν) τῇ|ἐν|Frederick H. M. Blaydes|1859|Vindob. phil. gr. 281 (Wc)|
 Soph. Trach. 326|δακρυρρόει|δακρυρροεῖ|Markland|s.xviii med.|Laur. 31.10 (K)|
 Soph. Trach. 328|αὐτῇ|αὐτή|Markland|s.xviii med.|Laur. 31.10 (K) et Laur. 32.2 (Zg)|
 Soph. Trach. 579|-ει(σ)μένον|ἐγκεκλῃμενον|Dindorf|n.d.|Oxy. XV 1805|
