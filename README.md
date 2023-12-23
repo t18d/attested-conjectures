@@ -80,7 +80,8 @@ Anaximen. Rh. 4.3|νόμος|ὁ ν.|Leonhard von Spengel|1844|P.Hib. I 26|
 Anaximen. Rh. 4.4|ἴσασι/εἰδῶσι|τιμῶσι|Leonhard von Spengel|1844|P.Hib. I 26|
 Ap. Rhod. 3.745|ναῦται|ναυτίλοι|Porson|s.xviii/xix|P.Oxy. IV 690|ναυ]τίλο̣ι
 Ap. Rhod. 3.909|κατὰ|μετὰ|Henri Estienne|s.xvi ex.|P.Oxy. IV 691|μ[
-Ap. Rhod. 3.1226 schol.|ἠμφίεστο|ὑφέεστο|A. F. Naeke|1833-7|Laur. 32.9|Rh. Mus. 2-5
+Ap. Rhod. 3.1214 sq. schol.|-υσὶ|δρυῒ|Friedrich Ellendt|1835|Paris. 2727 (P)|1, 450 sq.
+Ap. Rhod. 3.1226 schol.|ἠμφίεστο|ὑφέεστο|A. F. Naeke|1833-7|Laur. 32.9 (L)|Rh. Mus. 2-5
 Apollod. Π. θεῶν 20|-βαφεῖς|μελαμβαθεῖς|Brunck|1786|F|
 Ar. Ach. 297|σύ μοι|μοι σὺ|Hermann|s.xviii/xix|P.Oxy. LXVI 4510|
 Ar. Ach. 323|γ' ἆρα|τἄρα|Elmsley|1809|P.Oxy. LXVI 4510|E. was an heir
