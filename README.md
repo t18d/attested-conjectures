@@ -186,6 +186,7 @@ Choerob. in Theod. p. 268, 35|λινό-|αἰνοτάλαντα|Bekker|1821|Marc
 Choerob. in Theod. p. 352, 11|-τήτειρα|ὀπτῆρα|A. F. Naeke|1845|Coisl. 176 (Bekker)|Gr. Gr. iv/1 Hilg.
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 D.H. 1.48.2|-λεῖ|κύκλῳ|Reiske|1775|Urb. 105 (B)|
+D.H. Comp. 9|πλεῖον/πλείων|πλέον|Dindorf|1832-60|Laur. 59.15 (F)|
 D.L. 2.18|Εὐριπίδης|-δας|Cobet|1850|Laur. 69.13 (F)|
 D.L. 3.56|-ϲαν|ϲυνεπλήρωϲεν|Usener|1870|Laur. 69.13 (F) et Paris. gr. 1759 (P)|RhM 25 (1870) 579; -σαν BPF teste Dorandi
 D.S. 9.10.4|ἐᾷ τὰ γρ.|ἐᾷ με γρ.|Dindorf|s.xix med.|Vat. teste Herwerden|
