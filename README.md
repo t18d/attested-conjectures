@@ -43,7 +43,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (53), Markland (40), Beza (25), Bentley (22), Blass (21), Naber (18), Johannes Pierson (16), Michelsen (15), Cobet (14), and Owen (14).</p>
+<p>The top 10 critics are Valckenaer (53), Markland (40), Beza (25), Bentley (22), Blass (21), Naber (18), Johannes Pierson (16), Cobet (15), Michelsen (15), and Owen (14).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -357,7 +357,8 @@ Plb. 11.16.6|διαβάλλει|-βαλεῖ|Scaliger|s.xvi/xvii|P.Berol. inv. 9
 Plb. 11.16.7|ἐμπορεία|ἐν πορείᾳ|Johann Schweighäuser|1795|P.Ryl. 60|
 Plb. 28.2.4|om.|ϲυνεχωρηϲεν|Friedrich Otto Hultsch|1889|P.Oxy. LXXXI 5267|ϲ]υνεχωρηϲ[ε
 Plu. Caes. 45.8|ταιc|αις|Moses Solanus|1729|P.Oxy. LXXXI 5270|
-Plu. aud. poet. 4.21A|ἦ/ἐῆ/εἴη|ἴῃ|Brunck|1786|p|
+Plu. aud. poet. 4.21A|ἦ/ἐῆ/εἴη|ἴῃ|Brunck|1786|Palat. gr. 178 (p)|
+Plu. aud. poet. 4.21B|-οῖ|φρονεῖ|Cobet|1877|G1X1vZWCh|Mnem. N.S. 5 (1877) 243
 Priscian. Inst. 18.197|ὅσοι γὰρ/θεοῖς ἄρ'|θεοὶ γὰρ|Madvig|1846|VR|Philol. 1 (1846) 672
 Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Bergk|1835|FP|κωϋ κεθέλουσα F: κ’ ώυ κ’ ἐθέλοις P
 Sapph. fr. 44A.5|ἀεί|ἄϊ|Ahrens|1839-43|P.Sapph.Obbink|
