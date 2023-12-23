@@ -176,7 +176,8 @@ Charito 8.6.10|λειποψυχῶν|λιπ-|Cobet|1842|codex Thebanus|
 Charito 8.6.11|ἐπεκλύοντο|-κυλιοντο|Jacques Philippe D'Orville|1750|codex Thebanus|
 Charito 8.6.12|-ριον|αργυρον|Hercher|1854|codex Thebanus|
 Charito 8.7.2|ὅτε|ποτε|Reiske|1750|codex Thebanus|
-Choerob. in Theod. p. 268, 35|λινό-|αἰνοτάλαντα|Bekker|1821|Marc. 489|Gr. Gr. iv/1 Hilg.
+Choerob. in Theod. p. 231, 6-7|Παλάμ-|Πάλμυδος|Dindorf|1864|Marc. 489 (V)|Gr. Gr. iv/1 Hilg.; ThGL 6,108 D
+Choerob. in Theod. p. 268, 35|λινό-|αἰνοτάλαντα|Bekker|1821|Marc. 489 (V)|Gr. Gr. iv/1 Hilg.
 Choerob. in Theod. p. 352, 11|-τήτειρα|ὀπτῆρα|A. F. Naeke|1845|Coisl. 176 (Bekker)|Gr. Gr. iv/1 Hilg.
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 D.L. 2.18|Εὐριπίδης|-δας|Cobet|1850|Laur. 69.13 (F)|
