@@ -43,7 +43,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (52), Markland (40), Beza (25), Bentley (22), Blass (21), Naber (18), Johannes Pierson (15), Michelsen (15), Cobet (14), and Owen (14).</p>
+<p>The top 10 critics are Valckenaer (52), Markland (40), Beza (25), Bentley (22), Blass (21), Naber (18), Johannes Pierson (16), Michelsen (15), Cobet (14), and Owen (14).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -438,7 +438,7 @@ Stob. 4.20.46|χερσὶ(ν)|χεροῖν|Scaliger|1623|Paris. 1985 (B) teste 
 Stob. 4.20.46|ποτ᾽ ἐνίους|ποταινίους|Scaliger|1623|Paris. 1985 (B) teste Gaisford|S. apud Grotium
 Stob. 4.21.20|-ειν|ἔχων|August Matthiae|1829|Exc. Stob. Escor. X-1-13|
 Stob. 4.21.20|εἴην|εἴη|Valckenaer|1767|Exc. Stob. Escor. X-1-13|'ut Pelopis fortasse sit votum, vel alterius, de filio loquentis'
-Stob. 4.39.15|λώϊστον δὲ ζ.|λῷστον δὲ τὸ ζῆν|Johann Pierson|1759|Paris. 1985 (B) teste Brunck/Gaisford|
+Stob. 4.39.15|λώϊστον δὲ ζ.|λῷστον δὲ τὸ ζῆν|Johannes Pierson|1759|Paris. 1985 (B) teste Brunck/Gaisford|
 Str. 8.5.6|πολέμοις|-μιοις|Theodorus Agallianus|1446|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.5.6|-ϲ(ιν) ἅρμαϲι|μυρίοιϲι νάμαϲι(ν)|Casaubon|1621|Vat. gr. 2306 + 2061 A (P)|μυριοιϲιν ναμαϲιν
 Str. 8.5.6|-οτάτην|εὐβοτωτάτην|Casaubon|1621|Vat. gr. 2306 + 2061 A (P)|
