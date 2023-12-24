@@ -345,6 +345,7 @@ P.Ryl. 652.10|ορ( )|ὁρρίοις|Roberts-Turner|1952|P.Oxy. XXIV 2408|
 P.Tebt. 286.15|om.|ἱερεύς|Hunt|1907|P.Oxy. VIII 1092|
 Pherecr. fr. 80|ὁ βλὰξ|ὀκλὰξ|Bekker|1814|Phot. α 387|
 Pherecr. fr. 166|ἃ|ἅ σε|Martin Runkel|1829|Phot. α 816|p. 70
+Pherecr. fr. 181|-ίαν|Ἀδώνι'|Scaliger|s.xvi/xvii|Phot. α 400|apud Cant. ms. ΙΙ p. 23
 Philo Ebr. 2|om.|τοῦ|Richter|n.d.|P.Oxy. IX 1173|[τ]ο̣υ
 Philo Ebr. 221|ἐπειδάν|ἐπειδάν δ'|Wendland|1897|P.Oxy. IX 1173|
 Philo Ebr. 221|οἰνηρεύσεις|οινηρυσει[ς|Turnebus|n.d.|P.Oxy. IX 1173|
