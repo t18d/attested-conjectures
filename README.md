@@ -123,8 +123,8 @@ Ar. Ran. 1496|-σι|σεμνοῖσιν|Brunck|1783|Bodl. Holkh. gr. 88 (L)|
 Ar. Vesp. 576|γράψομαι|γράφομαι|Brunck|1783|P.Oxy. XI 1374|
 Ar. Vesp. 790|ἐπέθηκε|ἐνέθηκε|Bergk|n.d.|P.Oxy. XI 1374|
 Ar. Vesp. 1132/5|ἀναλαβοῦ|ἀναβαλοῦ|Valckenaer|1757|B et Rpc|
-Ar. fr. 135|-ειψεν/ἡμεῖς|ἤμει|Bekker|1829|P.Oxy. XV 1801|
-Ar. fr. 471|καὶ τῶν βελέκκων|βελέκκων|Theodor Kock|1880|P.Oxy. XV 1801|
+Ar. fr. 135|-ειψεν/ἡμεῖς|ἤμει|Bekker|1829|Phot. Szac|
+Ar. fr. 471|καὶ τῶν βελέκκων|βελέκκων|Theodor Kock|1880|P.Oxy. XV 1801|CAF I
 Arat. Phaen. 736|ἰοῦσα|ἄγουσα|Buttman|n.d.|BKT V/I 7503 + 7804|
 Arat. Phaen. 750|ἐμπλήσει|ἐμπλήσσει|Voss|n.d.|BKT V/I 7503 + 7804|
 Arat. Phaen. 870|φαίνονται|φαίνωνται|Voss|n.d.|BKT V/I 7503 + 7804|
@@ -367,6 +367,7 @@ Plu. 4.21A|ἦ/ἐῆ/εἴη|ἴῃ|Brunck|1786|Palat. gr. 178 (p)|
 Plu. 4.21B|-οῖ|φρονεῖ|Cobet|1877|G1X1vZWCh|Mnem. N.S. 5 (1877) 243
 Plu. Caes. 45.8|ταιc|αις|Moses Solanus|1729|P.Oxy. LXXXI 5270|
 Plu. Comp. Lyc. Num. 3.5|ἀν-|συνερραμμέναι|Henrik van Herwerden|1887|S1|Lucubr. 83
+Poll. 10.74|δανείζειν|διανίζειν|Henrik van Herwerden|1882|Paris. gr. 2646 (F)|Mnem. 10 (1882) 74
 Porph. Antr. 8|ἔρχετ᾽|ἔρχεταί τ᾽|Rudolf Hercher|1858|Vat. gr. 325 (V)|
 Priscian. Inst. 18.197|ὅσοι γὰρ/θεοῖς ἄρ'|θεοὶ γὰρ|Madvig|1846|VR|Philol. 1 (1846) 672
 Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Bergk|1835|FP|κωϋ κεθέλουσα F: κ’ ώυ κ’ ἐθέλοις P
