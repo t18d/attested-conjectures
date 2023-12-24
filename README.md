@@ -196,6 +196,7 @@ Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.
 D.H. 1.48.2|-λεῖ|κύκλῳ|Reiske|1775|Urb. 105 (B)|
 D.H. Comp. 9|πλεῖον/πλείων|πλέον|Dindorf|1832-60|Laur. 59.15 (F)|
 D.L. 2.18|Εὐριπίδης|-δας|Cobet|1850|Laur. 69.13 (F)|
+D.L. 3.17|σαφάσαιμι/σαφὲς ἅμι|σάφα ἴσαμι|Ahrens|1843|B1|σαφαισαμι
 D.L. 3.56|-ϲαν|ϲυνεπλήρωϲεν|Usener|1870|Laur. 69.13 (F) et Paris. gr. 1759 (P)|RhM 25 (1870) 579; -σαν BPF teste Dorandi
 D.S. 9.10.4|ἐᾷ τὰ γρ.|ἐᾷ με γρ.|Dindorf|s.xix med.|Vat. teste Herwerden|
 D.T. schol. p. 471, 35|Ἀντιφ-|Ἰοφῶντος|J. A. Cramer|1837|Vat. gr. 14 (C)|
