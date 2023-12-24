@@ -47,7 +47,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (53), Markland (40), Beza (25), Bentley (23), Blass (21), Naber (18), Johannes Pierson (16), Cobet (15), Michelsen (15), and Owen (14).</p>
+<p>The top 10 critics are Valckenaer (53), Markland (40), Beza (25), Bentley (23), Blass (22), Naber (18), Johannes Pierson (16), Cobet (15), Michelsen (15), and Owen (14).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -216,6 +216,7 @@ Din. 3.21|καταλλάξαϲθαι|ἀντικαταλλ-|G. A. Hirschig|1850|
 Din. 3.22|om.|ψηφιϲμάτων|Eduard Maetzner|1842|P.Oxy. XLIX 3437|
 Diog. Ep. 34.2|ἀρκ-|ἀλκτήρια|Alfons Hecker|1842|Pal. 398 (P)|Comment. Callim. (1842) 92 ad Callim. fr. 346 Pf.
 Diph. fr. 69|-ην/-ον|εὑρημένη|Scaliger|n.d.|Et.Sym. et Synag.|
+Epich. fr. 97|]ότως|και εοικοτως|Blass|1889|P.Oxy. XXV 2429|Jb. cl. Ph. 139 (1889) 261
 Epict. Diatr. 4.1.136|om.|εἰ|Hieronymus Wolf|1560|P.Cair.Mich. II 11|vel πότερον Wolf
 Eub. fr. 39|δ' ἐπέσεσθε κτλ.|δὲ πεύσεσθ'|Meineke|1839-57|Et.Sym.|
 Eub. fr. 46|-λικὰ|σικελὰ|Bentley|1708|Poll. F|epist. ad Hemst. I p. 284 Wordsw.
