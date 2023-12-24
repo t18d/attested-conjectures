@@ -443,7 +443,9 @@ Soph. fr. 481|δρώπα/δρωπτά|δρωπά|J. A. H. Tittmann|1808|Suid. δ
 Soph. fr. 591|ἐν φύλων|ἕν φῦλον|Bergk|1836|Favorin. Π φυγῆς|ZfA 3 (1836) 78
 Soph. fr. 635|σακκο-|σακοδερμηστής|Palmerius|1668|Synag. Phot.|ap. Hsch. σ 76
 Soph. fr. 871|εὐγενεστ-|εὐπρεπεστάτη|Ritschl|1829|Plu. 5.517D|
-Soph. fr. 945|-πώρων|ταλαίπωρον|Conrad Gesner||Stob. MA/Apostol. plerique codd.|
+Soph. fr. 945.1|-πώρων|ταλαίπωρον|Conrad Gesner|1543|Stob. MA/Apostol. plerique codd.|
+Soph. fr. 945.2|εἰκ-|ἐοικότες|Conrad Gesner|1543|codd.|
+Soph. fr. 961|ὑπερπ-|ὑπεκπηδᾷ|Henrik van Herwerden|1855|Stob. 1.3.7|Observ. 129 (diss. Leiden)
 Sor. Gyn. 2-3|Ἀθηναίων|Ἀθηνίων|Wellmann|n.d.|PSI II 117|
 Sor. Gyn. 2-3|τῆς αἱρέσεως|τῶν περὶ τ. α.|Rose|n.d.|PSI II 117|
 Sor. Gyn. 2-3|Ζήνωνα ... Ἀριστοτέλην τὸν Ἐπικούριον|Ἀ. ... Ζ. τ. Ἐ.|Ermerins|n.d.|PSI II 117|
