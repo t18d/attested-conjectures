@@ -477,6 +477,7 @@ Str. 8.7.5|Φαρ(ι)εῖς|Φαραιεῖς|Gustav Kramer|1844|Vat. gr. 2306 
 Str. 9.1.6|-δον/-μαλ κτλ.|ὅμαυλον|Dindorf|1832-60|EAs|
 Str. 9.2.35|οὔτε|οὐδὲ|Adamantios Korais|1805|P.Petr. I 3|ουδ
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. ε 424|Men. et Phil. p. 15
+Synag. 177.16|ἀωρὶ θανάτωι|ἀωροθάνατος|Dindorf|1835|Phot. α 3493|
 Synag. 353.9|ἀτη-|ἀτειρής|Friedrich Wilhelm Wagner|1852|Phot. α 474|
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
 Theoc. 2.35/36a schol.|-δρομος|πρόδομος|Samuel Butler|1816|Bodl. Can. gr. 86 (Gaisford)|
