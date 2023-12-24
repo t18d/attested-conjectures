@@ -305,7 +305,7 @@ Men. fr. 602.5|ἐψευϲμένοϲ|ϲ' ἐψευϲμένοϲ|Grotius|1626|P.Ox
 Men. fr. 602.11|οἶκτον|ὄγκον|Friedrich Duebner|1938|P.Oxy. XLIX 3433|Menandri et Philemonis Fragmenta p. 54
 Men. fr. 602.18|λοιπόν|λυπηρόν|Wilamowitz|1876|P.Oxy. XLIX 3433|Herm. 11 (1876) 504
 Men. fr. 644|ἀπολόμ-|ἀπωλλύμεϲθα|Theodor Kock|1880-8|Schol. V Ar. Av. 374|CAF
-Men.Rh. 1.9.4|οἳ|οἷον|Conrad Bursian|1882|Z|
+Men.Rh. 343.18|οἳ|οἷον|Conrad Bursian|1882|Paris. gr. 2423 (Z)|
 Nonn. Dion. 14.393|ἀκωκήν|κολώνην|Graefe|n.d.|P.Berol. inv. 10567|κορώνην
 Nonn. Dion. 14.398|πολυσταφύλῳ|φιλοσταφύλῳ|Graefe|n.d.|P.Berol. inv. 10567|
 Nonn. Dion. 15.87|οἰνηθέντες|οἰνωθεντες|Graefe|n.d.|P.Berol. inv. 10567|
