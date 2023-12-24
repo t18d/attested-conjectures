@@ -442,6 +442,7 @@ Soph. fr. 240|τὰ δ᾽ ὅσα|τάδε σε|Bergk|1859|Anon. Ambros. de re m
 Soph. fr. 265|ἀντεροῦσ-|ἀνταίρουσιν|Isaac Vossius|s.xvii|Cyrill.|apud Alberti
 Soph. fr. 294|ἐπισχολάζεται|κοὐκ ἔτι σχολάζεται|Meineke|n.d.|P.Oxy. IX 1174|
 Soph. fr. 330|-ὴν -ην/-ὴ -η|λευκῇ στάθμῃ|T. G. Tucker|1904|Sud. A (F)|CR 18 (1904) 245
+Soph. fr. 339|ἢ|ἦ|Gaisford|1826|Phot. α 1990|Sophoclis tragoediae septem p. 40
 Soph. fr. 481|δρώπα/δρωπτά|δρωπά|J. A. H. Tittmann|1808|Suid. δ 1538|T. apud Zonar.
 Soph. fr. 591|ἐν φύλων|ἕν φῦλον|Bergk|1836|Favorin. Π φυγῆς|ZfA 3 (1836) 78
 Soph. fr. 635|σακκο-|σακοδερμηστής|Palmerius|1668|Synag. Phot.|ap. Hsch. σ 76
