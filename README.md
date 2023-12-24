@@ -35,6 +35,7 @@
         <li>Markus, D., and G. Schwendner, 'Seneca’s Medea in Egypt (663–704)', <em>ZPE</em>, 117 (1997), 73–84.</li>
         <li>Radt, Stefan (ed.), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, iii: <em>Aeschylus</em> (Göttingen, 1985).</li>
         <li>Radt, Stefan (ed.), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, iv: <em>Sophocles</em> (2nd edn, Göttingen, 1999).</li>
+        <li>Snell, Bruno, and Richard Kannicht (eds), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, i: <em>Didascaliae tragicae; Catalogi tragicorum et tragoediarum; Testimonia et fragmenta tragicorum minorum</em> (Göttingen, 1986).</li>
         <li>Sommerstein, Alan H., 'The history of the text of Aristophanes', in <em>Brill's Companion to the Study of Greek Comedy</em> (Brill, 2010), 399-422 at 412n69.</li>
         <li>Wilson, N. G., <em>Herodotea: studies on the text of Herodotus</em> (Oxford, 2015), xii-xiii.</li>
     </ul>
