@@ -55,6 +55,7 @@ AP 5.218.2|γλυκεροὺς/-ρὰς|Γλυκέρας|Scaliger|s.xvi/xvii|P.O
 AP 9.588.5|ἐπωμίδας|βραχείονας|Johannes Pierson|s.xviii med.|P.Tebt. I 3|
 Ach.Tat. LC 2.2.1|γὰρ τὸν|τὸν γὰρ|Friedrich Jacobs|1821|P.Oxy. X 1250|
 Ach.Tat. LC 2.9.2|-θιγεν|προσέθηκεν|B. G. L. Boden|1776|P.Oxy. X 1250|]ηκεν
+Ael. NA 12.10|-ία|μυωνιά|Theodor Kock|1880-8|L|
 Aesch. PV 157|ἐπεγήθει/ἐπιγήθει|ἐγεγήθει|Valckenaer|s.xviii med.|Ambros. gr. G 56 (D) et Matrit. gr. 4677 (N)|
 Aesch. T 1.5|-ουϲ|Ἀριϲτοφάνει|Bergk|1883|BXc|Hermes 18 (1883) 483
 Aesch. T 56b.2|καταθ-|καϑέϲειϲ|Casaubon|1600|Marc. gr. 468 (V)|Animadv. 260, 24 sq.
@@ -210,7 +211,7 @@ Din. 1.109|ἐλεήϲετε|ε̣λ̣ε̣ηϲαιτε|P. P. Dobree|1831|P.Oxy. X
 Din. 3.21|καταλλάξαϲθαι|ἀντικαταλλ-|G. A. Hirschig|1850|P.Oxy. XLIX 3437|Philologue 5 (1850) 326-328
 Din. 3.22|om.|ψηφιϲμάτων|Eduard Maetzner|1842|P.Oxy. XLIX 3437|
 Diog. Ep. 34.2|ἀρκ-|ἀλκτήρια|Alfons Hecker|1842|Pal. 398 (P)|Comment. Callim. (1842) 92 ad Callim. fr. 346 Pf.
-Diph. fr. 69|-ην/-ον|εὑρημένη|Scaliger|n.d.||
+Diph. fr. 69|-ην/-ον|εὑρημένη|Scaliger|n.d.|Et.Sym. et Synag.|
 Epict. Diatr. 4.1.136|om.|εἰ|Hieronymus Wolf|1560|P.Cair.Mich. II 11|vel πότερον Wolf
 Eur. Hec. 580|λέγον|λέγων|Johannes Pierson|pre-1752|MB et V2 et iΣm|
 Eur. Hec. 931|Ἰλιάδα|Ἰλιάδος|Valckenaer|1749|K1c et PrRfRw|
