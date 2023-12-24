@@ -328,6 +328,7 @@ Philo Ebr. 2|om.|τοῦ|Richter|n.d.|P.Oxy. IX 1173|[τ]ο̣υ
 Philo Ebr. 221|ἐπειδάν|ἐπειδάν δ'|Wendland|1897|P.Oxy. IX 1173|
 Philo Ebr. 221|οἰνηρεύσεις|οινηρυσει[ς|Turnebus|n.d.|P.Oxy. IX 1173|
 Philo Ebr. 222|μαρμάζει|μαιμᾷ|Mangey|n.d.|P.Oxy. IX 1173|μαιμαῑ
+Phot. α 151|άγενὲς|άγεννὲς|Jan van Leeuwen|1907|cod. Zavord. 95 (z)|Mnem. 35 (1907) 253
 Phot. α 448|ἄμπελον|ἄπεπλον|Leo|1907|cod. Zavord. 95 (z)|Hermes 42, 1907, 153/4 = Kl. Schr. 2,409
 Phot. α 448|ἄμπελον|ἄπεπλον|Wilamowitz|1907|cod. Zavord. 95 (z)|SBAk. Berlin 1907,3 = Kl. Schr. 4,529
 Phot. α 2252|-ων|σπεύδω|Wilamowitz|1907|cod. Zavord. 95 (z)|SBAk. Berlin 1907,13 = Kl. Sehr. 4,541
