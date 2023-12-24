@@ -289,6 +289,7 @@ Men. Her. fr. 2.2|δὲ δεῖ|δεῖ|Guil. Morelius|1553|P.Bour. 1|
 Men. Kol. 50|νῦν|νυνί|Grotius|s.xvii in.|P.Oxy. III 409|Eust.1833.58.; G. apud Clericum
 Men. Kon. fr. 1.2|ἴδηις|ειδηις|Meineke|1839-51|P.Berol. inv. 21312 b. c + P.Schub. 27|Men. et Phil. p. 103
 Men. Mis. 51–52|ὕοντα πολλῶι|ϋοντα πολλω|Porson|s.xviii/xix|P.Oxy. XLVIII 3368|ap. Dobree Adv. II p. 285
+Men. Mon. 518|-ρίοις|ἐγχώροις|Grotius|1623|Marc. gr. 481 (Γ)|
 Men. Phasm. 73|-ϲθαι ἀν|ε]π̣ιϲημ̣[αιν]εϲθεαν|Bentley|post-1710|P.Oxy. XXXVIII 2825|Meineke Men. et Phil. p. 498
 Men. Pk. 46|θ’ εαυτων|θ αυτων|W. G. Headlam|1908|P.Heid. G 219 + 239 h|
 Men. Pk. 46|θ’ εαυτων|θ αυτων|W. G. Headlam|1908|P.Heid. G 219 + 239 h|
