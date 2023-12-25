@@ -248,6 +248,8 @@ Eur. Hipp. 584|ἰαχὰν|ιαν|Weil|n.d.|P.Oxy. XIX 2224|
 Eur. Hipp. 659|ἔκδημος|ἐκδημῆ|Hermann|n.d.|DB2|
 Eur. Hipp. 814|ὦ βιαίως|βιαίω|Elmsley|n.d.|Laur. 31.15 (D)|
 Eur. Hipp. 1070|ἧπαρ δακρύων τ'|ἧπαρ• δακρύων|Wilamowitz|n.d.|HnOx|
+Eur. Hipp. 1255|-ραὶ|συμφορὰ|Elmsley|n.d.|Laur. 31.10 (O)|
+Eur. Hipp. 1317|-póv|ἐχθρῶν|Elmsley|n.d.|V3|
 Eur. IT. 252|καὶ τυχόντες|κἀντυχόντες|Reiske|1753-4|P.Hib. 24|
 Eur. IT. 1618|τήνδε|τῆσδε|Bothe|n.d.|P.Hib. 24|
 Eur. Med. 12|πολιτῶν|πολίταις|Joshua Barnes|n.d.|V3|
