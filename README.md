@@ -242,6 +242,7 @@ Eur. IT. 1618|τήνδε|τῆσδε|Bothe|n.d.|P.Hib. 24|
 Eur. Med. 12|πολιτῶν|πολίταις|Joshua Barnes|n.d.|V3|
 Eur. Med. 140|ὁ|τὸν|Samuel Musgrave|1778|HE|
 Eur. Med. 159|εὐνέταν|εὐνάταν|Tyrwhitt|n.d.|Es|
+Eur. Med. 189|-μαθ-|ὁρμηθῆ(ι)|Brunck|n.d.|Athos Iviron 209 (E)|
 Eur. Med. 1180|δρομήμασιν|δραμήμασιν|Cobet|s.xix ex.|P.Oxy. XX 2337|
 Eur. Med. (a) 15|ἡβώωντα/ἡβόωντα|ἡβώοντα|Janus Lascaris|n.d.|Pal. gr. 98 (Va)|
 Eur. Med. (a) 28|τῶ|τὸ|Brunck|n.d.|Laur. 31.15 (D)|
