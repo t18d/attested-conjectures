@@ -321,6 +321,12 @@ Eur. Ph. 1132|βίαι|βάθρων|Adolf Kirchhoff|1855|T.Vindob. inv. G HT 6|
 Eur. Ph. 1149 schol.|-ϲτρέψαι|ἀναϲτέψαι|Joshua Barnes|1694|Vat. 909 (A)|
 Eur. Supp. 1150|-ῶν|δαναϊδᾶν|Elmsley|n.d.|Triclinii emendatio 1|
 Eur. T 1.IA.2-3|ἑταῖρος δὲ δοκεῖ|ἑταῖρος. δοκεῖ δὲ|Elmsley|1821|RwZc|
+Eur. Tr. 578|ἰώ μοι μοὶ|οἴμοι|Burges|n.d.|Σ|
+Eur. Tr. 633|τ. δ'|τῶι μὲν|Burges|n.d.|Stob. Spc|
+Eur. Tr. 802|-νας|᾿Αθάνα|Musurus|n.d.|Σi|
+Eur. Tr. 930|ὑπεκδ-|ὑπερδράμοι|Canter|n.d.|Tzetzae cod. Lips.|
+Eur. Tr. 931|ἐνθένδ᾽|ἔνθεν δ᾽|Tyrrell|n.d.|Harl. 5743 (q)|
+Eur. Tr. 1076|σὺν δ'|συνδώδεκα|Joshua Barnes|n.d.|Pal. gr. 98 (Va)|
 Eur. fr. 119+120.6|πατρος|πάτρας|Heinrich Düntzer|1850|P.Oxy. XXXII 2628|Philologus 5 (1850) 186
 Eur. fr. 495.42|τῶν τέχνων|τω]ν κενων|Conrad Gesner|1543|BKT V/II 5514|
 Eur. fr. 588.3|οὐδὲν|οὐδέν᾽|Grotius|1623|Diog. Laert. Bc|
@@ -343,7 +349,7 @@ Hdt. 1.196.1|ὧδε|οἵδε|Eltz|n.d.|P.Ross.Georg. I 15|
 Hdt. 1.196.3|οἱ ἐξέλθοι|διεξέλθοι|Stephan Bergler|1715|P.Ross.Georg. I 15|B. apud Gronovius
 Hdt. 2.79.1|ἅπαξ ἅ|ἁπαξὰ|Hoffmann|n.d.|P.Oxy. inv. 85/40a|
 Hdt. 2.175|οἱ|οἷα|F. L. Abresch|s.xviii med.|P.Oxy. VIII 1092|
-Herm. Sim. 2.17|⟨καὶ⟩ εὐχαριστεῖ|εὐχαριστῶν|Tischendorf|n.d.|P.Oxy. IX 1172|
+Herm. Sim. 2.17|<καὶ> εὐχαριστεῖ|εὐχαριστῶν|Tischendorf|n.d.|P.Oxy. IX 1172|
 Herm. Sim. 2.28|συνιει|συνηκεν|Tischendorf|n.d.|P.Oxy. IX 1172|
 Herm. Sim. 8.54|λοιπόν|αὐτόν|Hilgenfeld|n.d.|P.Oxy. XIII 1599|
 Hes. Op. 263|-λεῖς/-λῆες|βασιλῆς|G. H. Schaefer|s.xviii/xix|P.Oxy. VIII 1090|
