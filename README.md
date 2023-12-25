@@ -248,6 +248,7 @@ Eur. Hec. 355|μέτα|μέγα|Canter|n.d.|Rw i.m.|
 Eur. Hec. 426|τ᾽ ἐμοί|τέ μοι|A. Matthiae|1813|Athos Iviron 185 (Sa = Si)|
 Eur. Hec. 580|λέγον|λέγων|Johannes Pierson|pre-1752|MB et V2 et iΣm|
 Eur. Hec. 605|μου|μοι|Schaefer|n.d.|Dresd. Da.22 (Dr)|
+Eur. Hec. 810|ποτ᾽|τότ᾽|Hoffmann|n.d.|Laur. 31.10 (O)|
 Eur. Hec. 931|Ἰλιάδα|Ἰλιάδος|Valckenaer|1749|K1c et PrRfRw|
 Eur. Heracl. 837|-ῃ|μάχη|Elmsley|n.d.|Laur. 32.3 (L)|
 Eur. Hipp. 71-72|ὄπαρθένων ἄρτεμι|ὄλυμπον|Nauck|n.d.|Laur. 31.10 (O)|
