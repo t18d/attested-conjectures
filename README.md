@@ -243,6 +243,9 @@ Eur. Andr. 985|τε|δὲ|Blaydes|n.d.|Vatop. 36 (gV)|
 Eur. Andr. 1009|ἰὼ|ω|Aldina|n.d.|P.Oxy. XXII 2335 et P.Berol. inv. 17021|
 Eur. Andr. 1079|-άθειν|ἀμυναθεῖν|Elmsley|n.d.|Hier. τάφου 36 (H)|
 Eur. Hec. 8|χερρο-|Χερσονησίαν|Brunck|n.d.|St.Byz.|
+Eur. Hec. 210|ἁ τ-|τάλαινα|Seidler|n.d.|Vat. gr. 53 (Vb)|
+Eur. Hec. 355|μέτα|μέγα|Canter|n.d.|Rw i.m.|
+Eur. Hec. 426|τ᾽ ἐμοί|τέ μοι|A. Matthiae|1813|Athos Iviron 185 (Sa[Si])|
 Eur. Hec. 580|λέγον|λέγων|Johannes Pierson|pre-1752|MB et V2 et iΣm|
 Eur. Hec. 931|Ἰλιάδα|Ἰλιάδος|Valckenaer|1749|K1c et PrRfRw|
 Eur. Heracl. 837|-ῃ|μάχη|Elmsley|n.d.|Laur. 32.3 (L)|
