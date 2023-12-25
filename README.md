@@ -242,7 +242,10 @@ Eur. Andr. 962|φόβω(ι)|φόνωι|Lenting|n.d.|Hier. τάφου 36 (H)|
 Eur. Andr. 985|τε|δὲ|Blaydes|n.d.|Vatop. 36 (gV)|
 Eur. Andr. 1009|ἰὼ|ω|Aldina|n.d.|P.Oxy. XXII 2335 et P.Berol. inv. 17021|
 Eur. Andr. 1079|-άθειν|ἀμυναθεῖν|Elmsley|n.d.|Hier. τάφου 36 (H)|
-Eur. El. 374|γ' ἄρα|ταρα|Seidler|n.d.||
+Eur. El. 374|γ' ἄρα|ταρα|Seidler|n.d.|P.Hib. I 7|
+Eur. El. 568|-ῆς|φρονεῖς|Jackson|n.d.|Lac|
+Eur. HF 62|θεῶν|θείων|Adolf Kirchhoff|n.d.|ps.-Iustin. expos. fid. 8|
+Eur. HF 168|ἐμοὺς|]εμοι|Camper|n.d.|P.Hib. II 179|
 Eur. Hec. 8|χερρο-|Χερσονησίαν|Brunck|n.d.|St.Byz.|
 Eur. Hec. 210|ἁ τ-|τάλαινα|Seidler|n.d.|Vat. gr. 53 (Vb)|
 Eur. Hec. 355|μέτα|μέγα|Canter|n.d.|Rw i.m.|
@@ -276,8 +279,8 @@ Eur. Hipp. 814|ὦ βιαίως|βιαίω|Elmsley|n.d.|Laur. 31.15 (D)|
 Eur. Hipp. 1070|ἧπαρ δακρύων τ'|ἧπαρ· δακρύων|Wilamowitz|n.d.|HnOx|
 Eur. Hipp. 1255|-ραὶ|συμφορὰ|Elmsley|n.d.|Laur. 31.10 (O)|
 Eur. Hipp. 1317|-póv|ἐχθρῶν|Elmsley|n.d.|V3|
-Eur. IT. 252|καὶ τυχόντες|κἀντυχόντες|Reiske|1753-4|P.Hib. 24|
-Eur. IT. 1618|τήνδε|τῆσδε|Bothe|n.d.|P.Hib. 24|
+Eur. IT. 252|καὶ τυχόντες|κἀντυχόντες|Reiske|1753-4|P.Hib. I 24|
+Eur. IT. 1618|τήνδε|τῆσδε|Bothe|n.d.|P.Hib. I 24|
 Eur. Med. 12|πολιτῶν|πολίταις|Joshua Barnes|n.d.|V3|
 Eur. Med. 140|ὁ|τὸν|Samuel Musgrave|1778|HE|
 Eur. Med. 159|εὐνέταν|εὐνάταν|Tyrwhitt|n.d.|Es|
