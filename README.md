@@ -51,7 +51,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (54), Markland (40), Beza (25), Bentley (24), Blass (22), Naber (18), Johannes Pierson (16), Cobet (16), Nauck (16), and Michelsen (15).</p>
+<p>The top 10 critics are Valckenaer (54), Markland (40), Beza (25), Bentley (24), Blass (22), Naber (18), Johannes Pierson (16), Cobet (16), Nauck (16), Elmsley (15), and Michelsen (15) (last 2 tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -242,6 +242,7 @@ Eur. Andr. 962|φόβω(ι)|φόνωι|Lenting|n.d.|Hier. τάφου 36 (H)|
 Eur. Andr. 985|τε|δὲ|Blaydes|n.d.|Vatop. 36 (gV)|
 Eur. Andr. 1009|ἰὼ|ω|Aldina|n.d.|P.Oxy. XXII 2335 et P.Berol. inv. 17021|
 Eur. Andr. 1079|-άθειν|ἀμυναθεῖν|Elmsley|n.d.|Hier. τάφου 36 (H)|
+Eur. El. 374|γ' ἄρα|ταρα|Seidler|n.d.||
 Eur. Hec. 8|χερρο-|Χερσονησίαν|Brunck|n.d.|St.Byz.|
 Eur. Hec. 210|ἁ τ-|τάλαινα|Seidler|n.d.|Vat. gr. 53 (Vb)|
 Eur. Hec. 355|μέτα|μέγα|Canter|n.d.|Rw i.m.|
@@ -315,6 +316,7 @@ Eur. Ph. 1040|ἰαζὰ|ἀχὰ|Samuel Musgrave|1778|P.Oxy. II 224|ἀχᾷ Π
 Eur. Ph. 1040|πόλεως|πόλεος|Porson|1824|P.Oxy. II 224|
 Eur. Ph. 1132|βίαι|βάθρων|Adolf Kirchhoff|1855|T.Vindob. inv. G HT 6|
 Eur. Ph. 1149 schol.|-ϲτρέψαι|ἀναϲτέψαι|Joshua Barnes|1694|Vat. 909 (A)|
+Eur. Supp. 1150|-ῶν|δαναϊδᾶν|Elmsley|n.d.|Triclinii emendatio 1|
 Eur. T 1.IA.2-3|ἑταῖρος δὲ δοκεῖ|ἑταῖρος. δοκεῖ δὲ|Elmsley|1821|RwZc|
 Eur. fr. 119+120.6|πατρος|πάτρας|Heinrich Düntzer|1850|P.Oxy. XXXII 2628|Philologus 5 (1850) 186
 Eur. fr. 495.42|τῶν τέχνων|τω]ν κενων|Conrad Gesner|1543|BKT V/II 5514|
