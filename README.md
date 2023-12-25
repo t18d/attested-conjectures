@@ -327,6 +327,9 @@ Eur. Tr. 802|-νας|᾿Αθάνα|Musurus|n.d.|Σi|
 Eur. Tr. 930|ὑπεκδ-|ὑπερδράμοι|Canter|n.d.|Tzetzae cod. Lips.|
 Eur. Tr. 931|ἐνθένδ᾽|ἔνθεν δ᾽|Tyrrell|n.d.|Harl. 5743 (q)|
 Eur. Tr. 1076|σὺν δ'|συνδώδεκα|Joshua Barnes|n.d.|Pal. gr. 98 (Va)|
+Eur. Tr. 1234|-ίσει|φροντιεῖ|A. Matthiae|n.d.|Chr. Pat. 1383|
+Eur. Tr. 1277|ἀμ-|ἐμπνέουϲ᾽|Wakefield|n.d.|q et Chr. Pat. 1704|
+Eur. Tr. 1306|κρύπτουσα|κτυποῦσα|Samuel Musgrave|n.d.|Σ|
 Eur. fr. 119+120.6|πατρος|πάτρας|Heinrich Düntzer|1850|P.Oxy. XXXII 2628|Philologus 5 (1850) 186
 Eur. fr. 495.42|τῶν τέχνων|τω]ν κενων|Conrad Gesner|1543|BKT V/II 5514|
 Eur. fr. 588.3|οὐδὲν|οὐδέν᾽|Grotius|1623|Diog. Laert. Bc|
