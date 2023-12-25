@@ -49,7 +49,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (53), Markland (40), Beza (25), Bentley (23), Blass (22), Naber (18), Johannes Pierson (16), Cobet (15), Michelsen (15), and Owen (14).</p>
+<p>The top 10 critics are Valckenaer (53), Markland (40), Beza (25), Bentley (24), Blass (22), Naber (18), Johannes Pierson (16), Cobet (15), Michelsen (15), and Owen (14).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -118,6 +118,7 @@ Ar. Eq. 1058|φράσαι/φράζευ|φρασ]σαι|Brunck|1783|P.Oxy. XI 137
 Ar. Lys. 427|ἀλλ’|ἄλλ’|Valckenaer|1757|MS (Brunck 1781)|
 Ar. Nub. 507|μελιττοῦταν|μελιτοῦτταν|Valckenaer|s.xviii ex.|Laur. Conv. Soppr. 140|
 Ar. Pax 1013|ἀποχειρωθείς|ἀποχηρωθείς|Valckenaer|1757|Marc. gr. 474 (V)|
+Ar. Plut. 179 schol.|ανόητον|ὄνον τὸν|Bentley|1710||ap. Kusterum, Not. p. 321
 Ar. Plut. 1018|παγκάλας|παγκάλους|Valckenaer|1757|Mpc et L|
 Ar. Plut. 1037|τυγχάνει|τυγχάνοι|Valckenaer|1757|Marc. gr. 474 (V)|
 Ar. Plut. 1116|ἐπιθύει|ἔτι θύει|Valckenaer|1757|Marc. gr. 474 (V)|
@@ -374,6 +375,7 @@ Pl. Smp. 209a|κυεῖν|τεκεῖν|Hug|n.d.|P.Oxy. VI 843|
 Pl. Smp. 209b|ἐπιθυμεῖ|επιθυμη|Henri Estienne|1578|P.Oxy. V 843|
 Pl. Smp. 222d|διαβάλῃ|διαβαλει|R. B. Hirschig|s.xix med.|P.Oxy. V 843|
 Pl. Tht. 152b12|αἰσθάνεσθαί|αἰσθάνεταί|Gottfried Faehse|n.d.|BKT II|ἐστιν om.
+Pl.Com. fr. 30|μόγις/μόσις|μόλις|Ottomar Bachmann|1878|Ar. Αν. 798 schol. Lh|
 Plb. 11.14.2|ἐμπειρίαν|τὴν τῶν ἡγουμένων ἐ.|Gronovius|s.xvii med.|P.Ryl. 60|
 Plb. 11.14.3|προθεῖναι|προσθ-|Scaliger|s.xvi/xvii|P.Ryl. 60|
 Plb. 11.15.5|ὡρακίτας|θωρ-|Ursinus|1582|P.Berol. inv. 9570 = APF 1:388-95|
