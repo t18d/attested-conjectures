@@ -51,7 +51,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (54), Markland (40), Beza (25), Bentley (24), Blass (22), Naber (18), Johannes Pierson (16), Cobet (16), Nauck (15), and Michelsen (15).</p>
+<p>The top 10 critics are Valckenaer (54), Markland (40), Beza (25), Bentley (24), Blass (22), Naber (18), Johannes Pierson (16), Cobet (16), Nauck (16), and Michelsen (15).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -254,9 +254,14 @@ Eur. Hec. 908|τοῖον δ᾽ vel τοιόνδ᾽|τοῖον|King|n.d.|Hier. 
 Eur. Hec. 921|ναύταν|ναυτᾶν|Valckenaer|n.d.|Σm|
 Eur. Hec. 931|Ἰλιάδα|Ἰλιάδος|Valckenaer|1749|K1c et PrRfRw|
 Eur. Hec. 932|ἐς οἴκους|οἴκους|King|n.d.|manus Triclinii|
-Eur. Hec. 958|αῦτα κτλ.|αὐτὰ|Hermann|n.d.|F2|
+Eur. Hec. 958|αῦτα|αὐτὰ|Hermann|n.d.|F2|
 Eur. Hec. 984|χρὴ|δεῖ|Nauck|n.d.|GK|
 Eur. Hec. 1032|ἐπήγαγεν|ὑπ-|Goram|n.d.|Vat. gr. 1345 (Sa)|
+Eur. Hec. 1070|τᾶνδε|τάνδε|Seidler|n.d.|OGZc|
+Eur. Hec. 1108|ζοῆς/ζωῆς|ζόης|Porson|n.d.|Va i.m.|
+Eur. Hec. 1167|-υον|ἤνυτον|L. Dindorf|n.d.|Huv|
+Eur. Hec. 1176|τε|τὸν|Nauck|n.d.|Laur. 32.3 (L)|
+Eur. Hec. 1215|-νῶι|καπνὸς|Canter|n.d.|Kγρ|
 Eur. Heracl. 837|-ῃ|μάχη|Elmsley|n.d.|Laur. 32.3 (L)|
 Eur. Hipp. 71-72|ὄπαρθένων ἄρτεμι|ὄλυμπον|Nauck|n.d.|Laur. 31.10 (O)|
 Eur. Hipp. 364|σὰν|σᾶν|Elmsley|n.d.|Paris. gr. 2713 (B)|
