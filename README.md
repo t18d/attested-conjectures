@@ -239,7 +239,7 @@ Eur. Hec. 580|λέγον|λέγων|Johannes Pierson|pre-1752|MB et V2 et iΣm|
 Eur. Hec. 931|Ἰλιάδα|Ἰλιάδος|Valckenaer|1749|K1c et PrRfRw|
 Eur. IT. 252|καὶ τυχόντες|κἀντυχόντες|Reiske|1753-4|P.Hib. 24|
 Eur. IT. 1618|τήνδε|τῆσδε|Bothe|n.d.|P.Hib. 24|
-Eur. Med. 12|πολιτῶν|πολίταις|Barnes|n.d.|V3|
+Eur. Med. 12|πολιτῶν|πολίταις|Joshua Barnes|n.d.|V3|
 Eur. Med. 1180|δρομήμασιν|δραμήμασιν|Cobet|s.xix ex.|P.Oxy. XX 2337|
 Eur. Med. (a)15|ἡβώωντα/ἡβόωντα|ἡβώοντα|Lascaris|n.d.|Pal. gr. 98 (Va)|
 Eur. Med. (a)28|τῶ|τὸ|Brunck|n.d.|Laur. 31.15 (D)|
