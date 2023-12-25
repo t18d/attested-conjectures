@@ -254,8 +254,11 @@ Eur. Med. 884|τ' ἐμοὶ|τέ μοι|Janus Lascaris|n.d.|Pal. gr. 98 (Va)|
 Eur. Med. 979|ἁ δ.|δύστανος|Aldina|n.d.|Laur. 31.15 (D)|
 Eur. Med. 1089|κοὐκ|οὐκ|Reiske|n.d.|P.Lond.Univ.Coll. inv. s.n.|
 Eur. Med. 1094|μέν τ'|μέν γ'|Reiske|n.d.|P.Strasb. inv. WG 304-307|
-Eur. Med. 1094|μέν τ'|μέν|Porson|n.d.|Neapol. Vind. gr. 17 (Nv)|
+Eur. Med. 1094|μέν τ'|μέν|Porson|n.d.|Neap. Vind. gr. 17 (Nv)|
 Eur. Med. 1101|-ωσι|θρεψουσι|Brunck|n.d.|P.Strasb. inv. WG 304-307|
+Eur. Med. 1108|ἤλυθε/ἦλθε|ηλθεν|Dindorf|n.d.|P.Strasb. inv. WG 304-307|
+Eur. Med. 1108|ἀίδην/ἀίδαν|αιδου|Earle|n.d.|P.Strasb. inv. WG 304-307|
+Eur. Med. 1159|-πέσχ-|ἠμπίσχετο|Portus|n.d.|Hn et gE|
 Eur. Med. 1180|δρομήμασιν|δραμήμασιν|Cobet|s.xix ex.|P.Oxy. XX 2337|
 Eur. Med. (a) 15|ἡβώωντα/ἡβόωντα|ἡβώοντα|Janus Lascaris|n.d.|Pal. gr. 98 (Va)|
 Eur. Med. (a) 28|τῶ|τὸ|Brunck|n.d.|Laur. 31.15 (D)|
