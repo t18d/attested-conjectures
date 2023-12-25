@@ -51,7 +51,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (53), Markland (40), Beza (25), Bentley (24), Blass (22), Naber (18), Johannes Pierson (16), Cobet (16), Michelsen (15), Meineke (14), and Owen (14) (last 2 tied).</p>
+<p>The top 10 critics are Valckenaer (53), Markland (40), Beza (25), Bentley (24), Blass (22), Naber (18), Johannes Pierson (16), Cobet (16), Michelsen (15), Meineke (14), Reiske (14), Nauck (14), and Owen (14) (last 4 tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -235,6 +235,9 @@ Eur. Alc. 909|-ὰς|πολιᾶς|Lenting|n.d.|Laur. 31.10 (O)|
 Eur. Alc. 1037|ἀτιμάζων|ἀτίζων|Scaliger|n.d.|Harl. 5743 (Q)|
 Eur. Alc. 1092|ὅπουπερ ἔστι|ὅπου πάρεστι|Weidner|n.d.|Harl. 5743 (Q)|
 Eur. Alc. 1112|-μοις|δόμους|Monk|n.d.|Marc. gr. IX 10|
+Eur. Andr. 404|δῆτ᾽ ἐμοὶ|δῆτά μοι|Radermacher|n.d.|lΣy et Σy|
+Eur. Andr. 814|μέγ᾽ ἀλγεῖ|μεταλγεῖ|Nauck|n.d.|γρΣv et iΣhb|
+Eur. Andr. 832|-λοις|πέπλους|Reiske|n.d.|Laur. 31.10 (O)|
 Eur. Hec. 580|λέγον|λέγων|Johannes Pierson|pre-1752|MB et V2 et iΣm|
 Eur. Hec. 931|Ἰλιάδα|Ἰλιάδος|Valckenaer|1749|K1c et PrRfRw|
 Eur. Heracl. 837|-ῃ|μάχη|Elmsley|n.d.|Laur. 32.3 (L)|
