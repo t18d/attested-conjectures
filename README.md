@@ -252,6 +252,10 @@ Eur. Med. 584|νῦν|νυν|Elmsley|n.d.|gE et Σb|
 Eur. Med. 594|-έως|βασιλεων|Elmsley|n.d.|P.Heid. 1385|
 Eur. Med. 884|τ' ἐμοὶ|τέ μοι|Janus Lascaris|n.d.|Pal. gr. 98 (Va)|
 Eur. Med. 979|ἁ δ.|δύστανος|Aldina|n.d.|Laur. 31.15 (D)|
+Eur. Med. 1089|κοὐκ|οὐκ|Reiske|n.d.|P.Lond.Univ.Coll. inv. s.n.|
+Eur. Med. 1094|μέν τ'|μέν γ'|Reiske|n.d.|P.Strasb. inv. WG 304-307|
+Eur. Med. 1094|μέν τ'|μέν|Porson|n.d.|Neapol. Vind. gr. 17 (Nv)|
+Eur. Med. 1101|-ωσι|θρεψουσι|Brunck|n.d.|P.Strasb. inv. WG 304-307|
 Eur. Med. 1180|δρομήμασιν|δραμήμασιν|Cobet|s.xix ex.|P.Oxy. XX 2337|
 Eur. Med. (a) 15|ἡβώωντα/ἡβόωντα|ἡβώοντα|Janus Lascaris|n.d.|Pal. gr. 98 (Va)|
 Eur. Med. (a) 28|τῶ|τὸ|Brunck|n.d.|Laur. 31.15 (D)|
