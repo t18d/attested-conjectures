@@ -512,7 +512,7 @@ Theoc. 2.35/36a schol.|-δρομος|πρόδομος|Samuel Butler|1816|Bodl. C
 Theoc. 15.98|σπέρχιν/πέρχην|πέρυσιν|Reiske|s.xviii ex.|P.Oxy. XIII 1618|πέρυ]σιν
 Theoc. 22.40|πεφύκασιν|πεφυκεσαν|Henri Estienne|1566|P.Oxy. XV 1806|
 Theognost. p. 38, 22|ἔαϲιν|ἐωϲιν|Dindorf|1864|cod. Barocc.|Thes.L.Gr. I/2 p. 9 C
-Theopomp.Com. fr. 73|om.|ὃς|Bast|1811|Phot. α 632|ap. Schaefer, Greg. Cor. p. 511
+Theopomp.Com. fr. 73|om.|ὃς|F. J. Bast|1811|Phot. α 632|ap. Schaefer, Greg. Cor. p. 511
 Thuc. 1.110.4|Ἀθηναίων|Ἀθηνῶν|Bekker|1821|P.Oxy. XXXIV 2073|α[θη]ν̣ων
 Thuc. 4.37|ὅτι|del.|Henrik van Herwerden|s.xix ex.|P.Oxy. I 16 et IV 696|
 Thuc. 5.97|καὶ τοῦ|τοῦ καὶ|Krüger|n.d.|P.Oxy. VI 880|
