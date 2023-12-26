@@ -51,7 +51,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (64), Markland (46), Beza (25), Bentley (24), Blass (22), Elmsley (21), Naber (18), Johannes Pierson (17), Cobet (16), Reiske (16), and Nauck (16) (last 2 tied).</p>
+<p>The top 10 critics are Valckenaer (67), Markland (47), Beza (25), Bentley (24), Blass (22), Elmsley (21), Naber (18), Johannes Pierson (17), Cobet (16), Reiske (16), and Nauck (16) (last 2 tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -414,6 +414,12 @@ Eur. Ph. 1522-3|ἰαχήσω|del.|Burges|n.d.|P.Strasb. inv. WG 307|
 Eur. Ph. 1522-3|ἰαχήσω|del.|Dindorf|n.d.|P.Strasb. inv. WG 307|
 Eur. Ph. 1524|-οῖσιν|σπαραγμοῖς|Aldina|n.d.|WZ|
 Eur. Ph. 1537-8|δ. δύστανον|δεμνίοις δύστανος|Valckenaer|n.d.|Laur. 32.2 (L)|
+Eur. Ph. 1562|γ'|δ'|Jackson|n.d.|Laur. 32.33 (Rf)|
+Eur. Ph. 1562|δ'|τ'|Dindorf|n.d.|Laur. 32.33 (Rf)|
+Eur. Ph. 1626|δὲ|τε|Markland|n.d.|Haun. 3549 (Zc)|
+Eur. Ph. 1626|δὲ|τε|Valckenaer|n.d.|Haun. 3549 (Zc)|
+Eur. Ph. 1682|λίπε|λεῖπε|Valckenaer|n.d.|OV|
+Eur. Ph. 1694|γεραιᾶς|-ᾶι|Valckenaer|n.d.|Athos Vatopediou (At)|-ᾶ At
 Eur. Ph. (a) 7|ὑπὸ|ὑπὲρ|Wecklein|n.d.|Cremon. 130 (Cr)|
 Eur. Ph. (a) 8|-ξάμ-|παραταξόμενος|G. H. Schaefer|n.d.|P.Oxy. XXXI 2544|
 Eur. Ph. (a) 10-11|ἐβούλετο|ἐβουλεύετο|Adolf Kirchhoff|n.d.|Marc. gr. 468 (F)|
