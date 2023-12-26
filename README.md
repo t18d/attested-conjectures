@@ -51,7 +51,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (59), Markland (43), Beza (25), Bentley (24), Blass (22), Elmsley (20), Naber (18), Johannes Pierson (16), Cobet (16), Reiske (16), and Nauck (16) (last 2 tied).</p>
+<p>The top 10 critics are Valckenaer (59), Markland (44), Beza (25), Bentley (24), Blass (22), Elmsley (21), Naber (18), Johannes Pierson (16), Cobet (16), Reiske (16), and Nauck (16) (last 2 tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -349,11 +349,20 @@ Eur. Ph. 483|ἐμῶν|ἐμὸν|Grotius|n.d.|Arund. 540 (Za)|
 Eur. Ph. 487|αὖθις|αὖθις αὖ|Canter|n.d.|TzZb|
 Eur. Ph. 499|ταὐτὸ|ταὐτὸν|Elmsley|n.d.|Sa et Sext. Emp. hyp. Pyrrh. 1. 86|
 Eur. Ph. 548|ἀπονεῖμαι|-νέμων|Markland|n.d.|Paris. gr. 2712 (A)|
-Eur. Ph. 563|ὄψει|ο]ψη|Murray|n.d.|P.Oxy. XLIV 3153|
+Eur. Ph. 563/616|ὄψει|ο]ψη|Murray|n.d.|P.Oxy. XLIV 3153|
 Eur. Ph. 572|δή/δορός|διί|Adolf Kirchhoff|n.d.|Rw s.l. et Σs|
 Eur. Ph. 578|ὑπεκδ-|ὑπερδράμηι|Canter|n.d.|P et Aa|
 Eur. Ph. 584|δυοῖν|δύο|Conradt|n.d.|Escor. gr. X.1.13 (gE)|
-Eur. Ph. 596|-κας|βέβηκεν|Benjamin Heath|n.d.|P.Berol. 17018 + 21218|
+Eur. Ph. 596|-κας|βέβηκεν|Benjamin Heath|n.d.|P.Berol. inv. 17018 + 21218|
+Eur. Ph. 600|κομπὸς κτλ.|κομψὸς|Markland|n.d.|γρΣv|
+Eur. Ph. 636|-ην|πολυνείκη|Elmsley|n.d.|Ambros. C 44 sup. (Aa)|
+Eur. Ph. 663|ὤλεσε(ν)|ὄλεσε|Bergk|n.d.|Salam. 31 (S)|
+Eur. Ph. 663|ὤλεσε(ν)|ὄλεσε|Hermann|n.d.|Salam. 31 (S)|
+Eur. Ph. 701|-ῶι|πολλῶν|Burges|n.d.|AdHl|
+Eur. Ph. 714|μαχουμένους|-νοις|Porson|n.d.|O et Rf1c|
+Eur. Ph. 786|οὐκ ἐπὶ|οὐκέτι|Paley|n.d.|Vindob. phil. gr. 119 (Rw)|
+Eur. Ph. 793|τ'|δ'|Geel|n.d.|Cremon. 130 (Cr)|
+Eur. Ph. 833|ἕστακ'|-ακεν|Hermann|n.d.|manus Triclinii|
 Eur. Ph. 1040|ἰαζὰ|ἀχὰ|Samuel Musgrave|1778|P.Oxy. II 224|ἀχᾷ Π2
 Eur. Ph. 1040|πόλεως|πόλεος|Porson|1824|P.Oxy. II 224|
 Eur. Ph. 1132|βίαι|βάθρων|Adolf Kirchhoff|1855|T.Vindob. inv. G HT 6|
