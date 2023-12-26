@@ -51,7 +51,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (67), Markland (47), Beza (25), Bentley (24), Elmsley (23), Blass (22), Hermann (18), Naber (18), Johannes Pierson (17), Reiske (17) and Nauck (17) (tied).</p>
+<p>The top 10 critics are Valckenaer (67), Markland (48), Beza (25), Bentley (24), Elmsley (23), Blass (22), Hermann (19), Naber (18), Johannes Pierson (17), Reiske (17) and Nauck (17) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -323,11 +323,16 @@ Eur. Or. 82|γόνον|δόμον|Adolf Kirchhoff|n.d.|K2γρ|
 Eur. Or. 118|τε|γε|Benedict|n.d.|ZbZcTac|
 Eur. Or. 127|κεκτη-|κεχρημένοις|F. W. Schmidt|n.d.|AarγρGglR1γρ|
 Eur. Or. 141|κτυπεῖτε|ψοφεῖτε|Elmsley|n.d.|Aarγρ|
-Eur. Or. 162 nota|Ηλ.|del.|Seidler|n.d.|Tt3|
+Eur. Or. 162 nota|Ἠλ.|del.|Seidler|n.d.|Tt3|
 Eur. Or. 193|ματέρος|ματρός|Hermann|1796|Monac. gr. 500 (Mo)|teste Biehl
 Eur. Or. 193|ματέρος|ματρός|Porson|n.d.|Monac. gr. 500 (Mo)|teste Biehl
+Eur. Or. 204|γόοις|γόοισι|Hermann|1796|Pap.Flor. III|
+Eur. Or. 204|γόοις|γόοισι|Porson|n.d.|Pap.Flor. III|
 Eur. Or. 239|δ' εἰς|φέροις|Valckenaer|1749|Laur. 32.2 (L) et Cantab. Nn. 3.14 (Z)|
+Eur. Or. 271 nota|Ἠλ.|del.|Hartung|1837|SRw|
+Eur. Or. 293|δ'|θ'|Markland|n.d.|Harl. 5725 (U)|
 Eur. Or. 294|ἀνακαλύπτ', ὦ|ἀνακαλύπτου|Valckenaer|1749|B2 et Tt1/2|
+Eur. Or. 323|φόνον|φόνου|Blaydes|n.d.|B et ZdZurs|
 Eur. Or. 329|απόφατιν|ἄπο φάτιν|Valckenaer|1749|RS et Prc|
 Eur. Or. 1340|ἀλλ'|ἄγ'|Weil|n.d.|P.Oxy. XI 1370|
 Eur. Or. arg. 19|-ην|ὀρέστη(ι)|Brunck|n.d.|BOAGZc|
