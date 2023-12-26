@@ -29,10 +29,10 @@ with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:
             if i < len(top_10)-2:
                 top_10_line += ", "
             elif i == len(top_10)-2:
-                top_10_line += ", and "
+                top_10_line += " and "
             else:
                 if tie:
-                    top_10_line += f" (last {limit-8} tied)"
+                    top_10_line += f" (tied)"
                 top_10_line += ".</p>\n"
         # juggle the last few lines around
         preface_lines[-3] = top_10_line
