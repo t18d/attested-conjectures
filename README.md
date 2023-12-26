@@ -340,6 +340,7 @@ Eur. Ph. 341|τάδε|τᾶιδε|Valckenaer|n.d.|manus Triclinii|
 Eur. Ph. 361|δὲ τάρβους|δ᾽ ἐτάρβης᾽|Hermann|n.d.|Vindob. phil. gr. 119 (Rw)|
 Eur. Ph. 363|-εος|ἄστεως|Dindorf|n.d.|Fauor. de exil. 7.2|
 Eur. Ph. 378|-νες|τλήμονος|Markland|n.d.|manus Triclinii s.l.|
+Eur. Ph. 381|φῦναί|-σαί|Hermann|n.d.|FcRwZu|
 Eur. Ph. 1040|ἰαζὰ|ἀχὰ|Samuel Musgrave|1778|P.Oxy. II 224|ἀχᾷ Π2
 Eur. Ph. 1040|πόλεως|πόλεος|Porson|1824|P.Oxy. II 224|
 Eur. Ph. 1132|βίαι|βάθρων|Adolf Kirchhoff|1855|T.Vindob. inv. G HT 6|
