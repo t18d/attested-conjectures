@@ -247,6 +247,10 @@ Eur. Ba. 20|πόλιν|χθόνα|Schenkl|n.d.|Chr. Pat.|
 Eur. Ba. 23|πόλιν|χθόνα|Johannes Pierson|n.d.|P.Berol inv. 21235|
 Eur. Ba. 233|ὅστις|ὥς τ[ις|Aldina|n.d.|P.Oxy. LIII 3718|
 Eur. Ba. 406|θ᾽ ἃν|ἔνθ᾽|Schoene|n.d.|Barberin. gr. 4 (gB)|
+Eur. Ba. 468|ἀλλ᾽ ὃς|α̣λλα|Canter|n.d.|P.Ant. I 24|
+Eur. Ba. 468|-λης|σεμελην|Canter|n.d.|P.Ant. I 24|
+Eur. Ba. 1083|ἐστήριζε|-ιξε|Aldina|n.d.|Chr. Pat. 2259|
+Eur. Ba. 1083|σεμνοῦ|-ον|Frederick H. M. Blaydes|n.d.| P.Oxy. XIX 2223|
 Eur. Ba. arg. 7|-ως|ἄλλους|Bothe|1826|Palat. gr. 287 (P)|
 Eur. El. 374|γ' ἄρα|ταρα|Seidler|n.d.|P.Hib. I 7|
 Eur. El. 568|-ῆς|φρονεῖς|Jackson|n.d.|Lac|
