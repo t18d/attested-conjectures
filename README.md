@@ -352,6 +352,13 @@ Eur. Or. 730|ἰδὼν|ἰδὼν δ'|Charles Willink|n.d.|Ambros. F 74 sup. (A
 Eur. Or. 758|μῦθος δ'|μῦθος|Brunck|n.d.|VFP|
 Eur. Or. 759|νῦν|νυν|Joshua Barnes|n.d.|XTz|
 Eur. Or. 766|ἔγκλημά τι|ἔγκλημα τί|Hermann|n.d.|Laur. conv. soppr. 66 (K)|
+Eur. Or. 785|ἀσχάλ(λ)ων|-αλῶν|Joshua Barnes|n.d.|RS|
+Eur. Or. 789|δὲ/γὰρ|γε|Lenting|n.d.|V et lΣv et Ab|
+Eur. Or. 793|τόδ᾽|τὸ δ᾽|Paley|n.d.|MBC|
+Eur. Or. 795|νῦν|νυν|Monk|n.d.|Cantab. Nn. 3.14 (Z)|
+Eur. Or. 836|-σι|εὐμενίσιν|Seidler|n.d.|Parm. 154 (Tp)|
+Eur. Or. 836|φόνω(ι)|φοβωι̣|Paley|n.d.|P.Mich. inv. 3735c|
+Eur. Or. 836|φόνω(ι)|φόνου|Hartung|n.d.|PrS|ἕνεκα φόνου Vgl
 Eur. Or. 1340|ἀλλ'|ἄγ'|Weil|n.d.|P.Oxy. XI 1370|
 Eur. Or. arg. 19|-ην|ὀρέστη(ι)|Brunck|n.d.|BOAGZc|
 Eur. Or. arg. 21|-ῆσαι|συνοικίσαι|Brunck|n.d.|RfSa|
