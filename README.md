@@ -324,6 +324,8 @@ Eur. Ph. 61|εἰς|ε̣ς|Valckenaer|n.d.|P.Oxy. XLVII 3322|
 Eur. Ph. 76|-ην|πολυνείκη|Elmsley|n.d.|Athos Vatopedi (At)|
 Eur. Ph. 86|-τὸν|βροτῶν|Markland|n.d.|Ambros. F 74 sup. (Ab)|teste Burges, ClJ 25 (1822) 342
 Eur. Ph. 86|-τὸν|βροτῶν|Valckenaer|n.d.|Ambros. F 74 sup. (Ab)|coll. Rh. 106
+Eur. Ph. 103|νῦν|νυν|Bothe|1823|Vat. gr. 51 (Zb)|interrogemus Diggle
+Eur. Ph. 115|-νέοις|λαϊνέοισιν|Bothe|1803|Σ Thom. S. Ai. 596|
 Eur. Ph. 134 schol.|εἰμὶ|εἶμι|Bentley|1693|Taur. B IV 13|
 Eur. Ph. 1040|ἰαζὰ|ἀχὰ|Samuel Musgrave|1778|P.Oxy. II 224|ἀχᾷ Π2
 Eur. Ph. 1040|πόλεως|πόλεος|Porson|1824|P.Oxy. II 224|
