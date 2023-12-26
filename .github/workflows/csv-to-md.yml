@@ -5,6 +5,7 @@ on:
     paths:
       - attested-conjectures.csv
       - amsterdam-db.csv
+      - csv-to-md.py
 jobs:
   Run-CSV-To-MD_PY:
     runs-on: ubuntu-latest
