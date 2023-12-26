@@ -390,6 +390,9 @@ Eur. Ph. 1211|σεσωσμ-|σεσωμένους|Wecklein|n.d.|Ambros. C 44 sup.
 Eur. Ph. 1215|γε|τι|Porson|n.d.|Ambros. C 44 sup. (Aa)|
 Eur. Ph. 1223|δ᾽ ὑπῆρξ᾽|ὑπῆρξ᾽|Fraenkel|n.d.|Vat. Palat. gr. 343 (Vr)|
 Eur. Ph. 1226|-ῇς/-εῖς|ἀριστῆς|Dindorf|n.d.|Matrit. 4677 (Mt)|
+Eur. Ph. 1279|Antigonae|Iocastae|Jackson|n.d.|Cantab. Nn. 3.14 (Z)|
+Eur. Ph. 1279|Antigonae|Iocastae|Kassel|n.d.|Cantab. Nn. 3.14 (Z)|
+Eur. Ph. 1322|κρέον ἔ. δ.|κρέων ἔ. δ.|Brunck|n.d.|Ambros. L 39 sup. (G)|
 Eur. Ph. (a) 7|ὑπὸ|ὑπὲρ|Wecklein|n.d.|Cremon. 130 (Cr)|
 Eur. Ph. (a) 8|-ξάμ-|παραταξόμενος|G. H. Schaefer|n.d.|P.Oxy. XXXI 2544 et Athos Vatopedi (At)|
 Eur. Ph. (a) 10-11|ἐβούλετο|ἐβουλεύετο|Adolf Kirchhoff|n.d.|Marc. gr. 468 (F)|
