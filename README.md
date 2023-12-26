@@ -51,7 +51,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (67), Markland (48), Beza (25), Elmsley (24), Bentley (24), Blass (22), Hermann (19), Reiske (18), Naber (18), Johannes Pierson (17) and Nauck (17) (tied).</p>
+<p>The top 10 critics are Valckenaer (67), Markland (48), Beza (25), Elmsley (24), Bentley (24), Blass (22), Hermann (20), Reiske (18), Naber (18), Johannes Pierson (17), Brunck (17) and Nauck (17) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -347,6 +347,11 @@ Eur. Or. 698|-τι|ἐντείνοντα|Elmsley|n.d.|sRf1Rw1|
 Eur. Or. 698|ἐντεί-|ἐκτείνοντι|Wecklein|n.d.|Vindob. phil. gr. 119 (Rw)|
 Eur. Or. 701|θέλεις|-οις|G. H. Schaefer|n.d.|Athos Vatopediou (At)|
 Eur. Or. 703|κτῆμα|χρῆμα|Henrik van Herwerden|n.d.|Vat. Barb. gr. 4 (gB)|
+Eur. Or. 729|ἤ|ἧι|Battier|n.d.|Laur. 31.10 (O)|ἧ O
+Eur. Or. 730|ἰδὼν|ἰδὼν δ'|Charles Willink|n.d.|Ambros. F 74 sup. (Ab)|
+Eur. Or. 758|μῦθος δ'|μῦθος|Brunck|n.d.|VFP|
+Eur. Or. 759|νῦν|νυν|Joshua Barnes|n.d.|XTz|
+Eur. Or. 766|ἔγκλημά τι|ἔγκλημα τί|Hermann|n.d.|Laur. conv. soppr. 66 (K)|
 Eur. Or. 1340|ἀλλ'|ἄγ'|Weil|n.d.|P.Oxy. XI 1370|
 Eur. Or. arg. 19|-ην|ὀρέστη(ι)|Brunck|n.d.|BOAGZc|
 Eur. Or. arg. 21|-ῆσαι|συνοικίσαι|Brunck|n.d.|RfSa|
