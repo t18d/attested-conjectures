@@ -397,6 +397,9 @@ Eur. Or. 1398|-σι|ξίφεσιν|Porson|n.d.|Monac. gr. 560 (Mn)|
 Eur. Or. 1424a|τὴν|τὰν|Brunck|n.d.|Salam. 31 (S)|
 Eur. Or. 1448a|ἐκλήισε|ἔκλησεν|Charles Willink|1986|Zd2γρ|
 Eur. Or. 1448b|-αις|στέγας|Charles Willink|1986|Cremon. 130 (Cr)|
+Eur. Or. 1448b|ἐν|del.|Charles Willink|1986|Ambros. C 44 sup. (Aa)|
+Eur. Or. 1459a|δίνασεν|δίνησεν|Blaydes|n.d.|Vat. gr. 1824 (Zv)|
+Eur. Or. 1461|ἀντίοι|-ίον|Blaydes|n.d.|B3s et CrXa|
 Eur. Or. arg. 19|-ην|ὀρέστη(ι)|Brunck|n.d.|BOAGZc|
 Eur. Or. arg. 21|-ῆσαι|συνοικίσαι|Brunck|n.d.|RfSa|
 Eur. Or. arg. 34|καὶ κ. ὑπὸ μ.|ὑπὸ μανίας καὶ κείμενος|Nauck|n.d.|Laur. conv. soppr. 66 (K)|
