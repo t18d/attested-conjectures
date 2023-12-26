@@ -297,7 +297,7 @@ Eur. Med. 306|τι|τί|Murray|n.d.|OA|
 Eur. Med. 584|σύ|σύ·|Witzschel|n.d.|ELV2|
 Eur. Med. 584|νῦν|νυν|Elmsley|n.d.|gE et Σb|
 Eur. Med. 594|-έως|βασιλεων|Elmsley|n.d.|P.Heid. 1385|
-Eur. Med. 884|τ' ἐμοὶ|τέ μοι|Janus Lascaris|n.d.|Pal. gr. 98 (Va)|
+Eur. Med. 884|τ' ἐμοὶ|τέ μοι|Janus Lascaris|n.d.|Palat. gr. 98 (Va)|
 Eur. Med. 979|ἁ δ.|δύστανος|Aldina|n.d.|Laur. 31.15 (D)|
 Eur. Med. 1089|κοὐκ|οὐκ|Reiske|n.d.|P.Lond.Univ.Coll. inv. s.n.|
 Eur. Med. 1094|μέν τ'|μέν γ'|Reiske|n.d.|P.Strasb. inv. WG 304-307|
@@ -533,7 +533,7 @@ Eur. Tr. 633|τ. δ'|τῶι μὲν|Burges|n.d.|Stob. Spc|
 Eur. Tr. 802|-νας|᾿Αθάνα|Musurus|n.d.|Σi|
 Eur. Tr. 930|ὑπεκδ-|ὑπερδράμοι|Canter|n.d.|Tzetzae cod. Lips.|
 Eur. Tr. 931|ἐνθένδ᾽|ἔνθεν δ᾽|Tyrrell|n.d.|Harl. 5743 (q)|
-Eur. Tr. 1076|σὺν δ'|συνδώδεκα|Joshua Barnes|n.d.|Pal. gr. 98 (Va)|
+Eur. Tr. 1076|σὺν δ'|συνδώδεκα|Joshua Barnes|n.d.|Palat. gr. 98 (Va)|
 Eur. Tr. 1234|-ίσει|φροντιεῖ|A. Matthiae|n.d.|Chr. Pat. 1383|
 Eur. Tr. 1277|ἀμ-|ἐμπνέουϲ᾽|Wakefield|n.d.|q et Chr. Pat. 1704|
 Eur. Tr. 1306|κρύπτουσα|κτυποῦσα|Samuel Musgrave|n.d.|Σ|
@@ -711,7 +711,7 @@ Soph. Aj. 1243|ἤρεσκεν|ἤρκεσε|Johannes Pierson|s.xviii med.|MS|
 Soph. Aj. 1274||ἐντός|Markland|s.xviii med.|a|
 Soph. Ant. 76|σοί|σύ|Valckenaer|1746|Vat. gr. 57 s.l.|
 Soph. Ant. 342|κουφονέων|κουφονόων|Johannes Pierson|s.xviii med.|Λac et S|
-Soph. Ant. 384|om.|ἡ|Markland|s.xviii med.Palat. gr. 287 (Zo)||
+Soph. Ant. 384|om.|ἡ|Markland|s.xviii med.|Palat. gr. 287 (Zo)|
 Soph. Ant. 406|εὐρέθη|ᾑρέθη|Markland|s.xviii med.|Laur. 32. 9 (L)|fort. pc legit sch. ut videtur
 Soph. Ant. 592|βρέμουσι δ'|βρέμουσιν|Johannes Pierson|s.xviii med.|Palat. gr. 287 (Zo)|
 Soph. Ant. 599|ὑπὲρ|ὅπερ|Markland|s.xviii med.|Laur. 31.10 (K)|s.l. (ex sch.)
@@ -745,7 +745,7 @@ Soph. OT 523|om.|δ'|Moriz Schmidt|1871-80|P.Oxy. XVIII 2180|in linea (Barrett a
 Soph. OT 733 schol.|κέλευθον|κελεύθων|Scaliger|post-1568|GMR|
 Soph. OT 778|habent|del.|Valckenaer|pre-1775|P.Oxy. XI 1369|
 Soph. OT 1245|κάλει|καλεῖ|Johannes Pierson|s.xviii med.|Ambros. G 56 sup.|
-Soph. OT 1453|ζῶντε|ζῶντι|Johannes Pierson|s.xviii med.|Pal. gr. 40 (P) et a|
+Soph. OT 1453|ζῶντε|ζῶντι|Johannes Pierson|s.xviii med.|Palat. gr. 40 (P) et a|
 Soph. OT 1474|ἐγγόνοιν|ἐκγόνοιν|Valckenaer|1743-6|Paris. gr. 2787 (Zn) et Marc. gr. 472 (Jebb)|
 Soph. Phil. 256|που|πω|Markland|s.xviii med.|Marc. gr. 468 (V)|
 Soph. Phil. 614|ἤκουσεν|ἤκουσ’|Markland|s.xviii med.|z|
