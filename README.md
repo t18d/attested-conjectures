@@ -266,6 +266,7 @@ Eur. Hec. 1108|ζοῆς/ζωῆς|ζόης|Porson|n.d.|Va i.m.|
 Eur. Hec. 1167|-υον|ἤνυτον|L. Dindorf|n.d.|Huv|
 Eur. Hec. 1176|τε|τὸν|Nauck|n.d.|Laur. 32.3 (L)|
 Eur. Hec. 1215|-νῶι|καπνὸς|Canter|n.d.|Kγρ|
+Eur. Hel. 135|οὔ πω vel ἦ που|οὔ που|P. P. Dobree|n.d.|Laur. 32.3 (L)|
 Eur. Heracl. 837|-ῃ|μάχη|Elmsley|n.d.|Laur. 32.3 (L)|
 Eur. Hipp. 71-72|ὄπαρθένων ἄρτεμι|ὄλυμπον|Nauck|n.d.|Laur. 31.10 (O)|
 Eur. Hipp. 364|σὰν|σᾶν|Elmsley|n.d.|Paris. gr. 2713 (B)|
@@ -279,8 +280,10 @@ Eur. Hipp. 814|ὦ βιαίως|βιαίω|Elmsley|n.d.|Laur. 31.15 (D)|
 Eur. Hipp. 1070|ἧπαρ δακρύων τ'|ἧπαρ· δακρύων|Wilamowitz|n.d.|HnOx|
 Eur. Hipp. 1255|-ραὶ|συμφορὰ|Elmsley|n.d.|Laur. 31.10 (O)|
 Eur. Hipp. 1317|-póv|ἐχθρῶν|Elmsley|n.d.|V3|
-Eur. IT. 252|καὶ τυχόντες|κἀντυχόντες|Reiske|1753-4|P.Hib. I 24|
-Eur. IT. 1618|τήνδε|τῆσδε|Bothe|n.d.|P.Hib. I 24|
+Eur. IT. 252|καὶ τυχ-|κἀντυχόντες|Reiske|1753-4|P.Hib. I 24|
+Eur. IT. 587|γε|τὰ|Hermann|n.d.|P.Hib. I 24|]τ̣α
+Eur. IT. 618|τήνδε|τῆσδε|Bothe|n.d.|P.Hib. I 24|
+Eur. Ion 1428|ἢ|ἣ|Brodaeus|n.d.|Laur. 32.3 (L)|
 Eur. Med. 12|πολιτῶν|πολίταις|Joshua Barnes|n.d.|V3|
 Eur. Med. 140|ὁ|τὸν|Samuel Musgrave|1778|HE|
 Eur. Med. 159|εὐνέταν|εὐνάταν|Tyrwhitt|n.d.|Es|
