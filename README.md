@@ -246,6 +246,7 @@ Eur. Ba. 20|πρῶτον|πρώτην|Cobet|n.d.|Chr. Pat. 1595 cod. A|
 Eur. Ba. 20|πόλιν|χθόνα|Schenkl|n.d.|Chr. Pat.|
 Eur. Ba. 23|πόλιν|χθόνα|Johannes Pierson|n.d.|P.Berol inv. 21235|
 Eur. Ba. 233|ὅστις|ὥς τ[ις|Aldina|n.d.|P.Oxy. LIII 3718|
+Eur. Ba. 406|θ᾽ ἃν|ἔνθ᾽|Schoene|n.d.|Barberin. gr. 4 (gB)|
 Eur. Ba. arg. 7|-ως|ἄλλους|Bothe|1826|Palat. gr. 287 (P)|
 Eur. El. 374|γ' ἄρα|ταρα|Seidler|n.d.|P.Hib. I 7|
 Eur. El. 568|-ῆς|φρονεῖς|Jackson|n.d.|Lac|
@@ -351,7 +352,7 @@ Eur. Or. 695|τάδε|τόδε|King|n.d.|Vat. gr. 1135 (R)|
 Eur. Or. 698|-τι|ἐντείνοντα|Elmsley|n.d.|sRf1Rw1|
 Eur. Or. 698|ἐντεί-|ἐκτείνοντι|Wecklein|n.d.|Vindob. phil. gr. 119 (Rw)|
 Eur. Or. 701|θέλεις|-οις|G. H. Schaefer|n.d.|Athos Vatopediou 671 (At)|
-Eur. Or. 703|κτῆμα|χρῆμα|Henrik van Herwerden|n.d.|Vat. Barb. gr. 4 (gB)|
+Eur. Or. 703|κτῆμα|χρῆμα|Henrik van Herwerden|n.d.|Barberin. gr. 4 (gB)|
 Eur. Or. 729|ἤ|ἧι|Battier|n.d.|Laur. 31.10 (O)|ἧ O
 Eur. Or. 730|ἰδὼν|ἰδὼν δ'|Charles Willink|1986|Ambros. F 74 sup. (Ab)|
 Eur. Or. 758|μῦθος δ'|μῦθος|Brunck|n.d.|VFP|
