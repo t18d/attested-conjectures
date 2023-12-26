@@ -51,7 +51,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (67), Markland (48), Elmsley (26), Beza (25), Bentley (24), Blass (22), Hermann (21), Porson (19), Brunck (18), Reiske (18) and Naber (18) (tied).</p>
+<p>The top 10 critics are Valckenaer (67), Markland (48), Elmsley (26), Beza (25), Bentley (24), Blass (22), Hermann (21), Brunck (20), Porson (19), Reiske (18) and Naber (18) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -380,6 +380,11 @@ Eur. Or. 1165|-ώσωμεν|ἀνταναλώσω μὲν|Canter|n.d.|A et V2/3|
 Eur. Or. 1169|-εν|ἔσχ᾽|Joshua Barnes|n.d.|GK1c|
 Eur. Or. 1169|οὐ|del.|Porson|n.d.|Laur. 32.33 (Rf)|
 Eur. Or. 1181|νῦν|νυν|Porson|n.d.|Cantab. Nn. 3.14 (Zd)|
+Eur. Or. 1216|νῦν|νυν|Brunck|n.d.|Vat. gr. 51 (Zb)|
+Eur. Or. 1231|ἵκου|ἱκοῦ|Dindorf|n.d.|KAa|
+Eur. Or. 1236|ἐπεβ-|συνεβούλευσα|Adolf Kirchhoff|n.d.|Aars|
+Eur. Or. 1238|οὐκοῦν|οὔκουν|Brunck|n.d.|Prc|
+Eur. Or. 1257|ἐξεύρηι|ἐξάρη|Henrik van Herwerden|n.d.|Rem. 1306 (Pr)|
 Eur. Or. 1340|ἀλλ'|ἄγ'|Weil|n.d.|P.Oxy. XI 1370|
 Eur. Or. arg. 19|-ην|ὀρέστη(ι)|Brunck|n.d.|BOAGZc|
 Eur. Or. arg. 21|-ῆσαι|συνοικίσαι|Brunck|n.d.|RfSa|
