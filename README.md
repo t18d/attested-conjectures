@@ -51,7 +51,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (67), Markland (48), Elmsley (26), Beza (25), Bentley (24), Hermann (23), Blass (22), Brunck (21), Porson (20), Reiske (18) and Naber (18) (tied).</p>
+<p>The top 10 critics are Valckenaer (67), Markland (48), Elmsley (26), Beza (25), Bentley (24), Hermann (23), Blass (22), Brunck (22), Porson (20), Reiske (18) and Naber (18) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -398,11 +398,17 @@ Eur. Or. 1424a|τὴν|τὰν|Brunck|n.d.|Salam. 31 (S)|
 Eur. Or. 1448a|ἐκλήισε|ἔκλησεν|Charles Willink|1986|Zd2γρ|
 Eur. Or. 1448b|-αις|στέγας|Charles Willink|1986|Cremon. 130 (Cr)|
 Eur. Or. 1448b|ἐν|del.|Charles Willink|1986|Ambros. C 44 sup. (Aa)|
-Eur. Or. 1459a|δίνασεν|δίνησεν|Blaydes|n.d.|Vat. gr. 1824 (Zv)|
-Eur. Or. 1461|ἀντίοι|-ίον|Blaydes|n.d.|B3s et CrXa|
+Eur. Or. 1459a|δίνασεν|δίνησεν|Frederick H. M. Blaydes|n.d.|Vat. gr. 1824 (Zv)|
+Eur. Or. 1461|ἀντίοι|-ίον|Frederick H. M. Blaydes|n.d.|B3s et CrXa|
 Eur. Or. 1462|κατθανῆι κατθανῆι|κατθανῆ|Bothe|1803|Vat. Pal. gr. 98 (Va)|
 Eur. Or. 1473|δῆτ'|δ' ἦτ'|Bothe|1825|F2AtRf|
 Eur. Or. 1479|-ε|ἦλθεν|Bothe|1803|OZ|
+Eur. Or. 1501|ἀνασχ-|ἀνσχόμενος|Bothe|1803|Athos Dionysiou 334 (Ad)|
+Eur. Or. 1539n|ἡμ.|del.|Adolf Kirchhoff|n.d.|OCZ|
+Eur. Or. 1541n|ἡμ.|del.|Adolf Kirchhoff|n.d.|MZ|
+Eur. Or. 1549n|Χο.|del.|Adolf Kirchhoff|n.d.|PrZ|
+Eur. Or. 1629|Ἑλένην|-η|Brunck|n.d.|JSaZm|
+Eur. Or. 1656|-τῶι|αὐτὸν|Paley|n.d.|V2/3s|
 Eur. Or. arg. 19|-ην|ὀρέστη(ι)|Brunck|n.d.|BOAGZc|
 Eur. Or. arg. 21|-ῆσαι|συνοικίσαι|Brunck|n.d.|RfSa|
 Eur. Or. arg. 34|καὶ κ. ὑπὸ μ.|ὑπὸ μανίας καὶ κείμενος|Nauck|n.d.|Laur. conv. soppr. 66 (K)|
