@@ -51,7 +51,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (61), Markland (45), Beza (25), Bentley (24), Blass (22), Elmsley (21), Naber (18), Johannes Pierson (16), Cobet (16), Reiske (16), and Nauck (16) (last 2 tied).</p>
+<p>The top 10 critics are Valckenaer (62), Markland (45), Beza (25), Bentley (24), Blass (22), Elmsley (21), Naber (18), Johannes Pierson (16), Cobet (16), Reiske (16), and Nauck (16) (last 2 tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -393,6 +393,8 @@ Eur. Ph. 1226|-ῇς/-εῖς|ἀριστῆς|Dindorf|n.d.|Matrit. 4677 (Mt)|
 Eur. Ph. 1279|Antigonae|Iocastae|Jackson|n.d.|Cantab. Nn. 3.14 (Z)|
 Eur. Ph. 1279|Antigonae|Iocastae|Kassel|n.d.|Cantab. Nn. 3.14 (Z)|
 Eur. Ph. 1322|κρέον ἔ. δ.|κρέων ἔ. δ.|Brunck|n.d.|Ambros. L 39 sup. (G)|
+Eur. Ph. 1338|-οις|ἄλλο|Valckenaer|n.d.|B3/4Sa|
+Eur. Ph. 1344 nota|om.|Ἄγγ.|Hartung|n.d.|Cantab. Nn. 3.14 (Z)|
 Eur. Ph. (a) 7|ὑπὸ|ὑπὲρ|Wecklein|n.d.|Cremon. 130 (Cr)|
 Eur. Ph. (a) 8|-ξάμ-|παραταξόμενος|G. H. Schaefer|n.d.|P.Oxy. XXXI 2544 et Athos Vatopedi (At)|
 Eur. Ph. (a) 10-11|ἐβούλετο|ἐβουλεύετο|Adolf Kirchhoff|n.d.|Marc. gr. 468 (F)|
