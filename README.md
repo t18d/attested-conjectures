@@ -332,6 +332,9 @@ Eur. Ph. 188|Ἀμυμωνίοις|τ᾽ ἀμυμ-|Paley|n.d.|RfP2|
 Eur. Ph. 207|-θην|κατενάσθη|Thirlby|n.d.|Athos Dionysios 334|
 Eur. Ph. 226|ἰὼ|ω|Canter|n.d.|P.Oxy. IX 1177|
 Eur. Ph. 228|-είων κτλ.|βακχεῖον|Adolf Kirchhoff|n.d.|Vindob. phil. gr. 119 (Rw)|
+Eur. Ph. 252|σχῆμα|σῆμα|Heimsoeth|n.d.|G et Aaγρ|
+Eur. Ph. 297|ἀναπ-|ἀμπέτασον|Hermann|n.d.|Vat. gr. 909 (V)|
+Eur. Ph. 308-9|χαίτας|-ταις|Brodaeus|n.d.|P.Rain. 29769|
 Eur. Ph. 1040|ἰαζὰ|ἀχὰ|Samuel Musgrave|1778|P.Oxy. II 224|ἀχᾷ Π2
 Eur. Ph. 1040|πόλεως|πόλεος|Porson|1824|P.Oxy. II 224|
 Eur. Ph. 1132|βίαι|βάθρων|Adolf Kirchhoff|1855|T.Vindob. inv. G HT 6|
