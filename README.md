@@ -223,7 +223,7 @@ Dem. Prooem. 26|κοιῶς|κοινῶν|Wolf|1812|P.Oxy. I 26|
 Din. 1.109|ἐλεήϲετε|ε̣λ̣ε̣ηϲαιτε|P. P. Dobree|1831|P.Oxy. XLIX 3436|
 Din. 3.21|καταλλάξαϲθαι|ἀντικαταλλ-|G. A. Hirschig|1850|P.Oxy. XLIX 3437|Philologue 5 (1850) 326-328
 Din. 3.22|om.|ψηφιϲμάτων|Eduard Maetzner|1842|P.Oxy. XLIX 3437|
-Diog. Ep. 34.2|ἀρκ-|ἀλκτήρια|Alfons Hecker|1842|Pal. 398 (P)|Comment. Callim. (1842) 92 ad Callim. fr. 346 Pf.
+Diog. Ep. 34.2|ἀρκ-|ἀλκτήρια|Alfons Hecker|1842|Palat. gr. 398 (P)|Comment. Callim. (1842) 92 ad Callim. fr. 346 Pf.
 Diph. fr. 69|-ην/-ον|εὑρημένη|Scaliger|n.d.|Et.Sym. et Synag.|
 Epich. fr. 97|]ότως|και εοικοτως|Blass|1889|P.Oxy. XXV 2429|Jb. cl. Ph. 139 (1889) 261
 Epict. Diatr. 4.1.136|om.|εἰ|Hieronymus Wolf|1560|P.Cair.Mich. II 11|vel πότερον Wolf
@@ -313,7 +313,7 @@ Eur. Med. 1285|ἄλη(ι)|άλα̣ι̣ς|Frederick H. M. Blaydes|n.d.|P.Harr. I
 Eur. Med. 1290|δή ποτ᾽|δητ᾽|Hermann|n.d.|P.Harr. I 38|
 Eur. Med. 1296|γῆ(ς) σφε|γης γε|Elmsley|n.d.|P.Harr. I 38|
 Eur. Med. 1308|ἤ πω et ἦ που|ου που|Barthold|n.d.|P.Harr. I 38|
-Eur. Med. (a) 15|ἡβώωντα/ἡβόωντα|ἡβώοντα|Janus Lascaris|n.d.|Vat. Pal. gr. 98 (Va)|
+Eur. Med. (a) 15|ἡβώωντα/ἡβόωντα|ἡβώοντα|Janus Lascaris|n.d.|Palat. gr. 98 (Va)|
 Eur. Med. (a) 28|τῶ|τὸ|Brunck|n.d.|Laur. 31.15 (D)|
 Eur. Or. 35|ὁ δὲ|ὅδε|Reiske|n.d.|GK|
 Eur. Or. 38|-βω(ι)|φόβον|Charles Willink|1986|V3sXd|
@@ -711,9 +711,9 @@ Soph. Aj. 1243|ἤρεσκεν|ἤρκεσε|Johannes Pierson|s.xviii med.|MS|
 Soph. Aj. 1274||ἐντός|Markland|s.xviii med.|a|
 Soph. Ant. 76|σοί|σύ|Valckenaer|1746|Vat. gr. 57 s.l.|
 Soph. Ant. 342|κουφονέων|κουφονόων|Johannes Pierson|s.xviii med.|Λac et S|
-Soph. Ant. 384|om.|ἡ|Markland|s.xviii med.|Vat. Pal. gr. 287 (Zo)|
+Soph. Ant. 384|om.|ἡ|Markland|s.xviii med.Palat. gr. 287 (Zo)||
 Soph. Ant. 406|εὐρέθη|ᾑρέθη|Markland|s.xviii med.|Laur. 32. 9 (L)|fort. pc legit sch. ut videtur
-Soph. Ant. 592|βρέμουσι δ'|βρέμουσιν|Johannes Pierson|s.xviii med.|Vat. Pal. gr. 287 (Zo)|
+Soph. Ant. 592|βρέμουσι δ'|βρέμουσιν|Johannes Pierson|s.xviii med.|Palat. gr. 287 (Zo)|
 Soph. Ant. 599|ὑπὲρ|ὅπερ|Markland|s.xviii med.|Laur. 31.10 (K)|s.l. (ex sch.)
 Soph. Ant. 695|ἀπ’|ἐπ’|Johannes Pierson|s.xviii med.|Paris. gr. 2712 (A)|
 Soph. Ant. 836|-ῃ/-ῳ/-αν|φθιμένᾳ|Johannes Pierson|s.xviii med.|Laur. 32. 9 (L) et a|
