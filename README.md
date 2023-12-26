@@ -383,6 +383,9 @@ Eur. Ph. 1130|σιδηρονώτοις|-του|Valckenaer|n.d.|T.Vindob. inv. G 
 Eur. Ph. 1132|βίαι|βάθρων|Adolf Kirchhoff|1855|T.Vindob. inv. G HT 6|
 Eur. Ph. 1149 schol.|-ϲτρέψαι|ἀναϲτέψαι|Joshua Barnes|1694|Vat. 909 (V)|
 Eur. Ph. 1170|δ' (prius)|τ'|Lenting|n.d.|F1c|
+Eur. Ph. 1186|ἑλ-|εἱλίσσετ᾽|Benjamin Heath|n.d.|Cantab. Nn. 3.14 (Z)|
+Eur. Ph. 1194|τ' (prius)|δ'|Blaydes|n.d.|ZSa|
+Eur. Ph. 1194|τ' (alterum)|δ'|Fritzsche|n.d.|Salam. 31 (S)|
 Eur. Ph. (a) 7|ὑπὸ|ὑπὲρ|Wecklein|n.d.|Cremon. 130 (Cr)|
 Eur. Ph. (a) 8|-ξάμ-|παραταξόμενος|G. H. Schaefer|n.d.|P.Oxy. XXXI 2544 et Athos Vatopedi (At)|
 Eur. Ph. (a) 10-11|ἐβούλετο|ἐβουλεύετο|Adolf Kirchhoff|n.d.|Marc. gr. 468 (F)|
