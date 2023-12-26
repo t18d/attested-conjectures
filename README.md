@@ -51,7 +51,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (67), Markland (48), Elmsley (26), Beza (25), Bentley (24), Hermann (23), Blass (22), Brunck (22), Porson (20), Johannes Pierson (18), Reiske (18) and Naber (18) (tied).</p>
+<p>The top 10 critics are Valckenaer (67), Markland (48), Elmsley (26), Beza (25), Bentley (24), Hermann (23), Blass (22), Brunck (22), Porson (20) and Reiske (19).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -250,7 +250,12 @@ Eur. Ba. 406|θ᾽ ἃν|ἔνθ᾽|Schoene|n.d.|Barberin. gr. 4 (gB)|
 Eur. Ba. 468|ἀλλ᾽ ὃς|α̣λλα|Canter|n.d.|P.Ant. I 24|
 Eur. Ba. 468|-λης|σεμελην|Canter|n.d.|P.Ant. I 24|
 Eur. Ba. 1083|ἐστήριζε|-ιξε|Aldina|n.d.|Chr. Pat. 2259|
-Eur. Ba. 1083|σεμνοῦ|-ον|Frederick H. M. Blaydes|n.d.| P.Oxy. XIX 2223|
+Eur. Ba. 1083|σεμνοῦ|-ον|Frederick H. M. Blaydes|n.d.|P.Oxy. XIX 2223|
+Eur. Ba. 1096|κραταβ-|κραταιβόλους|Benjamin Heath|n.d.|Chr. Pat. 667|
+Eur. Ba. 1098|δ'|τ|Bothe|1802|P.Oxy. XIX 2223|
+Eur. Ba. 1100|τ' ὄχον|στοχον|Reiske|n.d.|P.Oxy. XIX 2223|
+Eur. Ba. 1102|τλῆμον|τλημων|Aldina|n.d.|P.Oxy. XIX 2223|
+Eur. Ba. 1102|-ησμένος|λελημμενος|Samuel Musgrave|n.d.|P.Oxy. XIX 2223|
 Eur. Ba. arg. 7|-ως|ἄλλους|Bothe|1826|Palat. gr. 287 (P)|
 Eur. El. 374|γ' ἄρα|ταρα|Seidler|n.d.|P.Hib. I 7|
 Eur. El. 568|-ῆς|φρονεῖς|Jackson|n.d.|Lac|
