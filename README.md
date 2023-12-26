@@ -51,7 +51,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (67), Markland (48), Elmsley (26), Beza (25), Bentley (24), Hermann (23), Blass (22), Brunck (20), Porson (19), Reiske (18) and Naber (18) (tied).</p>
+<p>The top 10 critics are Valckenaer (67), Markland (48), Elmsley (26), Beza (25), Bentley (24), Hermann (23), Blass (22), Brunck (21), Porson (20), Reiske (18) and Naber (18) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -392,6 +392,11 @@ Eur. Or. 1299n|ἡμ.|Ἠλ.|Hermann|n.d.|XaZd|
 Eur. Or. 1300|φίλοισι|φίλοις|Charles Willink|1986|Cremon. 130 (Cr)|
 Eur. Or. 1340|ἀλλ'|ἄγ'|Weil|n.d.|P.Oxy. XI 1370|α̣γ'
 Eur. Or. 1360|τὰς … τὰς|τὰ … τὰ|Weil|n.d.|Mc|
+Eur. Or. 1380|ἔσθ᾽/ἔστ᾽|ἔστιν|Joshua Barnes|n.d.|GKTt3 et Σmbc|
+Eur. Or. 1398|-σι|ξίφεσιν|Porson|n.d.|Monac. gr. 560 (Mn)|
+Eur. Or. 1424a|τὴν|τὰν|Brunck|n.d.|Salam. 31 (S)|
+Eur. Or. 1448a|ἐκλήισε|ἔκλησεν|Charles Willink|1986|Zd2γρ|
+Eur. Or. 1448b|-αις|στέγας|Charles Willink|1986|Cremon. 130 (Cr)|
 Eur. Or. arg. 19|-ην|ὀρέστη(ι)|Brunck|n.d.|BOAGZc|
 Eur. Or. arg. 21|-ῆσαι|συνοικίσαι|Brunck|n.d.|RfSa|
 Eur. Or. arg. 34|καὶ κ. ὑπὸ μ.|ὑπὸ μανίας καὶ κείμενος|Nauck|n.d.|Laur. conv. soppr. 66 (K)|
