@@ -51,7 +51,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (57), Markland (41), Beza (25), Bentley (24), Blass (22), Naber (18), Elmsley (17), Johannes Pierson (16), Cobet (16), and Nauck (16).</p>
+<p>The top 10 critics are Valckenaer (57), Markland (41), Beza (25), Bentley (24), Blass (22), Naber (18), Elmsley (17), Johannes Pierson (16), Cobet (16), Reiske (16), and Nauck (16) (last 2 tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -327,6 +327,7 @@ Eur. Ph. 86|-τὸν|βροτῶν|Valckenaer|n.d.|Ambros. F 74 sup. (Ab)|coll. 
 Eur. Ph. 103|νῦν|νυν|Bothe|1823|Vat. gr. 51 (Zb)|interrogemus Diggle
 Eur. Ph. 115|-νέοις|λαϊνέοισιν|Bothe|1803|Σ Thom. S. Ai. 596|
 Eur. Ph. 134 schol.|εἰμὶ|εἶμι|Bentley|1693|Taur. B IV 13|
+Eur. Ph. 136|-τας|αὐτοκασιγνήται|Reiske|n.d.|P.Lond.Lit. 75|
 Eur. Ph. 1040|ἰαζὰ|ἀχὰ|Samuel Musgrave|1778|P.Oxy. II 224|ἀχᾷ Π2
 Eur. Ph. 1040|πόλεως|πόλεος|Porson|1824|P.Oxy. II 224|
 Eur. Ph. 1132|βίαι|βάθρων|Adolf Kirchhoff|1855|T.Vindob. inv. G HT 6|
