@@ -401,6 +401,8 @@ Eur. Ph. 1383|-θαίνοι|ἐξολισθάνοι|Porson|n.d.|RS|
 Eur. Ph. 1384|-σχόντ'|ὑπερσχὸν|Scaliger|n.d.|Marc. gr. 468 (F)|
 Eur. Ph. 1388|ἐϲτάλαϲϲ'|-λαζ'|Bothe|1825|RWZ|
 Eur. Ph. 1402|δ' (prius)|τ'|Valckenaer|n.d.|Athos Iviron 209 (W)|
+Eur. Ph. 1424|κοὐ|καὶ|Denniston|n.d.|Escor. gr. X.1.13 (gE)|
+Eur. Ph. 1425|-πους ὅσον/-που σὸς ὤν|οἰδίπου σ' ὅσον|Hermann|n.d.|B2Xd|
 Eur. Ph. (a) 7|ὑπὸ|ὑπὲρ|Wecklein|n.d.|Cremon. 130 (Cr)|
 Eur. Ph. (a) 8|-ξάμ-|παραταξόμενος|G. H. Schaefer|n.d.|P.Oxy. XXXI 2544 et Athos Vatopedi (At)|
 Eur. Ph. (a) 10-11|ἐβούλετο|ἐβουλεύετο|Adolf Kirchhoff|n.d.|Marc. gr. 468 (F)|
