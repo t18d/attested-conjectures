@@ -51,7 +51,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (67), Markland (48), Elmsley (26), Beza (25), Bentley (24), Hermann (23), Blass (22), Brunck (22), Porson (20), Reiske (18) and Naber (18) (tied).</p>
+<p>The top 10 critics are Valckenaer (67), Markland (48), Elmsley (26), Beza (25), Bentley (24), Hermann (23), Blass (22), Brunck (22), Porson (20), Johannes Pierson (18), Reiske (18) and Naber (18) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -242,6 +242,10 @@ Eur. Andr. 962|φόβω(ι)|φόνωι|Lenting|n.d.|Hier. τάφου 36 (H)|
 Eur. Andr. 985|τε|δὲ|Frederick H. M. Blaydes|n.d.|Vatop. 36 (gV)|
 Eur. Andr. 1009|ἰὼ|ω|Aldina|n.d.|P.Oxy. XXII 2335 et P.Berol. inv. 17021|
 Eur. Andr. 1079|-άθειν|ἀμυναθεῖν|Elmsley|n.d.|Hier. τάφου 36 (H)|
+Eur. Ba. 20|πρῶτον|πρώτην|Cobet|n.d.|Chr. Pat. 1595 cod. A|
+Eur. Ba. 20|πόλιν|χθόνα|Schenkl|n.d.|Chr. Pat.|
+Eur. Ba. 23|πόλιν|χθόνα|Johannes Pierson|n.d.|P.Berol inv. 21235|
+Eur. Ba. 233|ὅστις|ὥς τ[ις|Aldina|n.d.|P.Oxy. LIII 3718|
 Eur. Ba. arg. 7|-ως|ἄλλους|Bothe|1826|Palat. gr. 287 (P)|
 Eur. El. 374|γ' ἄρα|ταρα|Seidler|n.d.|P.Hib. I 7|
 Eur. El. 568|-ῆς|φρονεῖς|Jackson|n.d.|Lac|
@@ -723,7 +727,7 @@ Soph. Ant. 1350|μηδὲν|μηδέν’|Markland|s.xviii med.|MSS|
 Soph. El. 952||γ’|Johannes Pierson|s.xviii med.|Paris. gr. 2820|
 Soph. El. 995|ποτ' ἐμβλέψασα|ποτε βλέψασα|Ludwig Doederlein|s.xix med.|P.Oxy IV 693 et Marc. gr. 616 (Zr)|
 Soph. El. 998|ἔλαττον|ἔλαϲϲον|Brunck|1786-9|P.Oxy IV 693|
-Soph. El. 1029|μάθῃς|πάθῃς|Johannes Pierson|s.xviii med.|Pal. gr. 40 (P) et a|
+Soph. El. 1029|μάθῃς|πάθῃς|Johannes Pierson|s.xviii med.|Palat. gr. 40 (P) et a|
 Soph. El. 1044||ποήσεις|Valckenaer|pre-1775|MSS|
 Soph. El. 1127|om.|σ’|Markland|s.xviii med.|Matrit. gr. 4677 (N)|gl.
 Soph. El. 1139|om.|σ’|Markland|s.xviii med.|p|
