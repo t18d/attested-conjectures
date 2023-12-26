@@ -370,6 +370,12 @@ Eur. Or. 1000|Ἀτρέως|Ἀτρέος|Porson|n.d.|SPr1s|
 Eur. Or. 1002|ἀελ- κτλ.|αλιου|Porson|n.d.|P.Oxy. LX 4014|
 Eur. Or. 1011a|ἤλυθε|ἦλθεν|Brunck|n.d.|Vat. gr. 909 (V)|
 Eur. Or. 1035|δ᾽ ἢ|δὴ|Elmsley|n.d.|Zm1γρ|
+Eur. Or. 1037|νῦν|νυν|Scaliger|n.d.|Tc|
+Eur. Or. 1047|με τήξεις|μ᾽ ἔτηξας|Bothe|1825|Zd1c|
+Eur. Or. 1092|λέχος|λ. γ'|Joshua Barnes|n.d.|Laur. conv. soppr. 66 (K)|
+Eur. Or. 1114|ὥσθ᾽|ὡς|Wecklein|n.d.|Escor. gr. X.1.13 (gE)|
+Eur. Or. 1148|σπάσω μέλαν|σπασώμεθα|Adolf Kirchhoff|n.d.|γρCPr|
+Eur. Or. 1156|τι|τοι|Charles Willink|n.d.|MnS1s|
 Eur. Or. 1340|ἀλλ'|ἄγ'|Weil|n.d.|P.Oxy. XI 1370|
 Eur. Or. arg. 19|-ην|ὀρέστη(ι)|Brunck|n.d.|BOAGZc|
 Eur. Or. arg. 21|-ῆσαι|συνοικίσαι|Brunck|n.d.|RfSa|
