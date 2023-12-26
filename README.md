@@ -51,7 +51,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (60), Markland (45), Beza (25), Bentley (24), Blass (22), Elmsley (21), Naber (18), Johannes Pierson (16), Cobet (16), Reiske (16), and Nauck (16) (last 2 tied).</p>
+<p>The top 10 critics are Valckenaer (61), Markland (45), Beza (25), Bentley (24), Blass (22), Elmsley (21), Naber (18), Johannes Pierson (16), Cobet (16), Reiske (16), and Nauck (16) (last 2 tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -378,9 +378,11 @@ Eur. Ph. 1065|ἐπέϲϲ-|ἐπέϲυτο|Samuel Musgrave|1778|AtMtZmZu|
 Eur. Ph. 1077|τόδ'|τοῦδ'|Markland|n.d.|Laur. 32.33 (Rf)|
 Eur. Ph. 1086|ἀργείων|αργειον|Fix|n.d.|P.Berol. inv. 11868|
 Eur. Ph. 1086|σεσωσμ-|σεσωμενης|Wecklein|n.d.|P.Berol. inv. 11868|
-Eur. Ph. 1104|-ίταις|νηίσταις|Unger|n.d.|Tab. Vindob. et Taur. B.IV.13 (C)|
+Eur. Ph. 1104|-ίταις|νηίσταις|Unger|n.d.|T.Vindob. inv. G HT 6 et Taur. B.IV.13 (C)|
+Eur. Ph. 1130|σιδηρονώτοις|-του|Valckenaer|n.d.|T.Vindob. inv. G HT 6|
 Eur. Ph. 1132|βίαι|βάθρων|Adolf Kirchhoff|1855|T.Vindob. inv. G HT 6|
 Eur. Ph. 1149 schol.|-ϲτρέψαι|ἀναϲτέψαι|Joshua Barnes|1694|Vat. 909 (V)|
+Eur. Ph. 1170|δ' (prius)|τ'|Lenting|n.d.|F1c|
 Eur. Ph. (a) 7|ὑπὸ|ὑπὲρ|Wecklein|n.d.|Cremon. 130 (Cr)|
 Eur. Ph. (a) 8|-ξάμ-|παραταξόμενος|G. H. Schaefer|n.d.|P.Oxy. XXXI 2544 et Athos Vatopedi (At)|
 Eur. Ph. (a) 10-11|ἐβούλετο|ἐβουλεύετο|Adolf Kirchhoff|n.d.|Marc. gr. 468 (F)|
