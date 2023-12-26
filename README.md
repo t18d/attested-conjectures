@@ -390,7 +390,8 @@ Eur. Or. 1281-2|νῦν|νυν|Joshua Barnes|n.d.|Tt3Zc|
 Eur. Or. 1297n|Ἠλ.|ἡμ.|Hermann|n.d.|Ambros. L 39 sup. (G)|
 Eur. Or. 1299n|ἡμ.|Ἠλ.|Hermann|n.d.|XaZd|
 Eur. Or. 1300|φίλοισι|φίλοις|Charles Willink|1986|Cremon. 130 (Cr)|
-Eur. Or. 1340|ἀλλ'|ἄγ'|Weil|n.d.|P.Oxy. XI 1370|
+Eur. Or. 1340|ἀλλ'|ἄγ'|Weil|n.d.|P.Oxy. XI 1370|α̣γ'
+Eur. Or. 1360|τὰς … τὰς|τὰ … τὰ|Weil|n.d.|Mc|
 Eur. Or. arg. 19|-ην|ὀρέστη(ι)|Brunck|n.d.|BOAGZc|
 Eur. Or. arg. 21|-ῆσαι|συνοικίσαι|Brunck|n.d.|RfSa|
 Eur. Or. arg. 34|καὶ κ. ὑπὸ μ.|ὑπὸ μανίας καὶ κείμενος|Nauck|n.d.|Laur. conv. soppr. 66 (K)|
