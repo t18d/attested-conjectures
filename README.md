@@ -51,7 +51,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (58), Markland (42), Beza (25), Bentley (24), Blass (22), Naber (18), Elmsley (17), Johannes Pierson (16), Cobet (16), Reiske (16), and Nauck (16) (last 2 tied).</p>
+<p>The top 10 critics are Valckenaer (59), Markland (42), Beza (25), Bentley (24), Blass (22), Elmsley (19), Naber (18), Johannes Pierson (16), Cobet (16), Reiske (16), and Nauck (16) (last 2 tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -340,7 +340,11 @@ Eur. Ph. 341|τάδε|τᾶιδε|Valckenaer|n.d.|manus Triclinii|
 Eur. Ph. 361|δὲ τάρβους|δ᾽ ἐτάρβης᾽|Hermann|n.d.|Vindob. phil. gr. 119 (Rw)|
 Eur. Ph. 363|-εος|ἄστεως|Dindorf|n.d.|Fauor. de exil. 7.2|
 Eur. Ph. 378|-νες|τλήμονος|Markland|n.d.|manus Triclinii s.l.|
-Eur. Ph. 381|φῦναί|-σαί|Hermann|n.d.|FcRwZu|
+Eur. Ph. 381|φῦναί|-σαί|Hermann|n.d.|fere FcRwZu|
+Eur. Ph. 386|ταῦτ᾽|ταὔτ᾽|Bothe|1825|fere AS|
+Eur. Ph. 403|τις δυστυχῆι|τι δυστυχῆις|Elmsley|n.d.|Σ anon.|
+Eur. Ph. 420|θηρσὶ|θηρσὶν|Valckenaer|n.d.|AC|
+Eur. Ph. 437|με καὶ σὲ|σ]ε κὰμε̣[ |Elmsley|n.d.|P.Oxy. LX 4012|
 Eur. Ph. 1040|ἰαζὰ|ἀχὰ|Samuel Musgrave|1778|P.Oxy. II 224|ἀχᾷ Π2
 Eur. Ph. 1040|πόλεως|πόλεος|Porson|1824|P.Oxy. II 224|
 Eur. Ph. 1132|βίαι|βάθρων|Adolf Kirchhoff|1855|T.Vindob. inv. G HT 6|
