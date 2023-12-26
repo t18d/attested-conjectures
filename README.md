@@ -321,7 +321,7 @@ Eur. Or. 1340|ἀλλ'|ἄγ'|Weil|n.d.|P.Oxy. XI 1370|
 Eur. Ph. 21|-χεῖον|βακχείαν|Arnim|n.d.|Marc. gr. 468 (F)|
 Eur. Ph. 26|-σον|μέσων|Reiske|n.d.|P.Oxy. XLVII 3321 etc.|
 Eur. Ph. 61|εἰς|ε̣ς|Valckenaer|n.d.|P.Oxy. XLVII 3322|
-Eur. Ph. 76|-ην|πολυνείκη|Elmsley|n.d.|Athos Vatopedi (At)|
+Eur. Ph. 76|-ην|πολυνείκη|Elmsley|n.d.|Athos Vatopediou (At)|
 Eur. Ph. 86|-τὸν|βροτῶν|Markland|n.d.|Ambros. F 74 sup. (Ab)|teste Burges, ClJ 25 (1822) 342
 Eur. Ph. 86|-τὸν|βροτῶν|Valckenaer|n.d.|Ambros. F 74 sup. (Ab)|coll. Rh. 106
 Eur. Ph. 103|νῦν|νυν|Bothe|1823|Vat. gr. 51 (Zb)|interrogemus Diggle
@@ -329,7 +329,7 @@ Eur. Ph. 115|-νέοις|λαϊνέοισιν|Bothe|1803|Σ Thom. S. Ai. 596|
 Eur. Ph. 134 schol.|εἰμὶ|εἶμι|Bentley|1693|Taur. B IV 13|
 Eur. Ph. 136|-τας|αὐτοκασιγνήται|Reiske|n.d.|P.Lond.Lit. 75|
 Eur. Ph. 188|Ἀμυμωνίοις|τ᾽ ἀμυμ-|Paley|n.d.|RfP2|
-Eur. Ph. 207|-θην|κατενάσθη|Thirlby|n.d.|Athos Dionysiou 334|
+Eur. Ph. 207|-θην|κατενάσθη|Thirlby|n.d.|Athos Dionysiou 334 (Ad)|
 Eur. Ph. 226|ἰὼ|ω|Canter|n.d.|P.Oxy. IX 1177|
 Eur. Ph. 228|-είων κτλ.|βακχεῖον|Adolf Kirchhoff|n.d.|Vindob. phil. gr. 119 (Rw)|
 Eur. Ph. 252|σχῆμα|σῆμα|Heimsoeth|n.d.|G et Aaγρ|
@@ -349,6 +349,11 @@ Eur. Ph. 483|ἐμῶν|ἐμὸν|Grotius|n.d.|Arund. 540 (Za)|
 Eur. Ph. 487|αὖθις|αὖθις αὖ|Canter|n.d.|TzZb|
 Eur. Ph. 499|ταὐτὸ|ταὐτὸν|Elmsley|n.d.|Sa et Sext. Emp. hyp. Pyrrh. 1. 86|
 Eur. Ph. 548|ἀπονεῖμαι|-νέμων|Markland|n.d.|Paris. gr. 2712 (A)|
+Eur. Ph. 563|ὄψει|ο]ψη|Murray|n.d.|P.Oxy. XLIV 3153|
+Eur. Ph. 572|δή/δορός|διί|Adolf Kirchhoff|Rw s.l. et Σs||
+Eur. Ph. 578|ὑπεκδ-|ὑπερδράμηι|Canter|n.d.|P et Aa|
+Eur. Ph. 584|δυοῖν|δύο|Conradt|n.d.|Escor. gr. X.1.13 (gE)|
+Eur. Ph. 596|-κας|βέβηκεν|Benjamin Heath|n.d.|P.Berol. 17018 + 21218|
 Eur. Ph. 1040|ἰαζὰ|ἀχὰ|Samuel Musgrave|1778|P.Oxy. II 224|ἀχᾷ Π2
 Eur. Ph. 1040|πόλεως|πόλεος|Porson|1824|P.Oxy. II 224|
 Eur. Ph. 1132|βίαι|βάθρων|Adolf Kirchhoff|1855|T.Vindob. inv. G HT 6|
