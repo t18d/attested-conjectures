@@ -51,7 +51,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (63), Markland (45), Beza (25), Bentley (24), Blass (22), Elmsley (21), Naber (18), Johannes Pierson (17), Cobet (16), Reiske (16), and Nauck (16) (last 2 tied).</p>
+<p>The top 10 critics are Valckenaer (63), Markland (46), Beza (25), Bentley (24), Blass (22), Elmsley (21), Naber (18), Johannes Pierson (17), Cobet (16), Reiske (16), and Nauck (16) (last 2 tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -403,6 +403,11 @@ Eur. Ph. 1388|ἐϲτάλαϲϲ'|-λαζ'|Bothe|1825|RWZ|
 Eur. Ph. 1402|δ' (prius)|τ'|Valckenaer|n.d.|Athos Iviron 209 (W)|
 Eur. Ph. 1424|κοὐ|καὶ|Denniston|n.d.|Escor. gr. X.1.13 (gE)|
 Eur. Ph. 1425|-πους ὅσον/-που σὸς ὤν|οἰδίπου σ' ὅσον|Hermann|n.d.|B2Xd|
+Eur. Ph. 1482|τ. ἤ.|ἤδη τρισσῶν|Lenting|n.d.|Cantab. Nn. 3.14 (Z)|
+Eur. Ph. 1501|ἀνακαλέσομαι|ἀγκαλέσωμαι|Henrik van Herwerden|n.d.|Thessal. (Tp)|
+Eur. Ph. 1502|τάδε σώματα|τάδ᾽ αἵματα|Markland|n.d.|Wc|
+Eur. Ph. 1502|τάδε σώματα|τάδ᾽ αἵματα|Samuel Musgrave|n.d.|Wc|
+Eur. Ph. 1508|πάτερ|del.|Hermann|n.d.||
 Eur. Ph. (a) 7|ὑπὸ|ὑπὲρ|Wecklein|n.d.|Cremon. 130 (Cr)|
 Eur. Ph. (a) 8|-ξάμ-|παραταξόμενος|G. H. Schaefer|n.d.|P.Oxy. XXXI 2544 et Athos Vatopedi (At)|
 Eur. Ph. (a) 10-11|ἐβούλετο|ἐβουλεύετο|Adolf Kirchhoff|n.d.|Marc. gr. 468 (F)|
