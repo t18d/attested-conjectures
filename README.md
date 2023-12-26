@@ -51,7 +51,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (67), Markland (48), Elmsley (26), Beza (25), Bentley (24), Blass (22), Hermann (21), Brunck (20), Porson (19), Reiske (18) and Naber (18) (tied).</p>
+<p>The top 10 critics are Valckenaer (67), Markland (48), Elmsley (26), Beza (25), Bentley (24), Hermann (23), Blass (22), Brunck (20), Porson (19), Reiske (18) and Naber (18) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -315,7 +315,7 @@ Eur. Med. 1308|ἤ πω et ἦ που|ου που|Barthold|n.d.|P.Harr. I 38|
 Eur. Med. (a) 15|ἡβώωντα/ἡβόωντα|ἡβώοντα|Janus Lascaris|n.d.|Pal. gr. 98 (Va)|
 Eur. Med. (a) 28|τῶ|τὸ|Brunck|n.d.|Laur. 31.15 (D)|
 Eur. Or. 35|ὁ δὲ|ὅδε|Reiske|n.d.|GK|
-Eur. Or. 38|-βω(ι)|φόβον|Charles Willink|n.d.|V3sXd|
+Eur. Or. 38|-βω(ι)|φόβον|Charles Willink|1986|V3sXd|
 Eur. Or. 47|μήτε|μηδὲ|Elmsley|n.d.|AGK|
 Eur. Or. 64|-κε|παρέδωκεν|Porson|n.d.|Paris. suppl. gr. 393 (An)|
 Eur. Or. 79|ὅ. δ'|ὅπως|Porson|n.d.|B1cRw|
@@ -348,7 +348,7 @@ Eur. Or. 698|ἐντεί-|ἐκτείνοντι|Wecklein|n.d.|Vindob. phil. gr. 
 Eur. Or. 701|θέλεις|-οις|G. H. Schaefer|n.d.|Athos Vatopediou 671 (At)|
 Eur. Or. 703|κτῆμα|χρῆμα|Henrik van Herwerden|n.d.|Vat. Barb. gr. 4 (gB)|
 Eur. Or. 729|ἤ|ἧι|Battier|n.d.|Laur. 31.10 (O)|ἧ O
-Eur. Or. 730|ἰδὼν|ἰδὼν δ'|Charles Willink|n.d.|Ambros. F 74 sup. (Ab)|
+Eur. Or. 730|ἰδὼν|ἰδὼν δ'|Charles Willink|1986|Ambros. F 74 sup. (Ab)|
 Eur. Or. 758|μῦθος δ'|μῦθος|Brunck|n.d.|VFP|
 Eur. Or. 759|νῦν|νυν|Joshua Barnes|n.d.|XTz|
 Eur. Or. 766|ἔγκλημά τι|ἔγκλημα τί|Hermann|n.d.|Laur. conv. soppr. 66 (K)|
@@ -363,7 +363,7 @@ Eur. Or. 891|-οῖς|καλοὺς|Hartung|n.d.|Athos Dionysiou 334 (Ad)|
 Eur. Or. 911|χρὴ|δεῖ|Sybel|n.d.|Hier. 36 (H)|
 Eur. Or. 929|εὐνίδ-|εὔνιδας|Hermann|n.d.|Athos Vatopediou 671 (At)|
 Eur. Or. 946|-ουμένους|πετρούμενος|Elmsley|n.d.|HMCKRS et V2sPrγρ|
-Eur. Or. 966b|κάρα|κάρᾳ|Charles Willink|n.d.|GZm|
+Eur. Or. 966b|κάρα|κάρᾳ|Charles Willink|1986|GZm|
 Eur. Or. 976|ἰὼ ἰὼ|ἰὼ|Wecklein|n.d.|Cremon. 130 (Cr)|
 Eur. Or. 993|-μοσι|λευκοκύμοσιν|King|n.d.|Paris. suppl. gr. 393 (An)|
 Eur. Or. 1000|Ἀτρέως|Ἀτρέος|Porson|n.d.|SPr1s|
@@ -375,7 +375,7 @@ Eur. Or. 1047|με τήξεις|μ᾽ ἔτηξας|Bothe|1825|Zd1c|
 Eur. Or. 1092|λέχος|λ. γ'|Joshua Barnes|n.d.|Laur. conv. soppr. 66 (K)|
 Eur. Or. 1114|ὥσθ᾽|ὡς|Wecklein|n.d.|Escor. gr. X.1.13 (gE)|
 Eur. Or. 1148|σπάσω μέλαν|σπασώμεθα|Adolf Kirchhoff|n.d.|γρCPr|
-Eur. Or. 1156|τι|τοι|Charles Willink|n.d.|MnS1s|
+Eur. Or. 1156|τι|τοι|Charles Willink|1986|MnS1s|
 Eur. Or. 1165|-ώσωμεν|ἀνταναλώσω μὲν|Canter|n.d.|A et V2/3|
 Eur. Or. 1169|-εν|ἔσχ᾽|Joshua Barnes|n.d.|GK1c|
 Eur. Or. 1169|οὐ|del.|Porson|n.d.|Laur. 32.33 (Rf)|
@@ -385,6 +385,11 @@ Eur. Or. 1231|ἵκου|ἱκοῦ|Dindorf|n.d.|KAa|
 Eur. Or. 1236|ἐπεβ-|συνεβούλευσα|Adolf Kirchhoff|n.d.|Aars|
 Eur. Or. 1238|οὐκοῦν|οὔκουν|Brunck|n.d.|Prc|
 Eur. Or. 1257|ἐξεύρηι|ἐξάρη|Henrik van Herwerden|n.d.|Rem. 1306 (Pr)|
+Eur. Or. 1272|θῆρας|θήρας|Weil|n.d.|VaCRXTt3|
+Eur. Or. 1281-2|νῦν|νυν|Joshua Barnes|n.d.|Tt3Zc|
+Eur. Or. 1297n|Ἠλ.|ἡμ.|Hermann|n.d.|Ambros. L 39 sup. (G)|
+Eur. Or. 1299n|ἡμ.|Ἠλ.|Hermann|n.d.|XaZd|
+Eur. Or. 1300|φίλοισι|φίλοις|Charles Willink|1986|Cremon. 130 (Cr)|
 Eur. Or. 1340|ἀλλ'|ἄγ'|Weil|n.d.|P.Oxy. XI 1370|
 Eur. Or. arg. 19|-ην|ὀρέστη(ι)|Brunck|n.d.|BOAGZc|
 Eur. Or. arg. 21|-ῆσαι|συνοικίσαι|Brunck|n.d.|RfSa|
