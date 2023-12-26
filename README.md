@@ -51,7 +51,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (59), Markland (42), Beza (25), Bentley (24), Blass (22), Elmsley (19), Naber (18), Johannes Pierson (16), Cobet (16), Reiske (16), and Nauck (16) (last 2 tied).</p>
+<p>The top 10 critics are Valckenaer (59), Markland (43), Beza (25), Bentley (24), Blass (22), Elmsley (20), Naber (18), Johannes Pierson (16), Cobet (16), Reiske (16), and Nauck (16) (last 2 tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -329,7 +329,7 @@ Eur. Ph. 115|-νέοις|λαϊνέοισιν|Bothe|1803|Σ Thom. S. Ai. 596|
 Eur. Ph. 134 schol.|εἰμὶ|εἶμι|Bentley|1693|Taur. B IV 13|
 Eur. Ph. 136|-τας|αὐτοκασιγνήται|Reiske|n.d.|P.Lond.Lit. 75|
 Eur. Ph. 188|Ἀμυμωνίοις|τ᾽ ἀμυμ-|Paley|n.d.|RfP2|
-Eur. Ph. 207|-θην|κατενάσθη|Thirlby|n.d.|Athos Dionysios 334|
+Eur. Ph. 207|-θην|κατενάσθη|Thirlby|n.d.|Athos Dionysiou 334|
 Eur. Ph. 226|ἰὼ|ω|Canter|n.d.|P.Oxy. IX 1177|
 Eur. Ph. 228|-είων κτλ.|βακχεῖον|Adolf Kirchhoff|n.d.|Vindob. phil. gr. 119 (Rw)|
 Eur. Ph. 252|σχῆμα|σῆμα|Heimsoeth|n.d.|G et Aaγρ|
@@ -347,10 +347,12 @@ Eur. Ph. 420|θηρσὶ|θηρσὶν|Valckenaer|n.d.|AC|
 Eur. Ph. 437|με καὶ σὲ|σ]ε κὰμε̣[ |Elmsley|n.d.|P.Oxy. LX 4012|
 Eur. Ph. 483|ἐμῶν|ἐμὸν|Grotius|n.d.|Arund. 540 (Za)|
 Eur. Ph. 487|αὖθις|αὖθις αὖ|Canter|n.d.|TzZb|
+Eur. Ph. 499|ταὐτὸ|ταὐτὸν|Elmsley|n.d.|Sa et Sext. Emp. hyp. Pyrrh. 1. 86|
+Eur. Ph. 548|ἀπονεῖμαι|-νέμων|Markland|n.d.|Paris. gr. 2712 (A)|
 Eur. Ph. 1040|ἰαζὰ|ἀχὰ|Samuel Musgrave|1778|P.Oxy. II 224|ἀχᾷ Π2
 Eur. Ph. 1040|πόλεως|πόλεος|Porson|1824|P.Oxy. II 224|
 Eur. Ph. 1132|βίαι|βάθρων|Adolf Kirchhoff|1855|T.Vindob. inv. G HT 6|
-Eur. Ph. 1149 schol.|-ϲτρέψαι|ἀναϲτέψαι|Joshua Barnes|1694|Vat. 909 (A)|
+Eur. Ph. 1149 schol.|-ϲτρέψαι|ἀναϲτέψαι|Joshua Barnes|1694|Vat. 909 (V)|
 Eur. Ph. (a) 7|ὑπὸ|ὑπὲρ|Wecklein|n.d.|Cremon. 130 (Cr)|
 Eur. Ph. (a) 8|-ξάμ-|παραταξόμενος|G. H. Schaefer|n.d.|P.Oxy. XXXI 2544 et Athos Vatopedi (At)|
 Eur. Ph. (a) 10-11|ἐβούλετο|ἐβουλεύετο|Adolf Kirchhoff|n.d.|Marc. gr. 468 (F)|
