@@ -345,6 +345,8 @@ Eur. Ph. 386|ταῦτ᾽|ταὔτ᾽|Bothe|1825|fere AS|
 Eur. Ph. 403|τις δυστυχῆι|τι δυστυχῆις|Elmsley|n.d.|Σ anon.|
 Eur. Ph. 420|θηρσὶ|θηρσὶν|Valckenaer|n.d.|AC|
 Eur. Ph. 437|με καὶ σὲ|σ]ε κὰμε̣[ |Elmsley|n.d.|P.Oxy. LX 4012|
+Eur. Ph. 483|ἐμῶν|ἐμὸν|Grotius|n.d.|Arund. 540 (Za)|
+Eur. Ph. 487|αὖθις|αὖθις αὖ|Canter|n.d.|TzZb|
 Eur. Ph. 1040|ἰαζὰ|ἀχὰ|Samuel Musgrave|1778|P.Oxy. II 224|ἀχᾷ Π2
 Eur. Ph. 1040|πόλεως|πόλεος|Porson|1824|P.Oxy. II 224|
 Eur. Ph. 1132|βίαι|βάθρων|Adolf Kirchhoff|1855|T.Vindob. inv. G HT 6|
