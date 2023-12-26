@@ -51,7 +51,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (67), Markland (48), Beza (25), Elmsley (24), Bentley (24), Blass (22), Hermann (21), Reiske (18), Naber (18), Johannes Pierson (17), Brunck (17) and Nauck (17) (tied).</p>
+<p>The top 10 critics are Valckenaer (67), Markland (48), Elmsley (26), Beza (25), Bentley (24), Blass (22), Hermann (21), Brunck (18), Reiske (18) and Naber (18).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -345,7 +345,7 @@ Eur. Or. 694|μὲν γὰρ τὰ|γὰρ τὰ|Joshua Barnes|n.d.|KS et gE|
 Eur. Or. 695|τάδε|τόδε|King|n.d.|Vat. gr. 1135 (R)|
 Eur. Or. 698|-τι|ἐντείνοντα|Elmsley|n.d.|sRf1Rw1|
 Eur. Or. 698|ἐντεί-|ἐκτείνοντι|Wecklein|n.d.|Vindob. phil. gr. 119 (Rw)|
-Eur. Or. 701|θέλεις|-οις|G. H. Schaefer|n.d.|Athos Vatopediou (At)|
+Eur. Or. 701|θέλεις|-οις|G. H. Schaefer|n.d.|Athos Vatopediou 671 (At)|
 Eur. Or. 703|κτῆμα|χρῆμα|Henrik van Herwerden|n.d.|Vat. Barb. gr. 4 (gB)|
 Eur. Or. 729|ἤ|ἧι|Battier|n.d.|Laur. 31.10 (O)|ἧ O
 Eur. Or. 730|ἰδὼν|ἰδὼν δ'|Charles Willink|n.d.|Ambros. F 74 sup. (Ab)|
@@ -362,6 +362,14 @@ Eur. Or. 836|φόνω(ι)|φόνου|Hartung|n.d.|PrS|ἕνεκα φόνου Vgl
 Eur. Or. 891|-οῖς|καλοὺς|Hartung|n.d.|Athos Dionysiou 334 (Ad)|
 Eur. Or. 911|χρὴ|δεῖ|Sybel|n.d.|Hier. 36 (H)|
 Eur. Or. 929|εὐνίδ-|εὔνιδας|Hermann|n.d.|Athos Vatopediou 671 (At)|
+Eur. Or. 946|-ουμένους|πετρούμενος|Elmsley|n.d.|HMCKRS et V2sPrγρ|
+Eur. Or. 966b|κάρα|κάρᾳ|Charles Willink|n.d.|GZm|
+Eur. Or. 976|ἰὼ ἰὼ|ἰὼ|Wecklein|n.d.|Cremon. 130 (Cr)|
+Eur. Or. 993|-μοσι|λευκοκύμοσιν|King|n.d.|Paris. suppl. gr. 393 (An)|
+Eur. Or. 1000|Ἀτρέως|Ἀτρέος|Porson|n.d.|SPr1s|
+Eur. Or. 1002|ἀελ- κτλ.|αλιου|Porson|n.d.|P.Oxy. LX 4014|
+Eur. Or. 1011a|ἤλυθε|ἦλθεν|Brunck|n.d.|Vat. gr. 909 (V)|
+Eur. Or. 1035|δ᾽ ἢ|δὴ|Elmsley|n.d.|Zm1γρ|
 Eur. Or. 1340|ἀλλ'|ἄγ'|Weil|n.d.|P.Oxy. XI 1370|
 Eur. Or. arg. 19|-ην|ὀρέστη(ι)|Brunck|n.d.|BOAGZc|
 Eur. Or. arg. 21|-ῆσαι|συνοικίσαι|Brunck|n.d.|RfSa|
@@ -370,7 +378,7 @@ Eur. Or. arg. 38|om.|οὕτω|Wecklein|n.d.|Athos Dionysiou 334 (Ad)|
 Eur. Ph. 21|-χεῖον|βακχείαν|Arnim|n.d.|Marc. gr. 468 (F)|
 Eur. Ph. 26|-σον|μέσων|Reiske|n.d.|P.Oxy. XLVII 3321 etc.|
 Eur. Ph. 61|εἰς|ε̣ς|Valckenaer|n.d.|P.Oxy. XLVII 3322|
-Eur. Ph. 76|-ην|πολυνείκη|Elmsley|n.d.|Athos Vatopediou (At)|
+Eur. Ph. 76|-ην|πολυνείκη|Elmsley|n.d.|Athos Vatopediou 671 (At)|
 Eur. Ph. 86|-τὸν|βροτῶν|Markland|n.d.|Ambros. F 74 sup. (Ab)|teste Burges, ClJ 25 (1822) 342
 Eur. Ph. 86|-τὸν|βροτῶν|Valckenaer|n.d.|Ambros. F 74 sup. (Ab)|coll. Rh. 106
 Eur. Ph. 103|νῦν|νυν|Bothe|1823|Vat. gr. 51 (Zb)|interrogemus Diggle
@@ -468,7 +476,7 @@ Eur. Ph. 1562|δ'|τ'|Dindorf|n.d.|Laur. 32.33 (Rf)|
 Eur. Ph. 1626|δὲ|τε|Markland|n.d.|Haun. 3549 (Zc)|
 Eur. Ph. 1626|δὲ|τε|Valckenaer|n.d.|Haun. 3549 (Zc)|
 Eur. Ph. 1682|λίπε|λεῖπε|Valckenaer|n.d.|OV|
-Eur. Ph. 1694|γεραιᾶς|-ᾶι|Valckenaer|n.d.|Athos Vatopediou (At)|-ᾶ At
+Eur. Ph. 1694|γεραιᾶς|-ᾶι|Valckenaer|n.d.|Athos Vatopediou 671 (At)|-ᾶ At
 Eur. Ph. 1710|χεῖρα|χέρα|Hermann|n.d.|manus Triclinii|
 Eur. Ph. 1722|ἔχων|del.|Hermann|n.d.|P.Strasb. inv. WG 307|
 Eur. Ph. 1723|-ᾶς|φυγὰς|Hermann|n.d.|RZ|
