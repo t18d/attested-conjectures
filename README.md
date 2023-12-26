@@ -51,7 +51,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (67), Markland (48), Beza (25), Bentley (24), Elmsley (23), Blass (22), Hermann (19), Reiske (18), Naber (18), Johannes Pierson (17) and Nauck (17) (tied).</p>
+<p>The top 10 critics are Valckenaer (67), Markland (48), Beza (25), Elmsley (24), Bentley (24), Blass (22), Hermann (19), Reiske (18), Naber (18), Johannes Pierson (17) and Nauck (17) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -342,6 +342,11 @@ Eur. Or. 545|σε|γε|Samuel Musgrave|n.d.|Z et γρPrS|
 Eur. Or. 671|ἐμῶν κακῶν|ἐγὼ κακῶν|Porson|n.d.|ZcgE|
 Eur. Or. 680 nota|Ἠλ.|Χο.|Canter|n.d.|Z et Xa|
 Eur. Or. 694|μὲν γὰρ τὰ|γὰρ τὰ|Joshua Barnes|n.d.|KS et gE|
+Eur. Or. 695|τάδε|τόδε|King|n.d.|Vat. gr. 1135 (R)|
+Eur. Or. 698|-τι|ἐντείνοντα|Elmsley|n.d.|sRf1Rw1|
+Eur. Or. 698|ἐντεί-|ἐκτείνοντι|Wecklein|n.d.|Vindob. phil. gr. 119 (Rw)|
+Eur. Or. 701|θέλεις|-οις|G. H. Schaefer|n.d.|Athos Vatopediou (At)|
+Eur. Or. 703|κτῆμα|χρῆμα|Henrik van Herwerden|n.d.|Vat. Barb. gr. 4 (gB)|
 Eur. Or. 1340|ἀλλ'|ἄγ'|Weil|n.d.|P.Oxy. XI 1370|
 Eur. Or. arg. 19|-ην|ὀρέστη(ι)|Brunck|n.d.|BOAGZc|
 Eur. Or. arg. 21|-ῆσαι|συνοικίσαι|Brunck|n.d.|RfSa|
