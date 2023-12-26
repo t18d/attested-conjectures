@@ -51,7 +51,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (57), Markland (41), Beza (25), Bentley (24), Blass (22), Naber (18), Elmsley (17), Johannes Pierson (16), Cobet (16), Reiske (16), and Nauck (16) (last 2 tied).</p>
+<p>The top 10 critics are Valckenaer (58), Markland (42), Beza (25), Bentley (24), Blass (22), Naber (18), Elmsley (17), Johannes Pierson (16), Cobet (16), Reiske (16), and Nauck (16) (last 2 tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -118,7 +118,7 @@ Ar. Eq. 881|τηλικουτονί|τηλικοῦτον|Valckenaer|1757|Laur. 3
 Ar. Eq. 1017|ἐκέλευσ'|ἐκελευ'|Frederick H. M. Blaydes|1882|P.Oxy. XI 1373|
 Ar. Eq. 1058|φράσαι/φράζευ|φρασ]σαι|Brunck|1783|P.Oxy. XI 1373|
 Ar. Lys. 427|ἀλλ’|ἄλλ’|Valckenaer|1757|MS (Brunck 1781)|
-Ar. Nub. 507|μελιττοῦταν|μελιτοῦτταν|Valckenaer|s.xviii ex.|Laur. Conv. Soppr. 140|
+Ar. Nub. 507|μελιττοῦταν|μελιτοῦτταν|Valckenaer|s.xviii ex.|Laur. conv. soppr. 140|
 Ar. Pax 1013|ἀποχειρωθείς|ἀποχηρωθείς|Valckenaer|1757|Marc. gr. 474 (V)|
 Ar. Plut. 179 schol.|ανόητον|ὄνον τὸν|Bentley|1710|Estensis α.U.5.10 (E)|ap. Kusterum, Not. p. 321
 Ar. Plut. 1018|παγκάλας|παγκάλους|Valckenaer|1757|Mpc et L|
@@ -336,6 +336,10 @@ Eur. Ph. 252|σχῆμα|σῆμα|Heimsoeth|n.d.|G et Aaγρ|
 Eur. Ph. 297|ἀναπ-|ἀμπέτασον|Hermann|n.d.|Vat. gr. 909 (V)|
 Eur. Ph. 308-9|χαίτας|-ταις|Brodaeus|n.d.|P.Vindob. inv. G 29769|
 Eur. Ph. 325|δ'|τ'|Wakefield|n.d.|Laur. conv. soppr. 172 (P)|
+Eur. Ph. 341|τάδε|τᾶιδε|Valckenaer|n.d.|manus Triclinii|
+Eur. Ph. 361|δὲ τάρβους|δ᾽ ἐτάρβης᾽|Hermann|n.d.|Vindob. phil. gr. 119 (Rw)|
+Eur. Ph. 363|-εος|ἄστεως|Dindorf|n.d.|Fauor. de exil. 7.2|
+Eur. Ph. 378|-νες|τλήμονος|Markland|n.d.|manus Triclinii s.l.|
 Eur. Ph. 1040|ἰαζὰ|ἀχὰ|Samuel Musgrave|1778|P.Oxy. II 224|ἀχᾷ Π2
 Eur. Ph. 1040|πόλεως|πόλεος|Porson|1824|P.Oxy. II 224|
 Eur. Ph. 1132|βίαι|βάθρων|Adolf Kirchhoff|1855|T.Vindob. inv. G HT 6|
