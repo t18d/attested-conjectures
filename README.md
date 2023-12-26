@@ -341,6 +341,7 @@ Eur. Or. 473|σεσωσμ-|σεσωμένος|Wecklein|n.d.|Athos Dionysiou 334 
 Eur. Or. 545|σε|γε|Samuel Musgrave|n.d.|Z et γρPrS|
 Eur. Or. 671|ἐμῶν κακῶν|ἐγὼ κακῶν|Porson|n.d.|ZcgE|
 Eur. Or. 680 nota|Ἠλ.|Χο.|Canter|n.d.|Z et Xa|
+Eur. Or. 694|μὲν γὰρ τὰ|γὰρ τὰ|Joshua Barnes|n.d.|KS et gE|
 Eur. Or. 1340|ἀλλ'|ἄγ'|Weil|n.d.|P.Oxy. XI 1370|
 Eur. Or. arg. 19|-ην|ὀρέστη(ι)|Brunck|n.d.|BOAGZc|
 Eur. Or. arg. 21|-ῆσαι|συνοικίσαι|Brunck|n.d.|RfSa|
