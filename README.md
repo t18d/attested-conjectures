@@ -51,7 +51,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (67), Markland (47), Beza (25), Bentley (24), Blass (22), Elmsley (21), Naber (18), Johannes Pierson (17), Hermann (17), Cobet (16), Reiske (16), and Nauck (16) (last 3 tied).</p>
+<p>The top 10 critics are Valckenaer (67), Markland (47), Beza (25), Bentley (24), Blass (22), Elmsley (21), Naber (18), Johannes Pierson (17), Hermann (17), Cobet (16), Brunck (16), Reiske (16), and Nauck (16) (last 4 tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -314,6 +314,8 @@ Eur. Med. 1296|γῆ(ς) σφε|γης γε|Elmsley|n.d.|P.Harr. I 38|
 Eur. Med. 1308|ἤ πω et ἦ που|ου που|Barthold|n.d.|P.Harr. I 38|
 Eur. Med. (a) 15|ἡβώωντα/ἡβόωντα|ἡβώοντα|Janus Lascaris|n.d.|Pal. gr. 98 (Va)|
 Eur. Med. (a) 28|τῶ|τὸ|Brunck|n.d.|Laur. 31.15 (D)|
+Eur. Or. 19|-ην|ὀρέστη(ι)|Brunck|n.d.|BOAGZc|
+Eur. Or. 21|-ῆσαι|συνοικίσαι|Brunck|n.d.|RfSa|
 Eur. Or. 239|δ' εἰς|φέροις|Valckenaer|1749|Laur. 32.2 (L) et Cantab. Nn. 3.14 (Z)|
 Eur. Or. 294|ἀνακαλύπτ', ὦ|ἀνακαλύπτου|Valckenaer|1749|B2 et Tt1/2|
 Eur. Or. 329|απόφατιν|ἄπο φάτιν|Valckenaer|1749|RS et Prc|
@@ -424,6 +426,7 @@ Eur. Ph. 1710|χεῖρα|χέρα|Hermann|n.d.|manus Triclinii|
 Eur. Ph. 1722|ἔχων|del.|Hermann|n.d.|P.Strasb. inv. WG 307|
 Eur. Ph. 1723|-ᾶς|φυγὰς|Hermann|n.d.|RZ|
 Eur. Ph. 1753|ὧι|ἐν ὧι|Scaliger|n.d.|Ambros. L 39 sup. (G)|
+Eur. Ph. 1759|-ω|ἔγνων|Samuel Musgrave|n.d.|VG|
 Eur. Ph. (a) 7|ὑπὸ|ὑπὲρ|Wecklein|n.d.|Cremon. 130 (Cr)|
 Eur. Ph. (a) 8|-ξάμ-|παραταξόμενος|G. H. Schaefer|n.d.|P.Oxy. XXXI 2544|
 Eur. Ph. (a) 10-11|ἐβούλετο|ἐβουλεύετο|Adolf Kirchhoff|n.d.|Marc. gr. 468 (F)|
