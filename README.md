@@ -51,7 +51,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (55), Markland (40), Beza (25), Bentley (24), Blass (22), Naber (18), Johannes Pierson (16), Cobet (16), Elmsley (16), and Nauck (16).</p>
+<p>The top 10 critics are Valckenaer (56), Markland (40), Beza (25), Bentley (24), Blass (22), Naber (18), Elmsley (17), Johannes Pierson (16), Cobet (16), and Nauck (16).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -319,6 +319,9 @@ Eur. Or. 294|ἀνακαλύπτ', ὦ|ἀνακαλύπτου|Valckenaer|1749|B
 Eur. Or. 329|απόφατιν|ἄπο φάτιν|Valckenaer|1749|RS et Prc|
 Eur. Or. 1340|ἀλλ'|ἄγ'|Weil|n.d.|P.Oxy. XI 1370|
 Eur. Ph. 21|-χεῖον|βακχείαν|Arnim|n.d.|Marc. gr. 468 (F)|
+Eur. Ph. 26|-σον|μέσων|Reiske|n.d.|P.Oxy. XLVII 3321 etc.|
+Eur. Ph. 61|εἰς|ε̣ς|Valckenaer|n.d.|P.Oxy. XLVII 3322|
+Eur. Ph. 76|-ην|πολυνείκη|Elmsley|n.d.|Athos Vatopedi (At)|
 Eur. Ph. 134 schol.|εἰμὶ|εἶμι|Bentley|1693|Taur. B IV 13|
 Eur. Ph. 1040|ἰαζὰ|ἀχὰ|Samuel Musgrave|1778|P.Oxy. II 224|ἀχᾷ Π2
 Eur. Ph. 1040|πόλεως|πόλεος|Porson|1824|P.Oxy. II 224|
