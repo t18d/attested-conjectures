@@ -17,6 +17,7 @@
         <li>Chariton Aphrodisiensis, <em>De Callirhoe Narrationes Amatoriae</em>, ed. B. P. Reardon (Munich, 2004).</li>
         <li>Diggle, James, 'Apologies to Bothe (and Others)', in <em>Euripidea: collected essays</em> (Oxford, 1994), 518-23.</li>
         <li>El-Maghrabi, M. G., and C. Römer (eds), <em>Texts from the "Archive" of Socrates, the Tax Collector, and Other Contexts at Karanis (P. Cair. Mich. II)</em> (Berlin, 2015), 48.</li>
+        <li>Euripides, <em>Fabulae</em>, ed. J. Diggle (Oxford, 1984-94).</li>
         <li>Finglass, P. J., 'Unpublished conjectures at Leiden on the Greek dramatists', <em>Greek, Roman and Byzantine Studies</em>, 49/2 (2009), 187-221.</li>
         <li>Finglass, P. J., 'Unpublished Conjectures on Sophocles by Jeremiah Markland', <em>Greek, Roman, and Byzantine Studies</em>, 51/2 (2011), 232-8.</li>
         <li>Finglass, Patrick J. 'Il valore dei papiri per la critica testuale di Sofocle', in <em><a href="https://library.oapen.org/bitstream/handle/20.500.12657/55124/9788866553878.pdf">Il valore dei papiri per la critica testuale di Sofocle</a></em> (Florence, 2013), 33-51.</li>
