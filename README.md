@@ -53,7 +53,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (67), Markland (50), Elmsley (27), Beza (25), Bentley (24), Hermann (23), Reiske (23), Blass (22), Brunck (22) and Cobet (21).</p>
+<p>The top 10 critics are Valckenaer (67), Markland (50), Elmsley (27), Beza (25), Bentley (24), Hermann (23), Reiske (23), Cobet (22), Blass (22) and Brunck (22).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -887,6 +887,10 @@ Thuc. 2.11.9|ἡμῖν|ὑμῖν|Hude|1898|P.Oxy. VI 853 et P.Oxy. XIII 1621|
 Thuc. 2.15.1|ἐπὶ|ἀπὸ|Naber|1886|J2|Mnemosyne N.S. 14 (1886) 93
 Thuc. 2.16.2|-λιπόντες|καταλείποντες|Gottfried Boehme|1856|J1|
 Thuc. 2.34.1|πρῶτον|πρώτων|Cobet|1873|A4|V.L. p. 437
+Thuc. 2.39.2|τήν|τῇ|H. Stein|1893|Pi2|Programm des Gymnasiums zu Oldenburg (1895) 15
+Thuc. 2.49.5|σῶμα|τὸ σ.|Hude|1898|J2|
+Thuc. 2.63.1|-θεσθε|ἀπήχθησθε|Cobet|1873|Ck Ms Vm|V.L. p. 439
+Thuc. 2.67.3|ᾧ|ὃ|E. F. Poppo|1843|Vk|
 Thuc. 4.37|ὅτι|del.|Henrik van Herwerden|s.xix ex.|P.Oxy. I 16 et IV 696|
 Thuc. 5.97|καὶ τοῦ|τοῦ καὶ|K. W. Krüger|1860|P.Oxy. VI 880|
 Thuc. 7.55.1|στρατιᾶς|στρατείας|Aemilius Portus|1594|P.Oxy. XI 1376|
