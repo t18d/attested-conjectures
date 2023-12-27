@@ -53,7 +53,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (67), Markland (50), Elmsley (27), Beza (25), Bentley (24), Hermann (23), Blass (22), Brunck (22), Reiske (21), Cobet (19) and Porson (19) (tied).</p>
+<p>The top 10 critics are Valckenaer (67), Markland (50), Elmsley (27), Beza (25), Bentley (24), Hermann (23), Blass (22), Brunck (22), Reiske (21) and Cobet (20).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -867,6 +867,11 @@ Thuc. 1.9.3|-τιὰν|στρατείαν|Aemilius Portus|1594|Paris. gr. 1791-2
 Thuc. 1.11.1|ἐπειδὴ δὲ|ἐπειδή τε|Bekker|1832|Ud Pl1|
 Thuc. 1.29.4|-ναγό-|ἀνταναγαγόμενοι|Johannes Classen|1862|Ud Pl1|
 Thuc. 1.31.3|-ευσό-|πρεσβευόμενοι|E. F. Poppo|1843|Μb Pf Vm|
+Thuc. 1.32.3|ἡμῖν|ἡμῶν|Hude|1898|U2|
+Thuc. 1.33.1|-θησθε|καταθεῖσθε|Bekker|1832|Ud Cac|
+Thuc. 1.35.5|ἦσαν|εἰσὶν|H. Richards|1898|S2|CQ 7 (1913) 154; Wadham
+Thuc. 1.37.2|δὲ|δὴ|K. W. Krüger|1860|J2|
+Thuc. 1.44.1|-ραίᾳ|ὑστέρᾳ|Cobet|1873|Paris. gr. 1735 (Pf)|Mnemosyne 11 (1862) 364
 Thuc. 1.110.4|Ἀθηναίων|Ἀθηνῶν|Bekker|1821|P.Oxy. XXXIV 2073|α[θη]ν̣ων
 Thuc. 4.37|ὅτι|del.|Henrik van Herwerden|s.xix ex.|P.Oxy. I 16 et IV 696|
 Thuc. 5.97|καὶ τοῦ|τοῦ καὶ|Krüger|n.d.|P.Oxy. VI 880|
