@@ -52,7 +52,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (67), Markland (49), Elmsley (26), Beza (25), Bentley (24), Hermann (23), Blass (22), Brunck (22), Porson (19) and Reiske (19).</p>
+<p>The top 10 critics are Valckenaer (67), Markland (50), Elmsley (26), Beza (25), Bentley (24), Hermann (23), Blass (22), Brunck (22), Porson (19) and Reiske (19).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -266,6 +266,8 @@ Eur. Ba. 1179|ἐμὸν ἐμὸν|ἐμὸν|Samuel Musgrave|n.d.|Plut. Crass.
 Eur. Ba. 1184|τλάμων|τλᾶμ̣ον|Bothe|1802|P.Ant. II 73|
 Eur. Ba. 1285|οἰμ-|ὠιμωγμένον|Elmsley|n.d.|Orus de orthogr.|= lex. Messan., ed. Rabe, Rh. Mus. 47 (1892) 413
 Eur. Ba. 1332|ἀρμονίας|Ἁρμονίαν|Aldina|n.d.|D.P. 391 schol.|
+Eur. Ba. 1344|-μεθά|λισσόμεσθά|Aldina|n.d.|Chr. Pat. 2557 codd. pauci|
+Eur. Ba. 1345|εἴδ-|ἤιδετε|Aldina|n.d.|Et.Gen. AB etc.|
 Eur. Ba. arg. 7|-ως|ἄλλους|Bothe|1826|Palat. gr. 287 (P)|
 Eur. El. 374|γ' ἄρα|ταρα|Seidler|n.d.|P.Hib. I 7|
 Eur. El. 568|-ῆς|φρονεῖς|Jackson|n.d.|Lac|
@@ -306,9 +308,12 @@ Eur. Hipp. 814|ὦ βιαίως|βιαίω|Bothe|1802|Laur. 31.15 (D)|
 Eur. Hipp. 1070|ἧπαρ δακρύων τ'|ἧπαρ· δακρύων|Wilamowitz|n.d.|HnOx|
 Eur. Hipp. 1255|-ραὶ|συμφορὰ|Elmsley|n.d.|Laur. 31.10 (O)|
 Eur. Hipp. 1317|-póv|ἐχθρῶν|Elmsley|n.d.|V3|
-Eur. IT. 252|καὶ τυχ-|κἀντυχόντες|Reiske|1753-4|P.Hib. I 24|
-Eur. IT. 587|γε|τὰ|Hermann|n.d.|P.Hib. I 24|]τ̣α
-Eur. IT. 618|τήνδε|τῆσδε|Bothe|n.d.|P.Hib. I 24|
+Eur. IA 308|γε φ. σε δεῖ|γε φερειν σε|Adolf Kirchhoff|n.d.|P.Köln II 67|
+Eur. IA 309|-ως|αλλοις|Markland|n.d.|P.Köln II 67|
+Eur. IA 380|αἰσχρὸς οὐκ|χρηστὸς|Grotius|n.d.|Stob. cod. M|
+Eur. IT 252|καὶ τυχ-|κἀντυχόντες|Reiske|1753-4|P.Hib. I 24|
+Eur. IT 587|γε|τὰ|Hermann|n.d.|P.Hib. I 24|]τ̣α
+Eur. IT 618|τήνδε|τῆσδε|Bothe|n.d.|P.Hib. I 24|
 Eur. Ion 1428|ἢ|ἣ|Brodaeus|n.d.|Laur. 32.3 (L)|
 Eur. Med. 12|πολιτῶν|πολίταις|Joshua Barnes|n.d.|V3|
 Eur. Med. 140|ὁ|τὸν|Samuel Musgrave|1778|HE|
