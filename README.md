@@ -875,8 +875,10 @@ Thuc. 1.44.1|-ραίᾳ|ὑστέρᾳ|Cobet|1873|Paris. gr. 1735 (Pf)|Mnemosyne
 Thuc. 1.73.1|ἡμᾶς|ὑμᾶς|K. W. Krüger|1860|Paris. gr. 1734 (H)|
 Thuc. 1.93.3|-οὺς -οὺς -ους|αὐτοῖς ναυτικοῖς γεγενημένοις|Hude|1898|J2|
 Thuc. 1.95.5|-να|τινας|Johannes Classen|1862|Ot Fac|
-Thuc. 1.105.6|-ρας|ἡμέραις|Madvig|1871|F6|
+Thuc. 1.105.6|-ρας|ἡμέραις|Madvig|1871|F6|Adv. p. 308
+Thuc. 1.106.1|ᾧ|ὃ|Henrik van Herwerden|1877|Vk J2|
 Thuc. 1.110.4|Ἀθηναίων|Ἀθηνῶν|Bekker|1832|P.Oxy. XXXIV 2073|α[θη]ν̣ων
+Thuc. 1.112.4|λιμ-|λοιμοῦ|Julius Beloch|1912-27|J2|Griech. Gesch. 2, 1<sup>2</sup> 137
 Thuc. 4.37|ὅτι|del.|Henrik van Herwerden|s.xix ex.|P.Oxy. I 16 et IV 696|
 Thuc. 5.97|καὶ τοῦ|τοῦ καὶ|K. W. Krüger|1860|P.Oxy. VI 880|
 Thuc. 7.55.1|στρατιᾶς|στρατείας|Aemilius Portus|1594|P.Oxy. XI 1376|
