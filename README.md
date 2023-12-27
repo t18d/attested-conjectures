@@ -862,7 +862,9 @@ Theopomp.Com. fr. 73|om.|ὃς|F. J. Bast|1811|Phot. α 632|ap. Schaefer, Greg. 
 Thuc. 1.2.6|μετοικίας ἐς|μετοικεσίας|F. W. Ullrich|1862|γρH2|Beitr. z. Erkl. p. 174
 Thuc. 1.4|καθήρει|ἐκάθηρε|Cobet|1873|Aristid.|V.L. p. 149
 Thuc. 1.6.5|πέπαυται|-αυνται|Reiske|1761|MS|Anim. p. 5
-Thuc. 1.7|ἀνῳκισμένοι|-ναι|Johannes Classen|1862|Neap. III-B-10|
+Thuc. 1.7|ἀνῳκισμένοι|-ναι|Johannes Classen|1862|Neap. III-B-10 (Nf)|
+Thuc. 1.9.3|-τιὰν|στρατείαν|Portus|1594|Paris. gr. 1791-2 (Pb)|
+Thuc. 1.11.1|ἐπειδὴ δὲ|ἐπειδή τε|Bekker|1832|Ud Pl1|
 Thuc. 1.110.4|Ἀθηναίων|Ἀθηνῶν|Bekker|1821|P.Oxy. XXXIV 2073|α[θη]ν̣ων
 Thuc. 4.37|ὅτι|del.|Henrik van Herwerden|s.xix ex.|P.Oxy. I 16 et IV 696|
 Thuc. 5.97|καὶ τοῦ|τοῦ καὶ|Krüger|n.d.|P.Oxy. VI 880|
