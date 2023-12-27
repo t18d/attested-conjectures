@@ -53,7 +53,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (67), Markland (50), Elmsley (27), Beza (25), Bentley (24), Hermann (23), Blass (22), Brunck (22), Reiske (21) and Cobet (20).</p>
+<p>The top 10 critics are Valckenaer (67), Markland (50), Elmsley (27), Beza (25), Bentley (24), Hermann (23), Reiske (23), Blass (22), Brunck (22) and Cobet (20).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -879,6 +879,9 @@ Thuc. 1.105.6|-ρας|ἡμέραις|Madvig|1871|F6|Adv. p. 308
 Thuc. 1.106.1|ᾧ|ὃ|Henrik van Herwerden|1877|Vk J2|
 Thuc. 1.110.4|Ἀθηναίων|Ἀθηνῶν|Bekker|1832|P.Oxy. XXXIV 2073|α[θη]ν̣ων
 Thuc. 1.112.4|λιμ-|λοιμοῦ|Julius Beloch|1912-27|J2|Griech. Gesch. 2, 1<sup>2</sup> 137
+Thuc. 1.120.5|ὅμοια|ὁμοίᾳ|Reiske|1761|K E1 γρH2|Anim. p. 14
+Thuc. 1.124.1|ταῦτα κτλ.|ταὐτὰ|Reiske|1761|J2|Anim. p. 14
+Thuc. 1.128.7|-πει|ἀποπέμπω|Henri Estienne|1588|Pi2|
 Thuc. 4.37|ὅτι|del.|Henrik van Herwerden|s.xix ex.|P.Oxy. I 16 et IV 696|
 Thuc. 5.97|καὶ τοῦ|τοῦ καὶ|K. W. Krüger|1860|P.Oxy. VI 880|
 Thuc. 7.55.1|στρατιᾶς|στρατείας|Aemilius Portus|1594|P.Oxy. XI 1376|
