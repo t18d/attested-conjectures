@@ -51,7 +51,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (67), Markland (48), Elmsley (26), Beza (25), Bentley (24), Hermann (23), Blass (22), Brunck (22), Porson (20) and Reiske (19).</p>
+<p>The top 10 critics are Valckenaer (67), Markland (49), Elmsley (26), Beza (25), Bentley (24), Hermann (23), Blass (22), Brunck (22), Porson (19) and Reiske (19).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -286,7 +286,7 @@ Eur. Hec. 958|αῦτα|αὐτὰ|Hermann|n.d.|F2|
 Eur. Hec. 984|χρὴ|δεῖ|Nauck|n.d.|GK|
 Eur. Hec. 1032|ἐπήγαγεν|ὑπ-|Goram|n.d.|Vat. gr. 1345 (Sa)|
 Eur. Hec. 1070|τᾶνδε|τάνδε|Seidler|n.d.|OGZc|
-Eur. Hec. 1108|ζοῆς/ζωῆς|ζόης|Porson|n.d.|Va i.m.|
+Eur. Hec. 1108|ζοῆς/ζωῆς|ζόης|Markland|n.d.|Va i.m.|ap. Burges, CJ 25 (1822) 340
 Eur. Hec. 1167|-υον|ἤνυτον|L. Dindorf|n.d.|Huv|
 Eur. Hec. 1176|τε|τὸν|Nauck|n.d.|Laur. 32.3 (L)|
 Eur. Hec. 1215|-νῶι|καπνὸς|Canter|n.d.|Kγρ|
