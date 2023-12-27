@@ -566,6 +566,9 @@ Eur. Rh. 398|-ων|πολεμίωι|Bothe|1826|Va1s|
 Eur. Rh. 429|πορθμεύσων/-εύσας|-εῦσαι|Aldina|n.d.|Harl. 5743 (Q)|
 Eur. Rh. 482|νῦν|νυν|Scaliger|n.d.|Athos Vatopediou 36 (gV)|
 Eur. Rh. 685|ἴστω|ἵστω|Portus|n.d.|Σl|
+Eur. Rh. 694|χεῖρα|χέρα|Samuel Musgrave|n.d.|Haun. 417 (Hn)|
+Eur. Rh. 855|-ᾶ(ι)|μηχαναὶ|Samuel Musgrave|n.d.|Et.Gen. B|
+Eur. Rh. 883|ἄγει/ἄγοι|ἀνάγει|Benjamin Heath|n.d.|Ambros. F 205 inf. (Af)|
 Eur. Rh. (a) 8|ἀπ-|ὑπέστρεφον|Schwartz|n.d.|Palat. gr. 98 (Va)|
 Eur. Supp. 1150|-ῶν|δαναϊδᾶν|Elmsley|n.d.|Triclinii emendatio 1|
 Eur. T 1.IA.2-3|ἑταῖρος δὲ δοκεῖ|ἑταῖρος. δοκεῖ δὲ|Elmsley|1821|RwZc|
