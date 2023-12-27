@@ -53,7 +53,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (67), Markland (50), Elmsley (27), Beza (25), Bentley (24), Hermann (23), Reiske (23), Cobet (22), Blass (22) and Brunck (22).</p>
+<p>The top 10 critics are Valckenaer (67), Markland (50), Elmsley (27), Beza (25), Bentley (24), Cobet (23), Hermann (23), Reiske (23), Blass (22) and Brunck (22).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -904,7 +904,14 @@ Thuc. 2.80.8|-ρήσειν|προσχωρῆσαι|I. M. Stahl|1886|G2 J2|Qu. Gr
 Thuc. 2.89.2|καὶ|del.|Hude|1898|Pk2|
 Thuc. 2.96.1|μέρη|γένη|E. F. Poppo|1843|J5|
 Thuc. 3.6.2|-ρᾶς|ἀγορὰ|K. W. Krüger|1860|Pi3|
-Thuc. 3.10.4|ἐπαγ-|ἐπειγομένους|Ross|n.d.|Pk2|
+Thuc. 3.10.4|ἐπαγ-|ἐπειγομένους|Ludwig Ross (?)|n.d.|Pk2|
+Thuc. 3.10.6|προγιγν-|προγενομένοις|Hude|1898|recc.|
+Thuc. 3.23.4|χείλους|τείχους|Gomme|1956|Kac|
+Thuc. 3.26.1|ἔχ-|ἄρχοντα|Henri Estienne|1564|J2|
+Thuc. 3.26.3|ἐβεβ-|ἐπεβεβλαστήκει|P. P. Dobree|1874|recc.|Adv. p. 34
+Thuc. 3.30.4|καινὸν/κενὸν|κοινὸν|Julius Steup|1878|Palat. gr. 133 (Vm)|RhM 33 (1878) 257 sqq.
+Thuc. 3.40.8|ὃς|ὡς ὃς|Johannes Classen|1867|J2|
+Thuc. 3.43.5|εἰ|αἳ|Cobet|1880|Pl3|Mnemosyne N.S. 8 (1880) 137
 Thuc. 4.37|ὅτι|del.|Henrik van Herwerden|s.xix ex.|P.Oxy. I 16 et IV 696|
 Thuc. 5.97|καὶ τοῦ|τοῦ καὶ|K. W. Krüger|1860|P.Oxy. VI 880|
 Thuc. 7.55.1|στρατιᾶς|στρατείας|Aemilius Portus|1594|P.Oxy. XI 1376|
