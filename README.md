@@ -884,8 +884,10 @@ Thuc. 1.110.4|Ἀθηναίων|Ἀθηνῶν|Bekker|1832|P.Oxy. XXXIV 2073|α[
 Thuc. 1.112.4|λιμ-|λοιμοῦ|Julius Beloch|1912-27|J2|Griech. Gesch. 2, 1<sup>2</sup> 137
 Thuc. 1.120.5|ὅμοια|ὁμοίᾳ|Reiske|1761|K E1 γρH2|Anim. p. 14
 Thuc. 1.124.1|ταῦτα κτλ.|ταὐτὰ|Reiske|1761|J2|Anim. p. 14
+Thuc. 1.128.5|οἳ|del.|Bekker|1832|Neap. III-B-6 (Nb)|
 Thuc. 1.128.7|-πει|ἀποπέμπω|Henri Estienne|1588|Pi2|
 Thuc. 2.8.1|δὴ|δὲ|C. F. Haacke|1820|Lugd. Periz. Q 40 (X)|
+Thuc. 2.11.6|οὕτω|del.|Madvig|1871|P.Oxy. XIII 1621|Adv. p. 309
 Thuc. 2.11.9|ἡμῖν|ὑμῖν|Hude|1898|P.Oxy. VI 853 et P.Oxy. XIII 1621|
 Thuc. 2.15.1|ἐπὶ|ἀπὸ|Naber|1886|J2|Mnemosyne N.S. 14 (1886) 93
 Thuc. 2.16.2|-λιπόντες|καταλείποντες|Gottfried Boehme|1856|J1|
