@@ -51,7 +51,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (67), Markland (48), Elmsley (27), Beza (25), Bentley (24), Hermann (23), Blass (22), Brunck (22), Porson (20) and Reiske (19).</p>
+<p>The top 10 critics are Valckenaer (67), Markland (48), Elmsley (26), Beza (25), Bentley (24), Hermann (23), Blass (22), Brunck (22), Porson (20) and Reiske (19).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -301,7 +301,7 @@ Eur. Hipp. 554|τλάμον/τλᾶμον|τλάμων|Benjamin Heath|n.d.|Vat. 
 Eur. Hipp. 560|διογ-|διγόνοιο|Scaliger|n.d.|γρΣb|
 Eur. Hipp. 584|ἰαχὰν|ιαν|Weil|n.d.|P.Oxy. XIX 2224|
 Eur. Hipp. 659|ἔκδημος|ἐκδημῆ|Hermann|n.d.|DB2|
-Eur. Hipp. 814|ὦ βιαίως|βιαίω|Elmsley|n.d.|Laur. 31.15 (D)|
+Eur. Hipp. 814|ὦ βιαίως|βιαίω|Bothe|1802|Laur. 31.15 (D)|
 Eur. Hipp. 1070|ἧπαρ δακρύων τ'|ἧπαρ· δακρύων|Wilamowitz|n.d.|HnOx|
 Eur. Hipp. 1255|-ραὶ|συμφορὰ|Elmsley|n.d.|Laur. 31.10 (O)|
 Eur. Hipp. 1317|-póv|ἐχθρῶν|Elmsley|n.d.|V3|
