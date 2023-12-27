@@ -889,7 +889,7 @@ Thuc. 1.128.7|-πει|ἀποπέμπω|Henri Estienne|1588|Pi2|
 Thuc. 2.8.1|δὴ|δὲ|C. F. Haacke|1820|Lugd. Periz. Q 40 (X)|
 Thuc. 2.11.6|οὕτω|del.|Madvig|1871|P.Oxy. XIII 1621|Adv. p. 309
 Thuc. 2.11.9|ἡμῖν|ὑμῖν|Hude|1898|P.Oxy. VI 853 et P.Oxy. XIII 1621|
-Thuc. 2.13.4|ἦν|del.|Abresch|1755|Neap. III-B-5 (Na)|
+Thuc. 2.13.4|ἦν|del.|F. L. Abresch|1755|Neap. III-B-5 (Na)|
 Thuc. 2.15.1|ἐπὶ|ἀπὸ|Naber|1886|J2|Mnemosyne N.S. 14 (1886) 93
 Thuc. 2.16.2|-λιπόντες|καταλείποντες|Gottfried Boehme|1856|J1|
 Thuc. 2.34.1|πρῶτον|πρώτων|Cobet|1873|A4|V.L. p. 437
@@ -901,7 +901,10 @@ Thuc. 2.67.3|-λλον|ἔμελλε|E. F. Poppo|1843|P.Oxy. XIII 1622|
 Thuc. 2.67.3|δὲ/om.|δὴ|Hude|1898|Pi2|
 Thuc. 2.79.6|ἐνέ-|ἐπέκειντο|K. W. Krüger|1860|P.Berol. inv. 13236|
 Thuc. 2.80.8|-ρήσειν|προσχωρῆσαι|I. M. Stahl|1886|G2 J2|Qu. Gr. p. 22
+Thuc. 2.89.2|καὶ|del.|Hude|1898|Pk2|
 Thuc. 2.96.1|μέρη|γένη|E. F. Poppo|1843|J5|
+Thuc. 3.6.2|-ρᾶς|ἀγορὰ|K. W. Krüger|1860|Pi3|
+Thuc. 3.10.4|ἐπαγ-|ἐπειγομένους|Ross|n.d.|Pk2|
 Thuc. 4.37|ὅτι|del.|Henrik van Herwerden|s.xix ex.|P.Oxy. I 16 et IV 696|
 Thuc. 5.97|καὶ τοῦ|τοῦ καὶ|K. W. Krüger|1860|P.Oxy. VI 880|
 Thuc. 7.55.1|στρατιᾶς|στρατείας|Aemilius Portus|1594|P.Oxy. XI 1376|
