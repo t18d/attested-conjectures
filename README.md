@@ -52,7 +52,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (67), Markland (50), Elmsley (26), Beza (25), Bentley (24), Hermann (23), Blass (22), Brunck (22), Reiske (20) and Porson (19).</p>
+<p>The top 10 critics are Valckenaer (67), Markland (50), Elmsley (27), Beza (25), Bentley (24), Hermann (23), Blass (22), Brunck (22), Reiske (20) and Porson (19).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -560,6 +560,8 @@ Eur. Ph. (a) 20|λογοποιήσας|λόγον ποιήσας|Bothe|n.d.|Ambr
 Eur. Rh. 63|ἦν|η|Cobet|n.d.|P.Achm. 4|
 Eur. Rh. 78|πῦρ αἴθειν/πυραίθειν|πύρ᾽ αἴθειν|Reiske|n.d.|P.Achm. 4|
 Eur. Rh. 108|σὲ … τοὺς δὲ|σοὶ … τοῖς δὲ|Henri Estienne|n.d.|fere Chr. Pat. 2370|
+Eur. Rh. 131|μετατιθ-|μεταθέμενος|Samuel Musgrave|n.d.|Haun. 417 (Hn)|
+Eur. Rh. 325|-ταις|κυνηγέτης|Elmsley|n.d.|Escor. gr. X.1.13 (gE)|
 Eur. Rh. (a) 8|ἀπ-|ὑπέστρεφον|Schwartz|n.d.|Palat. gr. 98 (Va)|
 Eur. Supp. 1150|-ῶν|δαναϊδᾶν|Elmsley|n.d.|Triclinii emendatio 1|
 Eur. T 1.IA.2-3|ἑταῖρος δὲ δοκεῖ|ἑταῖρος. δοκεῖ δὲ|Elmsley|1821|RwZc|
