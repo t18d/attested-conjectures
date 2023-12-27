@@ -14,7 +14,8 @@
         <li>Callimachus, <em>Fragmenta</em>, ed. Rudolf Pfeiffer (Oxford, 1949).</li>
         <li>Callimachus, <em>Hymni et Epigrammata</em>, ed. Rudolf Pfeiffer (Oxford, 1953).</li>
         <li>Callimachus, <em>The Hymns</em>, ed. Susan A. Stephens (Oxford, 2015).</li>
-        <li>Chariton Aphrodisiensis, <em>De Callirhoe Narrationes Amatoriae</em>, ed. B. P. Reardon (Munich, 2004).</li> 
+        <li>Chariton Aphrodisiensis, <em>De Callirhoe Narrationes Amatoriae</em>, ed. B. P. Reardon (Munich, 2004).</li>
+        <li>Diggle, James, 'Apologies to Bothe (and Others)', in <em>Euripidea: collected essays</em> (Oxford, 1994), 518-23.</li>
         <li>El-Maghrabi, M. G., and C. Römer (eds), <em>Texts from the "Archive" of Socrates, the Tax Collector, and Other Contexts at Karanis (P. Cair. Mich. II)</em> (Berlin, 2015), 48.</li>
         <li>Finglass, P. J., 'Unpublished conjectures at Leiden on the Greek dramatists', <em>Greek, Roman and Byzantine Studies</em>, 49/2 (2009), 187-221.</li>
         <li>Finglass, P. J., 'Unpublished Conjectures on Sophocles by Jeremiah Markland', <em>Greek, Roman, and Byzantine Studies</em>, 51/2 (2011), 232-8.</li>
