@@ -912,6 +912,8 @@ Thuc. 3.26.3|ἐβεβ-|ἐπεβεβλαστήκει|P. P. Dobree|1874|recc.|Ad
 Thuc. 3.30.4|καινὸν/κενὸν|κοινὸν|Julius Steup|1878|Palat. gr. 133 (Vm)|RhM 33 (1878) 257 sqq.
 Thuc. 3.40.8|ὃς|ὡς ὃς|Johannes Classen|1867|J2|
 Thuc. 3.43.5|εἰ|αἳ|Cobet|1880|Pl3|Mnemosyne N.S. 8 (1880) 137
+Thuc. 3.45.3|προστ-|προτιθέντες|K. W. Krüger|1860|Pi3|
+Thuc. 3.52.2|τε|γε|Müller|1890|J2|NJPh 141 (1890) 363 sq.
 Thuc. 4.37|ὅτι|del.|Henrik van Herwerden|s.xix ex.|P.Oxy. I 16 et IV 696|
 Thuc. 5.97|καὶ τοῦ|τοῦ καὶ|K. W. Krüger|1860|P.Oxy. VI 880|
 Thuc. 7.55.1|στρατιᾶς|στρατείας|Aemilius Portus|1594|P.Oxy. XI 1376|
