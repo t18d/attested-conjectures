@@ -53,7 +53,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (67), Markland (50), Elmsley (27), Beza (25), Bentley (24), Cobet (23), Hermann (23), Reiske (23), Blass (22) and Brunck (22).</p>
+<p>The top 10 critics are Valckenaer (67), Markland (50), Elmsley (27), Beza (25), Cobet (24), Bentley (24), Hermann (23), Reiske (23), Blass (22) and Brunck (22).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -927,9 +927,14 @@ Thuc. 4.13.2|τεσσαράκ-|πεντήκοντα|Aemilius Portus|1594|recc.|
 Thuc. 4.14.3|-νος|ἀντηλλαγμένου|Johannes Classen|1869|Pi3|
 Thuc. 4.29.4|χρῆν|χρὴ|E. F. Poppo|1827|recc.|
 Thuc. 4.32.3|-ρότατα|μετέωρα|de Romilly|1967|Berol. ms. gr. quarto 71 (Ba)|
-Thuc. 4.37|ὅτι|del.|Henrik van Herwerden|1879|P.Oxy. I 16 et IV 696|
+Thuc. 4.37.1|ὅτι|del.|Henrik van Herwerden|1879|P.Oxy. I 16 et IV 696|
 Thuc. 4.46.3|ὥστε ἄν|ὥστ᾽ ἐάν|I. M. Stahl|1875|Pi3|
 Thuc. 4.47.3|προσιό-|προϊόντας|Duker-Wasse|1731|Vi4|
+Thuc. 4.52.3|-σασθαι|χειρώσεσθαι|Madvig|1871|Pk2|Adv. p. 163
+Thuc. 4.55.4|δὲ|τε|I. M. Stahl|1875|Pe1|
+Thuc. 4.59.4|-λευόμ-|βουλόμενοι|F. W. Ullrich|1850|H K L Nf|Beitr. z. Kr. 1 p. 24 sq.
+Thuc. 4.61.8|παύον-|παύσονται|Cobet|1881|Pi3 Pl3|Mnemosyne N.S. 9 (1881) 35
+Thuc. 4.64.1|προειδομένους|προϊδόμενος|P. P. Dobree|1874|Pi3|Adv. p. 45
 Thuc. 5.97|καὶ τοῦ|τοῦ καὶ|K. W. Krüger|1860|P.Oxy. VI 880|
 Thuc. 7.55.1|στρατιᾶς|στρατείας|Aemilius Portus|1594|P.Oxy. XI 1376|
 Thuc. 7.55.2|δὴ|ἤδη|Gertz|n.d.|P.Oxy. XI 1376|
