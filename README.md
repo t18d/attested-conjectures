@@ -1006,6 +1006,12 @@ Thuc. 6.42.1|ἀναπλέοντες|ἅμα πλέοντες|Valckenaer|n.d.|H2
 Thuc. 6.46.2|πρῶτον|πρώτους|Henrik van Herwerden|1880|H2|
 Thuc. 6.48|ἔχωσι|παρέχωσι|P. P. Dobree|1874|Pi3|Adv. p. 68
 Thuc. 6.54.5|-σατο|κατεστήσαντο|Hude|1901|Pi3|
+Thuc. 6.55.2|πρώτῃ|αὐτῇ|E. F. Poppo|1828|γρH2|
+Thuc. 6.57.2|ξυνωμοτῶν|ξυνομωμοκότων|Johannes Classen|1876|Palat. gr. 133 (Vm)|
+Thuc. 6.58.2|ἀνε-|ἀπεχώρησαν|E. F. Poppo|1828|H2|
+Thuc. 6.62.1|ξυνπαντὶ κτλ.|ξύμπαντι|K. W. Krüger|1860|Q Pi3|
+Thuc. 6.62.5|-πλευσαν|περιέπεμψαν|I. M. Stahl|1880|H2|
+Thuc. 6.66.2|τε|τι|K. W. Krüger|1860|recc.|
 Thuc. 7.55.1|στρατιᾶς|στρατείας|Aemilius Portus|1594|P.Oxy. XI 1376|
 Thuc. 7.55.2|δὴ|ἤδη|Gertz|n.d.|P.Oxy. XI 1376|
 Thuc. 7.65.2|ἂν|del.|Henrik van Herwerden|1880|P.Oxy. XI 1376|sed cf. Stahl Qu. Gr. p. 25
