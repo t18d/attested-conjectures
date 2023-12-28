@@ -53,7 +53,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (67), Markland (50), Reiske (28), Elmsley (27), Beza (25), Cobet (24), Bentley (24), Hermann (23), Blass (22) and Brunck (22).</p>
+<p>The top 10 critics are Valckenaer (67), Markland (50), Reiske (29), Elmsley (27), Beza (25), Cobet (24), Bentley (24), Hermann (23), Blass (22) and Brunck (22).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -996,6 +996,10 @@ Thuc. 6.18.6|ἀποστ-|ἀποτρέψῃ|E. F. Poppo|1828|H2|
 Thuc. 6.18.6|ὥσπερ|ᾧπερ|Herbert Richards|1898|H2|CQ 8 (1914) 77; Wadham
 Thuc. 6.25.2|δ' ᾿Αθηναίων|᾿Αθηναίων ὧν|K. W. Krüger|1860|H2|
 Thuc. 6.34.4|τῇ Σικελίᾳ|τῆς Σικελίας|Duker-Wasse|1731|recc.|
+Thuc. 6.37.2|-ρον|ὅμοροι|K. W. Krüger|1860|recc.|
+Thuc. 6.38.3|δὲ|τε|K. W. Krüger|1860|H2|
+Thuc. 6.38.5|-ζειν|ἀτιμάζων|Reiske|1753|Ot3|ap. Abresch, Dill. p. 608
+Thuc. 6.39.2|ξύμπαν|ξύμπαντ(α)|Henrik van Herwerden|1880|Stob. cod. A|
 Thuc. 7.55.1|στρατιᾶς|στρατείας|Aemilius Portus|1594|P.Oxy. XI 1376|
 Thuc. 7.55.2|δὴ|ἤδη|Gertz|n.d.|P.Oxy. XI 1376|
 Thuc. 7.65.2|ἂν|del.|Henrik van Herwerden|1880|P.Oxy. XI 1376|sed cf. Stahl Qu. Gr. p. 25
