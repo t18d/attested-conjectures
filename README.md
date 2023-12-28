@@ -945,11 +945,16 @@ Thuc. 4.96.3|-των|κυκλωθέντες|K. W. Krüger|1860|Mosq. gr. 216 (Q)
 Thuc. 4.98.4|-θῆναι|δυνηθεῖεν|K. W. Krüger|1860|Palat. gr. 29 (Vk)|
 Thuc. 4.124.3|-φεύγ-|διαφυγόντες|Meineke|1869|Paris. suppl. gr. 256 (Pl)|Hermes 3 (1869) 367
 Thuc. 5.6.3|-τόθεν|αὐτὸν|Friedrich Haase|1841|J K Ud|Lucc. p. 98 sq.
-Thuc. 5.9.8|μάλιστα|μάλιστ᾽ ἂν|Henrik van Herwerden|1878|Ot3|
+Thuc. 5.9.8|μάλιστα|μάλιστ᾽ ἂν|Henrik van Herwerden|1879|Ot3|
+Thuc. 5.10.1|τοσαῦτα|τοιαῦτα|Henrik van Herwerden|1879|Ud1|
+Thuc. 5.18.5|-οις|᾿Αϑηναίους|Adolf Kirchhoff|1895|recc.|p. 39
+Thuc. 5.18.5|Σκῶ-|᾿Στῶλος|Adolf Kirchhoff|1895|Ud1|p. 37 ex titt.
+Thuc. 5.18.10|-ναις|᾿Αθήνησιν|Henrik van Herwerden|1879|Palat. gr. 133 (Vm)|
+Thuc. 5.26.1|κατέλαβον|κατέβαλον|Harrison|1912|Ot3|CR 26 (1912) 249
 Thuc. 5.97|καὶ τοῦ|τοῦ καὶ|K. W. Krüger|1860|P.Oxy. VI 880|
 Thuc. 7.55.1|στρατιᾶς|στρατείας|Aemilius Portus|1594|P.Oxy. XI 1376|
 Thuc. 7.55.2|δὴ|ἤδη|Gertz|n.d.|P.Oxy. XI 1376|
-Thuc. 7.65.2|ἂν|del.|Henrik van Herwerden|s.xix ex.|P.Oxy. XI 1376|sed cf. Stahl Qu. Gr. p. 25
+Thuc. 7.65.2|ἂν|del.|Henrik van Herwerden|1880|P.Oxy. XI 1376|sed cf. Stahl Qu. Gr. p. 25
 Thuc. 8.10|ἑπτὰ|ἐς ἑπτὰ|Westermann|n.d.|P.Oxy. X 1247|
 Thuc. 11.6|οὔτω|om.|Madvig|n.d.|P.Oxy. XIII 1621|
 Thuc. 11.9|ἡμῖν|ὑμῖν|Hude|n.d.|P.Oxy. VI 853 et XIII 1621|
