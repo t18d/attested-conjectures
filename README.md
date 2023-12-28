@@ -957,7 +957,7 @@ Thuc. 5.18.5|-οις|᾿Αϑηναίους|Adolf Kirchhoff|1895|recc.|p. 39
 Thuc. 5.18.5|Σκῶ-|᾿Στῶλος|Adolf Kirchhoff|1895|Ud1|p. 37 ex titt.
 Thuc. 5.18.10|-ναις|᾿Αθήνησιν|Henrik van Herwerden|1879|Palat. gr. 133 (Vm)|
 Thuc. 5.26.1|κατέλαβον|κατέβαλον|Ernest Harrison|1912|Ot3|CR 26 (1912) 249
-Thuc. 5.27.2|καὶ|del.|Didot|1833|recc.|
+Thuc. 5.27.2|καὶ|del.|A. Firmin Didot|1833|recc.|
 Thuc. 5.35.4|ὑπετόπτ-/ὑπετόπευ- κτλ.|ὑπώπτευον|Meineke|1869|L Q|Hermes 3 (1869) 358
 Thuc. 5.36.1|-ούμενοι|ἡγουμένους|K. W. Krüger|1860|Pi3|
 Thuc. 5.38.1|ἀμύνειν|ἀμυνεῖν|Bekker|1832|Jac|
@@ -966,6 +966,8 @@ Thuc. 5.65.3|κατὰ|tert. καὶ|Christian Campe|1856|H2|Philologus 11 (1856
 Thuc. 5.66.2|δὴ|δὲ|I. M. Stahl|1875|Berol. ms. gr. quarto 71 (Ba)|
 Thuc. 5.66.3|-αις|ἐνωμοτάρχοις|Dindorf|1824|Berol. ms. gr. quarto 71 (Ba)|
 Thuc. 5.68.2|ἐδυνάμην|δυναίμην|I. M. Stahl|1875|Pi3|
+Thuc. 5.68.2|πλήθη|del.|K. W. Krüger|1860|Alac Plac|
+Thuc. 5.75.4|αὐτῶν|del.|I. M. Stahl|1875|Ultraiectinus gr. 13 (K)|
 Thuc. 5.77.2|-ου|᾿Επιδαύρω|H. L. Ahrens|1843|Pl3|p. 480
 Thuc. 5.77.2|-ους|πολεμίως|H. L. Ahrens|1843|H2|p. 480
 Thuc. 5.79.3|δέῃ/δέει|δέοι|Adolf Kirchhoff|1895|Laur. 69.30 (L)|p. 116
@@ -973,6 +975,8 @@ Thuc. 5.90|ἧ μὲν vel sim.|ἡμεῖς μὲν|K. W. Krüger|1860|H2|
 Thuc. 5.90|-σοντά|πείσαντά|Franciscus Portus|1594|Ba H2|apud Aemilius Portus
 Thuc. 5.97|καὶ τοῦ|τοῦ καὶ|K. W. Krüger|1860|P.Oxy. VI 880|
 Thuc. 5.98|-σοντας|μελλήσαντας|Reiske|1761|H2 J2|Anim. p. 52
+Thuc. 5.104|καὶ|del.|Badham|1874|P.Oxy. VI 880|Mnemosyne N.S. 2 (1874) 16
+Thuc. 5.108|ἐς|del.|P. P. Dobree|1874|H2|
 Thuc. 5.111.5|-θώσασαν|κατορθῶσαι|de Romilly|1967|Mosq. gr. 216 (Q)|
 Thuc. 7.55.1|στρατιᾶς|στρατείας|Aemilius Portus|1594|P.Oxy. XI 1376|
 Thuc. 7.55.2|δὴ|ἤδη|Gertz|n.d.|P.Oxy. XI 1376|
