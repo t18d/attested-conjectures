@@ -925,7 +925,11 @@ Thuc. 3.114.3|ὁμόρ-|ὁμήρους|Bekker|1832|Ba1 Vm2|
 Thuc. 4.9.1|προσεστ-|προεσταύρωσε|S. T. Bloomfield|1843|Ud2|
 Thuc. 4.13.2|τεσσαράκ-|πεντήκοντα|Aemilius Portus|1594|recc.|
 Thuc. 4.14.3|-νος|ἀντηλλαγμένου|Johannes Classen|1869|Pi3|
+Thuc. 4.29.4|χρῆν|χρὴ|E. F. Poppo|1827|recc.|
+Thuc. 4.32.3|-ρότατα|μετέωρα|de Romilly|1967|Berol. ms. gr. quarto 71 (Ba)|
 Thuc. 4.37|ὅτι|del.|Henrik van Herwerden|1879|P.Oxy. I 16 et IV 696|
+Thuc. 4.46.3|ὥστε ἄν|ὥστ᾽ ἐάν|I. M. Stahl|1875|Pi3|
+Thuc. 4.47.3|προσιό-|προϊόντας|Duker-Wasse|1731|Vi4|
 Thuc. 5.97|καὶ τοῦ|τοῦ καὶ|K. W. Krüger|1860|P.Oxy. VI 880|
 Thuc. 7.55.1|στρατιᾶς|στρατείας|Aemilius Portus|1594|P.Oxy. XI 1376|
 Thuc. 7.55.2|δὴ|ἤδη|Gertz|n.d.|P.Oxy. XI 1376|
