@@ -1015,6 +1015,9 @@ Thuc. 6.66.2|τε|τι|K. W. Krüger|1860|recc.|
 Thuc. 6.69.3|συγκαταστρεψόμενοι … ὑπακούσεται|ξυγκαταστρεψάμενοι … ὑπακούσονται|Haacke|1820|H2, schol. Φ|
 Thuc. 6.72.4|αὐτά|ταῦτα|Herbert Richards|1914|γρH2|CQ 8 (1914) 78
 Thuc. 6.80.5|-δύνως|ἀκίνδυνον|J. C. Vollgraff|1905|H2|Mnemosyne N.S. 33 (1905) 438
+Thuc. 6.87.4|ἄν τι τυχεῖν κτλ.|ἂν τυχεῖν|Henrik van Herwerden|1880|H2|
+Thuc. 6.88.5|ἐ./τε πεμπόντων|τ᾽ ἐσπεμπόντων|Hude|1901|H2|
+Thuc. 6.89.2|ἡμῶν|ἐμῶν|Haacke|1820|γρH2|
 Thuc. 7.55.1|στρατιᾶς|στρατείας|Aemilius Portus|1594|P.Oxy. XI 1376|
 Thuc. 7.55.2|δὴ|ἤδη|Gertz|n.d.|P.Oxy. XI 1376|
 Thuc. 7.65.2|ἂν|del.|Henrik van Herwerden|1880|P.Oxy. XI 1376|sed cf. Stahl Qu. Gr. p. 25
