@@ -53,7 +53,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (67), Markland (50), Elmsley (27), Reiske (26), Beza (25), Cobet (24), Bentley (24), Hermann (23), Blass (22) and Brunck (22).</p>
+<p>The top 10 critics are Valckenaer (67), Markland (50), Reiske (28), Elmsley (27), Beza (25), Cobet (24), Bentley (24), Hermann (23), Blass (22) and Brunck (22).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -986,6 +986,10 @@ Thuc. 6.6.2|-οντες|διαφθείραντες|Franciscus Portus|1594|H2 Cn1
 Thuc. 6.7.2|-των|ἐξελθόντες|Aemilius Portus|1594|H2 Pi3|
 Thuc. 6.9.2|νομίζων|νομίζω δὲ|Andreas Weidner|1875|Pi3|
 Thuc. 6.10.4|-ῶν|πολλοῦ|Henrik van Herwerden|1880|H2|
+Thuc. 6.10.5|-ῶν|αὐτοὶ|Reiske|1761|H2 Va2|Anim. p. 54
+Thuc. 6.12.1|-σθαι|ξυναπολέσαι|Reiske|1761|H2 Va2|Anim. p. 54
+Thuc. 6.14|alt. τὸ|τοῦ|Henrik van Herwerden|1880|Pi2|
+Thuc. 6.18.2|-οιεν|ἡσυχάζοιμεν|Hude|1901|H2K1|
 Thuc. 7.55.1|στρατιᾶς|στρατείας|Aemilius Portus|1594|P.Oxy. XI 1376|
 Thuc. 7.55.2|δὴ|ἤδη|Gertz|n.d.|P.Oxy. XI 1376|
 Thuc. 7.65.2|ἂν|del.|Henrik van Herwerden|1880|P.Oxy. XI 1376|sed cf. Stahl Qu. Gr. p. 25
