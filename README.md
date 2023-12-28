@@ -919,6 +919,12 @@ Thuc. 3.56.7|ἔχωσι|ἔχουσι|J. D. Heilmann|1812|Al Pl|
 Thuc. 3.66.2|πείσειν|πεῖσαι|Theodorus Forsmann|1873|Al Pl|Diss. Leipz. p. 50
 Thuc. 3.66.3|κτείνειν|κτενεῖν|Henrik van Herwerden|1878|Al Pl|
 Thuc. 3.78.1|-ροῦντο|ἐταλαιπώρουν|Friedrich Haase|1841|J2|Lucc. p. 44
+Thuc. 3.81.2|λαβό-|λαθόντες|Hude|1898|J2|
+Thuc. 3.82.6|ὠφελ(ε)ίας|ὠφελίᾳ|E. F. Poppo|1826|Pi3|
+Thuc. 3.114.3|ὁμόρ-|ὁμήρους|Bekker|1832|Ba1 Vm2|
+Thuc. 4.9.1|προσεστ-|προεσταύρωσε|S. T. Bloomfield|1843|Ud2|
+Thuc. 4.13.2|τεσσαράκ-|πεντήκοντα|Aemilius Portus|1594|recc.|
+Thuc. 4.14.3|-νος|ἀντηλλαγμένου|Johannes Classen|1869|Pi3|
 Thuc. 4.37|ὅτι|del.|Henrik van Herwerden|1879|P.Oxy. I 16 et IV 696|
 Thuc. 5.97|καὶ τοῦ|τοῦ καὶ|K. W. Krüger|1860|P.Oxy. VI 880|
 Thuc. 7.55.1|στρατιᾶς|στρατείας|Aemilius Portus|1594|P.Oxy. XI 1376|
