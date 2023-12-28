@@ -978,7 +978,7 @@ Thuc. 5.98|-σοντας|μελλήσαντας|Reiske|1761|H2 J2|Anim. p. 52
 Thuc. 5.104|καὶ|del.|Charles Badham|1874|P.Oxy. VI 880|Mnemosyne N.S. 2 (1874) 16
 Thuc. 5.108|ἐς|del.|P. P. Dobree|1874|H2|
 Thuc. 5.111.5|-θώσασαν|κατορθῶσαι|de Romilly|1967|Mosq. gr. 216 (Q)|
-Thuc. 6.1.2|-ας|Σικελία|K. W. Krüger|1860||
+Thuc. 6.1.2|-ας|Σικελία|K. W. Krüger|1860|P.Bodm. XXVII|
 Thuc. 7.55.1|στρατιᾶς|στρατείας|Aemilius Portus|1594|P.Oxy. XI 1376|
 Thuc. 7.55.2|δὴ|ἤδη|Gertz|n.d.|P.Oxy. XI 1376|
 Thuc. 7.65.2|ἂν|del.|Henrik van Herwerden|1880|P.Oxy. XI 1376|sed cf. Stahl Qu. Gr. p. 25
