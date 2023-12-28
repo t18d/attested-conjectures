@@ -878,7 +878,7 @@ Thuc. 1.66|προεγ-|προσεγεγένηντο|F. W. Ullrich|1850|Paris. gr
 Thuc. 1.73.1|ἡμᾶς|ὑμᾶς|K. W. Krüger|1860|Paris. gr. 1734 (H)|
 Thuc. 1.74.3|αὐτοὶ|del.|K. W. Krüger|1860|Paris. gr. 1734 (H)|
 Thuc. 1.93.3|-οὺς -οὺς -ους|αὐτοῖς ναυτικοῖς γεγενημένοις|Hude|1898|J2|
-Thuc. 1.93.5|ἐγγώ-|εὐγώνιοι|Meiners|1940|Paris. gr. 1733 (Pe)|RhM N.S. 89 (1940) 234 sq.
+Thuc. 1.93.5|ἐγγώ-|εὐγώνιοι|W. Meiners|1940|Paris. gr. 1733 (Pe)|RhM N.S. 89 (1940) 234 sq.
 Thuc. 1.95.5|-να|τινας|Johannes Classen|1862|Ot Fac|
 Thuc. 1.105.6|-ρας|ἡμέραις|Madvig|1871|F6|Adv. p. 308
 Thuc. 1.106.1|ᾧ|ὃ|Henrik van Herwerden|1877|Vk J2|
@@ -910,12 +910,14 @@ Thuc. 3.10.4|ἐπαγ-|ἐπειγομένους|Ludwig Ross (?)|n.d.|Pk2|
 Thuc. 3.10.6|προγιγν-|προγενομένοις|Hude|1898|recc.|
 Thuc. 3.23.4|χείλους|τείχους|Gomme|1956|Kac|
 Thuc. 3.26.1|ἔχ-|ἄρχοντα|Henri Estienne|1564|J2|
+Thuc. 3.26.2|δὲ|del.|K. W. Krüger|1860|Pl3 Va2|
 Thuc. 3.26.3|ἐβεβ-|ἐπεβεβλαστήκει|P. P. Dobree|1874|recc.|Adv. p. 34
 Thuc. 3.30.4|καινὸν/κενὸν|κοινὸν|Julius Steup|1878|Palat. gr. 133 (Vm)|RhM 33 (1878) 257 sqq.
 Thuc. 3.40.8|ὃς|ὡς ὃς|Johannes Classen|1867|J2|
 Thuc. 3.43.5|εἰ|αἳ|Cobet|1880|Pl3|Mnemosyne N.S. 8 (1880) 137
 Thuc. 3.45.3|προστ-|προτιθέντες|K. W. Krüger|1860|Pi3|
 Thuc. 3.52.2|τε|γε|Carl Friedrich Müller|1890|J2|NJPh 141 (1890) 363 sq.
+Thuc. 3.52.4|τι|del.|||J2|
 Thuc. 3.56.1|ἅπερ|ὅπερ|E. F. Poppo|1826|Pi3|
 Thuc. 3.56.7|ἔχωσι|ἔχουσι|J. D. Heilmann|1812|Al Pl|
 Thuc. 3.66.2|πείσειν|πεῖσαι|Theodorus Forsmann|1873|Al Pl|Diss. Leipz. p. 50
