@@ -387,10 +387,10 @@ Eur. Or. 759|νῦν|νυν|Joshua Barnes|n.d.|XTz|
 Eur. Or. 766|ἔγκλημά τι|ἔγκλημα τί|Hermann|n.d.|Laur. conv. soppr. 66 (K)|
 Eur. Or. 785|ἀσχάλ(λ)ων|-αλῶν|Joshua Barnes|n.d.|RS|
 Eur. Or. 789|δὲ/γὰρ|γε|Lenting|n.d.|V et lΣv et Ab|
-Eur. Or. 793|τόδ᾽|τὸ δ᾽|Paley|n.d.|MBC|
+Eur. Or. 793|τόδ᾽|τὸ δ᾽|F. A. Paley|n.d.|MBC|
 Eur. Or. 795|νῦν|νυν|Monk|n.d.|Cantab. Nn. 3.14 (Z)|
 Eur. Or. 836|-σι|εὐμενίσιν|Seidler|n.d.|Parm. 154 (Tp)|
-Eur. Or. 836|φόνω(ι)|φοβωι̣|Paley|n.d.|P.Mich. inv. 3735c|
+Eur. Or. 836|φόνω(ι)|φοβωι̣|F. A. Paley|n.d.|P.Mich. inv. 3735c|
 Eur. Or. 836|φόνω(ι)|φόνου|Hartung|n.d.|PrS|ἕνεκα φόνου Vgl
 Eur. Or. 891|-οῖς|καλοὺς|Hartung|n.d.|Athos Dionysiou 334 (Ad)|
 Eur. Or. 911|χρὴ|δεῖ|Sybel|n.d.|Hier. 36 (H)|
@@ -441,7 +441,7 @@ Eur. Or. 1539n|ἡμ.|del.|Adolf Kirchhoff|n.d.|OCZ|
 Eur. Or. 1541n|ἡμ.|del.|Adolf Kirchhoff|n.d.|MZ|
 Eur. Or. 1549n|Χο.|del.|Adolf Kirchhoff|n.d.|PrZ|
 Eur. Or. 1629|Ἑλένην|-η|Brunck|n.d.|JSaZm|
-Eur. Or. 1656|-τῶι|αὐτὸν|Paley|n.d.|V2/3s|
+Eur. Or. 1656|-τῶι|αὐτὸν|F. A. Paley|n.d.|V2/3s|
 Eur. Or. arg. 19|-ην|ὀρέστη(ι)|Brunck|n.d.|BOAGZc|
 Eur. Or. arg. 21|-ῆσαι|συνοικίσαι|Brunck|n.d.|RfSa|
 Eur. Or. arg. 34|καὶ κ. ὑπὸ μ.|ὑπὸ μανίας καὶ κείμενος|Nauck|n.d.|Laur. conv. soppr. 66 (K)|
@@ -456,7 +456,7 @@ Eur. Ph. 103|νῦν|νυν|Bothe|1823|Vat. gr. 51 (Zb)|interrogemus Diggle
 Eur. Ph. 115|-νέοις|λαϊνέοισιν|Bothe|1803|Σ Thom. S. Ai. 596|
 Eur. Ph. 134 schol.|εἰμὶ|εἶμι|Bentley|1693|Taur. B IV 13|
 Eur. Ph. 136|-τας|αὐτοκασιγνήται|Reiske|n.d.|P.Lond.Lit. 75|
-Eur. Ph. 188|Ἀμυμωνίοις|τ᾽ ἀμυμ-|Paley|n.d.|RfP2|
+Eur. Ph. 188|Ἀμυμωνίοις|τ᾽ ἀμυμ-|F. A. Paley|1879|RfP2|
 Eur. Ph. 207|-θην|κατενάσθη|Thirlby|n.d.|Athos Dionysiou 334 (Ad)|
 Eur. Ph. 226|ἰὼ|ω|Canter|n.d.|P.Oxy. IX 1177|
 Eur. Ph. 228|-είων κτλ.|βακχεῖον|Adolf Kirchhoff|n.d.|Vindob. phil. gr. 119 (Rw)|
@@ -488,7 +488,7 @@ Eur. Ph. 663|ὤλεσε(ν)|ὄλεσε|Bergk|n.d.|Salam. 31 (S)|
 Eur. Ph. 663|ὤλεσε(ν)|ὄλεσε|Hermann|n.d.|Salam. 31 (S)|
 Eur. Ph. 701|-ῶι|πολλῶν|Burges|n.d.|AdHl|
 Eur. Ph. 714|μαχουμένους|-νοις|Porson|n.d.|O et Rf1c|
-Eur. Ph. 786|οὐκ ἐπὶ|οὐκέτι|Paley|n.d.|Vindob. phil. gr. 119 (Rw)|
+Eur. Ph. 786|οὐκ ἐπὶ|οὐκέτι|F. A. Paley|1879|Vindob. phil. gr. 119 (Rw)|
 Eur. Ph. 793|τ'|δ'|Geel|n.d.|Cremon. 130 (Cr)|
 Eur. Ph. 833|ἕστακ'|-ακεν|Hermann|n.d.|manus Triclinii|
 Eur. Ph. 865|κληί-|κλήισας|Joshua Barnes|n.d.|Gs|
