@@ -943,6 +943,9 @@ Thuc. 4.92.4|-τοις|τούτους|Duker-Wasse|1731|Pi3|
 Thuc. 4.93.3|-νομ-|ἀμυνουμένους|Neophytos Doukas|1805|recc.|
 Thuc. 4.96.3|-των|κυκλωθέντες|K. W. Krüger|1860|Mosq. gr. 216 (Q)|
 Thuc. 4.98.4|-θῆναι|δυνηθεῖεν|K. W. Krüger|1860|Palat. gr. 29 (Vk)|
+Thuc. 4.124.3|-φεύγ-|διαφυγόντες|Meineke|1869|Paris. suppl. gr. 256 (Pl)|Hermes 3 (1869) 367
+Thuc. 5.6.3|-τόθεν|αὐτὸν|Friedrich Haase|1841|J K Ud|Lucc. p. 98 sq.
+Thuc. 5.9.8|μάλιστα|μάλιστ᾽ ἂν|Henrik van Herwerden|1878|Ot3|
 Thuc. 5.97|καὶ τοῦ|τοῦ καὶ|K. W. Krüger|1860|P.Oxy. VI 880|
 Thuc. 7.55.1|στρατιᾶς|στρατείας|Aemilius Portus|1594|P.Oxy. XI 1376|
 Thuc. 7.55.2|δὴ|ἤδη|Gertz|n.d.|P.Oxy. XI 1376|
