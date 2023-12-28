@@ -53,7 +53,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (67), Markland (50), Elmsley (27), Beza (25), Cobet (24), Bentley (24), Reiske (24), Hermann (23), Blass (22) and Brunck (22).</p>
+<p>The top 10 critics are Valckenaer (67), Markland (50), Elmsley (27), Reiske (25), Beza (25), Cobet (24), Bentley (24), Hermann (23), Blass (22) and Brunck (22).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -937,7 +937,12 @@ Thuc. 4.61.8|παύον-|παύσονται|Cobet|1881|Pi3 Pl3|Mnemosyne N.S. 9 
 Thuc. 4.64.1|προειδομένους|προϊδόμενος|P. P. Dobree|1874|Pi3|Adv. p. 45
 Thuc. 4.64.1|-τοὺς|αὐτὸς|Reiske|1761|Pi3|Anim. p. 39
 Thuc. 4.68.2|-χόντες|ἀντίσχοντες|Naber|n.d.|Paris. gr. 1733 (Pe)|
-Thuc. 5.97|καὶ τοῦ|τοῦ καὶ|K. W. Krüger|1860|P.Oxy. VI 880|
+Thuc. 4.68.4|-οι|ἄλλο|Henri Estienne|1564|P.Oxy. LVII 3900|
+Thuc. 4.86.2|τε|γε|Reiske|1761|in ras. Pl|Anim. p. 42
+Thuc. 4.92.4|-τοις|τούτους|Duker-Wasse|1731|Pi3|
+Thuc. 4.93.3|-νομ-|ἀμυνουμένους|Neophytos Doukas|1805|recc.|
+Thuc. 4.96.3|-των|κυκλωθέντες|K. W. Krüger|1860|Pi3|
+Thuc. 5.97|καὶ τοῦ|τοῦ καὶ|K. W. Krüger|1860|Mosq. gr. 216 (Q)|
 Thuc. 7.55.1|στρατιᾶς|στρατείας|Aemilius Portus|1594|P.Oxy. XI 1376|
 Thuc. 7.55.2|δὴ|ἤδη|Gertz|n.d.|P.Oxy. XI 1376|
 Thuc. 7.65.2|ἂν|del.|Henrik van Herwerden|s.xix ex.|P.Oxy. XI 1376|sed cf. Stahl Qu. Gr. p. 25
