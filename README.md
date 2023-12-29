@@ -53,7 +53,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (68), Markland (50), Reiske (33), Elmsley (27), Cobet (26), Beza (25), Bentley (24), K. W. Krüger (24), Blass (23), Hermann (23) and Henrik van Herwerden (23) (tied).</p>
+<p>The top 10 critics are Valckenaer (68), Markland (50), Reiske (33), Elmsley (27), Cobet (26), Beza (25), Porson (24), Bentley (24), K. W. Krüger (24), Blass (23), Hermann (23) and Henrik van Herwerden (23) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -716,6 +716,9 @@ Phot. ε 1818|-θεύθηοαν|ἐπλίνθευοαν|Wilamowitz|n.d.|Zavord. 
 Phot. ε 2006|φ. ἐ. κόρας|φεῦγ' ἐς κόρακας|Porson|1822|Zavord. 95 (z)|
 Phot. η 37|παλλάθη(ν)|παλάθη|Porson|1822|Eust. Il. 1399.29|
 Phot. η 51|ἔ. ἐ.|ἔφην δ' ἐγώ|Porson|1822|Boethus et Sud. cod. F|
+Phot. θ 47|παρεγειρον|παρ' αἴγειρον|Porson|1822|Et.Gen. ΑΒ|
+Phot. ι 49|πυρὸν|πυρρὸν|Porson|1822|Sud. ι 165|
+Phot. ι 49|-γελλεν|ἀπήγγειλεν|Meineke|1822|Sud. ι 165|Anal. Alex. p. 356
 Pi. I. 6.87a schol.|-ειν/-ων|συντέμνει|Petros N. Papageorgiu|1880|codd.|
 Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|P.Berol. inv. 16367|
 Pi. O. 1 schol. Inscr. a|ογ΄|οϛ΄|Bergk|1878|P.Oxy. II 222|Poet. Lyr. i. p.4
