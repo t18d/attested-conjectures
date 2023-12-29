@@ -53,7 +53,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (68), Markland (50), Reiske (32), Elmsley (27), Beza (25), Cobet (24), Bentley (24), Hermann (23), K. W. Krüger (23), Blass (22), Brunck (22) and Henrik van Herwerden (22) (tied).</p>
+<p>The top 10 critics are Valckenaer (68), Markland (50), Reiske (32), Elmsley (27), Cobet (25), Beza (25), Bentley (24), Hermann (23), K. W. Krüger (23), Blass (22), Brunck (22) and Henrik van Herwerden (22) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1040,8 +1040,9 @@ Thuc. 7.67.1|τὸ|τοῦ|K. W. Krüger|1860|Kac|
 Thuc. 7.68.1|καὶ τ.|τὸ|Reiske|1761|Al Nf|Anim. p. 67
 Thuc. 7.73.3|οὐκέτι|οὐκ|K. W. Krüger|1860|P.Oxy. XI 1376|
 Thuc. 7.87.6|δὴ τὸ|τὸ δὴ|Meineke|1869|Basil. E-III-4 (J)|Hermes 3 (1869) 361
-Thuc. 8.10.3|ἑπτὰ|ἐς ἑπτὰ|Westermann|1839|P.Oxy. X 1247|ZAW (1839) 890 sq.
+Thuc. 8.10.3|ἑπτὰ|ἐς ἑπτὰ|Anton Westermann|1839|P.Oxy. X 1247|Zeit. f. d. Alterthumsw. (1839) 890 sq.
 Thuc. 8.10.3|Πειραιὸν|Σπείραιον|K. O. Müller|1844|P.Oxy. X 1247|Dorier p. 420
+Thuc. 8.15.1|ἔλυσαν … καὶ ἐ.|λύσαντες … ἐψηφίσαντο|Cobet|1858|J1|NL p. 375
 Thuc. 11.6|οὔτω|om.|Madvig|n.d.|P.Oxy. XIII 1621|
 Thuc. 11.9|ἡμῖν|ὑμῖν|Hude|n.d.|P.Oxy. VI 853 et XIII 1621|
 Xen. Oec. 9.2|τῆς οἰκίας|τῆς γε οἰκίας|Cobet|s.xix ex.|P.Oxy. II 227|
