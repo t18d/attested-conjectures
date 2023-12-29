@@ -53,7 +53,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (68), Markland (50), Reiske (29), Elmsley (27), Beza (25), Cobet (24), Bentley (24), Hermann (23), Blass (22), Brunck (22) and Henrik van Herwerden (22) (tied).</p>
+<p>The top 10 critics are Valckenaer (68), Markland (50), Reiske (30), Elmsley (27), Beza (25), Cobet (24), Bentley (24), Hermann (23), Blass (22), Brunck (22) and Henrik van Herwerden (22) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1025,6 +1025,10 @@ Thuc. 7.19.4|-οις|πρῶτοι|F. W. Reiz|s.xviii ex.|recc.|
 Thuc. 7.24.2|ὥστε|ὥσπερ|I. M. Stahl|1882|recc.|
 Thuc. 7.28.3|-ζον|ἐνόμιζε|Herbert Richards|1914|Paris. gr. 1734 (H)|CQ 8 (1914) 80
 Thuc. 7.29.5|ἥσσων|ἧσσον|J. D. Heilmann|1812|CnPi|
+Thuc. 7.30.4|-ων|χρησαμένην|Reiske|1761|Pi2|Anim. p. 62
+Thuc. 7.38.3|-λιπ-|διαλειπούσας|Henri Estienne|1564|Vat. gr. 992 (Vd)|
+Thuc. 7.40.5|-ῶν|ἐμβόλων|Abresch|1753|Mosq. gr. 216 (Q)|Dill. p. 691
+Thuc. 7.44.7|-τησαν/κατέστησαν|καθίστασαν|I. M. Stahl|1882|H1|
 Thuc. 7.55.1|στρατιᾶς|στρατείας|Aemilius Portus|1594|P.Oxy. XI 1376|
 Thuc. 7.55.2|δὴ|ἤδη|Gertz|n.d.|P.Oxy. XI 1376|
 Thuc. 7.65.2|ἂν|del.|Henrik van Herwerden|1880|P.Oxy. XI 1376|sed cf. Stahl Qu. Gr. p. 25
