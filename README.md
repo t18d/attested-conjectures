@@ -53,7 +53,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (68), Markland (50), Reiske (32), Elmsley (27), Cobet (26), Beza (25), Bentley (24), Hermann (23), K. W. Krüger (23), Blass (22), Brunck (22) and Henrik van Herwerden (22) (tied).</p>
+<p>The top 10 critics are Valckenaer (68), Markland (50), Reiske (33), Elmsley (27), Cobet (26), Beza (25), Bentley (24), Hermann (23), K. W. Krüger (23), Blass (22), Brunck (22) and Henrik van Herwerden (22) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -908,6 +908,8 @@ Thuc. 2.96.1|μέρη|γένη|E. F. Poppo|1843|J5|
 Thuc. 3.6.2|-ρᾶς|ἀγορὰ|K. W. Krüger|1860|Pi3|
 Thuc. 3.10.4|ἐπαγ-|ἐπειγομένους|Ludwig Ross (?)|n.d.|Pk2|
 Thuc. 3.10.6|προγιγν-|προγενομένοις|Hude|1898|recc.|
+Thuc. 3.11.3|ἄκ-|ἑκόντας|Henri Estienne|1564|Pi3|
+Thuc. 3.12.3|ἀντεπιμ-|ἀντιμελλῆσαι|Duker-Wasse|1731|schol. Φ|
 Thuc. 3.23.4|χείλους|τείχους|Gomme|1956|Kac|
 Thuc. 3.26.1|ἔχ-|ἄρχοντα|Henri Estienne|1564|J2|
 Thuc. 3.26.2|δὲ|del.|K. W. Krüger|1860|Pl3 Va2|
@@ -947,6 +949,7 @@ Thuc. 4.68.4|-οι|ἄλλο|Henri Estienne|1564|P.Oxy. LVII 3900|
 Thuc. 4.86.2|τε|γε|Reiske|1761|in ras. Pl|Anim. p. 42
 Thuc. 4.92.4|-τοις|τούτους|Duker-Wasse|1731|Pi3|
 Thuc. 4.93.3|-νομ-|ἀμυνουμένους|Neophytos Doukas|1805|recc.|
+Thuc. 4.95.1|τε|γε|Reiske|1761|Ud1|Anim. p. 43
 Thuc. 4.96.3|-των|κυκλωθέντες|K. W. Krüger|1860|Mosq. gr. 216 (Q)|
 Thuc. 4.98.4|-θῆναι|δυνηθεῖεν|K. W. Krüger|1860|Palat. gr. 29 (Vk)|
 Thuc. 4.124.3|-φεύγ-|διαφυγόντες|Meineke|1869|Paris. suppl. gr. 256 (Pl)|Hermes 3 (1869) 367
@@ -1050,6 +1053,8 @@ Thuc. 8.53.3|-σαιμεν|ποιήσομεν|Bekker|1832|Ba1 J2|
 Thuc. 8.66.3|ὃ ἦν|ὂν|Aemilius Portus|1594|L1|
 Thuc. 8.79.1|-γέλλετο|ἐσήγγελτο|Cobet|1858|S5|NL p. 423
 Thuc. 8.79.1|ἵνα δὲ|ἵνα δὴ|Gottfried Boehme|1856|S5|
+Thuc. 8.86.5|-ρῶν|λοιδοριῶν|Madvig|1871|Pi2|Adv. p. 334
+Thuc. 8.95.6|οἱ|οἳ|Henri Estienne|1564|Pi2|
 Thuc. 11.6|οὔτω|om.|Madvig|n.d.|P.Oxy. XIII 1621|
 Thuc. 11.9|ἡμῖν|ὑμῖν|Hude|n.d.|P.Oxy. VI 853 et XIII 1621|
 Xen. Oec. 9.2|τῆς οἰκίας|τῆς γε οἰκίας|Cobet|s.xix ex.|P.Oxy. II 227|
