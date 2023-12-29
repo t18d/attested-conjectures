@@ -711,6 +711,8 @@ Phot. α 2096|-δε|Θουγενίδης|J. Stroux|1907|suppl. Zavord. 95 (Sz)|H
 Phot. α 2124|-τλία|ἀντία|Richard Reitzenstein|1907|Zavord. 95 (z)|
 Phot. α 2252|-ων|σπεύδω|Wilamowitz|1907|Zavord. 95 (z)|SBAk. Berlin 1907,13 = Kl. Sehr. 4,541
 Phot. ε 336|-ξασθαι|εἰσδέξεσθαι|Hermann Sauppe|1850|Harp. pl. codd.|ad Antiph. fr. 167
+Phot. ε 1110|ἐξάρξ- κτλ.|ἐξαράξαντες|L. Dindorf|1835|Cyr. cod. Α fol. 76r|ThGL. νοl. III p. 1256Β
+Phot. ε 1818|-θεύθηοαν|ἐπλίνθευοαν|Wilamowitz|n.d.|Zavord. 95 (z)|ms. ad Hsch.
 Pi. I. 6.87a schol.|-ειν/-ων|συντέμνει|Petros N. Papageorgiu|1880|codd.|
 Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|P.Berol. inv. 16367|
 Pi. O. 1 schol. Inscr. a|ογ΄|οϛ΄|Bergk|1878|P.Oxy. II 222|Poet. Lyr. i. p.4
