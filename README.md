@@ -1043,6 +1043,8 @@ Thuc. 7.87.6|δὴ τὸ|τὸ δὴ|Meineke|1869|Basil. E-III-4 (J)|Hermes 3 (1
 Thuc. 8.10.3|ἑπτὰ|ἐς ἑπτὰ|Anton Westermann|1839|P.Oxy. X 1247|Zeit. f. d. Alterthumsw. (1839) 890 sq.
 Thuc. 8.10.3|Πειραιὸν|Σπείραιον|K. O. Müller|1844|P.Oxy. X 1247|Dorier p. 420
 Thuc. 8.15.1|ἔλυσαν … καὶ ἐ.|λύσαντες … ἐψηφίσαντο|Cobet|1858|J1|NL p. 375
+Thuc. 8.37.2|τῶν|alt. τοὺς|Joachim Camerarius|1540|Basil. E-III-4 (J)|
+Thuc. 8.44.1|-ῷ|πεζῶν|Johannes Classen|1878|Vat. Urb. gr. 92 (Ud)|
 Thuc. 11.6|οὔτω|om.|Madvig|n.d.|P.Oxy. XIII 1621|
 Thuc. 11.9|ἡμῖν|ὑμῖν|Hude|n.d.|P.Oxy. VI 853 et XIII 1621|
 Xen. Oec. 9.2|τῆς οἰκίας|τῆς γε οἰκίας|Cobet|s.xix ex.|P.Oxy. II 227|
