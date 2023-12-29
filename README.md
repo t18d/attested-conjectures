@@ -1029,6 +1029,7 @@ Thuc. 7.30.4|-ων|χρησαμένην|Reiske|1761|Pi2|Anim. p. 62
 Thuc. 7.38.3|-λιπ-|διαλειπούσας|Henri Estienne|1564|Vat. gr. 992 (Vd)|
 Thuc. 7.40.5|-ῶν|ἐμβόλων|Abresch|1753|Mosq. gr. 216 (Q)|Dill. p. 691
 Thuc. 7.44.7|-τησαν/κατέστησαν|καθίστασαν|I. M. Stahl|1882|H1|
+Thuc. 7.48.6|ᾧ/ὧν/ὡς|οἷς|Coraes|1901|Pi3|
 Thuc. 7.55.1|στρατιᾶς|στρατείας|Aemilius Portus|1594|P.Oxy. XI 1376|
 Thuc. 7.55.2|δὴ|ἤδη|Gertz|n.d.|P.Oxy. XI 1376|
 Thuc. 7.65.2|ἂν|del.|Henrik van Herwerden|1880|P.Oxy. XI 1376|sed cf. Stahl Qu. Gr. p. 25
