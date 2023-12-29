@@ -1037,6 +1037,7 @@ Thuc. 7.29.5|ἥσσων|ἧσσον|J. D. Heilmann|1812|CnPi|
 Thuc. 7.30.4|-ων|χρησαμένην|Reiske|1761|Pi2|Anim. p. 62
 Thuc. 7.38.3|-λιπ-|διαλειπούσας|Henri Estienne|1564|Vat. gr. 992 (Vd)|
 Thuc. 7.40.5|-ῶν|ἐμβόλων|Abresch|1753|Mosq. gr. 216 (Q)|Dill. p. 691
+Thuc. 7.40.5|alt. καὶ|del.|Louis Bodin|1955|Mosq. gr. 216 (Q)|
 Thuc. 7.44.7|-τησαν/κατέστησαν|καθίστασαν|I. M. Stahl|1882|H1|
 Thuc. 7.48.6|ᾧ/ὧν/ὡς|οἷς|Adamantios Korais|s.xviii/xix|Pi3|
 Thuc. 7.55.1|στρατιᾶς|στρατείας|Aemilius Portus|1594|P.Oxy. XI 1376|
@@ -1060,6 +1061,7 @@ Thuc. 8.66.3|ὃ ἦν|ὂν|Aemilius Portus|1594|L1|
 Thuc. 8.79.1|-γέλλετο|ἐσήγγελτο|Cobet|1858|S5|NL p. 423
 Thuc. 8.79.1|ἵνα δὲ|ἵνα δὴ|Gottfried Boehme|1856|S5|
 Thuc. 8.86.5|-ρῶν|λοιδοριῶν|Madvig|1871|Pi2|Adv. p. 334
+Thuc. 8.86.9|πεμπτοὺς/πέμπουσι|del.|Bekker|1832|recc.|
 Thuc. 8.95.6|οἱ|οἳ|Henri Estienne|1564|Pi2|
 Xen. Oec. 9.2|τῆς οἰκίας|τῆς γε οἰκίας|Cobet|s.xix ex.|P.Oxy. II 227|
 Xen. Oec. 9.2|ἑκάστῳ|ἐν ἑκάστῳ|Schneider|n.d.|P.Oxy. II 227|
