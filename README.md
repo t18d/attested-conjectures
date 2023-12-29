@@ -89,13 +89,14 @@ Anaximen. Rh. 2.3|περιττῶς|τριττῶς|Bekker|1831|P.Hib. I 26|
 Anaximen. Rh. 4.1|-λωμεν|διέλθωμεν|Leonhard von Spengel|1844|P.Hib. I 26|
 Anaximen. Rh. 4.3|νόμος|ὁ ν.|Leonhard von Spengel|1844|P.Hib. I 26|
 Anaximen. Rh. 4.4|ἴσασι/εἰδῶσι|τιμῶσι|Leonhard von Spengel|1844|P.Hib. I 26|
+Ap. Rhod. 2.119|μέλαν τεταγών|μάλ᾽ ἀντεταγών|Sanctamandus|n.d.|P.Oxy. XXXIV 2697|
 Ap. Rhod. 2.921|ἔδυνε μέλαν|ἔδυ μέλανα|Bywater|n.d.|P.Oxy. XXXIV 2694|] μελανα
 Ap. Rhod. 3.745|ναῦται|ναυτίλοι|Porson|s.xviii/xix|P.Oxy. IV 690|ναυ]τίλο̣ι
 Ap. Rhod. 3.909|κατὰ|μετὰ|Henri Estienne|s.xvi ex.|P.Oxy. IV 691|μ[
 Ap. Rhod. 3.944|εὖτ'|ε̣ϲτ'|Ziegler|n.d.|P.Oxy. XXXIV 2693|
 Ap. Rhod. 3.1214 sq. schol.|-υσὶ|δρυῒ|Friedrich Ellendt|1835|Paris. 2727 (P)|1, 450 sq.
 Ap. Rhod. 3.1226 schol.|ἠμφίεστο|ὑφέεστο|A. F. Naeke|1833-7|Laur. 32.9 (L)|Rh. Mus. 2-5
-Ap. Rhod. 4.438|ὥς|ὧ|Koechly|n.d.|P.Oxy. XXXIV 2694|Brunck
+Ap. Rhod. 4.438|ὥς|ὧ|Köchly|n.d.|P.Oxy. XXXIV 2694|Brunck
 Ap. Rhod. 4.1129|ε. ἐ.|εὐαγέως τ' ἐπιβώμια|Fränkel|n.d.|P.Oxy. XXXIV 2691|ευαγεωϲ τ ε̣[
 Apollod. Π. θεῶν 20|-βαφεῖς|μελαμβαθεῖς|Brunck|1786|F|
 Ar. Ach. 297|σύ μοι|μοι σὺ|Hermann|s.xviii/xix|P.Oxy. LXVI 4510|
