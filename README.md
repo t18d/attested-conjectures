@@ -53,7 +53,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (68), Markland (50), Reiske (33), Elmsley (27), Cobet (26), Beza (25), Bentley (24), K. W. Krüger (24), Hermann (23) and Henrik van Herwerden (23).</p>
+<p>The top 10 critics are Valckenaer (68), Markland (50), Reiske (33), Elmsley (27), Cobet (26), Beza (25), Bentley (24), K. W. Krüger (24), Blass (23), Hermann (23) and Henrik van Herwerden (23) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -698,13 +698,17 @@ Philo Ebr. 221|οἰνηρεύσεις|οινηρυσει[ς|Turnebus|n.d.|P.Oxy
 Philo Ebr. 222|μαρμάζει|μαιμᾷ|Mangey|n.d.|P.Oxy. IX 1173|μαιμαῑ
 Phot. α 151|ἀγενὲς|ἀγεννὲς|Jan van Leeuwen|1907|cod. Zavord. 95 (z)|Mnem. 35 (1907) 253
 Phot. α 163|οἵους|ἰοῦσ'|David Ruhnken|n.d.|schol. Eur.|
-Phot. α 448|ἄμπελον|ἄπεπλον|Leo|1907|cod. Zavord. 95 (z)|Hermes 42, 1907, 153/4 = Kl. Schr. 2,409
-Phot. α 448|ἄμπελον|ἄπεπλον|Wilamowitz|1907|cod. Zavord. 95 (z)|SBAk. Berlin 1907,3 = Kl. Schr. 4,529
-Phot. α 532|τῆς|τοῖς|H. Erbse|1950|cod. Zavord. 95 (z)|
-Phot. α 673|αἰτμ-|ἀτμίζοντος|Richard Reitzenstein|1907|cod. Zavord. 95 (z)|
-Phot. α 1164|-δοκήτως|ἀπροσδόκητοι|Wilamowitz|n.d.|suppl. Zavord. 95 (Sz)|
-Phot. α 1172|ἐ. ᾧ|ἐφ' ὧν|Richard Reitzenstein|1907|cod. Zavord. 95 (z)|
-Phot. α 2252|-ων|σπεύδω|Wilamowitz|1907|cod. Zavord. 95 (z)|SBAk. Berlin 1907,13 = Kl. Sehr. 4,541
+Phot. α 448|ἄμπελον|ἄπεπλον|Leo|1907|Zavord. 95 (z)|Hermes 42, 1907, 153/4 = Kl. Schr. 2,409
+Phot. α 448|ἄμπελον|ἄπεπλον|Wilamowitz|1907|Zavord. 95 (z)|SBAk. Berlin 1907,3 = Kl. Schr. 4,529
+Phot. α 532|τῆς|τοῖς|H. Erbse|1950|Zavord. 95 (z)|
+Phot. α 673|αἰτμ-|ἀτμίζοντος|Richard Reitzenstein|1907|cZavord. 95 (z)|
+Phot. α 1172|ἐ. ᾧ|ἐφ' ὧν|Richard Reitzenstein|1907|Zavord. 95 (z)|
+Phot. α 1210|Ἀμμών|Ἄμμων|Boeckh|1886|Berol. graec.oct. 22 (b)|Die Staatshaushaltung der Athener II p. 121
+Phot. α 1425|ὀλιγοστοὺς|ὀλίγους τοὺς|Richard Reitzenstein|1907|Eust. 1894.38|
+Phot. α 2032|-κήτως|ἀπροσδόκητοι|Wilamowitz|1907|suppl. Zavord. 95 (Sz)|SBAk. Berlin 1907,13 = Kl. Sehr. 4,541
+Phot. α 2096|-δε|Θουγενίδης|Blass|1907|suppl. Zavord. 95 (Sz)|Rhein. Mus. 62 (1907) 271
+Phot. α 2096|-δε|Θουγενίδης|J. Stroux|1907|suppl. Zavord. 95 (Sz)|Hermes 42 (1907) 643
+Phot. α 2252|-ων|σπεύδω|Wilamowitz|1907|Zavord. 95 (z)|SBAk. Berlin 1907,13 = Kl. Sehr. 4,541
 Pi. I. 6.87a schol.|-ειν/-ων|συντέμνει|Petros N. Papageorgiu|1880|codd.|
 Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|P.Berol. inv. 16367|
 Pi. O. 1 schol. Inscr. a|ογ΄|οϛ΄|Bergk|1878|P.Oxy. II 222|Poet. Lyr. i. p.4
