@@ -53,7 +53,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (68), Markland (50), Reiske (30), Elmsley (27), Beza (25), Cobet (24), Bentley (24), Hermann (23), Blass (22), Brunck (22) and Henrik van Herwerden (22) (tied).</p>
+<p>The top 10 critics are Valckenaer (68), Markland (50), Reiske (32), Elmsley (27), Beza (25), Cobet (24), Bentley (24), Hermann (23), K. W. Krüger (23), Blass (22), Brunck (22) and Henrik van Herwerden (22) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1032,7 +1032,13 @@ Thuc. 7.44.7|-τησαν/κατέστησαν|καθίστασαν|I. M. Stahl|1
 Thuc. 7.48.6|ᾧ/ὧν/ὡς|οἷς|Adamantios Korais|s.xviii/xix|Pi3|
 Thuc. 7.55.1|στρατιᾶς|στρατείας|Aemilius Portus|1594|P.Oxy. XI 1376|
 Thuc. 7.55.2|δὴ|ἤδη|M. C. Gertz|1898|P.Oxy. XI 1376|spat. rat. hab.
-Thuc. 7.65.2|ἂν|del.|Henrik van Herwerden|1880|P.Oxy. XI 1376|sed cf. Stahl Qu. Gr. p. 25
+Thuc. 7.56.3|-ον|μόνων|I. M. Stahl|1882|Pl3|
+Thuc. 7.57.11|-ων|κατειλημμένοι|Reiske|1761|P.Mich. III 141|Anim. p. 65
+Thuc. 7.63.2|ὑμῖν|ἡμῖν|Bekker|1832|recc.|
+Thuc. 7.65.2|ἂν|del.|Henrik van Herwerden|1880|P.Oxy. XI 1376|
+Thuc. 7.67.1|τὸ|τοῦ|K. W. Krüger|1860|Kac|
+Thuc. 7.68.1|καὶ τ.|τὸ|Reiske|1761|Al Nf|Anim. p. 67
+Thuc. 7.73.3|οὐκέτι|οὐκ|K. W. Krüger|1860|P.Oxy. XI 1376|
 Thuc. 8.10|ἑπτὰ|ἐς ἑπτὰ|Westermann|n.d.|P.Oxy. X 1247|
 Thuc. 11.6|οὔτω|om.|Madvig|n.d.|P.Oxy. XIII 1621|
 Thuc. 11.9|ἡμῖν|ὑμῖν|Hude|n.d.|P.Oxy. VI 853 et XIII 1621|
