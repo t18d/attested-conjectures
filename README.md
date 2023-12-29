@@ -53,7 +53,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (68), Markland (50), Reiske (29), Elmsley (27), Beza (25), Cobet (24), Bentley (24), Hermann (23), Blass (22) and Brunck (22).</p>
+<p>The top 10 critics are Valckenaer (68), Markland (50), Reiske (29), Elmsley (27), Beza (25), Cobet (24), Bentley (24), Hermann (23), Blass (22), Brunck (22) and Henrik van Herwerden (22) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1012,12 +1012,16 @@ Thuc. 6.58.2|ἀνε-|ἀπεχώρησαν|E. F. Poppo|1828|H2|
 Thuc. 6.62.1|ξυνπαντὶ κτλ.|ξύμπαντι|K. W. Krüger|1860|Q Pi3|
 Thuc. 6.62.5|-πλευσαν|περιέπεμψαν|I. M. Stahl|1880|H2|
 Thuc. 6.66.2|τε|τι|K. W. Krüger|1860|recc.|
-Thuc. 6.69.3|συγκαταστρεψόμενοι … ὑπακούσεται|ξυγκαταστρεψάμενοι … ὑπακούσονται|Haacke|1820|H2, schol. Φ|
+Thuc. 6.69.3|συγκαταστρεψόμενοι … ὑπακούσεται|ξυγκαταστρεψάμενοι … ὑπακούσονται|C. F. Haacke|1820|H2, schol. Φ|
 Thuc. 6.72.4|αὐτά|ταῦτα|Herbert Richards|1914|γρH2|CQ 8 (1914) 78
 Thuc. 6.80.5|-δύνως|ἀκίνδυνον|J. C. Vollgraff|1905|H2|Mnemosyne N.S. 33 (1905) 438
 Thuc. 6.87.4|ἄν τι τυχεῖν κτλ.|ἂν τυχεῖν|Henrik van Herwerden|1880|H2|
 Thuc. 6.88.5|ἐ./τε πεμπόντων|τ᾽ ἐσπεμπόντων|Hude|1901|H2|
-Thuc. 6.89.2|ἡμῶν|ἐμῶν|Haacke|1820|γρH2|
+Thuc. 6.89.2|ἡμῶν|ἐμῶν|C. F. Haacke|1820|γρH2|
+Thuc. 6.94.3|ἐμπιπρῶντες/πιμτράντες κτλ.|ἐμπι(μ)πράντες|Henrik van Herwerden|1880|H2|
+Thuc. 6.96.3|ἕπτα-|ἑξακοσίους|Aemilius Portus|1594|H2|
+Thuc. 6.101.5|φυλακὴ|φυλὴ|Duker-Wasse|1731|γρH2|
+Thuc. 7.19.4|-οις|πρῶτοι|F. W. Reiz|s.xviii ex.|recc.|
 Thuc. 7.55.1|στρατιᾶς|στρατείας|Aemilius Portus|1594|P.Oxy. XI 1376|
 Thuc. 7.55.2|δὴ|ἤδη|Gertz|n.d.|P.Oxy. XI 1376|
 Thuc. 7.65.2|ἂν|del.|Henrik van Herwerden|1880|P.Oxy. XI 1376|sed cf. Stahl Qu. Gr. p. 25
