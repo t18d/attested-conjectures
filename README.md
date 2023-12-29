@@ -1022,6 +1022,9 @@ Thuc. 6.94.3|ἐμπιπρῶντες/πιμτράντες κτλ.|ἐμπι(μ)
 Thuc. 6.96.3|ἕπτα-|ἑξακοσίους|Aemilius Portus|1594|H2|
 Thuc. 6.101.5|φυλακὴ|φυλὴ|Duker-Wasse|1731|γρH2|
 Thuc. 7.19.4|-οις|πρῶτοι|F. W. Reiz|s.xviii ex.|recc.|
+Thuc. 7.24.2|ὥστε|ὥσπερ|I. M. Stahl|1882|recc.|
+Thuc. 7.28.3|-ζον|ἐνόμιζε|Herbert Richards|1914|Paris. gr. 1734 (H)|CQ 8 (1914) 80
+Thuc. 7.29.5|ἥσσων|ἧσσον|J. D. Heilmann|1812|CnPi|
 Thuc. 7.55.1|στρατιᾶς|στρατείας|Aemilius Portus|1594|P.Oxy. XI 1376|
 Thuc. 7.55.2|δὴ|ἤδη|Gertz|n.d.|P.Oxy. XI 1376|
 Thuc. 7.65.2|ἂν|del.|Henrik van Herwerden|1880|P.Oxy. XI 1376|sed cf. Stahl Qu. Gr. p. 25
