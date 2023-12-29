@@ -708,6 +708,7 @@ Phot. α 1425|ὀλιγοστοὺς|ὀλίγους τοὺς|Richard Reitzenst
 Phot. α 2032|-κήτως|ἀπροσδόκητοι|Wilamowitz|1907|suppl. Zavord. 95 (Sz)|SBAk. Berlin 1907,13 = Kl. Sehr. 4,541
 Phot. α 2096|-δε|Θουγενίδης|Blass|1907|suppl. Zavord. 95 (Sz)|Rhein. Mus. 62 (1907) 271
 Phot. α 2096|-δε|Θουγενίδης|J. Stroux|1907|suppl. Zavord. 95 (Sz)|Hermes 42 (1907) 643
+Phot. α 2124|-τλία|ἀντία|Richard Reitzenstein|1907|Zavord. 95 (z)|
 Phot. α 2252|-ων|σπεύδω|Wilamowitz|1907|Zavord. 95 (z)|SBAk. Berlin 1907,13 = Kl. Sehr. 4,541
 Pi. I. 6.87a schol.|-ειν/-ων|συντέμνει|Petros N. Papageorgiu|1880|codd.|
 Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|P.Berol. inv. 16367|
