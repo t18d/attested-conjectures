@@ -53,7 +53,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (68), Markland (50), Reiske (33), Porson (31), Cobet (28), Elmsley (27), Beza (25), Bentley (24), K. W. Krüger (24), Blass (23), Hermann (23) and Henrik van Herwerden (23) (tied).</p>
+<p>The top 10 critics are Valckenaer (68), Markland (50), Reiske (34), Porson (31), Cobet (28), Elmsley (27), Beza (25), Bentley (24), K. W. Krüger (24), Blass (23), Hermann (23) and Henrik van Herwerden (23) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -613,6 +613,7 @@ Hdt. 1.196.3|ἀνάγεϑαι|ἀγαγέσθαι|Heinrich Stein|1869|Vac|ἀγ
 Hdt. 2.79.1|ἅπαξ ἅ|ἁπαξὰ|Hoffmann|n.d.|P.Oxy. inv. 85/40a|
 Hdt. 2.175.1|οἱ|οἷα|Abresch|s.xviii med.|P.Oxy. VIII 1092|
 Hdt. 3.108.4|μήτρῃ|μητρὶ|Bekker|1833|D1|
+Hdt. 3.119.5|-ώτατος|ἀλλοτριώτερος|Reiske|n.d.|cod. Athon. Dion. 90 (𝕬)|
 Hdt. 5.52.4|-ον|ὕστερος|Heinrich Stein|1869|ex corr. D1M|
 Hdt. 7.196|ναυτικὸς ὁ τῶν|ν. τ.|G. H. Schaefer|n.d.|Mutinensis Estensis 221 (M)|
 Hdt. 7.226.1|ἀφί- κτλ.|ἀπίωσι|Dindorf|n.d.|cod. Athon. Dion. 90 (𝕬)|
