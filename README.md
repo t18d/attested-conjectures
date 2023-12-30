@@ -778,6 +778,7 @@ Phot. π 328|-ων|λόγῳ|Porson|1822|Harp. pl. et Suid. codd. GM|
 Phot. π 344|-ως|ὁμοίους|Schleusner|1812|Harp. pl. et Suid. codd. GMV|Cur. nov. p. 315
 Phot. π 403|παρ ̓ ἡμῖν|παρήμην|Adamantios Korais|n.d.|Σa+b et Sud.|Eἰς μνήμην  ̓Aμάντου p. 294
 Phot. π 521|-τατα|προθυμότατοι|Adamantios Korais|n.d.|Harp. pl. et Suid. cod. Mpc|Eἰς μνήμην  ̓Aμάντου p. 294
+Phot. π 541|τυράννων|Tυρρηνῶν|Adamantios Korais|n.d.|Λεξ. ῥητ. cod. Coisl. 345 et EM|Eἰς μνήμην  ̓Aμάντου p. 294
 Pi. I. 6.87a schol.|-ειν/-ων|συντέμνει|Petros N. Papageorgiu|1880|codd.|
 Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|P.Berol. inv. 16367|
 Pi. O. 1 schol. Inscr. a|ογ΄|οϛ΄|Bergk|1878|P.Oxy. II 222|Poet. Lyr. i. p.4
@@ -929,7 +930,7 @@ Str. 9.2.35|οὔτε|οὐδὲ|Adamantios Korais|1805|P.Petr. I 3|ουδ
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Kock|1880-8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
-Sud. π 926|προσφ-|προφέρειν|Bekker|n.d.|Phot. z|Suidae Lex. p. 836a
+Sud. π 926|προσφ-|προφέρειν|Bekker|1854|Phot. z|Suidae Lex. p. 836a
 Synag. 52.22|αἱρεθίζειν|αἱρετίζειν|Kock|1880-8|Phot. α 642|
 Synag. 177.16|ἀωρὶ θανάτωι|ἀωροθάνατος|Dindorf|1835|Phot. α 3493|
 Synag. 353.9|ἀτη-|ἀτειρής|Friedrich Wilhelm Wagner|1852|Phot. α 474|
