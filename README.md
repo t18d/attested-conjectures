@@ -55,7 +55,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (68), Markland (50), Porson (44), Reiske (34), Cobet (33), Adamantios Korais (28), Elmsley (27), Beza (25), Bentley (24) and K. W. Krüger (24).</p>
+<p>The top 10 critics are Valckenaer (68), Markland (50), Porson (46), Reiske (34), Cobet (33), Adamantios Korais (29), Elmsley (27), Beza (25), Bentley (24) and K. W. Krüger (24).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -831,6 +831,10 @@ Phot. σ 489|-ει|σημαίνοι|Porson|1822|Sud. cod. A|
 Phot. σ 509|τῷ ληνῷ|τῇ ληνῷ|L. Dindorf|1835|AB|ThGL. νοl. VII p. 675A
 Phot. σ 535|πικρ-|πυκνοῖς|Adamantios Korais|s.xviii/xix|Sud. codd. GVM|Eἰς μνήμην  ̓Aμάντου p. 296
 Phot. σ 551|-ιγμα|στήριγγα|Johann Alberti|1766|Poll. cod. C|Hesych. Lex. vol. II p. 1268, 30
+Phot. σ 586|τὸν|τῶν|Porson|1822|Zavord. 95 (z)|
+Phot. σ 603|ὡς γρ-|προσγράφουσιν|Adamantios Korais|s.xviii/xix|Harp. pl.|Eἰς μνήμην  ̓Aμάντου p. 297
+Phot. σ 606|-ίδος|στρατηγίας|Johann Alberti|1766|Sud. codd. GMpc|Hesych. Lex. vol. II p. 1276, 31
+Phot. σ 628|-βηλος|στρόβιλος|Porson|1822|Hsch. σ 2012|
 Pi. I. 6.87a schol.|-ειν/-ων|συντέμνει|Petros N. Papageorgiu|1880|codd.|
 Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|P.Berol. inv. 16367|
 Pi. O. 1 schol. Inscr. a|ογ΄|οϛ΄|Bergk|1878|P.Oxy. II 222|Poet. Lyr. i. p.4
