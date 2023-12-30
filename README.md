@@ -55,7 +55,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (68), Markland (50), Reiske (34), Porson (33), Cobet (32), Elmsley (27), Beza (25), Bentley (24), K. W. Krüger (24), Blass (23), Hermann (23) and Henrik van Herwerden (23) (tied).</p>
+<p>The top 10 critics are Valckenaer (68), Markland (50), Porson (36), Reiske (34), Cobet (32), Elmsley (27), Beza (25), Bentley (24), K. W. Krüger (24), Blass (23), Hermann (23) and Henrik van Herwerden (23) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -791,6 +791,12 @@ Phot. π 1079|τεσσάρων|δʹ|Porson|1822|Sud. π 2026|
 Phot. π 1079|προάρξ-|προάξαντες|Demetrius Chalcondyles|1499|Et.Gud.|
 Phot. π 1157|-ριών|πρηγορεών|Schleusner|1810|zpc|Libell. p. 84
 Phot. π 1234|πρωθῆβας/πρόθ-|πρωθήβας|Cobet|1859|zpc|Mnem. 8 (1859) 59
+Phot. π 1247|-σελθ-|εἰσενεχθῆναι|Schleusner|1810|zpc Sud.|Libell. p. 85
+Phot. π 1255|πυρὶ|πυροὶ|Porson|1822|AB|
+Phot. π 1282|μεταβ-|καταβολῆς|Adamantios Korais|s.xviii/xix|zpc et Epit. Harp. et Sud.|Eἰς μνήμην  ̓Aμάντου p. 295
+Phot. π 1286|προσπ-|προπίνειν|Porson|1822|Σa+b et Sud. et schol. Pi.|
+Phot. π 1374|-σαν|φάσαι|Porson|1822|Amm. Ptol. Et.Gud. Eust.|
+Phot. π 1374|-σαν|φάσαι|Adamantios Korais|s.xviii/xix|Amm. Ptol. Et.Gud. Eust.|Eἰς μνήμην  ̓Aμάντου p. 295
 Pi. I. 6.87a schol.|-ειν/-ων|συντέμνει|Petros N. Papageorgiu|1880|codd.|
 Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|P.Berol. inv. 16367|
 Pi. O. 1 schol. Inscr. a|ογ΄|οϛ΄|Bergk|1878|P.Oxy. II 222|Poet. Lyr. i. p.4
