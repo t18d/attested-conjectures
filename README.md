@@ -741,8 +741,8 @@ Phot. κ 671|κήπουρεύμα (dublici acc.)|κήπου ῥεῦμα|Dindorf
 Phot. κ 784|δὴ|δεῖ|Porson|1822|Epit. Harp. et Sud. κ 1802|
 Phot. κ 1250|-κέναι/-κεν|ἀναβεβηκὸς|Porson|1822|Sud. κ 2749|
 Phot. κ 1288|-τας|ψοφοῦντες|Porson|1822|Et.Gen. Α|
-Phot. λ 92|λαπήττ-|λαπίττειν|Alberti|n.d.|zpc|Hesych. Lex. vol. II p. 427, 7
-Phot. λ 92|λαμπιστὴν|λαπιοτὴν|Alberti|n.d.|zpc|Hesych. Lex. vol. II p. 427, 7
+Phot. λ 92|λαπήττ-|λαπίττειν|Johann Alberti|1766|zpc|Hesych. Lex. vol. II p. 427, 7
+Phot. λ 92|λαμπιστὴν|λαπιοτὴν|Johann Alberti|1766|zpc|Hesych. Lex. vol. II p. 427, 7
 Phot. λ 173|-ία|τρύβλια|L. Dindorf|1835|Zavord. 95 (z)|ThGL. νοl. V p. 179B
 Phot. λ 204|-ον|κακῶν|Porson|1822|zpc|
 Phot. λ 232|ἀρτίτ-|ἀρτιτόκος|Schleusner|1812|Σbpc|Cur. nov. p. 188
@@ -758,7 +758,7 @@ Phot. ν 209|ποίησον|ποιήσω|Cobet|1859|Sud. codd. GM|Mnem. 8 (1859)
 Phot. ο 21|-ύλε-|ὀγκύλλεσθαι|Schleusner|1812|Zavord. 95 (z)|Cur. nov. p. 266
 Phot. ο 119|δῆμος τῆς|δημότης|Adamantios Korais|n.d.|Epit. Harp. et Harp. pl.|
 Phot. ο 119|δῆμος τῆς|δημότης|Schleusner|1810|Epit. Harp. et Harp. pl.|Libell. p. 58
-Phot. ο 254| ̓Oλύμπιον| ̓Oλυμπιεῖον|Alberti|n.d.|zpc|Hesych. Lex. vol. II p. 747, 7
+Phot. ο 254| ̓Oλύμπιον| ̓Oλυμπιεῖον|Johann Alberti|1766|zpc|Hesych. Lex. vol. II p. 747, 7
 Pi. I. 6.87a schol.|-ειν/-ων|συντέμνει|Petros N. Papageorgiu|1880|codd.|
 Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|P.Berol. inv. 16367|
 Pi. O. 1 schol. Inscr. a|ογ΄|οϛ΄|Bergk|1878|P.Oxy. II 222|Poet. Lyr. i. p.4
