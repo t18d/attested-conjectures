@@ -55,7 +55,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (68), Markland (50), Porson (43), Reiske (34), Cobet (33), Elmsley (27), Adamantios Korais (25), Beza (25), Bentley (24) and K. W. Krüger (24).</p>
+<p>The top 10 critics are Valckenaer (68), Markland (50), Porson (43), Reiske (34), Cobet (33), Elmsley (27), Adamantios Korais (27), Beza (25), Bentley (24) and K. W. Krüger (24).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -823,6 +823,10 @@ Phot. σ 253|ἄριστοι|ἄρτοι|Adamantios Korais|s.xviii/xix|zpc et Ep
 Phot. σ 300|σκέρβορε· λοίδορε|σκέρβολλε· λοιδόρει|Schleusner|1810|zpc|Libell. p. 95
 Phot. σ 324|τοῦτον|τούτων|Adamantios Korais|s.xviii/xix|zpc et Epit. Harp. et Sud.|Eἰς μνήμην  ̓Aμάντου p. 296
 Phot. σ 346|-μίοις|πολέμοις|Adamantios Korais|s.xviii/xix|Tim.|Eἰς μνήμην  ̓Aμάντου p. 296
+Phot. σ 348|-ῆ-|σκληφρόν|David Ruhnken|1828|zpc|Tim. p. 233
+Phot. σ 367|ὡς τυχ-|ᾧ στοιχοῦσιν|Adamantios Korais|s.xviii/xix|zpc Σa Sud.|Eἰς μνήμην  ̓Aμάντου p. 296
+Phot. σ 390|-εῖλον|περιείλουν|Adamantios Korais|s.xviii/xix|Σa+b Sud.|Eἰς μνήμην  ̓Aμάντου p. 296
+Phot. σ 441|σπαρνον sine acc.|σπαρνόν|L. Dindorf|1835|Hsch. cod. Marc.|ThGL. νοl. VII p. 556A
 Pi. I. 6.87a schol.|-ειν/-ων|συντέμνει|Petros N. Papageorgiu|1880|codd.|
 Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|P.Berol. inv. 16367|
 Pi. O. 1 schol. Inscr. a|ογ΄|οϛ΄|Bergk|1878|P.Oxy. II 222|Poet. Lyr. i. p.4
