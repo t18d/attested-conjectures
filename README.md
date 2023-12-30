@@ -740,6 +740,8 @@ Phot. κ 671|κήπουρεύμα (dublici acc.)|κήπου ῥεῦμα|Dindorf
 Phot. κ 784|δὴ|δεῖ|Porson|1822|Epit. Harp. et Sud. κ 1802|
 Phot. κ 1250|-κέναι/-κεν|ἀναβεβηκὸς|Porson|1822|Sud. κ 2749|
 Phot. κ 1288|-τας|ψοφοῦντες|Porson|1822|Et.Gen. Α|
+Phot. λ 92|λαπήττ-|λαπίττειν|Alberti|n.d.|zpc|Hesych. Lex. vol. II p. 427, 7
+Phot. λ 92|λαμπιστὴν|λαπιοτὴν|Alberti|n.d.|zpc|Hesych. Lex. vol. II p. 427, 7
 Pi. I. 6.87a schol.|-ειν/-ων|συντέμνει|Petros N. Papageorgiu|1880|codd.|
 Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|P.Berol. inv. 16367|
 Pi. O. 1 schol. Inscr. a|ογ΄|οϛ΄|Bergk|1878|P.Oxy. II 222|Poet. Lyr. i. p.4
