@@ -645,7 +645,7 @@ Hom. Od. 23.192|ὄφρ’ ἐτέλεσσα|οφρα τελεσ[σα|Bekker|185
 Hom. Od. 24.209|ἠδὲ ἴαυον|ἠδ’ ενϊαυον|Nauck|1874|P.Ryl. 53|
 Hsch. α 2737|παλαιός|μάταιος|F. W. Schmidt|1886|Cyrill. ph|Krit. St. 1,112
 Hsch. α 2737|ἀλαιός|ἀλεός|Gottfried Sopingius|s.xvi/xvii|Cyrill. ph|apud Schrevelius/Alberti
-Hsch. κ 4905|καμίκην|Καμικοῖς|Johannes Alberti|1766|Cyrill.|
+Hsch. κ 4905|καμίκην|Καμικοῖς|Johann Alberti|1766|Cyrill.|
 Isoc. Ad Nic. 2|διοικοῖς|διοικῇς|Blass|1891|Pap. Massiliensis = CPF I.2 17|
 Isoc. Ad Nic. 8|ταῖς μοναρχίαις|τὰς μοναρχίας|Cobet|1783|Pap. Massiliensis = CPF I.2 17|
 Isoc. Paneg. 68|γε|ελαττω γε|Cobet|1783|P.Oxy. V 844|
@@ -759,6 +759,8 @@ Phot. ο 21|-ύλε-|ὀγκύλλεσθαι|Schleusner|1812|Zavord. 95 (z)|Cur.
 Phot. ο 119|δῆμος τῆς|δημότης|Adamantios Korais|n.d.|Epit. Harp. et Harp. pl.|
 Phot. ο 119|δῆμος τῆς|δημότης|Schleusner|1810|Epit. Harp. et Harp. pl.|Libell. p. 58
 Phot. ο 254| ̓Oλύμπιον| ̓Oλυμπιεῖον|Johann Alberti|1766|zpc|Hesych. Lex. vol. II p. 747, 7
+Phot. ο 716|-φεῖν|ῥόφειν|L. Dindorf|1835|z et Eust.|ThGL. νοl. V p. 2458C
+Phot. π 105|κινεῖ|κινεῖται|Dindorf|1835|Cyr. cod. A fol. 169r et Hsch. π 237|ThGL. νοl. VI p. 106C
 Pi. I. 6.87a schol.|-ειν/-ων|συντέμνει|Petros N. Papageorgiu|1880|codd.|
 Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|P.Berol. inv. 16367|
 Pi. O. 1 schol. Inscr. a|ογ΄|οϛ΄|Bergk|1878|P.Oxy. II 222|Poet. Lyr. i. p.4
