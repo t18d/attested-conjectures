@@ -609,8 +609,10 @@ Hdt. 1.107.1|ὑπο-|ῡπερθεμενος|Henri Estienne|s.xvi ex.|P.Oxy. X 
 Hdt. 1.116.1|ἐσῄει|ἐσήιε|Bekker|1833|P.Münch. II 40 = Pap. graec. mon. 89|
 Hdt. 1.196.1|ὧδε|οἵδε|Eltz|n.d.|P.Ross.Georg. I 15|
 Hdt. 1.196.3|οἱ ἐξέλθοι|διεξέλθοι|Stephan Bergler|1715|P.Ross.Georg. I 15|B. apud Gronovius
+Hdt. 1.196.3|ἀνάγεϑαι|ἀγαγέσθαι|Heinrich Stein|1869|Vac|ἀγάγεσϑαι Vac
 Hdt. 2.79.1|ἅπαξ ἅ|ἁπαξὰ|Hoffmann|n.d.|P.Oxy. inv. 85/40a|
-Hdt. 2.175|οἱ|οἷα|F. L. Abresch|s.xviii med.|P.Oxy. VIII 1092|
+Hdt. 2.175.1|οἱ|οἷα|Abresch|s.xviii med.|P.Oxy. VIII 1092|
+Hdt. 3.108.4|μήτρῃ|μητρὶ|Bekker|1833|D1|
 Hdt. 5.52.4|-ον|ὕστερος|Heinrich Stein|1869|ex corr. D1M|
 Hdt. 7.196|ναυτικὸς ὁ τῶν|ν. τ.|G. H. Schaefer|n.d.|Mutinensis Estensis 221 (M)|
 Hdt. 7.226.1|ἀφί- κτλ.|ἀπίωσι|Dindorf|n.d.|cod. Athon. Dion. 90 (𝕬)|
