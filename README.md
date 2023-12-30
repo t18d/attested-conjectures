@@ -724,7 +724,7 @@ Phot. α 2096|-δε|Θουγενίδης|Blass|1907|suppl. Zavord. 95 (Sz)|Rhein
 Phot. α 2096|-δε|Θουγενίδης|J. Stroux|1907|suppl. Zavord. 95 (Sz)|Hermes 42 (1907) 643
 Phot. α 2124|-τλία|ἀντία|Richard Reitzenstein|1907|Zavord. 95 (z)|
 Phot. α 2252|-ων|σπεύδω|Wilamowitz|1907|Zavord. 95 (z)|SBAk. Berlin 1907,13 = Kl. Sehr. 4,541
-Phot. ε 336|-ξασθαι|εἰσδέξεσθαι|Hermann Sauppe|1850|Harp. pl. codd.|ad Antiph. fr. 167
+Phot. ε 336|-ξασθαι|εἰσδέξεσθαι|Hermann Sauppe|1850|Harp. pl. codd. QP|ad Antiph. fr. 167
 Phot. ε 1110|ἐξάρξ- κτλ.|ἐξαράξαντες|L. Dindorf|1835|Cyr. cod. Α fol. 76r|ThGL. νοl. III p. 1256Β
 Phot. ε 1818|-θεύθηοαν|ἐπλίνθευοαν|Wilamowitz|n.d.|Zavord. 95 (z)|ms. ad Hsch.
 Phot. ε 2006|φ. ἐ. κόρας|φεῦγ' ἐς κόρακας|Porson|1822|Zavord. 95 (z)|
@@ -745,7 +745,9 @@ Phot. λ 92|λαμπιστὴν|λαπιοτὴν|Alberti|n.d.|zpc|Hesych. Lex. 
 Phot. λ 173|-ία|τρύβλια|L. Dindorf|1835|Zavord. 95 (z)|ThGL. νοl. V p. 179B
 Phot. λ 204|-ον|κακῶν|Porson|1822|zpc|
 Phot. λ 232|ἀρτίτ-|ἀρτιτόκος|Schleusner|1812|Σbpc|Cur. nov. p. 188
-Phot. λ 232|τὸν|τὸ|Schleusner|1812|AB I 277.7|Cur. nov. p. 195
+Phot. λ 319|τὸν|τὸ|Schleusner|1812|AB I 277.7|Cur. nov. p. 195
+Phot. λ 382|κατὰ|ὑπὲρ|Maussacus|1822|Harp. pl. cod. Κ|apud Dindorf ad Harp.
+Phot. λ 420|-ία|τρύβλια|L. Dindorf|1835|Zavord. 95 (z)|ThGL. νοl. V p. 179B
 Pi. I. 6.87a schol.|-ειν/-ων|συντέμνει|Petros N. Papageorgiu|1880|codd.|
 Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|P.Berol. inv. 16367|
 Pi. O. 1 schol. Inscr. a|ογ΄|οϛ΄|Bergk|1878|P.Oxy. II 222|Poet. Lyr. i. p.4
