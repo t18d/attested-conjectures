@@ -613,6 +613,8 @@ Hdt. 2.175|οἱ|οἷα|F. L. Abresch|s.xviii med.|P.Oxy. VIII 1092|
 Hdt. 5.52.4|-ον|ὕστερος|Heinrich Stein|1869|ex corr. D1M|
 Hdt. 7.196|ναυτικὸς ὁ τῶν|ν. τ.|G. H. Schaefer|n.d.|Mutinensis Estensis 221 (M)|
 Hdt. 7.226.1|ἀφί- κτλ.|ἀπίωσι|Dindorf|n.d.|cod. Athon. Dion. 90 (𝕬)|
+Hdt. 8.75.3|οὐτέτι|οὔτ' ἔτι|G. H. Schaefer|n.d.|Vat. gr. 2369 (D)|
+Hdt. 9.43.2|-ων|Μουσαίου|Bekker|1833|Vat. gr. 2369 (D)|
 Herm. Sim. 2.17|<καὶ> εὐχαριστεῖ|εὐχαριστῶν|Tischendorf|n.d.|P.Oxy. IX 1172|
 Herm. Sim. 2.28|συνιει|συνηκεν|Tischendorf|n.d.|P.Oxy. IX 1172|
 Herm. Sim. 8.54|λοιπόν|αὐτόν|Hilgenfeld|n.d.|P.Oxy. XIII 1599|
