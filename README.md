@@ -55,7 +55,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (68), Markland (50), Porson (48), Reiske (34), Adamantios Korais (34), Cobet (33), Elmsley (27), Beza (25), Bentley (24) and K. W. Krüger (24).</p>
+<p>The top 10 critics are Valckenaer (68), Markland (50), Porson (49), Reiske (34), Adamantios Korais (34), Cobet (33), Elmsley (27), Beza (25), Bentley (24) and K. W. Krüger (24).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -737,7 +737,7 @@ Phot. ε 336|-ξασθαι|εἰσδέξεσθαι|Hermann Sauppe|1850|Harp. pl.
 Phot. ε 1110|ἐξάρξ- κτλ.|ἐξαράξαντες|L. Dindorf|1835|Cyr. cod. Α fol. 76r|ThGL. νοl. III p. 1256Β
 Phot. ε 1818|-θεύθηοαν|ἐπλίνθευοαν|Wilamowitz|n.d.|Zavord. 95 (z)|ms. ad Hsch.
 Phot. ε 2006|φ. ἐ. κόρας|φεῦγ' ἐς κόρακας|Porson|1822|Zavord. 95 (z)|
-Phot. ε 2239|εὐλ-/εὔλ-|εὐλάχα|Naber|1822|schol. Thuc. cod. Gpc|
+Phot. ε 2239|εὐλ-/εὔλ-|εὐλάχα|Naber|1864|schol. Thuc. cod. Gpc|
 Phot. η 37|παλλάθη(ν)|παλάθη|Porson|1822|Eust. 1399.29|
 Phot. η 37|βρώμ-/ἀρτύμ-|ἀρώματα|Adamantios Korais|s.xviii/xix|Σa et Gal.|
 Phot. η 51|ἔ. ἐ.|ἔφην δ' ἐγώ|Porson|1822|Boethus et Sud. cod. F|
@@ -805,7 +805,7 @@ Phot. π 1580|-ρώνων|πυρῶν|Adamantios Korais|s.xviii/xix|Sud. π 3240
 Phot. ρ 4|-ναιμ-|ἄνεμος|Johann Alberti|1766|Zavord. 95 (z)|Hesych. Lex. vol. II p. 1094, 25
 Phot. ρ 80|-τρεία|ῥελατορία|Adamantios Korais|s.xviii/xix|zpc Σa+b Sud.|Eἰς μνήμην  ̓Aμάντου p. 296
 Phot. ρ 108|τῶν -ῶν|τὸ παλαιὸν|P. P. Dobree|n.d.|zpc|Advers. vol. III p. 49
-Phot. ρ 116|ἀπὸ|ὑπὸ|Naber|1822|Σb|
+Phot. ρ 116|ἀπὸ|ὑπὸ|Naber|1865|Σb|
 Phot. ρ 129|-νόμ-|ῥινώμενος|Adamantios Korais|s.xviii/xix|zpc Sud.|Eἰς μνήμην  ̓Aμάντου p. 296
 Phot. ρ 147|-ειν|ῥοίβδην|Dindorf|1835|Σa+b|ThGL. νοl. VI p. 2415B
 Phot. ρ 190|-υστ-|ῥυτῆρας|Cobet|1859|zpc|Mnem. 8 (1859) 66
@@ -845,6 +845,12 @@ Phot. σ 918|-ρίβειν|διατριβὴν|Adamantios Korais|s.xviii/xix|Σa
 Phot. σ 925|τοῦ|τὸ|Adamantios Korais|s.xviii/xix|z etc.|Eἰς μνήμην  ̓Aμάντου p. 297
 Phot. σ 931|πονή-|ποιήματα|Porson|1822|Sud. σ 868|
 Phot. τ 140|κατέ-|ἀπέχοντες|Adamantios Korais|s.xviii/xix|zpc Sud. Et.Gen. AB|Eἰς μνήμην  ̓Aμάντου p. 297
+Phot. τ 200|καυ-|αὐλίσκον|Naber|1865|AB|
+Phot. τ 219|-γ-|στραγγεύεσθαι|David Ruhnken|1828|Phot. Amphil. cod. Γ|Tim. p. 254
+Phot. τ 271|ἐπέτος|ἐπ ̓ ἔτος|Porson|1822|Zavord. 95 (z)|
+Phot. τ 276|φράτερσεσιν|Φράτερσιν|Dindorf|1835|Zavord. 95 (z)|ThGL. νοl. VIII p.1036C
+Phot. τ 464|οἷον|οἱ|P. P. Dobree|n.d.|Et.Gen. B et EM|Advers. vol. III p. 53
+Phot. τ 568|-ρ-|Tυρρηνικὰ|P. P. Dobree|n.d.|zpc|Advers. vol. III p. 53
 Pi. I. 6.87a schol.|-ειν/-ων|συντέμνει|Petros N. Papageorgiu|1880|codd.|
 Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|P.Berol. inv. 16367|
 Pi. O. 1 schol. Inscr. a|ογ΄|οϛ΄|Bergk|1878|P.Oxy. II 222|Poet. Lyr. i. p.4
