@@ -851,6 +851,8 @@ Phot. τ 271|ἐπέτος|ἐπ ̓ ἔτος|Porson|1822|Zavord. 95 (z)|
 Phot. τ 276|φράτερσεσιν|Φράτερσιν|Dindorf|1835|Zavord. 95 (z)|ThGL. νοl. VIII p.1036C
 Phot. τ 464|οἷον|οἱ|P. P. Dobree|n.d.|Et.Gen. B et EM|Advers. vol. III p. 53
 Phot. τ 568|-ρ-|Tυρρηνικὰ|P. P. Dobree|n.d.|zpc|Advers. vol. III p. 53
+Phot. υ 28|παραρέη κτλ.|παραρρέῃ|O. Crusius|1910|zpc|Paroemiographica p. 90
+Phot. υ 47|ἐνόλωι|ἐν λόγῳ|Schleusner|1810|zpc Sud.|Libell. p. 120
 Pi. I. 6.87a schol.|-ειν/-ων|συντέμνει|Petros N. Papageorgiu|1880|codd.|
 Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|P.Berol. inv. 16367|
 Pi. O. 1 schol. Inscr. a|ογ΄|οϛ΄|Bergk|1878|P.Oxy. II 222|Poet. Lyr. i. p.4
