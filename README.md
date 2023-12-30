@@ -55,7 +55,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (68), Markland (50), Porson (42), Reiske (34), Cobet (33), Elmsley (27), Beza (25), Bentley (24), K. W. Krüger (24), Blass (23), Hermann (23) and Henrik van Herwerden (23) (tied).</p>
+<p>The top 10 critics are Valckenaer (68), Markland (50), Porson (43), Reiske (34), Cobet (33), Elmsley (27), Beza (25), Bentley (24), K. W. Krüger (24), Blass (23), Hermann (23) and Henrik van Herwerden (23) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -815,6 +815,9 @@ Phot. σ 61|εἴσω πολιτείαν|ἰσοπολιτείαν|Adamantios Ko
 Phot. σ 61|εἴσω πολιτείαν|ἰσοπολιτείαν|Porson|1822|Sud. σ 77|
 Phot. σ 89|Tρυζ-|Tροιζῆνι|Adamantios Korais|s.xviii/xix|zpc|Eἰς μνήμην  ̓Aμάντου p. 296
 Phot. σ 125|-σαντες|προσκαλέσασθαι|Porson|1822|Sud. cod. Eac|teste Dobree, Phot. Lex. vol. II p. 787
+Phot. σ 160|ἀντεσεβ-|ἀντὶ τοῦ ἐσεβάσθησαν|Johann Alberti|1766|zpc|Hesych. Lex. vol. I p. 1456, 22
+Phot. σ 167|μὴ|μὲν|Adamantios Korais|s.xviii/xix|Harp. pl. et Sud. codd. GVM|Eἰς μνήμην  ̓Aμάντου p. 296
+Phot. σ 182|-ων|ὑποτρέχον|Porson|1822|Σa+b Sud. etc.|
 Pi. I. 6.87a schol.|-ειν/-ων|συντέμνει|Petros N. Papageorgiu|1880|codd.|
 Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|P.Berol. inv. 16367|
 Pi. O. 1 schol. Inscr. a|ογ΄|οϛ΄|Bergk|1878|P.Oxy. II 222|Poet. Lyr. i. p.4
