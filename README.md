@@ -55,7 +55,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (68), Markland (50), Porson (38), Reiske (34), Cobet (32), Elmsley (27), Beza (25), Bentley (24), K. W. Krüger (24), Blass (23), Hermann (23) and Henrik van Herwerden (23) (tied).</p>
+<p>The top 10 critics are Valckenaer (68), Markland (50), Porson (41), Reiske (34), Cobet (33), Elmsley (27), Beza (25), Bentley (24), K. W. Krüger (24), Blass (23), Hermann (23) and Henrik van Herwerden (23) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -807,6 +807,12 @@ Phot. ρ 80|-τρεία|ῥελατορία|Adamantios Korais|s.xviii/xix|zpc Σ
 Phot. ρ 108|τῶν -ῶν|τὸ παλαιὸν|P. P. Dobree|n.d.|zpc|Advers. vol. III p. 49
 Phot. ρ 116|ἀπὸ|ὑπὸ|Naber|1822|Σb|
 Phot. ρ 129|-νόμ-|ῥινώμενος|Adamantios Korais|s.xviii/xix|zpc Sud.|Eἰς μνήμην  ̓Aμάντου p. 296
+Phot. ρ 147|-ειν|ῥοίβδην|Dindorf|1835|Σa+b|ThGL. νοl. VI p. 2415B
+Phot. ρ 190|-υστ-|ῥυτῆρας|Cobet|1859|zpc|Mnem. 8 (1859) 66
+Phot. σ 28|-ροτον|ἀσάρωτον|Porson|1822|Zavord. 95 (z)|
+Phot. σ 44|-νῆσαι|σαλακωνίσαι|Porson|1822|zpc|
+Phot. σ 61|εἴσω πολιτείαν|ἰσοπολιτείαν|Adamantios Korais|s.xviii/xix|Sud. σ 77|Eἰς μνήμην  ̓Aμάντου p. 296
+Phot. σ 61|εἴσω πολιτείαν|ἰσοπολιτείαν|Porson|1822|Sud. σ 77|
 Pi. I. 6.87a schol.|-ειν/-ων|συντέμνει|Petros N. Papageorgiu|1880|codd.|
 Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|P.Berol. inv. 16367|
 Pi. O. 1 schol. Inscr. a|ογ΄|οϛ΄|Bergk|1878|P.Oxy. II 222|Poet. Lyr. i. p.4
