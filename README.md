@@ -1,6 +1,10 @@
 # Database of Greek and Latin Conjectural Emendations Attested in MSS
 <preface> <!-- for sake of completeness -->
+_A project of [Open Source by Tonkünstler-on-the-Bund](https://t18d.github.io/)_
 
+&nbsp;  
+<p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>. The quickest way to get an addition or correction merged is to fork the repo, edit the CSV file and send in a pull request. Refer to <a href="https://github.com/t18d/attested-conjectures/wiki">project Wiki</a> on the formatting of entries. For changes relating to NT conjectures, please notify the upstream project, the <a href="https://ntvmr.uni-muenster.de/nt-conjectures-attribution">Amsterdam Database of NT Conjectures</a>.</p>
+&nbsp;  
 <details>
     <summary>Bibliography</summary>
     <h3>Methodology</h3>
@@ -51,8 +55,6 @@
 
 <br>
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
-
-<p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
 <p>The top 10 critics are Valckenaer (68), Markland (50), Porson (49), Reiske (34), Adamantios Korais (34), Cobet (33), Elmsley (27), Beza (25), Bentley (24) and K. W. Krüger (24).</p>
