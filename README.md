@@ -53,7 +53,7 @@
 <p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (68), Markland (50), Reiske (33), Porson (30), Cobet (27), Elmsley (27), Beza (25), Bentley (24), K. W. Krüger (24), Blass (23), Hermann (23) and Henrik van Herwerden (23) (tied).</p>
+<p>The top 10 critics are Valckenaer (68), Markland (50), Reiske (33), Porson (30), Cobet (28), Elmsley (27), Beza (25), Bentley (24), K. W. Krüger (24), Blass (23), Hermann (23) and Henrik van Herwerden (23) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -754,6 +754,11 @@ Phot. μ 135|τίς|τί|Porson|1822|Epit. Harp. et Suid. cod. G|
 Phot. μ 521|-ορή-|μυχορρήμων|L. Dindorf|1835|zpc|ThGL. νοl. V p. 1321D
 Phot. ν 77|νεάσαι|νεᾶσαι|Cobet|1859|Zavord. 95 (z)|Mnem. 8 (1859) 38
 Phot. ν 191|νηνί-|νηλίποδες|P. P. Dobree|n.d.|zpc|Advers. vol. III p. 46
+Phot. ν 209|ποίησον|ποιήσω|Cobet|1859|Sud. codd. GM|Mnem. 8 (1859) 33-4
+Phot. ο 21|-ύλε-|ὀγκύλλεσθαι|Schleusner|1812|Zavord. 95 (z)|Cur. nov. p. 266
+Phot. ο 119|δῆμος τῆς|δημότης|Adamantios Korais|n.d.|Epit. Harp. et Harp. pl.|
+Phot. ο 119|δῆμος τῆς|δημότης|Schleusner|1810|Epit. Harp. et Harp. pl.|Libell. p. 58
+Phot. ο 254| ̓Oλύμπιον| ̓Oλυμπιεῖον|Alberti|n.d.|zpc|Hesych. Lex. vol. II p. 747, 7
 Pi. I. 6.87a schol.|-ειν/-ων|συντέμνει|Petros N. Papageorgiu|1880|codd.|
 Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|P.Berol. inv. 16367|
 Pi. O. 1 schol. Inscr. a|ογ΄|οϛ΄|Bergk|1878|P.Oxy. II 222|Poet. Lyr. i. p.4
