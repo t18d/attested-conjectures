@@ -738,7 +738,7 @@ Phot. ε 1110|ἐξάρξ- κτλ.|ἐξαράξαντες|L. Dindorf|1835|Cyr. 
 Phot. ε 1818|-θεύθηοαν|ἐπλίνθευοαν|Wilamowitz|n.d.|Zavord. 95 (z)|ms. ad Hsch.
 Phot. ε 2006|φ. ἐ. κόρας|φεῦγ' ἐς κόρακας|Porson|1822|Zavord. 95 (z)|
 Phot. ε 2239|εὐλ-/εὔλ-|εὐλάχα|Naber|1822|schol. Thuc. cod. Gpc|
-Phot. η 37|παλλάθη(ν)|παλάθη|Porson|1822|Eust. Il. 1399.29|
+Phot. η 37|παλλάθη(ν)|παλάθη|Porson|1822|Eust. 1399.29|
 Phot. η 37|βρώμ-/ἀρτύμ-|ἀρώματα|Adamantios Korais|s.xviii/xix|Σa et Gal.|
 Phot. η 51|ἔ. ἐ.|ἔφην δ' ἐγώ|Porson|1822|Boethus et Sud. cod. F|
 Phot. θ 47|παρεγειρον|παρ' αἴγειρον|Porson|1822|Et.Gen. ΑΒ|
@@ -801,6 +801,8 @@ Phot. π 1394|βδελλύσσ-|βδελύσσομαι|Porson|1822|Σa+b Sud.|
 Phot. π 1421|-φθείρ-|παραφέρειν|Schleusner|1812|zpc et schol. Ar. et Sud.|Cur. nov. p. 374
 Phot. π 1539|-φθορὰ|διαφορὰ|Dindorf|1835|Sud. π 3173|ThGL. νοl. VI p. 2237C
 Phot. π 1550|-ραιν-|πύραυνος|Porson|1822|Eust. 1548.1|
+Phot. π 1580|-ρώνων|πυρῶν|Adamantios Korais|s.xviii/xix|Sud. π 3240|Eἰς μνήμην  ̓Aμάντου p. 296
+Phot. ρ 4|-ναιμ-|ἄνεμος|Johann Alberti|1766|Zavord. 95 (z)|Hesych. Lex. vol. II p. 1094, 25
 Pi. I. 6.87a schol.|-ειν/-ων|συντέμνει|Petros N. Papageorgiu|1880|codd.|
 Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|P.Berol. inv. 16367|
 Pi. O. 1 schol. Inscr. a|ογ΄|οϛ΄|Bergk|1878|P.Oxy. II 222|Poet. Lyr. i. p.4
