@@ -1,5 +1,5 @@
 # Database of Greek and Latin Conjectural Emendations Attested in MSS
-_A project of [Open Source by Tonkünstler-on-the-Bund](https://t18d.github.io/)_
+_a project of [Open Source by Tonkünstler-on-the-Bund](https://t18d.github.io/)_
 <preface> <!-- for sake of completeness -->
 
 &nbsp;  
@@ -9,28 +9,28 @@ _A project of [Open Source by Tonkünstler-on-the-Bund](https://t18d.github.io/)
     <summary>Bibliography</summary>
     <h3>Methodology</h3>
     <ul>
-        <li>James, Patrick, review of <em>The Oxyrhynchus Papyri. Volume LXXXI</em>, in <em>The Classical Review</em>, 68/2 (2018), 395-8 at 396.</li>
+        <li>James, Patrick, review of <em>The Oxyrhynchus Papyri. Volume LXXXI</em>, in <em>The Classical Review</em>, 68/2 (2018), 395–8 at 396.</li>
     </ul>
     <h3>Sources</h3>
     <ul>
-        <li>P.Oxy. I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XV, XVII, XIX, XX, XXII, XXIV, XXVI, XXVII, XXXII, XXXVIII, XLI, XLII, XLIV, XLV, XLIX, LXXXI</li>
+        <li>P.Oxy. I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XV, XVII, XIX, XX, XXII, XXIV, XXVI, XXVII, XXXII, XXXVIII, XLI, XLII, XLIV, XLV, XLVII, XLIX, LXXXI</li>
         <li>Borges, Cassandra, and C. Michael Sampson, <em>New literary papyri from the Michigan collection: mythographic lyric and a catalogue of poetic first lines</em> (Ann Arbor, 2012), 20.</li>
         <li>Callimachus, <em>Fragmenta</em>, ed. Rudolf Pfeiffer (Oxford, 1949).</li>
         <li>Callimachus, <em>Hymni et Epigrammata</em>, ed. Rudolf Pfeiffer (Oxford, 1953).</li>
         <li>Callimachus, <em>The Hymns</em>, ed. Susan A. Stephens (Oxford, 2015).</li>
         <li>Chariton Aphrodisiensis, <em>De Callirhoe Narrationes Amatoriae</em>, ed. B. P. Reardon (Munich, 2004).</li>
-        <li>Diggle, James, 'Apologies to Bothe (and Others)', in <em>Euripidea: collected essays</em> (Oxford, 1994), 518-23.</li>
+        <li>Diggle, James, 'Apologies to Bothe (and Others)', in <em>Euripidea: collected essays</em> (Oxford, 1994), 518–23.</li>
         <li>El-Maghrabi, M. G., and C. Römer (eds), <em>Texts from the "Archive" of Socrates, the Tax Collector, and Other Contexts at Karanis (P. Cair. Mich. II)</em> (Berlin, 2015), 48.</li>
-        <li>Euripides, <em>Fabulae</em>, ed. J. Diggle, 3 vols (Oxford, 1984-94).</li>
-        <li>Finglass, P. J., 'Unpublished conjectures at Leiden on the Greek dramatists', <em>Greek, Roman and Byzantine Studies</em>, 49/2 (2009), 187-221.</li>
-        <li>Finglass, P. J., 'Unpublished Conjectures on Sophocles by Jeremiah Markland', <em>Greek, Roman, and Byzantine Studies</em>, 51/2 (2011), 232-8.</li>
+        <li>Euripides, <em>Fabulae</em>, ed. J. Diggle, 3 vols (Oxford, 1984–94).</li>
+        <li>Finglass, P. J., 'Unpublished conjectures at Leiden on the Greek dramatists', <em>Greek, Roman and Byzantine Studies</em>, 49/2 (2009), 187–221.</li>
+        <li>Finglass, P. J., 'Unpublished Conjectures on Sophocles by Jeremiah Markland', <em>Greek, Roman, and Byzantine Studies</em>, 51/2 (2011), 232–8.</li>
         <li>Finglass, Patrick J. 'Il valore dei papiri per la critica testuale di Sofocle', in <em><a href="https://library.oapen.org/bitstream/handle/20.500.12657/55124/9788866553878.pdf">Il valore dei papiri per la critica testuale di Sofocle</a></em> (Florence, 2013), 33-51.</li>
-        <li>Finglass, P. J. 'Editions of Sappho since the Renaissance', in <em>The Cambridge Companion to Sappho</em> (Cambridge, 2021), 247-59 at 255.</li>
-        <li>Gerber, Douglas E. '<a href="https://doi.org/10.5169/seals-660688">Emendations in the Odes of Pindar: An Historical Analysis</a>', <em>Entretiens Hardt</em>, 31 (1984), 1-25.</li>
-        <li>Grenfell, B. P., 'The Value of Papyri for the Textual Criticism of Extant Greek Authors', <em>The Journal of Hellenic Studies</em>, 39 (1919), 16-36.</li>
-        <li>Herodotus, <em>Historiae</em>, ed. Haiim B. Rosén, 2 vols (Leipzig, 1987-97).</li>
+        <li>Finglass, P. J. 'Editions of Sappho since the Renaissance', in <em>The Cambridge Companion to Sappho</em> (Cambridge, 2021), 247–59 at 255.</li>
+        <li>Gerber, Douglas E. '<a href="https://doi.org/10.5169/seals-660688">Emendations in the Odes of Pindar: An Historical Analysis</a>', <em>Entretiens Hardt</em>, 31 (1984), 1–25.</li>
+        <li>Grenfell, B. P., 'The Value of Papyri for the Textual Criticism of Extant Greek Authors', <em>The Journal of Hellenic Studies</em>, 39 (1919), 16–36.</li>
+        <li>Herodotus, <em>Historiae</em>, ed. Haiim B. Rosén, 2 vols (Leipzig, 1987–97).</li>
         <li>Herodotus, <em>Historiae</em>, ed. N. G. Wilson, 2 vols (Oxford, 2015).</li>
-        <li>Homerus, <em>Ilias</em>, ed. Martin L. West, 2 vols (Munich, 1998-2000).</li>
+        <li>Homerus, <em>Ilias</em>, ed. Martin L. West, 2 vols (Munich, 1998–2000).</li>
         <li>Homerus, <em>Odyssea</em>, ed. Martin L. West (Berlin, 2017).</li>
         <li>Kannicht, Richard (ed.), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, v: <em>Euripides</em> (Göttingen, 2004).</li>
         <li>Kassel, R., and C. Austin (eds), <em>Poetae comici Graeci (PCG)</em>, iv: <em>Aristophon — Crobylus.</em> (Berlin, 1983).</li>
@@ -44,12 +44,13 @@ _A project of [Open Source by Tonkünstler-on-the-Bund](https://t18d.github.io/)
         <li>Kenyon, Frederic George, <em>The Evidence of Greek Papyri with Regard to Textual Criticism</em> (London, 1904).</li>
         <li>Krans-Plaisier, Jan, '<a href="http://vuntblog.blogspot.com/2023/12/amsterdam-database-conjectures-with.html">Amsterdam Database: Conjectures with Attestation</a>', the Amsterdam NT Weblog (2 Dec. 2023), accessed 14 Dec. 2023.</li>
         <li>Markus, D., and G. Schwendner, 'Seneca’s Medea in Egypt (663–704)', <em>ZPE</em>, 117 (1997), 73–84.</li>
+        <li>Photius, <em>Patriarchae lexicon</em>, ed. Christos Theodoridis, 3 vols (Berlin, 1982–).</li>
         <li>Radt, Stefan (ed.), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, iii: <em>Aeschylus</em> (Göttingen, 1985).</li>
         <li>Radt, Stefan (ed.), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, iv: <em>Sophocles</em> (2nd edn, Göttingen, 1999).</li>
         <li>Snell, Bruno, and Richard Kannicht (eds), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, i: <em>Didascaliae tragicae; Catalogi tragicorum et tragoediarum; Testimonia et fragmenta tragicorum minorum</em> (Göttingen, 1986).</li>
-        <li>Sommerstein, Alan H., 'The history of the text of Aristophanes', in <em>Brill's Companion to the Study of Greek Comedy</em> (Brill, 2010), 399-422 at 412n69.</li>
-        <li>Thucydides, <em>Historiae</em>, ed. Ioannes Baptista Alberti, 3 vols (Rome, 1972-2000).</li>
-        <li>Wilson, N. G., <em>Herodotea: studies on the text of Herodotus</em> (Oxford, 2015), xii-xiii.</li>
+        <li>Sommerstein, Alan H., 'The history of the text of Aristophanes', in <em>Brill's Companion to the Study of Greek Comedy</em> (Brill, 2010), 399–422 at 412n69.</li>
+        <li>Thucydides, <em>Historiae</em>, ed. Ioannes Baptista Alberti, 3 vols (Rome, 1972–2000).</li>
+        <li>Wilson, N. G., <em>Herodotea: studies on the text of Herodotus</em> (Oxford, 2015), xii–xiii.</li>
     </ul>
 </details>
 
