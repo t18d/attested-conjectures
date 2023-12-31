@@ -59,7 +59,7 @@ _a project of [Open Source by Tonkünstler-on-the-Bund](https://t18d.github.io/)
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (69), Porson (50), Markland (50), Adamantios Korais (36), Cobet (35), Reiske (34), Elmsley (27), Naber (25), Beza (25), Brunck (24), Hermann (24), Bentley (24) and K. W. Krüger (24) (tied).</p>
+<p>The top 10 critics are Valckenaer (69), Porson (51), Markland (50), Adamantios Korais (36), Cobet (35), Reiske (34), Elmsley (27), Naber (25), Beza (25), Brunck (24), Hermann (24), Bentley (24) and K. W. Krüger (24) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1034,7 +1034,12 @@ Theoc. 14.29|οὖν|ων|Brunck|1772–6|P.Ant. III 207 (Pa)|
 Theoc. 15.7|ἐμ'|αιεν|Sitzler|n.d.|P.Ant. III 207 (Pa)|
 Theoc. 15.25|εἶπες/εἶπας καὶ|εἴπαις αν|Toup|n.d.|P.Ant. III 207 (Pa)|
 Theoc. 15.37|προτέθεικα|ποτέθηκα|Valckenaer|n.d.|P.Ant. III 207 (Pa)|
-Theoc. 15.98|σπέρχιν/πέρχην|πέρυσιν|Reiske|s.xviii ex.|P.Oxy. XIII 1618|πέρυ]σιν
+Theoc. 15.41|-ρυε|δάκρυ ̓|Porson|n.d.|P.Hamb. III 201 (Pg)|
+Theoc. 15.51|-νοίμ-|γενώμεθα|G. H Schaefer|n.d.|P.Ant. III 207 (Pa)|
+Theoc. 15.59|ἄμμιν|ἁμὶν|H. L. Ahrens|1855|P.Ant. III 207 (Pa)|
+Theoc. 15.98|σπέρχιν/πέρχην|πέρυσιν|Reiske|s.xviii ex.|P.Oxy. XIII 1618 (Pu) et P.Ant. III 207 (Pa)|πέρυ]σιν
+Theoc. 15.100|-λασας|ἐφίλησας|H. L. Ahrens|1855|P.Ant. III 207 (Pa)|
+Theoc. 15.105|φοροῖσαι κτλ.|φέροισαι|Hemsterhuis|n.d.|P.Ant. III 207 (Pa)|
 Theoc. 18.25|τ. οὐδ ̓ ἄν τις|τᾶν οὐδ ̓ ἅτις|H. L. Ahrens|1855|P.Oxy. L 3552|
 Theoc. 22.40|πεφύκασιν|πεφυκεσαν|Henri Estienne|1566|P.Oxy. XV 1806|
 Theognost. p. 38, 22|ἔαϲιν|ἐωϲιν|Dindorf|1864|cod. Barocc.|Thes.L.Gr. I/2 p. 9 C
