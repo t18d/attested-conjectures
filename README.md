@@ -57,7 +57,7 @@ _A project of [Open Source by Tonkünstler-on-the-Bund](https://t18d.github.io/)
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (68), Porson (50), Markland (50), Adamantios Korais (35), Reiske (34), Cobet (33), Elmsley (27), Beza (25), Bentley (24), Naber (24) and K. W. Krüger (24) (tied).</p>
+<p>The top 10 critics are Valckenaer (68), Porson (50), Markland (50), Adamantios Korais (36), Cobet (35), Reiske (34), Elmsley (27), Naber (25), Beza (25), Bentley (24) and K. W. Krüger (24) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -859,6 +859,11 @@ Phot. υ 137|μύ-|μισθοὺς|Adamantios Korais|s.xviii/xix|Zen. Ath. + vul
 Phot. υ 163|ὑπ ̓ ἠοῖ|ὑπηοίη|Naber|1865|Hsch. υ 542|
 Phot. υ 164|ὑφ ̓|ἐφ ̓|Porson|1822|Sud. cod. A|
 Phot. υ 241|ὑπὸ|ἀπὸ|Konstantinos Kontos|1877|Sud. codd. GM|Παρνασσός 1 (1877) 736
+Phot. υ 299|ἐραντίθην|ἐρραντίσθην|Naber|1865|zpc|
+Phot. φ 29|τῆινεῶι|ἐπὶ τῆς νεὼς|Adamantios Korais|s.xviii/xix|z Sud. Et.Gen. AB|Eἰς μνήμην  ̓Aμάντου p. 298
+Phot. φ 69|ἀποστ-|ἀπατήσας|Dindorf|1835|Cyr. φ 28|ThGL. νοl. VIII p.656D
+Phot. φ 143|-θεῖν-|φθῆναι|Cobet|1858|Σa Sud. codd. AGFM etc.|Mnem. 7 (1858) 478
+Phot. φ 144|φθείσ-|φθήσεται|Cobet|1858|Σa+b Sud. etc.|Mnem. 7 (1858) 478
 Pi. I. 6.87a schol.|-ειν/-ων|συντέμνει|Petros N. Papageorgiu|1880|codd.|
 Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|P.Berol. inv. 16367|
 Pi. O. 1 schol. Inscr. a|ογ΄|οϛ΄|Bergk|1878|P.Oxy. II 222|Poet. Lyr. i. p.4
