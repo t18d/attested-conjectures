@@ -308,7 +308,7 @@ Eur. Hec. 1215|-νῶι|καπνὸς|Canter|n.d.|Kγρ|
 Eur. Hel. 135|οὔ πω vel ἦ που|οὔ που|P. P. Dobree|n.d.|Laur. 32.3 (L)|
 Eur. Hel. 634|χεῖρας|χέρας|Elmsley|n.d.|P.Oxy. XXII 2336|
 Eur. Heracl. 837|-ῃ|μάχη|Elmsley|n.d.|Laur. 32.3 (L)|
-Eur. Hipp. 71-72|ὄπαρθένων ἄρτεμι|ὄλυμπον|Nauck|n.d.|Laur. 31.10 (O)|
+Eur. Hipp. 71–72|ὄπαρθένων ἄρτεμι|ὄλυμπον|Nauck|n.d.|Laur. 31.10 (O)|
 Eur. Hipp. 364|σὰν|σᾶν|Elmsley|n.d.|Paris. gr. 2713 (B)|
 Eur. Hipp. 378|κάκιον|κακίον'|Henrik van Herwerden|n.d.|cod. Oxon. Cyrilli Alex.|Exerc. crit. (1862) 135
 Eur. Hipp. 480|τἄρα γ᾽|τἄρ᾽ ἂν|Brunck|n.d.|Hc|
@@ -547,12 +547,12 @@ Eur. Ph. 1501|ἀνακαλέσομαι|ἀγκαλέσωμαι|Henrik van Herwe
 Eur. Ph. 1502|τάδε σώματα|τάδ᾽ αἵματα|Markland|n.d.|Wc|
 Eur. Ph. 1502|τάδε σώματα|τάδ᾽ αἵματα|Samuel Musgrave|n.d.|Wc|
 Eur. Ph. 1508|πάτερ|del.|Hermann|n.d.|P.Strasb. inv. WG 307|
-Eur. Ph. 1520-1|ἀεὶ|αἰεὶ|Seidler|n.d.|Cremon. 130 (Cr)|
-Eur. Ph. 1522-3|-οισι(ν)|λειβομένοισιν|Bothe|1803|P.Strasb. inv. WG 307|
-Eur. Ph. 1522-3|ἰαχήσω|del.|Burges|n.d.|P.Strasb. inv. WG 307|
-Eur. Ph. 1522-3|ἰαχήσω|del.|Dindorf|n.d.|P.Strasb. inv. WG 307|
+Eur. Ph. 1520–1|ἀεὶ|αἰεὶ|Seidler|n.d.|Cremon. 130 (Cr)|
+Eur. Ph. 1522–3|-οισι(ν)|λειβομένοισιν|Bothe|1803|P.Strasb. inv. WG 307|
+Eur. Ph. 1522–3|ἰαχήσω|del.|Burges|n.d.|P.Strasb. inv. WG 307|
+Eur. Ph. 1522–3|ἰαχήσω|del.|Dindorf|n.d.|P.Strasb. inv. WG 307|
 Eur. Ph. 1524|-οῖσιν|σπαραγμοῖς|Aldina|n.d.|WZ|
-Eur. Ph. 1537-8|δ. δύστανον|δεμνίοις δύστανος|Valckenaer|n.d.|Laur. 32.2 (L)|
+Eur. Ph. 1537–8|δ. δύστανον|δεμνίοις δύστανος|Valckenaer|n.d.|Laur. 32.2 (L)|
 Eur. Ph. 1562|γ'|δ'|Jackson|n.d.|Laur. 32.33 (Rf)|
 Eur. Ph. 1562|δ'|τ'|Dindorf|n.d.|Laur. 32.33 (Rf)|
 Eur. Ph. 1626|δὲ|τε|Markland|n.d.|Haun. 3549 (Zc)|
@@ -583,7 +583,7 @@ Eur. Rh. 855|-ᾶ(ι)|μηχαναὶ|Samuel Musgrave|n.d.|Et.Gen. B|
 Eur. Rh. 883|ἄγει/ἄγοι|ἀνάγει|Benjamin Heath|n.d.|Ambros. F 205 inf. (Af)|
 Eur. Rh. (a) 8|ἀπ-|ὑπέστρεφον|Schwartz|n.d.|Palat. gr. 98 (Va)|
 Eur. Supp. 1150|-ῶν|δαναϊδᾶν|Elmsley|n.d.|Triclinii emendatio 1|
-Eur. T 1.IA.2-3|ἑταῖρος δὲ δοκεῖ|ἑταῖρος. δοκεῖ δὲ|Elmsley|1821|RwZc|
+Eur. T 1.IA.2–3|ἑταῖρος δὲ δοκεῖ|ἑταῖρος. δοκεῖ δὲ|Elmsley|1821|RwZc|
 Eur. Tr. 578|ἰώ μοι μοὶ|οἴμοι|Burges|n.d.|Σ|
 Eur. Tr. 633|τ. δ'|τῶι μὲν|Burges|n.d.|Stob. Spc|
 Eur. Tr. 802|-νας|᾿Αθάνα|Aldina|n.d.|Σi|
@@ -593,7 +593,7 @@ Eur. Tr. 1076|σὺν δ'|συνδώδεκα|Joshua Barnes|n.d.|Palat. gr. 98 (V
 Eur. Tr. 1234|-ίσει|φροντιεῖ|A. Matthiae|n.d.|Chr. Pat. 1383|
 Eur. Tr. 1277|ἀμ-|ἐμπνέουϲ᾽|Wakefield|n.d.|q et Chr. Pat. 1704|
 Eur. Tr. 1306|κρύπτουσα|κτυποῦσα|Samuel Musgrave|n.d.|Σ|
-Eur. fr. 119+120.6|πατρος|πάτρας|Heinrich Düntzer|1850|P.Oxy. XXXII 2628|Philologus 5 (1850) 186
+Eur. fr. 119 + 120.6|πατρος|πάτρας|Heinrich Düntzer|1850|P.Oxy. XXXII 2628|Philologus 5 (1850) 186
 Eur. fr. 495.42|τῶν τέχνων|τω]ν κενων|Conrad Gesner|1543|BKT V/II 5514|
 Eur. fr. 588.3|οὐδὲν|οὐδέν᾽|Grotius|1623|Diog. Laert. Bc|
 Eur. fr. 653.4|ἄρα καί|χρῆν|Nauck|1855|P.Oxy. XLV 3214|Obs. 45 sq.
@@ -705,7 +705,7 @@ Nonn. Dion. 15.112|ἐλαίης|Ἀθήνης|Köchly|n.d.|P.Berol. inv. 10567|
 Nonn. Dion. 15.165|Βάκχοιο|Γλαύκοιο|Falkenburg|n.d.|P.Berol. inv. 10567|
 Nonn. Dion. 15.165|μαχητάς|μαχηταῖς|Köchly|n.d.|P.Berol. inv. 10567|
 Opp. C. 4.208|ἐρυϲϲάμενοι|ερειϲάμεν[οι|Johannes Pierson|1752|P.Oxy. LXXXI 5278|
-Orac. Sib. 516-517|516, 517|517, 516|Geffcken|n.d.|P.Flor. 398|
+Orac. Sib. 516–517|516, 517|517, 516|Geffcken|n.d.|P.Flor. 398|
 P.Giss. 50.34|[|Σαλωνείνου Οὐαλεριανοῦ|Paul M. Meyer|1910|P.Oxy. X 1273|
 P.Lond. 256 recto(e) 10|[|ἀποχήν|Wilcken|1906|P.Oxy. VII 1024|χιρογρα̣φιαν Kenyon
 P.Lond. II 214.20|]νγραφα|ἔνγραφα|Wilcken|1901|P.Oxy. VIII 1121|συνγραφα Kenyon
@@ -994,9 +994,9 @@ Soph. fr. 871|εὐγενεστ-|εὐπρεπεστάτη|Ritschl|1829|Plu. 5.5
 Soph. fr. 945.1|-πώρων|ταλαίπωρον|Conrad Gesner|1543|Stob. MA/Apostol. plerique codd.|
 Soph. fr. 945.2|εἰκ-|ἐοικότες|Conrad Gesner|1543|codd.|
 Soph. fr. 961|ὑπερπ-|ὑπεκπηδᾷ|Henrik van Herwerden|1855|Stob. 1.3.7|Observ. 129 (diss. Leiden)
-Sor. Gyn. 2-3|Ἀθηναίων|Ἀθηνίων|Wellmann|n.d.|PSI II 117|
-Sor. Gyn. 2-3|τῆς αἱρέσεως|τῶν περὶ τ. α.|Rose|n.d.|PSI II 117|
-Sor. Gyn. 2-3|Ζήνωνα ... Ἀριστοτέλην τὸν Ἐπικούριον|Ἀ. ... Ζ. τ. Ἐ.|Ermerins|n.d.|PSI II 117|
+Sor. Gyn. 2–3|Ἀθηναίων|Ἀθηνίων|Wellmann|n.d.|PSI II 117|
+Sor. Gyn. 2–3|τῆς αἱρέσεως|τῶν περὶ τ. α.|Rose|n.d.|PSI II 117|
+Sor. Gyn. 2–3|Ζήνωνα ... Ἀριστοτέλην τὸν Ἐπικούριον|Ἀ. ... Ζ. τ. Ἐ.|Ermerins|n.d.|PSI II 117|
 St.Byz. Δ 40|δειδείχ-/δεδείχ-|δειδέχαται|Bentley|1693|RVΠ|
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
@@ -1026,6 +1026,7 @@ Synag. 353.9|ἀτη-|ἀτειρής|Friedrich Wilhelm Wagner|1852|Phot. α 474
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
 Theoc. 2.35–36a schol.|-δρομος|πρόδομος|Samuel Butler|1816|Bodl. Can. gr. 86 (Gaisford)|
 Theoc. 15.98|σπέρχιν/πέρχην|πέρυσιν|Reiske|s.xviii ex.|P.Oxy. XIII 1618|πέρυ]σιν
+Theoc. 18.25|||Ahrens||P.Oxy. L 3552|
 Theoc. 22.40|πεφύκασιν|πεφυκεσαν|Henri Estienne|1566|P.Oxy. XV 1806|
 Theognost. p. 38, 22|ἔαϲιν|ἐωϲιν|Dindorf|1864|cod. Barocc.|Thes.L.Gr. I/2 p. 9 C
 Theopomp.Com. fr. 73|om.|ὃς|F. J. Bast|1811|Phot. α 632|ap. Schaefer, Greg. Cor. p. 511
@@ -1238,7 +1239,7 @@ Xen. Oec. 9.2|ἑκάστῳ|ἐν ἑκάστῳ|Schneider|n.d.|P.Oxy. II 227|
 Zen. 4.80|-ω|Δακτύλων|Andreas Schott|1612|Angel. et Marc. et Paris.|
 [Epich.] fr. 272|πειρ-|θηράσεται|Theodor Kock|1884|P.Petr. I 3(1)|CAF II p. 509
 [Hdn.] Philet. 210|κυν-|κινάραν|Nauck|1889|Q|
-[Hdn.] Π. ἡμαρτ. λέξ. 24|-αι/κατέδεσθαι|καταδέχεσθε|Meineke|1839-57|S|
+[Hdn.] Π. ἡμαρτ. λέξ. 24|-αι/κατέδεσθαι|καταδέχεσθε|Meineke|1839–57|S|
 Matt 5:13 [22]|μωρανθῇ|μαρανθῇ|Naber|1881||[cj10730](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10730)
 Matt 5:19 [58]|οὗτος μέγας|οὕτως, μέγας|Markland|1739||[cj11195](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11195)
 Matt 5:45 [20]|ὅτι|ὅστις|Beza|1556||[cj11200](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11200)
