@@ -1040,12 +1040,14 @@ Theoc. 15.59|ἄμμιν|ἁμὶν|H. L. Ahrens|1855|P.Ant. III 207 (Pa)|
 Theoc. 15.98|σπέρχιν/πέρχην|πέρυσιν|Reiske|s.xviii ex.|P.Oxy. XIII 1618 (Pu) et P.Ant. III 207 (Pa)|πέρυ]σιν
 Theoc. 15.100|-λασας|ἐφίλησας|H. L. Ahrens|1855|P.Ant. III 207 (Pa)|
 Theoc. 15.105|φοροῖσαι κτλ.|φέροισαι|Hemsterhuis|n.d.|P.Ant. III 207 (Pa)|
-Theoc. 15.145|-ώτερον|σοφώτατον|Hartung|n.d.|P.Ant. III 207 (Pa)|]τον
+Theoc. 15.145|-ώτερον|σοφώτατον|J. A. Hartung|n.d.|P.Ant. III 207 (Pa)|]τον
 Theoc. 17.74|-οῖο/-οῖου|αἰδοῖοι|Casaubon|n.d.|P.Ant. III 207 (Pa)|
 Theoc. 18.25|τ. οὐδ ̓ ἄν τις|τᾶν οὐδ ̓ ἅτις|H. L. Ahrens|1855|P.Oxy. L 3552|
 Theoc. 18.48|-βου|σέβευ|C. W. Ahlwardt|n.d.|Pa1|
 Theoc. 22.8|-νοῦ ἐξα-|οὐρανὸν εἰσανιόντα|Meineke|n.d.|P.Ant. III 207 (Pa)|]σανιοντα
 Theoc. 22.40|πεφύκασιν|πεφυκεσαν|Guillaume Morel|1561|P.Oxy. XV 1806 (Pi)|
+Theoc. 24.56|συμπ-|ἐκπλήγδην|J. A. Hartung|n.d.|P.Ant. III 207 (Pa)|
+Theoc. 24.69|ἐμὲ|με|C. F. Graefe|n.d.|P.Ant. III 207 (Pa)|
 Theognost. p. 38, 22|ἔαϲιν|ἐωϲιν|Dindorf|1864|cod. Barocc.|Thes.L.Gr. I/2 p. 9 C
 Theopomp.Com. fr. 73|om.|ὃς|F. J. Bast|1811|Phot. α 632|ap. Schaefer, Greg. Cor. p. 511
 Thuc. 1.2.6|μετοικίας ἐς|μετοικεσίας|F. W. Ullrich|1862|γρH2|Beitr. z. Erkl. p. 174
