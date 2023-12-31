@@ -59,7 +59,7 @@ _a project of [Open Source by Tonkünstler-on-the-Bund](https://t18d.github.io/)
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (68), Porson (50), Markland (50), Adamantios Korais (36), Cobet (35), Reiske (34), Elmsley (27), Naber (25), Beza (25), Bentley (24) and K. W. Krüger (24) (tied).</p>
+<p>The top 10 critics are Valckenaer (69), Porson (50), Markland (50), Adamantios Korais (36), Cobet (35), Reiske (34), Elmsley (27), Naber (25), Beza (25), Brunck (24), Hermann (24), Bentley (24) and K. W. Krüger (24) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1028,6 +1028,12 @@ Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
 Theoc. 2.35–36a schol.|-δρομος|πρόδομος|Samuel Butler|1816|Bodl. Can. gr. 86 (Gaisford)|
 Theoc. 2.82|μοι περὶ|μεῦ πυρὶ|Walter Taylor|1821|P.Ant. III 207 (Pa)|apud Briggs; μ]ευ
 Theoc. 2.155|ἄλλοτ'|ἄλλοκ ̓|Brunck|1772–6|P.Ant. III 207 (Pa)|
+Theoc. 7.7|εὖ γ ̓|εὖ|Hermann|n.d.|P.Oxy. 2064 (Po)|
+Theoc. 14.13|Ἆπις|Ἆγις|Meineke|n.d.|P.Ant. III 207 (Pa)|
+Theoc. 14.29|οὖν|ων|Brunck|1772–6|P.Ant. III 207 (Pa)|
+Theoc. 15.7|ἐμ'|αιεν|Sitzler|n.d.|P.Ant. III 207 (Pa)|
+Theoc. 15.25|εἶπες/εἶπας καὶ|εἴπαις αν|Toup|n.d.|P.Ant. III 207 (Pa)|
+Theoc. 15.37|προτέθεικα|ποτέθηκα|Valckenaer|n.d.|P.Ant. III 207 (Pa)|
 Theoc. 15.98|σπέρχιν/πέρχην|πέρυσιν|Reiske|s.xviii ex.|P.Oxy. XIII 1618|πέρυ]σιν
 Theoc. 18.25|τ. οὐδ ̓ ἄν τις|τᾶν οὐδ ̓ ἅτις|H. L. Ahrens|1855|P.Oxy. L 3552|
 Theoc. 22.40|πεφύκασιν|πεφυκεσαν|Henri Estienne|1566|P.Oxy. XV 1806|
