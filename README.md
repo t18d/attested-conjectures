@@ -922,6 +922,8 @@ Soph. Aj. 135|-άλου|ἀγχίαλον|Bothe|n.d.|Laur. 32.40 (H)|
 Soph. Aj. 146|λοιπή|κοινή|Henrik van Herwerden|n.d.|Gγρ|
 Soph. Aj. 181|μαχαναῖς|μη-|G. Wolff|n.d.|Laur. 32.40 (H)|
 Soph. Aj. 211|δορι-/δορυ-|δουριάλωτον|Brunck|n.d.|Livineii 'V'|
+Soph. Aj. 230|παραπλήκτῳ|-άκτῳ|Frederick H. M. Blaydes|n.d.|H s.l.|
+Soph. Aj. 369|ἐκνεμῇ|-εῖς|Frederick H. M. Blaydes|n.d.|KpcD|
 Soph. Aj. 378|ἔχειν|ἔχῃ|Valckenaer|pre-1775|Paris. gr. 2735 (C)|
 Soph. Aj. 560|ὑβρίσῃ|ὑβρίσει|Valckenaer|1743-6|MS|
 Soph. Aj. 756||ἐθ’|Markland|s.xviii med.|MS|
