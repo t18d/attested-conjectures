@@ -1,3 +1,9 @@
+---
+title: Textual Criticism and the Transmission of Latin Texts
+description: A bibliography composed with the needs of graduate students in mind
+author: James Zetzel
+locale: en_US
+---
 # Textual Criticism and the Transmission of Latin Texts
       
 **A bibliography composed with the needs of graduate students in mind**
