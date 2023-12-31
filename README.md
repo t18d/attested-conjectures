@@ -722,6 +722,8 @@ Philo Ebr. 11|om.|τοῦ|Richter|n.d.|P.Oxy. IX 1173|[τ]ο̣υ
 Philo Ebr. 221|ἐπειδάν|ἐπειδάν δ'|Wendland|1897|P.Oxy. IX 1173|
 Philo Ebr. 221|οἰνηρεύσεις|οινηρυσει[ς|Turnebus|n.d.|P.Oxy. IX 1173|
 Philo Ebr. 222|μαρμάζει|μαιμᾷ|Mangey|n.d.|P.Oxy. IX 1173|μαιμαῑ
+Philox.Gramm. 129.6|Νικωχάρι/Νικοχάρις|Νικοχάρης|Hemsterhuis|s.xviii in.|D R|
+Philox.Gramm. 505.3|ἴσθι|εἰς θι|Friedrich Sylburg|s.xvi ex.|Marc. 304 (B)|
 Phot. α 151|ἀγενὲς|ἀγεννὲς|Jan van Leeuwen|1907|cod. Zavord. 95 (z)|Mnem. 35 (1907) 253
 Phot. α 163|οἵους|ἰοῦσ'|David Ruhnken|n.d.|schol. Eur.|
 Phot. α 448|ἄμπελον|ἄπεπλον|Leo|1907|Zavord. 95 (z)|Hermes 42, 1907, 153/4 = Kl. Schr. 2,409
