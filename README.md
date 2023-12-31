@@ -673,6 +673,7 @@ Men. Asp. 194|δ’ ειμαι vel δειμαι|δ’ ει με|Kassel|1969|P.Ox
 Men. Asp. 394|-ως|ασμενος|M. L. West|1966|B|Philologus 110 (1966) 157
 Men. Epit. 227|δέ|δή|Wilamowitz|1925|P.Oxy. XXXVIII 2829|
 Men. Epit. 385|ϲτριφνοϲ|ϲτιφ[ρο]ϲ̣[|Sandbach|1972|P.Oxy. LX 4022|
+Men. Epit. 795|πλείονα οἶδεν˙ πλείονα κακουργεῖ˙ αἰσχύνεται|πλείονα πανουργεῖ˙ πλείον’ οἶδ’˙ αἰσχύνεται|P. P. Dobree|1843|P.Oxy. L 3532 + 3533|
 Men. Epit. 897|συγγν[..]ης [..]ρος|συγγν[ώμ]ης [μέ]ρος|Jan van Leeuwen|1908|P.Oxy. X 1236|
 Men. Her. fr. 2.2|δὲ δεῖ|δεῖ|Guil. Morelius|1553|P.Bour. 1|
 Men. Kol. 50|νῦν|νυνί|Grotius|s.xvii in.|P.Oxy. III 409|Eust.1833.58.; G. apud Clericum
