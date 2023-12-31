@@ -59,7 +59,7 @@ _a project of [Open Source by Tonkünstler-on-the-Bund](https://t18d.github.io/)
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (69), Porson (51), Markland (50), Adamantios Korais (36), Cobet (35), Reiske (34), Elmsley (27), Hermann (25), Naber (25) and Beza (25).</p>
+<p>The top 10 critics are Valckenaer (69), Porson (51), Markland (50), Adamantios Korais (36), Cobet (35), Reiske (34), Elmsley (27), Hermann (26), Naber (25) and Beza (25).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1042,7 +1042,7 @@ Theoc. 15.100|-λασας|ἐφίλησας|H. L. Ahrens|1855|P.Ant. III 207 (Pa
 Theoc. 15.105|φοροῖσαι κτλ.|φέροισαι|Hemsterhuis|n.d.|P.Ant. III 207 (Pa)|
 Theoc. 15.145|-ώτερον|σοφώτατον|J. A. Hartung|n.d.|P.Ant. III 207 (Pa)|]τον
 Theoc. 17.74|-οῖο/-οῖου|αἰδοῖοι|Casaubon|n.d.|P.Ant. III 207 (Pa)|
-Theoc. 18.25|τ. οὐδ ̓ ἄν τις|τᾶν οὐδ ̓ ἅτις|H. L. Ahrens|1855|P.Oxy. L 3552|
+Theoc. 18.25|τ. οὐδ ̓ ἄν τις|τᾶν οὐδ ̓ ἅτις|H. L. Ahrens|1855|P.Oxy. L 3552 (Op)|
 Theoc. 18.48|-βου|σέβευ|C. W. Ahlwardt|n.d.|Pa1|
 Theoc. 22.8|-νοῦ ἐξα-|οὐρανὸν εἰσανιόντα|Meineke|n.d.|P.Ant. III 207 (Pa)|]σανιοντα
 Theoc. 22.40|πεφύκασιν|πεφυκεσαν|Guillaume Morel|1561|P.Oxy. XV 1806 (Pi)|
@@ -1050,6 +1050,9 @@ Theoc. 24.56|συμπ-|ἐκπλήγδην|J. A. Hartung|n.d.|P.Ant. III 207 (Pa
 Theoc. 24.69|ἐμὲ|με|C. F. Graefe|n.d.|P.Ant. III 207 (Pa)|
 Theoc. 24.95|νέεσθαι|νεέσθω|Hermann|n.d.|P.Ant. III 207 (Pa)|
 Theoc. 24.116|-θι|τηλόθε|Frederick H. M. Blaydes|n.d.|P.Ant. III 207 (Pa)|
+Theoc. 26.28|τῶνδ ̓ ἐμόγησε|τῶνδε μογήσαι|H. L. Ahrens|1855|P.Ant. III 207 (Pa)|
+Theoc. 28.5|τὺ δὲ|τυίδε|Hermann|n.d.|P.Oxy. L 3551 (Ox)|
+Theoc. 30.30|βούλε-|βόλλεται|Wilamowitz|n.d.|P.Ant. III 207 (Pa)|βολλετα[
 Theognost. p. 38, 22|ἔαϲιν|ἐωϲιν|Dindorf|1864|cod. Barocc.|Thes.L.Gr. I/2 p. 9 C
 Theopomp.Com. fr. 73|om.|ὃς|F. J. Bast|1811|Phot. α 632|ap. Schaefer, Greg. Cor. p. 511
 Thuc. 1.2.6|μετοικίας ἐς|μετοικεσίας|F. W. Ullrich|1862|γρH2|Beitr. z. Erkl. p. 174
