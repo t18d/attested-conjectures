@@ -60,7 +60,7 @@ _a project of [Open Source by Tonkünstler-on-the-Bund](https://t18d.github.io/)
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (69), Porson (51), Markland (50), Adamantios Korais (36), Cobet (35), Reiske (34), Elmsley (27), Hermann (26), Naber (25) and Beza (25).</p>
+<p>The top 10 critics are Valckenaer (69), Porson (51), Markland (50), Adamantios Korais (36), Cobet (35), Reiske (34), Elmsley (28), Hermann (26), Brunck (25), Naber (25) and Beza (25) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -917,6 +917,11 @@ Sapph. fr. 44A.5|ἀεί|ἄϊ|H. L. Ahrens|1839-43|P.Sapph.Obbink|
 Sen. Med. 677|effudit|effundit|Nicolaus Heinsius|s.xviii med.|P.Mich. inv. 4969 fr. 36|H. had a public career.
 Simon. fr. 25|χεέτω|χείτω|M. L. West|1989|P.Oxy. LXXXI 5261|χέιτω is accented on papyrus.
 Simon. fr. 88|λεύχης|λέσχης|Henri Estienne|s.xvi ex.|P.Oxy. XI 1362|
+Soph. Aj. 98|ὥστ'|ὡς|Elmsley|n.d.|Paris. suppl. gr. 109 (Q)|
+Soph. Aj. 135|-άλου|ἀγχίαλον|Bothe|n.d.|Laur. 32.40 (H)|
+Soph. Aj. 146|λοιπή|κοινή|Henrik van Herwerden|n.d.|Gγρ|
+Soph. Aj. 181|μαχαναῖς|μη-|G. Wolff|n.d.|Laur. 32.40 (H)|
+Soph. Aj. 211|δορι-/δορυ-|δουριάλωτον|Brunck|n.d.|Livineii 'V'|
 Soph. Aj. 378|ἔχειν|ἔχῃ|Valckenaer|pre-1775|Paris. gr. 2735 (C)|
 Soph. Aj. 560|ὑβρίσῃ|ὑβρίσει|Valckenaer|1743-6|MS|
 Soph. Aj. 756||ἐθ’|Markland|s.xviii med.|MS|
