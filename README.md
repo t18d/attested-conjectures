@@ -1025,8 +1025,10 @@ Synag. 177.16|ἀωρὶ θανάτωι|ἀωροθάνατος|Dindorf|1835|Pho
 Synag. 353.9|ἀτη-|ἀτειρής|Friedrich Wilhelm Wagner|1852|Phot. α 474|
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
 Theoc. 2.35–36a schol.|-δρομος|πρόδομος|Samuel Butler|1816|Bodl. Can. gr. 86 (Gaisford)|
+Theoc. 2.82|μοι περὶ|μεῦ πυρὶ|Walter Taylor|1821|P.Ant. III 207 (Pa)|apud Briggs; μ]ευ
+Theoc. 2.155|ἄλλοτ'|ἄλλοκ ̓|Brunck|1772–6|P.Ant. III 207 (Pa)|
 Theoc. 15.98|σπέρχιν/πέρχην|πέρυσιν|Reiske|s.xviii ex.|P.Oxy. XIII 1618|πέρυ]σιν
-Theoc. 18.25|τ. οὐδ ̓ ἄν τις|τᾶν οὐδ ̓ ἅτις|H. L. Ahrens||P.Oxy. L 3552|
+Theoc. 18.25|τ. οὐδ ̓ ἄν τις|τᾶν οὐδ ̓ ἅτις|H. L. Ahrens|1855|P.Oxy. L 3552|
 Theoc. 22.40|πεφύκασιν|πεφυκεσαν|Henri Estienne|1566|P.Oxy. XV 1806|
 Theognost. p. 38, 22|ἔαϲιν|ἐωϲιν|Dindorf|1864|cod. Barocc.|Thes.L.Gr. I/2 p. 9 C
 Theopomp.Com. fr. 73|om.|ὃς|F. J. Bast|1811|Phot. α 632|ap. Schaefer, Greg. Cor. p. 511
