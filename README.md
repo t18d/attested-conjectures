@@ -1,9 +1,10 @@
 # Database of Greek and Latin Conjectural Emendations Attested in MSS
-_a project of [Open Source by Tonkünstler-on-the-Bund](https://t18d.github.io/)_
+<p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
 <preface> <!-- for sake of completeness -->
 
 &nbsp;  
-<p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>. The quickest way to get an addition or correction merged is to fork the repo, edit the CSV file and send in a pull request. Refer to <a href="https://github.com/t18d/attested-conjectures/wiki">project Wiki</a> on the formatting of entries. For changes relating to NT conjectures, please notify the upstream project, the <a href="https://ntvmr.uni-muenster.de/nt-conjectures-attribution">Amsterdam Database of NT Conjectures</a>.</p>
+&nbsp;  
+<p>This database is searchable as a <a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">CSV file</a>. The quickest way to get an addition or correction merged is to fork the repo, edit the CSV file and send in a pull request. Refer to <a href="https://github.com/t18d/attested-conjectures/wiki">project Wiki</a> for criteria and formatting. For changes relating to NT conjectures, please notify the upstream project, the <a href="https://ntvmr.uni-muenster.de/nt-conjectures-attribution">Amsterdam Database of NT Conjectures</a>.</p>
 &nbsp;  
 <details>
     <summary>Bibliography</summary>
