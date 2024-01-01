@@ -60,7 +60,7 @@ _a project of [Open Source by Tonkünstler-on-the-Bund](https://t18d.github.io/)
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (69), Porson (52), Markland (50), Adamantios Korais (36), Cobet (35), Reiske (34), Elmsley (30), Hermann (26), Brunck (25), Henrik van Herwerden (25), Naber (25) and Beza (25) (tied).</p>
+<p>The top 10 critics are Valckenaer (69), Porson (52), Markland (50), Adamantios Korais (36), Cobet (35), Reiske (35), Elmsley (31), Hermann (26), Brunck (25), Henrik van Herwerden (25), Naber (25) and Beza (25) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -936,11 +936,13 @@ Soph. Aj. 503|οἵας λατρείας|οἵαν -αν|Frederick H. M. Blaydes
 Soph. Aj. 560|ὑβρίσῃ|ὑβρίσει|Valckenaer|1743-6|MS|
 Soph. Aj. 687|θ'|δ'|Frederick H. M. Blaydes|n.d.|Laur. 28.25 (F)|
 Soph. Aj. 727|ὡς|ὥς τ ̓|Samuel Musgrave|n.d.|KF|
-Soph. Aj. 756||ἐθ’|Markland|s.xviii med.|MS|
-Soph. Aj. 773|τότ'/ὅδ'|τόδ|Johannes Pierson|s.xviii med.|Laur. 32.40 (H)|
-Soph. Aj. 773|τότ'/ὅδ'|τόδ|Samuel Musgrave|s.xviii med.|Laur. 32.40 (H)|
-Soph. Aj. 842||ἐκγόνων τ’|Markland|s.xviii med.|MSS|
-Soph. Aj. 842||ἐκγόνων τ’|Samuel Musgrave|pre-1780|MSS|
+Soph. Aj. 742|-ρήκ-|παρείκειν|Reiske|n.d.|Laur. 32.40 (H)|
+Soph. Aj. 756|τῇδέ θ ̓|τῇδ' ἐθ’|Markland|s.xviii med.|MS|
+Soph. Aj. 773|τότ'/ὅδ'|τόδ'|Johannes Pierson|s.xviii med.|Laur. 32.40 (H)|
+Soph. Aj. 773|τότ'/ὅδ'|τόδ'|Samuel Musgrave|s.xviii med.|Laur. 32.40 (H)|
+Soph. Aj. 842|ἐκγόνων|ἐκγόνων τ’|Markland|s.xviii med.|MSS|
+Soph. Aj. 842|ἐκγόνων|ἐκγόνων τ’|Samuel Musgrave|pre-1780|MSS|
+Soph. Aj. 882|Ὀλυμπιάδων|-αδᾶν|Elmsley|n.d.|Matrit. gr. 4677 (N)|
 Soph. Aj. 1051|ὑβρίσῃ|οὔκουν|Valckenaer|1743-6|Vat. gr. 1333 (Zc)|
 Soph. Aj. 1098|τὸν|τόνδ’|Markland|s.xviii med.|Laur. 32. 9 (L)|
 Soph. Aj. 1237|ἔχειν|ποῖ|Valckenaer|pre-1775|cod. rec.|
