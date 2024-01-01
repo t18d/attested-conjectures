@@ -61,7 +61,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (69), Porson (55), Markland (50), Reiske (37), Adamantios Korais (36), Cobet (35), Elmsley (34), Hermann (29), Brunck (28) and Naber (27).</p>
+<p>The top 10 critics are Valckenaer (69), Porson (55), Markland (50), Reiske (37), Adamantios Korais (36), Cobet (35), Elmsley (34), Brunck (29), Hermann (29) and Naber (27).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1027,6 +1027,8 @@ Soph. OT 523|om.|δ'|Moriz Schmidt|1871-80|P.Oxy. XVIII 2180|in linea (Barrett a
 Soph. OT 525|τοῦ πρὸς|τοὔπος|Heimsoeth|n.d.|P.Oxy. XVIII 2180|
 Soph. OT 535|ἐναργὴς|-ῶς|Frederick H. M. Blaydes|n.d.|Paris. gr. 2735 (C)|
 Soph. OT 570|τοσόνδε|τὸ σὸν δέ|Brunck|1786-9|LacKp|
+Soph. OT 630|οὐχὶ|οὐ|Brunck|1786-9|DZr|
+Soph. OT 685|προπονουμένῳ/προπονουμένας|προνοουμένῳ|Frederick H. M. Blaydes|n.d.|Marc. gr. 468 (V)|
 Soph. OT 733 schol.|κέλευθον|κελεύθων|Scaliger|post-1568|GMR|
 Soph. OT 778|habent|del.|Valckenaer|pre-1775|P.Oxy. XI 1369|
 Soph. OT 1245|κάλει|καλεῖ|Johannes Pierson|s.xviii med.|Ambros. G 56 sup.|
