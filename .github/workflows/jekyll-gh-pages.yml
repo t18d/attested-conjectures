@@ -8,6 +8,7 @@ on:
       - main
     paths:
       - '**.md'
+      - _config.yml
   workflow_run:
     workflows: ["Run csv-to-md.py"]
     types:
