@@ -932,7 +932,10 @@ Soph. Aj. 456|γ ̓ ἂν|τἂν|Elmsley|n.d.|QC|
 Soph. Aj. 457|δρᾶν|δρᾶν μ'|Morstadt|n.d.|QC|
 Soph. Aj. 467|μόνος μόνοις|μόνος μόνῳ|Mekler|n.d.|Cac|
 Soph. Aj. 477|βροτὸν|-ῶν|C. E. Palmer|n.d.|Stob. cod. Aac|
+Soph. Aj. 503|οἵας λατρείας|οἵαν -αν|Frederick H. M. Blaydes|n.d.|p|
 Soph. Aj. 560|ὑβρίσῃ|ὑβρίσει|Valckenaer|1743-6|MS|
+Soph. Aj. 687|θ'|δ'|Frederick H. M. Blaydes|n.d.|Laur. 28.25 (F)|
+Soph. Aj. 727|ὡς|ὥς τ ̓|Samuel Musgrave|n.d.|KF|
 Soph. Aj. 756||ἐθ’|Markland|s.xviii med.|MS|
 Soph. Aj. 773|τότ'/ὅδ'|τόδ|Johannes Pierson|s.xviii med.|Laur. 32.40 (H)|
 Soph. Aj. 773|τότ'/ὅδ'|τόδ|Samuel Musgrave|s.xviii med.|Laur. 32.40 (H)|
