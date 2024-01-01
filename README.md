@@ -61,7 +61,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (69), Porson (55), Markland (50), Reiske (37), Adamantios Korais (36), Cobet (35), Elmsley (33), Hermann (28), Brunck (27), Henrik van Herwerden (26) and Naber (26) (tied).</p>
+<p>The top 10 critics are Valckenaer (69), Porson (55), Markland (50), Reiske (37), Adamantios Korais (36), Cobet (35), Elmsley (34), Hermann (28), Brunck (27), Henrik van Herwerden (27) and Naber (27) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1015,9 +1015,14 @@ Soph. OT 222|ὕστερος|-ον|Frederick H. M. Blaydes|n.d.|Marc. gr. 616 (Z
 Soph. OT 222|ἀστὸς|αὐτὸς|Elmsley|n.d.|pa|
 Soph. OT 258|ἐπικυρῶ|ἐπεὶ κυρῶ|Burton|n.d.|Laur. CS 66|
 Soph. OT 281|ἂν|ἃν|Henri Estienne|n.d.|Vindob. phil. gr. 161 (Xr)|
+Soph. OT 290|παλαί ̓|μάται ̓|Halbertsma|n.d.|WaZg|
+Soph. OT 324|φών-|φρόνημ ̓|Naber|n.d.|r|
 Soph. OT 430|οὐ|αὖ|G. Wolff|n.d.|P.Oxy. I 22|in linea
 Soph. OT 433|ᾔδει(ν)|ᾔδη|Dawes|s.xviii med.|P.Oxy. XVIII 2180|in margine
+Soph. OT 446|ἀλγύναις|-οις|Elmsley|n.d.|Matrit. gr. 4677 (N)|
 Soph. OT 458|αὐτὸς|αὑτὸς|Markland|s.xviii med.|Vindob. suppl. gr. 71 (Xs)|pc
+Soph. OT 464|εἶπε|εἶδε|Gitlbauer|n.d.|KG|
+Soph. OT 475|Παρνασοῦ|-ασσοῦ|Henrik van Herwerden|n.d.|Vindob. phil. gr. 161 (Xr)|
 Soph. OT 523|om.|δ'|Moriz Schmidt|1871-80|P.Oxy. XVIII 2180|in linea (Barrett apud OCT)
 Soph. OT 733 schol.|κέλευθον|κελεύθων|Scaliger|post-1568|GMR|
 Soph. OT 778|habent|del.|Valckenaer|pre-1775|P.Oxy. XI 1369|
