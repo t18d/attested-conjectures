@@ -60,7 +60,7 @@ _a project of [Open Source by Tonkünstler-on-the-Bund](https://t18d.github.io/)
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (69), Porson (52), Markland (50), Reiske (36), Adamantios Korais (36), Cobet (35), Elmsley (32), Hermann (26), Naber (26), Brunck (25), Henrik van Herwerden (25) and Beza (25) (tied).</p>
+<p>The top 10 critics are Valckenaer (69), Porson (55), Markland (50), Reiske (36), Adamantios Korais (36), Cobet (35), Elmsley (32), Brunck (26), Hermann (26) and Naber (26).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -953,6 +953,8 @@ Soph. Aj. 1243|ἤρεσκεν|ἤρκεσε|Johannes Pierson|s.xviii med.|MS|
 Soph. Aj. 1245|λελειμ-|λελημμένοι|Pearson|n.d.|Laur. 32.40 (H)|
 Soph. Aj. 1274|οὗτος|ἐντός|Markland|s.xviii med.|a|
 Soph. Aj. 1283|αὐτὸς|αὑ-|G. Wolff|n.d.|Vindob. suppl. gr. 71 (Xs)|
+Soph. Aj. 1368|σόν|σόν γ'|Porson|n.d.|Paris. gr. 2735 (C)|
+Soph. Aj. 1379|-ον|ὅσων|Porson|n.d.|Vat. gr. 1333 (Zc)|s.l.
 Soph. Ant. 76|σοί|σύ|Valckenaer|1746|Vat. gr. 57 s.l.|
 Soph. Ant. 342|κουφονέων|κουφονόων|Johannes Pierson|s.xviii med.|Λac et S|
 Soph. Ant. 384|om.|ἡ|Markland|s.xviii med.|Palat. gr. 287 (Zo)|
@@ -964,6 +966,12 @@ Soph. Ant. 836|-ῃ/-ῳ/-αν|φθιμένᾳ|Johannes Pierson|s.xviii med.|Lau
 Soph. Ant. 938|πατρογενεῖς|προγενεῖς|Valckenaer|pre-1775|Laur. 32. 9 (L)|
 Soph. Ant. 1238|ἐκβάλλει|ἐμβάλλει|Markland|s.xviii med.|Berol. Phillips 1588|
 Soph. Ant. 1350|μηδὲν|μηδέν’|Markland|s.xviii med.|MSS|
+Soph. El. 21|ξυνάπτετον|-έον|Toup|n.d.|Paris. gr. 2884 (Ζf)|
+Soph. El. 87|ἰσόμοιρ ̓|-μοιρος|Porson|n.d.|p|
+Soph. El. 160|ὄλβιος|-ον|Brunck|1786-9|Hac|
+Soph. El. 187|τοκ-|τεκέων|Meineke|n.d.|p|
+Soph. El. 436|-θα|ἔνθεν|Meineke|n.d.|t|
+Soph. El. 483|om.|σ'|Fröhlich|n.d.|t|
 Soph. El. 952||γ’|Johannes Pierson|s.xviii med.|Paris. gr. 2820|
 Soph. El. 995|ποτ' ἐμβλέψασα|ποτε βλέψασα|Ludwig Doederlein|s.xix med.|P.Oxy IV 693 et Marc. gr. 616 (Zr)|
 Soph. El. 998|ἔλαττον|ἔλαϲϲον|Brunck|1786-9|P.Oxy IV 693|
