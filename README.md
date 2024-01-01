@@ -60,7 +60,7 @@ _a project of [Open Source by Tonkünstler-on-the-Bund](https://t18d.github.io/)
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (69), Porson (52), Markland (50), Adamantios Korais (36), Cobet (35), Reiske (35), Elmsley (31), Hermann (26), Brunck (25), Henrik van Herwerden (25), Naber (25) and Beza (25) (tied).</p>
+<p>The top 10 critics are Valckenaer (69), Porson (52), Markland (50), Reiske (36), Adamantios Korais (36), Cobet (35), Elmsley (32), Hermann (26), Naber (26), Brunck (25), Henrik van Herwerden (25) and Beza (25) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -943,11 +943,16 @@ Soph. Aj. 773|τότ'/ὅδ'|τόδ'|Samuel Musgrave|s.xviii med.|Laur. 32.40 (H
 Soph. Aj. 842|ἐκγόνων|ἐκγόνων τ’|Markland|s.xviii med.|MSS|
 Soph. Aj. 842|ἐκγόνων|ἐκγόνων τ’|Samuel Musgrave|pre-1780|MSS|
 Soph. Aj. 882|Ὀλυμπιάδων|-αδᾶν|Elmsley|n.d.|Matrit. gr. 4677 (N)|
+Soph. Aj. 964|τἀγαθὸν ἐ.|τἀγάθ ̓ ἐν|Reiske|n.d.|Bos. q. 7 (J)|
 Soph. Aj. 1051|ὑβρίσῃ|οὔκουν|Valckenaer|1743-6|Vat. gr. 1333 (Zc)|
+Soph. Aj. 1065|παραλίοις|-ος|Naber|n.d.|Vat. gr. 2291 (R)|
 Soph. Aj. 1098|τὸν|τόνδ’|Markland|s.xviii med.|Laur. 32. 9 (L)|
+Soph. Aj. 1101|ἤγετ ̓/ἡγεῖτ ̓|ἤγαγ ̓|Elmsley|n.d.|Palat. gr. 40 (P)|
 Soph. Aj. 1237|ἔχειν|ποῖ|Valckenaer|pre-1775|cod. rec.|
 Soph. Aj. 1243|ἤρεσκεν|ἤρκεσε|Johannes Pierson|s.xviii med.|MS|
-Soph. Aj. 1274||ἐντός|Markland|s.xviii med.|a|
+Soph. Aj. 1245|λελειμ-|λελημμένοι|Pearson|n.d.|Laur. 32.40 (H)|
+Soph. Aj. 1274|οὗτος|ἐντός|Markland|s.xviii med.|a|
+Soph. Aj. 1283|αὐτὸς|αὑ-|G. Wolff|n.d.|Vindob. suppl. gr. 71 (Xs)|
 Soph. Ant. 76|σοί|σύ|Valckenaer|1746|Vat. gr. 57 s.l.|
 Soph. Ant. 342|κουφονέων|κουφονόων|Johannes Pierson|s.xviii med.|Λac et S|
 Soph. Ant. 384|om.|ἡ|Markland|s.xviii med.|Palat. gr. 287 (Zo)|
