@@ -977,6 +977,7 @@ Soph. El. 496|ἡμῖν|ὑμῖν|Purgold|n.d.|pt|
 Soph. El. 513|τις|τι|Hermann|n.d.|Vat. gr. 2291 (R)|
 Soph. El. 583|-εις|τυγχάνοις|Turnebus|n.d.|Vindob. suppl. gr. 71 (Xs)|
 Soph. El. 593|δ'|γ'|Hartung|n.d.|Paris. gr. 2735 (C)|
+Soph. El. 653|εὐημεροῦσαν|-σα|Erfurdt|n.d.|Laur. 32.40 (H)|
 Soph. El. 952||γ’|Johannes Pierson|s.xviii med.|Paris. gr. 2820|
 Soph. El. 995|ποτ' ἐμβλέψασα|ποτε βλέψασα|Ludwig Doederlein|s.xix med.|P.Oxy IV 693 et Marc. gr. 616 (Zr)|
 Soph. El. 998|ἔλαττον|ἔλαϲϲον|Brunck|1786-9|P.Oxy IV 693|
