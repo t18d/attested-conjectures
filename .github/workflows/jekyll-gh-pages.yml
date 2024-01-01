@@ -10,6 +10,7 @@ on:
       - '**.md'
       - '**.yml'
       - '**.html'
+      - '**.png'
   workflow_run:
     workflows: ["Run csv-to-md.py"]
     types:
