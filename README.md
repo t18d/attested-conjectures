@@ -60,7 +60,7 @@ _a project of [Open Source by Tonkünstler-on-the-Bund](https://t18d.github.io/)
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (69), Porson (55), Markland (50), Reiske (36), Adamantios Korais (36), Cobet (35), Elmsley (32), Brunck (26), Hermann (26) and Naber (26).</p>
+<p>The top 10 critics are Valckenaer (69), Porson (55), Markland (50), Reiske (36), Adamantios Korais (36), Cobet (35), Elmsley (32), Hermann (27), Brunck (26) and Naber (26).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -973,6 +973,10 @@ Soph. El. 187|τοκ-|τεκέων|Meineke|n.d.|p|
 Soph. El. 436|-θα|ἔνθεν|Meineke|n.d.|t|
 Soph. El. 483|om.|σ'|Fröhlich|n.d.|Ambros. E. 1035 sup. (Wa)|
 Soph. El. 492|ἐπέβα|-αν|Frederick H. M. Blaydes|n.d.|Vat. gr. 2291 (R)|
+Soph. El. 496|ἡμῖν|ὑμῖν|Purgold|n.d.|pt|
+Soph. El. 513|τις|τι|Hermann|n.d.|Vat. gr. 2291 (R)|
+Soph. El. 583|-εις|τυγχάνοις|Turnebus|n.d.|Vindob. suppl. gr. 71 (Xs)|
+Soph. El. 593|δ'|γ'|Hartung|n.d.|Paris. gr. 2735 (C)|
 Soph. El. 952||γ’|Johannes Pierson|s.xviii med.|Paris. gr. 2820|
 Soph. El. 995|ποτ' ἐμβλέψασα|ποτε βλέψασα|Ludwig Doederlein|s.xix med.|P.Oxy IV 693 et Marc. gr. 616 (Zr)|
 Soph. El. 998|ἔλαττον|ἔλαϲϲον|Brunck|1786-9|P.Oxy IV 693|
