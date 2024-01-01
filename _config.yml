@@ -1,6 +1,6 @@
 title: Database of Greek and Latin Conjectural Emendations Attested in MSS
 description: A hard look at the soft practice of textual criticism
-logo: /assets/android-chrome-192x192.PNG
+logo: /assets/android-chrome-192x192.png
 locale: en_GB
 plugins:
   - jekyll-seo-tag
