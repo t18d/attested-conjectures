@@ -61,7 +61,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (69), Porson (56), Markland (50), Reiske (37), Adamantios Korais (36), Cobet (35), Elmsley (35), Hermann (31), Brunck (29) and Naber (27).</p>
+<p>The top 10 critics are Valckenaer (69), Porson (56), Markland (50), Reiske (38), Elmsley (36), Adamantios Korais (36), Cobet (35), Hermann (32), Brunck (29) and Henrik van Herwerden (28).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1046,8 +1046,14 @@ Soph. OT 1153|μ'|γ'|Frederick H. M. Blaydes|n.d.|Palat. gr. 40 (P)|
 Soph. OT 1172|κάλλιστ'|μάλιστ'|Nauck|n.d.|p|
 Soph. OT 1197|-σας τ.|ἐκράτησε τοῦ|Hermann|n.d.|Ambros. L. 39 sup.|
 Soph. OT 1217|om.|alterum σε|Wunder|n.d.|Voss. gr. Q. 6 (O)|
+Soph. OT 1232|ἤδειμεν|ἤδεμεν|Elmsley|n.d.|Vat. gr. 1333 (Zc)|
 Soph. OT 1245|κάλει|καλεῖ|Johannes Pierson|s.xviii med.|Ambros. G 56 sup.|
-Soph. OT 1453|ζῶντε|ζῶντι|Johannes Pierson|s.xviii med.|Palat. gr. 40 (P) et a|
+Soph. OT 1255|φοιτᾷ|φοίτα|Frederick H. M. Blaydes|n.d.|p|
+Soph. OT 1264|αἰώραις|αἰώραισιν|Henrik van Herwerden|n.d.|Ambros. G 56 sup.|
+Soph. OT 1294|δείξει|δόξει|Reiske|n.d.|Vindob. phil. gr. 161 (Xr)|
+Soph. OT 1311|ἐξήλου|-ἤλλου|Hermann|n.d.|Paris. gr. 2735 (C)|
+Soph. OT 1312|ἐς|ὡς|Henrik van Herwerden|n.d.|Laur. 32.40 (H)|
+Soph. OT 1453|ζῶντε|-τι|Johannes Pierson|s.xviii med.|Vat. gr. 904 (Pa)|
 Soph. OT 1474|ἐγγόνοιν|ἐκγόνοιν|Valckenaer|1743-6|Paris. gr. 2787 (Zn) et Marc. gr. 472 (Jebb)|
 Soph. Phil. 256|που|πω|Markland|s.xviii med.|Marc. gr. 468 (V)|
 Soph. Phil. 614|ἤκουσεν|ἤκουσ’|Markland|s.xviii med.|z|
