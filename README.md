@@ -61,7 +61,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (69), Porson (55), Markland (50), Reiske (37), Adamantios Korais (36), Cobet (35), Elmsley (34), Brunck (29), Hermann (29) and Naber (27).</p>
+<p>The top 10 critics are Valckenaer (69), Porson (55), Markland (50), Reiske (37), Adamantios Korais (36), Cobet (35), Elmsley (35), Brunck (29), Hermann (29) and Naber (27).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1029,8 +1029,15 @@ Soph. OT 535|ἐναργὴς|-ῶς|Frederick H. M. Blaydes|n.d.|Paris. gr. 273
 Soph. OT 570|τοσόνδε|τὸ σὸν δέ|Brunck|1786-9|LacKp|
 Soph. OT 630|οὐχὶ|οὐ|Brunck|1786-9|DZr|
 Soph. OT 685|προπονουμένῳ/προπονουμένας|προνοουμένῳ|Frederick H. M. Blaydes|n.d.|Marc. gr. 468 (V)|
+Soph. OT 694|τ'|γ'|Turnebus|n.d.|p|
 Soph. OT 733 schol.|κέλευθον|κελεύθων|Scaliger|post-1568|GMR|
+Soph. OT 766|τοῦτ ̓|τοῦ δ ̓|Frederick H. M. Blaydes|n.d.|Vpc|
 Soph. OT 778|habent|del.|Valckenaer|pre-1775|P.Oxy. XI 1369|
+Soph. OT 791|χρεῖ' ἦ vel sim.|χρείη|Dawes|n.d.|Pa|pc
+Soph. OT 822|ὧνπερ|αἷνπερ|Frederick H. M. Blaydes|n.d.|Paris. gr. 2735 (C)|
+Soph. OT 829|ἀνορθοίη|ἂν ὀρθοίη|G. H. Schaefer|n.d.|p|
+Soph. OT 870|μήν ποτε|μήποτε|Elmsley|n.d.|Paris. gr. 2884|
+Soph. OT 883|ὑπέροπτα|-οπλα|P. P. Dobree|n.d.|Cac|
 Soph. OT 1245|κάλει|καλεῖ|Johannes Pierson|s.xviii med.|Ambros. G 56 sup.|
 Soph. OT 1453|ζῶντε|ζῶντι|Johannes Pierson|s.xviii med.|Palat. gr. 40 (P) et a|
 Soph. OT 1474|ἐγγόνοιν|ἐκγόνοιν|Valckenaer|1743-6|Paris. gr. 2787 (Zn) et Marc. gr. 472 (Jebb)|
