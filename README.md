@@ -8,7 +8,7 @@
 &nbsp;  
 <details>
     <summary>Bibliography</summary>
-    <h3>Methodology</h3>
+    <h3>Theory</h3>
     <ul>
         <li>James, Patrick, review of <em>The Oxyrhynchus Papyri. Volume LXXXI</em>, in <em>The Classical Review</em>, 68/2 (2018), 395–8 at 396.</li>
     </ul>
