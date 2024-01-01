@@ -971,7 +971,8 @@ Soph. El. 87|ἰσόμοιρ ̓|-μοιρος|Porson|n.d.|p|
 Soph. El. 160|ὄλβιος|-ον|Brunck|1786-9|Hac|
 Soph. El. 187|τοκ-|τεκέων|Meineke|n.d.|p|
 Soph. El. 436|-θα|ἔνθεν|Meineke|n.d.|t|
-Soph. El. 483|om.|σ'|Fröhlich|n.d.|t|
+Soph. El. 483|om.|σ'|Fröhlich|n.d.|Ambros. E. 1035 sup. (Wa)|
+Soph. El. 492|ἐπέβα|-αν|Frederick H. M. Blaydes|n.d.|Vat. gr. 2291 (R)|
 Soph. El. 952||γ’|Johannes Pierson|s.xviii med.|Paris. gr. 2820|
 Soph. El. 995|ποτ' ἐμβλέψασα|ποτε βλέψασα|Ludwig Doederlein|s.xix med.|P.Oxy IV 693 et Marc. gr. 616 (Zr)|
 Soph. El. 998|ἔλαττον|ἔλαϲϲον|Brunck|1786-9|P.Oxy IV 693|
