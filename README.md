@@ -62,7 +62,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (69), Porson (56), Markland (50), Reiske (39), Hermann (36), Elmsley (36), Adamantios Korais (36), Cobet (35), Brunck (34) and Henrik van Herwerden (30).</p>
+<p>The top 10 critics are Valckenaer (69), Porson (56), Markland (50), Reiske (39), Hermann (37), Elmsley (36), Adamantios Korais (36), Cobet (35), Brunck (34) and Henrik van Herwerden (30).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1109,13 +1109,19 @@ Soph. T 1.20 = fr. 965.2|ὀδυσσ-/ὠδυσσ-|ὠδύσαντο|G. H. Schae
 Soph. Trach. 143|δ'|τ'|P. P. Dobree|n.d.|Harl. 5743|
 Soph. Trach. 159|οὕπω/οὔπω|οὕτω|Tournier|n.d.|Harl. 5743|
 Soph. Trach. 187|λέγ-|ἔχεις|Frederick H. M. Blaydes|n.d.|Palat. gr. 287 (Zo)|
-Soph. Trach. 326|δακρυρρόει|δακρυρροεῖ|Markland|s.xviii med.|Laur. 31.10 (K)|
+Soph. Trach. 267|φώνει|φωνεῖ|Köchly|n.d.|Palat. gr. 287|
+Soph. Trach. 286|δέ|τε|Turnebus|n.d.|P.Amh. inv. 68 s.l.|
+Soph. Trach. 316|τῶν|του|P. P. Dobree|n.d.|Zgt|
+Soph. Trach. 326|-ρόει|δακρυρροεῖ|Markland|s.xviii med.|Laur. 31.10 (K)|
 Soph. Trach. 328|αὐτῇ|αὐτή|Markland|s.xviii med.|Laur. 31.10 (K) et Laur. 32.2 (Zg)|
 Soph. Trach. 579|-ει(σ)μένον|ἐγκεκλῃμενον|Dindorf|n.d.|Oxy. XV 1805|
 Soph. Trach. 747|καὶ|κοὐ|Markland|s.xviii med.|Laur. 32.2 (Zg)|
 Soph. Trach. 747|καὶ|κοὐ|Valckenaer|pre-1775|Laur. 32.2 (Zg)|
 Soph. Trach. 825|ἀναδοχάν|ἀνακωχάν|Valckenaer|1743-6|Laur. 32.2 (Zg)|ἀνοκωχάν Zg
+Soph. Trach. 902|ἄψορρον|-ος|Frederick H. M. Blaydes|n.d.|Palat. gr. 287 (Zo)|
 Soph. Trach. 977|γέρων|γέρον|Markland|s.xviii med.|a|
+Soph. Trach. 1082|ἔθαλψεν|ἔθαλψέ μ ̓|Hermann|n.d.|Laur. 31.10 (K)|
+Soph. Trach. 1123|ἐστιν|ἔστ ̓ ἐν|Frederick H. M. Blaydes|n.d.|Harl. 5743|
 Soph. Trach. 1136|μνωμένη|μωμένη|Benjamin Heath|1762|P.Oxy. XV 1805 et Laur. 31.10 (K)|μωμ[
 Soph. fr. 240|τὰ δ᾽ ὅσα|τάδε σε|Bergk|1859|Anon. Ambros. de re metr. 2.12|
 Soph. fr. 265|ἀντεροῦσ-|ἀνταίρουσιν|Isaac Vossius|s.xvii|Cyrill.|apud Alberti
