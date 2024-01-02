@@ -474,7 +474,7 @@ Eur. Ph. 188|Ἀμυμωνίοις|τ᾽ ἀμυμ-|F. A. Paley|1879|RfP2|
 Eur. Ph. 207|-θην|κατενάσθη|Thirlby|n.d.|Athos Dionysiou 334 (Ad)|
 Eur. Ph. 226|ἰὼ|ω|Canter|n.d.|P.Oxy. IX 1177|
 Eur. Ph. 228|-είων κτλ.|βακχεῖον|Adolf Kirchhoff|n.d.|Vindob. phil. gr. 119 (Rw)|
-Eur. Ph. 252|σχῆμα|σῆμα|Heimsoeth|n.d.|G et Aaγρ|
+Eur. Ph. 252|σχῆμα|σῆμα|Heimsoeth|1865|G et Aaγρ|
 Eur. Ph. 297|ἀναπ-|ἀμπέτασον|Hermann|n.d.|Vat. gr. 909 (V)|
 Eur. Ph. 308-9|χαίτας|-ταις|Brodaeus|n.d.|P.Vindob. inv. G 29769|
 Eur. Ph. 325|δ'|τ'|Wakefield|n.d.|Laur. conv. soppr. 172 (P)|
@@ -966,7 +966,7 @@ Soph. Ant. 211|Κρέον vel Κρέων|ποεῖν|F. J. Martin|n.d.|Laur. 31.
 Soph. Ant. 287|νόμ-|δόμους|Henrik van Herwerden|n.d.|Vat. gr. 57|
 Soph. Ant. 314|-ωσμέ-|σεσωμένους|Wecklein|n.d.|Marc. gr. 470 (Ta)|
 Soph. Ant. 342|κουφονέων|κουφονόων|Johannes Pierson|s.xviii med.|Λac et S|
-Soph. Ant. 365|σοφόν|δεινόν|Heimsoeth|n.d.|t|
+Soph. Ant. 365|σοφόν|δεινόν|Heimsoeth|1865|t|
 Soph. Ant. 384|om.|ἡ|Markland|s.xviii med.|Palat. gr. 287 (Zo)|
 Soph. Ant. 390|ποθ ̓|γ ̓ ἂν|Erfurdt|1802-25|t|
 Soph. Ant. 396|κλῆρος|κλῆρος δ ̓|G. Müller|1967|Paris. gr. 2884 (Ζf)|
@@ -979,6 +979,7 @@ Soph. Ant. 567|μέν σοι|μέντοι|Brunck|1786-9|Urb. gr. 141 (S)|
 Soph. Ant. 573|γε|με|Frederick H. M. Blaydes|n.d.|Zf in linea|
 Soph. Ant. 592|βρέμουσι δ'|βρέμουσιν|Johannes Pierson|s.xviii med.|Palat. gr. 287 (Zo)|
 Soph. Ant. 599|ὑπὲρ|ὅπερ|Markland|s.xviii med.|Laur. 31.10 (K)|s.l. (ex sch.)
+Soph. Ant. 645|φυτ-|φιτεύει|Bentley|n.d.|Livineius ('p')|
 Soph. Ant. 695|ἀπ’|ἐπ’|Johannes Pierson|s.xviii med.|Paris. gr. 2712 (A)|
 Soph. Ant. 836|-ῃ/-ῳ/-αν|φθιμένᾳ|Johannes Pierson|s.xviii med.|Laur. 32. 9 (L) et a|
 Soph. Ant. 938|πατρογενεῖς|προγενεῖς|Valckenaer|pre-1775|Laur. 32. 9 (L)|
@@ -1041,7 +1042,7 @@ Soph. OT 458|αὐτὸς|αὑτὸς|Markland|s.xviii med.|Vindob. suppl. gr. 
 Soph. OT 464|εἶπε|εἶδε|Gitlbauer|n.d.|KG|
 Soph. OT 475|Παρνασοῦ|-ασσοῦ|Hermann|n.d.|Vindob. phil. gr. 161 (Xr)|
 Soph. OT 523|om.|δ'|Moriz Schmidt|1871-80|P.Oxy. XVIII 2180|in linea (Barrett apud OCT)
-Soph. OT 525|τοῦ πρὸς|τοὔπος|Heimsoeth|n.d.|P.Oxy. XVIII 2180|
+Soph. OT 525|τοῦ πρὸς|τοὔπος|Heimsoeth|1865|P.Oxy. XVIII 2180|
 Soph. OT 535|ἐναργὴς|-ῶς|Frederick H. M. Blaydes|n.d.|Paris. gr. 2735 (C)|
 Soph. OT 570|τοσόνδε|τὸ σὸν δέ|Brunck|1786-9|LacKp|
 Soph. OT 630|οὐχὶ|οὐ|Brunck|1786-9|DZr|
