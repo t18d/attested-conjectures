@@ -975,6 +975,7 @@ Soph. Ant. 404|ἴδον|ἰδὼν|Brunck|1786-9|Paris. gr. 2886|i.e. Aristobul
 Soph. Ant. 406|εὐρέθη|ᾑρέθη|Markland|s.xviii med.|Laur. 32. 9 (L)|fort. pc legit sch. ut videtur
 Soph. Ant. 410|εὖ|αὖ|Reiske|1753|Marc. gr. 468 (V)|
 Soph. Ant. 422|ἀπαλλαγέντος|-έντες|G. H. Schaefer|n.d.|Vat. gr. 2291 (R)|S in linea
+Soph. Ant. 444|ἧ|οἷ|Meineke|1861|Palat. gr. 287 (Zo)|
 Soph. Ant. 480|τότ ̓|τόδ ̓|Sehrwald|n.d.|Laur. 31.10 (K)|
 Soph. Ant. 567|μέν σοι|μέντοι|Brunck|1786-9|Urb. gr. 141 (S)|
 Soph. Ant. 573|γε|με|Frederick H. M. Blaydes|n.d.|Zf in linea|
@@ -991,6 +992,7 @@ Soph. Ant. 859|οἶκτον|οἶτον|Brunck|1786-9|Kpc|
 Soph. Ant. 938|πατρογενεῖς|προγενεῖς|Valckenaer|pre-1775|Laur. 32. 9 (L)|
 Soph. Ant. 989|-ες|βλέποντε|Moriz Schmidt|1871-80|LpcKa|
 Soph. Ant. 1069|κατῴκ-|κατοικίσας|Henrik van Herwerden|n.d.|Laur. 31.10 (K)|
+Soph. Ant. 1081|-γνι-|καθήγισαν|Burton|n.d.|VacZc|
 Soph. Ant. 1089|-ωτέραν|ἡσυχαιτέραν|G. H. Schaefer|n.d.|Zg et Laur. 31.1|
 Soph. Ant. 1236|μέσσον/μέσον/ἐς|ἐν|Wecklein|n.d.|SZot|
 Soph. Ant. 1237|παρθένῳ|-ον|Brunck|1786-9|Paris. gr. 2884 (Ζf)|
