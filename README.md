@@ -1106,6 +1106,9 @@ Soph. Phil. 1238|ταῦτα|ταὐτὰ|Markland|s.xviii med.|LGRS|
 Soph. T 1.9|σαφίλου/σοφίλου|Ἀναίους|Anton Westermann|1845|Laur. 28.25 (F)|
 Soph. T 1.16|(ἐν) τῇ|ἐν|Frederick H. M. Blaydes|1859|Vindob. phil. gr. 281 (Wc)|
 Soph. T 1.20 = fr. 965.2|ὀδυσσ-/ὠδυσσ-|ὠδύσαντο|G. H. Schaefer|1810|Paris. gr. 2712 (A)|
+Soph. Trach. 143|δ'|τ'|P. P. Dobree|n.d.|Harl. 5743|
+Soph. Trach. 159|οὕπω/οὔπω|οὕτω|Tournier|n.d.|Harl. 5743|
+Soph. Trach. 187|λέγ-|ἔχεις|Frederick H. M. Blaydes|n.d.|Palat. gr. 287 (Zo)|
 Soph. Trach. 326|δακρυρρόει|δακρυρροεῖ|Markland|s.xviii med.|Laur. 31.10 (K)|
 Soph. Trach. 328|αὐτῇ|αὐτή|Markland|s.xviii med.|Laur. 31.10 (K) et Laur. 32.2 (Zg)|
 Soph. Trach. 579|-ει(σ)μένον|ἐγκεκλῃμενον|Dindorf|n.d.|Oxy. XV 1805|
