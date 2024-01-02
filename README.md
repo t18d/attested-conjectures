@@ -46,6 +46,7 @@
         <li>Kenyon, Frederic George, <em>The Evidence of Greek Papyri with Regard to Textual Criticism</em> (London, 1904).</li>
         <li>Krans-Plaisier, Jan, '<a href="http://vuntblog.blogspot.com/2023/12/amsterdam-database-conjectures-with.html">Amsterdam Database: Conjectures with Attestation</a>', the Amsterdam NT Weblog (2 Dec. 2023), accessed 14 Dec. 2023.</li>
         <li>Markus, D., and G. Schwendner, 'Seneca’s Medea in Egypt (663–704)', <em>ZPE</em>, 117 (1997), 73–84.</li>
+        <li>Marshall, P. K., <em>The Manuscript Tradition of Cornelius Nepos (BICS Suppl. No. 37)</em> (Oxford, 1977), 43.</li>
         <li>Photius, <em>Patriarchae lexicon</em>, ed. Christos Theodoridis, 3 vols (Berlin, 1982–2013).</li>
         <li>Radt, Stefan (ed.), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, iii: <em>Aeschylus</em> (Göttingen, 1985).</li>
         <li>Radt, Stefan (ed.), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, iv: <em>Sophocles</em> (2nd edn, Göttingen, 1999).</li>
