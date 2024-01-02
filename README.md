@@ -994,12 +994,12 @@ Soph. El. 492|ἐπέβα|-αν|Frederick H. M. Blaydes|n.d.|Vat. gr. 2291 (R)|
 Soph. El. 496|ἡμῖν|ὑμῖν|Purgold|n.d.|pt|
 Soph. El. 513|τις|τι|Hermann|n.d.|Vat. gr. 2291 (R)|
 Soph. El. 583|-εις|τυγχάνοις|Turnebus|n.d.|Vindob. suppl. gr. 71 (Xs)|
-Soph. El. 593|δ'|γ'|Hartung|n.d.|Paris. gr. 2735 (C)|
+Soph. El. 593|δ'|γ'|J. A. Hartung|1850-1|Paris. gr. 2735 (C)|
 Soph. El. 653|εὐημεροῦσαν|-σα|Erfurdt|1802-25|Laur. 32.40 (H)|
 Soph. El. 689|τοιοῦδ'|τοιάδ'|Brunck|1786-9|Marc. gr. 616 (Zr)|
 Soph. El. 710|κλήροις|-ους|Wunder|1831|Paris. gr. 2735 (C)|
-Soph. El. 758|δειλαίας σποδοῦ|-αν -όν|Neue|n.d.|p|supra lineam
-Soph. El. 762|οἵπερ|ὥσπερ|Hartung|n.d.|Laur. CS 41|
+Soph. El. 758|δειλαίας σποδοῦ|-αν -όν|F. Neue|1831|p|supra lineam
+Soph. El. 762|οἵπερ|ὥσπερ|J. A. Hartung|1850-1|Laur. CS 41|
 Soph. El. 819|ἄφιλος|-ον|Monk|n.d.|Vindob. phil. gr. 281|
 Soph. El. 876|οὐκ|οὐκέτ ̓|B. Thiersch|n.d.|p|
 Soph. El. 941|ἔσθ ̓ ὅδ ̓|ἐς τόδ ̓|Haupt|n.d.|p|
