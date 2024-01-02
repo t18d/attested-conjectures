@@ -936,15 +936,15 @@ Soph. Aj. 477|βροτὸν|-ῶν|C. E. Palmer|n.d.|Stob. cod. Aac|
 Soph. Aj. 503|οἵας λατρείας|οἵαν -αν|Frederick H. M. Blaydes|n.d.|p|
 Soph. Aj. 560|ὑβρίσῃ|ὑβρίσει|Valckenaer|1743-6|MS|
 Soph. Aj. 687|θ'|δ'|Frederick H. M. Blaydes|n.d.|Laur. 28.25 (F)|
-Soph. Aj. 727|ὡς|ὥς τ ̓|Samuel Musgrave|n.d.|KF|
-Soph. Aj. 742|-ρήκ-|παρείκειν|Reiske|n.d.|Laur. 32.40 (H)|
+Soph. Aj. 727|ὡς|ὥς τ ̓|Samuel Musgrave|s.xviii med.|KF|
+Soph. Aj. 742|-ρήκ-|παρείκειν|Reiske|1753|Laur. 32.40 (H)|
 Soph. Aj. 756|τῇδέ θ ̓|τῇδ' ἐθ’|Markland|s.xviii med.|MS|
 Soph. Aj. 773|τότ'/ὅδ'|τόδ'|Johannes Pierson|s.xviii med.|Laur. 32.40 (H)|
 Soph. Aj. 773|τότ'/ὅδ'|τόδ'|Samuel Musgrave|s.xviii med.|Laur. 32.40 (H)|
 Soph. Aj. 842|ἐκγόνων|ἐκγόνων τ’|Markland|s.xviii med.|MSS|
-Soph. Aj. 842|ἐκγόνων|ἐκγόνων τ’|Samuel Musgrave|pre-1780|MSS|
+Soph. Aj. 842|ἐκγόνων|ἐκγόνων τ’|Samuel Musgrave|s.xviii med.|MSS|
 Soph. Aj. 882|Ὀλυμπιάδων|-αδᾶν|Elmsley|n.d.|Matrit. gr. 4677 (N)|
-Soph. Aj. 964|τἀγαθὸν ἐ.|τἀγάθ ̓ ἐν|Reiske|n.d.|Bos. q. 7 (J)|
+Soph. Aj. 964|τἀγαθὸν ἐ.|τἀγάθ ̓ ἐν|Reiske|1753|Bos. q. 7 (J)|
 Soph. Aj. 1051|ὑβρίσῃ|οὔκουν|Valckenaer|1743-6|Vat. gr. 1333 (Zc)|
 Soph. Aj. 1065|παραλίοις|-ος|Naber|n.d.|Vat. gr. 2291 (R)|
 Soph. Aj. 1098|τὸν|τόνδ’|Markland|s.xviii med.|Laur. 32. 9 (L)|
@@ -957,9 +957,9 @@ Soph. Aj. 1283|αὐτὸς|αὑ-|G. Wolff|n.d.|Vindob. suppl. gr. 71 (Xs)|
 Soph. Aj. 1368|σόν|σόν γ'|Porson|n.d.|Paris. gr. 2735 (C)|
 Soph. Aj. 1379|-ον|ὅσων|Porson|n.d.|Vat. gr. 1333 (Zc)|s.l.
 Soph. Ant. 18|ᾔδην|ᾔδη|Johannes Pierson|s.xviii med.|Zcac|
-Soph. Ant. 56|-κτενοῦντε|αὐτοκτονοῦντε|Erfurdt|n.d.|Paris. gr. 2886|i.e. Aristobulus Apostolides
+Soph. Ant. 56|-κτενοῦντε|αὐτοκτονοῦντε|Erfurdt|1802-25|Paris. gr. 2886|i.e. Aristobulus Apostolides
 Soph. Ant. 57|ἐπ ̓ ἀλλήλοιν|ἐπαλλήλοιν|Hermann|n.d.|KSUZf|
-Soph. Ant. 70|ἐμοῦ|ἐμοί|Meineke|n.d.|Laur. 31.10 (K)|
+Soph. Ant. 70|ἐμοῦ|ἐμοί|Meineke|1861|Laur. 31.10 (K)|
 Soph. Ant. 76|σοί|σύ|Valckenaer|1746|Vat. gr. 57 s.l.|
 Soph. Ant. 108|ὀξυτόρῳ/-τέρῳ|-πόρῳ|Samuel Musgrave|n.d.|Urb. gr. 141 (S)|
 Soph. Ant. 211|Κρέον vel Κρέων|ποεῖν|F. J. Martin|n.d.|Laur. 31.10 (K)|in marg.
@@ -968,11 +968,11 @@ Soph. Ant. 314|-ωσμέ-|σεσωμένους|Wecklein|n.d.|Marc. gr. 470 (Ta)|
 Soph. Ant. 342|κουφονέων|κουφονόων|Johannes Pierson|s.xviii med.|Λac et S|
 Soph. Ant. 365|σοφόν|δεινόν|Heimsoeth|n.d.|t|
 Soph. Ant. 384|om.|ἡ|Markland|s.xviii med.|Palat. gr. 287 (Zo)|
-Soph. Ant. 390|ποθ ̓|γ ̓ ἂν|Erfurdt|n.d.|t|
-Soph. Ant. 396|κλῆρος|κλῆρος δ ̓|G. Müller|n.d.|Paris. gr. 2884 (Ζf)|
+Soph. Ant. 390|ποθ ̓|γ ̓ ἂν|Erfurdt|1802-25|t|
+Soph. Ant. 396|κλῆρος|κλῆρος δ ̓|G. Müller|1967|Paris. gr. 2884 (Ζf)|
 Soph. Ant. 404|ἴδον|ἰδὼν|Brunck|1786-9|Paris. gr. 2886|i.e. Aristobulus Apostolides
 Soph. Ant. 406|εὐρέθη|ᾑρέθη|Markland|s.xviii med.|Laur. 32. 9 (L)|fort. pc legit sch. ut videtur
-Soph. Ant. 410|εὖ|αὖ|Reiske|n.d.|Marc. gr. 468 (V)|
+Soph. Ant. 410|εὖ|αὖ|Reiske|1753|Marc. gr. 468 (V)|
 Soph. Ant. 422|ἀπαλλαγέντος|-έντες|G. H. Schaefer|n.d.|Vat. gr. 2291 (R)|S in linea
 Soph. Ant. 480|τότ ̓|τόδ ̓|Sehrwald|n.d.|Laur. 31.10 (K)|
 Soph. Ant. 567|μέν σοι|μέντοι|Brunck|1786-9|Urb. gr. 141 (S)|
@@ -989,13 +989,13 @@ Soph. El. 87|ἰσόμοιρ ̓|-μοιρος|Porson|n.d.|p|
 Soph. El. 160|ὄλβιος|-ον|Brunck|1786-9|Hac|
 Soph. El. 187|τοκ-|τεκέων|Meineke|n.d.|p|
 Soph. El. 436|-θα|ἔνθεν|Meineke|n.d.|t|
-Soph. El. 483|om.|σ'|Fröhlich|n.d.|Ambros. E. 1035 sup. (Wa)|
+Soph. El. 483|om.|σ'|J. v. G. Fröhlich|1815|Ambros. E. 1035 sup. (Wa)|
 Soph. El. 492|ἐπέβα|-αν|Frederick H. M. Blaydes|n.d.|Vat. gr. 2291 (R)|
 Soph. El. 496|ἡμῖν|ὑμῖν|Purgold|n.d.|pt|
 Soph. El. 513|τις|τι|Hermann|n.d.|Vat. gr. 2291 (R)|
 Soph. El. 583|-εις|τυγχάνοις|Turnebus|n.d.|Vindob. suppl. gr. 71 (Xs)|
 Soph. El. 593|δ'|γ'|Hartung|n.d.|Paris. gr. 2735 (C)|
-Soph. El. 653|εὐημεροῦσαν|-σα|Erfurdt|n.d.|Laur. 32.40 (H)|
+Soph. El. 653|εὐημεροῦσαν|-σα|Erfurdt|1802-25|Laur. 32.40 (H)|
 Soph. El. 689|τοιοῦδ'|τοιάδ'|Brunck|1786-9|Marc. gr. 616 (Zr)|
 Soph. El. 710|κλήροις|-ους|Wunder|n.d.|Paris. gr. 2735 (C)|
 Soph. El. 758|δειλαίας σποδοῦ|-αν -όν|Neue|n.d.|p|supra lineam
@@ -1014,7 +1014,7 @@ Soph. El. 1139|om.|σ’|Markland|s.xviii med.|p|
 Soph. El. 1226|ἔχεις|ἔχοις|Valckenaer|pre-1775|Laur. 32. 9 (L)|
 Soph. El. 1275|-ύστον-|πολύπονον|Hermann|n.d.|Bos. q. 7 (J)|
 Soph. El. 1281|φίλαι|φίλ ̓|Wunder|n.d.|Paris. gr. 2735 (C)|
-Soph. El. 1458|πύλας|πέλας|Reiske|n.d.|VXs|
+Soph. El. 1458|πύλας|πέλας|Reiske|1753|VXs|
 Soph. El. 1471|φίλως|-ους|Purgold|n.d.|Vat. gr. 904 (Pa)|
 Soph. OC 180|προσβίβαζε|προβίβαζε|Valckenaer|1743-6|r|
 Soph. OC 213|γεγωνῶ|γεγώνω|Reiske|1743|Laur. 32. 9 (L) et Vat. gr. 2291 (R)|
@@ -1026,7 +1026,7 @@ Soph. OC 1340|-σῃς/-σεις|ξυμπαραστήσῃ|Reiske|1743|a|
 Soph. OC 1345|σθένω|θέλω|Markland|s.xviii med.|r|
 Soph. OC 1515|στρέψαντα|στράψαντα|Reiske|1743|Laur. 31.10 (K)|
 Soph. OT 75|χρόνου|-ον|Purgold|n.d.|Marc. gr. 468 (V)|
-Soph. OT 79|προσστείχοντα|προστ-|Erfurdt|n.d.|Vat. gr. 2291 (R)|
+Soph. OT 79|προσστείχοντα|προστ-|Erfurdt|1802-25|Vat. gr. 2291 (R)|
 Soph. OT 188|ὧν|τῶν|B. H. Kennedy|1885|PSI XI 1192|τω]ν
 Soph. OT 222|ὕστερος|-ον|Frederick H. M. Blaydes|n.d.|Marc. gr. 616 (Zr)|
 Soph. OT 222|ἀστὸς|αὐτὸς|Elmsley|n.d.|pa|
@@ -1066,10 +1066,10 @@ Soph. OT 1217|om.|alterum σε|Wunder|n.d.|Voss. gr. Q. 6 (O)|
 Soph. OT 1232|ἤδειμεν|ἤδεμεν|Elmsley|n.d.|Vat. gr. 1333 (Zc)|
 Soph. OT 1245|κάλει|καλεῖ|Johannes Pierson|s.xviii med.|Ambros. G 56 sup.|
 Soph. OT 1255|φοιτᾷ|φοίτα|Frederick H. M. Blaydes|n.d.|p|
-Soph. OT 1264|αἰώραις|αἰώραισιν|Henrik van Herwerden|n.d.|Ambros. G 56 sup.|
-Soph. OT 1294|δείξει|δόξει|Reiske|n.d.|Vindob. phil. gr. 161 (Xr)|
+Soph. OT 1264|αἰώραις|αἰώραισιν|Henrik van Herwerden|1866|Ambros. G 56 sup.|
+Soph. OT 1294|δείξει|δόξει|Reiske|1753|Vindob. phil. gr. 161 (Xr)|
 Soph. OT 1311|ἐξήλου|-ἤλλου|Hermann|n.d.|Paris. gr. 2735 (C)|
-Soph. OT 1312|ἐς|ὡς|Henrik van Herwerden|n.d.|Laur. 32.40 (H)|
+Soph. OT 1312|ἐς|ὡς|Henrik van Herwerden|1866|Laur. 32.40 (H)|
 Soph. OT 1453|ζῶντε|-τι|Johannes Pierson|s.xviii med.|Vat. gr. 904 (Pa)|
 Soph. OT 1466|αἷν|ταῖν|Benjamin Heath|n.d.|Marc. gr. 616 (Zr)|
 Soph. OT 1474|ἐγγόνοιν|ἐκγόνοιν|Valckenaer|1743-6|Paris. gr. 2787 (Zn) et Marc. gr. 472 (Jebb)|
