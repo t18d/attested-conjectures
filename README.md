@@ -61,7 +61,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (69), Porson (56), Markland (50), Reiske (38), Elmsley (36), Adamantios Korais (36), Cobet (35), Hermann (33), Brunck (29) and Henrik van Herwerden (28).</p>
+<p>The top 10 critics are Valckenaer (69), Porson (56), Markland (50), Reiske (38), Elmsley (36), Adamantios Korais (36), Cobet (35), Hermann (33), Brunck (29) and Henrik van Herwerden (29).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -962,8 +962,14 @@ Soph. Ant. 57|ἐπ ̓ ἀλλήλοιν|ἐπαλλήλοιν|Hermann|n.d.|KSUZ
 Soph. Ant. 70|ἐμοῦ|ἐμοί|Meineke|n.d.|Laur. 31.10 (K)|
 Soph. Ant. 76|σοί|σύ|Valckenaer|1746|Vat. gr. 57 s.l.|
 Soph. Ant. 108|ὀξυτόρῳ/-τέρῳ|-πόρῳ|Samuel Musgrave|n.d.|Urb. gr. 141 (S)|
+Soph. Ant. 211|Κρέον vel Κρέων|ποεῖν|F. J. Martin|n.d.|Laur. 31.10 (K)|in marg.
+Soph. Ant. 287|νόμ-|δόμους|Henrik van Herwerden|n.d.|Vat. gr. 57|
+Soph. Ant. 314|-ωσμέ-|σεσωμένους|Wecklein|n.d.|Marc. gr. 470 (Ta)|
 Soph. Ant. 342|κουφονέων|κουφονόων|Johannes Pierson|s.xviii med.|Λac et S|
+Soph. Ant. 365|σοφόν|δεινόν|Heimsoeth|n.d.|t|
 Soph. Ant. 384|om.|ἡ|Markland|s.xviii med.|Palat. gr. 287 (Zo)|
+Soph. Ant. 390|ποθ ̓|γ ̓ ἂν|Erfurdt|n.d.|t|
+Soph. Ant. 396|κλῆρος|κλῆρος δ ̓|G. Müller|n.d.|Paris. gr. 2884 (Ζf)|
 Soph. Ant. 406|εὐρέθη|ᾑρέθη|Markland|s.xviii med.|Laur. 32. 9 (L)|fort. pc legit sch. ut videtur
 Soph. Ant. 592|βρέμουσι δ'|βρέμουσιν|Johannes Pierson|s.xviii med.|Palat. gr. 287 (Zo)|
 Soph. Ant. 599|ὑπὲρ|ὅπερ|Markland|s.xviii med.|Laur. 31.10 (K)|s.l. (ex sch.)
