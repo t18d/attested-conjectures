@@ -993,7 +993,7 @@ Soph. El. 483|om.|σ'|J. v. G. Fröhlich|1815|Ambros. E. 1035 sup. (Wa)|
 Soph. El. 492|ἐπέβα|-αν|Frederick H. M. Blaydes|n.d.|Vat. gr. 2291 (R)|
 Soph. El. 496|ἡμῖν|ὑμῖν|Purgold|n.d.|pt|
 Soph. El. 513|τις|τι|Hermann|n.d.|Vat. gr. 2291 (R)|
-Soph. El. 583|-εις|τυγχάνοις|Turnebus|n.d.|Vindob. suppl. gr. 71 (Xs)|
+Soph. El. 583|-εις|τυγχάνοις|Turnebus|1552-3|Vindob. suppl. gr. 71 (Xs)|
 Soph. El. 593|δ'|γ'|J. A. Hartung|1850-1|Paris. gr. 2735 (C)|
 Soph. El. 653|εὐημεροῦσαν|-σα|Erfurdt|1802-25|Laur. 32.40 (H)|
 Soph. El. 689|τοιοῦδ'|τοιάδ'|Brunck|1786-9|Marc. gr. 616 (Zr)|
@@ -1046,7 +1046,7 @@ Soph. OT 535|ἐναργὴς|-ῶς|Frederick H. M. Blaydes|n.d.|Paris. gr. 273
 Soph. OT 570|τοσόνδε|τὸ σὸν δέ|Brunck|1786-9|LacKp|
 Soph. OT 630|οὐχὶ|οὐ|Brunck|1786-9|DZr|
 Soph. OT 685|προπονουμένῳ/προπονουμένας|προνοουμένῳ|Frederick H. M. Blaydes|n.d.|Marc. gr. 468 (V)|
-Soph. OT 694|τ'|γ'|Turnebus|n.d.|p|
+Soph. OT 694|τ'|γ'|Turnebus|1552-3|p|
 Soph. OT 733 schol.|κέλευθον|κελεύθων|Scaliger|post-1568|GMR|
 Soph. OT 766|τοῦτ ̓|τοῦ δ ̓|Frederick H. M. Blaydes|n.d.|Vpc|
 Soph. OT 778|habent|del.|Valckenaer|pre-1775|P.Oxy. XI 1369|
@@ -1071,7 +1071,7 @@ Soph. OT 1294|δείξει|δόξει|Reiske|1753|Vindob. phil. gr. 161 (Xr)|
 Soph. OT 1311|ἐξήλου|-ἤλλου|Hermann|n.d.|Paris. gr. 2735 (C)|
 Soph. OT 1312|ἐς|ὡς|Henrik van Herwerden|1866|Laur. 32.40 (H)|
 Soph. OT 1453|ζῶντε|-τι|Johannes Pierson|s.xviii med.|Vat. gr. 904 (Pa)|
-Soph. OT 1466|αἷν|ταῖν|Benjamin Heath|n.d.|Marc. gr. 616 (Zr)|
+Soph. OT 1466|αἷν|ταῖν|Benjamin Heath|1762|Marc. gr. 616 (Zr)|
 Soph. OT 1474|ἐγγόνοιν|ἐκγόνοιν|Valckenaer|1743-6|Paris. gr. 2787 (Zn) et Marc. gr. 472 (Jebb)|
 Soph. OT 1477|ἣ σ' εἶχεν κτλ.|ἥ σ' ἔχει|Wunder|1831|Laur. 32.2 (Zg)|
 Soph. Phil. 256|που|πω|Markland|s.xviii med.|Marc. gr. 468 (V)|
@@ -1090,7 +1090,7 @@ Soph. Trach. 747|καὶ|κοὐ|Markland|s.xviii med.|Laur. 32.2 (Zg)|
 Soph. Trach. 747|καὶ|κοὐ|Valckenaer|pre-1775|Laur. 32.2 (Zg)|
 Soph. Trach. 825|ἀναδοχάν|ἀνακωχάν|Valckenaer|1743-6|Laur. 32.2 (Zg)|ἀνοκωχάν Zg
 Soph. Trach. 977|γέρων|γέρον|Markland|s.xviii med.|a|
-Soph. Trach. 1136|μνωμένη|μωμένη|Benjamin Heath|s.xviii in.|P.Oxy. XV 1805 et Laur. 31.10 (K)|μωμ[
+Soph. Trach. 1136|μνωμένη|μωμένη|Benjamin Heath|1762|P.Oxy. XV 1805 et Laur. 31.10 (K)|μωμ[
 Soph. fr. 240|τὰ δ᾽ ὅσα|τάδε σε|Bergk|1859|Anon. Ambros. de re metr. 2.12|
 Soph. fr. 265|ἀντεροῦσ-|ἀνταίρουσιν|Isaac Vossius|s.xvii|Cyrill.|apud Alberti
 Soph. fr. 294|ἐπισχολάζεται|κοὐκ ἔτι σχολάζεται|Meineke|n.d.|P.Oxy. IX 1174|
