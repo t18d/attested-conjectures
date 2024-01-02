@@ -62,7 +62,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (69), Porson (56), Markland (50), Reiske (39), Elmsley (36), Adamantios Korais (36), Cobet (35), Hermann (35), Brunck (32) and Henrik van Herwerden (30).</p>
+<p>The top 10 critics are Valckenaer (69), Porson (56), Markland (50), Reiske (39), Elmsley (36), Adamantios Korais (36), Cobet (35), Hermann (35), Brunck (34) and Henrik van Herwerden (30).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -991,7 +991,12 @@ Soph. Ant. 859|οἶκτον|οἶτον|Brunck|1786-9|Kpc|
 Soph. Ant. 938|πατρογενεῖς|προγενεῖς|Valckenaer|pre-1775|Laur. 32. 9 (L)|
 Soph. Ant. 989|-ες|βλέποντε|Moriz Schmidt|1871-80|LpcKa|
 Soph. Ant. 1069|κατῴκ-|κατοικίσας|Henrik van Herwerden|n.d.|Laur. 31.10 (K)|
+Soph. Ant. 1089|-ωτέραν|ἡσυχαιτέραν|G. H. Schaefer|n.d.|Zg et Laur. 31.1|
+Soph. Ant. 1236|μέσσον/μέσον/ἐς|ἐν|Wecklein|n.d.|SZot|
+Soph. Ant. 1237|παρθένῳ|-ον|Brunck|1786-9|Paris. gr. 2884 (Ζf)|
 Soph. Ant. 1238|ἐκβάλλει|ἐμβάλλει|Markland|s.xviii med.|Berol. Phillips 1588|
+Soph. Ant. 1337|προσεύχου|κατ-|Benedict|n.d.|Vat. gr. 1333 (Zc)|
+Soph. Ant. 1337-8|Ἄγγελος|choro trib.|Buttmann|n.d.|Ambr. C. 24 sup. et Monac. gr. 500|
 Soph. Ant. 1350|μηδὲν|μηδέν’|Markland|s.xviii med.|MSS|
 Soph. El. 21|ξυνάπτετον|-έον|Toup|n.d.|Paris. gr. 2884 (Ζf)|
 Soph. El. 87|ἰσόμοιρ ̓|-μοιρος|Porson|n.d.|p|
@@ -1029,7 +1034,7 @@ Soph. OC 180|προσβίβαζε|προβίβαζε|Valckenaer|1743-6|r|
 Soph. OC 213|γεγωνῶ|γεγώνω|Reiske|1743|Laur. 32. 9 (L) et Vat. gr. 2291 (R)|
 Soph. OC 534|σοίτ’ ἄρ’/σαίτ’ ἄρ’|αὔτ’ ἄρ’|Markland|s.xviii med.|z|
 Soph. OC 566|σ’|del.|Johannes Pierson|s.xviii med.|Laur. 31.10 (K) et a|
-Soph. OC 793 schol.|-λείᾳ|Ἰφικλεῖ|Joannes Meursius|1619|Laur. 32. 9 (L)|
+Soph. OC 793 schol.|-λείᾳ|Ἰφικλεῖ|Joannes Meursius|1619|Laur. 32.9 (L)|
 Soph. OC 1012|om.|θ’|Markland|s.xviii med.|suppl. Paris. gr. 2886|
 Soph. OC 1340|-σῃς/-σεις|ξυμπαραστήσῃ|Reiske|1743|a|
 Soph. OC 1345|σθένω|θέλω|Markland|s.xviii med.|r|
@@ -1043,6 +1048,7 @@ Soph. OT 258|ἐπικυρῶ|ἐπεὶ κυρῶ|Burton|n.d.|Laur. CS 66|
 Soph. OT 281|ἂν|ἃν|Henri Estienne|n.d.|Vindob. phil. gr. 161 (Xr)|
 Soph. OT 290|παλαί ̓|μάται ̓|Halbertsma|n.d.|WaZg|
 Soph. OT 324|φών-|φρόνημ ̓|Naber|n.d.|r|
+Soph. OT 360|λέγειν|λόγων|Brunck|1786-9|Laur. 32.9 (L)|s.l. teste West
 Soph. OT 430|οὐ|αὖ|G. Wolff|1858-65|P.Oxy. I 22|in linea
 Soph. OT 433|ᾔδει(ν)|ᾔδη|Dawes|s.xviii med.|P.Oxy. XVIII 2180|in margine
 Soph. OT 446|ἀλγύναις|-οις|Elmsley|n.d.|Matrit. gr. 4677 (N)|
