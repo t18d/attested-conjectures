@@ -61,7 +61,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (69), Porson (56), Markland (50), Reiske (38), Elmsley (36), Adamantios Korais (36), Cobet (35), Hermann (33), Brunck (29) and Henrik van Herwerden (29).</p>
+<p>The top 10 critics are Valckenaer (69), Porson (56), Markland (50), Reiske (39), Elmsley (36), Adamantios Korais (36), Cobet (35), Hermann (33), Brunck (31) and Henrik van Herwerden (29).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -970,7 +970,13 @@ Soph. Ant. 365|σοφόν|δεινόν|Heimsoeth|n.d.|t|
 Soph. Ant. 384|om.|ἡ|Markland|s.xviii med.|Palat. gr. 287 (Zo)|
 Soph. Ant. 390|ποθ ̓|γ ̓ ἂν|Erfurdt|n.d.|t|
 Soph. Ant. 396|κλῆρος|κλῆρος δ ̓|G. Müller|n.d.|Paris. gr. 2884 (Ζf)|
+Soph. Ant. 404|ἴδον|ἰδὼν|Brunck|1786-9|Paris. gr. 2886|i.e. Aristobulus Apostolides
 Soph. Ant. 406|εὐρέθη|ᾑρέθη|Markland|s.xviii med.|Laur. 32. 9 (L)|fort. pc legit sch. ut videtur
+Soph. Ant. 410|εὖ|αὖ|Reiske|n.d.|Marc. gr. 468 (V)|
+Soph. Ant. 422|ἀπαλλαγέντος|-έντες|G. H. Schaefer|n.d.|Vat. gr. 2291 (R)|S in linea
+Soph. Ant. 480|τότ ̓|τόδ ̓|Sehrwald|n.d.|Laur. 31.10 (K)|
+Soph. Ant. 567|μέν σοι|μέντοι|Brunck|1786-9|Urb. gr. 141 (S)|
+Soph. Ant. 573|γε|με|Frederick H. M. Blaydes|n.d.|Zf in linea|
 Soph. Ant. 592|βρέμουσι δ'|βρέμουσιν|Johannes Pierson|s.xviii med.|Palat. gr. 287 (Zo)|
 Soph. Ant. 599|ὑπὲρ|ὅπερ|Markland|s.xviii med.|Laur. 31.10 (K)|s.l. (ex sch.)
 Soph. Ant. 695|ἀπ’|ἐπ’|Johannes Pierson|s.xviii med.|Paris. gr. 2712 (A)|
