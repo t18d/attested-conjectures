@@ -7,7 +7,7 @@ plugins:
   - jekyll-sitemap
 defaults:
    - scope:
-       path: "/"
+       path: "README.md"
      values:
        seo:
          type: WebPage
