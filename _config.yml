@@ -10,5 +10,4 @@ defaults:
       path: ""
     values:
       seo:
-        name: null
         type: WebPage
