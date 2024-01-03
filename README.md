@@ -62,7 +62,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (69), Porson (56), Markland (50), Reiske (39), Hermann (37), Elmsley (36), Adamantios Korais (36), Cobet (35), Brunck (34) and Frederick H. M. Blaydes (32).</p>
+<p>The top 10 critics are Valckenaer (69), Porson (56), Markland (50), Reiske (39), Hermann (37), Elmsley (36), Adamantios Korais (36), Cobet (35), Brunck (35) and Frederick H. M. Blaydes (32).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1106,6 +1106,10 @@ Soph. Phil. 306|ἀνθρώπων|-ῷ|Frederick H. M. Blaydes|n.d.|Paris. gr. 2
 Soph. Phil. 361|πρὸς φίλους|προσφιλῶς|Bothe|n.d.|Vat. gr. 2291 (R)|
 Soph. Phil. 481|-ῃ/-ου|ὅποι|Wakefield|n.d.|KZo|
 Soph. Phil. 496|πέμψαντα|πλεύσαντα|Frederick H. M. Blaydes|n.d.|Sγρ|
+Soph. Phil. 496|-οις|δόμους|Wunder|n.d.|Paris. suppl. gr. 109 (Q)|
+Soph. Phil. 510| ̓Ατρείδας| ̓Ατρείδας ἔχθεις|Bergk|n.d.|Vat. gr. 2291 (R)|
+Soph. Phil. 524|γέ μ ̓|γ ̓ ἔμ ̓|Brunck|1786-9|Urb. gr. 141 (S)|
+Soph. Phil. 588|μηδέν'|μηδὲν|Linwood|n.d.|Palat. gr. 287 (Zo)|
 Soph. Phil. 614|ἤκουσεν|ἤκουσ’|Markland|s.xviii med.|z|
 Soph. Phil. 614|ἤκουσεν|ἤκουσ’|Valckenaer|pre-1775|z|
 Soph. Phil. 896|λόγῳ|λόγων|Valckenaer|pre-1775|Lond. Bibl.Brit.Harl. 5743|Miscell. Obs. Nov. T 3 p. 23 (?)
