@@ -63,7 +63,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (69), Porson (56), Markland (50), Hermann (41), Elmsley (40), Frederick H. M. Blaydes (40), Reiske (39), Adamantios Korais (36), Cobet (35) and Brunck (35).</p>
+<p>The top 10 critics are Valckenaer (70), Porson (56), Markland (50), Hermann (41), Elmsley (40), Frederick H. M. Blaydes (40), Reiske (39), Adamantios Korais (36), Cobet (35) and Brunck (35).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -253,6 +253,7 @@ Eur. Alc. 909|-ὰς|πολιᾶς|Lenting|n.d.|Laur. 31.10 (O)|
 Eur. Alc. 1037|ἀτιμάζων|ἀτίζων|Scaliger|n.d.|Harl. 5743 (Q)|
 Eur. Alc. 1092|ὅπουπερ ἔστι|ὅτου πάρεστι|Andreas Weidner|1883|Harl. 5743 (Q)|ὅπου πάρεστι Q; https://hdl.handle.net/2027/coo.31924026460356
 Eur. Alc. 1112|-μοις|δόμους|Monk|n.d.|Marc. gr. IX 10|
+Eur. Andr. 7|habent|del.|Valckenaer|n.d.|P.Oxy. III 449|
 Eur. Andr. 404|δῆτ᾽ ἐμοὶ|δῆτά μοι|Radermacher|n.d.|lΣy et Σy|
 Eur. Andr. 814|μέγ᾽ ἀλγεῖ|μεταλγεῖ|Nauck|n.d.|γρΣv et iΣhb|
 Eur. Andr. 832|-λοις|πέπλους|Reiske|n.d.|Laur. 31.10 (O)|
@@ -465,6 +466,7 @@ Eur. Or. arg. 34|καὶ κ. ὑπὸ μ.|ὑπὸ μανίας καὶ κείμ
 Eur. Or. arg. 38|om.|οὕτω|Wecklein|n.d.|Athos Dionysiou 334 (Ad)|
 Eur. Ph. 21|-χεῖον|βακχείαν|Arnim|n.d.|Marc. gr. 468 (F)|
 Eur. Ph. 26|-σον|μέσων|Reiske|n.d.|P.Oxy. XLVII 3321 etc.|
+Eur. Ph. 52|habent|del.|Bergk|n.d.|P.Oxy. XLVII 3322|
 Eur. Ph. 61|εἰς|ε̣ς|Valckenaer|n.d.|P.Oxy. XLVII 3322|
 Eur. Ph. 76|-ην|πολυνείκη|Elmsley|n.d.|Athos Vatopediou 671 (At)|
 Eur. Ph. 86|-τὸν|βροτῶν|Markland|n.d.|Ambros. F 74 sup. (Ab)|teste Burges, ClJ 25 (1822) 342
