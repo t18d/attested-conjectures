@@ -1,6 +1,5 @@
 name: Open Source by Tonkünstler-on-the-Bund
 title: null
-tagline: A hard look at the soft practice of textual criticism
 description: A hard look at the soft practice of textual criticism
 locale: en_GB
 plugins:
@@ -12,3 +11,4 @@ defaults:
      values:
        seo:
          type: WebPage
+         name: ""
