@@ -63,7 +63,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (71), Porson (57), Markland (50), Hermann (41), Elmsley (40), Frederick H. M. Blaydes (40), Reiske (39), Brunck (37), Adamantios Korais (36) and Cobet (35).</p>
+<p>The top 10 critics are Valckenaer (71), Porson (57), Markland (50), Hermann (41), Frederick H. M. Blaydes (41), Elmsley (40), Reiske (39), Brunck (37), Adamantios Korais (36) and Cobet (35).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -114,6 +114,8 @@ Ar. Ach. 297|σύ μοι|μοι σὺ|Hermann|s.xviii/xix|P.Oxy. LXVI 4510|
 Ar. Ach. 323|γ' ἆρα|τἄρα|Elmsley|1809|P.Oxy. LXVI 4510|E. was an heir
 Ar. Ach. 325|δήξομαι γὰρ (vel γ' ἄρ') ὑμᾶς|δήξομἄρ' ὑμᾶς|Bentley|s.xviii in.|P.Oxy. LXVI 4510|
 Ar. Ach. 401|σαφῶς|σοφῶς|Valckenaer|1757|Rav. 429 (R)|
+Ar. Ach. 636|ο. πρέσβεις ἀ. τ. πόλεων|ἀπὸ τῶν πόλεων οἱ πρέσβεις|Bentley|n.d.|BKT V/II 231|
+Ar. Ach. 819|Ἑρμ᾽ ἐμπολαῖε|Ἑρμᾶ ᾽μπολαῖε|Scaliger|n.d.|BKT V/II 231|
 Ar. Ach. 912|δαὶ|δὲ|Bentley|n.d.|BKT V/II 231|
 Ar. Ach. 917|θρυαλλίδας|θρυαλλίδα|Elmsley|1809|BKT V/II 231|
 Ar. Ach. 928|φορούμενος|φερόμενος|Brunck|1783|BKT V/II 231|
@@ -135,7 +137,9 @@ Ar. Eq. 84b schol.|πλεῖον/πλείω|πλείους|Dindorf|1837|Estensis
 Ar. Eq. 143|ἐξολῶν|ἐξελῶν|Valckenaer|1757|Rav. 429 (R) et sch.|V. cites the scholia
 Ar. Eq. 881|τηλικουτονί|τηλικοῦτον|Valckenaer|1757|Laur. 31.13 (X)|
 Ar. Eq. 1017|ἐκέλευσ'|ἐκελευ'|Frederick H. M. Blaydes|1882|P.Oxy. XI 1373|
+Ar. Eq. 1046|-ροῦν|σιδήρου|Bergk|n.d.|P.Bingen 18|ac
 Ar. Eq. 1058|φράσαι/φράζευ|φρασ]σαι|Brunck|1783|P.Oxy. XI 1373|
+Ar. Eq. 1070|ἑκάστοτε|ἑκάστοθ᾽ ἃς|Frederick H. M. Blaydes|1882|P.Oxy. XXXI 2545|
 Ar. Lys. 427|ἀλλ’|ἄλλ’|Valckenaer|1757|MS (Brunck 1781)|
 Ar. Lys. 476|τοῖσι(ν)|τοῖς|Bentley|1710|P.Bodl. gr. class. e. 87|
 Ar. Nub. 507|μελιττοῦταν|μελιτοῦτταν|Valckenaer|s.xviii ex.|Laur. conv. soppr. 140|
