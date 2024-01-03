@@ -63,7 +63,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (71), Porson (56), Markland (50), Hermann (41), Elmsley (40), Frederick H. M. Blaydes (40), Reiske (39), Adamantios Korais (36), Cobet (35) and Brunck (35).</p>
+<p>The top 10 critics are Valckenaer (71), Porson (57), Markland (50), Hermann (41), Elmsley (40), Frederick H. M. Blaydes (40), Reiske (39), Brunck (37), Adamantios Korais (36) and Cobet (35).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -136,6 +136,7 @@ Ar. Eq. 881|τηλικουτονί|τηλικοῦτον|Valckenaer|1757|Laur. 3
 Ar. Eq. 1017|ἐκέλευσ'|ἐκελευ'|Frederick H. M. Blaydes|1882|P.Oxy. XI 1373|
 Ar. Eq. 1058|φράσαι/φράζευ|φρασ]σαι|Brunck|1783|P.Oxy. XI 1373|
 Ar. Lys. 427|ἀλλ’|ἄλλ’|Valckenaer|1757|MS (Brunck 1781)|
+Ar. Lys. 476|τοῖσι(ν)|τοῖς|Bentley|1710|P.Bodl. gr. class. e. 87|
 Ar. Nub. 507|μελιττοῦταν|μελιτοῦτταν|Valckenaer|s.xviii ex.|Laur. conv. soppr. 140|
 Ar. Pax 1013|ἀποχειρωθείς|ἀποχηρωθείς|Valckenaer|1757|Marc. gr. 474 (V)|
 Ar. Plut. 179 schol.|ανόητον|ὄνον τὸν|Bentley|1710|Estensis α.U.5.10 (E)|ap. Kusterum, Not. p. 321
@@ -148,6 +149,10 @@ Ar. Ran. 673|ποιῆσαι|νοῆσαι|Valckenaer|1757|Marc. gr. 474 (V)|
 Ar. Ran. 690|ἐγγενέσθαι|ἐκγένεσθαι|Valckenaer|1757|Md1 et U et Vs1|ἐκγενέσθαι MSS
 Ar. Ran. 743|οἴμωζε|ᾤμωζε|Valckenaer|1757|Neap. II F 22 (Np1)|
 Ar. Ran. 1496|-σι|σεμνοῖσιν|Brunck|1783|Bodl. Holkh. gr. 88 (L)|
+Ar. Th. 285|τὸ πόπανον|τὰ πόπαν'|Porson|n.d.|PSI XI 1194|
+Ar. Th. 745|τυν-|τυννοῦτον et -το|Brunck|1783|P.Oxy. LVI 3839|
+Ar. Th. 746|-εν|γέγονε|Brunck|1783|P.Oxy. LVI 3839|
+Ar. Th. 754|μοι τὸ|τὸ|Lobeck|n.d.|P.Oxy. LVI 3839|
 Ar. Vesp. 576|γράψομαι|γράφομαι|Brunck|1783|P.Oxy. XI 1374|
 Ar. Vesp. 790|ἐπέθηκε|ἐνέθηκε|Bergk|n.d.|P.Oxy. XI 1374|
 Ar. Vesp. 1132/5|ἀναλαβοῦ|ἀναβαλοῦ|Valckenaer|1757|B et Rpc|
