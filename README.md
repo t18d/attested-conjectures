@@ -63,7 +63,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (70), Porson (56), Markland (50), Hermann (41), Elmsley (40), Frederick H. M. Blaydes (40), Reiske (39), Adamantios Korais (36), Cobet (35) and Brunck (35).</p>
+<p>The top 10 critics are Valckenaer (71), Porson (56), Markland (50), Hermann (41), Elmsley (40), Frederick H. M. Blaydes (40), Reiske (39), Adamantios Korais (36), Cobet (35) and Brunck (35).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -491,6 +491,7 @@ Eur. Ph. 381|φῦναί|-σαί|Hermann|n.d.|fere FcRwZu|
 Eur. Ph. 386|ταῦτ᾽|ταὔτ᾽|Bothe|1825|fere AS|
 Eur. Ph. 403|τις δυστυχῆι|τι δυστυχῆις|Elmsley|n.d.|Σ anon.|
 Eur. Ph. 420|θηρσὶ|θηρσὶν|Valckenaer|n.d.|AC|
+Eur. Ph. 436|habent|del.|Nauck|n.d.|P.Oxy. LX 4012|
 Eur. Ph. 437|με καὶ σὲ|σ]ε κὰμε̣[ |Elmsley|n.d.|P.Oxy. LX 4012|
 Eur. Ph. 483|ἐμῶν|ἐμὸν|Grotius|n.d.|Arund. 540 (Za)|
 Eur. Ph. 487|αὖθις|αὖθις αὖ|Canter|n.d.|TzZb|
@@ -507,8 +508,10 @@ Eur. Ph. 663|ὤλεσε(ν)|ὄλεσε|Bergk|n.d.|Salam. 31 (S)|
 Eur. Ph. 663|ὤλεσε(ν)|ὄλεσε|Hermann|n.d.|Salam. 31 (S)|
 Eur. Ph. 701|-ῶι|πολλῶν|Burges|n.d.|AdHl|
 Eur. Ph. 714|μαχουμένους|-νοις|Porson|n.d.|O et Rf1c|
+Eur. Ph. 778|habent|del.|Adolf Kirchhoff|n.d.|P.Mert. II 54|
 Eur. Ph. 786|οὐκ ἐπὶ|οὐκέτι|F. A. Paley|1879|Vindob. phil. gr. 119 (Rw)|
 Eur. Ph. 793|τ'|δ'|Geel|n.d.|Cremon. 130 (Cr)|
+Eur. Ph. 800|habent|del.|Nauck|n.d.|P.Mert. II 54|
 Eur. Ph. 833|ἕστακ'|-ακεν|Hermann|n.d.|manus Triclinii|
 Eur. Ph. 865|κληί-|κλήισας|Joshua Barnes|n.d.|Gs|
 Eur. Ph. 873|ὑπεκδ-|ὑπερδραμούμενοι|Zakas|n.d.|RAa|
@@ -528,6 +531,7 @@ Eur. Ph. 1086|σεσωσμ-|σεσωμενης|Wecklein|n.d.|P.Berol. inv. 11868
 Eur. Ph. 1104|-ίταις|νηίσταις|Unger|n.d.|T.Vindob. inv. G HT 6|
 Eur. Ph. 1130|σιδηρονώτοις|-του|Valckenaer|n.d.|T.Vindob. inv. G HT 6|
 Eur. Ph. 1132|βίαι|βάθρων|Adolf Kirchhoff|1855|T.Vindob. inv. G HT 6|
+Eur. Ph. 1147|τ'|del.|Valckenaer|n.d.|VG|
 Eur. Ph. 1149 schol.|-ϲτρέψαι|ἀναϲτέψαι|Joshua Barnes|1694|Vat. 909 (V)|
 Eur. Ph. 1170|δ' (prius)|τ'|Lenting|n.d.|F1c|
 Eur. Ph. 1186|ἑλ-|εἱλίσσετ᾽|Benjamin Heath|n.d.|Cantab. Nn. 3.14 (Z)|
