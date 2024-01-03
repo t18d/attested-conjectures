@@ -62,7 +62,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (69), Porson (56), Markland (50), Elmsley (40), Hermann (39), Frederick H. M. Blaydes (39), Reiske (39), Adamantios Korais (36), Cobet (35) and Brunck (35).</p>
+<p>The top 10 critics are Valckenaer (69), Porson (56), Markland (50), Hermann (41), Elmsley (40), Frederick H. M. Blaydes (40), Reiske (39), Adamantios Korais (36), Cobet (35) and Brunck (35).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1061,6 +1061,11 @@ Soph. OC 1492|-αν|ἄκρον|Vauvilliers|n.d.|Qγρ|
 Soph. OC 1515|στρέψαντα|στράψαντα|Reiske|1743|Laur. 31.10 (K)|
 Soph. OC 1596|κἀπὸ|κἀπὶ|Canter|n.d.|Laur. 31.10 (K)|
 Soph. OC 1619|βίοτον/βίωτον|τοῦ βίου|Fröhlich|n.d.|Sud. s.v. τητᾶσθαι|
+Soph. OC 1682|φαινόμεναι|φερόμεναι|Hermann|n.d.|t|
+Soph. OC 1728|ἔγωγε|ἐγώ|Nauck|n.d.|Palat. gr. 287 (Zo)|
+Soph. OC 1735|ποῖ|πῇ|Halm|n.d.|Laur. 31.10 (K)|
+Soph. OC 1736|τλάμονων|τλάμον ̓|Hermann|n.d.|r|
+Soph. OC 1736|ἕξω/ἔξω|ἄξω|Frederick H. M. Blaydes|n.d.|Laur. 31.10 (K)|
 Soph. OT 75|χρόνου|-ον|Purgold|n.d.|Marc. gr. 468 (V)|
 Soph. OT 79|προσστείχοντα|προστ-|Erfurdt|1802-25|Vat. gr. 2291 (R)|
 Soph. OT 188|ὧν|τῶν|B. H. Kennedy|1885|PSI XI 1192|τω]ν
