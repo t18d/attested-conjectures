@@ -5,9 +5,3 @@ locale: en_GB
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-defaults:
-  - scope:
-      path: ""
-    values:
-      seo:
-        type: WebPage
