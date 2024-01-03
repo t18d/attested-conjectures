@@ -62,7 +62,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (69), Porson (56), Markland (50), Reiske (39), Hermann (37), Elmsley (37), Adamantios Korais (36), Cobet (35), Brunck (35) and Frederick H. M. Blaydes (34).</p>
+<p>The top 10 critics are Valckenaer (69), Porson (56), Markland (50), Reiske (39), Hermann (38), Elmsley (38), Adamantios Korais (36), Cobet (35), Brunck (35) and Frederick H. M. Blaydes (34).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1123,9 +1123,14 @@ Soph. Phil. 896|λόγῳ|λόγων|Valckenaer|pre-1775|Harl. 5743|Miscell. Obs
 Soph. Phil. 928|εἰργάσω|εἴργασαι|Elmsley|n.d.|Palat. gr. 287 (Zo)|
 Soph. Phil. 1007|-α|οἷον|Frederick H. M. Blaydes|n.d.|Laur. 32.2 (Zg)|
 Soph. Phil. 1007|ὥς|ὅς|Wakefield|n.d.|r|
-Soph. Phil. 1028|ἐξέβαλον/ἔκβαλον/ἐκβάλλον|ἔβαλον|Johannes Pierson|s.xviii med.|L et a et Zo|
+Soph. Phil. 1028|ἐξέβαλον/ἔκβαλον/ἐκβάλλον|ἔβαλον|Johannes Pierson|s.xviii med.|LaZo|
 Soph. Phil. 1032|ἐμοῦ|ὁμοῦ|Gernhard|n.d.|Gγρ|
+Soph. Phil. 1079|ὁρμώμεθον|-μεθα|Elmsley|n.d.|Urb. gr. 141 (S)|
+Soph. Phil. 1095|οὐκ|κοὐκ|Erfurdt|n.d.|SQ|
+Soph. Phil. 1138|ὅσ ̓|ὅς|Bothe|n.d.|Marc. gr. 468 (V)|
+Soph. Phil. 1144|ἐφημοσύνᾳ/εὐφ-|ὑφ-|Hermann|n.d.|Marc. gr. 616 (Zr)|
 Soph. Phil. 1238|ταῦτα|ταὐτὰ|Markland|s.xviii med.|LGRS|
+Soph. Phil. 1243|τοῖσδ ̓|τοῖς|Buttmann|n.d.|z|
 Soph. T 1.9|σαφίλου/σοφίλου|Ἀναίους|Anton Westermann|1845|Laur. 28.25 (F)|
 Soph. T 1.16|(ἐν) τῇ|ἐν|Frederick H. M. Blaydes|1859|Vindob. phil. gr. 281 (Wc)|
 Soph. T 1.20 = fr. 965.2|ὀδυσσ-/ὠδυσσ-|ὠδύσαντο|G. H. Schaefer|1810|Paris. gr. 2712 (A)|
