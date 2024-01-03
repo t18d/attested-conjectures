@@ -63,7 +63,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (71), Porson (58), Markland (50), Hermann (41), Frederick H. M. Blaydes (41), Elmsley (40), Reiske (39), Brunck (37), Adamantios Korais (36), Cobet (35) and Bentley (35) (tied).</p>
+<p>The top 10 critics are Valckenaer (71), Porson (60), Markland (50), Hermann (41), Frederick H. M. Blaydes (41), Elmsley (40), Reiske (39), Brunck (37), Bentley (36) and Adamantios Korais (36).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -156,8 +156,11 @@ Ar. Eq. 1017|ἐκέλευσ'|ἐκελευ'|Frederick H. M. Blaydes|1882|P.Oxy.
 Ar. Eq. 1046|-ροῦν|σιδήρου|Bergk|n.d.|P.Bingen 18|ac
 Ar. Eq. 1058|φράσαι/φράζευ|φρασ]σαι|Brunck|1783|P.Oxy. XI 1373|
 Ar. Eq. 1070|ἑκάστοτε|ἑκάστοθ᾽ ἃς|Frederick H. M. Blaydes|1882|P.Oxy. XXXI 2545|
+Ar. Eq. 1158|φράσεις|-ῃς|Porson|n.d.|VΓ|
 Ar. Lys. 427|ἀλλ’|ἄλλ’|Valckenaer|1757|MS (Brunck 1781)|
 Ar. Lys. 476|τοῖσι(ν)|τοῖς|Bentley|s.xviii in.|P.Bodl. gr. class. e. 87|
+Ar. Nub. 137|ἐξευρ-|ἐξηυρημένην|Porson|n.d.|Paris. gr. 2712 (A)|
+Ar. Nub. 185|δοκοῦϲιν ἐ.|δοκοῦϲ᾽ ἐοικέναι|Bentley|s.xviii in.|Neap. II F 22 (Np1)|
 Ar. Nub. 507|μελιττοῦταν|μελιτοῦτταν|Valckenaer|s.xviii ex.|Laur. conv. soppr. 140|
 Ar. Pax 758|om.|alterum δ'|Bentley|s.xviii in.|PSI VI 720|
 Ar. Pax 1013|ἀποχειρωθείς|ἀποχηρωθείς|Valckenaer|1757|Marc. gr. 474 (V)|
