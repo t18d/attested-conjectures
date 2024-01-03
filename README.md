@@ -62,7 +62,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (69), Porson (56), Markland (50), Reiske (39), Hermann (38), Elmsley (38), Adamantios Korais (36), Cobet (35), Brunck (35) and Frederick H. M. Blaydes (34).</p>
+<p>The top 10 critics are Valckenaer (69), Porson (56), Markland (50), Hermann (39), Reiske (39), Elmsley (38), Frederick H. M. Blaydes (36), Adamantios Korais (36), Cobet (35) and Brunck (35).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1132,6 +1132,11 @@ Soph. Phil. 1144|ἐφημοσύνᾳ/εὐφ-|ὑφ-|Hermann|n.d.|Marc. gr. 616
 Soph. Phil. 1238|ταῦτα|ταὐτὰ|Markland|s.xviii med.|LGRS|
 Soph. Phil. 1243|τοῖσδ ̓|τοῖς|Buttmann|n.d.|z|
 Soph. Phil. 1289|-ιστον|ὑψίστου|Wakefield|n.d.|VTa|
+Soph. Phil. 1330|ὡς|ἕως|Denys Lambin|n.d.|Paris. suppl. gr. 109 (Q)|
+Soph. Phil. 1362|δ'|γ'|Frederick H. M. Blaydes|n.d.|VQ|
+Soph. Phil. 1399|πέμπειν|πέμψειν|Frederick H. M. Blaydes|n.d.|Laur. conv. soppr. 152 (G)|
+Soph. Phil. 1401|τεθρήνηται|τεθρύληται|Hermann|n.d.|Paris. gr. 2886|
+Soph. Phil. 1429|ἐκβαλὼν|ἐκλαβὼν|Turnebus|n.d.|Zopc|
 Soph. T 1.9|σαφίλου/σοφίλου|Ἀναίους|Anton Westermann|1845|Laur. 28.25 (F)|
 Soph. T 1.16|(ἐν) τῇ|ἐν|Frederick H. M. Blaydes|1859|Vindob. phil. gr. 281 (Wc)|
 Soph. T 1.20 = fr. 965.2|ὀδυσσ-/ὠδυσσ-|ὠδύσαντο|G. H. Schaefer|1810|Paris. gr. 2712 (A)|
