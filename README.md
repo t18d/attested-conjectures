@@ -1131,6 +1131,7 @@ Soph. Phil. 1138|ὅσ ̓|ὅς|Bothe|n.d.|Marc. gr. 468 (V)|
 Soph. Phil. 1144|ἐφημοσύνᾳ/εὐφ-|ὑφ-|Hermann|n.d.|Marc. gr. 616 (Zr)|
 Soph. Phil. 1238|ταῦτα|ταὐτὰ|Markland|s.xviii med.|LGRS|
 Soph. Phil. 1243|τοῖσδ ̓|τοῖς|Buttmann|n.d.|z|
+Soph. Phil. 1289|-ιστον|ὑψίστου|Wakefield|n.d.|VTa|
 Soph. T 1.9|σαφίλου/σοφίλου|Ἀναίους|Anton Westermann|1845|Laur. 28.25 (F)|
 Soph. T 1.16|(ἐν) τῇ|ἐν|Frederick H. M. Blaydes|1859|Vindob. phil. gr. 281 (Wc)|
 Soph. T 1.20 = fr. 965.2|ὀδυσσ-/ὠδυσσ-|ὠδύσαντο|G. H. Schaefer|1810|Paris. gr. 2712 (A)|
