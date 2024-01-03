@@ -62,7 +62,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (69), Porson (56), Markland (50), Elmsley (40), Frederick H. M. Blaydes (39), Reiske (39), Hermann (38), Adamantios Korais (36), Cobet (35) and Brunck (35).</p>
+<p>The top 10 critics are Valckenaer (69), Porson (56), Markland (50), Elmsley (40), Hermann (39), Frederick H. M. Blaydes (39), Reiske (39), Adamantios Korais (36), Cobet (35) and Brunck (35).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1052,9 +1052,15 @@ Soph. OC 818|σοι/σε|σου|Frederick H. M. Blaydes|n.d.|r|
 Soph. OC 942|-οὺς|αὐτοῖς|Scaliger|n.d.|Kr|
 Soph. OC 1012|om.|θ’|Markland|s.xviii med.|suppl. Paris. gr. 2886|
 Soph. OC 1112|-δεξιὸν/ἀμφὶ δεξιὸν|ἀμφιδέξιον|Mudge|n.d.|r|
+Soph. OC 1220|-κορ-/ἔπι κορος|ἐπίκουρος|Hermann|n.d.|r|
+Soph. OC 1262|φορεῖ|φέρει|Meineke|n.d.|Marc. gr. 616 (Zr)|teste Pearson
 Soph. OC 1340|-σῃς/-σεις|ξυμπαραστήσῃ|Reiske|1743|a|
+Soph. OC 1341|χρόνῳ|πόνῳ|P. P. Dobree|n.d.|a s.l.|
 Soph. OC 1345|σθένω|θέλω|Markland|s.xviii med.|r|
+Soph. OC 1492|-αν|ἄκρον|Vauvilliers|n.d.|Qγρ|
 Soph. OC 1515|στρέψαντα|στράψαντα|Reiske|1743|Laur. 31.10 (K)|
+Soph. OC 1596|κἀπὸ|κἀπὶ|Canter|n.d.|Laur. 31.10 (K)|
+Soph. OC 1619|βίοτον/βίωτον|τοῦ βίου|Fröhlich|n.d.|Sud. s.v. τητᾶσθαι|
 Soph. OT 75|χρόνου|-ον|Purgold|n.d.|Marc. gr. 468 (V)|
 Soph. OT 79|προσστείχοντα|προστ-|Erfurdt|1802-25|Vat. gr. 2291 (R)|
 Soph. OT 188|ὧν|τῶν|B. H. Kennedy|1885|PSI XI 1192|τω]ν
