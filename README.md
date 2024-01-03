@@ -1110,8 +1110,12 @@ Soph. Phil. 496|-οις|δόμους|Wunder|n.d.|Paris. suppl. gr. 109 (Q)|
 Soph. Phil. 510| ̓Ατρείδας| ̓Ατρείδας ἔχθεις|Bergk|n.d.|Vat. gr. 2291 (R)|
 Soph. Phil. 524|γέ μ ̓|γ ̓ ἔμ ̓|Brunck|1786-9|Urb. gr. 141 (S)|
 Soph. Phil. 588|μηδέν'|μηδὲν|Linwood|n.d.|Palat. gr. 287 (Zo)|
+Soph. Phil. 597|δράσειν|πράσσειν|J. H. Wright|n.d.|Paris. suppl. gr. 109 (Q)|
+Soph. Phil. 600|τ'|γ'|Benjamin Heath|n.d.|Laur. 32.2 (Zg)|
 Soph. Phil. 614|ἤκουσεν|ἤκουσ’|Markland|s.xviii med.|z|
 Soph. Phil. 614|ἤκουσεν|ἤκουσ’|Valckenaer|pre-1775|z|
+Soph. Phil. 728|-ει|πλάθη|Bergk|n.d.|r|
+Soph. Phil. 760||Philoctetae trib.|Lindner|n.d.|VTa|
 Soph. Phil. 896|λόγῳ|λόγων|Valckenaer|pre-1775|Lond. Bibl.Brit.Harl. 5743|Miscell. Obs. Nov. T 3 p. 23 (?)
 Soph. Phil. 1028|ἐξέβαλον/ἔκβαλον/ἐκβάλλον|ἔβαλον|Johannes Pierson|s.xviii med.|L et a et Zo|
 Soph. Phil. 1238|ταῦτα|ταὐτὰ|Markland|s.xviii med.|LGRS|
