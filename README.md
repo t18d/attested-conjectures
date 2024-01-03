@@ -128,6 +128,7 @@ Ar. Av. 1314|καλεῖ|καλοῖ|Valckenaer|1757|Γ s.l. et Bp|
 Ar. Av. 1672|καταστήσω|καταστήσας|R. B. Hirschig|1849|P.Oxy. LXVI 4516|
 Ar. Av. 1693|διδότω|δότω|Valckenaer|1757|ΓUL|
 Ar. Eccl. 51|Φιλοδωρίτου|Φιλοδωρήτου|Valckenaer|1757|Paris. gr. 2712 (A)|
+Ar. Eccl. 652|-ῶς|λιπαρῷ|Bentley|n.d.|P.Mich. inv. 6649|
 Ar. Eccl. 707|λαβούσας|λαβόντας|Valckenaer|1757|Rav. 429 (R) et Perus. H 56 (Λ)|tacite
 Ar. Eccl. 1124|ἔχει/ἔχοι|ἔχῃ|Valckenaer|1757|Perus. H 56 (Λ)|tacite
 Ar. Eq. 84b schol.|πλεῖον/πλείω|πλείους|Dindorf|1837|Estensis α.U.5.10 (E)|
@@ -139,7 +140,9 @@ Ar. Lys. 427|ἀλλ’|ἄλλ’|Valckenaer|1757|MS (Brunck 1781)|
 Ar. Lys. 476|τοῖσι(ν)|τοῖς|Bentley|1710|P.Bodl. gr. class. e. 87|
 Ar. Nub. 507|μελιττοῦταν|μελιτοῦτταν|Valckenaer|s.xviii ex.|Laur. conv. soppr. 140|
 Ar. Pax 1013|ἀποχειρωθείς|ἀποχηρωθείς|Valckenaer|1757|Marc. gr. 474 (V)|
+Ar. Plut. 4|ταῦτα|ταὐτὰ|Thomas Magister|n.d.|P.Oxy. XIII 1617|
 Ar. Plut. 179 schol.|ανόητον|ὄνον τὸν|Bentley|1710|Estensis α.U.5.10 (E)|ap. Kusterum, Not. p. 321
+Ar. Plut. 499|ἐ. σ. τ. μ.|τούτου μάρτυς ἐγώ σοι|Hall & Geldart|n.d.|P.Ant. l1I 180|
 Ar. Plut. 1018|παγκάλας|παγκάλους|Valckenaer|1757|Mpc et L|
 Ar. Plut. 1037|τυγχάνει|τυγχάνοι|Valckenaer|1757|Marc. gr. 474 (V)|
 Ar. Plut. 1116|ἐπιθύει|ἔτι θύει|Valckenaer|1757|Marc. gr. 474 (V)|
@@ -150,9 +153,11 @@ Ar. Ran. 690|ἐγγενέσθαι|ἐκγένεσθαι|Valckenaer|1757|Md1 et 
 Ar. Ran. 743|οἴμωζε|ᾤμωζε|Valckenaer|1757|Neap. II F 22 (Np1)|
 Ar. Ran. 1496|-σι|σεμνοῖσιν|Brunck|1783|Bodl. Holkh. gr. 88 (L)|
 Ar. Th. 285|τὸ πόπανον|τὰ πόπαν'|Porson|n.d.|PSI XI 1194|
+Ar. Th. 287|Φερσέ-|Φερρέφαττα|Thiersch|n.d.|PSI XI 1194|
 Ar. Th. 745|τυν-|τυννοῦτον et -το|Brunck|1783|P.Oxy. LVI 3839|
 Ar. Th. 746|-εν|γέγονε|Brunck|1783|P.Oxy. LVI 3839|
 Ar. Th. 754|μοι τὸ|τὸ|Lobeck|n.d.|P.Oxy. LVI 3839|
+Ar. Th. 1185|-ύλῃ|γογγυλί|Enger|n.d.|P.Oxy. LVI 3840|
 Ar. Vesp. 576|γράψομαι|γράφομαι|Brunck|1783|P.Oxy. XI 1374|
 Ar. Vesp. 790|ἐπέθηκε|ἐνέθηκε|Bergk|n.d.|P.Oxy. XI 1374|
 Ar. Vesp. 1132/5|ἀναλαβοῦ|ἀναβαλοῦ|Valckenaer|1757|B et Rpc|
