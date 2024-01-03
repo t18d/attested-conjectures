@@ -14,7 +14,7 @@
     </ul>
     <h3>Sources</h3>
     <ul>
-        <li>P.Oxy. I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XV, XVII, XIX, XX, XXII, XXIV, XXVI, XXVII, XXXII, XXXVIII, XLI, XLII, XLIV, XLV, XLVII, XLIX, L, LIII, LIV, LXXXI</li>
+        <li>P.Oxy. I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XV, XVII, XIX, XX, XXII, XXIV, XXVI, XXVII, XXXII, XXXVIII, XLI, XLII, XLIV, XLV, XLVII, XLIX, L, LIII, LIV, LVI, LXXXI</li>
         <li>Borges, Cassandra, and C. Michael Sampson, <em>New literary papyri from the Michigan collection: mythographic lyric and a catalogue of poetic first lines</em> (Ann Arbor, 2012), 20.</li>
         <li>Callimachus, <em>Fragmenta</em>, ed. Rudolf Pfeiffer (Oxford, 1949).</li>
         <li>Callimachus, <em>Hymni et Epigrammata</em>, ed. Rudolf Pfeiffer (Oxford, 1953).</li>
