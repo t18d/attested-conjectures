@@ -1,7 +1,3 @@
----
-seo:
-  type: WebPage
----
 # Database of Greek and Latin Conjectural Emendations Attested in MSS
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
 <preface> <!-- for sake of completeness -->
