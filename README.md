@@ -52,6 +52,7 @@
         <li>Radt, Stefan (ed.), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, iv: <em>Sophocles</em> (2nd edn, Göttingen, 1999).</li>
         <li>Snell, Bruno, and Richard Kannicht (eds), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, i: <em>Didascaliae tragicae; Catalogi tragicorum et tragoediarum; Testimonia et fragmenta tragicorum minorum</em> (Göttingen, 1986).</li>
         <li>Sommerstein, Alan H., 'The history of the text of Aristophanes', in <em>Brill's Companion to the Study of Greek Comedy</em> (Brill, 2010), 399–422 at 412n69.</li>
+        <li>Sophocles, <em>Fabulae</em>, ed. H. Lloyd-Jones and N. G. Wilson (Oxford, 1990).</li>
         <li>Theodoridis, Christos (ed.), <em>Die Fragmente Des Grammatikers Philoxenos</em> (Berlin, 1976).</li>
         <li>Thucydides, <em>Historiae</em>, ed. Ioannes Baptista Alberti, 3 vols (Rome, 1972–2000).</li>
         <li>Wilson, N. G., <em>Herodotea: studies on the text of Herodotus</em> (Oxford, 2015), xii–xiii.</li>
