@@ -63,7 +63,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (71), Porson (58), Markland (50), Hermann (41), Frederick H. M. Blaydes (41), Elmsley (40), Reiske (39), Brunck (37), Adamantios Korais (36) and Cobet (35).</p>
+<p>The top 10 critics are Valckenaer (71), Porson (58), Markland (50), Hermann (41), Frederick H. M. Blaydes (41), Elmsley (40), Reiske (39), Brunck (37), Adamantios Korais (36), Cobet (35) and Bentley (35) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -150,6 +150,8 @@ Ar. Eq. 143|ἐξολῶν|ἐξελῶν|Valckenaer|1757|Rav. 429 (R) et sch.|V
 Ar. Eq. 424|-υον vel sim.|ἀπώμνυν|Bentley|s.xviii in.|G et Par 6|
 Ar. Eq. 802|-ξῃς/-σῃς vel sim.|ἁρπάζῃς|Bentley|s.xviii in.|Paris. gr. 2715 (B)|
 Ar. Eq. 881|τηλικουτονί|τηλικοῦτον|Valckenaer|1757|Laur. 31.13 (X)|
+Ar. Eq. 895|τοῦ|τὸν|Bentley|s.xviii in.|Paris. gr. 2712 (A)|
+Ar. Eq. 981|γένοιθ'|’γένεθ'|Scaliger|n.d.|schol. Γ|
 Ar. Eq. 1017|ἐκέλευσ'|ἐκελευ'|Frederick H. M. Blaydes|1882|P.Oxy. XI 1373|
 Ar. Eq. 1046|-ροῦν|σιδήρου|Bergk|n.d.|P.Bingen 18|ac
 Ar. Eq. 1058|φράσαι/φράζευ|φρασ]σαι|Brunck|1783|P.Oxy. XI 1373|
