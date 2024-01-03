@@ -7,7 +7,7 @@ plugins:
   - jekyll-sitemap
 defaults:
    - scope:
-       path: ""
+       path: "/"
      values:
        seo:
          type: WebPage
