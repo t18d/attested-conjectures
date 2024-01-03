@@ -62,7 +62,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (69), Porson (56), Markland (50), Reiske (39), Hermann (37), Elmsley (36), Adamantios Korais (36), Cobet (35), Brunck (34) and Henrik van Herwerden (30).</p>
+<p>The top 10 critics are Valckenaer (69), Porson (56), Markland (50), Reiske (39), Hermann (37), Elmsley (36), Adamantios Korais (36), Cobet (35), Brunck (34) and Frederick H. M. Blaydes (32).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1097,7 +1097,15 @@ Soph. OT 1453|ζῶντε|-τι|Johannes Pierson|s.xviii med.|Vat. gr. 904 (Pa)|
 Soph. OT 1466|αἷν|ταῖν|Benjamin Heath|1762|Marc. gr. 616 (Zr)|
 Soph. OT 1474|ἐγγόνοιν|ἐκγόνοιν|Valckenaer|1743-6|Paris. gr. 2787 (Zn) et Marc. gr. 472 (Jebb)|
 Soph. OT 1477|ἣ σ' εἶχεν κτλ.|ἥ σ' ἔχει|Wunder|1831|Laur. 32.2 (Zg)|
+Soph. Phil. 30|κυρῇ|κυρεῖ|G. H. Schaefer|n.d.|Gac|
+Soph. Phil. 81|κτῆμα|χρῆμα|Tournier|n.d.|Laur. 31.10 (K)|
 Soph. Phil. 256|που|πω|Markland|s.xviii med.|Marc. gr. 468 (V)|
+Soph. Phil. 266|τῆσδ ̓|τῆς|Auratus|n.d.|Zopc|
+Soph. Phil. 272|κτῆμα|χρῆμα|Frederick H. M. Blaydes|n.d.|Paris. suppl. gr. 109 (Q)|
+Soph. Phil. 306|ἀνθρώπων|-ῷ|Frederick H. M. Blaydes|n.d.|Paris. gr. 2712 (A)|
+Soph. Phil. 361|πρὸς φίλους|προσφιλῶς|Bothe|n.d.|Vat. gr. 2291 (R)|
+Soph. Phil. 481|-ῃ/-ου|ὅποι|Wakefield|n.d.|KZo|
+Soph. Phil. 496|πέμψαντα|πλεύσαντα|Frederick H. M. Blaydes|n.d.|Sγρ|
 Soph. Phil. 614|ἤκουσεν|ἤκουσ’|Markland|s.xviii med.|z|
 Soph. Phil. 614|ἤκουσεν|ἤκουσ’|Valckenaer|pre-1775|z|
 Soph. Phil. 896|λόγῳ|λόγων|Valckenaer|pre-1775|Lond. Bibl.Brit.Harl. 5743|Miscell. Obs. Nov. T 3 p. 23 (?)
