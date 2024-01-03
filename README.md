@@ -62,7 +62,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (69), Porson (56), Markland (50), Elmsley (39), Reiske (39), Hermann (38), Frederick H. M. Blaydes (38), Adamantios Korais (36), Cobet (35) and Brunck (35).</p>
+<p>The top 10 critics are Valckenaer (69), Porson (56), Markland (50), Elmsley (40), Frederick H. M. Blaydes (39), Reiske (39), Hermann (38), Adamantios Korais (36), Cobet (35) and Brunck (35).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1046,8 +1046,12 @@ Soph. OC 383|-οι|ὅπῃ|Halm|n.d.|Palat. gr. 287 (Zo)|
 Soph. OC 386|ὥραν|ὤραν|Turnebus|n.d.|l|
 Soph. OC 534|σοίτ’ ἄρ’/σαίτ’ ἄρ’|αὔτ’ ἄρ’|Markland|s.xviii med.|z|
 Soph. OC 566|σ’|del.|Johannes Pierson|s.xviii med.|Laur. 31.10 (K) et a|
+Soph. OC 702|νεαρὸς|νέος|Elmsley|n.d.|t|
 Soph. OC 793 schol.|-λείᾳ|Ἰφικλεῖ|Joannes Meursius|1619|Laur. 32.9 (L)|
+Soph. OC 818|σοι/σε|σου|Frederick H. M. Blaydes|n.d.|r|
+Soph. OC 942|-οὺς|αὐτοῖς|Scaliger|n.d.|Kr|
 Soph. OC 1012|om.|θ’|Markland|s.xviii med.|suppl. Paris. gr. 2886|
+Soph. OC 1112|-δεξιὸν/ἀμφὶ δεξιὸν|ἀμφιδέξιον|Mudge|n.d.|r|
 Soph. OC 1340|-σῃς/-σεις|ξυμπαραστήσῃ|Reiske|1743|a|
 Soph. OC 1345|σθένω|θέλω|Markland|s.xviii med.|r|
 Soph. OC 1515|στρέψαντα|στράψαντα|Reiske|1743|Laur. 31.10 (K)|
