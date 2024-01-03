@@ -2,6 +2,8 @@ name: Open Source by Tonkünstler-on-the-Bund
 title: null
 description: A hard look at the soft practice of textual criticism
 locale: en_GB
+seo:
+  type: WebPage
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
