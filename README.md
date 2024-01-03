@@ -129,6 +129,7 @@ Ar. Av. 1078|ἀγάγῃ|ἀπαγάγῃ|Bergk|n.d.|P.Louvre ed. Weil = Austin
 Ar. Av. 1080|πᾶσι|om.|Triclinius|s.xiv in.|P.Louvre ed. Weil = Austin 42|
 Ar. Av. 1314|καλεῖ|καλοῖ|Valckenaer|1757|Γ s.l. et Bp|
 Ar. Av. 1669|-τορες|φράτερας|Dindorf|n.d.|P.Oxy. LXVI 4516|
+Ar. Av. 1671|αἰκίαν|αἴκειαν|Lenting|n.d.|P.Oxy. LXVI 4516|
 Ar. Av. 1672|καταστήσω|καταστήσας|R. B. Hirschig|1849|P.Oxy. LXVI 4516|
 Ar. Av. 1693|διδότω|δότω|Valckenaer|1757|ΓUL|
 Ar. Eccl. 51|Φιλοδωρίτου|Φιλοδωρήτου|Valckenaer|1757|Paris. gr. 2712 (A)|
