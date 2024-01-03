@@ -1,4 +1,5 @@
 ---
+name: Database of Greek and Latin Conjectural Emendations Attested in MSS
 title: Textual Criticism and the Transmission of Latin Texts
 description: A bibliography composed with the needs of graduate students in mind
 author: James Zetzel
