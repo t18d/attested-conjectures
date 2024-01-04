@@ -65,7 +65,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (71), Porson (61), Markland (50), Bentley (49), Frederick H. M. Blaydes (42), Hermann (41), Elmsley (41), Brunck (40), Reiske (40), Cobet (36) and Adamantios Korais (36) (tied).</p>
+<p>The top 10 critics are Valckenaer (71), Porson (61), Markland (50), Bentley (49), Frederick H. M. Blaydes (42), Hermann (41), Elmsley (41), Brunck (40), Reiske (40) and Cobet (37).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -76,6 +76,8 @@ AP 9.570.1|ξανθοκηρ-|Ξανθὼ κηρόπλαστε|I. G. Huschke|1800
 AP 9.588.5|ἐπωμίδας|βραχείονας|Johannes Pierson|s.xviii med.|P.Tebt. I 3|
 Ach.Tat. LC 2.2.1|γὰρ τὸν|τὸν γὰρ|Friedrich Jacobs|1821|P.Oxy. X 1250|
 Ach.Tat. LC 2.9.2|-θιγεν|προσέθηκεν|B. G. L. Boden|1776|P.Oxy. X 1250|]ηκεν
+Ach.Tat. LC 3.19.3|ὅμως|ὅπως|Cobet|1858|P.Rob. inv. 35 + P.Köln inv. 901|
+Ach.Tat. LC 3.22.3|ἔ. π.|ἔφη τοὺς πρωτομύστας|Commelini|1601|P.Rob. inv. 35 + P.Köln inv. 901 et P.Oxy. LVI 3836|
 Ael. NA 12.10|-ία|μυωνιά|Theodor Kock|1880-8|Laur. 86.7(L)|
 Aesch. PV 157|ἐπεγήθει/ἐπιγήθει|ἐγεγήθει|Valckenaer|s.xviii med.|Ambros. gr. G 56 (D) et Matrit. gr. 4677 (N)|
 Aesch. T 1.5|-ουϲ|Ἀριϲτοφάνει|Bergk|1883|BXc|Hermes 18 (1883) 483
