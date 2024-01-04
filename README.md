@@ -63,7 +63,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (71), Porson (60), Markland (50), Bentley (42), Hermann (41), Elmsley (41), Frederick H. M. Blaydes (41), Reiske (40), Brunck (39) and Adamantios Korais (36).</p>
+<p>The top 10 critics are Valckenaer (71), Porson (60), Markland (50), Bentley (43), Hermann (41), Elmsley (41), Frederick H. M. Blaydes (41), Reiske (40), Brunck (39), Cobet (36) and Adamantios Korais (36) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -130,6 +130,7 @@ Ar. Ach. 970|κιχλᾶν|κιχλῶν|Valckenaer|1757|Rav. 429 (R)|
 Ar. Ach. 1111, 1112|ἢ|ἦ|G. H. Schaefer|n.d.|Paris. gr. 2712 (A)|
 Ar. Ach. 1175|-ρίῳ|χυτριδίῳ|Dawes|n.d.|Rav. 429 (R)|
 Ar. Av. 75|γὰρ (ἅτ’)|γ’ ἅτ’|Valckenaer|1757|Rav. 429 (R)|
+Ar. Av. 213|-η διεροῖς|ἐλελιζομένης δ᾽ ἱεροῖς|Meineke|1839-57|Haun. 1980 (H)|
 Ar. Av. 494a schol.|μᾶτερ/μάτερ|μάτηρ|Elmsley|1821|M9Lh|
 Ar. Av. 765 schol.|-φω|ἀναγράφει|Bentley|s.xviii in.|cod. Ambr. M|
 Ar. Av. 880 schol.|ὑμ-|ἡμῖν|Meineke|1839-57|cod. Ambr. M|
@@ -170,8 +171,12 @@ Ar. Nub. 615|ὑμᾶς κοὐκ|ὑμᾶς δ᾽ οὐκ|Bentley|1708|Lpc|
 Ar. Nub. 862|πειθ-|πιθόμενος|Bentley|1708|Θpc|
 Ar. Nub. 933|-βάλλεις|ἐπιβάλλῃς|Brunck|1783|recc.|
 Ar. Nub. 1379|γ᾽ ἄν/γὰρ|γε|Dindorf|n.d.|P.Stras. inv. 621|
+Ar. Pax 83|-ρῶς|σοβαρὸς|Cobet|n.d.|Rhet. lex. τότ Naoumides|lm.
+Ar. Pax 475|Ἀ-|Ἁργεῖοι|Dindorf|n.d.|Marc. gr. 474 (V)|
+Ar. Pax 715|σ. β.|βουλὴ σὺ|Bentley|s.xviii in.|schol.|
 Ar. Pax 758|om.|alterum δ'|Bentley|s.xviii in.|PSI VI 720|
 Ar. Pax 1013|ἀποχειρωθείς|ἀποχηρωθείς|Valckenaer|1757|Marc. gr. 474 (V)|
+Ar. Pax 1152|καὶ κυδοιδόπα/-τα|κἀκυδοιδόπα|Musurus|n.d.|L2|
 Ar. Plut. 4|ταῦτα|ταὐτὰ|Thomas Magister|n.d.|P.Oxy. XIII 1617|
 Ar. Plut. 179 schol.|ανόητον|ὄνον τὸν|Bentley|1708|Estensis α.U.5.10 (E)|per litt.
 Ar. Plut. 499|ἐ. σ. τ. μ.|τούτου μάρτυς ἐγώ σοι|Hall-Geldart|1906-7|P.Ant. l1I 180|
