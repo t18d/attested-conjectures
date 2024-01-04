@@ -63,7 +63,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (71), Porson (60), Markland (50), Bentley (46), Frederick H. M. Blaydes (42), Hermann (41), Elmsley (41), Brunck (40), Reiske (40), Cobet (36) and Adamantios Korais (36) (tied).</p>
+<p>The top 10 critics are Valckenaer (71), Porson (60), Markland (50), Bentley (47), Frederick H. M. Blaydes (42), Hermann (41), Elmsley (41), Brunck (40), Reiske (40), Cobet (36) and Adamantios Korais (36) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -197,10 +197,14 @@ Ar. Plut. 1018|παγκάλας|παγκάλους|Valckenaer|1757|Mpc et L|
 Ar. Plut. 1037|τυγχάνει|τυγχάνοι|Valckenaer|1757|Marc. gr. 474 (V)|
 Ar. Plut. 1116|ἐπιθύει|ἔτι θύει|Valckenaer|1757|Marc. gr. 474 (V)|
 Ar. Ran. 77|om.|γ᾽|Bentley|s.xviii in.|Marc. gr. 475|teste Peppink ad Mnem. N.S. 60 (1933) 382
+Ar. Ran. 239|Libero|choro trib.|Reisig|n.d.|Reg. gr. 147 (Vs1)|
 Ar. Ran. 269|τῷ κωπίῳ|τὼ κωπίω|Valckenaer|1757|Matrit. 4683|
 Ar. Ran. 673|ποιῆσαι|νοῆσαι|Valckenaer|1757|Marc. gr. 474 (V)|
 Ar. Ran. 690|ἐγγενέσθαι|ἐκγένεσθαι|Valckenaer|1757|Md1 et U et Vs1|ἐκγενέσθαι MSS
 Ar. Ran. 743|οἴμωζε|ᾤμωζε|Valckenaer|1757|Neap. II F 22 (Np1)|
+Ar. Ran. 826|δὴ|δὲ|Richards|n.d.|Paris. gr. 2712 (A)|
+Ar. Ran. 870|σοι|σοὶ|Fritzsche|n.d.|Marc. gr. 474 (V)|
+Ar. Ran. 993|(δὲ) δὴ|δὲ|Bentley|s.xviii in.|Rac|
 Ar. Ran. 1496|-σι|σεμνοῖσιν|Brunck|1783|Bodl. Holkh. gr. 88 (L)|
 Ar. Thesm. 285|τὸ πόπανον|τὰ πόπαν'|Porson|n.d.|PSI XI 1194|
 Ar. Thesm. 287|Φερσέ-|Φερρέφαττα|Thiersch|n.d.|PSI XI 1194|
