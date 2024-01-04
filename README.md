@@ -125,7 +125,7 @@ Ar. Ach. 819|Ἑρμ᾽ ἐμπολαῖε|Ἑρμᾶ ᾽μπολαῖε|Scalige
 Ar. Ach. 912|δαὶ|δὲ|Bentley|s.xviii in.|BKT V/II 231|
 Ar. Ach. 917|θρυαλλίδας|θρυαλλίδα|Elmsley|1809|BKT V/II 231|
 Ar. Ach. 928|φορούμενος|φερόμενος|Brunck|1783|BKT V/II 231|
-Ar. Ach. 960|ταυτησὶ τῆς|ταυτησὶ|P. P. Dobree|n.d.|BKT V/II 231|
+Ar. Ach. 960|ταυτησὶ τῆς|ταυτησὶ|P. P. Dobree|s.xviii/xix|BKT V/II 231|
 Ar. Ach. 970|κιχλᾶν|κιχλῶν|Valckenaer|1757|Rav. 429 (R)|
 Ar. Ach. 1111, 1112|ἢ|ἦ|G. H. Schaefer|n.d.|Paris. gr. 2712 (A)|
 Ar. Ach. 1175|-ρίῳ|χυτριδίῳ|Dawes|n.d.|Rav. 429 (R)|
@@ -351,7 +351,7 @@ Eur. Hec. 1108|ζοῆς/ζωῆς|ζόης|Markland|n.d.|Va i.m.|ap. Burges, CJ
 Eur. Hec. 1167|-υον|ἤνυτον|L. Dindorf|n.d.|Huv|
 Eur. Hec. 1176|τε|τὸν|Nauck|n.d.|Laur. 32.3 (L)|
 Eur. Hec. 1215|-νῶι|καπνὸς|Canter|n.d.|Kγρ|
-Eur. Hel. 135|οὔ πω vel ἦ που|οὔ που|P. P. Dobree|n.d.|Laur. 32.3 (L)|
+Eur. Hel. 135|οὔ πω vel ἦ που|οὔ που|P. P. Dobree|s.xviii/xix|Laur. 32.3 (L)|
 Eur. Hel. 634|χεῖρας|χέρας|Elmsley|n.d.|P.Oxy. XXII 2336|
 Eur. Heracl. 837|-ῃ|μάχη|Elmsley|n.d.|Laur. 32.3 (L)|
 Eur. Hipp. 71–72|ὄπαρθένων ἄρτεμι|ὄλυμπον|Nauck|n.d.|Laur. 31.10 (O)|
@@ -821,7 +821,7 @@ Phot. μ 71|μεμαγ-|μεμαλαγμένος|Schleusner|1812|zpc|Cur. nov. p
 Phot. μ 135|τίς|τί|Porson|1822|Epit. Harp. et Suid. cod. G|
 Phot. μ 521|-ορή-|μυχορρήμων|L. Dindorf|1835|zpc|ThGL. νοl. V p. 1321D
 Phot. ν 77|νεάσαι|νεᾶσαι|Cobet|1859|Zavord. 95 (z)|Mnem. 8 (1859) 38
-Phot. ν 191|νηνί-|νηλίποδες|P. P. Dobree|n.d.|zpc|Advers. vol. III p. 46
+Phot. ν 191|νηνί-|νηλίποδες|P. P. Dobree|s.xviii/xix|zpc|Advers. vol. III p. 46
 Phot. ν 209|ποίησον|ποιήσω|Cobet|1859|Sud. codd. GM|Mnem. 8 (1859) 33-4
 Phot. ο 21|-ύλε-|ὀγκύλλεσθαι|Schleusner|1812|Zavord. 95 (z)|Cur. nov. p. 266
 Phot. ο 119|δῆμος τῆς|δημότης|Adamantios Korais|s.xviii/xix|Epit. Harp. et Harp. pl.|Eἰς μνήμην  ̓Aμάντου p. 293
@@ -863,7 +863,7 @@ Phot. π 1550|-ραιν-|πύραυνος|Porson|1822|Eust. 1548.1|
 Phot. π 1580|-ρώνων|πυρῶν|Adamantios Korais|s.xviii/xix|Sud. π 3240|Eἰς μνήμην  ̓Aμάντου p. 296
 Phot. ρ 4|-ναιμ-|ἄνεμος|Johann Alberti|1766|Zavord. 95 (z)|Hesych. Lex. vol. II p. 1094, 25
 Phot. ρ 80|-τρεία|ῥελατορία|Adamantios Korais|s.xviii/xix|zpc Σa+b Sud.|Eἰς μνήμην  ̓Aμάντου p. 296
-Phot. ρ 108|τῶν -ῶν|τὸ παλαιὸν|P. P. Dobree|n.d.|zpc|Advers. vol. III p. 49
+Phot. ρ 108|τῶν -ῶν|τὸ παλαιὸν|P. P. Dobree|s.xviii/xix|zpc|Advers. vol. III p. 49
 Phot. ρ 116|ἀπὸ|ὑπὸ|Naber|1865|Σb|
 Phot. ρ 129|-νόμ-|ῥινώμενος|Adamantios Korais|s.xviii/xix|zpc Sud.|Eἰς μνήμην  ̓Aμάντου p. 296
 Phot. ρ 147|-ειν|ῥοίβδην|Dindorf|1835|Σa+b|ThGL. νοl. VI p. 2415B
