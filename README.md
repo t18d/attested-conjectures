@@ -63,7 +63,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (71), Porson (60), Markland (50), Bentley (43), Hermann (41), Elmsley (41), Frederick H. M. Blaydes (41), Reiske (40), Brunck (39), Cobet (36) and Adamantios Korais (36) (tied).</p>
+<p>The top 10 critics are Valckenaer (71), Porson (60), Markland (50), Bentley (46), Hermann (41), Elmsley (41), Frederick H. M. Blaydes (41), Brunck (40), Reiske (40), Cobet (36) and Adamantios Korais (36) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -131,13 +131,21 @@ Ar. Ach. 1111, 1112|ἢ|ἦ|G. H. Schaefer|n.d.|Paris. gr. 2712 (A)|
 Ar. Ach. 1175|-ρίῳ|χυτριδίῳ|Dawes|n.d.|Rav. 429 (R)|
 Ar. Av. 75|γὰρ (ἅτ’)|γ’ ἅτ’|Valckenaer|1757|Rav. 429 (R)|
 Ar. Av. 213|-η διεροῖς|ἐλελιζομένης δ᾽ ἱεροῖς|Meineke|1839-57|Haun. 1980 (H)|
+Ar. Av. 463|-χεῖσθαι/-χεῖσθε|κατάκεισθε|Bentley|s.xviii in.|anon. Parisinus|
 Ar. Av. 494a schol.|μᾶτερ/μάτερ|μάτηρ|Elmsley|1821|M9Lh|
+Ar. Av. 520|ὤμνυέ τ'/ὠμνύετ|ὤμνυ τ'|Bentley|s.xviii in.|Marc. gr. 475 (G)|
+Ar. Av. 575|Ἶριν|Ἔρην|Bentley|s.xviii in.|Ambros. L 39 sup. (M)|
+Ar. Av. 576|-ψει|πέμπει|Tyrwhitt|s.xviii in.|anon. Parisinus|
+Ar. Av. 689|τοῖσιν|alterum τοῖς|Charles Daubuz|1710|Paris. gr. 2715 (B)|
 Ar. Av. 765 schol.|-φω|ἀναγράφει|Bentley|s.xviii in.|cod. Ambr. M|
 Ar. Av. 880 schol.|ὑμ-|ἡμῖν|Meineke|1839-57|cod. Ambr. M|
 Ar. Av. 1069|om.|πάνθ'|Ludolph Dissen|n.d.|P.Louvre ed. Weil = Austin 42|
 Ar. Av. 1078|ἀγάγῃ|ἀπαγάγῃ|Bergk|n.d.|P.Louvre ed. Weil = Austin 42|
 Ar. Av. 1080|πᾶσι|om.|Triclinius|s.xiv in.|P.Louvre ed. Weil = Austin 42|
+Ar. Av. 1115|μήνην|μῆν'|P. P. Dobree|s.xviii in.|Marc. gr. 475 (G)|
+Ar. Av. 1308|οὐκ ἄρα|οὐκ ἆρα|Kuster|1710|Paris. gr. 2715 (B)|
 Ar. Av. 1314|καλεῖ|καλοῖ|Valckenaer|1757|Γ s.l. et Bp|
+Ar. Av. 1322|εὐήμερον|εὐά-|Brunck|1783|Paris. gr. 2715 (B)|
 Ar. Av. 1669|-τορες|φράτερας|Dindorf|n.d.|P.Oxy. LXVI 4516|
 Ar. Av. 1671|αἰκίαν|αἴκειαν|Lenting|n.d.|P.Oxy. LXVI 4516|
 Ar. Av. 1672|καταστήσω|καταστήσας|R. B. Hirschig|1849|P.Oxy. LXVI 4516|
