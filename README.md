@@ -1365,6 +1365,7 @@ Thuc. 1.6.5|πέπαυται|-αυνται|Reiske|1761|MS|Anim. p. 5
 Thuc. 1.7|ἀνῳκισμένοι|-ναι|Johannes Classen|1862|Neap. III-B-10 (Nf)|
 Thuc. 1.9.3|τε|del.|K. W. Krüger|1860|Paris. gr. 1736 (Pg)|
 Thuc. 1.9.3|-τιὰν|στρατείαν|Aemilius Portus|1594|Paris. gr. 1791-2 (Pb)|
+Thuc. 1.10.2|om.|τῆς|Henri Estienne|1588|Paris. gr. 1637 (Pd)|
 Thuc. 1.11.1|ἐπειδὴ δὲ|ἐπειδή τε|Bekker|1832|Ud Pl1|
 Thuc. 1.28.5|δὲ|del.|Henri Estienne|1588|Neap. III-B-6 (Nb)|
 Thuc. 1.29.4|-ναγό-|ἀνταναγαγόμενοι|Johannes Classen|1862|Ud Pl1|
@@ -1375,6 +1376,7 @@ Thuc. 1.35.5|ἦσαν|εἰσὶν|Herbert Richards|1898|S2|CQ 7 (1913) 154; Wa
 Thuc. 1.37.2|δὲ|δὴ|K. W. Krüger|1860|J2|
 Thuc. 1.44.1|-ραίᾳ|ὑστέρᾳ|Cobet|1862|Paris. gr. 1735 (Pf)|Mnemosyne 11 (1862) 364
 Thuc. 1.66|προεγ-|προσεγεγένηντο|F. W. Ullrich|1850|Paris. gr. 1733 (Pe)|Beitr. z. Kr. 1 p. 27 sqq.
+Thuc. 1.69.2|ἐπὶ|ὡς ἐπὶ|K. W. Krüger|1860|Pi2|
 Thuc. 1.73.1|ἡμᾶς|ὑμᾶς|K. W. Krüger|1860|Paris. gr. 1734 (H)|
 Thuc. 1.74.3|αὐτοὶ|del.|K. W. Krüger|1860|Paris. gr. 1734 (H)|
 Thuc. 1.93.3|-οὺς -οὺς -ους|αὐτοῖς ναυτικοῖς γεγενημένοις|Hude|1898|J2|
@@ -1386,6 +1388,7 @@ Thuc. 1.110.4|Ἀθηναίων|Ἀθηνῶν|Bekker|1832|P.Oxy. XXXIV 2703|α[
 Thuc. 1.112.4|λιμ-|λοιμοῦ|Julius Beloch|1912-27|J2|Griech. Gesch. 2, 1<sup>2</sup> 137
 Thuc. 1.120.5|ὅμοια|ὁμοίᾳ|Reiske|1761|K E1 γρH2|Anim. p. 14
 Thuc. 1.124.1|ταῦτα κτλ.|ταὐτὰ|Reiske|1761|J2|Anim. p. 14
+Thuc. 1.127.1|om.|ἂν|I. M. Stahl|1875|Mb Vm aliique recc.|Qu. Gr. p. 10
 Thuc. 1.128.5|οἳ|del.|Bekker|1832|Neap. III-B-6 (Nb)|
 Thuc. 1.128.7|-πει|ἀποπέμπω|Henri Estienne|1588|Pi2|
 Thuc. 2.8.1|δὴ|δὲ|C. F. Haacke|1820|Lugd. Periz. Q 40 (X)|
@@ -1404,6 +1407,7 @@ Thuc. 2.67.3|δὲ/om.|δὴ|Hude|1898|Pi2|
 Thuc. 2.79.6|ἐνέ-|ἐπέκειντο|K. W. Krüger|1860|P.Berol. inv. 13236|
 Thuc. 2.80.8|-ρήσειν|προσχωρῆσαι|I. M. Stahl|1886|G2 J2|Qu. Gr. p. 22
 Thuc. 2.89.2|καὶ|del.|Hude|1898|Pk2|
+Thuc. 2.93.4|φρούριον|φ. γὰρ|Henrik van Herwerden|1877|J2|
 Thuc. 2.96.1|μέρη|γένη|E. F. Poppo|1843|J5|
 Thuc. 3.6.2|-ρᾶς|ἀγορὰ|K. W. Krüger|1860|Pi3|
 Thuc. 3.10.4|ἐπαγ-|ἐπειγομένους|Ludwig Ross (?)|n.d.|Pk2|
