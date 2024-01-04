@@ -63,7 +63,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (71), Porson (60), Markland (50), Bentley (41), Hermann (41), Frederick H. M. Blaydes (41), Elmsley (40), Brunck (39), Reiske (39) and Adamantios Korais (36).</p>
+<p>The top 10 critics are Valckenaer (71), Porson (60), Markland (50), Bentley (41), Hermann (41), Elmsley (41), Frederick H. M. Blaydes (41), Brunck (39), Reiske (39) and Adamantios Korais (36).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -195,6 +195,7 @@ Ar. Vesp. 384|τα vel τὰ|ἔσται|Bentley|s.xviii in.|Marc. gr. 474 (V)|
 Ar. Vesp. 386|κλαύ-|κατακλαύσαντες|Bentley|s.xviii in.|Marc. gr. 474 (V)|
 Ar. Vesp. 390|-οισι|δακρύοισιν|Charles Daubuz|1710|Paris. gr. 2715 (B)|
 Ar. Vesp. 398|ταῖσι|ταῖσιν|Charles Daubuz|1710|Marc. gr. 475 (G)|'but the doctor (as is supposed), thinking Mr. Daubuz would outshine him in learning, and eclipse his glory, did not encourage him to publish it'
+Ar. Vesp. 399|-αν|πρύμνην|Elmsley|n.d.|Paris. gr. 2717 (C)|
 Ar. Vesp. 526|δὲ|δὴ|Porson|n.d.|Palat. gr. 128 (Vp3)|
 Ar. Vesp. 576|γράψομαι|γράφομαι|Brunck|1783|P.Oxy. XI 1374|
 Ar. Vesp. 790|ἐπέθηκε|ἐνέθηκε|Bergk|n.d.|P.Oxy. XI 1374|
