@@ -161,6 +161,7 @@ Ar. Lys. 427|ἀλλ’|ἄλλ’|Valckenaer|1757|MS (Brunck 1781)|
 Ar. Lys. 476|τοῖσι(ν)|τοῖς|Bentley|s.xviii in.|P.Bodl. gr. class. e. 87|
 Ar. Nub. 137|ἐξευρ-|ἐξηυρημένην|Porson|n.d.|Paris. gr. 2712 (A)|
 Ar. Nub. 185|δοκοῦϲιν ἐ.|δοκοῦϲ᾽ ἐοικέναι|Bentley|s.xviii in.|Neap. II F 22 (Np1)|
+Ar. Nub. 366|ἡμῖν|ὑμῖν|Daubuz|n.d.|Eac Ψ|
 Ar. Nub. 507|μελιττοῦταν|μελιτοῦτταν|Valckenaer|s.xviii ex.|Laur. conv. soppr. 140|
 Ar. Pax 758|om.|alterum δ'|Bentley|s.xviii in.|PSI VI 720|
 Ar. Pax 1013|ἀποχειρωθείς|ἀποχηρωθείς|Valckenaer|1757|Marc. gr. 474 (V)|
