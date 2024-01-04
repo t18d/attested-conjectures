@@ -77,8 +77,9 @@ AP 9.588.5|ἐπωμίδας|βραχείονας|Johannes Pierson|s.xviii med.|
 Ach.Tat. LC 2.2.1|γὰρ τὸν|τὸν γὰρ|Friedrich Jacobs|1821|P.Oxy. X 1250|
 Ach.Tat. LC 2.9.2|-θιγεν|προσέθηκεν|B. G. L. Boden|1776|P.Oxy. X 1250|]ηκεν
 Ach.Tat. LC 3.19.3|ὅμως|ὅπως|Cobet|1858|P.Duk. inv. 772 + P.Köln inv. 901|
-Ach.Tat. LC 3.20.6|καθ' ἡμᾶς|καὶ καθ' ἡμᾶς|Wifstrand|1945|P.Duk. inv. 772 + P.Köln inv. 901|
+Ach.Tat. LC 3.20.6|καθ' ἡμᾶς|καὶ καθ' ἡμᾶς|A. Wifstrand|1945|P.Duk. inv. 772 + P.Köln inv. 901|
 Ach.Tat. LC 3.22.3|ἔ. π.|ἔφη τοὺς πρωτομύστας|Jérôme Commelin|1601|P.Duk. inv. 772 + P.Köln inv. 901 et P.Oxy. LVI 3836|
+Ach.Tat. LC 3.22.6|ἡμῶν ἐκποδὼν|ἡ]μῖν ἐμποδὼν|F. Jacobs|1821|P.Duk. inv. 772 + P.Köln inv. 901|
 Ach.Tat. LC 3.23.1|τὴν ψυχὴν|τῆς ψυχῆς|Cobet|1858|P.Duk. inv. 772 + P.Köln inv. 901|
 Ach.Tat. LC 3.24.2|πέντε|αἱ πέντε|Cobet|1858|P.Duk. inv. 772 + P.Köln inv. 901|
 Ael. NA 12.10|-ία|μυωνιά|Theodor Kock|1880-8|Laur. 86.7(L)|
