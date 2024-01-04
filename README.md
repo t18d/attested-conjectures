@@ -63,7 +63,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (71), Porson (60), Markland (50), Hermann (41), Frederick H. M. Blaydes (41), Elmsley (40), Bentley (39), Reiske (39), Brunck (37) and Adamantios Korais (36).</p>
+<p>The top 10 critics are Valckenaer (71), Porson (60), Markland (50), Hermann (41), Frederick H. M. Blaydes (41), Elmsley (40), Bentley (39), Reiske (39), Brunck (38) and Adamantios Korais (36).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -168,6 +168,7 @@ Ar. Nub. 533|ὑμῖν|ὑμῶν|Sauppe|n.d.|Marc. gr. 473 (V3)|s.l.
 Ar. Nub. 538|σκύτινον|σκυτίον|P. P. Dobree|s.xviii/xix|XLn5|
 Ar. Nub. 615|ὑμᾶς κοὐκ|ὑμᾶς δ᾽ οὐκ|Bentley|1708|Lpc|
 Ar. Nub. 862|πειθ-|πιθόμενος|Bentley|1708|Θpc|
+Ar. Nub. 933|-βάλλεις|ἐπιβάλλῃς|Brunck|1783|recc.|
 Ar. Pax 758|om.|alterum δ'|Bentley|s.xviii in.|PSI VI 720|
 Ar. Pax 1013|ἀποχειρωθείς|ἀποχηρωθείς|Valckenaer|1757|Marc. gr. 474 (V)|
 Ar. Plut. 4|ταῦτα|ταὐτὰ|Thomas Magister|n.d.|P.Oxy. XIII 1617|
