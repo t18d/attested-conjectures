@@ -63,7 +63,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (71), Porson (60), Markland (50), Bentley (47), Frederick H. M. Blaydes (42), Hermann (41), Elmsley (41), Brunck (40), Reiske (40), Cobet (36) and Adamantios Korais (36) (tied).</p>
+<p>The top 10 critics are Valckenaer (71), Porson (60), Markland (50), Bentley (49), Frederick H. M. Blaydes (42), Hermann (41), Elmsley (41), Brunck (40), Reiske (40), Cobet (36) and Adamantios Korais (36) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -205,6 +205,10 @@ Ar. Ran. 743|οἴμωζε|ᾤμωζε|Valckenaer|1757|Neap. II F 22 (Np1)|
 Ar. Ran. 826|δὴ|δὲ|Richards|n.d.|Paris. gr. 2712 (A)|
 Ar. Ran. 870|σοι|σοὶ|Fritzsche|n.d.|Marc. gr. 474 (V)|
 Ar. Ran. 993|(δὲ) δὴ|δὲ|Bentley|s.xviii in.|Rac|
+Ar. Ran. 1046|᾽πικαθοῖτο/γ᾽ ἐπικαθῆτο|᾽πικαθῆτο|Bentley|s.xviii in.|Vs1 s.l. et Par 20 pc|
+Ar. Ran. 1052|τοιοῦτον|τοῦτον|Charles Daubuz|1710|Urb. gr. 141 (U)|
+Ar. Ran. 1063|ἀμπίσχ-|ἀμπισχών|Dindorf|n.d.|Brux. 4280–3 (Br1)|Fritzsche?
+Ar. Ran. 1064|τί|τι|Bentley|s.xviii in.|Urb. gr. 141 (U)|
 Ar. Ran. 1496|-σι|σεμνοῖσιν|Brunck|1783|Bodl. Holkh. gr. 88 (L)|
 Ar. Thesm. 285|τὸ πόπανον|τὰ πόπαν'|Porson|n.d.|PSI XI 1194|
 Ar. Thesm. 287|Φερσέ-|Φερρέφαττα|Thiersch|n.d.|PSI XI 1194|
