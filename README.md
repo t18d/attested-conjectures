@@ -63,7 +63,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (71), Porson (60), Markland (50), Bentley (49), Frederick H. M. Blaydes (42), Hermann (41), Elmsley (41), Brunck (40), Reiske (40), Cobet (36) and Adamantios Korais (36) (tied).</p>
+<p>The top 10 critics are Valckenaer (71), Porson (61), Markland (50), Bentley (49), Frederick H. M. Blaydes (42), Hermann (41), Elmsley (41), Brunck (40), Reiske (40), Cobet (36) and Adamantios Korais (36) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -197,6 +197,8 @@ Ar. Pax 1152|καὶ κυδοιδόπα/-τα|κἀκυδοιδόπα|Musurus|n.
 Ar. Plut. 4|ταῦτα|ταὐτὰ|Thomas Magister|n.d.|P.Oxy. XIII 1617|
 Ar. Plut. 179 schol.|ανόητον|ὄνον τὸν|Bentley|1708|Estensis α.U.5.10 (E)|per litt.
 Ar. Plut. 374|οὖν|ἂν|Ludolf Küster|1710|Vbg1 (Invernizi)|
+Ar. Plut. 411|-κλινεῖν|κατακλίνειν|Angelo Canini|n.d.|Bodl. Holkh. gr. 88 (L)|v.l.
+Ar. Plut. 485|ἢ τί γὰρ/εἴ τι γὰρ/ἢ τί γ᾽ ἂν|τί γὰρ|Porson|n.d.|Ambros. C 222 inf. (K)|
 Ar. Plut. 499|ἐ. σ. τ. μ.|τούτου μάρτυς ἐγώ σοι|Hall-Geldart|1906-7|P.Ant. l1I 180|
 Ar. Plut. 1018|παγκάλας|παγκάλους|Valckenaer|1757|Mpc et L|
 Ar. Plut. 1037|τυγχάνει|τυγχάνοι|Valckenaer|1757|Marc. gr. 474 (V)|
