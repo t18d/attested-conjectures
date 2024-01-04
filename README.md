@@ -1093,7 +1093,7 @@ Soph. Ant. 1238|ἐκβάλλει|ἐμβάλλει|Markland|s.xviii med.|Berol.
 Soph. Ant. 1337|προσεύχου|κατ-|Benedict|n.d.|Vat. gr. 1333 (Zc)|
 Soph. Ant. 1337-8|Ἄγγελος|choro trib.|Buttmann|n.d.|Ambr. C. 24 sup. et Monac. gr. 500|
 Soph. Ant. 1350|μηδὲν|μηδέν’|Markland|s.xviii med.|MSS|
-Soph. El. 21|ξυνάπτετον|-έον|Toup|n.d.|Paris. gr. 2884 (Ζf)|
+Soph. El. 21|ξυνάπτετον|-έον|Jonathan Toup|s.xviii med.|Paris. gr. 2884 (Ζf)|
 Soph. El. 87|ἰσόμοιρ ̓|-μοιρος|Porson|n.d.|p|
 Soph. El. 160|ὄλβιος|-ον|Brunck|1786-9|Hac|
 Soph. El. 187|τοκ-|τεκέων|Meineke|n.d.|p|
@@ -1320,7 +1320,7 @@ Theoc. 7.7|εὖ γ ̓|εὖ|Hermann|n.d.|P.Oxy. 2064 (Po)|
 Theoc. 14.13|Ἆπις|Ἆγις|Meineke|n.d.|P.Ant. III 207 (Pa)|
 Theoc. 14.29|οὖν|ων|Brunck|1772–6|P.Ant. III 207 (Pa)|
 Theoc. 15.7|ἐμ'|αιεν|Sitzler|n.d.|P.Ant. III 207 (Pa)|
-Theoc. 15.25|εἶπες/εἶπας καὶ|εἴπαις αν|Toup|n.d.|P.Ant. III 207 (Pa)|
+Theoc. 15.25|εἶπες/εἶπας καὶ|εἴπαις αν|Jonathan Toup|s.xviii med.|P.Ant. III 207 (Pa)|
 Theoc. 15.37|προτέθεικα|ποτέθηκα|Valckenaer|n.d.|P.Ant. III 207 (Pa)|
 Theoc. 15.41|-ρυε|δάκρυ ̓|Porson|n.d.|P.Hamb. III 201 (Pg)|
 Theoc. 15.51|-νοίμ-|γενώμεθα|G. H Schaefer|n.d.|P.Ant. III 207 (Pa)|
