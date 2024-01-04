@@ -200,6 +200,7 @@ Ar. Plut. 374|οὖν|ἂν|Ludolf Küster|1710|Vbg1 (Invernizi)|
 Ar. Plut. 411|-κλινεῖν|κατακλίνειν|Angelo Canini|n.d.|Bodl. Holkh. gr. 88 (L)|v.l.
 Ar. Plut. 485|ἢ τί γὰρ/εἴ τι γὰρ/ἢ τί γ᾽ ἂν|τί γὰρ|Porson|n.d.|Ambros. C 222 inf. (K)|
 Ar. Plut. 499|ἐ. σ. τ. μ.|τούτου μάρτυς ἐγώ σοι|Hall-Geldart|1906-7|P.Ant. l1I 180|
+Ar. Plut. 504|-ῶσι|πεινῶσιν|Ludolf Küster|1710|Bodl. Holkh. gr. 88 (L)|
 Ar. Plut. 1018|παγκάλας|παγκάλους|Valckenaer|1757|Mpc et L|
 Ar. Plut. 1037|τυγχάνει|τυγχάνοι|Valckenaer|1757|Marc. gr. 474 (V)|
 Ar. Plut. 1116|ἐπιθύει|ἔτι θύει|Valckenaer|1757|Marc. gr. 474 (V)|
