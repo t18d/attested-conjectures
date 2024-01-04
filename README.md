@@ -56,6 +56,7 @@
         <li>Sophocles, <em>Fabulae</em>, ed. H. Lloyd-Jones and N. G. Wilson (Oxford, 1990).</li>
         <li>Theodoridis, Christos (ed.), <em>Die Fragmente Des Grammatikers Philoxenos</em> (Berlin, 1976).</li>
         <li>Thucydides, <em>Historiae</em>, ed. Ioannes Baptista Alberti, 3 vols (Rome, 1972–2000).</li>
+        <li>Willis, William H., 'The Robinson-Cologne Papyrus of Achilles Tatius', <em>Greek, Roman and Byzantine Studies</em>, 31 (1990), 73-102.</li>
         <li>Wilson, N. G., <em>Herodotea: studies on the text of Herodotus</em> (Oxford, 2015), xii–xiii.</li>
     </ul>
 </details>
