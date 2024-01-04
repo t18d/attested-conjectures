@@ -152,6 +152,7 @@ Ar. Av. 1672|καταστήσω|καταστήσας|R. B. Hirschig|1849|P.Oxy. 
 Ar. Av. 1691|σὺ τὰ|σὺ|Frederick H. M. Blaydes|n.d.|Estensis α.U.5.10 (E)|
 Ar. Av. 1693|διδότω|δότω|Valckenaer|1757|ΓUL|
 Ar. Eccl. 51|Φιλοδωρίτου|Φιλοδωρήτου|Valckenaer|1757|Paris. gr. 2712 (A)|
+Ar. Eccl. 275|τ' άπερ/τάπερ|γ᾽ ἅπερ|Toup|n.d.|Paris. gr. 2712 (A)|
 Ar. Eccl. 652|-ῶς|λιπαρῷ|Bentley|s.xviii in.|P.Mich. inv. 6649|
 Ar. Eccl. 707|λαβούσας|λαβόντας|Valckenaer|1757|Rav. 429 (R) et Perus. H 56 (Λ)|tacite
 Ar. Eccl. 1124|ἔχει/ἔχοι|ἔχῃ|Valckenaer|1757|Perus. H 56 (Λ)|tacite
@@ -209,6 +210,7 @@ Ar. Ran. 1046|᾽πικαθοῖτο/γ᾽ ἐπικαθῆτο|᾽πικαθῆ
 Ar. Ran. 1052|τοιοῦτον|τοῦτον|Charles Daubuz|1710|Urb. gr. 141 (U)|
 Ar. Ran. 1063|ἀμπίσχ-|ἀμπισχών|Dindorf|n.d.|Brux. 4280–3 (Br1)|Fritzsche?
 Ar. Ran. 1064|τί|τι|Bentley|s.xviii in.|Urb. gr. 141 (U)|
+Ar. Ran. 1438|αἴροιεν αὖραι|αὔραις|Sommerstein|n.d.|Mpc|
 Ar. Ran. 1496|-σι|σεμνοῖσιν|Brunck|1783|Bodl. Holkh. gr. 88 (L)|
 Ar. Thesm. 285|τὸ πόπανον|τὰ πόπαν'|Porson|n.d.|PSI XI 1194|
 Ar. Thesm. 287|Φερσέ-|Φερρέφαττα|Thiersch|n.d.|PSI XI 1194|
