@@ -63,7 +63,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (71), Porson (60), Markland (50), Hermann (41), Frederick H. M. Blaydes (41), Elmsley (40), Reiske (39), Brunck (37), Bentley (37) and Adamantios Korais (36).</p>
+<p>The top 10 critics are Valckenaer (71), Porson (60), Markland (50), Hermann (41), Frederick H. M. Blaydes (41), Elmsley (40), Bentley (39), Reiske (39), Brunck (37) and Adamantios Korais (36).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -110,7 +110,7 @@ Ap. Rhod. 3.1226 schol.|ἠμφίεστο|ὑφέεστο|A. F. Naeke|1833-7|Lau
 Ap. Rhod. 4.438|ὥς|ὧ|Köchly|n.d.|P.Oxy. XXXIV 2694|Brunck
 Ap. Rhod. 4.1129|ε. ἐ.|εὐαγέως τ' ἐπιβώμια|Fränkel|n.d.|P.Oxy. XXXIV 2691|ευαγεωϲ τ ε̣[
 Apollod. Π. θεῶν 20|-βαφεῖς|μελαμβαθεῖς|Brunck|1786|F|
-Ar. Ach. 46|οὔ|οὐκ|Biset|n.d.|Paris. gr. 2715 (B)|
+Ar. Ach. 46|οὔ|οὐκ|Odoard Biset|1570|Paris. gr. 2715 (B)|
 Ar. Ach. 68|ἐτρυχόμεσθα|-μεθα|Bentley|s.xviii in.|Bodl. Holkh. gr. 88 (L)|apud Burges, Classical Journal xi, xii, xiii
 Ar. Ach. 238|σίγα|σῖγα|Bentley|s.xviii in.|c|
 Ar. Ach. 297|σύ μοι|μοι σὺ|Hermann|s.xviii/xix|P.Oxy. LXVI 4510|
@@ -160,16 +160,18 @@ Ar. Eq. 1158|φράσεις|-ῃς|Porson|n.d.|VΓ|
 Ar. Lys. 427|ἀλλ’|ἄλλ’|Valckenaer|1757|MS (Brunck 1781)|
 Ar. Lys. 476|τοῖσι(ν)|τοῖς|Bentley|s.xviii in.|P.Bodl. gr. class. e. 87|
 Ar. Nub. 137|ἐξευρ-|ἐξηυρημένην|Porson|n.d.|Paris. gr. 2712 (A)|
-Ar. Nub. 185|δοκοῦϲιν ἐ.|δοκοῦϲ᾽ ἐοικέναι|Bentley|s.xviii in.|Neap. II F 22 (Np1)|
-Ar. Nub. 366|ἡμῖν|ὑμῖν|Daubuz|1710|Eac Ψ|
-Ar. Nub. 451|ματιολ-|ματτυολοιχός|Bentley|s.xviii in.|Harl. 5725 (Ln5)|
+Ar. Nub. 185|δοκοῦϲιν ἐ.|δοκοῦϲ᾽ ἐοικέναι|Bentley|1708|Neap. II F 22 (Np1)|per litt.
+Ar. Nub. 366|ἡμῖν|ὑμῖν|Charles Daubuz|1710|Eac Ψ|
+Ar. Nub. 451|ματιολ-|ματτυολοιχός|Bentley|1708|Harl. 5725 (Ln5)|
 Ar. Nub. 507|μελιττοῦταν|μελιτοῦτταν|Valckenaer|s.xviii ex.|Laur. conv. soppr. 140|
 Ar. Nub. 533|ὑμῖν|ὑμῶν|Sauppe|n.d.|Marc. gr. 473 (V3)|s.l.
 Ar. Nub. 538|σκύτινον|σκυτίον|P. P. Dobree|s.xviii/xix|XLn5|
+Ar. Nub. 615|ὑμᾶς κοὐκ|ὑμᾶς δ᾽ οὐκ|Bentley|1708|Lpc|
+Ar. Nub. 862|πειθ-|πιθόμενος|Bentley|1708|Θpc|
 Ar. Pax 758|om.|alterum δ'|Bentley|s.xviii in.|PSI VI 720|
 Ar. Pax 1013|ἀποχειρωθείς|ἀποχηρωθείς|Valckenaer|1757|Marc. gr. 474 (V)|
 Ar. Plut. 4|ταῦτα|ταὐτὰ|Thomas Magister|n.d.|P.Oxy. XIII 1617|
-Ar. Plut. 179 schol.|ανόητον|ὄνον τὸν|Bentley|1710|Estensis α.U.5.10 (E)|ap. Kusterum, Not. p. 321
+Ar. Plut. 179 schol.|ανόητον|ὄνον τὸν|Bentley|1708|Estensis α.U.5.10 (E)|per litt.
 Ar. Plut. 499|ἐ. σ. τ. μ.|τούτου μάρτυς ἐγώ σοι|Hall-Geldart|1906-7|P.Ant. l1I 180|
 Ar. Plut. 1018|παγκάλας|παγκάλους|Valckenaer|1757|Mpc et L|
 Ar. Plut. 1037|τυγχάνει|τυγχάνοι|Valckenaer|1757|Marc. gr. 474 (V)|
