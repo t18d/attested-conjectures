@@ -196,6 +196,7 @@ Ar. Pax 1013|ἀποχειρωθείς|ἀποχηρωθείς|Valckenaer|1757|M
 Ar. Pax 1152|καὶ κυδοιδόπα/-τα|κἀκυδοιδόπα|Musurus|n.d.|L2|
 Ar. Plut. 4|ταῦτα|ταὐτὰ|Thomas Magister|n.d.|P.Oxy. XIII 1617|
 Ar. Plut. 179 schol.|ανόητον|ὄνον τὸν|Bentley|1708|Estensis α.U.5.10 (E)|per litt.
+Ar. Plut. 374|οὖν|ἂν|Ludolf Küster|1710|Vbg1 (Invernizi)|
 Ar. Plut. 499|ἐ. σ. τ. μ.|τούτου μάρτυς ἐγώ σοι|Hall-Geldart|1906-7|P.Ant. l1I 180|
 Ar. Plut. 1018|παγκάλας|παγκάλους|Valckenaer|1757|Mpc et L|
 Ar. Plut. 1037|τυγχάνει|τυγχάνοι|Valckenaer|1757|Marc. gr. 474 (V)|
