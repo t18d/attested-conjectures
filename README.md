@@ -63,7 +63,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (71), Porson (60), Markland (50), Bentley (46), Hermann (41), Elmsley (41), Frederick H. M. Blaydes (41), Brunck (40), Reiske (40), Cobet (36) and Adamantios Korais (36) (tied).</p>
+<p>The top 10 critics are Valckenaer (71), Porson (60), Markland (50), Bentley (46), Frederick H. M. Blaydes (42), Hermann (41), Elmsley (41), Brunck (40), Reiske (40), Cobet (36) and Adamantios Korais (36) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -143,12 +143,13 @@ Ar. Av. 1069|om.|πάνθ'|Ludolph Dissen|n.d.|P.Louvre ed. Weil = Austin 42|
 Ar. Av. 1078|ἀγάγῃ|ἀπαγάγῃ|Bergk|n.d.|P.Louvre ed. Weil = Austin 42|
 Ar. Av. 1080|πᾶσι|om.|Triclinius|s.xiv in.|P.Louvre ed. Weil = Austin 42|
 Ar. Av. 1115|μήνην|μῆν'|P. P. Dobree|s.xviii in.|Marc. gr. 475 (G)|
-Ar. Av. 1308|οὐκ ἄρα|οὐκ ἆρα|Kuster|1710|Paris. gr. 2715 (B)|
+Ar. Av. 1308|οὐκ ἄρα|οὐκ ἆρα|Ludolf Küster|1710|Paris. gr. 2715 (B)|
 Ar. Av. 1314|καλεῖ|καλοῖ|Valckenaer|1757|Γ s.l. et Bp|
 Ar. Av. 1322|εὐήμερον|εὐά-|Brunck|1783|Paris. gr. 2715 (B)|
 Ar. Av. 1669|-τορες|φράτερας|Dindorf|n.d.|P.Oxy. LXVI 4516|
 Ar. Av. 1671|αἰκίαν|αἴκειαν|Lenting|n.d.|P.Oxy. LXVI 4516|
 Ar. Av. 1672|καταστήσω|καταστήσας|R. B. Hirschig|1849|P.Oxy. LXVI 4516|
+Ar. Av. 1691|σὺ τὰ|σὺ|Frederick H. M. Blaydes|n.d.|P.Oxy. LXVI 4516|
 Ar. Av. 1693|διδότω|δότω|Valckenaer|1757|ΓUL|
 Ar. Eccl. 51|Φιλοδωρίτου|Φιλοδωρήτου|Valckenaer|1757|Paris. gr. 2712 (A)|
 Ar. Eccl. 652|-ῶς|λιπαρῷ|Bentley|s.xviii in.|P.Mich. inv. 6649|
