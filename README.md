@@ -314,6 +314,7 @@ Call. fr. 326|θανεῖν|θανέειν|Bentley|s.xviii in.|'Zonar.' codd. Ti
 Call. fr. 384.26|-ϲομ-|θηϲαμενω|Hunt|1922|P.Oxy. ined.|]ηϲαμενω[
 Call. fr. 388.9|Φωκείων|Φωκαέων|Valckenaer|1799|P.Oxy. XV 1793|
 Call. fr. 407.92|ὀρνίθων|ὀρνέων|F. J. Bast|s.xviii/xix|Anon.Vat.|
+Call. fr. 721|ἔαϲιν|ἐωϲιν|Dindorf|1864|Theognost. cod. Barocc.|Thes.L.Gr. I/2 p. 9 C
 Carm. conv. 906 Page|εἰ δὴ χρὴ|εἰ χρὴ|Johann Schweighäuser|1798|Arist. Ath. c. 20 fin|
 Carm. conv. 906 Page|εἰ δὴ χρὴ|εἰ χρὴ|Porson|n.d.|Arist. Ath. 20 fin|
 Carm. conv. 907 Page|κύρησαν|ἔσαν|Erasmus|n.d.|Arist. Ath. 19.3|
@@ -1384,7 +1385,6 @@ Theoc. 24.116|-θι|τηλόθε|Frederick H. M. Blaydes|n.d.|P.Ant. III 207 (Pa
 Theoc. 26.28|τῶνδ ̓ ἐμόγησε|τῶνδε μογήσαι|H. L. Ahrens|1855|P.Ant. III 207 (Pa)|
 Theoc. 28.5|τὺ δὲ|τυίδε|Hermann|n.d.|P.Oxy. L 3551 (Ox)|
 Theoc. 30.30|βούλε-|βόλλεται|Wilamowitz|n.d.|P.Ant. III 207 (Pa)|βολλετα[
-Theognost. p. 38, 22|ἔαϲιν|ἐωϲιν|Dindorf|1864|cod. Barocc.|Thes.L.Gr. I/2 p. 9 C
 Theopomp.Com. fr. 73|om.|ὃς|F. J. Bast|1811|Phot. α 632|ap. Schaefer, Greg. Cor. p. 511
 Thuc. 1.2.6|μετοικίας ἐς|μετοικεσίας|F. W. Ullrich|1862|γρH2|Beitr. z. Erkl. p. 174
 Thuc. 1.4|καθήρει|ἐκάθηρε|Cobet|1873|Aristid.|V.L. p. 149
