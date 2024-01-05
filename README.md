@@ -1024,6 +1024,7 @@ Poll. 10.74|δανείζειν|διανίζειν|Henrik van Herwerden|1882|Pari
 Polyzel. fr. 2|ἔν-|εὔυδρον|Meineke|1839-57|Phot. ε 986|
 Porph. Antr. 8|ἔρχετ᾽|ἔρχεταί τ᾽|Rudolf Hercher|1858|Vat. gr. 325 (V)|
 Priscian. Inst. 18.197|ὅσοι γὰρ/θεοῖς ἄρ'|θεοὶ γὰρ|Madvig|1846|VR|Philol. 1 (1846) 672
+Sall. hist. fr. 1.107 M|acc[]as|accitas|Gerlach|1856|Vindob. L 117 (Funari)|
 Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Bergk|1835|FP|κωϋ κεθέλουσα F: κ’ ώυ κ’ ἐθέλοις P
 Sapph. fr. 44A.5|ἀεί|ἄϊ|H. L. Ahrens|1839-43|P.Sapph.Obbink|
 Sen. Med. 677|effudit|effundit|Nicolaus Heinsius|s.xviii med.|P.Mich. inv. 4969 fr. 36|H. had a public career.
