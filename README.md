@@ -268,6 +268,7 @@ Ar. fr. 471|καὶ τῶν βελέκκων|βελέκκων|Theodor Kock|1880|
 Arat. Phaen. 736|ἰοῦσα|ἄγουσα|Buttman|n.d.|BKT V/I 7503 + 7804|
 Arat. Phaen. 750|ἐμπλήσει|ἐμπλήσσει|Voss|n.d.|BKT V/I 7503 + 7804|
 Arat. Phaen. 870|φαίνονται|φαίνωνται|Voss|n.d.|BKT V/I 7503 + 7804|
+Archil. fr. 4.6|ἀλλά τε|ἀλλ᾽ ἄγε|Musurus|n.d.|P.Oxy. VI 854|
 Arist. fr. 57.12 Rose|οὔτε|ουδε|Meineke|1839-57|P.Oxy. IV 666|
 Arist. fr. 842.7 Page|τ᾽ ἀθάνατον/εἰς ἀ.|ἰσαθάνατον|Wilamowitz|n.d.|BKT I 25|Did. in D. col. 6.18 seqq.
 Aristarch.Trag. fr. 3|-νημα|σωφρόνισμα|Meineke|1839-57|Macar.|
@@ -773,6 +774,7 @@ Hes. Th. 87|αἶψα τε|αἶψά κε|Rudolf Peppmüller|1896|P.Achm. 3|
 Hes. Th. 93|οἷά τε|τοίη|Guiet|n.d.|P.Achm. 3|
 Hes. Th. 656|ὅτι|ὅ τοι|Hermann|n.d.|P.Ryl. 54|
 Hes. Th. 768|habent|del.|F. A. Wolf|1783|P.Oxy. XXXII 2648|= Od. 10.534; 11.47
+Hippon. fr. 103.11|πασπάλιν φαγὼν|πασ]πα[λ]ηφάγον|Johannes Pierson|n.d.|P.Oxy. XVIII 2175|
 Hom. Il. 5.667|ἀμφιέποντες|αμ]φις έποιτ[ες|Brandreth|1841|P.Oxy. IV 759|
 Hom. Il. 6.493|πᾶσιν ἐμοὶ δὲ μάλιστα τοὶ Ἰλίῳ|πασι μαλιστα δ εμοι τοι Ιλιωι|C. A. J. Hoffmann|s.xix med.|P.Oxy. III 445|
 Hom. Il. 12.449|εἰσ'· ὃ δέ μιν ῥέα|ει[σιν ο δε]ρρεα|Nauck|1877|P.Lond.Lit. 251 + P.Harr. I 36|
