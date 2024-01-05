@@ -388,12 +388,12 @@ Eur. Ba. 1332|ἀρμονίας|Ἁρμονίαν|Aldina|n.d.|D.P. 391 schol.|
 Eur. Ba. 1344|-μεθά|λισσόμεσθά|Aldina|n.d.|Chr. Pat. 2557 codd. pauci|
 Eur. Ba. 1345|εἴδ-|ἤιδετε|Aldina|n.d.|Et.Gen. AB etc.|
 Eur. Ba. arg. 7|-ως|ἄλλους|Bothe|1826|Palat. gr. 287 (P)|
-Eur. El. 374|γ' ἄρα|ταρα|Seidler|n.d.|P.Hib. I 7|
+Eur. El. 374|γ' ἄρα|ταρα|J. F. A. Seidler|n.d.|P.Hib. I 7|
 Eur. El. 568|-ῆς|φρονεῖς|John Jackson|1955|Lac|
 Eur. HF 62|θεῶν|θείων|Adolf Kirchhoff|n.d.|ps.-Iustin. expos. fid. 8|
 Eur. HF 168|ἐμοὺς|]εμοι|Camper|n.d.|P.Hib. II 179|
 Eur. Hec. 8|χερρο-|Χερσονησίαν|Brunck|n.d.|St.Byz.|
-Eur. Hec. 210|ἁ τ-|τάλαινα|Seidler|n.d.|Vat. gr. 53 (Vb)|
+Eur. Hec. 210|ἁ τ-|τάλαινα|J. F. A. Seidler|n.d.|Vat. gr. 53 (Vb)|
 Eur. Hec. 355|μέτα|μέγα|Canter|n.d.|Rw i.m.|
 Eur. Hec. 426|τ᾽ ἐμοί|τέ μοι|A. Matthiae|1813|Vat. gr. 1345 (Sa)|
 Eur. Hec. 580|λέγον|λέγων|Johannes Pierson|pre-1752|MB et V2 et iΣm|
@@ -407,7 +407,7 @@ Eur. Hec. 932|ἐς οἴκους|οἴκους|King|n.d.|manus Triclinii|
 Eur. Hec. 958|αῦτα|αὐτὰ|Hermann|n.d.|F2|
 Eur. Hec. 984|χρὴ|δεῖ|Nauck|n.d.|GK|
 Eur. Hec. 1032|ἐπήγαγεν|ὑπ-|Goram|n.d.|Vat. gr. 1345 (Sa)|
-Eur. Hec. 1070|τᾶνδε|τάνδε|Seidler|n.d.|OGZc|
+Eur. Hec. 1070|τᾶνδε|τάνδε|J. F. A. Seidler|n.d.|OGZc|
 Eur. Hec. 1108|ζοῆς/ζωῆς|ζόης|Markland|n.d.|Va i.m.|ap. Burges, CJ 25 (1822) 340
 Eur. Hec. 1167|-υον|ἤνυτον|L. Dindorf|n.d.|Huv|
 Eur. Hec. 1176|τε|τὸν|Nauck|n.d.|Laur. 32.3 (L)|
@@ -457,7 +457,7 @@ Eur. Med. 1108|ἤλυθε/ἦλθε|ηλθεν|Dindorf|n.d.|P.Strasb. inv. WG 3
 Eur. Med. 1110|ἀίδην/ἀίδαν|αιδου|Earle|n.d.|P.Strasb. inv. WG 304-307|
 Eur. Med. 1159|-πέσχ-|ἠμπίσχετο|Aemilius Portus|n.d.|Hn et gE|
 Eur. Med. 1180|δρομ-|δρα[μη]μασιν|Cobet|s.xix ex.|P.Oxy. XXII 2337|
-Eur. Med. 1281|ὧν|ὃν|Seidler|n.d.|P.Harr. I 38|
+Eur. Med. 1281|ὧν|ὃν|J. F. A. Seidler|n.d.|P.Harr. I 38|
 Eur. Med. 1281|μοίραι|τ̣ο̣λμαι|Nauck|n.d.|P.Strasb. inv. WG 304-307|
 Eur. Med. 1285|ἄλη(ι)|άλα̣ι̣ς|Frederick H. M. Blaydes|n.d.|P.Harr. I 38|
 Eur. Med. 1290|δή ποτ᾽|δητ᾽|Hermann|n.d.|P.Harr. I 38|
@@ -474,7 +474,7 @@ Eur. Or. 82|γόνον|δόμον|Adolf Kirchhoff|n.d.|K2γρ|
 Eur. Or. 118|τε|γε|Benedict|n.d.|ZbZcTac|
 Eur. Or. 127|κεκτη-|κεχρημένοις|F. W. Schmidt|n.d.|AarγρGglR1γρ|
 Eur. Or. 141|κτυπεῖτε|ψοφεῖτε|Elmsley|n.d.|Aarγρ|
-Eur. Or. 162 nota|Ἠλ.|del.|Seidler|n.d.|Tt3|
+Eur. Or. 162 nota|Ἠλ.|del.|J. F. A. Seidler|n.d.|Tt3|
 Eur. Or. 193|ματέρος|ματρός|Hermann|1796|Monac. gr. 500 (Mo)|teste Biehl
 Eur. Or. 193|ματέρος|ματρός|Porson|n.d.|Monac. gr. 500 (Mo)|teste Biehl
 Eur. Or. 204|γόοις|γόοισι|Hermann|1796|Pap.Flor. III|
@@ -507,7 +507,7 @@ Eur. Or. 785|ἀσχάλ(λ)ων|-αλῶν|Joshua Barnes|n.d.|RS|
 Eur. Or. 789|δὲ/γὰρ|γε|Lenting|n.d.|V et lΣv et Ab|
 Eur. Or. 793|τόδ᾽|τὸ δ᾽|F. A. Paley|n.d.|MBC|
 Eur. Or. 795|νῦν|νυν|Monk|n.d.|Cantab. Nn. 3.14 (Z)|
-Eur. Or. 836|-σι|εὐμενίσιν|Seidler|n.d.|Parm. 154 (Tp)|
+Eur. Or. 836|-σι|εὐμενίσιν|J. F. A. Seidler|n.d.|Parm. 154 (Tp)|
 Eur. Or. 836|φόνω(ι)|φοβωι̣|F. A. Paley|n.d.|P.Mich. inv. 3735c|
 Eur. Or. 836|φόνω(ι)|φόνου|J. A. Hartung|n.d.|PrS|ἕνεκα φόνου Vgl
 Eur. Or. 891|-οῖς|καλοὺς|J. A. Hartung|n.d.|Athos Dionysiou 334 (Ad)|
@@ -660,7 +660,7 @@ Eur. Ph. 1501|ἀνακαλέσομαι|ἀγκαλέσωμαι|Henrik van Herwe
 Eur. Ph. 1502|τάδε σώματα|τάδ᾽ αἵματα|Markland|n.d.|Wc|
 Eur. Ph. 1502|τάδε σώματα|τάδ᾽ αἵματα|Samuel Musgrave|n.d.|Wc|
 Eur. Ph. 1508|πάτερ|del.|Hermann|n.d.|P.Strasb. inv. WG 307|
-Eur. Ph. 1520–1|ἀεὶ|αἰεὶ|Seidler|n.d.|Cremon. 130 (Cr)|
+Eur. Ph. 1520–1|ἀεὶ|αἰεὶ|J. F. A. Seidler|n.d.|Cremon. 130 (Cr)|
 Eur. Ph. 1522–3|-οισι(ν)|λειβομένοισιν|Bothe|1803|P.Strasb. inv. WG 307|
 Eur. Ph. 1522–3|ἰαχήσω|del.|Burges|n.d.|P.Strasb. inv. WG 307|
 Eur. Ph. 1522–3|ἰαχήσω|del.|Dindorf|n.d.|P.Strasb. inv. WG 307|
@@ -1027,6 +1027,7 @@ Priscian. Inst. 18.197|ὅσοι γὰρ/θεοῖς ἄρ'|θεοὶ γὰρ|Ma
 Sall. hist. fr. 1.107 M|acc[]as|accitas|Gerlach|1856|Vindob. L 117 (Funari)|
 Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Bergk|1835|FP|κωϋ κεθέλουσα F: κ’ ώυ κ’ ἐθέλοις P
 Sapph. fr. 44A.5|ἀεί|ἄϊ|H. L. Ahrens|1839-43|P.Sapph.Obbink|
+Sapph. fr. 81.4|παρ-|πέρθεσθ'|J. F. A. Seidler|1829|P.Oxy. XV 1787|]ΕΡΘΕϹ[
 Sen. Med. 677|effudit|effundit|Nicolaus Heinsius|s.xviii med.|P.Mich. inv. 4969 fr. 36|H. had a public career.
 Simon. fr. 25|χεέτω|χείτω|M. L. West|1989|P.Oxy. LXXXI 5261|χέιτω is accented on papyrus.
 Simon. fr. 88|λεύχης|λέσχης|Henri Estienne|s.xvi ex.|P.Oxy. XI 1362|
