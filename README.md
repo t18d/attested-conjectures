@@ -72,7 +72,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (71), Porson (62), Markland (52), Bentley (49), Frederick H. M. Blaydes (42), Hermann (41), Elmsley (41), Brunck (40), Reiske (40) and Cobet (39).</p>
+<p>The top 10 critics are Valckenaer (71), Porson (62), Markland (52), Bentley (49), Hermann (42), Frederick H. M. Blaydes (42), Elmsley (41), Brunck (40), Reiske (40) and Cobet (39).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -91,6 +91,7 @@ Ach.Tat. LC 3.23.1|τὴν ψυχὴν|τῆς ψυχῆς|Cobet|1858|P.Duk. inv
 Ach.Tat. LC 3.24.2|πέντε|αἱ πέντε|Cobet|1858|P.Duk. inv. 772 + P.Köln inv. 901|
 Ael. NA 12.10|-ία|μυωνιά|Theodor Kock|1880-8|Laur. 86.7(L)|
 Aesch. PV 157|ἐπεγήθει/ἐπιγήθει|ἐγεγήθει|Valckenaer|s.xviii med.|Ambros. gr. G 56 (D) et Matrit. gr. 4677 (N)|
+Aesch. Pr. 691–3|δείματ'|del.|Hermann|1852|Ambros. gr. G 56 (D)|
 Aesch. Supp. 79|ηβαι|ἥβαν|Schütz|1808-11|schol. vetus (Σ)|
 Aesch. T 1.5|-ουϲ|Ἀριϲτοφάνει|Bergk|1883|BXc|Hermes 18 (1883) 483
 Aesch. T 56b.2|καταθ-|καϑέϲειϲ|Casaubon|1600|Marc. gr. 468 (V)|Animadv. 260, 24 sq.
