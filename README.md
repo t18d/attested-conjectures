@@ -49,6 +49,7 @@
         <li>La Penna, Antonio, and Rodolfo Funari (eds), <em>C. Sallusti Crispi Historiae</em>, i: <em>Fragmenta 1.1–146</em> (Berlin, 2015).</li>
         <li>Markus, D., and G. Schwendner, 'Seneca’s Medea in Egypt (663–704)', <em>ZPE</em>, 117 (1997), 73–84.</li>
         <li>Marshall, P. K., <em>The Manuscript Tradition of Cornelius Nepos (BICS Suppl. No. 37)</em> (Oxford, 1977), 43.</li>
+        <li>Page, D. L. (ed.), <em>Poetae melici Graeci</em> (Oxford, 1967).</li>
         <li>Photius, <em>Patriarchae lexicon</em>, ed. Christos Theodoridis, 3 vols (Berlin, 1982–2013).</li>
         <li>Radt, Stefan (ed.), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, iii: <em>Aeschylus</em> (Göttingen, 1985).</li>
         <li>Radt, Stefan (ed.), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, iv: <em>Sophocles</em> (2nd edn, Göttingen, 1999).</li>
