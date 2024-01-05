@@ -1574,6 +1574,7 @@ Thuc. 8.79.1|ἵνα δὲ|ἵνα δὴ|Gottfried Boehme|1856|S5|
 Thuc. 8.86.5|-ρῶν|λοιδοριῶν|Madvig|1871|Pi2|Adv. p. 334
 Thuc. 8.86.9|πεμπτοὺς/πέμπουσι|del.|Bekker|1832|recc.|
 Thuc. 8.95.6|οἱ|οἳ|Henri Estienne|1564|Pi2|
+Verg. ecl. 6.33|exordia|ex omnia|P. Hofman Peerlkamp|1861|Palat. lat. 1631 (P)|
 Xen. Oec. 9.2|τῆς οἰκίας|τῆς γε οἰκίας|Cobet|s.xix ex.|P.Oxy. II 227|
 Xen. Oec. 9.2|ἑκάστῳ|ἐν ἑκάστῳ|Schneider|n.d.|P.Oxy. II 227|
 Zen. 4.80|-ω|Δακτύλων|Andreas Schott|1612|Angel. et Marc. et Paris.|
