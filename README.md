@@ -73,7 +73,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (71), Porson (62), Markland (52), Bentley (49), Hermann (42), Frederick H. M. Blaydes (42), Elmsley (41), Brunck (40), Reiske (40) and Cobet (39).</p>
+<p>The top 10 critics are Valckenaer (71), Porson (62), Markland (52), Bentley (50), Hermann (42), Frederick H. M. Blaydes (42), Elmsley (41), Brunck (40), Reiske (40) and Cobet (39).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -305,9 +305,12 @@ Call. fr. 43.16|ἀκουὰς|ἀκουαῖς|Bentley|1693|P.Oxy. XVII 2080|
 Call. fr. 43.64|γαιοδόται|γεωδαῖται|Bentley|1693|P.Oxy. XVII 2080|
 Call. fr. 43.71|γυνή|γύπῃ|David Ruhnken|1761|P.Oxy. XVII 2080|
 Call. fr. 43.71|γυνή|γύπῃ|Jonathan Toup|s.xviii med.|P.Oxy. XVII 2080|Exeter
+Call. fr. 64.13|ἀκουὰς|Κραννώνιος|Bentley|1693|P.Oxy. XIX 2211|
+Call. fr. 115.12|γυνή|ἔτραφεν|David Ruhnken|1761|P.Oxy. XVII 2080|
 Call. fr. 178.16|λεύχης|λέσχης|Henri Estienne|1566|P.Oxy. XI 1362|
 Call. fr. 178.33|ναυτιλίῃσιν ἥν|]λίης εἰ νῆιν|Nauck|s.xix ex.|P.Oxy. XI 1362|?
 Call. fr. 191.10|χάλκεον|Παγχαῖον|Bentley|1693|P.Oxy. XI 1363|
+Call. fr. 191.42|-ους|παρθένοις|Hemsterhuys|n.d.|P.Oxy. VII 1011|
 Call. fr. 197.1|ὅπερ Φεραῖοϲ αἰνείων-|-αῖοϲαινίωνθὲοϲ|Wilamowitz|1905|P.Oxy. XVIII 2171|Herm. 40 p. 158
 Call. fr. 265|ἡληλ- κτλ.|εἰληλούθειν|Schneider|n.d.|Sud. codd. AGITVM|
 Call. fr. 272|Δεκελ-|δ᾽ ἐκλειόθεν|Bentley|1693|Et.Gen.|
@@ -1013,6 +1016,7 @@ Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Minga
 Pi. O. 1 schol. Inscr. a|ογ΄|οϛ΄|Bergk|1878|P.Oxy. II 222|Poet. Lyr. i. p.4
 Pi. O. 2.76|γᾶς|μέγας|Jan Cornelis de Pauw|1747|P.Oxy. XVII 2092|
 Pi. O. 6.77|ὄροις|ὄρος|Zacharias Callierges|1515|P.Oxy. XIII 1614|
+Pi. P. 3.166 schol.|ἐν κῷ|ἐν Ἴκῳ|Brodaeus|n.d.|DEGQ|Epigr. Gr. 1549 p. 372
 Pi. Pae. 9.4|ἰσχὺν πτανὸν (ἀν)δράσιν|ἰσχύν τ'ἀνδράσι(ν)|Blass|n.d.|P.Oxy. V 841|
 Pl. Crit. 48e|πείσαι κτλ.|πείσας|Buttmann|n.d.|Vat. gr. 225 (V)|
 Pl. Phd. 82e|τῳ δεδέσθαι|τοῦ δεδέσθαι|Heindorf|1810|P.Lond.Lit. 145 (inv. 488)|
