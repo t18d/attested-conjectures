@@ -73,7 +73,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (71), Porson (62), Markland (52), Bentley (50), Hermann (42), Frederick H. M. Blaydes (42), Elmsley (41), Brunck (40), Reiske (40) and Cobet (39).</p>
+<p>The top 10 critics are Valckenaer (71), Porson (62), Markland (52), Bentley (51), Hermann (42), Frederick H. M. Blaydes (42), Elmsley (41), Brunck (40), Reiske (40) and Cobet (39).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -314,7 +314,8 @@ Call. fr. 191.42|-ους|παρθένοις|Hemsterhuys|n.d.|P.Oxy. VII 1011|
 Call. fr. 197.1|ὅπερ Φεραῖοϲ αἰνείων-|-αῖοϲαινίωνθὲοϲ|Wilamowitz|1905|P.Oxy. XVIII 2171|Herm. 40 p. 158
 Call. fr. 265|ἡληλ- κτλ.|εἰληλούθειν|Schneider|n.d.|Sud. codd. AGITVM|
 Call. fr. 272|Δεκελ-|δ᾽ ἐκλειόθεν|Bentley|1693|Et.Gen.|
-Call. fr. 326|θανεῖν|θανέειν|Bentley|s.xviii in.|'Zonar.' codd. Tittm.|
+Call. fr. 301|οὔτε|ὅν τε|Bentley|1693|schol. (a) et (b) cod. Ox. et Et.Gud.|
+Call. fr. 326|θανεῖν|θανέειν|Bentley|1693|'Zonar.' codd. Tittm.|
 Call. fr. 384.26|-ϲομ-|θηϲαμενω|Hunt|1922|P.Oxy. ined.|]ηϲαμενω[
 Call. fr. 388.9|Φωκείων|Φωκαέων|Valckenaer|1799|P.Oxy. XV 1793|
 Call. fr. 407.92|ὀρνίθων|ὀρνέων|F. J. Bast|s.xviii/xix|Anon.Vat.|
