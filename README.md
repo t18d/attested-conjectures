@@ -295,10 +295,10 @@ Call. Dian. 16|-μάδας|ἐνδρομίδας|Janus Lascaris|1496|Et.Gen.|
 Call. Dian. 29|ὅτι|ὅτε|Janus Lascaris|1496|P.Mil.Vogl. II 42|
 Call. Dian. 61|μοχθίσσειαν|μυχ-|Meineke|1861|P.Ant. I 20|lemma
 Call. Dian. 70|-ύσεται|μορμύσσεται|Janus Lascaris|1496|P.Ant. I 20|
-Call. Jov. 80|σφι|σφε|Bentley|1693|P.Oxy. ined. A fr. 1 recto|
+Call. Jov. 80|σφι|σφε|Bentley|1697|P.Oxy. ined. A fr. 1 recto|
 Call. Lav.Pall. 52|μ᾽ οὐκ|μὴ οὐκ|Arnaldus|s.xviii in.|Paris. Gr. 2763 (E)|
 Call. Lav.Pall. 117|ἐ.|δ᾽ ἐρέει|Bergk|s.xix med.|Paris. Gr. 2763 (E)|
-Call. fr. 1.11 Schol. Lond.|λεπτ`|κατὰ λεπτ`|Rostagni|n.d.|teste Milne|Cl. R. 43 (1929) 214
+Call. fr. 1.11 Schol. Lond.|λεπτ`|κατὰ λεπτ`|A. Rostagni|1929|teste Milne|Cl. R. 43 (1929) 214
 Call. fr. 7.14|πολὺ μένουσιν|πουλὺ μένωσιν|Valckenaer|1799|PSI XI 1219|Elegiarum Fragmenta p. 276
 Call. fr. 43.14|παραχρῆμ'|παρὰ χρέος|A. F. Naeke|1845|P.Oxy. XVII 2080|
 Call. fr. 43.16|ἀκουὰς|ἀκουαῖς|Bentley|1697|P.Oxy. XVII 2080|
@@ -312,7 +312,7 @@ Call. fr. 178.33|ναυτιλίῃσιν ἥν|]λίης εἰ νῆιν|Nauck|s
 Call. fr. 191.10|χάλκεον|Παγχαῖον|Bentley|1697|P.Oxy. XI 1363|
 Call. fr. 191.42|-ους|παρθένοις|Hemsterhuys|n.d.|P.Oxy. VII 1011|
 Call. fr. 197.1|ὅπερ Φεραῖοϲ αἰνείων-|-αῖοϲαινίωνθὲοϲ|Wilamowitz|1905|P.Oxy. XVIII 2171|Herm. 40 p. 158
-Call. fr. 265|ἡληλ- κτλ.|εἰληλούθειν|Schneider|n.d.|Sud. codd. AGITVM|
+Call. fr. 265|ἡληλ- κτλ.|εἰληλούθειν|Schneider|1870|Sud. codd. AGITVM|
 Call. fr. 272|Δεκελ-|δ᾽ ἐκλειόθεν|Bentley|1697|Et.Gen.|
 Call. fr. 301|οὔτε|ὅν τε|Bentley|1697|schol. (a) et (b) cod. Ox. et Et.Gud.|
 Call. fr. 326|θανεῖν|θανέειν|Bentley|1697|'Zonar.' codd. Tittm.|
