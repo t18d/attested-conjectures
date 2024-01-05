@@ -113,6 +113,7 @@ Aeschin. Tim. 176|διισχ-|ἰσχθυρίζεσθαι|Hieronymus Wolf|1572|P
 Aeschin. Tim. 177|νόμους μέν|μὲν νόμους|Cobet|s.xix ex.|P.Gen. I 256|
 Aeschin. Tim. 178|-γορούντων|κατηγόρων|Blass|1896|P.Gen. I 256|
 Aeschin. Tim. 178|πᾶσι τοῖς δικαίοις|πᾶσι δικαίοις|Joseph Anton Hillebrand|1868|P.Gen. I 256|
+Alc. fr. 6.3|καὶ|ΚΕ’ΝΑ|J. F. A. Seidler|1829|P.Oxy. XV 1789|
 Alc. fr. 34|]ϲον|δεῦτέ μοι νᾶϲον|C. Gallavotti|1947|P.Mich. inv. 3498 + 3250b recto|δεῦτ̣[έ] μοι νᾶcον; Borges-Sampson (2012)
 Alc. fr. 343|τετυγ-|τετυχ[|Lobel|1927|P.Oxy. XXXV 2734|
 Anaximen. Rh. 1.13|ἢ ἄ.|ἢ ὑπ' ἄνθρώπων|Leonhard von Spengel|1844|P.Hib. I 26|
