@@ -65,7 +65,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (71), Porson (61), Markland (51), Bentley (49), Frederick H. M. Blaydes (42), Hermann (41), Elmsley (41), Brunck (40), Reiske (40) and Cobet (39).</p>
+<p>The top 10 critics are Valckenaer (71), Porson (61), Markland (52), Bentley (49), Frederick H. M. Blaydes (42), Hermann (41), Elmsley (41), Brunck (40), Reiske (40) and Cobet (39).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1576,8 +1576,11 @@ Thuc. 8.86.9|πεμπτοὺς/πέμπουσι|del.|Bekker|1832|recc.|
 Thuc. 8.95.6|οἱ|οἳ|Henri Estienne|1564|Pi2|
 Verg. Aen. 4.471|agitatus|agitatur|W. Klouček|1886|Paris. lat. 7906 (p)|
 Verg. Aen. 10.237|horrentis|ardentis|Johannes Schrader|pre-1767|Pγ (corr. γ1)|
+Verg. ecl. 4.23|fundent|fundet|A. Y. Campbell|1938|Montepess. H 253 (x)|CR 52 (1938) 54–56
 Verg. ecl. 6.33|exordia|ex omnia|P. Hofman Peerlkamp|1861|Palat. lat. 1631 (P)|
 Verg. georg. 1.418|vias|vices|Markland|1728|γ|ad Stat. silv. 5.2.162
+Verg. georg. 2.81|exiit|exit|Lachmann|1855|γ*|ad Lucr. 3.1042
+Verg. georg. 2.514|hinc (prius)|hic|Markland|1728|iγ1|ad Stat. silv. 1.2.144
 Xen. Oec. 9.2|τῆς οἰκίας|τῆς γε οἰκίας|Cobet|s.xix ex.|P.Oxy. II 227|
 Xen. Oec. 9.2|ἑκάστῳ|ἐν ἑκάστῳ|Schneider|n.d.|P.Oxy. II 227|
 Zen. 4.80|-ω|Δακτύλων|Andreas Schott|1612|Angel. et Marc. et Paris.|
