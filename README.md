@@ -1036,7 +1036,8 @@ Sapph. fr. 44A.5|ἀεί|ἄϊ|H. L. Ahrens|1839-43|P.Sapph.Obbink|
 Sapph. fr. 81.4|παρ-|πέρθεσθ'|J. F. A. Seidler|1829|P.Oxy. XV 1787|]ΕΡΘΕϹ[
 Sapph. fr. 94.24|deest|οὔτε τι]|Blass|1874|Schubart ap. Lobel, Ϲ. μ. p. 79|]Τ̣Ε̣ΤΙ
 Sen. Med. 677|effudit|effundit|Nicolaus Heinsius|s.xviii med.|P.Mich. inv. 4969 fr. 36|H. had a public career.
-Simon. fr. 25|χεέτω|χείτω|M. L. West|1989|P.Oxy. LXXXI 5261|χέιτω is accented on papyrus.
+Simon. fr. 20.10|βιότου|βιότοι'|Joachim Camerarius|1551|P.Oxy. LIX 3965|
+Simon. fr. 25.5|χεέτω|χείτω|M. L. West|1989|P.Oxy. LXXXI 5261|
 Simon. fr. 88|λεύχης|λέσχης|Henri Estienne|s.xvi ex.|P.Oxy. XI 1362|
 Soph. Aj. 98|ὥστ'|ὡς|Elmsley|n.d.|Paris. suppl. gr. 109 (Q)|
 Soph. Aj. 135|-άλου|ἀγχίαλον|Bothe|n.d.|Laur. 32.40 (H)|
