@@ -293,6 +293,7 @@ Call. fr. 43.16|ἀκουὰς|ἀκουαῖς|Bentley|1693|P.Oxy. XVII 2080|
 Call. fr. 43.64|γαιοδόται|γεωδαῖται|Bentley|1693|P.Oxy. XVII 2080|
 Call. fr. 43.71|γυνή|γύπῃ|David Ruhnken|1761|P.Oxy. XVII 2080|
 Call. fr. 43.71|γυνή|γύπῃ|Jonathan Toup|s.xviii med.|P.Oxy. XVII 2080|Exeter
+Call. fr. 178.16|λεύχης|λέσχης|Henri Estienne|1566|P.Oxy. XI 1362|
 Call. fr. 178.33|ναυτιλίῃσιν ἥν|]λίης εἰ νῆιν|Nauck|s.xix ex.|P.Oxy. XI 1362|?
 Call. fr. 191.10|χάλκεον|Παγχαῖον|Bentley|1693|P.Oxy. XI 1363|
 Call. fr. 197.1|ὅπερ Φεραῖοϲ αἰνείων-|-αῖοϲαινίωνθὲοϲ|Wilamowitz|1905|P.Oxy. XVIII 2171|Herm. 40 p. 158
@@ -1038,7 +1039,6 @@ Sapph. fr. 94.24|deest|οὔτε τι]|Blass|1874|Schubart ap. Lobel, Ϲ. μ. p.
 Sen. Med. 677|effudit|effundit|Nicolaus Heinsius|s.xviii med.|P.Mich. inv. 4969 fr. 36|H. had a public career.
 Simon. fr. 20.10|βιότου|βιότοι'|Joachim Camerarius|1551|P.Oxy. LIX 3965|
 Simon. fr. 25.5|χεέτω|χείτω|M. L. West|1989|P.Oxy. LXXXI 5261|
-Simon. fr. 88|λεύχης|λέσχης|Henri Estienne|s.xvi ex.|P.Oxy. XI 1362|
 Soph. Aj. 98|ὥστ'|ὡς|Elmsley|n.d.|Paris. suppl. gr. 109 (Q)|
 Soph. Aj. 135|-άλου|ἀγχίαλον|Bothe|n.d.|Laur. 32.40 (H)|
 Soph. Aj. 146|λοιπή|κοινή|Henrik van Herwerden|n.d.|Gγρ|
