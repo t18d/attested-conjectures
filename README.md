@@ -262,7 +262,8 @@ Ar. fr. 471|καὶ τῶν βελέκκων|βελέκκων|Theodor Kock|1880|
 Arat. Phaen. 736|ἰοῦσα|ἄγουσα|Buttman|n.d.|BKT V/I 7503 + 7804|
 Arat. Phaen. 750|ἐμπλήσει|ἐμπλήσσει|Voss|n.d.|BKT V/I 7503 + 7804|
 Arat. Phaen. 870|φαίνονται|φαίνωνται|Voss|n.d.|BKT V/I 7503 + 7804|
-Arist. fr. 57.12|οὔτε|ουδε|Meineke|1839-57|P.Oxy. IV 666|
+Arist. fr. 57.12 Rose|οὔτε|ουδε|Meineke|1839-57|P.Oxy. IV 666|
+Arist. fr. 842.7 Page|τ᾽ ἀθάνατον/εἰς ἀ.|ἰσαθάνατον|Wilamowitz|n.d.|BKT I 25|Didymus, in Demosth. Phil. col. 6.18 seqq.
 Aristarch.Trag. fr. 3|-νημα|σωφρόνισμα|Meineke|1839-57|Macar.|
 Ath. 9.375E|νοθ-|νοτοῦντι|Jan Cornelis de Pauw|1745|Marc. 447 (A)|
 Ath. 11.490E|οὐρανός τε γῆ|οὐρανοστεγῆ|Benjamin Heath|1798|Marc. 447 (A)|apud Schweighäuser
