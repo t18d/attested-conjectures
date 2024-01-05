@@ -73,7 +73,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (71), Porson (62), Markland (52), Bentley (51), Hermann (42), Frederick H. M. Blaydes (42), Elmsley (41), Brunck (40), Reiske (40) and Cobet (39).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (52), Bentley (51), Hermann (42), Frederick H. M. Blaydes (42), Elmsley (41), Brunck (40), Reiske (40) and Cobet (39).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -299,23 +299,23 @@ Call. Jov. 80|σφι|σφε|Bentley|1693|P.Oxy. ined. A fr. 1 recto|
 Call. Lav.Pall. 52|μ᾽ οὐκ|μὴ οὐκ|Arnaldus|s.xviii in.|Paris. Gr. 2763 (E)|
 Call. Lav.Pall. 117|ἐ.|δ᾽ ἐρέει|Bergk|s.xix med.|Paris. Gr. 2763 (E)|
 Call. fr. 1.11 Schol. Lond.|λεπτ`|κατὰ λεπτ`|Rostagni|n.d.|teste Milne|Cl. R. 43 (1929) 214
-Call. fr. 7.14|πολὺ μένουσιν|πουλὺ μένωσιν|A. F. Naeke|1845|PSI XI 1219|
+Call. fr. 7.14|πολὺ μένουσιν|πουλὺ μένωσιν|Valckenaer|1799|PSI XI 1219|Elegiarum Fragmenta p. 276
 Call. fr. 43.14|παραχρῆμ'|παρὰ χρέος|A. F. Naeke|1845|P.Oxy. XVII 2080|
-Call. fr. 43.16|ἀκουὰς|ἀκουαῖς|Bentley|1693|P.Oxy. XVII 2080|
-Call. fr. 43.64|γαιοδόται|γεωδαῖται|Bentley|1693|P.Oxy. XVII 2080|
+Call. fr. 43.16|ἀκουὰς|ἀκουαῖς|Bentley|1697|P.Oxy. XVII 2080|
+Call. fr. 43.64|γαιοδόται|γεωδαῖται|Bentley|1697|P.Oxy. XVII 2080|
 Call. fr. 43.71|γυνή|γύπῃ|David Ruhnken|1761|P.Oxy. XVII 2080|
 Call. fr. 43.71|γυνή|γύπῃ|Jonathan Toup|s.xviii med.|P.Oxy. XVII 2080|Exeter
-Call. fr. 64.13|ἀκουὰς|Κραννώνιος|Bentley|1693|P.Oxy. XIX 2211|
+Call. fr. 64.13|ἀκουὰς|Κραννώνιος|Bentley|1697|P.Oxy. XIX 2211|
 Call. fr. 115.12|γυνή|ἔτραφεν|David Ruhnken|1761|P.Oxy. XVII 2080|
 Call. fr. 178.16|λεύχης|λέσχης|Henri Estienne|1566|P.Oxy. XI 1362|
 Call. fr. 178.33|ναυτιλίῃσιν ἥν|]λίης εἰ νῆιν|Nauck|s.xix ex.|P.Oxy. XI 1362|?
-Call. fr. 191.10|χάλκεον|Παγχαῖον|Bentley|1693|P.Oxy. XI 1363|
+Call. fr. 191.10|χάλκεον|Παγχαῖον|Bentley|1697|P.Oxy. XI 1363|
 Call. fr. 191.42|-ους|παρθένοις|Hemsterhuys|n.d.|P.Oxy. VII 1011|
 Call. fr. 197.1|ὅπερ Φεραῖοϲ αἰνείων-|-αῖοϲαινίωνθὲοϲ|Wilamowitz|1905|P.Oxy. XVIII 2171|Herm. 40 p. 158
 Call. fr. 265|ἡληλ- κτλ.|εἰληλούθειν|Schneider|n.d.|Sud. codd. AGITVM|
-Call. fr. 272|Δεκελ-|δ᾽ ἐκλειόθεν|Bentley|1693|Et.Gen.|
-Call. fr. 301|οὔτε|ὅν τε|Bentley|1693|schol. (a) et (b) cod. Ox. et Et.Gud.|
-Call. fr. 326|θανεῖν|θανέειν|Bentley|1693|'Zonar.' codd. Tittm.|
+Call. fr. 272|Δεκελ-|δ᾽ ἐκλειόθεν|Bentley|1697|Et.Gen.|
+Call. fr. 301|οὔτε|ὅν τε|Bentley|1697|schol. (a) et (b) cod. Ox. et Et.Gud.|
+Call. fr. 326|θανεῖν|θανέειν|Bentley|1697|'Zonar.' codd. Tittm.|
 Call. fr. 384.26|-ϲομ-|θηϲαμενω|Hunt|1922|P.Oxy. ined.|]ηϲαμενω[
 Call. fr. 388.9|Φωκείων|Φωκαέων|Valckenaer|1799|P.Oxy. XV 1793|
 Call. fr. 407.92|ὀρνίθων|ὀρνέων|F. J. Bast|s.xviii/xix|Anon.Vat.|
