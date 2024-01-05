@@ -298,6 +298,7 @@ Call. fr. 178.16|λεύχης|λέσχης|Henri Estienne|1566|P.Oxy. XI 1362|
 Call. fr. 178.33|ναυτιλίῃσιν ἥν|]λίης εἰ νῆιν|Nauck|s.xix ex.|P.Oxy. XI 1362|?
 Call. fr. 191.10|χάλκεον|Παγχαῖον|Bentley|1693|P.Oxy. XI 1363|
 Call. fr. 197.1|ὅπερ Φεραῖοϲ αἰνείων-|-αῖοϲαινίωνθὲοϲ|Wilamowitz|1905|P.Oxy. XVIII 2171|Herm. 40 p. 158
+Call. fr. 265|ἡληλ- κτλ.|εἰληλούθειν|Schneider|n.d.|Sud. codd. AGITVM|
 Call. fr. 272|Δεκελ-|δ᾽ ἐκλειόθεν|Bentley|1693|Et.Gen.|
 Call. fr. 326|θανεῖν|θανέειν|Bentley|s.xviii in.|'Zonar.' codd. Tittm.|
 Call. fr. 384.26|-ϲομ-|θηϲαμενω|Hunt|1922|P.Oxy. ined.|]ηϲαμενω[
