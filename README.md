@@ -306,7 +306,7 @@ Call. fr. 326|θανεῖν|θανέειν|Bentley|s.xviii in.|'Zonar.' codd. Ti
 Call. fr. 384.26|-ϲομ-|θηϲαμενω|Hunt|1922|P.Oxy. ined.|]ηϲαμενω[
 Call. fr. 388.9|Φωκείων|Φωκαέων|Valckenaer|1799|P.Oxy. XV 1793|
 Call. fr. 407.92|ὀρνίθων|ὀρνέων|F. J. Bast|s.xviii/xix|Anon.Vat.|
-Carm. conv. 906 Page|εἰ δὴ χρὴ|εἰ χρὴ|Johann Schweighäuser|n.d.|Arist. Ath. c. 20 fin|
+Carm. conv. 906 Page|εἰ δὴ χρὴ|εἰ χρὴ|Johann Schweighäuser|1798|Arist. Ath. c. 20 fin|
 Carm. conv. 906 Page|εἰ δὴ χρὴ|εἰ χρὴ|Porson|n.d.|Arist. Ath. c. 20 fin|
 Charito 2.3.5|ποθεν|ποδῶν|Jacques Philippe D'Orville|1750|P.Oxy. VII 1019|
 Charito 2.4.5|ἐπυρφόρει|επυρπ̣ο[λει|Rudolf Hercher|1854|P.Oxy. XLI 2948|
