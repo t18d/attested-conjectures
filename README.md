@@ -1028,6 +1028,7 @@ Sall. hist. fr. 1.107 M|acc[]as|accitas|Gerlach|1856|Vindob. L 117 (Funari)|
 Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Bergk|1835|FP|κωϋ κεθέλουσα F: κ’ ώυ κ’ ἐθέλοις P
 Sapph. fr. 44A.5|ἀεί|ἄϊ|H. L. Ahrens|1839-43|P.Sapph.Obbink|
 Sapph. fr. 81.4|παρ-|πέρθεσθ'|J. F. A. Seidler|1829|P.Oxy. XV 1787|]ΕΡΘΕϹ[
+Sapph. fr. 94.24|deest|οὔτε τι]|Blass|1874|Schubart ap. Lobel, Ϲ. μ. p. 79|]Τ̣Ε̣ΤΙ
 Sen. Med. 677|effudit|effundit|Nicolaus Heinsius|s.xviii med.|P.Mich. inv. 4969 fr. 36|H. had a public career.
 Simon. fr. 25|χεέτω|χείτω|M. L. West|1989|P.Oxy. LXXXI 5261|χέιτω is accented on papyrus.
 Simon. fr. 88|λεύχης|λέσχης|Henri Estienne|s.xvi ex.|P.Oxy. XI 1362|
