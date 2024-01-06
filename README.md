@@ -106,8 +106,10 @@ Aeschin. Ctes. 18|γέρα|ἱερὰ|Hendrik Arent Hamaker|s.xviii/xix|P.Oxy. X
 Aeschin. Ctes. 20|τὸν ... σκυθρωπὸν|τῶν ... σκυθρωπῶν|Denys Lambin|s.xvi med.|P.Oxy. XIII 1625|
 Aeschin. Ctes. 20|ἄγειν|ἄγει|Hieronymus Wolf|1572|P.Oxy. XIII 1625|
 Aeschin. Ctes. 53|μὲν ἀληθῆ|ἀληθῆ μὲν|Cobet|s.xix ex.|P.Oxy. XXIV 2404|
+Aeschin. Ctes. 57|ἀκούσωσι|ἀκούωσι|Hendrik Arent Hamaker|1859|P.Oxy. LX 4044|Mnem. 8 (1859) 5
 Aeschin. Ctes. 94|ὁρώντων|ζώντων|Georg Kaibel|s.xix ex.|P.Oxy. IV 703|ζων[
 Aeschin. Ctes. 167|-θίζει/-θεστήσῃ κτλ.|προσκαθιζήσει|Lobeck|s.xix in.|P.Oxy. III 457|προσκαθ[ιζ]ησ[ει
+Aeschin. Tim. 40|Τιμάρχου|τῷ Τιμάρχου|Blass|1896|P.Oxy. LX 4029|
 Aeschin. Tim. 173|ἐξαιτήσ-|ἐξαιρήσεται|Blass|1896|P.Gen. I 256|
 Aeschin. Tim. 176|διισχ-|ἰσχθυρίζεσθαι|Hieronymus Wolf|1572|P.Gen. I 256|
 Aeschin. Tim. 177|νόμους μέν|μὲν νόμους|Cobet|s.xix ex.|P.Gen. I 256|
