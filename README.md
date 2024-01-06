@@ -73,7 +73,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (52), Bentley (51), Hermann (42), Frederick H. M. Blaydes (42), Elmsley (41), Brunck (40), Reiske (40) and Cobet (39).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (52), Bentley (51), Hermann (42), Frederick H. M. Blaydes (42), Elmsley (41), Cobet (40), Brunck (40) and Reiske (40).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -357,7 +357,7 @@ D.L. 3.17|σαφάσαιμι/σαφὲς ἅμι|σάφα ἴσαμι|H. L. Ahre
 D.L. 3.56|-ϲαν|ϲυνεπλήρωϲεν|Usener|1870|Laur. 69.13 (F) et Paris. gr. 1759 (P)|RhM 25 (1870) 579; -σαν BPF teste Dorandi
 D.S. 9.10.4|ἐᾷ τὰ γρ.|ἐᾷ με γρ.|Dindorf|s.xix med.|Vat. teste Herwerden|
 D.T. schol. p. 471, 35|Ἀντιφ-|Ἰοφῶντος|J. A. Cramer|1837|Vat. gr. 14 (C)|
-Dem. 1.14|τις ἂν εἴποι κτλ.|del.Cobet|s.xviii/xix|P.Oxy. LXII 4310||
+Dem. 1.14|τις ἂν εἴποι κτλ.|del.|Cobet|s.xviii/xix|P.Oxy. LXII 4310|
 Dem. 19.280|καὶ τοῦ|τοῦ|P. P. Dobree|1814|P.Oxy. VIII 1094|
 Dem. Ep. 3.9|τὸ ὅσον|ὅσον|Blass|n.d.|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.22|ἀγνώμοσι|ἀγνῶσι|P. P. Dobree|s.xviii/xix|P.Lond.Lit. 130 (inv. 133)|
