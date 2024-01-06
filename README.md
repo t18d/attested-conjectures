@@ -74,7 +74,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (53), Bentley (51), Brunck (44), Elmsley (43), Hermann (42), Frederick H. M. Blaydes (42), Reiske (41) and Cobet (40).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (53), Bentley (51), Brunck (44), Elmsley (43), Hermann (42), Frederick H. M. Blaydes (42), Cobet (41) and Reiske (41).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -381,10 +381,13 @@ D.L. 3.17|σαφάσαιμι/σαφὲς ἅμι|σάφα ἴσαμι|H. L. Ahre
 D.L. 3.56|-ϲαν|ϲυνεπλήρωϲεν|Usener|1870|Laur. 69.13 (F) et Paris. gr. 1759 (P)|RhM 25 (1870) 579; -σαν BPF teste Dorandi
 D.S. 9.10.4|ἐᾷ τὰ γρ.|ἐᾷ με γρ.|Dindorf|s.xix med.|Vat. teste Herwerden|
 D.T. schol. p. 471.35|Ἀντιφ-|Ἰοφῶντος|J. A. Cramer|1837|Vat. gr. 14 (C)|
-Dem. 1.14|τις ἂν εἴποι κτλ.|del.|Cobet|s.xviii/xix|P.Oxy. LXII 4310|
+Dem. 1.14|τις ἂν εἴποι κτλ.|del.|Cobet|s.xviii med.|P.Oxy. LXII 4310|
 Dem. 4.29|-ριεῖ|προσποριεῖται|Ludolf Küster|s.xvii/xviii|Paris. gr. 2936 (R)|
 Dem. 5.13|-η|γεγενημένην|Reiske|1770|ve Wb|
 Dem. 6.6|πρόσθ-|προσθῆσθε|Bekker|1823|Vind. phil. gr. 70 (Wb)|
+Dem. 6.9|ταῦθ ̓/ταῦτα|ταὐτὰ|Hieronymus Wolf|1604|Vind. phil. gr. 70 (Wb)|
+Dem. 7.17|διεπίσ-|δ' ἐπίστευεν|Cobet|s.xviii med.|Monac. gr. 485 (A)|Mg (?) apud Dilts
+Dem. 8.28|κωλῦσαι|ἐπισχεῖν|Blass|1885–9|EM|
 Dem. 19.3|πεποιήκῃ/ἐμπεποιήκει|ἐμπεποίηκεν|Markland|n.d.|P.Oxy. LXVII 4569|
 Dem. 19.280|καὶ τοῦ|τοῦ|P. P. Dobree|1814|P.Oxy. VIII 1094|
 Dem. 31.11|-αντα|ποιήσοντα|P. P. Dobree|1814|Marc. gr. 416 (F)|
@@ -395,7 +398,7 @@ Dem. Ep. 3.25|οὐδεὶς ἂν|οὐδεὶς|Sauppe|1839–43|P.Lond.Lit. 1
 Dem. Ep. 3.27|τὴν|τιν'|Blass|1885–9|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.28|δὲ|δ'ἐν|Reiske|1771|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.30|πατρώιος|πατρίους|Hieronymus Wolf|1604|P.Lond.Lit. 130 (inv. 133)|
-Dem. Ep. 3.30|γενήσεσθαι|γενέσθαι|Fuhr|n.d.|P.Lond.Lit. 130 (inv. 133)|
+Dem. Ep. 3.30|γενήσεσθαι|γενέσθαι|Fuhr|1914|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.31|Εὔδικον/Εὔδημον|Εὐθύδικον|Blass|1885–9|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.38|om.|ἐὰν|Bekker|1823|P.Lond.Lit. 130 (inv. 133)|
 Dem. Prooem. 26.1|κοιῶς|κοινῶν|Hieronymus Wolf|1604|P.Oxy. I 26|
