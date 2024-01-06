@@ -74,7 +74,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (55), Bentley (51), Brunck (44), Cobet (43), Elmsley (43), Hermann (42), Frederick H. M. Blaydes (42) and Reiske (42).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (55), Bentley (51), Cobet (44), Brunck (44), Elmsley (43), Reiske (43), Hermann (42) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -413,6 +413,10 @@ Dem. 19.21|ταῦτα|τοῦτο|Voemel|n.d.|Pap.Flor. IV 24 + P.Lond.Lit. 127
 Dem. 19.190|εἰσιτήρια/εἰσητήρια|εἰσιτητήρια|Reiske|1774–5|Salaman. M 224 (Sb)|
 Dem. 19.254|οἷος|οἵους|Cobet|s.xviii med.|Lond. Addit. 39617 (Ln)|
 Dem. 19.280|καὶ τοῦ|τοῦ|P. P. Dobree|1814|P.Oxy. VIII 1094|
+Dem. 19.303|Θεμιστοκλέους|τὸ Θ.|Henri Weil|1883|schol.|
+Dem. 19.307|ἢ|καὶ|Naber|n.d.|AB|
+Dem. 20.2|ἀφείλετο|del.|Reiske|1774–5|S1|
+Dem. 20.7|(μηδὲ) πλέον|μηδὲν πλέον|Cobet|s.xviii med.|Minuc.|
 Dem. 31.11|-αντα|ποιήσοντα|P. P. Dobree|1814|Marc. gr. 416 (F)|
 Dem. Ep. 3.9|τὸ ὅσον|ὅσον|Blass|1885–9|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.22|ἀγνώμοσι|ἀγνῶσι|P. P. Dobree|s.xviii/xix|P.Lond.Lit. 130 (inv. 133)|
