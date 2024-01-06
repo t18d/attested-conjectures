@@ -131,7 +131,7 @@ Ap. Rhod. 1.749|ἀμειβό-|ἀμυνόμενοι|Hoelzlin|1641|Laur. gr. 32.
 Ap. Rhod. 1.883|-κέως|ἐνδυκὲς|Rutgers|n.d.|Et.Gen.|
 Ap. Rhod. 1.941|-τον|Ἄρκτων|Hoelzlin|1641|schLa|
 Ap. Rhod. 1.990|φράξαν|φράσσον|Fränkel|1961|P.Oxy. LXIV 4414|
-Ap. Rhod. 1.990|-ίοιο|ἀπειρεσίῃσι|A. Platt|1914-9|P.Oxy. LXIV 4414|
+Ap. Rhod. 1.990|-ίοιο|ἀπειρεσίῃσι|A. Platt|1914|P.Oxy. LXIV 4414|Journ. of Phil. 33 (1914) 12–3
 Ap. Rhod. 2.119|μέλαν τεταγών|μάλ᾽ ἀντεταγών|Sanctamandus|n.d.|P.Oxy. XXXIV 2697|
 Ap. Rhod. 2.177|βιθυνηίδι|θυνηίδι|Meineke|n.d.|schL lm.|
 Ap. Rhod. 2.217|ἧς|ᾗ|Brunck|1780|Et.|
@@ -828,6 +828,7 @@ Isoc. Ad Nic. 8|ταῖς μοναρχίαις|τὰς μοναρχίας|Cobet|
 Isoc. Paneg. 68|γε|ελαττω γε|Cobet|1783|P.Oxy. V 844|
 Just. Edict. 13.24 p. 792.11|ἐπιβάλλοντα|τὸν ἐ.|Zachariae von Lingenthal|1892|P.Oxy. LXIII 4400|ZRG 13
 Luc. Ocyp. 57|ἔτειλα/ἔτιλα/ἔστειλα|ἔτεινα|K. G. Jacobitz|s.xix med.|P.Oxy. XXXI 2532|
+Lyc. Alex. 158|γυίας|γύας|Reichlin|n.d.|P.Oxy. LXIV 4428|
 Macr. Sat. 5.19.8|-ΤΡΑΙ|ΚΑΛΥΠΤΑΙ|Valckenaer|1767|TRFA|Diatr. 167C
 Marcellin. Vit. Thuc. 1|ἀνὴρ|ὁ ἀνὴρ|Casaubon|1588|Turon. 980 (T)|
 Marcellin. Vit. Thuc. 7|πρόσκ-|πρόκλησιν|Hude|1898|Vat. gr. 1302 (Vg)|
