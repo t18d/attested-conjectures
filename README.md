@@ -856,9 +856,9 @@ Nep. Att. 17.1.3|om.|ipse|Dietsch|n.d.|cod. Leid. (L)|
 Nonn. Dion. 14.393|ἀκωκήν|κολώνην|Graefe|n.d.|P.Berol. inv. 10567|κορώνην
 Nonn. Dion. 14.398|πολυσταφύλῳ|φιλοσταφύλῳ|Graefe|n.d.|P.Berol. inv. 10567|
 Nonn. Dion. 15.87|οἰνηθέντες|οἰνωθεντες|Graefe|n.d.|P.Berol. inv. 10567|
-Nonn. Dion. 15.112|ἐλαίης|Ἀθήνης|Hermann Köchly|s.xviii med.|P.Berol. inv. 10567|
+Nonn. Dion. 15.112|ἐλαίης|Ἀθήνης|Hermann Köchly|1858|P.Berol. inv. 10567|
 Nonn. Dion. 15.165|Βάκχοιο|Γλαύκοιο|Falkenburg|n.d.|P.Berol. inv. 10567|
-Nonn. Dion. 15.165|μαχητάς|μαχηταῖς|Hermann Köchly|s.xviii med.|P.Berol. inv. 10567|
+Nonn. Dion. 15.165|μαχητάς|μαχηταῖς|Hermann Köchly|1858|P.Berol. inv. 10567|
 Opp. C. 4.208|ἐρυϲϲάμενοι|ερειϲάμεν[οι|Johannes Pierson|1752|P.Oxy. LXXXI 5278|
 Orac. Sib. 516–517|516, 517|517, 516|Geffcken|n.d.|P.Flor. 398|
 P.Giss. 50.34|[|Σαλωνείνου Οὐαλεριανοῦ|Paul M. Meyer|1910|P.Oxy. X 1273|
