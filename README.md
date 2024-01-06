@@ -1559,7 +1559,7 @@ Thuc. 6.44.3|τε|del.|K. W. Krüger|1860|Cantab. Nn-III-18 (Cn)|
 Thuc. 6.46.2|πρῶτον|πρώτους|Henrik van Herwerden|1880|H2|
 Thuc. 6.48|ἔχωσι|παρέχωσι|P. P. Dobree|s.xviii/xix|Pi3|Adv. p. 68
 Thuc. 6.54.5|-σατο|κατεστήσαντο|Hude|1901|Pi3|
-Thuc. 6.55.2|πρώτῃ|αὐτῇ|E. F. Poppo|1828|γρH2|
+Thuc. 6.55.2|πρώτῃ|αὐτῇ|E. F. Poppo|1828|P.Oxy. LXI 4105|αυτη
 Thuc. 6.57.2|ξυνωμοτῶν|ξυνομωμοκότων|Johannes Classen|1876|Palat. gr. 133 (Vm)|
 Thuc. 6.58.2|ἀνε-|ἀπεχώρησαν|E. F. Poppo|1828|H2|
 Thuc. 6.62.1|ξυνπαντὶ κτλ.|ξύμπαντι|K. W. Krüger|1860|Q Pi3|
