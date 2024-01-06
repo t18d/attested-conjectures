@@ -74,7 +74,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (54), Bentley (51), Brunck (44), Elmsley (43), Hermann (42), Frederick H. M. Blaydes (42), Cobet (41) and Reiske (41).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (54), Bentley (51), Brunck (44), Elmsley (43), Cobet (42), Hermann (42), Frederick H. M. Blaydes (42) and Reiske (41).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -402,6 +402,10 @@ Dem. 18.92|κοινῷ|ἐν τῷ κ.|P. P. Dobree|1814|Vind. phil. gr. 137 (We
 Dem. 18.99|ἐθελόν-|ἐθελοντῶν|Giovanni Bernardino Feliciano|1543|Monac. gr. 85 (B)|
 Dem. 18.195|χρὴ|χρῆν|Markland|n.d.|Paris. gr. 2508 (H)|
 Dem. 18.195|τῷ|τὸ|P. P. Dobree|1814|Laur. conv. soppr. 136 (Ft)|
+Dem. 18.204|-σα(ι)το|ἀγασθείη|Cobet|s.xviii med.|P.Oslo II 10|
+Dem. 18.248|φυλά-|φυλακῶν|Karl Halm|n.d.|Paris. gr. 2935 (Y)|
+Dem. 18.258|τὴν/om.|τῆς|Scheibe|n.d.|Laur. conv. soppr. 136 (Ft)|
+Dem. 18.285|ταῦτα|ταὔθ ̓|Bekker|1823|Bac|
 Dem. 19.3|πεποιήκῃ/ἐμπεποιήκει|ἐμπεποίηκεν|Markland|n.d.|P.Oxy. LXVII 4569|
 Dem. 19.280|καὶ τοῦ|τοῦ|P. P. Dobree|1814|P.Oxy. VIII 1094|
 Dem. 31.11|-αντα|ποιήσοντα|P. P. Dobree|1814|Marc. gr. 416 (F)|
