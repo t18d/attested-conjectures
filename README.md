@@ -74,7 +74,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (53), Bentley (51), Brunck (44), Elmsley (43), Hermann (42), Frederick H. M. Blaydes (42), Cobet (40) and Reiske (40).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (53), Bentley (51), Brunck (44), Elmsley (43), Hermann (42), Frederick H. M. Blaydes (42), Reiske (41) and Cobet (40).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -375,7 +375,7 @@ Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runke
 Cratin. fr. 415|ἀποσεισάμενος|ἀποσπ-|Bergk|1838|Synag. 127.1|Commentationum de reliquiis p. 258
 Cypr. F 1|θέτιδος|Θέμιδος|Heyne|1803|P.Oxy. LVI 3829|
 D.H. 1.48.2|-λεῖ|κύκλῳ|Reiske|1775|Urb. 105 (B)|
-D.H. Comp. 9|πλεῖον/πλείων|πλέον|Dindorf|1832-60|Laur. 59.15 (F)|
+D.H. Comp. 9|πλεῖον/πλείων|πλέον|Dindorf|1832–60|Laur. 59.15 (F)|
 D.L. 2.18|Εὐριπίδης|-δας|Cobet|1850|Laur. 69.13 (F)|
 D.L. 3.17|σαφάσαιμι/σαφὲς ἅμι|σάφα ἴσαμι|H. L. Ahrens|1843|B1|σαφαισαμι
 D.L. 3.56|-ϲαν|ϲυνεπλήρωϲεν|Usener|1870|Laur. 69.13 (F) et Paris. gr. 1759 (P)|RhM 25 (1870) 579; -σαν BPF teste Dorandi
@@ -383,15 +383,17 @@ D.S. 9.10.4|ἐᾷ τὰ γρ.|ἐᾷ με γρ.|Dindorf|s.xix med.|Vat. teste H
 D.T. schol. p. 471.35|Ἀντιφ-|Ἰοφῶντος|J. A. Cramer|1837|Vat. gr. 14 (C)|
 Dem. 1.14|τις ἂν εἴποι κτλ.|del.|Cobet|s.xviii/xix|P.Oxy. LXII 4310|
 Dem. 4.29|-ριεῖ|προσποριεῖται|Ludolf Küster|s.xvii/xviii|Paris. gr. 2936 (R)|
+Dem. 5.13|-η|γεγενημένην|Reiske|1770|ve Wb|
+Dem. 6.6|πρόσθ-|προσθῆσθε|Bekker|1823|Vind. phil. gr. 70 (Wb)|
 Dem. 19.3|πεποιήκῃ/ἐμπεποιήκει|ἐμπεποίηκεν|Markland|n.d.|P.Oxy. LXVII 4569|
 Dem. 19.280|καὶ τοῦ|τοῦ|P. P. Dobree|1814|P.Oxy. VIII 1094|
 Dem. 31.11|-αντα|ποιήσοντα|P. P. Dobree|1814|Marc. gr. 416 (F)|
 Dem. Ep. 3.9|τὸ ὅσον|ὅσον|Blass|1885–9|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.22|ἀγνώμοσι|ἀγνῶσι|P. P. Dobree|s.xviii/xix|P.Lond.Lit. 130 (inv. 133)|
-Dem. Ep. 3.22|ἠδικεῖσθε/ἀδικεῖσθαι|ἀδικοῖσθε|Sauppe|n.d.|P.Lond.Lit. 130 (inv. 133)|
-Dem. Ep. 3.25|οὐδεὶς ἂν|οὐδεὶς|Sauppe|n.d.|P.Lond.Lit. 130 (inv. 133)|
+Dem. Ep. 3.22|ἠδικεῖσθε/ἀδικεῖσθαι|ἀδικοῖσθε|Sauppe|1839–43|P.Lond.Lit. 130 (inv. 133)|
+Dem. Ep. 3.25|οὐδεὶς ἂν|οὐδεὶς|Sauppe|1839–43|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.27|τὴν|τιν'|Blass|1885–9|P.Lond.Lit. 130 (inv. 133)|
-Dem. Ep. 3.28|δὲ|δ'ἐν|Reiske|1770-3|P.Lond.Lit. 130 (inv. 133)|
+Dem. Ep. 3.28|δὲ|δ'ἐν|Reiske|1771|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.30|πατρώιος|πατρίους|Hieronymus Wolf|1604|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.30|γενήσεσθαι|γενέσθαι|Fuhr|n.d.|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.31|Εὔδικον/Εὔδημον|Εὐθύδικον|Blass|1885–9|P.Lond.Lit. 130 (inv. 133)|
