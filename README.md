@@ -74,7 +74,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (52), Bentley (51), Brunck (44), Elmsley (43), Hermann (42), Frederick H. M. Blaydes (42), Cobet (40) and Reiske (40).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (53), Bentley (51), Brunck (44), Elmsley (43), Hermann (42), Frederick H. M. Blaydes (42), Cobet (40) and Reiske (40).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -382,17 +382,18 @@ D.L. 3.56|-ϲαν|ϲυνεπλήρωϲεν|Usener|1870|Laur. 69.13 (F) et Paris.
 D.S. 9.10.4|ἐᾷ τὰ γρ.|ἐᾷ με γρ.|Dindorf|s.xix med.|Vat. teste Herwerden|
 D.T. schol. p. 471.35|Ἀντιφ-|Ἰοφῶντος|J. A. Cramer|1837|Vat. gr. 14 (C)|
 Dem. 1.14|τις ἂν εἴποι κτλ.|del.|Cobet|s.xviii/xix|P.Oxy. LXII 4310|
+Dem. 19.3|πεποιήκῃ/ἐμπεποιήκει|ἐμπεποίηκεν|Markland|n.d.|P.Oxy. LXVII 4569|
 Dem. 19.280|καὶ τοῦ|τοῦ|P. P. Dobree|1814|P.Oxy. VIII 1094|
-Dem. Ep. 3.9|τὸ ὅσον|ὅσον|Blass|n.d.|P.Lond.Lit. 130 (inv. 133)|
+Dem. Ep. 3.9|τὸ ὅσον|ὅσον|Blass|1885–9|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.22|ἀγνώμοσι|ἀγνῶσι|P. P. Dobree|s.xviii/xix|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.22|ἠδικεῖσθε/ἀδικεῖσθαι|ἀδικοῖσθε|Sauppe|n.d.|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.25|οὐδεὶς ἂν|οὐδεὶς|Sauppe|n.d.|P.Lond.Lit. 130 (inv. 133)|
-Dem. Ep. 3.27|τὴν|τιν'|Blass|n.d.|P.Lond.Lit. 130 (inv. 133)|
+Dem. Ep. 3.27|τὴν|τιν'|Blass|1885–9|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.28|δὲ|δ'ἐν|Reiske|1770-3|P.Lond.Lit. 130 (inv. 133)|
-Dem. Ep. 3.30|πατρώιος|πατρίους|Wolf|n.d.|P.Lond.Lit. 130 (inv. 133)|
+Dem. Ep. 3.30|πατρώιος|πατρίους|Wolf|1604|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.30|γενήσεσθαι|γενέσθαι|Fuhr|n.d.|P.Lond.Lit. 130 (inv. 133)|
-Dem. Ep. 3.31|Εὔδικον/Εὔδημον|Εὐθύδικον|Blass|n.d.|P.Lond.Lit. 130 (inv. 133)|
-Dem. Ep. 3.38|om.|ἐὰν|Bekker|n.d.|P.Lond.Lit. 130 (inv. 133)|
+Dem. Ep. 3.31|Εὔδικον/Εὔδημον|Εὐθύδικον|Blass|1885–9|P.Lond.Lit. 130 (inv. 133)|
+Dem. Ep. 3.38|om.|ἐὰν|Bekker|1823|P.Lond.Lit. 130 (inv. 133)|
 Dem. Prooem. 26|κοιῶς|κοινῶν|Wolf|1812|P.Oxy. I 26|
 Din. 1.109|ἐλεήϲετε|ε̣λ̣ε̣ηϲαιτε|P. P. Dobree|s.xviii/xix|P.Oxy. XLIX 3436|
 Din. 3.21|καταλλάξαϲθαι|ἀντικαταλλ-|G. A. Hirschig|1850|P.Oxy. XLIX 3437|Philologue 5 (1850) 326–328
