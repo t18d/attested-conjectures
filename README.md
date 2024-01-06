@@ -181,21 +181,21 @@ Ar. Av. 463|-χεῖσθαι/-χεῖσθε|κατάκεισθε|Bentley|s.xviii
 Ar. Av. 494a schol.|μᾶτερ/μάτερ|μάτηρ|Elmsley|1821|M9Lh|
 Ar. Av. 520|ὤμνυέ τ'/ὠμνύετ|ὤμνυ τ'|Bentley|s.xviii in.|Marc. gr. 475 (G)|
 Ar. Av. 575|Ἶριν|Ἔρην|Bentley|s.xviii in.|Ambros. L 39 sup. (M)|
-Ar. Av. 576|-ψει|πέμπει|Tyrwhitt|s.xviii in.|anon. Parisinus|
+Ar. Av. 576|-ψει|πέμπει|Tyrwhitt|1822|anon. Parisinus|
 Ar. Av. 689|τοῖσιν|alterum τοῖς|Charles Daubuz|1710|Paris. gr. 2715 (B)|
 Ar. Av. 765 schol.|-φω|ἀναγράφει|Bentley|s.xviii in.|cod. Ambr. M|
 Ar. Av. 880 schol.|ὑμ-|ἡμῖν|Meineke|1839-57|cod. Ambr. M|
 Ar. Av. 1069|om.|πάνθ'|Ludolph Dissen|n.d.|P.Louvre ed. Weil = Austin 42|
-Ar. Av. 1078|ἀγάγῃ|ἀπαγάγῃ|Bergk|n.d.|P.Louvre ed. Weil = Austin 42|
+Ar. Av. 1078|ἀγάγῃ|ἀπαγάγῃ|Bergk|1852-7|P.Louvre ed. Weil = Austin 42|
 Ar. Av. 1080|πᾶσι|om.|Triclinius|s.xiv in.|P.Louvre ed. Weil = Austin 42|
 Ar. Av. 1115|μήνην|μῆν'|P. P. Dobree|s.xviii in.|Marc. gr. 475 (G)|
 Ar. Av. 1308|οὐκ ἄρα|οὐκ ἆρα|Ludolf Küster|1710|Paris. gr. 2715 (B)|
 Ar. Av. 1314|καλεῖ|καλοῖ|Valckenaer|1757|Γ s.l. et Bp|
 Ar. Av. 1322|εὐήμερον|εὐά-|Brunck|1783|Paris. gr. 2715 (B)|
-Ar. Av. 1669|-τορες|φράτερας|Dindorf|n.d.|P.Oxy. LXVI 4516|
-Ar. Av. 1671|αἰκίαν|αἴκειαν|Lenting|n.d.|P.Oxy. LXVI 4516|
+Ar. Av. 1669|-τορες|φράτερας|Dindorf|1822|P.Oxy. LXVI 4516|
+Ar. Av. 1671|αἰκίαν|αἴκειαν|Lenting|1839|P.Oxy. LXVI 4516|
 Ar. Av. 1672|καταστήσω|καταστήσας|R. B. Hirschig|1849|P.Oxy. LXVI 4516|
-Ar. Av. 1691|σὺ τὰ|σὺ|Frederick H. M. Blaydes|n.d.|Estensis α.U.5.10 (E)|
+Ar. Av. 1691|σὺ τὰ|σὺ|Frederick H. M. Blaydes|1882|Estensis α.U.5.10 (E)|
 Ar. Av. 1693|διδότω|δότω|Valckenaer|1757|ΓUL|
 Ar. Eccl. 51|Φιλοδωρίτου|Φιλοδωρήτου|Valckenaer|1757|Paris. gr. 2712 (A)|
 Ar. Eccl. 275|τ' άπερ/τάπερ|γ᾽ ἅπερ|Jonathan Toup|s.xviii med.|Paris. gr. 2712 (A)|
