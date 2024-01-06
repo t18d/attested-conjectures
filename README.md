@@ -73,7 +73,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (52), Bentley (51), Brunck (43), Hermann (42), Frederick H. M. Blaydes (42), Elmsley (41), Cobet (40) and Reiske (40).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (52), Bentley (51), Brunck (44), Hermann (42), Frederick H. M. Blaydes (42), Elmsley (41), Cobet (40) and Reiske (40).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -138,16 +138,19 @@ Ap. Rhod. 2.921|ἔδυνε μέλαν|ἔδυ μέλανα|Bywater|n.d.|P.Oxy. 
 Ap. Rhod. 2.926|-οντο|χεύαντο|Brunck|1780|Et.|
 Ap. Rhod. 2.1260|ἀλημο-|δαημοσύνῃσιν|d'Arnaud|1730|marg. E2|
 Ap. Rhod. 3.158|-ροιο|μεγάλοιο|Eduard Gerhard|1816|Strassb.|
-Ap. Rhod. 3.201|-μαδοί|πρόμαλοι|Henri Estienne|1574|Et.Gen et EM|
-Ap. Rhod. 3.685|θῦεν|θυῖεν|Merkel|1852-4|Laur. gr. 32.16 (S)|
+Ap. Rhod. 3.201|-μαδοί|πρόμαλοι|Henri Estienne|1574|Et.Gen. et EM|
+Ap. Rhod. 3.685|θῦεν|θυῖεν|R. Merkel|1852-4|Laur. gr. 32.16 (S)|
 Ap. Rhod. 3.745|ναῦται|ναυτίλοι|Porson|s.xviii/xix|P.Oxy. IV 690|ναυ]τίλο̣ι
 Ap. Rhod. 3.909|κατὰ|μετὰ|Henri Estienne|1574|P.Oxy. IV 691|μ[
 Ap. Rhod. 3.944|εὖτ'|ε̣ϲτ'|Ziegler|n.d.|P.Oxy. XXXIV 2693|
 Ap. Rhod. 3.1076|-ην|πασιφάης|Henri Estienne|1574|PE|
 Ap. Rhod. 3.1214 sq. schol.|-υσὶ|δρυῒ|Friedrich Ellendt|1835|Paris. 2727 (P)|1, 450 sq.
 Ap. Rhod. 3.1226 schol.|ἠμφίεστο|ὑφέεστο|A. F. Naeke|1833-7|Laur. 32.9 (L)|Rh. Mus. 2-5
+Ap. Rhod. 4.86|τόνδε|τόνγε|Brunck|1780|P.Oxy. IV 692|
 Ap. Rhod. 4.438|ὥς|ὧ|Brunck|1780|P.Oxy. XXXIV 2694|
+Ap. Rhod. 4.978|-εσσι|κεράασι|Eduard Gerhard|1816|Laur. gr. 32.16 (S)|p. 157
 Ap. Rhod. 4.1129|ε. ἐ.|εὐαγέως τ' ἐπιβώμια|Fränkel|n.d.|P.Oxy. XXXIV 2691|ευαγεωϲ τ ε̣[
+Ap. Rhod. 4.1487|αὐλείτης/αὐλήτης|αὐλίτης|R. Merkel|1852-4|Et.Gen.|
 Apollod. Π. θεῶν 20|-βαφεῖς|μελαμβαθεῖς|Brunck|1786|F|
 Ar. Ach. 46|οὔ|οὐκ|Odoard Biset|1570|Paris. gr. 2715 (B)|
 Ar. Ach. 68|ἐτρυχόμεσθα|-μεθα|Bentley|s.xviii in.|Bodl. Holkh. gr. 88 (L)|apud Burges, Classical Journal xi, xii, xiii
