@@ -396,6 +396,9 @@ Dem. 9.75|π. ἔπειτα … εἰ γὰρ …|ποιήσοντας εἰ γ�
 Dem. 14.5|δὲ|δὴ|P. P. Dobree|1814|P.Med. inv. 71.80|pc
 Dem. 14.30|-ον|ὑπάρειν|P. P. Dobree|1814|Harp. et Sud.|
 Dem. 14.32|-σαντες|κρατήσοντες|P. P. Dobree|1814|Monac. gr. 485 (A)|pc
+Dem. 17.8|ὑμᾶς|ἡμᾶς|Hieronymus Wolf|1604|Vind. phil. gr. 70 (Wb)|
+Dem. 18.90|προγενομ-|προγεγεναμένοις|G. H. Schaefer|1822|Hac|
+Dem. 18.92|κοινῷ|ἐν τῷ κ.|P. P. Dobree|1814|Vind. phil. gr. 137 (We)|
 Dem. 19.3|πεποιήκῃ/ἐμπεποιήκει|ἐμπεποίηκεν|Markland|n.d.|P.Oxy. LXVII 4569|
 Dem. 19.280|καὶ τοῦ|τοῦ|P. P. Dobree|1814|P.Oxy. VIII 1094|
 Dem. 31.11|-αντα|ποιήσοντα|P. P. Dobree|1814|Marc. gr. 416 (F)|
