@@ -752,7 +752,7 @@ Eur. fr. 912.2|φέρων|φέρω|Grotius|1626|P.Oxy. IX 1176|φερ[.]
 Eur. fr. 1063.2|: ἄνδρ᾽ ἢ κτλ.|ἄνδρα χρὴ|Conrad Gesner|1543|Chor. 32.52|
 Eust. Il. 353.33|-ὸς|αἰσχρῶς|Guarinus Camers|s.xv/xvi|Laur. 59.2 et 3 (L)|
 Eust. Il. 1291.44|οὔ τοι|οὗτοι|Guarinus Camers|s.xv/xvi|Laur. 59.2 et 3 (L)|
-Hdn. Fig. Walz p. 601, 10|Τυδεὺς|ὁ Τυδεὺς|Brunck|1786|Hav|
+Hdn. Fig. Walz p. 601.10|Τυδεὺς|ὁ Τυδεὺς|Brunck|1786|Hav|
 Hdt. 1.76.3|ἐπειρῶντο|-ρέοντο|Dindorf|n.d.|P.Oxy. I 19|
 Hdt. 1.90.3|ἐπαρ-|ἐπαερθεὶς|Heinrich Stein|1869|Vat. gr. 2369 (D)|
 Hdt. 1.105.4|ὁ θέος|η θε[ος|Hude|n.d.|P.Oxy. X 1244|
