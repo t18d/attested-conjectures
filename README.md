@@ -74,7 +74,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (55), Bentley (51), Brunck (44), Elmsley (43), Cobet (42), Hermann (42), Frederick H. M. Blaydes (42) and Reiske (41).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (55), Bentley (51), Brunck (44), Cobet (43), Elmsley (43), Hermann (42), Frederick H. M. Blaydes (42) and Reiske (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -383,7 +383,7 @@ D.S. 9.10.4|ἐᾷ τὰ γρ.|ἐᾷ με γρ.|Dindorf|s.xix med.|Vat. teste H
 D.T. schol. p. 471.35|Ἀντιφ-|Ἰοφῶντος|J. A. Cramer|1837|Vat. gr. 14 (C)|
 Dem. 1.14|τις ἂν εἴποι κτλ.|del.|Cobet|s.xviii med.|P.Oxy. LXII 4310|
 Dem. 4.29|-ριεῖ|προσποριεῖται|Ludolf Küster|s.xvii/xviii|Paris. gr. 2936 (R)|
-Dem. 5.13|-η|γεγενημένην|Reiske|1770|ve Wb|
+Dem. 5.13|-η|γεγενημένην|Reiske|1774–5|ve Wb|
 Dem. 6.6|πρόσθ-|προσθῆσθε|Bekker|1823|Vind. phil. gr. 70 (Wb)|
 Dem. 6.9|ταῦθ ̓/ταῦτα|ταὐτὰ|Hieronymus Wolf|1604|Vind. phil. gr. 70 (Wb)|
 Dem. 7.17|διεπίσ-|δ' ἐπίστευεν|Cobet|s.xviii med.|Monac. gr. 485 (A)|Mg (?) apud Dilts
@@ -410,6 +410,8 @@ Dem. 18.310|κ. τε|καλῷ|Karl Fuhr|1914|Brux. Bibl. Regia 11294–5 (O)|
 Dem. 19.3|πεποιήκῃ/ἐμπεποιήκει|ἐμπεποίηκεν|Markland|n.d.|P.Oxy. LXVII 4569|
 Dem. 19.21|διδάσκειν|διδάξαι|Markland|n.d.|Pap.Flor. IV 24 + P.Lond.Lit. 127|
 Dem. 19.21|ταῦτα|τοῦτο|Voemel|n.d.|Pap.Flor. IV 24 + P.Lond.Lit. 127|
+Dem. 19.190|εἰσιτήρια/εἰσητήρια|εἰσιτητήρια|Reiske|1774–5|Salaman. M 224 (Sb)|
+Dem. 19.254|οἷος|οἵους|Cobet|s.xviii med.|Lond. Addit. 39617 (Ln)|
 Dem. 19.280|καὶ τοῦ|τοῦ|P. P. Dobree|1814|P.Oxy. VIII 1094|
 Dem. 31.11|-αντα|ποιήσοντα|P. P. Dobree|1814|Marc. gr. 416 (F)|
 Dem. Ep. 3.9|τὸ ὅσον|ὅσον|Blass|1885–9|P.Lond.Lit. 130 (inv. 133)|
