@@ -74,7 +74,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (54), Bentley (51), Brunck (44), Elmsley (43), Cobet (42), Hermann (42), Frederick H. M. Blaydes (42) and Reiske (41).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (55), Bentley (51), Brunck (44), Elmsley (43), Cobet (42), Hermann (42), Frederick H. M. Blaydes (42) and Reiske (41).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -392,7 +392,7 @@ Dem. 8.39|-ε|παύσασθαι|P. P. Dobree|1814|Aac|
 Dem. 9.25|πέμπτον/πολλοστὸν μ.|μέρος|Rehdantz|n.d.|Opc|
 Dem. 9.53|μισῆσαι|μισεῖν|Blass|1885–9|Yac|
 Dem. 9.67|ὥστε|ὥ. μηδέν|Seager|n.d.|Opc|
-Dem. 9.75|π. ἔπειτα … εἰ γὰρ …|ποιήσοντας εἰ γὰρ … ἔπειτα …|G. H. Schaefer|1822|Harl. 6322 (Ll)|
+Dem. 9.75|π. ἔπειτα … εἰ γὰρ …|ποιήσοντας εἰ γὰρ … ἔπειτα …|G. H. Schaefer|1824|Harl. 6322 (Ll)|
 Dem. 14.5|δὲ|δὴ|P. P. Dobree|1814|P.Med. inv. 71.80|pc
 Dem. 14.30|-ον|ὑπάρειν|P. P. Dobree|1814|Harp. et Sud.|
 Dem. 14.32|-σαντες|κρατήσοντες|P. P. Dobree|1814|Monac. gr. 485 (A)|pc
@@ -406,7 +406,10 @@ Dem. 18.204|-σα(ι)το|ἀγασθείη|Cobet|s.xviii med.|P.Oslo II 10|
 Dem. 18.248|φυλά-|φυλακῶν|Karl Halm|n.d.|Paris. gr. 2935 (Y)|
 Dem. 18.258|τὴν/om.|τῆς|Scheibe|n.d.|Laur. conv. soppr. 136 (Ft)|
 Dem. 18.285|ταῦτα|ταὔθ ̓|Bekker|1823|Bac|
+Dem. 18.310|κ. τε|καλῷ|Karl Fuhr|1914|Brux. Bibl. Regia 11294–5 (O)|
 Dem. 19.3|πεποιήκῃ/ἐμπεποιήκει|ἐμπεποίηκεν|Markland|n.d.|P.Oxy. LXVII 4569|
+Dem. 19.21|διδάσκειν|διδάξαι|Markland|n.d.|Pap.Flor. IV 24 + P.Lond.Lit. 127|
+Dem. 19.21|ταῦτα|τοῦτο|Voemel|n.d.|Pap.Flor. IV 24 + P.Lond.Lit. 127|
 Dem. 19.280|καὶ τοῦ|τοῦ|P. P. Dobree|1814|P.Oxy. VIII 1094|
 Dem. 31.11|-αντα|ποιήσοντα|P. P. Dobree|1814|Marc. gr. 416 (F)|
 Dem. Ep. 3.9|τὸ ὅσον|ὅσον|Blass|1885–9|P.Lond.Lit. 130 (inv. 133)|
@@ -416,7 +419,7 @@ Dem. Ep. 3.25|οὐδεὶς ἂν|οὐδεὶς|Sauppe|1839–43|P.Lond.Lit. 1
 Dem. Ep. 3.27|τὴν|τιν'|Blass|1885–9|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.28|δὲ|δ'ἐν|Reiske|1771|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.30|πατρώιος|πατρίους|Hieronymus Wolf|1604|P.Lond.Lit. 130 (inv. 133)|
-Dem. Ep. 3.30|γενήσεσθαι|γενέσθαι|Fuhr|1914|P.Lond.Lit. 130 (inv. 133)|
+Dem. Ep. 3.30|γενήσεσθαι|γενέσθαι|Karl Fuhr|1914|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.31|Εὔδικον/Εὔδημον|Εὐθύδικον|Blass|1885–9|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.38|om.|ἐὰν|Bekker|1823|P.Lond.Lit. 130 (inv. 133)|
 Dem. Prooem. 26.1|κοιῶς|κοινῶν|Hieronymus Wolf|1604|P.Oxy. I 26|
