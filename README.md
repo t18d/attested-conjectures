@@ -74,7 +74,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (52), Bentley (51), Brunck (44), Hermann (42), Frederick H. M. Blaydes (42), Elmsley (41), Cobet (40) and Reiske (40).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (52), Bentley (51), Brunck (44), Hermann (42), Elmsley (42), Frederick H. M. Blaydes (42), Cobet (40) and Reiske (40).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -155,7 +155,9 @@ Ap. Rhod. 4.1129|ε. ἐ.|εὐαγέως τ' ἐπιβώμια|Fränkel|n.d.|P.
 Ap. Rhod. 4.1487|αὐλείτης/αὐλήτης|αὐλίτης|R. Merkel|1852-4|Et.Gen.|
 Apollod. Π. θεῶν 20|-βαφεῖς|μελαμβαθεῖς|Brunck|1786|F|
 Ar. Ach. 46|οὔ|οὐκ|Odoard Biset|1570|Paris. gr. 2715 (B)|
+Ar. Ach. 60|πρυτανεύσητε|-εύητε|Meineke|n.d.|P.Oxy. LXVI 4510|
 Ar. Ach. 68|ἐτρυχόμεσθα|-μεθα|Bentley|s.xviii in.|Bodl. Holkh. gr. 88 (L)|apud Burges, Classical Journal xi, xii, xiii
+Ar. Ach. 171|-μί' ἐστι|διοσημία 'στι|Elmsley|1809|P.Oxy. LXVI 4510|
 Ar. Ach. 238|σίγα|σῖγα|Bentley|s.xviii in.|c|
 Ar. Ach. 297|σύ μοι|μοι σὺ|Hermann|s.xviii/xix|P.Oxy. LXVI 4510|
 Ar. Ach. 323|γ' ἆρα|τἄρα|Elmsley|1809|P.Oxy. LXVI 4510|E. was an heir
