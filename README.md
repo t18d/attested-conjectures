@@ -75,7 +75,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (56), Bentley (51), Reiske (50), Cobet (44), Brunck (44), Elmsley (43), Hermann (42) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (56), Bentley (51), Reiske (50), Brunck (45), Cobet (44), Elmsley (43), Hermann (42) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -106,7 +106,9 @@ Aesch. fr. 300.3|-δεῖ/-δων|κυλίνδει|Salmasius|1629 (?)|Anon. C|
 Aesch. fr. 300.7|ἀγγέ-|ἀντέλλει|Grotius|1626|Anon. C et Tz.|
 Aeschin. 1.16|ὧ|οὗ|Samuel Petit|s.xvii in.|Vat. gr. 64 (V)|
 Aeschin. 1.16|om.|δ'|P. P. Dobree|s.xviii/xix|Vat. gr. 64 (V)|
-Aeschin. 1.40|Τιμάρχου|τῷ Τιμάρχου|Blass|1896|P.Oxy. LX 4029|
+Aeschin. 1.35|ὅτι|del.|Brunck|n.d.|Barb. gr. 159 (B)|
+Aeschin. 1.40|Τιμάρχου|τῷ Τ.|Blass|1896|P.Oxy. LX 4029|
+Aeschin. 1.42|τ. ποιεῖν|ταῦτα|Blass|1896|P.Oxy. LX 4029|
 Aeschin. 1.173|ἐξαιτήσ-|ἐξαιρήσεται|Blass|1896|P.Gen. I 256|
 Aeschin. 1.176|διισχ-|ἰσχθυρίζεσθαι|Hieronymus Wolf|1572|P.Gen. I 256|
 Aeschin. 1.177|νόμους μέν|μὲν νόμους|Cobet|s.xix ex.|P.Gen. I 256|
