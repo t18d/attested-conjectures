@@ -449,6 +449,9 @@ Dem. 30.37|τῆς βασάνου|τῶν βασάνων|Blass|1885–9|Is. 8.12
 Dem. 31.11|-αντα|ποιήσοντα|P. P. Dobree|1814|Marc. gr. 416 (F)|
 Dem. 32.11|οὐδὲν|οὐδενὸς|P. P. Dobree|1814|Monac. gr. 485 (A)|
 Dem. 39.21|σεαυτὸν|σε αὐτὸν|G. H. Schaefer|1827|Marc. gr. 416 (F)|
+Dem. 39.23|προσμισεῖν|πρὸς μισεῖν|G. H. Schaefer|1827|Ambros. D 112 sup. (D)|
+Dem. 42.23|μεμάθηκας|-κώς|Joseph May|s.xix/xx|Ambros. D 112 sup. (D)|
+Dem. 43.27|τούτῳ|τουτῳί|Blass|1885–9|Ambros. D 112 sup. (D)|
 Dem. Ep. 3.9|τὸ ὅσον|ὅσον|Blass|1885–9|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.22|ἀγνώμοσι|ἀγνῶσι|P. P. Dobree|s.xviii/xix|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.22|ἠδικεῖσθε/ἀδικεῖσθαι|ἀδικοῖσθε|Sauppe|1839–43|P.Lond.Lit. 130 (inv. 133)|
