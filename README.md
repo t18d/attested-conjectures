@@ -429,6 +429,7 @@ Dem. 21.53|-α|κρατῆρας|Humbert|n.d.|Scorial. Φ II 1 (Ee)|
 Dem. 21.104|εἰμὶ|εἴην|Cobet|s.xviii med.|Cdac|
 Dem. 21.114|ἢ τὰ|καὶ τὰ|Markland|n.d.|Bac|
 Dem. 21.122|εἰ|εἰπεῖν|Reiske|1774–5|kac|
+Dem. 21.220|πρόη-|προῆσθε|Dindorf|1874|Vac|
 Dem. 31.11|-αντα|ποιήσοντα|P. P. Dobree|1814|Marc. gr. 416 (F)|
 Dem. Ep. 3.9|τὸ ὅσον|ὅσον|Blass|1885–9|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.22|ἀγνώμοσι|ἀγνῶσι|P. P. Dobree|s.xviii/xix|P.Lond.Lit. 130 (inv. 133)|
