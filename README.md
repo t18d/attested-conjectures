@@ -74,7 +74,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (56), Bentley (51), Reiske (49), Cobet (45), Brunck (44), Elmsley (43), Hermann (42) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (56), Bentley (51), Reiske (51), Cobet (45), Brunck (44), Elmsley (43), Hermann (42) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -451,6 +451,13 @@ Dem. 52.19|ἤ|εἴ|Denys Lambin|1570|Ambros. D 112 sup. (D)|
 Dem. 52.29|-λειφ-|ἀπαληλιφέναι|Bekker|1823|Ambros. D 112 sup. (D)|
 Dem. 54.28|λε-|ληχθῆναι|Hieronymus Wolf|1604|Monac. gr. 485 (A)|?
 Dem. 57.15|εἴεσαν/εἴησαν|ἤεσαν|G. H. Schaefer|1827|Marc. gr. 416 (F)|
+Dem. 57.67|ταῦτά|ταὐτά|Denys Lambin|1570|Dac|Lambin p. c.
+Dem. 58.10|-ῆκεν|προσήκει|Thalheim|n.d.|Ambros. D 112 sup. (D)|
+Dem. 59.40|ἀήτης|αἰήτης|Reiske|1774–5|Coislin. 339 (v)|
+Dem. 59.43|ἡμᾶς|ὑμᾶς|G. H. Schaefer|1827|Ambros. D 112 sup. (D)|
+Dem. 59.74|εὐλαβ-|εὐσεβείας|Taylor|n.d.|Dpc|
+Dem. 60.8|οὐδ ̓|οὔθ ̓|Reiske|1774–5|Laur. 59.9 (P)|
+Dem. 61.39|ἐν|ἐπὶ|Hieronymus Wolf|1604|Ambros. D 112 sup. (D)|
 Dem. Ep. 3.9|τὸ ὅσον|ὅσον|Blass|1885–9|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.22|ἀγνώμοσι|ἀγνῶσι|P. P. Dobree|s.xviii/xix|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.22|ἠδικεῖσθε/ἀδικεῖσθαι|ἀδικοῖσθε|Sauppe|1839–43|P.Lond.Lit. 130 (inv. 133)|
