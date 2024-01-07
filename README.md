@@ -14,7 +14,7 @@
     </ul>
     <h3>Sources</h3>
     <ul>
-        <li>P.Oxy. I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XV, XVII, XIX, XX, XXII, XXIV, XXVI, XXVII, XXXI, XXXII, XXXVIII, XLI, XLII, XLIV, XLV, XLVII, XLIX, L, LIII, LIV, LVI, LVII, LIX, LX, LXI, LXII, LXIII, LXIV, LXVI, LXVII, LXXXI</li>
+        <li>P.Oxy. I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XV, XVII, XIX, XX, XXII, XXIV, XXVI, XXVII, XXXI, XXXII, XXXVIII, XLI, XLII, XLIV, XLV, XLVII, XLIX, L, LIII, LIV, LVI, LVII, LIX, LX, LXI, LXII, LXIII, LXIV, LXVI, LXVII, LXVIII, LXXXI</li>
         <li>Aristophanes, <em>Fabulae</em>, ed. N. G. Wilson, 2 vols (Oxford, 2007).</li>
         <li>Apollonius Rhodius, <em>Argonautica</em>, ed. Hermann Fränkel (Oxford, 1961).</li>
         <li>Borges, Cassandra, and C. Michael Sampson, <em>New literary papyri from the Michigan collection: mythographic lyric and a catalogue of poetic first lines</em> (Ann Arbor, 2012), 20.</li>
