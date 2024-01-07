@@ -74,7 +74,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (56), Bentley (51), Cobet (46), Reiske (45), Brunck (44), Elmsley (43), Hermann (42) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (56), Bentley (51), Reiske (48), Cobet (46), Brunck (44), Elmsley (43), Hermann (42) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -433,6 +433,11 @@ Dem. 21.220|πρόη-|προῆσθε|Dindorf|1874|Vpc|
 Dem. 22.5|τούτων|τ. δεῖν|Hieronymus Wolf|1604|Sopat.Rh. in Artem 5.36.3 W.|
 Dem. 23.26|παθεῖν εἶπεν|εἶναι|Henri Weil|1883|Sac|
 Dem. 23.33|ἄ. χ.|χρήματα ἄποινα|Reiske|1774–5|Theon 2.81.20 Sp.|
+Dem. 23.66|οἱ … θεοὶ|τοὺς … θεούς|Blass|1885–9|Hermog. 339.9 R.|
+Dem. 23.114|ἔχοι|εἶχεν|Hieronymus Wolf|1604|P.Oxy. III 459 = Pap.Flor. VIII 33|ac
+Dem. 23.115|-λή|ἐπιστολαί|Reiske|1774–5|P.Oxy. III 459 = Pap.Flor. VIII 33|
+Dem. 23.117|βουλεύσθε|βούλη[σθ]ε|Reiske|1774–5|P.Oxy. III 459 = Pap.Flor. VIII 33|
+Dem. 23.152|αὐ-|αὑτοῦ|Reiske|1774–5|Ppc|
 Dem. 31.11|-αντα|ποιήσοντα|P. P. Dobree|1814|Marc. gr. 416 (F)|
 Dem. Ep. 3.9|τὸ ὅσον|ὅσον|Blass|1885–9|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.22|ἀγνώμοσι|ἀγνῶσι|P. P. Dobree|s.xviii/xix|P.Lond.Lit. 130 (inv. 133)|
