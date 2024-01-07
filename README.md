@@ -398,15 +398,15 @@ Dem. 17.8|ὑμᾶς|ἡμᾶς|Hieronymus Wolf|1604|Vind. phil. gr. 70 (Wb)|
 Dem. 18.90|προγενομ-|προγεγεναμένοις|G. H. Schaefer|1825|Hpc|
 Dem. 18.92|κοινῷ|ἐν τῷ κ.|P. P. Dobree|1814|Vind. phil. gr. 137 (We)|
 Dem. 18.99|ἐθελόν-|ἐθελοντῶν|Giovanni Bernardino Feliciano|1543|Monac. gr. 85 (B)|
-Dem. 18.195|χρὴ|χρῆν|Markland|n.d.|Paris. gr. 2508 (H)|
+Dem. 18.195|χρὴ|χρῆν|Markland|1757|Paris. gr. 2508 (H)|
 Dem. 18.195|τῷ|τὸ|P. P. Dobree|1814|Laur. conv. soppr. 136 (Ft)|
 Dem. 18.204|-σα(ι)το|ἀγασθείη|Cobet|s.xix med.|P.Oslo II 10|
 Dem. 18.248|φυλά-|φυλακῶν|Karl Halm|n.d.|Paris. gr. 2935 (Y)|
 Dem. 18.258|τὴν/om.|τῆς|Scheibe|n.d.|Laur. conv. soppr. 136 (Ft)|
 Dem. 18.310|κ. τε|καλῷ|Karl Fuhr|1914|Brux. Bibl. Regia 11294–5 (O)|
-Dem. 19.3|πεποιήκῃ/ἐμπεποιήκει|ἐμπεποίηκεν|Markland|n.d.|P.Oxy. LXVII 4569|
+Dem. 19.3|πεποιήκῃ/ἐμπεποιήκει|ἐμπεποίηκεν|Markland|1757|P.Oxy. LXVII 4569|
 Dem. 19.21|διδάσκειν|διδάξαι|Markland|1757|Pap.Flor. IV 24 + P.Lond.Lit. 127|
-Dem. 19.21|ταῦτα|τοῦτο|Voemel|n.d.|Pap.Flor. IV 24 + P.Lond.Lit. 127|
+Dem. 19.21|ταῦτα|τοῦτο|J. T. Voemel|1849|Pap.Flor. IV 24 + P.Lond.Lit. 127|
 Dem. 19.190|εἰσιτήρια/εἰσητήρια|εἰσιτητήρια|Reiske|1774–5|Salaman. M 224 (Sb)|
 Dem. 19.254|οἷος|οἵους|Cobet|s.xix med.|Lond. Addit. 39617 (Ln)|
 Dem. 19.280|καὶ τοῦ|τοῦ|P. P. Dobree|1814|P.Oxy. VIII 1094|
