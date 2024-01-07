@@ -74,7 +74,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (56), Bentley (51), Reiske (48), Cobet (47), Brunck (44), Elmsley (43), Hermann (42) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (56), Bentley (51), Reiske (49), Cobet (47), Brunck (44), Elmsley (43), Hermann (42) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -452,6 +452,9 @@ Dem. 39.21|σεαυτὸν|σε αὐτὸν|G. H. Schaefer|1827|Marc. gr. 416 (
 Dem. 39.23|προσμισεῖν|πρὸς μισεῖν|G. H. Schaefer|1827|Ambros. D 112 sup. (D)|
 Dem. 42.23|μεμάθηκας|-κώς|Joseph May|s.xix/xx|Ambros. D 112 sup. (D)|
 Dem. 43.27|τούτῳ|τουτῳί|Blass|1885–9|Ambros. D 112 sup. (D)|
+Dem. 43.72|οὗτος (οὕτως)|οὕτως|Reiske|1774–5|Marc. gr. 418 (Q)|
+Dem. 44.11|-ειν|ποιήσει|Hieronymus Wolf|1604|Paris. gr. 2936 (R)|
+Dem. 44.15|λήξεως|λ. δήπου|G. H. Schaefer|1827|Monac. gr. 485 (A)|
 Dem. Ep. 3.9|τὸ ὅσον|ὅσον|Blass|1885–9|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.22|ἀγνώμοσι|ἀγνῶσι|P. P. Dobree|s.xviii/xix|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.22|ἠδικεῖσθε/ἀδικεῖσθαι|ἀδικοῖσθε|Sauppe|1839–43|P.Lond.Lit. 130 (inv. 133)|
