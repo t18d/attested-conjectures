@@ -109,6 +109,7 @@ Aeschin. 1.16|om.|δ'|P. P. Dobree|s.xviii/xix|Vat. gr. 64 (V)|
 Aeschin. 1.35|ὅτι|del.|Brunck|n.d.|Barb. gr. 159 (B)|
 Aeschin. 1.40|Τιμάρχου|τῷ Τ.|Blass|1896|P.Oxy. LX 4029|
 Aeschin. 1.42|τ. ποιεῖν|ταῦτα|Blass|1896|P.Oxy. LX 4029|
+Aeschin. 1.45|om.|μὲν|Hieronymus Wolf|1572|P.Oxy. LX 4030|
 Aeschin. 1.173|ἐξαιτήσ-|ἐξαιρήσεται|Blass|1896|P.Gen. I 256|
 Aeschin. 1.176|διισχ-|ἰσχθυρίζεσθαι|Hieronymus Wolf|1572|P.Gen. I 256|
 Aeschin. 1.177|νόμους μέν|μὲν νόμους|Cobet|s.xix ex.|P.Gen. I 256|
