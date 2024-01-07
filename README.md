@@ -390,14 +390,14 @@ Dem. 7.17|διεπίσ-|δ' ἐπίστευεν|Cobet|s.xviii med.|Monac. gr. 48
 Dem. 8.28|κωλῦσαι|ἐπισχεῖν|Blass|1885–9|EM|
 Dem. 8.39|-ε|παύσασθαι|P. P. Dobree|1814|Aac|
 Dem. 9.25|πέμπτον/πολλοστὸν μ.|μέρος|Rehdantz|n.d.|Opc|
-Dem. 9.53|μισῆσαι|μισεῖν|Blass|1885–9|Yac|
+Dem. 9.53|μισῆσαι|μισεῖν|Blass|1885–9|Ypc|
 Dem. 9.67|ὥστε|ὥ. μηδέν|Seager|n.d.|Opc|
 Dem. 9.75|π. ἔπειτα … εἰ γὰρ …|ποιήσοντας εἰ γὰρ … ἔπειτα …|G. H. Schaefer|1824|Harl. 6322 (Ll)|
 Dem. 14.5|δὲ|δὴ|P. P. Dobree|1814|P.Med. inv. 71.80|pc
 Dem. 14.30|-ον|ὑπάρειν|P. P. Dobree|1814|Harp. et Sud.|
 Dem. 14.32|-σαντες|κρατήσοντες|P. P. Dobree|1814|Monac. gr. 485 (A)|pc
 Dem. 17.8|ὑμᾶς|ἡμᾶς|Hieronymus Wolf|1604|Vind. phil. gr. 70 (Wb)|
-Dem. 18.90|προγενομ-|προγεγεναμένοις|G. H. Schaefer|1822|Hac|
+Dem. 18.90|προγενομ-|προγεγεναμένοις|G. H. Schaefer|1822|Hpc|
 Dem. 18.92|κοινῷ|ἐν τῷ κ.|P. P. Dobree|1814|Vind. phil. gr. 137 (We)|
 Dem. 18.99|ἐθελόν-|ἐθελοντῶν|Giovanni Bernardino Feliciano|1543|Monac. gr. 85 (B)|
 Dem. 18.195|χρὴ|χρῆν|Markland|n.d.|Paris. gr. 2508 (H)|
@@ -405,7 +405,7 @@ Dem. 18.195|τῷ|τὸ|P. P. Dobree|1814|Laur. conv. soppr. 136 (Ft)|
 Dem. 18.204|-σα(ι)το|ἀγασθείη|Cobet|s.xviii med.|P.Oslo II 10|
 Dem. 18.248|φυλά-|φυλακῶν|Karl Halm|n.d.|Paris. gr. 2935 (Y)|
 Dem. 18.258|τὴν/om.|τῆς|Scheibe|n.d.|Laur. conv. soppr. 136 (Ft)|
-Dem. 18.285|ταῦτα|ταὔθ ̓|Bekker|1823|Bac|
+Dem. 18.285|ταῦτα|ταὔθ ̓|Bekker|1823|Bpc|
 Dem. 18.310|κ. τε|καλῷ|Karl Fuhr|1914|Brux. Bibl. Regia 11294–5 (O)|
 Dem. 19.3|πεποιήκῃ/ἐμπεποιήκει|ἐμπεποίηκεν|Markland|n.d.|P.Oxy. LXVII 4569|
 Dem. 19.21|διδάσκειν|διδάξαι|Markland|n.d.|Pap.Flor. IV 24 + P.Lond.Lit. 127|
@@ -417,19 +417,21 @@ Dem. 19.303|Θεμιστοκλέους|τὸ Θ.|Henri Weil|1883|schol.|
 Dem. 19.307|ἢ|καὶ|Naber|n.d.|AB|
 Dem. 20.2|ἀφείλετο|del.|Reiske|1774–5|S1|
 Dem. 20.7|(μηδὲ) πλέον|μηδὲν πλέον|Cobet|s.xviii med.|Minuc.|
-Dem. 20.28|διείρηκεν|διῄρηκεν|P. P. Dobree|1814|Ftac|
+Dem. 20.28|διείρηκεν|διῄρηκεν|P. P. Dobree|1814|Ftpc|
 Dem. 20.71|ἀφαιρεθήσ-|ἀφαιρήσεται|Blass|1885–9|Monac. gr. 85 (B)|
 Dem. 20.155|ἡμᾶς|ὑμᾶς|F. A. Wolf|1789|Vind. phil. gr. 70 (Wb)|
-Dem. 21.10|μήτε|μὴ|Hieronymus Wolf|1604|Bac|
+Dem. 21.10|μήτε|μὴ|Hieronymus Wolf|1604|Bpc|
 Dem. 21.18|προσδ-|προδιαφθείρας|Hieronymus Wolf|1604|Caes. Malat. D 27.1 (Cd)|
-Dem. 21.26|-λ-|προὐβαλλόμην|Cobet|s.xviii med.|Bac|
+Dem. 21.26|-λ-|προὐβαλλόμην|Cobet|s.xviii med.|Bpc|
 Dem. 21.52|-ες|ἀνίσχοντας|Denys Lambin|1570|Lond. Addit. 39617 (Ln)|
-Dem. 21.53|-εῖ|δημοτελῆ|Buttmann|n.d.|Bac|
+Dem. 21.53|-εῖ|δημοτελῆ|Buttmann|n.d.|Bpc|
 Dem. 21.53|-α|κρατῆρας|Humbert|n.d.|Scorial. Φ II 1 (Ee)|
-Dem. 21.104|εἰμὶ|εἴην|Cobet|s.xviii med.|Cdac|
-Dem. 21.114|ἢ τὰ|καὶ τὰ|Markland|n.d.|Bac|
-Dem. 21.122|εἰ|εἰπεῖν|Reiske|1774–5|kac|
-Dem. 21.220|πρόη-|προῆσθε|Dindorf|1874|Vac|
+Dem. 21.104|εἰμὶ|εἴην|Cobet|s.xviii med.|Cdpc|
+Dem. 21.114|ἢ τὰ|καὶ τὰ|Markland|n.d.|Bpc|
+Dem. 21.122|εἰ|εἰπεῖν|Reiske|1774–5|kpc|
+Dem. 21.220|πρόη-|προῆσθε|Dindorf|1874|Vpc|
+Dem. 22.5|τούτων|τ. δεῖν|Hieronymus Wolf|1604|Sopat.Rh.|
+Dem. 23.26|παθεῖν εἶπεν|εἶναι|Henri Weil|1883|Sac|
 Dem. 31.11|-αντα|ποιήσοντα|P. P. Dobree|1814|Marc. gr. 416 (F)|
 Dem. Ep. 3.9|τὸ ὅσον|ὅσον|Blass|1885–9|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.22|ἀγνώμοσι|ἀγνῶσι|P. P. Dobree|s.xviii/xix|P.Lond.Lit. 130 (inv. 133)|
