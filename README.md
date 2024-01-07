@@ -74,7 +74,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (56), Bentley (51), Cobet (46), Brunck (44), Reiske (44), Elmsley (43), Hermann (42) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (56), Bentley (51), Cobet (46), Reiske (45), Brunck (44), Elmsley (43), Hermann (42) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -416,7 +416,7 @@ Dem. 19.280|καὶ τοῦ|τοῦ|P. P. Dobree|1814|P.Oxy. VIII 1094|
 Dem. 19.303|Θεμιστοκλέους|τὸ Θ.|Henri Weil|1883|schol.|
 Dem. 19.307|ἢ|καὶ|Naber|n.d.|AB|
 Dem. 20.2|ἀφείλετο|del.|Reiske|1774–5|S1|
-Dem. 20.7|(μηδὲ) πλέον|μηδὲν πλέον|Cobet|s.xviii med.|Minuc.|
+Dem. 20.7|(μηδὲ) πλέον|μηδὲν πλέον|Cobet|s.xviii med.|Minuc. 1.347.24 Sp. Ha.|
 Dem. 20.28|διείρηκεν|διῄρηκεν|P. P. Dobree|1814|Ftpc|
 Dem. 20.71|ἀφαιρεθήσ-|ἀφαιρήσεται|Blass|1885–9|Monac. gr. 85 (B)|
 Dem. 20.155|ἡμᾶς|ὑμᾶς|F. A. Wolf|1789|Vind. phil. gr. 70 (Wb)|
@@ -430,8 +430,9 @@ Dem. 21.104|εἰμὶ|εἴην|Cobet|s.xviii med.|Cdpc|
 Dem. 21.114|ἢ τὰ|καὶ τὰ|Markland|n.d.|Bpc|
 Dem. 21.122|εἰ|εἰπεῖν|Reiske|1774–5|kpc|
 Dem. 21.220|πρόη-|προῆσθε|Dindorf|1874|Vpc|
-Dem. 22.5|τούτων|τ. δεῖν|Hieronymus Wolf|1604|Sopat.Rh.|
+Dem. 22.5|τούτων|τ. δεῖν|Hieronymus Wolf|1604|Sopat.Rh. in Artem 5.36.3 W.|
 Dem. 23.26|παθεῖν εἶπεν|εἶναι|Henri Weil|1883|Sac|
+Dem. 23.33|ἄ. χ.|χρήματα ἄποινα|Reiske|1774–5|Theon 2.81.20 Sp.|
 Dem. 31.11|-αντα|ποιήσοντα|P. P. Dobree|1814|Marc. gr. 416 (F)|
 Dem. Ep. 3.9|τὸ ὅσον|ὅσον|Blass|1885–9|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.22|ἀγνώμοσι|ἀγνῶσι|P. P. Dobree|s.xviii/xix|P.Lond.Lit. 130 (inv. 133)|
