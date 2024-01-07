@@ -424,7 +424,6 @@ Dem. 21.122|εἰ|εἰπεῖν|Reiske|1774–5|kpc|
 Dem. 21.220|πρόη-|προῆσθε|Dindorf|1874|Vpc|
 Dem. 22.5|τούτων|τ. δεῖν|Hieronymus Wolf|1604|Sopat.Rh. in Artem 5.36.3 W.|?
 Dem. 23.33|ἄ. χ.|χρήματα ἄποινα|Reiske|1774–5|Theon 2.81.20 Sp.|?
-Dem. 23.66|οἱ … θεοὶ|τοὺς … θεούς|Blass|1885–9|Hermog. 339.9 R.|?
 Dem. 23.114|ἔχοι|εἶχεν|Hieronymus Wolf|1604|P.Oxy. III 459 = Pap.Flor. VIII 33|ac
 Dem. 23.115|-λή|ἐπιστολαί|Reiske|1774–5|P.Oxy. III 459 = Pap.Flor. VIII 33|
 Dem. 23.117|βουλεύσθε|βούλη[σθ]ε|Reiske|1774–5|P.Oxy. III 459 = Pap.Flor. VIII 33|
@@ -434,8 +433,6 @@ Dem. 24.64|-τίσ-|ἐκτείσῃ|Blass|1885–9|P.Oxy. IV 701 = Pap.Flor. VI
 Dem. 24.64|-τίσ-|ἐκτείσωσι|Blass|1885–9|P.Oxy. IV 701 = Pap.Flor. VIII 36|pc
 Dem. 24.108|-γήσ-|ἀπολογίσασθαι|Hieronymus Wolf|1604|Paris. gr. 2998 (k)|
 Dem. 24.183|προσέδοξεν|πρὸς ἔδοξεν|Dindorf|1874|Ρ.Oxy. XV 1811|
-Dem. 30.37|ὑμεῖς|ὑ. μὲν|Blass|1885–9|Is. 8.12|?
-Dem. 30.37|τῆς βασάνου|τῶν βασάνων|Blass|1885–9|Is. 8.12|?
 Dem. 31.11|-αντα|ποιήσοντα|P. P. Dobree|1814|Marc. gr. 416 (F)|
 Dem. 39.21|σεαυτὸν|σε αὐτὸν|G. H. Schaefer|1827|Marc. gr. 416 (F)|
 Dem. 39.23|προσμισεῖν|πρὸς μισεῖν|G. H. Schaefer|1827|Ambros. D 112 sup. (D)|
