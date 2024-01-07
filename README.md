@@ -104,20 +104,21 @@ Aesch. Th. 322|Ἀΐδαι|ἄϊδι|Turnebus|1552|Monac. gr. 565 (Uc)|
 Aesch. fr. 191.2|μέγα πῇ δ'|μέγαν ἠδ᾽|Isaac Vossius|1629|Anon. B|
 Aesch. fr. 300.3|-δεῖ/-δων|κυλίνδει|Salmasius|1629 (?)|Anon. C|
 Aesch. fr. 300.7|ἀγγέ-|ἀντέλλει|Grotius|1626|Anon. C et Tz.|
-Aeschin. Ctes. 18|γέρα|ἱερὰ|P. P. Dobree|s.xviii/xix|P.Oxy. XIII 1625|ϊ[ε]ρα
-Aeschin. Ctes. 18|γέρα|ἱερὰ|Hendrik Arent Hamaker|s.xviii/xix|P.Oxy. XIII 1625|ϊ[ε]ρα
-Aeschin. Ctes. 20|τὸν ... σκυθρωπὸν|τῶν ... σκυθρωπῶν|Denys Lambin|s.xvi med.|P.Oxy. XIII 1625|
-Aeschin. Ctes. 20|ἄγειν|ἄγει|Hieronymus Wolf|1572|P.Oxy. XIII 1625|
-Aeschin. Ctes. 53|μὲν ἀληθῆ|ἀληθῆ μὲν|Cobet|s.xix ex.|P.Oxy. XXIV 2404|
-Aeschin. Ctes. 57|ἀκούσωσι|ἀκούωσι|Hendrik Arent Hamaker|1859|P.Oxy. LX 4044|Mnem. 8 (1859) 5
-Aeschin. Ctes. 94|ὁρώντων|ζώντων|Georg Kaibel|s.xix ex.|P.Oxy. IV 703|ζων[
-Aeschin. Ctes. 167|-θίζει/-θεστήσῃ κτλ.|προσκαθιζήσει|Lobeck|s.xix in.|P.Oxy. III 457|προσκαθ[ιζ]ησ[ει
-Aeschin. Tim. 40|Τιμάρχου|τῷ Τιμάρχου|Blass|1896|P.Oxy. LX 4029|
-Aeschin. Tim. 173|ἐξαιτήσ-|ἐξαιρήσεται|Blass|1896|P.Gen. I 256|
-Aeschin. Tim. 176|διισχ-|ἰσχθυρίζεσθαι|Hieronymus Wolf|1572|P.Gen. I 256|
-Aeschin. Tim. 177|νόμους μέν|μὲν νόμους|Cobet|s.xix ex.|P.Gen. I 256|
-Aeschin. Tim. 178|-γορούντων|κατηγόρων|Blass|1896|P.Gen. I 256|
-Aeschin. Tim. 178|πᾶσι τοῖς δικαίοις|πᾶσι δικαίοις|Joseph Anton Hillebrand|1868|P.Gen. I 256|
+Aeschin. 1.16|ὧ|οὗ|Samuel Petit|s.xvii in.|Vat. gr. 64 (V)|
+Aeschin. 1.40|Τιμάρχου|τῷ Τιμάρχου|Blass|1896|P.Oxy. LX 4029|
+Aeschin. 1.173|ἐξαιτήσ-|ἐξαιρήσεται|Blass|1896|P.Gen. I 256|
+Aeschin. 1.176|διισχ-|ἰσχθυρίζεσθαι|Hieronymus Wolf|1572|P.Gen. I 256|
+Aeschin. 1.177|νόμους μέν|μὲν νόμους|Cobet|s.xix ex.|P.Gen. I 256|
+Aeschin. 1.178|-γορούντων|κατηγόρων|Blass|1896|P.Gen. I 256|
+Aeschin. 1.178|πᾶσι τοῖς δικαίοις|πᾶσι δικαίοις|Joseph Anton Hillebrand|1868|P.Gen. I 256|
+Aeschin. 3.18|γέρα|ἱερὰ|P. P. Dobree|s.xviii/xix|P.Oxy. XIII 1625|ϊ[ε]ρα
+Aeschin. 3.18|γέρα|ἱερὰ|Hendrik Arent Hamaker|s.xviii/xix|P.Oxy. XIII 1625|ϊ[ε]ρα
+Aeschin. 3.20|τὸν ... σκυθρωπὸν|τῶν ... σκυθρωπῶν|Denys Lambin|s.xvi med.|P.Oxy. XIII 1625|
+Aeschin. 3.20|ἄγειν|ἄγει|Hieronymus Wolf|1572|P.Oxy. XIII 1625|
+Aeschin. 3.53|μὲν ἀληθῆ|ἀληθῆ μὲν|Cobet|s.xix ex.|P.Oxy. XXIV 2404|
+Aeschin. 3.57|ἀκούσωσι|ἀκούωσι|Hendrik Arent Hamaker|1859|P.Oxy. LX 4044|Mnem. 8 (1859) 5
+Aeschin. 3.94|ὁρώντων|ζώντων|Georg Kaibel|s.xix ex.|P.Oxy. IV 703|ζων[
+Aeschin. 3.167|-θίζει/-θεστήσῃ κτλ.|προσκαθιζήσει|Lobeck|s.xix in.|P.Oxy. III 457|προσκαθ[ιζ]ησ[ει
 Alc. fr. 6.3|καὶ|ΚΕ’ΝΑ|J. F. A. Seidler|1829|P.Oxy. XV 1789|
 Alc. fr. 34|]ϲον|δεῦτέ μοι νᾶϲον|C. Gallavotti|1947|P.Mich. inv. 3498 + 3250b recto|δεῦτ̣[έ] μοι νᾶcον; Borges-Sampson (2012)
 Alc. fr. 343|τετυγ-|τετυχ[|Lobel|1927|P.Oxy. XXXV 2734|
