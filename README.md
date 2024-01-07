@@ -405,7 +405,7 @@ Dem. 18.248|φυλά-|φυλακῶν|Karl Halm|n.d.|Paris. gr. 2935 (Y)|
 Dem. 18.258|τὴν/om.|τῆς|Scheibe|n.d.|Laur. conv. soppr. 136 (Ft)|
 Dem. 18.310|κ. τε|καλῷ|Karl Fuhr|1914|Brux. Bibl. Regia 11294–5 (O)|
 Dem. 19.3|πεποιήκῃ/ἐμπεποιήκει|ἐμπεποίηκεν|Markland|n.d.|P.Oxy. LXVII 4569|
-Dem. 19.21|διδάσκειν|διδάξαι|Markland|n.d.|Pap.Flor. IV 24 + P.Lond.Lit. 127|
+Dem. 19.21|διδάσκειν|διδάξαι|Markland|1757|Pap.Flor. IV 24 + P.Lond.Lit. 127|
 Dem. 19.21|ταῦτα|τοῦτο|Voemel|n.d.|Pap.Flor. IV 24 + P.Lond.Lit. 127|
 Dem. 19.190|εἰσιτήρια/εἰσητήρια|εἰσιτητήρια|Reiske|1774–5|Salaman. M 224 (Sb)|
 Dem. 19.254|οἷος|οἵους|Cobet|s.xix med.|Lond. Addit. 39617 (Ln)|
@@ -420,7 +420,7 @@ Dem. 21.18|προσδ-|προδιαφθείρας|Hieronymus Wolf|1604|Caes. Mal
 Dem. 21.52|-ες|ἀνίσχοντας|Denys Lambin|1570|Lond. Addit. 39617 (Ln)|
 Dem. 21.53|-α|κρατῆρας|Humbert|n.d.|Scorial. Φ II 1 (Ee)|
 Dem. 21.104|εἰμὶ|εἴην|Cobet|s.xix med.|Cdpc|
-Dem. 21.114|ἢ τὰ|καὶ τὰ|Markland|n.d.|Bpc|
+Dem. 21.114|ἢ τὰ|καὶ τὰ|Markland|1757|Bpc|
 Dem. 21.122|εἰ|εἰπεῖν|Reiske|1774–5|kpc|
 Dem. 21.220|πρόη-|προῆσθε|Dindorf|1874|Vpc|
 Dem. 22.5|τούτων|τ. δεῖν|Hieronymus Wolf|1604|Sopat.Rh. in Artem 5.36.3 W.|?
@@ -455,7 +455,7 @@ Dem. 57.67|ταῦτά|ταὐτά|Denys Lambin|1570|Dac|Lambin p. c.
 Dem. 58.10|-ῆκεν|προσήκει|Thalheim|n.d.|Ambros. D 112 sup. (D)|
 Dem. 59.40|ἀήτης|αἰήτης|Reiske|1774–5|Coislin. 339 (v)|
 Dem. 59.43|ἡμᾶς|ὑμᾶς|G. H. Schaefer|1827|Ambros. D 112 sup. (D)|
-Dem. 59.74|εὐλαβ-|εὐσεβείας|Taylor|n.d.|Dpc|
+Dem. 59.74|εὐλαβ-|εὐσεβείας|John Taylor|1757|Dpc|
 Dem. 60.8|οὐδ ̓|οὔθ ̓|Reiske|1774–5|Laur. 59.9 (P)|
 Dem. 61.39|ἐν|ἐπὶ|Hieronymus Wolf|1604|Ambros. D 112 sup. (D)|
 Dem. Ep. 3.9|τὸ ὅσον|ὅσον|Blass|1885–9|P.Lond.Lit. 130 (inv. 133)|
