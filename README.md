@@ -421,6 +421,7 @@ Dem. 20.28|διείρηκεν|διῄρηκεν|P. P. Dobree|1814|Ftac|
 Dem. 20.71|ἀφαιρεθήσ-|ἀφαιρήσεται|Blass|1885–9|Monac. gr. 85 (B)|
 Dem. 20.155|ἡμᾶς|ὑμᾶς|F. A. Wolf|1789|Vind. phil. gr. 70 (Wb)|
 Dem. 21.10|μήτε|μὴ|Hieronymus Wolf|1604|Bac|
+Dem. 21.18|προσδ-|προδιαφθείρας|Hieronymus Wolf|1604|Caes. Malat. D 27.1|
 Dem. 31.11|-αντα|ποιήσοντα|P. P. Dobree|1814|Marc. gr. 416 (F)|
 Dem. Ep. 3.9|τὸ ὅσον|ὅσον|Blass|1885–9|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.22|ἀγνώμοσι|ἀγνῶσι|P. P. Dobree|s.xviii/xix|P.Lond.Lit. 130 (inv. 133)|
