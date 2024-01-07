@@ -229,7 +229,7 @@ Ar. Nub. 185|δοκοῦϲιν ἐ.|δοκοῦϲ᾽ ἐοικέναι|Bentley|1
 Ar. Nub. 366|ἡμῖν|ὑμῖν|Charles Daubuz|1710|Eac Ψ|
 Ar. Nub. 451|ματιολ-|ματτυολοιχός|Bentley|1708|Harl. 5725 (Ln5)|
 Ar. Nub. 507|μελιττοῦταν|μελιτοῦτταν|Valckenaer|s.xviii ex.|Laur. conv. soppr. 140|
-Ar. Nub. 533|ὑμῖν|ὑμῶν|Sauppe|n.d.|Marc. gr. 473 (V3)|s.l.
+Ar. Nub. 533|ὑμῖν|ὑμῶν|Hermann Sauppe|n.d.|Marc. gr. 473 (V3)|s.l.
 Ar. Nub. 538|σκύτινον|σκυτίον|P. P. Dobree|s.xviii/xix|XLn5|
 Ar. Nub. 615|ὑμᾶς κοὐκ|ὑμᾶς δ᾽ οὐκ|Bentley|1708|Lpc|
 Ar. Nub. 862|πειθ-|πιθόμενος|Bentley|1708|Θpc|
@@ -461,8 +461,8 @@ Dem. 61.37|τὴν|τῶν|Hermann Sauppe|1839|Ambros. D 112 sup. (D)|
 Dem. 61.39|ἐν|ἐπὶ|Hieronymus Wolf|1604|Ambros. D 112 sup. (D)|
 Dem. Ep. 3.9|τὸ ὅσον|ὅσον|Blass|1885–9|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.22|ἀγνώμοσι|ἀγνῶσι|P. P. Dobree|s.xviii/xix|P.Lond.Lit. 130 (inv. 133)|
-Dem. Ep. 3.22|ἠδικεῖσθε/ἀδικεῖσθαι|ἀδικοῖσθε|Sauppe|1839–43|P.Lond.Lit. 130 (inv. 133)|
-Dem. Ep. 3.25|οὐδεὶς ἂν|οὐδεὶς|Sauppe|1839–43|P.Lond.Lit. 130 (inv. 133)|
+Dem. Ep. 3.22|ἠδικεῖσθε/ἀδικεῖσθαι|ἀδικοῖσθε|Hermann Sauppe|1839|P.Lond.Lit. 130 (inv. 133)|
+Dem. Ep. 3.25|οὐδεὶς ἂν|οὐδεὶς|Hermann Sauppe|1839|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.27|τὴν|τιν'|Blass|1885–9|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.28|δὲ|δ'ἐν|Reiske|1771|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.30|πατρώιος|πατρίους|Hieronymus Wolf|1604|P.Lond.Lit. 130 (inv. 133)|
