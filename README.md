@@ -321,12 +321,12 @@ Call. Dian. 16|-μάδας|ἐνδρομίδας|Janus Lascaris|1496|Et.Gen.|
 Call. Dian. 29|ὅτι|ὅτε|Janus Lascaris|1496|P.Mil.Vogl. II 42|
 Call. Dian. 61|μοχθίσσειαν|μυχ-|Meineke|1861|P.Ant. I 20|lemma
 Call. Dian. 70|-ύσεται|μορμύσσεται|Janus Lascaris|1496|P.Ant. I 20|
+Call. Epigr. 27.1|-όν|ἀοιδῶν|Scaliger|n.d.|P.Oxy. LXVIII 4648|αοιδω[
 Call. Jov. 80|σφι|σφε|Bentley|1697|P.Oxy. ined. A fr. 1 recto|
 Call. Lav.Pall. 52|μ᾽ οὐκ|μὴ οὐκ|Arnaldus|s.xviii in.|Paris. Gr. 2763 (E)|
 Call. Lav.Pall. 117|ἐ.|δ᾽ ἐρέει|Bergk|s.xix med.|Paris. Gr. 2763 (E)|
 Call. fr. 1.11 Schol. Lond.|λεπτ`|κατὰ λεπτ`|A. Rostagni|1929|teste Milne|Cl. R. 43 (1929) 214
 Call. fr. 7.14|πολὺ μένουσιν|πουλὺ μένωσιν|Valckenaer|1799|PSI XI 1219|Elegiarum Fragmenta p. 276
-Call. fr. 27.1|-όν|ἀοιδῶν|Scaliger|n.d.|P.Oxy. LXVIII 4648|αοιδω[
 Call. fr. 43.14|παραχρῆμ'|παρὰ χρέος|A. F. Naeke|1845|P.Oxy. XVII 2080|
 Call. fr. 43.16|ἀκουὰς|ἀκουαῖς|Bentley|1697|P.Oxy. XVII 2080|
 Call. fr. 43.64|γαιοδόται|γεωδαῖται|Bentley|1697|P.Oxy. XVII 2080|
