@@ -74,7 +74,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (56), Bentley (51), Reiske (49), Cobet (46), Brunck (44), Elmsley (43), Hermann (42) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (56), Bentley (51), Reiske (49), Cobet (45), Brunck (44), Elmsley (43), Hermann (42) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -412,12 +412,11 @@ Dem. 19.254|οἷος|οἵους|Cobet|s.xix med.|Lond. Addit. 39617 (Ln)|
 Dem. 19.280|καὶ τοῦ|τοῦ|P. P. Dobree|1814|P.Oxy. VIII 1094|
 Dem. 19.303|Θεμιστοκλέους|τὸ Θ.|Henri Weil|1883|schol.|
 Dem. 20.2|ἀφείλετο|del.|Reiske|1774–5|S1|
-Dem. 20.7|(μηδὲ) πλέον|μηδὲν πλέον|Cobet|s.xviii med.|Minuc. 1.347.24 Sp. Ha.|?
+Dem. 20.7|(μηδὲ) πλέον|μηδὲν πλέον|Cobet|s.xix med.|Minuc. 1.347.24 Sp. Ha.|?
 Dem. 20.28|διείρηκεν|διῄρηκεν|P. P. Dobree|1814|Ftpc|
 Dem. 20.155|ἡμᾶς|ὑμᾶς|F. A. Wolf|1789|Vind. phil. gr. 70 (Wb)|
 Dem. 21.10|μήτε|μὴ|Hieronymus Wolf|1604|Bpc|
 Dem. 21.18|προσδ-|προδιαφθείρας|Hieronymus Wolf|1604|Caes. Malat. D 27.1 (Cd)|
-Dem. 21.26|-λ-|προὐβαλλόμην|Cobet|s.xix med.|Bpc|
 Dem. 21.52|-ες|ἀνίσχοντας|Denys Lambin|1570|Lond. Addit. 39617 (Ln)|
 Dem. 21.53|-α|κρατῆρας|Humbert|n.d.|Scorial. Φ II 1 (Ee)|
 Dem. 21.104|εἰμὶ|εἴην|Cobet|s.xix med.|Cdpc|
