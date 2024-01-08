@@ -112,6 +112,7 @@ Aeschin. 1.42|τ. ποιεῖν|ταῦτα|Blass|1896|P.Oxy. LX 4029|
 Aeschin. 1.45|om.|μὲν|Hieronymus Wolf|1572|P.Oxy. LX 4030|
 Aeschin. 1.55|Ἡ-|ἡγήσανδρος|H. G. Hamaker|1858|fac|Mnem. 7 (1858) 455
 Aeschin. 1.62|ὅτι|ὅτε|Henri Estienne|1575|Paris. gr. 2947 (h)|
+Aeschin. 1.68|σπ-|στειριεὺς|Palmer|1771|Paris. gr. 2947 (h)|
 Aeschin. 1.173|ἐξαιτήσ-|ἐξαιρήσεται|Blass|1896|P.Gen. I 256|
 Aeschin. 1.176|διισχ-|ἰσχθυρίζεσθαι|Hieronymus Wolf|1572|P.Gen. I 256|
 Aeschin. 1.177|νόμους μέν|μὲν νόμους|Cobet|s.xix ex.|P.Gen. I 256|
