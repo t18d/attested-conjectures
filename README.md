@@ -110,17 +110,18 @@ Aeschin. 1.35|ὅτι|del.|Brunck|n.d.|Barb. gr. 159 (B)|
 Aeschin. 1.40|Τιμάρχου|τῷ Τ.|Blass|1896|P.Oxy. LX 4029|
 Aeschin. 1.42|τ. ποιεῖν|ταῦτα|Blass|1896|P.Oxy. LX 4029|
 Aeschin. 1.45|om.|μὲν|Hieronymus Wolf|1572|P.Oxy. LX 4030|
+Aeschin. 1.55|Ἡ-|ἡγήσανδρος|H. G. Hamaker|1858|fac|
 Aeschin. 1.173|ἐξαιτήσ-|ἐξαιρήσεται|Blass|1896|P.Gen. I 256|
 Aeschin. 1.176|διισχ-|ἰσχθυρίζεσθαι|Hieronymus Wolf|1572|P.Gen. I 256|
 Aeschin. 1.177|νόμους μέν|μὲν νόμους|Cobet|s.xix ex.|P.Gen. I 256|
 Aeschin. 1.178|-γορούντων|κατηγόρων|Blass|1896|P.Gen. I 256|
 Aeschin. 1.178|πᾶσι τοῖς δικαίοις|πᾶσι δικαίοις|Joseph Anton Hillebrand|1868|P.Gen. I 256|
 Aeschin. 3.18|γέρα|ἱερὰ|P. P. Dobree|s.xviii/xix|P.Oxy. XIII 1625|ϊ[ε]ρα
-Aeschin. 3.18|γέρα|ἱερὰ|Hendrik Arent Hamaker|s.xviii/xix|P.Oxy. XIII 1625|ϊ[ε]ρα
+Aeschin. 3.18|γέρα|ἱερὰ|H. G. Hamaker|1859|P.Oxy. XIII 1625|ϊ[ε]ρα
 Aeschin. 3.20|τὸν ... σκυθρωπὸν|τῶν ... σκυθρωπῶν|Denys Lambin|s.xvi med.|P.Oxy. XIII 1625|
 Aeschin. 3.20|ἄγειν|ἄγει|Hieronymus Wolf|1572|P.Oxy. XIII 1625|
 Aeschin. 3.53|μὲν ἀληθῆ|ἀληθῆ μὲν|Cobet|s.xix ex.|P.Oxy. XXIV 2404|
-Aeschin. 3.57|ἀκούσωσι|ἀκούωσι|Hendrik Arent Hamaker|1859|P.Oxy. LX 4044|Mnem. 8 (1859) 5
+Aeschin. 3.57|ἀκούσωσι|ἀκούωσι|H. G. Hamaker|1859|P.Oxy. LX 4044|Mnem. 8 (1859) 5
 Aeschin. 3.94|ὁρώντων|ζώντων|Georg Kaibel|s.xix ex.|P.Oxy. IV 703|ζων[
 Aeschin. 3.167|-θίζει/-θεστήσῃ κτλ.|προσκαθιζήσει|Lobeck|s.xix in.|P.Oxy. III 457|προσκαθ[ιζ]ησ[ει
 Alc. fr. 6.3|καὶ|ΚΕ’ΝΑ|J. F. A. Seidler|1829|P.Oxy. XV 1789|
