@@ -121,6 +121,7 @@ Aeschin. 1.177|νόμους μέν|μὲν νόμους|Cobet|s.xix med.|P.Gen. 
 Aeschin. 1.178|-γορούντων|κατηγόρων|Blass|1896|P.Gen. I 256|
 Aeschin. 1.178|πᾶσι τοῖς δικαίοις|πᾶσι δικαίοις|Joseph Anton Hillebrand|1868|P.Gen. I 256|
 Aeschin. 1.181|-κελεύσας|παρακαλέσας|Henri Estienne|1575|P.Gen. I 256|
+Aeschin. 2.44|-σασθθαι|θεάσεσθε|Hieronymus Wolf|1572|Ambros. G 69 sup. (D)|
 Aeschin. 3.18|γέρα|ἱερὰ|P. P. Dobree|s.xviii/xix|P.Oxy. XIII 1625|ϊ[ε]ρα
 Aeschin. 3.18|γέρα|ἱερὰ|H. G. Hamaker|1859|P.Oxy. XIII 1625|ϊ[ε]ρα
 Aeschin. 3.20|τὸν ... σκυθρωπὸν|τῶν ... σκυθρωπῶν|Denys Lambin|s.xvi med.|P.Oxy. XIII 1625|
