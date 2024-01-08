@@ -75,7 +75,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (56), Reiske (51), Bentley (51), Brunck (45), Cobet (44), Elmsley (43), Hermann (42) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (56), Reiske (51), Bentley (51), Cobet (45), Brunck (45), Elmsley (43), Hermann (42) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -114,9 +114,10 @@ Aeschin. 1.55|Ἡ-|ἡγήσανδρος|H. G. Hamaker|1858|fac|Mnem. 7 (1858) 4
 Aeschin. 1.62|ὅτι|ὅτε|Henri Estienne|1575|Paris. gr. 2947 (h)|
 Aeschin. 1.68|σπ-|στειριεὺς|Jacobus Palmerius|1668|Paris. gr. 2947 (h)|
 Aeschin. 1.73|κακῶς|καλῶς|Reiske|1771|Paris. suppl. gr. 660 (x)|pc
+Aeschin. 1.159|-ην|σωφροσύνης|Cobet|s.xix med.|Ambros. G 69 sup. (D)|
 Aeschin. 1.173|ἐξαιτήσ-|ἐξαιρήσεται|Blass|1896|P.Gen. I 256|
 Aeschin. 1.176|διισχ-|ἰσχθυρίζεσθαι|Hieronymus Wolf|1572|P.Gen. I 256|
-Aeschin. 1.177|νόμους μέν|μὲν νόμους|Cobet|s.xix ex.|P.Gen. I 256|
+Aeschin. 1.177|νόμους μέν|μὲν νόμους|Cobet|s.xix med.|P.Gen. I 256|
 Aeschin. 1.178|-γορούντων|κατηγόρων|Blass|1896|P.Gen. I 256|
 Aeschin. 1.178|πᾶσι τοῖς δικαίοις|πᾶσι δικαίοις|Joseph Anton Hillebrand|1868|P.Gen. I 256|
 Aeschin. 3.18|γέρα|ἱερὰ|P. P. Dobree|s.xviii/xix|P.Oxy. XIII 1625|ϊ[ε]ρα
