@@ -112,7 +112,7 @@ Aeschin. 1.42|τ. ποιεῖν|ταῦτα|Blass|1896|P.Oxy. LX 4029|
 Aeschin. 1.45|om.|μὲν|Hieronymus Wolf|1572|P.Oxy. LX 4030|
 Aeschin. 1.55|Ἡ-|ἡγήσανδρος|H. G. Hamaker|1858|fac|Mnem. 7 (1858) 455
 Aeschin. 1.62|ὅτι|ὅτε|Henri Estienne|1575|Paris. gr. 2947 (h)|
-Aeschin. 1.68|σπ-|στειριεὺς|Palmer|1771|Paris. gr. 2947 (h)|
+Aeschin. 1.68|σπ-|στειριεὺς|Jacobus Palmerius|1668|Paris. gr. 2947 (h)|
 Aeschin. 1.173|ἐξαιτήσ-|ἐξαιρήσεται|Blass|1896|P.Gen. I 256|
 Aeschin. 1.176|διισχ-|ἰσχθυρίζεσθαι|Hieronymus Wolf|1572|P.Gen. I 256|
 Aeschin. 1.177|νόμους μέν|μὲν νόμους|Cobet|s.xix ex.|P.Gen. I 256|
@@ -1442,7 +1442,7 @@ Soph. fr. 330|-ὴν -ην/-ὴ -η|λευκῇ στάθμῃ|T. G. Tucker|1904|
 Soph. fr. 339|ἢ|ἦ|Gaisford|1826|Phot. α 1990|Sophoclis tragoediae septem p. 40
 Soph. fr. 481|δρώπα/δρωπτά|δρωπά|J. A. H. Tittmann|1808|Suid. δ 1538|T. apud Zonar.
 Soph. fr. 591|ἐν φύλων|ἕν φῦλον|Bergk|1836|Favorin. Π φυγῆς|ZfA 3 (1836) 78
-Soph. fr. 635|σακκο-|σακοδερμηστής|Palmerius|1668|Synag. Phot.|ap. Hsch. σ 76
+Soph. fr. 635|σακκο-|σακοδερμηστής|Jacobus Palmerius|1668|Synag. Phot.|ap. Hsch. σ 76
 Soph. fr. 871|εὐγενεστ-|εὐπρεπεστάτη|Ritschl|1829|Plu. 5.517D|
 Soph. fr. 945.1|-πώρων|ταλαίπωρον|Conrad Gesner|1543|Stob. MA/Apostol. plerique codd.|
 Soph. fr. 945.2|εἰκ-|ἐοικότες|Conrad Gesner|1543|codd.|
