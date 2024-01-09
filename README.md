@@ -177,7 +177,7 @@ Ap. Rhod. 2.217|ἧς|ᾗ|Brunck|1780|Et.|
 Ap. Rhod. 2.906|-νάσσατο|κατενίσσετο|Naber|n.d.|P.Oxy. LXXXIV 5417|ac
 Ap. Rhod. 2.921|ἔδυνε μέλαν|ἔδυ μέλανα|Bywater|n.d.|P.Oxy. XXXIV 2694|] μελανα
 Ap. Rhod. 2.926|-οντο|χεύαντο|Brunck|1780|Et.|
-Ap. Rhod. 2.989|ἔ. μέμηλε(ν)|ἔργα μεμήλει|Brunck|1780|P.Oxy. LXXXIV 5417|]γ̣’ ε̣μεμη̣λει
+Ap. Rhod. 2.989|ἔ. μέμηλε(ν)|ἔργα μεμήλει|Brunck|1780|P.Oxy. LXXXIV 5417|]γ̣’ ε̣μεμη̣λει; hoc flagitat temporum ratio
 Ap. Rhod. 2.1017|habent|del.|A. Platt|1914-9|P.Oxy. LXXXIV 5417|
 Ap. Rhod. 2.1260|ἀλημο-|δαημοσύνῃσιν|d'Arnaud|1730|marg. E2|
 Ap. Rhod. 3.158|-ροιο|μεγάλοιο|Eduard Gerhard|1816|Strassb.|
