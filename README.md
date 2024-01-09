@@ -1166,6 +1166,7 @@ Pi. O. 6.77|ὄροις|ὄρος|Zacharias Callierges|1515|P.Oxy. XIII 1614|
 Pi. P. 3.166 schol.|ἐν κῷ|ἐν Ἴκῳ|Brodaeus|n.d.|DEGQ|Epigr. Gr. 1549 p. 372
 Pi. P. 6.14|-οι/-ος|τυπτόμενον|Dawes|n.d.|P.Oxy. LXXV 5039|
 Pi. Pae. 9.4|ἰσχὺν πτανὸν (ἀν)δράσιν|ἰσχύν τ'ἀνδράσι(ν)|Blass|n.d.|P.Oxy. V 841|
+Pl. Chrm. 173b||η υ̣γιεϲ̣[ιν|Heindorf|n.d.|P.Oxy. LXXVI 5082|
 Pl. Crit. 48e|πείσαι κτλ.|πείσας|Buttmann|n.d.|Vat. gr. 225 (V)|
 Pl. Phd. 82e|τῳ δεδέσθαι|τοῦ δεδέσθαι|Heindorf|1810|P.Lond.Lit. 145 (inv. 488)|
 Pl. Phdr. 228b|πάνυ τις|πάνυ τι|Schanz|n.d.|P.Oxy. VII 1016|
