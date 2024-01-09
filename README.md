@@ -133,7 +133,8 @@ Aeschin. 2.158|προστρόπαιον|αὑτοῦ π.|Blass|1896|fac|
 Aeschin. 3.18|γέρα|ἱερὰ|P. P. Dobree|s.xviii/xix|P.Oxy. XIII 1625|ϊ[ε]ρα
 Aeschin. 3.18|γέρα|ἱερὰ|H. G. Hamaker|1859|P.Oxy. XIII 1625|ϊ[ε]ρα
 Aeschin. 3.20|τὸν ... σκυθρωπὸν|τῶν ... σκυθρωπῶν|Denys Lambin|s.xvi med.|P.Oxy. XIII 1625|
-Aeschin. 3.20|ἄγειν|ἄγει|Hieronymus Wolf|1572|P.Oxy. XIII 1625|
+Aeschin. 3.20|ἄγειν|ἄγει|Edward Bernard|s.xvii ex.|P.Oxy. XIII 1625|
+Aeschin. 3.26|-ους|λόγον|C. Scheibe|1853|P.Duk.inv. 3|Neue Jahrb. f. Philol. u. Paed. 68 (1853) 156
 Aeschin. 3.53|μὲν ἀληθῆ|ἀληθῆ μὲν|Cobet|s.xix ex.|P.Oxy. XXIV 2404|
 Aeschin. 3.57|ἀκούσωσι|ἀκούωσι|H. G. Hamaker|1859|P.Oxy. LX 4044|Mnem. 8 (1859) 5
 Aeschin. 3.94|ὁρώντων|ζώντων|Georg Kaibel|s.xix ex.|P.Oxy. IV 703|ζων[
