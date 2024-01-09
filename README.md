@@ -147,6 +147,7 @@ Aeschin. 3.94|ὁρώντων|ζώντων|Georg Kaibel|s.xix ex.|P.Oxy. IV 703|
 Aeschin. 3.101|τῶν|τῷ|Andreas Weidner|1872|P.Oxy. LX 4048|
 Aeschin. 3.149|τοῦτο κ. τι|κήρυγμά τι τοῦτο|Blass|1896|Laur. 60.4 (Flor.)|
 Aeschin. 3.167|-θίζει/-θεστήσῃ κτλ.|προσκαθιζήσει|Lobeck|s.xix in.|P.Oxy. III 457|προσκαθ[ιζ]ησ[ει
+Aeschin. 3.186|ἐ. ὦ ἄνδρες ἀθηναῖοι ὃ|ἐστιν ὧν ἐγὼ|Blass|1896|P.Vindob. G. 2.314|
 Alc. fr. 6.3|καὶ|ΚΕ’ΝΑ|J. F. A. Seidler|1829|P.Oxy. XV 1789|
 Alc. fr. 34|]ϲον|δεῦτέ μοι νᾶϲον|C. Gallavotti|1947|P.Mich. inv. 3498 + 3250b recto|δεῦτ̣[έ] μοι νᾶcον; Borges-Sampson (2012)
 Alc. fr. 343|τετυγ-|τετυχ[|Lobel|1927|P.Oxy. XXXV 2734|
