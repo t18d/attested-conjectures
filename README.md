@@ -151,6 +151,8 @@ Aeschin. 3.186|ἐ. ὦ ἄνδρες ἀθηναῖοι ὃ|ἐστιν ὧν �
 Aeschin. 3.196|ἐν τῷ|ἐν|Ferdinand Schultz|1865|P.Hamb. II 165|
 Aeschin. 3.196|om.|τὰ|Andreas Weidner|1872|P.Hamb. II 165|
 Aeschin. 3.230|-σεσθε|ἀποψηφίσαισθε|Henri Estienne|1575|Barb. gr. 159 (B)|
+Aeschin. 3.239|ἐξειρ-|ἐξηργάσατο|Blass|1896|P.Köln VI 254|
+Aeschin. 3.243|μοῖραν|μόραν|Hieronymus Wolf|1572|Barb. gr. 159 (B)|
 Alc. fr. 6.3|καὶ|ΚΕ’ΝΑ|J. F. A. Seidler|1829|P.Oxy. XV 1789|
 Alc. fr. 34|]ϲον|δεῦτέ μοι νᾶϲον|C. Gallavotti|1947|P.Mich. inv. 3498 + 3250b recto|δεῦτ̣[έ] μοι νᾶcον; Borges-Sampson (2012)
 Alc. fr. 343|τετυγ-|τετυχ[|Lobel|1927|P.Oxy. XXXV 2734|
