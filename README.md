@@ -1155,7 +1155,11 @@ Phot. φ 143|-θεῖν-|φθῆναι|Cobet|1858|Σa Sud. codd. AGFM etc.|Mnem.
 Phot. φ 144|φθείσ-|φθήσεται|Cobet|1858|Σa+b Sud. etc.|Mnem. 7 (1858) 478
 Pi. I. 6.87a schol.|-ειν/-ων|συντέμνει|Petros N. Papageorgiu|1880|codd.|
 Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|P.Berol. inv. 16367|
+Pi. N. 6.51|-βὰς|-βαὶς|Turyn|n.d.|P.Oxy. LXXV 5043|
+Pi. N. 9.42|ἡ-|ἁμέραις|Triclinius|n.d.|P.Oxy. LXXV 5043|
+Pi. N. 10.42|-ε|θάλησεν|Triclinius|n.d.|P.Oxy. LXXV 5043|
 Pi. N. 10.48|π. τε χειρῶν (τε)|ποδῶν χειρῶν τε|E. Schmid|n.d.|P.Oxy. LXXV 5043|
+Pi. N. 10.60|αἰχμᾷ|ἀκμᾷ|Cornelis de Pauw|1747|P.Oxy. LXXV 5043|
 Pi. O. 1 schol. Inscr. a|ογ΄|οϛ΄|Bergk|1878|P.Oxy. II 222|Poet. Lyr. i. p.4
 Pi. O. 2.76|γᾶς|μέγας|Jan Cornelis de Pauw|1747|P.Oxy. XVII 2092|
 Pi. O. 6.77|ὄροις|ὄρος|Zacharias Callierges|1515|P.Oxy. XIII 1614|
