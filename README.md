@@ -76,7 +76,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (56), Reiske (52), Bentley (51), Brunck (46), Cobet (45), Elmsley (44), Hermann (42) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (56), Reiske (52), Bentley (51), Brunck (47), Cobet (45), Elmsley (44), Hermann (42) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -998,7 +998,10 @@ Nonn. Dion. 15.87|οἰνηθέντες|οἰνωθεντες|Graefe|n.d.|P.Bero
 Nonn. Dion. 15.112|ἐλαίης|Ἀθήνης|Hermann Köchly|1858|P.Berol. inv. 10567|
 Nonn. Dion. 15.165|Βάκχοιο|Γλαύκοιο|Falkenburg|n.d.|P.Berol. inv. 10567|
 Nonn. Dion. 15.165|μαχητάς|μαχηταῖς|Hermann Köchly|1858|P.Berol. inv. 10567|
-Opp. C. 1.147|||F. S. Lehrs|1846|A2δ|
+Opp. C. 1.147|καὶ|ναὶ|F. S. Lehrs|1846|A2δ|
+Opp. C. 2.217–8|περόωσι … πατέουσι|πατέουσι … περόωσι|Brunck|1776|Laur. 32.16 (K)|apud Schneider
+Opp. C. 2.430|δα- κτλ.|λατυσσομένοις|d'Orville|1750|Vindob. phil. gr. 135 (L)|
+Opp. C. 2.552|πολλὸν|πολλῷ|J. G. Schneider|1776|Laur. 31.3 (M)|
 Opp. C. 4.199|ἴκ-|εἴκελος|Andreas Schott|s.xvi/xvii|P.Oxy. LXXXI 5278|
 Opp. C. 4.208|ἐρυϲϲάμενοι|ερειϲάμεν[οι|Johannes Pierson|1752|P.Oxy. LXXXI 5278|Verisimilium libri duo (1752) 174
 Orac. Sib. 516–517|516, 517|517, 516|Geffcken|n.d.|P.Flor. 398|
