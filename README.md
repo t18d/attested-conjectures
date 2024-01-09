@@ -1198,6 +1198,7 @@ Plu. 21B|-οῖ|φρονεῖ|Cobet|1877|G1X1vZWCh|Mnem. N.S. 5 (1877) 243
 Plu. 75B|περιθεμένη|περικει̣μ̣ενη|F. C. Babbitt|1927|P.Oxy. LXXVIII 5153|
 Plu. 159 schol.|ὅσοις δὲ/ὅσοι τε κτλ.|ὅσοις τε|Bergk|1841|Gac|
 Plu. 191F|αὐτὸς|αὕτη|Hertlein|n.d.|P.Oxy. LXXVIII 5155|
+Plu. 611D|κατάθεσις|συγκ-|Turnebus|n.d.|PSI XVI 1608|
 Plu. Caes. 45.8|ταιc|αις|Moses Solanus|1729|P.Oxy. LXXXI 5270|
 Plu. Comp. Lyc. Num. 3.5|ἀν-|συνερραμμέναι|Henrik van Herwerden|1887|S1|Lucubr. 83
 Poll. 10.63|κατάχυτλον/-χύτου|-χύτλου|Salmasius|s.xvii in.|Laur. 56.1 (L)|
