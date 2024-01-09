@@ -969,6 +969,7 @@ Men. Phasm. 73|-ϲθαι ἀν|ε]π̣ιϲημ̣[αιν]εϲθεαν|Bentley|pos
 Men. Pk. 46|θ’ εαυτων|θ αυτων|W. G. Headlam|1908|P.Heid. G 219 + 239 h|
 Men. Pk. 46|θ’ εαυτων|θ αυτων|W. G. Headlam|1908|P.Heid. G 219 + 239 h|
 Men. Pk. 46|θ’ εαυτων|θ αυτων|Jan van Leeuwen|1908|P.Heid. G 219 + 239 h|
+Men. Pk. 290|αλλ’ εις οικον τιν|εἰς δ’ οἶκόν τιν’|E. Schwartz|1929|P.Oxy. LXXIX 5200|Herm. 64 (1929) 10 n. 2
 Men. Sam. 280|τουτον|τουτονϊ|Jan van Leeuwen|1908|P.Bodm. XXV et Pap. Barcin. inv. 45|
 Men. Sam. 588|μικρο̄|μικρα|Leo|1907|P.Bodm. XXV et Pap. Barcin. inv. 45|NGG (1907) 315-341
 Men. fr. 158.2|ἀρπάγην|ἀρπαγήν|Valckenaer|1739|Ph.Bybl. 28|Animad. p. 23
