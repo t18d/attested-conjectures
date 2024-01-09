@@ -999,16 +999,7 @@ Nonn. Dion. 15.165|μαχητάς|μαχηταῖς|Hermann Köchly|1858|P.Berol
 Opp. C. 4.199|ἴκ-|εἴκελος|Andreas Schott|s.xvi/xvii|P.Oxy. LXXXI 5278|
 Opp. C. 4.208|ἐρυϲϲάμενοι|ερειϲάμεν[οι|Johannes Pierson|1752|P.Oxy. LXXXI 5278|Verisimilium libri duo (1752) 174
 Orac. Sib. 516–517|516, 517|517, 516|Geffcken|n.d.|P.Flor. 398|
-P.Giss. 50.34|[|Σαλωνείνου Οὐαλεριανοῦ|Paul M. Meyer|1910|P.Oxy. X 1273|
-P.Lond. 256 recto(e) 10|[|ἀποχήν|Wilcken|1906|P.Oxy. VII 1024|χιρογρα̣φιαν Kenyon
-P.Lond. II 214.20|]νγραφα|ἔνγραφα|Wilcken|1901|P.Oxy. VIII 1121|συνγραφα Kenyon
-P.Mich. inv. 6222A|π̣ι̣ϲ̣τ̣[|πιϲτευσαϲ|W. Luppe|1994|P.Oxy. LXVIII 4640|ZPE 102 (1994) 25
 P.Oxy. II 266.15|[ἀν]αζυγήν|[δι]α-|Edgar-Hunt|1932|P.Oxy. XLIX 3491|Sel.Pap. I 7.15
-P.Oxy. II 384|τριω( )|τρι<sup>μ</sup>|Herbert C. Youtie|1971|P.Oxy. XXXVIII p. 45|P.Oxy. II p. 280
-P.Oxy. VI 970|ἐπ̣ι̣σ̣κ[|ἐπισκέψεσι|Grenfell-Hunt|1908|P.Oxy. XLII 3046|
-P.Oxy. XIV 1659.42|Ἀντιπ(έρα) Πέλα|Ἀντιπέρα Πέλα|Grenfell-Hunt|1920|P.Oxy. XXVII 2473|
-P.Ryl. 652.10|ορ( )|ὁρρίοις|Roberts-Turner|1952|P.Oxy. XXIV 2408|
-P.Tebt. 286.15|om.|ἱερεύς|Hunt|1907|P.Oxy. VIII 1092|
 Pherecr. fr. 80|ὁ βλὰξ|ὀκλὰξ|Bekker|1814|Phot. α 387|
 Pherecr. fr. 166|ἃ|ἅ σε|Martin Runkel|1829|Phot. α 816|p. 70
 Pherecr. fr. 181|-ίαν|Ἀδώνι'|Scaliger|s.xvi/xvii|Phot. α 400|apud Cant. ms. ΙΙ p. 23
