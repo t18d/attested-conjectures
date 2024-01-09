@@ -1155,10 +1155,12 @@ Phot. φ 143|-θεῖν-|φθῆναι|Cobet|1858|Σa Sud. codd. AGFM etc.|Mnem.
 Phot. φ 144|φθείσ-|φθήσεται|Cobet|1858|Σa+b Sud. etc.|Mnem. 7 (1858) 478
 Pi. I. 6.87a schol.|-ειν/-ων|συντέμνει|Petros N. Papageorgiu|1880|codd.|
 Pi. N. 6.27|ἄντα σκοποῦ|σκοποῦ ἄντα|Giovanni Luigi Mingarelli|pre-1772|P.Berol. inv. 16367|
+Pi. N. 10.48|π. τε χειρῶν (τε)|ποδῶν χειρῶν τε|E. Schmid|n.d.|P.Oxy. LXXV 5043|
 Pi. O. 1 schol. Inscr. a|ογ΄|οϛ΄|Bergk|1878|P.Oxy. II 222|Poet. Lyr. i. p.4
 Pi. O. 2.76|γᾶς|μέγας|Jan Cornelis de Pauw|1747|P.Oxy. XVII 2092|
 Pi. O. 6.77|ὄροις|ὄρος|Zacharias Callierges|1515|P.Oxy. XIII 1614|
 Pi. P. 3.166 schol.|ἐν κῷ|ἐν Ἴκῳ|Brodaeus|n.d.|DEGQ|Epigr. Gr. 1549 p. 372
+Pi. P. 6.14|-οι/-ος|τυπτόμενον|Dawes|n.d.|P.Oxy. LXXV 5039|
 Pi. Pae. 9.4|ἰσχὺν πτανὸν (ἀν)δράσιν|ἰσχύν τ'ἀνδράσι(ν)|Blass|n.d.|P.Oxy. V 841|
 Pl. Crit. 48e|πείσαι κτλ.|πείσας|Buttmann|n.d.|Vat. gr. 225 (V)|
 Pl. Phd. 82e|τῳ δεδέσθαι|τοῦ δεδέσθαι|Heindorf|1810|P.Lond.Lit. 145 (inv. 488)|
