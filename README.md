@@ -75,7 +75,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (56), Reiske (51), Bentley (51), Cobet (45), Brunck (45), Elmsley (43), Hermann (42) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (56), Reiske (52), Bentley (51), Cobet (45), Brunck (45), Elmsley (43), Hermann (42) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -114,6 +114,7 @@ Aeschin. 1.55|Ἡ-|ἡγήσανδρος|H. G. Hamaker|1858|fac|Mnem. 7 (1858) 4
 Aeschin. 1.62|ὅτι|ὅτε|Henri Estienne|1575|Paris. gr. 2947 (h)|
 Aeschin. 1.68|σπ-|στειριεὺς|Jacobus Palmerius|1668|Paris. gr. 2947 (h)|
 Aeschin. 1.73|κακῶς|καλῶς|Reiske|1771|Paris. suppl. gr. 660 (x)|pc
+Aeschin. 1.73|ἐῶν|οὐκ ἐ.|Reiske|1771|fac|
 Aeschin. 1.159|-ην|σωφροσύνης|Cobet|s.xix med.|Ambros. G 69 sup. (D)|
 Aeschin. 1.173|ἐξαιτήσ-|ἐξαιρήσεται|Blass|1896|P.Gen. I 256|
 Aeschin. 1.176|διισχ-|ἰσχθυρίζεσθαι|Hieronymus Wolf|1572|P.Gen. I 256|
@@ -127,7 +128,8 @@ Aeschin. 2.92|μουνο-/μουνυ-|μουνιχιῶνος|P. P. Dobree|s.xvi
 Aeschin. 2.102|δοκοίης ἂν|δοκοῖεν|Henri Estienne|1575|fpc|
 Aeschin. 2.116|-κεῖς|φωκέας|Friedrich Franke|1860|Laur. 60.4 (Flor.)|
 Aeschin. 2.138|om.|οὔπω|Scaliger|s.xvi/xvii|h et Flor.|
-Aeschin. 2.142|-οὶ|Βοιωτῶν|P. P. Dobree|s.xviii/xix|Marc. gr. 8.4 (e)|partim cum Reiskio
+Aeschin. 2.142|-οὶ|Βοιωτῶν|P. P. Dobree|s.xviii/xix|Marc. gr. VIII 4 (e)|partim cum Reiskio
+Aeschin. 2.158|προστρόπαιον|αὑτοῦ π.|Blass|1896|fac|
 Aeschin. 3.18|γέρα|ἱερὰ|P. P. Dobree|s.xviii/xix|P.Oxy. XIII 1625|ϊ[ε]ρα
 Aeschin. 3.18|γέρα|ἱερὰ|H. G. Hamaker|1859|P.Oxy. XIII 1625|ϊ[ε]ρα
 Aeschin. 3.20|τὸν ... σκυθρωπὸν|τῶν ... σκυθρωπῶν|Denys Lambin|s.xvi med.|P.Oxy. XIII 1625|
