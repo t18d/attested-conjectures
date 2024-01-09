@@ -990,7 +990,8 @@ Nonn. Dion. 15.87|οἰνηθέντες|οἰνωθεντες|Graefe|n.d.|P.Bero
 Nonn. Dion. 15.112|ἐλαίης|Ἀθήνης|Hermann Köchly|1858|P.Berol. inv. 10567|
 Nonn. Dion. 15.165|Βάκχοιο|Γλαύκοιο|Falkenburg|n.d.|P.Berol. inv. 10567|
 Nonn. Dion. 15.165|μαχητάς|μαχηταῖς|Hermann Köchly|1858|P.Berol. inv. 10567|
-Opp. C. 4.208|ἐρυϲϲάμενοι|ερειϲάμεν[οι|Johannes Pierson|1752|P.Oxy. LXXXI 5278|
+Opp. C. 4.199|ἴκ-|εἴκελος|Andreas Schott|s.xvi/xvii|P.Oxy. LXXXI 5278|
+Opp. C. 4.208|ἐρυϲϲάμενοι|ερειϲάμεν[οι|Johannes Pierson|1752|P.Oxy. LXXXI 5278|Verisimilium libri duo (1752) 174
 Orac. Sib. 516–517|516, 517|517, 516|Geffcken|n.d.|P.Flor. 398|
 P.Giss. 50.34|[|Σαλωνείνου Οὐαλεριανοῦ|Paul M. Meyer|1910|P.Oxy. X 1273|
 P.Lond. 256 recto(e) 10|[|ἀποχήν|Wilcken|1906|P.Oxy. VII 1024|χιρογρα̣φιαν Kenyon
