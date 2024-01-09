@@ -76,7 +76,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (56), Reiske (52), Bentley (51), Cobet (45), Brunck (45), Elmsley (43), Hermann (42) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (56), Reiske (52), Bentley (51), Cobet (45), Brunck (45), Elmsley (44), Hermann (42) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -246,6 +246,7 @@ Ar. Eccl. 1124|ἔχει/ἔχοι|ἔχῃ|Valckenaer|1757|Perus. H 56 (Λ)|tac
 Ar. Eq. 84b schol.|πλεῖον/πλείω|πλείους|Dindorf|1837|Estensis α.U.5.10 (E)|
 Ar. Eq. 143|ἐξολῶν|ἐξελῶν|Valckenaer|1757|Rav. 429 (R) et sch.|V. cites the scholia
 Ar. Eq. 424|-υον vel sim.|ἀπώμνυν|Bentley|s.xviii in.|G et Par 6|
+Ar. Eq. 726|om.|alterum ὦ|Elmsley|1809|P.Oxy. LXXIX 5196|
 Ar. Eq. 802|-ξῃς/-σῃς vel sim.|ἁρπάζῃς|Bentley|s.xviii in.|Paris. gr. 2715 (B)|
 Ar. Eq. 881|τηλικουτονί|τηλικοῦτον|Valckenaer|1757|Laur. 31.13 (X)|
 Ar. Eq. 895|τοῦ|τὸν|Bentley|s.xviii in.|Paris. gr. 2712 (A)|
@@ -1335,6 +1336,7 @@ Soph. OC 48|-ῶ/-ᾶν|δρᾷς|L. Peters|n.d.|Palat. gr. 287 (Zo)|
 Soph. OC 52|τίς δ ̓|τίς|Frederick H. M. Blaydes|n.d.|rZo|
 Soph. OC 72|μ-|σμικρὰ|Elmsley|n.d.|UY|
 Soph. OC 180|προσβίβαζε|προβίβαζε|Valckenaer|1743-6|r|
+Soph. OC 205|τίνα|τίν ̓ ἂν|Vauvilliers|1781|P.Oxy. LXXIX 5195|
 Soph. OC 213|γεγωνῶ|γεγώνω|Reiske|1743|Laur. 32. 9 (L) et Vat. gr. 2291 (R)|
 Soph. OC 278|μωροὺς/μοίραις/μοῖραν π.|μώρους ποιεῖσθε|Frederick H. M. Blaydes|n.d.|KR|
 Soph. OC 320|προϲτείχουϲα|προϲϲ-|Dindorf|n.d.|Laur. 31.10 (K)|s.l.
