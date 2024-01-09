@@ -76,7 +76,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (56), Reiske (52), Bentley (51), Cobet (45), Brunck (45), Elmsley (44), Hermann (42) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (56), Reiske (52), Bentley (51), Brunck (46), Cobet (45), Elmsley (44), Hermann (42) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -171,10 +171,13 @@ Ap. Rhod. 1.941|-τον|Ἄρκτων|Hoelzlin|1641|schLa|
 Ap. Rhod. 1.990|φράξαν|φράσσον|Fränkel|1961|P.Oxy. LXIV 4414|
 Ap. Rhod. 1.990|-ίοιο|ἀπειρεσίῃσι|A. Platt|1914|P.Oxy. LXIV 4414|Journ. of Phil. 33 (1914) 12–3
 Ap. Rhod. 2.119|μέλαν τεταγών|μάλ᾽ ἀντεταγών|Sanctamandus|n.d.|P.Oxy. XXXIV 2697|
+Ap. Rhod. 2.171|νεφ-|λαιφέων|Naber|n.d.|P.Oxy. LXXXIV 5417|
 Ap. Rhod. 2.177|βιθυνηίδι|θυνηίδι|Meineke|n.d.|schL lm.|
 Ap. Rhod. 2.217|ἧς|ᾗ|Brunck|1780|Et.|
+Ap. Rhod. 2.906|-νάσσατο|κατενίσσετο|Naber|n.d.|P.Oxy. LXXXIV 5417|ac
 Ap. Rhod. 2.921|ἔδυνε μέλαν|ἔδυ μέλανα|Bywater|n.d.|P.Oxy. XXXIV 2694|] μελανα
 Ap. Rhod. 2.926|-οντο|χεύαντο|Brunck|1780|Et.|
+Ap. Rhod. 2.989|ἔ. μέμηλε(ν)|ἔργα μεμήλει|Brunck|1780|P.Oxy. LXXXIV 5417|]γ̣’ ε̣μεμη̣λει
 Ap. Rhod. 2.1260|ἀλημο-|δαημοσύνῃσιν|d'Arnaud|1730|marg. E2|
 Ap. Rhod. 3.158|-ροιο|μεγάλοιο|Eduard Gerhard|1816|Strassb.|
 Ap. Rhod. 3.201|-μαδοί|πρόμαλοι|Henri Estienne|1574|Et.Gen. et EM|
