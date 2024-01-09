@@ -144,6 +144,8 @@ Aeschin. 3.57|ἀκούσωσι|ἀκούωσι|H. G. Hamaker|1859|P.Oxy. LX 404
 Aeschin. 3.59|ὑμῶν|ἡμῶν|Henri Estienne|1575|Laur. 60.4 (Flor.)|
 Aeschin. 3.63|ὑπὸ|ἀπὸ|Hieronymus Wolf|1572|Phillips 8077|
 Aeschin. 3.94|ὁρώντων|ζώντων|Georg Kaibel|s.xix ex.|P.Oxy. IV 703|ζων[
+Aeschin. 3.101|τῶν|τῷ|Andreas Weidner|1872|P.Oxy. LX 4048|
+Aeschin. 3.149|τοῦτο κ. τι|κήρυγμά τι τοῦτο|Blass|1896|Laur. 60.4 (Flor.)|
 Aeschin. 3.167|-θίζει/-θεστήσῃ κτλ.|προσκαθιζήσει|Lobeck|s.xix in.|P.Oxy. III 457|προσκαθ[ιζ]ησ[ει
 Alc. fr. 6.3|καὶ|ΚΕ’ΝΑ|J. F. A. Seidler|1829|P.Oxy. XV 1789|
 Alc. fr. 34|]ϲον|δεῦτέ μοι νᾶϲον|C. Gallavotti|1947|P.Mich. inv. 3498 + 3250b recto|δεῦτ̣[έ] μοι νᾶcον; Borges-Sampson (2012)
