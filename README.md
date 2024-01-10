@@ -430,8 +430,9 @@ Cic. Cael. 44|quondam|quoniam|A. Naugerius|1534|P.Lond.Lit 143|
 Cic. Cael. 45|om.|modo facimus non|Madvig|1887|Cv|p. 321
 Cic. Cael. 47|laborefiendi/labor confitendi|labor offendit|Madvig|1887|CvCii|p. 322
 Cic. Cael. 54|laborata|elaborata|Antonius Augustinus|1581|P.Lond.Lit 143|apud Ursinum
-Cic. Cael. 57|sic enim obiectum (est)|sic est enim obiectum|C. Halm|1856|CvCii|
+Cic. Cael. 57|sic enim obiectum (est)|sic est enim obiectum|Karl Halm|1856|CvCii|
 Cic. Cael. 58|ad eadem rem|ad eam rem|Madvig|1876|CvCii|p. 326
+Cic. Cael. 59|ibi/urbi|mihi|Orelli|1826/32|CvCbCii|
 Cic. Cael. 61|aiunt hoc|aiunt huic|Madvig|1887|CvCii|p. 321
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839-57|Poll. 10.50 S|
@@ -1372,7 +1373,7 @@ Soph. OC 205|τίνα|τίν ̓ ἂν|Vauvilliers|1781|P.Oxy. LXXIX 5195|
 Soph. OC 213|γεγωνῶ|γεγώνω|Reiske|1743|Laur. 32. 9 (L) et Vat. gr. 2291 (R)|
 Soph. OC 278|μωροὺς/μοίραις/μοῖραν π.|μώρους ποιεῖσθε|Frederick H. M. Blaydes|n.d.|KR|
 Soph. OC 320|προϲτείχουϲα|προϲϲ-|Dindorf|n.d.|Laur. 31.10 (K)|s.l.
-Soph. OC 383|-οι|ὅπῃ|Halm|n.d.|Palat. gr. 287 (Zo)|
+Soph. OC 383|-οι|ὅπῃ|Karl Halm|n.d.|Palat. gr. 287 (Zo)|
 Soph. OC 386|ὥραν|ὤραν|Turnebus|n.d.|l|
 Soph. OC 534|σοίτ’ ἄρ’/σαίτ’ ἄρ’|αὔτ’ ἄρ’|Markland|s.xviii med.|z|
 Soph. OC 566|σ’|del.|Johannes Pierson|s.xviii med.|Laur. 31.10 (K) et a|
@@ -1393,7 +1394,7 @@ Soph. OC 1596|κἀπὸ|κἀπὶ|Canter|n.d.|Laur. 31.10 (K)|
 Soph. OC 1619|βίοτον/βίωτον|τοῦ βίου|Fröhlich|n.d.|Sud. s.v. τητᾶσθαι|
 Soph. OC 1682|φαινόμεναι|φερόμεναι|Hermann|n.d.|t|
 Soph. OC 1728|ἔγωγε|ἐγώ|Nauck|n.d.|Palat. gr. 287 (Zo)|
-Soph. OC 1735|ποῖ|πῇ|Halm|n.d.|Laur. 31.10 (K)|
+Soph. OC 1735|ποῖ|πῇ|Karl Halm|n.d.|Laur. 31.10 (K)|
 Soph. OC 1736|τλάμονων|τλάμον ̓|Hermann|n.d.|r|
 Soph. OC 1736|ἕξω/ἔξω|ἄξω|Frederick H. M. Blaydes|n.d.|Laur. 31.10 (K)|
 Soph. OT 75|χρόνου|-ον|Purgold|n.d.|Marc. gr. 468 (V)|
