@@ -1297,7 +1297,7 @@ Soph. Ant. 687|χἀτέρῳ|χἀτέρᾳ|Samuel Musgrave|s.xviii med.|Laur. 
 Soph. Ant. 687|χἀτέρῳ|χἀτέρως|Hermann|n.d.|Vat. gr. 2291 (R)|
 Soph. Ant. 695|ἀπ’|ἐπ’|Johannes Pierson|s.xviii med.|Paris. gr. 2712 (A)|
 Soph. Ant. 828|-ῳ|ὄμβρος|Gleditsch|n.d.|Vat. gr. 1333 (Zc)|s.l.
-Soph. Ant. 831|θ' … -αύστοις|δ' … παγκλαύτοις|Bothe|n.d.|KS|
+Soph. Ant. 831|θ' … -αύστοις|δ' … παγκλαύτοις|F. H. Bothe|n.d.|KS|
 Soph. Ant. 836|-ῃ/-ῳ/-αν|φθιμένᾳ|Johannes Pierson|s.xviii med.|Laur. 32. 9 (L) et a|
 Soph. Ant. 848|ἔργμα|ἕρμα|Hermann|n.d.|Urb. gr. 141 (S)|
 Soph. Ant. 859|οἶκτον|οἶτον|Brunck|1786-9|Kpc|
@@ -1439,7 +1439,7 @@ Soph. Phil. 256|που|πω|Markland|s.xviii med.|Marc. gr. 468 (V)|
 Soph. Phil. 266|τῆσδ ̓|τῆς|Auratus|n.d.|Zopc|
 Soph. Phil. 272|κτῆμα|χρῆμα|Frederick H. M. Blaydes|n.d.|Paris. suppl. gr. 109 (Q)|
 Soph. Phil. 306|ἀνθρώπων|-ῷ|Frederick H. M. Blaydes|n.d.|Paris. gr. 2712 (A)|
-Soph. Phil. 361|πρὸς φίλους|προσφιλῶς|Bothe|n.d.|Vat. gr. 2291 (R)|
+Soph. Phil. 361|πρὸς φίλους|προσφιλῶς|F. H. Bothe|n.d.|Vat. gr. 2291 (R)|
 Soph. Phil. 481|-ῃ/-ου|ὅποι|Wakefield|n.d.|KZo|
 Soph. Phil. 496|πέμψαντα|πλεύσαντα|Frederick H. M. Blaydes|n.d.|Sγρ|
 Soph. Phil. 496|-οις|δόμους|Wunder|n.d.|Paris. suppl. gr. 109 (Q)|
@@ -1462,7 +1462,7 @@ Soph. Phil. 1028|ἐξέβαλον/ἔκβαλον/ἐκβάλλον|ἔβαλο
 Soph. Phil. 1032|ἐμοῦ|ὁμοῦ|Gernhard|n.d.|Gγρ|
 Soph. Phil. 1079|ὁρμώμεθον|-μεθα|Elmsley|n.d.|Urb. gr. 141 (S)|
 Soph. Phil. 1095|οὐκ|κοὐκ|Erfurdt|n.d.|SQ|
-Soph. Phil. 1138|ὅσ ̓|ὅς|Bothe|n.d.|Marc. gr. 468 (V)|
+Soph. Phil. 1138|ὅσ ̓|ὅς|F. H. Bothe|n.d.|Marc. gr. 468 (V)|
 Soph. Phil. 1144|ἐφημοσύνᾳ/εὐφ-|ὑφ-|Hermann|n.d.|Marc. gr. 616 (Zr)|
 Soph. Phil. 1238|ταῦτα|ταὐτὰ|Markland|s.xviii med.|LGRS|
 Soph. Phil. 1243|τοῖσδ ̓|τοῖς|Buttmann|n.d.|z|
