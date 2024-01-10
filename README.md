@@ -77,7 +77,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (57), Reiske (52), Bentley (51), Brunck (48), Cobet (45), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (57), Reiske (52), Bentley (52), Brunck (48), Cobet (45), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -943,8 +943,9 @@ Hom. Od. 10.19|δῶκε δέ μοι ἐκδ-|δῶκέ μοι ἐκδείρας
 Hom. Od. 11.393|ἔτ’ ἦν|εην|Nauck|1874|P. CtYBR inv. 5128|
 Hom. Od. 23.192|ὄφρ’ ἐτέλεσσα|οφρα τελεσ[σα|Bekker|1858|P.Oxy. III 448|
 Hom. Od. 24.209|ἠδὲ ἴαυον|ἠδ’ ενϊαυον|Nauck|1874|P.Ryl. 53|
+Hor. ars 277|quae|qui|Bentley|1711|recc.|
 Hor. carm. 2.11.19|-guet|restinguit|Bothe|n.d.|Reg. lat. 1703 (R)|
-Hor. carm. 3.27.38|-um|uirginis|Markland|n.d.|Montepess. H 425 (μ)|
+Hor. carm. 3.27.38|-um|uirginis|Markland|n.d.|Montepess. H 425 (μ)|var.
 Hsch. α 2737|παλαιός|μάταιος|F. W. Schmidt|1886|Cyrill. ph|Krit. St. 1,112
 Hsch. α 2737|ἀλαιός|ἀλεός|Gottfried Sopingius|s.xvi/xvii|Cyrill. ph|apud Schrevelius/Alberti
 Hsch. κ 4905|καμίκην|Καμικοῖς|Johann Alberti|1766|Cyrill.|
