@@ -597,7 +597,7 @@ Eur. Hipp. 554|τλάμον/τλᾶμον|τλάμων|Benjamin Heath|n.d.|Vat. 
 Eur. Hipp. 560|διογ-|διγόνοιο|Scaliger|n.d.|γρΣb|
 Eur. Hipp. 584|ἰαχὰν|ιαν|Weil|n.d.|P.Oxy. XIX 2224|
 Eur. Hipp. 659|ἔκδημος|ἐκδημῆ|Hermann|n.d.|DB2|
-Eur. Hipp. 814|ὦ βιαίως|βιαίω|Bothe|1802|Laur. 31.15 (D)|
+Eur. Hipp. 814|ὦ βιαίως|βιαίω|F. H. Bothe|1802|Laur. 31.15 (D)|
 Eur. Hipp. 1070|ἧπαρ δακρύων τ'|ἧπαρ· δακρύων|Wilamowitz|n.d.|HnOx|
 Eur. Hipp. 1255|-ραὶ|συμφορὰ|Elmsley|n.d.|Laur. 31.10 (O)|
 Eur. Hipp. 1317|-póv|ἐχθρῶν|Elmsley|n.d.|V3|
@@ -608,7 +608,7 @@ Eur. IA 793|οὐλο-|ολο̣[μενας|Burges|n.d.|P.Leid. inv. 510|
 Eur. IA 804|πύλας|πελ̣[ας|Joshua Barnes|n.d.|P.Köln II 67|
 Eur. IT 252|καὶ τυχ-|κἀντυχόντες|Reiske|1753-4|P.Hib. I 24|
 Eur. IT 587|γε|τὰ|Hermann|n.d.|P.Hib. I 24|]τ̣α
-Eur. IT 618|τήνδε|τῆσδε|Bothe|n.d.|P.Hib. I 24|
+Eur. IT 618|τήνδε|τῆσδε|F. H. Bothe|n.d.|P.Hib. I 24|
 Eur. Ion 1428|ἢ|ἣ|Brodaeus|n.d.|Laur. 32.3 (L)|
 Eur. Med. 12|πολιτῶν|πολίταις|Joshua Barnes|n.d.|V3|
 Eur. Med. 140|ὁ|τὸν|Samuel Musgrave|1778|HE|
@@ -696,7 +696,7 @@ Eur. Or. 1002|ἀελ- κτλ.|αλιου|Porson|n.d.|P.Oxy. LX 4014|
 Eur. Or. 1011a|ἤλυθε|ἦλθεν|Brunck|n.d.|Vat. gr. 909 (V)|
 Eur. Or. 1035|δ᾽ ἢ|δὴ|Elmsley|n.d.|Zm1γρ|
 Eur. Or. 1037|νῦν|νυν|Scaliger|n.d.|Tc|
-Eur. Or. 1047|με τήξεις|μ᾽ ἔτηξας|Bothe|1825|Zd1c|
+Eur. Or. 1047|με τήξεις|μ᾽ ἔτηξας|F. H. Bothe|1825|Zd1c|
 Eur. Or. 1092|λέχος|λ. γ'|Joshua Barnes|n.d.|Laur. conv. soppr. 66 (K)|
 Eur. Or. 1114|ὥσθ᾽|ὡς|Wecklein|n.d.|Escor. gr. X.1.13 (gE)|
 Eur. Or. 1148|σπάσω μέλαν|σπασώμεθα|Adolf Kirchhoff|n.d.|γρCPr|
