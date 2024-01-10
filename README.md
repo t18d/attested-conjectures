@@ -24,6 +24,7 @@
         <li>Callimachus, <em>Hymni et Epigrammata</em>, ed. Rudolf Pfeiffer (Oxford, 1953).</li>
         <li>Callimachus, <em>The Hymns</em>, ed. Susan A. Stephens (Oxford, 2015).</li>
         <li>Chariton Aphrodisiensis, <em>De Callirhoe Narrationes Amatoriae</em>, ed. B. P. Reardon (Munich, 2004).</li>
+        <li>Cicero, M. Tullius, <em>Pro A. Cluentio Habito oratio</em>, ed. Silvia Rizzo (Rome, 1991).</li>
         <li>Cicero, M. Tullius, <em>Oraliones in P. Vatinium testem et pro M. Caelio</em>, ed. Tadeusz Maslowski (Stuttgart, 1995).</li>
         <li>Cicero, M. Tullius, <em>Oraliones in L. Catilinam quattuor</em>, ed. Tadeusz Maslowski (Munich, 2003).</li>
         <li>Demosthenes, <em>Orationes</em>, ed. M. R. Dilts, 4 vols (Oxford, 2002–9).</li>
