@@ -24,6 +24,7 @@
         <li>Callimachus, <em>Hymni et Epigrammata</em>, ed. Rudolf Pfeiffer (Oxford, 1953).</li>
         <li>Callimachus, <em>The Hymns</em>, ed. Susan A. Stephens (Oxford, 2015).</li>
         <li>Chariton Aphrodisiensis, <em>De Callirhoe Narrationes Amatoriae</em>, ed. B. P. Reardon (Munich, 2004).</li>
+        <li>Cicero, M. Tullius, <em>Oraliones in P. Vatinium testem et pro M. Caelio</em>, ed. Tadeusz Maslowski (Stuttgart, 1995).</li>
         <li>Demosthenes, <em>Orationes</em>, ed. M. R. Dilts, 4 vols (Oxford, 2002–9).</li>
         <li>Diggle, James, 'Apologies to Bothe (and Others)', in <em>Euripidea: collected essays</em> (Oxford, 1994), 518–23.</li>
         <li>El-Maghrabi, M. G., and C. Römer (eds), <em>Texts from the "Archive" of Socrates, the Tax Collector, and Other Contexts at Karanis (P. Cair. Mich. II)</em> (Berlin, 2015), 48.</li>
@@ -59,6 +60,7 @@
         <li>Photius, <em>Patriarchae lexicon</em>, ed. Christos Theodoridis, 3 vols (Berlin, 1982–2013).</li>
         <li>Radt, Stefan (ed.), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, iii: <em>Aeschylus</em> (Göttingen, 1985).</li>
         <li>Radt, Stefan (ed.), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, iv: <em>Sophocles</em> (2nd edn, Göttingen, 1999).</li>
+        <li>Reynolds, L. D. (ed.), <em>Texts and Transmission: A Survey of the Latin Classics</em> (Oxford, 1983).</li>
         <li>Sappho and Alcaeus, <em>Fragmenta</em>, ed. Eva-Maria Voigt (Amsterdam, 1971).</li>
         <li>Snell, Bruno, and Richard Kannicht (eds), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, i: <em>Didascaliae tragicae; Catalogi tragicorum et tragoediarum; Testimonia et fragmenta tragicorum minorum</em> (Göttingen, 1986).</li>
         <li>Sommerstein, Alan H., 'The history of the text of Aristophanes', in <em>Brill's Companion to the Study of Greek Comedy</em> (Brill, 2010), 399–422 at 412n69.</li>
