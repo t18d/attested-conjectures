@@ -825,7 +825,7 @@ Eur. Ph. 1363|-μαχοῦντ᾽|μονομάχου τ᾽|Johannes Pierson|n.d.
 Eur. Ph. 1369|-ῶ|αἰτῶν|Canter|n.d.|ZcZuc|
 Eur. Ph. 1383|-θαίνοι|ἐξολισθάνοι|Porson|n.d.|RS|
 Eur. Ph. 1384|-σχόντ'|ὑπερσχὸν|Scaliger|n.d.|Marc. gr. 468 (F)|
-Eur. Ph. 1388|ἐϲτάλαϲϲ'|-λαζ'|Bothe|1825|RWZ|
+Eur. Ph. 1388|ἐϲτάλαϲϲ'|-λαζ'|F. H. Bothe|1825|RWZ|
 Eur. Ph. 1402|δ' (prius)|τ'|Valckenaer|n.d.|Athos Iviron 209 (W)|
 Eur. Ph. 1424|κοὐ|καὶ|Denniston|n.d.|Escor. gr. X.1.13 (gE)|
 Eur. Ph. 1425|-πους ὅσον/-που σὸς ὤν|οἰδίπου σ' ὅσον|Hermann|n.d.|B2Xd|
@@ -835,7 +835,7 @@ Eur. Ph. 1502|τάδε σώματα|τάδ᾽ αἵματα|Markland|n.d.|Wc|
 Eur. Ph. 1502|τάδε σώματα|τάδ᾽ αἵματα|Samuel Musgrave|n.d.|Wc|
 Eur. Ph. 1508|πάτερ|del.|Hermann|n.d.|P.Strasb. inv. WG 307|
 Eur. Ph. 1520–1|ἀεὶ|αἰεὶ|J. F. A. Seidler|n.d.|Cremon. 130 (Cr)|
-Eur. Ph. 1522–3|-οισι(ν)|λειβομένοισιν|Bothe|1803|P.Strasb. inv. WG 307|
+Eur. Ph. 1522–3|-οισι(ν)|λειβομένοισιν|F. H. Bothe|1803|P.Strasb. inv. WG 307|
 Eur. Ph. 1522–3|ἰαχήσω|del.|Burges|n.d.|P.Strasb. inv. WG 307|
 Eur. Ph. 1522–3|ἰαχήσω|del.|Dindorf|n.d.|P.Strasb. inv. WG 307|
 Eur. Ph. 1524|-οῖσιν|σπαραγμοῖς|Aldina|n.d.|WZ|
@@ -855,13 +855,13 @@ Eur. Ph. (a) 7|ὑπὸ|ὑπὲρ|Wecklein|n.d.|Cremon. 130 (Cr)|
 Eur. Ph. (a) 8|-ξάμ-|παραταξόμενος|G. H. Schaefer|n.d.|P.Oxy. XXXI 2544|
 Eur. Ph. (a) 10-11|ἐβούλετο|ἐβουλεύετο|Adolf Kirchhoff|n.d.|Marc. gr. 468 (F)|
 Eur. Ph. (a) 10-11|ἀπέσφαξε(ν)|ἀποσφάξαι|Valckenaer|n.d.|PrRf|
-Eur. Ph. (a) 20|λογοποιήσας|λόγον ποιήσας|Bothe|n.d.|Ambros. L 39 sup. (G)|
+Eur. Ph. (a) 20|λογοποιήσας|λόγον ποιήσας|F. H. Bothe|n.d.|Ambros. L 39 sup. (G)|
 Eur. Rh. 63|ἦν|η|Cobet|n.d.|P.Achm. 4|
 Eur. Rh. 78|πῦρ αἴθειν/πυραίθειν|πύρ᾽ αἴθειν|Reiske|n.d.|P.Achm. 4|
 Eur. Rh. 108|σὲ … τοὺς δὲ|σοὶ … τοῖς δὲ|Henri Estienne|n.d.|fere Chr. Pat. 2370|
 Eur. Rh. 131|μετατιθ-|μεταθέμενος|Samuel Musgrave|n.d.|Haun. 417 (Hn)|
 Eur. Rh. 325|-ταις|κυνηγέτης|Elmsley|n.d.|Escor. gr. X.1.13 (gE)|
-Eur. Rh. 398|-ων|πολεμίωι|Bothe|1826|Va1s|
+Eur. Rh. 398|-ων|πολεμίωι|F. H. Bothe|1826|Va1s|
 Eur. Rh. 429|πορθμεύσων/-εύσας|-εῦσαι|Aldina|n.d.|Harl. 5743 (Q)|
 Eur. Rh. 482|νῦν|νυν|Scaliger|n.d.|Athos Vatopediou 36 (gV)|
 Eur. Rh. 685|ἴστω|ἵστω|Aemilius Portus|n.d.|Σl|
@@ -1233,7 +1233,7 @@ Simon. fr. 20.9|νηπίοισι|νή]πιοι|Joachim Camerarius|1551|P.Oxy. LI
 Simon. fr. 20.10|βιότου|βιότοι'|Joachim Camerarius|1551|P.Oxy. LIX 3965|
 Simon. fr. 25.5|χεέτω|χείτω|M. L. West|1989|P.Oxy. LXXXI 5261|
 Soph. Aj. 98|ὥστ'|ὡς|Elmsley|n.d.|Paris. suppl. gr. 109 (Q)|
-Soph. Aj. 135|-άλου|ἀγχίαλον|Bothe|n.d.|Laur. 32.40 (H)|
+Soph. Aj. 135|-άλου|ἀγχίαλον|F. H. Bothe|n.d.|Laur. 32.40 (H)|
 Soph. Aj. 146|λοιπή|κοινή|Henrik van Herwerden|n.d.|Gγρ|
 Soph. Aj. 181|μαχαναῖς|μη-|G. Wolff|1858-65|Laur. 32.40 (H)|
 Soph. Aj. 211|δορι-/δορυ-|δουριάλωτον|Brunck|n.d.|Livineii 'V'|
