@@ -726,10 +726,10 @@ Eur. Or. 1448b|-αις|στέγας|Charles Willink|1986|Cremon. 130 (Cr)|
 Eur. Or. 1448b|ἐν|del.|Charles Willink|1986|Ambros. C 44 sup. (Aa)|
 Eur. Or. 1459a|δίνασεν|δίνησεν|Frederick H. M. Blaydes|n.d.|Vat. gr. 1824 (Zv)|
 Eur. Or. 1461|ἀντίοι|-ίον|Frederick H. M. Blaydes|n.d.|B3s et CrXa|
-Eur. Or. 1462|κατθανῆι κατθανῆι|κατθανῆ|Bothe|1803|Palat. gr. 98 (Va)|
-Eur. Or. 1473|δῆτ'|δ' ἦτ'|Bothe|1825|F2AtRf|
-Eur. Or. 1479|-ε|ἦλθεν|Bothe|1803|OZ|
-Eur. Or. 1501|ἀνασχ-|ἀνσχόμενος|Bothe|1803|Athos Dionysiou 334 (Ad)|
+Eur. Or. 1462|κατθανῆι κατθανῆι|κατθανῆ|F. H. Bothe|1803|Palat. gr. 98 (Va)|
+Eur. Or. 1473|δῆτ'|δ' ἦτ'|F. H. Bothe|1825|F2AtRf|
+Eur. Or. 1479|-ε|ἦλθεν|F. H. Bothe|1803|OZ|
+Eur. Or. 1501|ἀνασχ-|ἀνσχόμενος|F. H. Bothe|1803|Athos Dionysiou 334 (Ad)|
 Eur. Or. 1539n|ἡμ.|del.|Adolf Kirchhoff|n.d.|OCZ|
 Eur. Or. 1541n|ἡμ.|del.|Adolf Kirchhoff|n.d.|MZ|
 Eur. Or. 1549n|Χο.|del.|Adolf Kirchhoff|n.d.|PrZ|
@@ -746,8 +746,8 @@ Eur. Ph. 61|εἰς|ε̣ς|Valckenaer|n.d.|P.Oxy. XLVII 3322|
 Eur. Ph. 76|-ην|πολυνείκη|Elmsley|n.d.|Athos Vatopediou 671 (At)|
 Eur. Ph. 86|-τὸν|βροτῶν|Markland|n.d.|Ambros. F 74 sup. (Ab)|teste Burges, ClJ 25 (1822) 342
 Eur. Ph. 86|-τὸν|βροτῶν|Valckenaer|n.d.|Ambros. F 74 sup. (Ab)|coll. Rh. 106
-Eur. Ph. 103|νῦν|νυν|Bothe|1823|Vat. gr. 51 (Zb)|
-Eur. Ph. 115|-νέοις|λαϊνέοισιν|Bothe|1803|Σ Thom. S. Ai. 596|
+Eur. Ph. 103|νῦν|νυν|F. H. Bothe|1823|Vat. gr. 51 (Zb)|
+Eur. Ph. 115|-νέοις|λαϊνέοισιν|F. H. Bothe|1803|Σ Thom. S. Ai. 596|
 Eur. Ph. 134 schol.|εἰμὶ|εἶμι|Bentley|1693|Taur. B IV 13|
 Eur. Ph. 136|-τας|αὐτοκασιγνήται|Reiske|n.d.|P.Lond.Lit. 75|
 Eur. Ph. 188|Ἀμυμωνίοις|τ᾽ ἀμυμ-|F. A. Paley|1879|RfP2|
@@ -763,7 +763,7 @@ Eur. Ph. 361|δὲ τάρβους|δ᾽ ἐτάρβης᾽|Hermann|n.d.|Vindob. 
 Eur. Ph. 363|-εος|ἄστεως|Dindorf|n.d.|Fauor. de exil. 7.2|
 Eur. Ph. 378|-νες|τλήμονος|Markland|n.d.|manus Triclinii s.l.|
 Eur. Ph. 381|φῦναί|-σαί|Hermann|n.d.|fere FcRwZu|
-Eur. Ph. 386|ταῦτ᾽|ταὔτ᾽|Bothe|1825|fere AS|
+Eur. Ph. 386|ταῦτ᾽|ταὔτ᾽|F. H. Bothe|1825|fere AS|
 Eur. Ph. 403|τις δυστυχῆι|τι δυστυχῆις|Elmsley|n.d.|Σ anon.|
 Eur. Ph. 420|θηρσὶ|θηρσὶν|Valckenaer|n.d.|AC|
 Eur. Ph. 436|habent|del.|Nauck|n.d.|P.Oxy. LX 4012|
