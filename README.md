@@ -419,9 +419,12 @@ Charito 8.7.2|ὅτε|ποτε|Reiske|1750|codex Thebanus|
 Choerob. in Theod. p. 231.6-7|Παλάμ-|Πάλμυδος|Dindorf|1864|Marc. 489 (V)|Gr. Gr. iv/1 Hilg.; ThGL 6,108 D
 Choerob. in Theod. p. 268.35|λινό-|αἰνοτάλαντα|Bekker|1821|Marc. 489 (V)|Gr. Gr. iv/1 Hilg.
 Choerob. in Theod. p. 352.11|-τήτειρα|ὀπτῆρα|A. F. Naeke|1845|Coisl. 176 (Bekker)|Gr. Gr. iv/1 Hilg.
+Cic. Cael. 41|et interdum|interdum|Madvig|1828|CvCii|appendix p. 47
 Cic. Cael. 43|liquet|libet|Madvig|1887|P.Lond.Lit 143|p. 320
 Cic. Cael. 45|om.|modo facimus non|Madvig|1887|Cv|p. 321
 Cic. Cael. 47|laborefiendi/labor confitendi|labor offendit|Madvig|1887|CvCii|p. 322
+Cic. Cael. 58|ad eadem rem|ad eam rem|Madvig|1876|CvCii|p. 326
+Cic. Cael. 61|aiunt hoc|aiunt huic|Madvig|1887|CvCii|p. 321
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839-57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
