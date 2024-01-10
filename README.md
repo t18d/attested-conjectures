@@ -420,6 +420,10 @@ Choerob. in Theod. p. 231.6-7|Παλάμ-|Πάλμυδος|Dindorf|1864|Marc. 48
 Choerob. in Theod. p. 268.35|λινό-|αἰνοτάλαντα|Bekker|1821|Marc. 489 (V)|Gr. Gr. iv/1 Hilg.
 Choerob. in Theod. p. 352.11|-τήτειρα|ὀπτῆρα|A. F. Naeke|1845|Coisl. 176 (Bekker)|Gr. Gr. iv/1 Hilg.
 Cic. Cael. 11|is|del.|I. C. Vollgraff|1887|Cv|
+Cic. Cael. 15|pudicitiae|impu-|G. Garatoni|1787|Cv|
+Cic. Cael. 18|rei ρ. c.|publica causa|C. M. Francken|1880|CvCii|
+Cic. Cael. 21|vos|del.|G. Garatoni|1787|Cv|
+Cic. Cael. 37|dide/dede/dideae ac disce|dide ac dissice|Puteanus|n.d.|Cv|
 Cic. Cael. 41|et interdum|interdum|Madvig|1828|CvCii|appendix p. 47
 Cic. Cael. 43|liquet|libet|Madvig|1887|P.Lond.Lit 143|p. 320
 Cic. Cael. 45|om.|modo facimus non|Madvig|1887|Cv|p. 321
