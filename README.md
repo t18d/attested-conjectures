@@ -423,11 +423,14 @@ Cic. Cael. 11|is|del.|I. C. Vollgraff|1887|Cv|
 Cic. Cael. 15|pudicitiae|impu-|G. Garatoni|1787|Cv|
 Cic. Cael. 18|rei ρ. c.|publica causa|C. M. Francken|1880|CvCii|
 Cic. Cael. 21|vos|del.|G. Garatoni|1787|Cv|
-Cic. Cael. 37|dide/dede/dideae ac disce|dide ac dissice|Puteanus|n.d.|Cv|
+Cic. Cael. 37|dide/dede/dideae ac disce|dide ac dissice|Erycius Puteanus|n.d.|Cv|
 Cic. Cael. 41|et interdum|interdum|Madvig|1828|CvCii|appendix p. 47
 Cic. Cael. 43|liquet|libet|Madvig|1887|P.Lond.Lit 143|p. 320
+Cic. Cael. 44|quondam|quoniam|A. Naugerius|1534|P.Lond.Lit 143|
 Cic. Cael. 45|om.|modo facimus non|Madvig|1887|Cv|p. 321
 Cic. Cael. 47|laborefiendi/labor confitendi|labor offendit|Madvig|1887|CvCii|p. 322
+Cic. Cael. 54|laborata|elaborata|Antonius Augustinus|1581|P.Lond.Lit 143|apud Ursinum
+Cic. Cael. 57|sic enim obiectum (est)|sic est enim obiectum|C. Halm|1856|CvCii|
 Cic. Cael. 58|ad eadem rem|ad eam rem|Madvig|1876|CvCii|p. 326
 Cic. Cael. 61|aiunt hoc|aiunt huic|Madvig|1887|CvCii|p. 321
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
