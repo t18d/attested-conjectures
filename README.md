@@ -438,7 +438,7 @@ Cic. Cael. 61|aiunt hoc|aiunt huic|Madvig|1887|CvCii|p. 321
 Cic. Cael. 61|iam iam|iam|G. Oetling|1868|CvCbCi|ed. Romana
 Cic. Cael. 71|afraria|aeraria|G. Garatoni|1787|Cv|
 Cic. Cael. 78|sit|est|J. G. Baiter|1856|Cv|Baiter-Halm p. 1452
-Cic. Cluent. 199|nomen et iura|iura|Madvig|1871|CvCii|Adv. I 89 sq.
+Cic. Cluent. 199|nomen et iura|iura|Madvig|1871|Paris. lat. 18104 (X)|Adv. I 89 sq.
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839-57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
