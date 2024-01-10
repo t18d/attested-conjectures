@@ -944,8 +944,8 @@ Hom. Od. 11.393|ἔτ’ ἦν|εην|Nauck|1874|P. CtYBR inv. 5128|
 Hom. Od. 23.192|ὄφρ’ ἐτέλεσσα|οφρα τελεσ[σα|Bekker|1858|P.Oxy. III 448|
 Hom. Od. 24.209|ἠδὲ ἴαυον|ἠδ’ ενϊαυον|Nauck|1874|P.Ryl. 53|
 Hor. ars 277|quae|qui|Bentley|1711|recc.|
-Hor. carm. 2.11.19|-guet|restinguit|Bothe|n.d.|Reg. lat. 1703 (R)|
-Hor. carm. 3.27.38|-um|uirginis|Markland|n.d.|Montepess. H 425 (μ)|var.
+Hor. carm. 2.11.19|-guet|restinguit|F. H. Bothe|1820|Reg. lat. 1703 (R)|
+Hor. carm. 3.27.38|-um|uirginis|Markland|1723|Montepess. H 425 (μ)|var.
 Hsch. α 2737|παλαιός|μάταιος|F. W. Schmidt|1886|Cyrill. ph|Krit. St. 1,112
 Hsch. α 2737|ἀλαιός|ἀλεός|Gottfried Sopingius|s.xvi/xvii|Cyrill. ph|apud Schrevelius/Alberti
 Hsch. κ 4905|καμίκην|Καμικοῖς|Johann Alberti|1766|Cyrill.|
