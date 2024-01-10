@@ -19,6 +19,7 @@
         <li>Aristophanes, <em>Fabulae</em>, ed. N. G. Wilson, 2 vols (Oxford, 2007).</li>
         <li>Apollonius Rhodius, <em>Argonautica</em>, ed. Hermann Fränkel (Oxford, 1961).</li>
         <li>Borges, Cassandra, and C. Michael Sampson, <em>New literary papyri from the Michigan collection: mythographic lyric and a catalogue of poetic first lines</em> (Ann Arbor, 2012), 20.</li>
+        <li>Brink, C. O. (= K. O.), <em>Horace on Poetry</em> (Cambridge, 1971).</li>
         <li>Callimachus, <em>Fragmenta</em>, ed. Rudolf Pfeiffer (Oxford, 1949).</li>
         <li>Callimachus, <em>Hymni et Epigrammata</em>, ed. Rudolf Pfeiffer (Oxford, 1953).</li>
         <li>Callimachus, <em>The Hymns</em>, ed. Susan A. Stephens (Oxford, 2015).</li>
@@ -38,6 +39,7 @@
         <li>Herodotus, <em>Historiae</em>, ed. N. G. Wilson, 2 vols (Oxford, 2015).</li>
         <li>Homerus, <em>Ilias</em>, ed. Martin L. West, 2 vols (Munich, 1998–2000).</li>
         <li>Homerus, <em>Odyssea</em>, ed. Martin L. West (Berlin, 2017).</li>
+        <li>Horatius Flaccus, Q., <em>Opera</em>, i: <em>Carminum libri IIII, epodon liber, carmen saeculare</em>, ed. Otto Keller (Leipzig, 1899).</li>
         <li>Kannicht, Richard (ed.), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, v: <em>Euripides</em> (Göttingen, 2004).</li>
         <li>Kassel, R., and C. Austin (eds), <em>Poetae comici Graeci (PCG)</em>, iv: <em>Aristophon — Crobylus</em> (Berlin, 1983).</li>
         <li>Kassel, R., and C. Austin (eds), <em>Poetae comici Graeci (PCG)</em>, iii/2: <em>Aristophanes: Testimonia et Fragmenta</em> (Berlin, 1984).</li>
