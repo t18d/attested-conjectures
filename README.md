@@ -478,6 +478,10 @@ Cic. orat. 160|pyrrhum etc.|phrygum|C. G. Schütz|1807|R Bud.|
 Cic. orat. 180|omnes|communes|P. Manutius|1546|Barcin. bibl. univ. 12 (B)|
 Cic. orat. 183|dimensa ratio/demensur-|dimensuratio|Thomas Stangl|1885|Δ Φ J|
 Cic. orat. 194|-ius|uitiosus|P. Manutius|1546|P1 J|
+Cic. orat. 198|aut ne|ut ne|C. G. Schütz|1807|B Q|
+Cic. orat. 222|nodi|modi|J. Stroux|1913|B N Q|
+Cic. orat. 232|-atur|corrumpetur|Christian Hörner|1885|Θ B|ap. Stangl
+Cic. orat. 233|-it|fuerat|Denys Lambin|1566|Barcin. bibl. univ. 12 (B)|
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839-57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
