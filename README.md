@@ -448,6 +448,7 @@ Cic. Catil. 2.4|etiam tum reprobatam|etiam tum re probata|A. C. Clark|1905|Pap. 
 Cic. Catil. 4.15|in c. c.|consulatu confirmatam|Friedrich Richter|1861|Laur. 50.45 (x)|
 Cic. Cluent. 183|Strato … dixit|Stratonem … dixisse|Ch. G. Schütz|1815|cod. Cluny (C)|
 Cic. Cluent. 199|nomen et iura|iura|Madvig|1871|Paris. lat. 18104 (X)|Adv. I 89 sq.
+Cic. Tim. 14|-unt|fuerant|Denys Lambin|1665-6|Vindob. lat. 189 (V)|
 Cic. div. 1.20|post|prius|Janus Gulielmus|s.xvi med.|Phillipp. 1794 (L)|apud Gruter
 Cic. div. 1.20|exces(s)um|excelsum|Denys Lambin|1665-6|Merton. 311|
 Cic. div. 1.21|ac/at|et|Hottinger|1793|Palat. lat. 1519 (P)|
