@@ -88,7 +88,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (57), Reiske (52), Bentley (52), Brunck (48), Cobet (45), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (57), Bentley (53), Reiske (52), Brunck (48), Cobet (45), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1315,6 +1315,9 @@ Sen. Med. 677|effudit|effundit|Nicolaus Heinsius|s.xviii med.|P.Mich. inv. 4969 
 Sen. dial. 5.14.6|praeciperet. quem|praeciperet ei quem|Friedrich Haase|1852|Laur. 76.32 (L)|
 Sen. dial. 5.19.5|adest|id est|Muretus|n.d.|Laur. 76.32 (L)|
 Sen. dial. 5.23.6|inignem p.|in igne posuit|Madvig|1871|Laur. 76.32 (L)|
+Sen. dial. 5.33.3|-parandum|computandum|Pincianus|n.d.|Laur. 76.32 (L)|
+Sen. dial. 6.5.4|conuertistite|conuertis te|Pincianus|n.d.|Laur. 76.41 (F)|
+Sen. dial. 6.9.4|-us|perituras|Bentley|n.d.|dett.|
 Sen. epist. 48.6|sci-|inscientia|Lipsius|1605|P2|
 Sen. epist. 52.5|-abunt|lassarunt|Lipsius|1605|Vat. 2207 (Chatelain)|
 Sen. epist. 54.2|egere/agere|egerere|E. Chatelain|1877|Marc. 270|s.l.
