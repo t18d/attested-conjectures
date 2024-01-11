@@ -25,6 +25,7 @@
         <li>Callimachus, <em>The Hymns</em>, ed. Susan A. Stephens (Oxford, 2015).</li>
         <li>Chariton Aphrodisiensis, <em>De Callirhoe narrationes amatoriae</em>, ed. B. P. Reardon (Munich, 2004).</li>
         <li>Cicero, M. Tullius, <em>De divinatione, De fato, Timaeus</em>, ed. Remo Giomini (Leipzig, 1975).</li>
+        <li>Cicero, M. Tullius, <em>Orator</em>, ed. Rolf Westman (Munich, 1980).</li>
         <li>Cicero, M. Tullius, <em>Pro A. Cluentio Habito oratio</em>, ed. Silvia Rizzo (Rome, 1991).</li>
         <li>Cicero, M. Tullius, <em>Oraliones in P. Vatinium testem et Pro M. Caelio</em>, ed. Tadeusz Maslowski (Stuttgart, 1995).</li>
         <li>Cicero, M. Tullius, <em>Oraliones in L. Catilinam quattuor</em>, ed. Tadeusz Maslowski (Munich, 2003).</li>
