@@ -23,7 +23,7 @@
         <li>Callimachus, <em>Fragmenta</em>, ed. Rudolf Pfeiffer (Oxford, 1949).</li>
         <li>Callimachus, <em>Hymni et Epigrammata</em>, ed. Rudolf Pfeiffer (Oxford, 1953).</li>
         <li>Callimachus, <em>The Hymns</em>, ed. Susan A. Stephens (Oxford, 2015).</li>
-        <li>Chariton Aphrodisiensis, <em>De Callirhoe Narrationes Amatoriae</em>, ed. B. P. Reardon (Munich, 2004).</li>
+        <li>Chariton Aphrodisiensis, <em>De Callirhoe narrationes amatoriae</em>, ed. B. P. Reardon (Munich, 2004).</li>
         <li>Cicero, M. Tullius, <em>De divinatione, De fato, Timaeus</em>, ed. Remo Giomini (Leipzig, 1975).</li>
         <li>Cicero, M. Tullius, <em>Pro A. Cluentio Habito oratio</em>, ed. Silvia Rizzo (Rome, 1991).</li>
         <li>Cicero, M. Tullius, <em>Oraliones in P. Vatinium testem et Pro M. Caelio</em>, ed. Tadeusz Maslowski (Stuttgart, 1995).</li>
@@ -36,17 +36,17 @@
         <li>Finglass, P. J., 'Unpublished Conjectures on Sophocles by Jeremiah Markland', <em>Greek, Roman, and Byzantine Studies</em>, 51/2 (2011), 232–8.</li>
         <li>Finglass, Patrick J. 'Il valore dei papiri per la critica testuale di Sofocle', in <em><a href="https://library.oapen.org/bitstream/handle/20.500.12657/55124/9788866553878.pdf">Il valore dei papiri per la critica testuale di Sofocle</a></em> (Florence, 2013), 33–51.</li>
         <li>Finglass, P. J. 'Editions of Sappho since the Renaissance', in <em>The Cambridge Companion to Sappho</em> (Cambridge, 2021), 247–59 at 255.</li>
-        <li>Gallavotti, Carlo (ed.), <em>Theocritus quique ferunter Bucolici Graeci</em> (Rome, 1993).</li>
+        <li>Gallavotti, Carlo (ed.), <em>Theocritus quique feruntur bucolici Graeci</em> (Rome, 1993).</li>
         <li>Gerber, Douglas E. '<a href="https://doi.org/10.5169/seals-660688">Emendations in the Odes of Pindar: An Historical Analysis</a>', <em>Entretiens Hardt</em>, 31 (1984), 1–25.</li>
         <li>Grenfell, B. P., 'The Value of Papyri for the Textual Criticism of Extant Greek Authors', <em>The Journal of Hellenic Studies</em>, 39 (1919), 16–36.</li>
         <li>Herodotus, <em>Historiae</em>, ed. Haiim B. Rosén, 2 vols (Leipzig, 1987–97).</li>
         <li>Herodotus, <em>Historiae</em>, ed. N. G. Wilson, 2 vols (Oxford, 2015).</li>
         <li>Homerus, <em>Ilias</em>, ed. Martin L. West, 2 vols (Munich, 1998–2000).</li>
         <li>Homerus, <em>Odyssea</em>, ed. Martin L. West (Berlin, 2017).</li>
-        <li>Horatius Flaccus, Q., <em>Opera</em>, i: <em>Carminum libri IIII, epodon liber, carmen saeculare</em>, ed. Otto Keller (Leipzig, 1899).</li>
+        <li>Horatius Flaccus, Q., <em>Opera</em>, i: <em>Carminum libri IIII, epodon liber, Carmen Saeculare</em>, ed. Otto Keller (Leipzig, 1899).</li>
         <li>Kannicht, Richard (ed.), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, v: <em>Euripides</em> (Göttingen, 2004).</li>
         <li>Kassel, R., and C. Austin (eds), <em>Poetae comici Graeci (PCG)</em>, iv: <em>Aristophon — Crobylus</em> (Berlin, 1983).</li>
-        <li>Kassel, R., and C. Austin (eds), <em>Poetae comici Graeci (PCG)</em>, iii/2: <em>Aristophanes: Testimonia et Fragmenta</em> (Berlin, 1984).</li>
+        <li>Kassel, R., and C. Austin (eds), <em>Poetae comici Graeci (PCG)</em>, iii/2: <em>Aristophanes: testimonia et fragmenta</em> (Berlin, 1984).</li>
         <li>Kassel, R., and C. Austin (eds), <em>Poetae comici Graeci (PCG)</em>, v: <em>Damoxenus — Magnes</em> (Berlin, 1986).</li>
         <li>Kassel, R., and C. Austin (eds), <em>Poetae comici Graeci (PCG)</em>, vii: <em>Menecrates — Xenophon</em> (Berlin, 1989).</li>
         <li>Kassel, R., and C. Austin (eds), <em>Poetae comici Graeci (PCG)</em>, ii: <em>Agathenor — Aristonymus</em> (Berlin, 1991).</li>
