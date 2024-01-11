@@ -1312,6 +1312,9 @@ Scrib. Larg. 206|-ibus|fronti|Johannes Rhodius|1655|Casin. 69 (Ca)|
 Scrib. Larg. 260|-am/-um|liquefacta|C. Lausdei|pre-2020|Casin. 69 (Ca)|
 Scrib. Larg. praef. 7|quae|qua|Johannes Rhodius|1655|Toledo 98.12 (T)|
 Sen. Med. 677|effudit|effundit|Nicolaus Heinsius|s.xviii med.|P.Mich. inv. 4969 fr. 36|H. had a public career
+Sen. dial. 5.14.6|praeciperet. quem|praeciperet ei quem|Friedrich Haase|1852|Laur. 76.32 (L)|
+Sen. dial. 5.19.5|adest|id est|Muretus|n.d.|Laur. 76.32 (L)|
+Sen. dial. 5.23.6|inignem p.|in igne posuit|Madvig|1871|Laur. 76.32 (L)|
 Sen. epist. 48.6|sci-|inscientia|Lipsius|1605|P2|
 Sen. epist. 52.5|-abunt|lassarunt|Lipsius|1605|Vat. 2207 (Chatelain)|
 Sen. epist. 54.2|egere/agere|egerere|E. Chatelain|1877|Marc. 270|s.l.
