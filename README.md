@@ -1317,7 +1317,10 @@ Sen. dial. 5.19.5|adest|id est|Muretus|n.d.|Laur. 76.32 (L)|
 Sen. dial. 5.23.6|inignem p.|in igne posuit|Madvig|1871|Laur. 76.32 (L)|
 Sen. dial. 5.33.3|-parandum|computandum|Pincianus|n.d.|Laur. 76.32 (L)|
 Sen. dial. 6.5.4|conuertistite|conuertis te|Pincianus|n.d.|Laur. 76.41 (F)|
-Sen. dial. 6.9.4|-us|perituras|Bentley|n.d.|dett.|
+Sen. dial. 6.9.4|-us|perituras|Bentley|n.d.|dett.|apud E. Hedicke, Studia Bentleiana
+Sen. dial. 6.12.1|in misso|in amisso|Koch|n.d.|Laur. 76.41 (F)|
+Sen. dial. 6.12.6|male illo|malo illae|C. R. Fickert|1845|Laur. 76.41 (F)|
+Sen. dial. 6.15.2|tamen|tamen tam|M. C. Gertz|1886|Laur. 76.41 (F)|
 Sen. epist. 48.6|sci-|inscientia|Lipsius|1605|P2|
 Sen. epist. 52.5|-abunt|lassarunt|Lipsius|1605|Vat. 2207 (Chatelain)|
 Sen. epist. 54.2|egere/agere|egerere|E. Chatelain|1877|Marc. 270|s.l.
@@ -1628,11 +1631,11 @@ Str. 8.6.16|Οἰνώνης|Οἰνόης|Alessandro Politi|s.xvii/xviii|Vat. gr
 Str. 8.7.5|Φαρ(ι)εῖς|Φαραιεῖς|Gustav Kramer|1844|Vat. gr. 2306 + 2061 A (P)|
 Str. 9.1.6|-δον/-μαλ κτλ.|ὅμαυλον|Dindorf|1832-60|EAs|
 Str. 9.2.35|οὔτε|οὐδὲ|Adamantios Korais|1805|P.Petr. I 3|ουδ
-Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Kock|1880-8|P.Cair. 65445|
+Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880-8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
 Sud. π 926|προσφ-|προφέρειν|Bekker|1854|Phot. z|Suidae Lex. p. 836a
-Synag. 52.22|αἱρεθίζειν|αἱρετίζειν|Kock|1880-8|Phot. α 642|
+Synag. 52.22|αἱρεθίζειν|αἱρετίζειν|Theodor Kock|1880-8|Phot. α 642|
 Synag. 177.16|ἀωρὶ θανάτωι|ἀωροθάνατος|Dindorf|1835|Phot. α 3493|
 Synag. 353.9|ἀτη-|ἀτειρής|Friedrich Wilhelm Wagner|1852|Phot. α 474|
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
