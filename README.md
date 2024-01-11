@@ -27,6 +27,7 @@
         <li>Cicero, M. Tullius, <em>De divinatione, De fato, Timaeus</em>, ed. Remo Giomini (Leipzig, 1975).</li>
         <li>Cicero, M. Tullius, <em>Orator</em>, ed. Rolf Westman (Munich, 1980).</li>
         <li>Cicero, M. Tullius, <em>Pro A. Cluentio Habito oratio</em>, ed. Silvia Rizzo (Rome, 1991).</li>
+        <li>Cicero, M. Tullius, <em>Oratio pro P. Quinctio</em>, ed. Michael D. Reeve (Leipzig, 1992).</li>
         <li>Cicero, M. Tullius, <em>Oraliones in P. Vatinium testem et Pro M. Caelio</em>, ed. Tadeusz Maslowski (Stuttgart, 1995).</li>
         <li>Cicero, M. Tullius, <em>Oraliones in L. Catilinam quattuor</em>, ed. Tadeusz Maslowski (Munich, 2003).</li>
         <li>Demosthenes, <em>Orationes</em>, ed. M. R. Dilts, 4 vols (Oxford, 2002–9).</li>
