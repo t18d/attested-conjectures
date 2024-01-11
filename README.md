@@ -466,6 +466,10 @@ Cic. orat. 23|d. que(m) uim|demosthenem quem uelim|H. Muther|1886|Barcin. bibl. 
 Cic. orat. 26|incend-|incedens|J. A. Ernesti|1774-7|N E Bud.|
 Cic. orat. 26|-et/-aret|appellat|F. Goeller|1838|Bud. M|
 Cic. orat. 33|i. nos|nos igitur|J. A. Ernesti|1774-7|Barb. lat. 126 (E)|
+Cic. orat. 62|om.|et suauitate|Hermann Sauppe|1857|Rem. bibl. mun. 1109 (R)|
+Cic. orat. 73|-imus|dicamus|J. A. Ernesti|1774-7|Matrit. bibl. nat. 10060 (V)|
+Cic. orat. 93|dix-|dicit|Janus Bake|1856|K f|
+Cic. orat. 99|videtur|-ebitur|Henri Estienne|1885|Σ Θ Ξ|ap. Stangl
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839-57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
