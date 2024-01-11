@@ -1259,6 +1259,11 @@ Sapph. fr. 81.4|παρ-|πέρθεσθ'|J. F. A. Seidler|1829|P.Oxy. XV 1787|]Ε
 Sapph. fr. 94.24|deest|οὔτε τι]|Blass|1874|Schubart ap. Lobel, Ϲ. μ. p. 79|]Τ̣Ε̣ΤΙ
 Scrib. Larg. 46|-ere|oblinire|Andreas Cratander|1529|Toledo 98.12 (T)|
 Scrib. Larg. 113|aliis|alii|G. Helmreich|1887|Toledo 98.12 (T)|
+Scrib. Larg. 121|amii|ami|K. E. Georges|1887|Toledo 98.12 (T)|apud Helmreich
+Scrib. Larg. 122|d. ab-|datur obducenda|Paulus Leopardus|s.xvi med.|Toledo 98.12 (T)|
+Scrib. Larg. 195|om.|malum|G. Helmreich|1887|Vindoc. 109 (Va)|
+Scrib. Larg. 198|-um|stomachi|Johannes Rhodius|1655|Vindoc. 109 (Va)|
+Scrib. Larg. 200|quoque|quaeque|G. Helmreich|1887|Vindoc. 109 (Va)|
 Scrib. Larg. praef. 7|quae|qua|Johannes Rhodius|1655|Toledo 98.12 (T)|
 Sen. Med. 677|effudit|effundit|Nicolaus Heinsius|s.xviii med.|P.Mich. inv. 4969 fr. 36|H. had a public career.
 Simon. fr. 20.9|νηπίοισι|νή]πιοι|Joachim Camerarius|1551|P.Oxy. LIX 3965|
