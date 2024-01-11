@@ -70,7 +70,7 @@
         <li>Snell, Bruno, and Richard Kannicht (eds), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, i: <em>Didascaliae tragicae; Catalogi tragicorum et tragoediarum; Testimonia et fragmenta tragicorum minorum</em> (Göttingen, 1986).</li>
         <li>Sommerstein, Alan H., 'The history of the text of Aristophanes', in <em>Brill's Companion to the Study of Greek Comedy</em> (Brill, 2010), 399–422 at 412n69.</li>
         <li>Sophocles, <em>Fabulae</em>, ed. H. Lloyd-Jones and N. G. Wilson (Oxford, 1990).</li>
-        <li>Theodoridis, Christos (ed.), <em>Die Fragmente Des Grammatikers Philoxenos</em> (Berlin, 1976).</li>
+        <li>Theodoridis, Christos (ed.), <em>Die Fragmente des Grammatikers Philoxenos</em> (Berlin, 1976).</li>
         <li>Thucydides, <em>Historiae</em>, ed. Ioannes Baptista Alberti, 3 vols (Rome, 1972–2000).</li>
         <li>Vergilius Maro, P., <em>Opera</em>, ed. Mario Geymonat (Rome, 2008).</li>
         <li>Vergilius Maro, P., <em>Aeneis</em>, ed. Gian Biagio Conte (Berlin, 2009).</li>
