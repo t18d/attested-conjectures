@@ -1284,10 +1284,10 @@ Sen. epist. 90.38|redacti|redegit|Franz Bücheler|1878|cod. Velz.|
 Sen. epist. 90.39|-ens/-eris|pelles|Friedrich Haase|1853|cod. Velz.|
 Sen. epist. 92.1|perfert|refert|Madvig|n.d.|cod. Velz.|
 Sen. epist. 92.7|sonis|solis|Franz Bücheler|1878|cod. Velz.|
-Sen. epist. 95.66|eam demum|eandem vim|Erasmus|n.d.|WX (ψ)|
+Sen. epist. 95.66|eam demum|eandem vim|Erasmus|1515|WX (ψ)|
 Sen. epist. 109.4|facit quoque|facitque|Madvig|n.d.|cod. Velz.|
 Sen. epist. 109.10|partes sui|pares suis|Nonius Pincianus|1536|rec.|
-Sen. epist. 124.21|illum|et illud|Schweighaeuser|n.d.|cod. Harlei. 2659|
+Sen. epist. 124.21|illum|et illud|Johann Schweighäuser|1809|cod. Harlei. 2659|
 Simon. fr. 20.9|νηπίοισι|νή]πιοι|Joachim Camerarius|1551|P.Oxy. LIX 3965|
 Simon. fr. 20.10|βιότου|βιότοι'|Joachim Camerarius|1551|P.Oxy. LIX 3965|
 Simon. fr. 25.5|χεέτω|χείτω|M. L. West|1989|P.Oxy. LXXXI 5261|
