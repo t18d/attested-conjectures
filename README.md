@@ -1345,6 +1345,9 @@ Sen. nat. 1.2.6|nec|ne|M. C. Gertz|1874|P1υ|
 Sen. nat. 1.3.10|om.|ex|W. Gemoll|1890|Genev. lat. 77 (Z)|
 Sen. nat. 1.4.4|prior|propior|Erasmus|1515|Marc. lat. Z.268 (W)|
 Sen. nat. 1.5.14|aduersus|ad uerum|Nonius Pincianus|1536|ZL2|
+Sen. nat. 1.13.2|natur(a)e solis|natura solide|B. Larisch|1874|TCam.DX|
+Sen. nat. 1.13.2|percussu|rep-|W. Kroll|1907|W2|apud Gercke
+Sen. nat. 1.14.3|percussu|rep-|Adolf Gercke|1907|recc.|
 Sen. nat. 2.21.2|nisi ex (eo quod)|nisi ex eo|Madvig|1873|Montepess. 116 (G)|
 Sen. nat. 2.21.2|nisi ex (eo quod)|nisi ex igne|Günther|1907|Genev. lat. 77 (Z)|apud Gercke
 Sen. nat. 2.22.3|ne hoc|nec hoc|Madvig|1873|O Z|
