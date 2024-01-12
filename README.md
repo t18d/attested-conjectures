@@ -234,7 +234,7 @@ Ar. Ach. 970|κιχλᾶν|κιχλῶν|Valckenaer|1757|Rav. 429 (R)|
 Ar. Ach. 1111, 1112|ἢ|ἦ|G. H. Schaefer|n.d.|Paris. gr. 2712 (A)|
 Ar. Ach. 1175|-ρίῳ|χυτριδίῳ|Dawes|n.d.|Rav. 429 (R)|
 Ar. Av. 75|γὰρ (ἅτ’)|γ’ ἅτ’|Valckenaer|1757|Rav. 429 (R)|
-Ar. Av. 213|-η διεροῖς|ἐλελιζομένης δ᾽ ἱεροῖς|Meineke|1839-57|Haun. 1980 (H)|
+Ar. Av. 213|-η διεροῖς|ἐλελιζομένης δ᾽ ἱεροῖς|Meineke|1839–57|Haun. 1980 (H)|
 Ar. Av. 463|-χεῖσθαι/-χεῖσθε|κατάκεισθε|Bentley|s.xviii in.|anon. Parisinus|
 Ar. Av. 494a schol.|μᾶτερ/μάτερ|μάτηρ|Elmsley|1821|M9Lh|
 Ar. Av. 520|ὤμνυέ τ'/ὠμνύετ|ὤμνυ τ'|Bentley|s.xviii in.|Marc. gr. 475 (G)|
@@ -242,9 +242,9 @@ Ar. Av. 575|Ἶριν|Ἔρην|Bentley|s.xviii in.|Ambros. L 39 sup. (M)|
 Ar. Av. 576|-ψει|πέμπει|Tyrwhitt|1822|anon. Parisinus|
 Ar. Av. 689|τοῖσιν|alterum τοῖς|Charles Daubuz|1710|Paris. gr. 2715 (B)|
 Ar. Av. 765 schol.|-φω|ἀναγράφει|Bentley|s.xviii in.|cod. Ambr. M|
-Ar. Av. 880 schol.|ὑμ-|ἡμῖν|Meineke|1839-57|cod. Ambr. M|
+Ar. Av. 880 schol.|ὑμ-|ἡμῖν|Meineke|1839–57|cod. Ambr. M|
 Ar. Av. 1069|om.|πάνθ'|Ludolph Dissen|n.d.|P.Louvre ed. Weil = Austin 42|
-Ar. Av. 1078|ἀγάγῃ|ἀπαγάγῃ|Bergk|1852-7|P.Louvre ed. Weil = Austin 42|
+Ar. Av. 1078|ἀγάγῃ|ἀπαγάγῃ|Bergk|1852–7|P.Louvre ed. Weil = Austin 42|
 Ar. Av. 1080|πᾶσι|om.|Triclinius|s.xiv in.|P.Louvre ed. Weil = Austin 42|
 Ar. Av. 1115|μήνην|μῆν'|P. P. Dobree|s.xviii in.|Marc. gr. 475 (G)|
 Ar. Av. 1308|οὐκ ἄρα|οὐκ ἆρα|Ludolf Küster|1710|Paris. gr. 2715 (B)|
@@ -305,7 +305,7 @@ Ar. Plut. 179 schol.|ανόητον|ὄνον τὸν|Bentley|1708|Estensis α.U
 Ar. Plut. 374|οὖν|ἂν|Ludolf Küster|1710|Vbg1 (Invernizi)|
 Ar. Plut. 411|-κλινεῖν|κατακλίνειν|Angelo Canini|n.d.|Bodl. Holkh. gr. 88 (L)|v.l.
 Ar. Plut. 485|ἢ τί γὰρ/εἴ τι γὰρ/ἢ τί γ᾽ ἂν|τί γὰρ|Porson|n.d.|Ambros. C 222 inf. (K)|
-Ar. Plut. 499|ἐ. σ. τ. μ.|τούτου μάρτυς ἐγώ σοι|Hall-Geldart|1906-7|P.Ant. l1I 180|
+Ar. Plut. 499|ἐ. σ. τ. μ.|τούτου μάρτυς ἐγώ σοι|Hall-Geldart|1906–7|P.Ant. l1I 180|
 Ar. Plut. 504|-ῶσι|πεινῶσιν|Ludolf Küster|1710|Bodl. Holkh. gr. 88 (L)|
 Ar. Plut. 1018|παγκάλας|παγκάλους|Valckenaer|1757|Mpc et L|
 Ar. Plut. 1037|τυγχάνει|τυγχάνοι|Valckenaer|1757|Marc. gr. 474 (V)|
@@ -355,9 +355,9 @@ Arat. Phaen. 736|ἰοῦσα|ἄγουσα|Buttman|n.d.|BKT V/I 7503 + 7804|
 Arat. Phaen. 750|ἐμπλήσει|ἐμπλήσσει|Voss|n.d.|BKT V/I 7503 + 7804|
 Arat. Phaen. 870|φαίνονται|φαίνωνται|Voss|n.d.|BKT V/I 7503 + 7804|
 Archil. fr. 4.6|ἀλλά τε|ἀλλ᾽ ἄγε|Musurus|n.d.|P.Oxy. VI 854|
-Arist. fr. 57.12 Rose|οὔτε|ουδε|Meineke|1839-57|P.Oxy. IV 666|
+Arist. fr. 57.12 Rose|οὔτε|ουδε|Meineke|1839–57|P.Oxy. IV 666|
 Arist. fr. 842.7 Page|τ᾽ ἀθάνατον/εἰς ἀ.|ἰσαθάνατον|Wilamowitz|n.d.|BKT I 25|Did. in D. col. 6.18 seqq.
-Aristarch.Trag. fr. 3|-νημα|σωφρόνισμα|Meineke|1839-57|Macar.|
+Aristarch.Trag. fr. 3|-νημα|σωφρόνισμα|Meineke|1839–57|Macar.|
 Ath. 9.375E|νοθ-|νοτοῦντι|Jan Cornelis de Pauw|1745|Marc. 447 (A)|
 Ath. 11.490E|οὐρανός τε γῆ|οὐρανοστεγῆ|Benjamin Heath|1798|Marc. 447 (A)|apud Schweighäuser
 BGU 1074|Οὐήρῳ|Σευήρῳ|Viereck|n.d.|P.Oxy. XXVII 2476|
@@ -375,7 +375,7 @@ Call. Cer. 106|ἤδη|οὐδὲν|Bergk|s.xix med.|P.Oxy. XIX 2226|
 Call. Del. 25|ὑπαὶ ῥιπῆς|ὑπ]ὸ ῥιπαῖς|C. J. Blomfield|1815|P.Oxy. XIX 2225|
 Call. Del. 158|ὑπ᾽ ὀμ-|ὑφ᾽ ὁμοκλῆς|Janus Lascaris|1496|P.Oxy. XIX 2225|υφομ[
 Call. Del. 159|πανσυ-|πασσυδίῃ|Janus Lascaris|1496|P.Oxy. XIX 2225|
-Call. Del. 179|καρπόν|καπνόν|Reiske|1757-66|P.Oxy. XIX 2225|
+Call. Del. 179|καρπόν|καπνόν|Reiske|1757–66|P.Oxy. XIX 2225|
 Call. Dian. 16|-μάδας|ἐνδρομίδας|Janus Lascaris|1496|Et.Gen.|
 Call. Dian. 29|ὅτι|ὅτε|Janus Lascaris|1496|P.Mil.Vogl. II 42|
 Call. Dian. 61|μοχθίσσειαν|μυχ-|Meineke|1861|P.Ant. I 20|lemma
@@ -418,7 +418,7 @@ Charito 2.4.8|δὲ τίϲ|ϲέ τιϲ|Cobet|1842|P.Oxy. XLI 2948|
 Charito 2.4.8|τίνας|τίνα|Rudolf Hercher|1854|P.Oxy. XLI 2948|
 Charito 2.4.9|αν επειθεν|ανεπειθ[εν|Rudolf Hercher|1854|P.Oxy. XLI 2948|
 Charito 2.11.5|μᾶλλον οὐ|μαλλον η|C. D. Beck|1783|P.Michael. 1|
-Charito 4.2.8|τοσοῦτον|τουτον|F. L. Abresch|1753-5|P.Fay. 1|
+Charito 4.2.8|τοσοῦτον|τουτον|F. L. Abresch|1753–5|P.Fay. 1|
 Charito 4.2.9|αἵματος|τ̣ολμ[ηματος|Cobet|1842|P.Fay. 1|
 Charito 4.2.13|ἐμνημόνευσεν|εμνη]μονε[υ]σας|Reiske|1750|P.Fay. 1|
 Charito 8.5.12|ἔχειν|del.|Rudolf Hercher|1854|codex Thebanus|spatium non sufficit in Theb.
@@ -456,28 +456,28 @@ Cic. Quinct. 17|-et|quaesisses|Fr. Hotomanus|1554|Arus. gramm. 32|
 Cic. Quinct. 54|hoc|hos|Denys Lambin|1565|Iul. Ruf. rhet. 10|
 Cic. Tim. 14|-unt|fuerant|Denys Lambin|1565-6|Vindob. lat. 189 (V)|
 Cic. div. 1.20|post|prius|Janus Gulielmus|s.xvi med.|Phillipp. 1794 (L)|apud Gruter
-Cic. div. 1.20|exces(s)um|excelsum|Denys Lambin|1565-6|Merton. 311|
+Cic. div. 1.20|exces(s)um|excelsum|Denys Lambin|1565–6|Merton. 311|
 Cic. div. 1.21|ac/at|et|Hottinger|1793|Palat. lat. 1519 (P)|
 Cic. div. 1.130|ut enim|etenim|P. Manutius|1541|codd. Cantabr. et Reg. (Davies)|
-Cic. div. 2.72|silentium|si silentium|Denys Lambin|1565-6|Erlang. 618|
+Cic. div. 2.72|silentium|si silentium|Denys Lambin|1565–6|Erlang. 618|
 Cic. div. 2.109|esse (alterum)|del.|Marsus|1509|codd. Cantabr. et Reg. (Davies)|
 Cic. div. 2.111|primi(s) versus|primis versuum|Jean d'Aurat|s.xvi med.|codd. dett. (Moser)|
 Cic. div. 2.145|-unt|viderint|Franz Skutsch|1912|Marc. lat. 257 (F)|Glotta p. 367; Schwanengesang
 Cic. orat. 12|-a|instructus|P. Reis|1932|Budap. bibl. nat. lat. 148 (Bud.)|
-Cic. orat. 16|-is|oratori|J. A. Ernesti|1774-7|N2|
+Cic. orat. 16|-is|oratori|J. A. Ernesti|1774–7|N2|
 Cic. orat. 21|aequali-|aequabilitatem|P. Manutius|1546|H Bud.|
 Cic. orat. 22|-is|singuli|P. Manutius|1546|Rem. bibl. mun. 1109 (R)|
 Cic. orat. 23|d. que(m) uim|demosthenem quem uelim|H. Muther|1886|Barcin. bibl. univ. 12 (B)|
-Cic. orat. 26|incend-|incedens|J. A. Ernesti|1774-7|N E Bud.|
+Cic. orat. 26|incend-|incedens|J. A. Ernesti|1774–7|N E Bud.|
 Cic. orat. 26|-et/-aret|appellat|F. Goeller|1838|Bud. M|
-Cic. orat. 33|i. nos|nos igitur|J. A. Ernesti|1774-7|Barb. lat. 126 (E)|
+Cic. orat. 33|i. nos|nos igitur|J. A. Ernesti|1774–7|Barb. lat. 126 (E)|
 Cic. orat. 62|om.|et suauitate|Hermann Sauppe|1857|Rem. bibl. mun. 1109 (R)|
-Cic. orat. 73|-imus|dicamus|J. A. Ernesti|1774-7|Matrit. bibl. nat. 10060 (V)|
+Cic. orat. 73|-imus|dicamus|J. A. Ernesti|1774–7|Matrit. bibl. nat. 10060 (V)|
 Cic. orat. 93|dix-|dicit|Janus Bake|1856|K f|
 Cic. orat. 99|videtur|-ebitur|Henri Estienne|1885|Σ Θ Ξ|ap. Stangl
 Cic. orat. 115|quid ue/quodque|quidque|P. Manutius|1546|J γ|
 Cic. orat. 147|-in|qui|Madvig|1873|N E Q|p. 190
-Cic. orat. 147|-er|delectet|J. A. Ernesti|1774-7|K J E|
+Cic. orat. 147|-er|delectet|J. A. Ernesti|1774–7|K J E|
 Cic. orat. 159|in insano|in sano|Janus Bake|1856|K γ|
 Cic. orat. 160|pyrrhum etc.|phrygum|C. G. Schütz|1807|R Bud.|
 Cic. orat. 180|omnes|communes|P. Manutius|1546|Barcin. bibl. univ. 12 (B)|
@@ -676,7 +676,7 @@ Eur. IA 309|-ως|αλλοις|Markland|n.d.|P.Köln II 67|
 Eur. IA 380|αἰσχρὸς οὐκ|χρηστὸς|Grotius|n.d.|Stob. cod. M|
 Eur. IA 793|οὐλο-|ολο̣[μενας|Burges|n.d.|P.Leid. inv. 510|
 Eur. IA 804|πύλας|πελ̣[ας|Joshua Barnes|n.d.|P.Köln II 67|
-Eur. IT 252|καὶ τυχ-|κἀντυχόντες|Reiske|1753-4|P.Hib. I 24|
+Eur. IT 252|καὶ τυχ-|κἀντυχόντες|Reiske|1753–4|P.Hib. I 24|
 Eur. IT 587|γε|τὰ|Hermann|n.d.|P.Hib. I 24|]τ̣α
 Eur. IT 618|τήνδε|τῆσδε|F. H. Bothe|n.d.|P.Hib. I 24|
 Eur. Ion 1428|ἢ|ἣ|Brodaeus|n.d.|Laur. 32.3 (L)|
@@ -694,15 +694,15 @@ Eur. Med. 594|-έως|βασιλεων|Elmsley|n.d.|P.Heid. 1385|
 Eur. Med. 884|τ' ἐμοὶ|τέ μοι|Janus Lascaris|n.d.|Palat. gr. 98 (Va)|
 Eur. Med. 979|ἁ δ.|δύστανος|Aldina|n.d.|Laur. 31.15 (D)|
 Eur. Med. 1089|κοὐκ|οὐκ|Reiske|n.d.|P.Lond.Univ.Coll. inv. s.n.|
-Eur. Med. 1094|μέν τ'|μέν γ'|Reiske|n.d.|P.Strasb. inv. WG 304-307|
+Eur. Med. 1094|μέν τ'|μέν γ'|Reiske|n.d.|P.Strasb. inv. WG 304–307|
 Eur. Med. 1094|μέν τ'|μέν|Porson|n.d.|Neap. Vind. gr. 17 (Nv)|
-Eur. Med. 1101|-ωσι|θρεψουσι|Brunck|n.d.|P.Strasb. inv. WG 304-307|
-Eur. Med. 1108|ἤλυθε/ἦλθε|ηλθεν|Dindorf|n.d.|P.Strasb. inv. WG 304-307|
-Eur. Med. 1110|ἀίδην/ἀίδαν|αιδου|Earle|n.d.|P.Strasb. inv. WG 304-307|
+Eur. Med. 1101|-ωσι|θρεψουσι|Brunck|n.d.|P.Strasb. inv. WG 304–307|
+Eur. Med. 1108|ἤλυθε/ἦλθε|ηλθεν|Dindorf|n.d.|P.Strasb. inv. WG 304–307|
+Eur. Med. 1110|ἀίδην/ἀίδαν|αιδου|Earle|n.d.|P.Strasb. inv. WG 304–307|
 Eur. Med. 1159|-πέσχ-|ἠμπίσχετο|Aemilius Portus|n.d.|Hn et gE|
 Eur. Med. 1180|δρομ-|δρα[μη]μασιν|Cobet|s.xix ex.|P.Oxy. XXII 2337|
 Eur. Med. 1281|ὧν|ὃν|J. F. A. Seidler|n.d.|P.Harr. I 38|
-Eur. Med. 1281|μοίραι|τ̣ο̣λμαι|Nauck|n.d.|P.Strasb. inv. WG 304-307|
+Eur. Med. 1281|μοίραι|τ̣ο̣λμαι|Nauck|n.d.|P.Strasb. inv. WG 304–307|
 Eur. Med. 1285|ἄλη(ι)|άλα̣ι̣ς|Frederick H. M. Blaydes|n.d.|P.Harr. I 38|
 Eur. Med. 1290|δή ποτ᾽|δητ᾽|Hermann|n.d.|P.Harr. I 38|
 Eur. Med. 1296|γῆ(ς) σφε|γης γε|Elmsley|n.d.|P.Harr. I 38|
@@ -1290,12 +1290,12 @@ Plu. Caes. 45.8|τοῖς|del.|Adolph Emperius|s.xix in.|P.Oxy. LXXXI 5270|
 Plu. Comp. Lyc. Num. 3.5|ἀν-|συνερραμμέναι|Henrik van Herwerden|1887|S1|Lucubr. 83
 Poll. 10.63|κατάχυτλον/-χύτου|-χύτλου|Salmasius|s.xvii in.|Laur. 56.1 (L)|
 Poll. 10.74|δανείζειν|διανίζειν|Henrik van Herwerden|1882|Paris. gr. 2646 (F)|Mnem. 10 (1882) 74
-Polyzel. fr. 2|ἔν-|εὔυδρον|Meineke|1839-57|Phot. ε 986|
+Polyzel. fr. 2|ἔν-|εὔυδρον|Meineke|1839–57|Phot. ε 986|
 Porph. Antr. 8|ἔρχετ᾽|ἔρχεταί τ᾽|Rudolf Hercher|1858|Vat. gr. 325 (V)|
 Priscian. Inst. 18.197|ὅσοι γὰρ/θεοῖς ἄρ'|θεοὶ γὰρ|Madvig|1846|VR|Philol. 1 (1846) 672
 Sall. hist. fr. 1.107 M|acc[]as|accitas|Gerlach|1856|Vindob. L 117 (Funari)|
 Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Bergk|1835|FP|κωϋ κεθέλουσα F: κ’ ώυ κ’ ἐθέλοις P
-Sapph. fr. 44A.5|ἀεί|ἄϊ|H. L. Ahrens|1839-43|P.Sapph.Obbink|
+Sapph. fr. 44A.5|ἀεί|ἄϊ|H. L. Ahrens|1839–43|P.Sapph.Obbink|
 Sapph. fr. 81.4|παρ-|πέρθεσθ'|J. F. A. Seidler|1829|P.Oxy. XV 1787|]ΕΡΘΕϹ[
 Sapph. fr. 94.24|deest|οὔτε τι]|Blass|1874|Schubart ap. Lobel, Ϲ. μ. p. 79|]Τ̣Ε̣ΤΙ
 Scrib. Larg. 46|-ere|oblinire|Andreas Cratander|1529|Toledo 98.12 (T)|
@@ -1348,7 +1348,7 @@ Simon. fr. 25.5|χεέτω|χείτω|M. L. West|1989|P.Oxy. LXXXI 5261|
 Soph. Aj. 98|ὥστ'|ὡς|Elmsley|n.d.|Paris. suppl. gr. 109 (Q)|
 Soph. Aj. 135|-άλου|ἀγχίαλον|F. H. Bothe|n.d.|Laur. 32.40 (H)|
 Soph. Aj. 146|λοιπή|κοινή|Henrik van Herwerden|n.d.|Gγρ|
-Soph. Aj. 181|μαχαναῖς|μη-|G. Wolff|1858-65|Laur. 32.40 (H)|
+Soph. Aj. 181|μαχαναῖς|μη-|G. Wolff|1858–65|Laur. 32.40 (H)|
 Soph. Aj. 211|δορι-/δορυ-|δουριάλωτον|Brunck|n.d.|Livineii 'V'|
 Soph. Aj. 230|παραπλήκτῳ|-άκτῳ|Frederick H. M. Blaydes|n.d.|H s.l.|
 Soph. Aj. 369|ἐκνεμῇ|-εῖς|Frederick H. M. Blaydes|n.d.|KpcD|
@@ -1361,7 +1361,7 @@ Soph. Aj. 457|δρᾶν|δρᾶν μ'|Morstadt|n.d.|QC|
 Soph. Aj. 467|μόνος μόνοις|μόνος μόνῳ|Mekler|1885|Cac|
 Soph. Aj. 477|βροτὸν|-ῶν|C. E. Palmer|1878|Stob. cod. Aac|
 Soph. Aj. 503|οἵας λατρείας|οἵαν -αν|Frederick H. M. Blaydes|n.d.|p|
-Soph. Aj. 560|ὑβρίσῃ|ὑβρίσει|Valckenaer|1743-6|MS|
+Soph. Aj. 560|ὑβρίσῃ|ὑβρίσει|Valckenaer|1743–6|MS|
 Soph. Aj. 687|θ'|δ'|Frederick H. M. Blaydes|n.d.|Laur. 28.25 (F)|
 Soph. Aj. 727|ὡς|ὥς τ ̓|Samuel Musgrave|s.xviii med.|KF|
 Soph. Aj. 742|-ρήκ-|παρείκειν|Reiske|1753|Laur. 32.40 (H)|
@@ -1372,7 +1372,7 @@ Soph. Aj. 842|ἐκγόνων|ἐκγόνων τ’|Markland|s.xviii med.|MSS|
 Soph. Aj. 842|ἐκγόνων|ἐκγόνων τ’|Samuel Musgrave|s.xviii med.|MSS|
 Soph. Aj. 882|Ὀλυμπιάδων|-αδᾶν|Elmsley|n.d.|Matrit. gr. 4677 (N)|
 Soph. Aj. 964|τἀγαθὸν ἐ.|τἀγάθ ̓ ἐν|Reiske|1753|Bos. q. 7 (J)|
-Soph. Aj. 1051|ὑβρίσῃ|οὔκουν|Valckenaer|1743-6|Vat. gr. 1333 (Zc)|
+Soph. Aj. 1051|ὑβρίσῃ|οὔκουν|Valckenaer|1743–6|Vat. gr. 1333 (Zc)|
 Soph. Aj. 1065|παραλίοις|-ος|Naber|n.d.|Vat. gr. 2291 (R)|
 Soph. Aj. 1098|τὸν|τόνδ’|Markland|s.xviii med.|Laur. 32. 9 (L)|
 Soph. Aj. 1101|ἤγετ ̓/ἡγεῖτ ̓|ἤγαγ ̓|Elmsley|n.d.|Palat. gr. 40 (P)|
@@ -1380,7 +1380,7 @@ Soph. Aj. 1237|ἔχειν|ποῖ|Valckenaer|pre-1775|cod. rec.|
 Soph. Aj. 1243|ἤρεσκεν|ἤρκεσε|Johannes Pierson|s.xviii med.|MS|
 Soph. Aj. 1245|λελειμ-|λελημμένοι|Pearson|n.d.|Laur. 32.40 (H)|
 Soph. Aj. 1274|οὗτος|ἐντός|Markland|s.xviii med.|a|
-Soph. Aj. 1283|αὐτὸς|αὑ-|G. Wolff|1858-65|Vindob. suppl. gr. 71 (Xs)|
+Soph. Aj. 1283|αὐτὸς|αὑ-|G. Wolff|1858–65|Vindob. suppl. gr. 71 (Xs)|
 Soph. Aj. 1368|σόν|σόν γ'|Porson|n.d.|Paris. gr. 2735 (C)|
 Soph. Aj. 1379|-ον|ὅσων|Porson|n.d.|Vat. gr. 1333 (Zc)|s.l.
 Soph. Ant. 18|ᾔδην|ᾔδη|Johannes Pierson|s.xviii med.|Zcac|
@@ -1413,21 +1413,21 @@ Soph. Ant. 828|-ῳ|ὄμβρος|Gleditsch|n.d.|Vat. gr. 1333 (Zc)|s.l.
 Soph. Ant. 831|θ' … -αύστοις|δ' … παγκλαύτοις|F. H. Bothe|n.d.|KS|
 Soph. Ant. 836|-ῃ/-ῳ/-αν|φθιμένᾳ|Johannes Pierson|s.xviii med.|Laur. 32. 9 (L) et a|
 Soph. Ant. 848|ἔργμα|ἕρμα|Hermann|n.d.|Urb. gr. 141 (S)|
-Soph. Ant. 859|οἶκτον|οἶτον|Brunck|1786-9|Kpc|
+Soph. Ant. 859|οἶκτον|οἶτον|Brunck|1786–9|Kpc|
 Soph. Ant. 938|πατρογενεῖς|προγενεῖς|Valckenaer|pre-1775|Laur. 32. 9 (L)|
 Soph. Ant. 989|-ες|βλέποντε|Moriz Schmidt|1871-80|LpcKa|
 Soph. Ant. 1069|κατῴκ-|κατοικίσας|Henrik van Herwerden|n.d.|Laur. 31.10 (K)|
 Soph. Ant. 1081|-γνι-|καθήγισαν|Burton|n.d.|VacZc|
 Soph. Ant. 1089|-ωτέραν|ἡσυχαιτέραν|G. H. Schaefer|n.d.|Zg et Laur. 31.1|
 Soph. Ant. 1236|μέσσον/μέσον/ἐς|ἐν|Wecklein|n.d.|SZot|
-Soph. Ant. 1237|παρθένῳ|-ον|Brunck|1786-9|Paris. gr. 2884 (Ζf)|
+Soph. Ant. 1237|παρθένῳ|-ον|Brunck|1786–9|Paris. gr. 2884 (Ζf)|
 Soph. Ant. 1238|ἐκβάλλει|ἐμβάλλει|Markland|s.xviii med.|Berol. Phillips 1588|
 Soph. Ant. 1337|προσεύχου|κατ-|Benedict|n.d.|Vat. gr. 1333 (Zc)|
 Soph. Ant. 1337-8|Ἄγγελος|choro trib.|Buttmann|n.d.|Ambr. C. 24 sup. et Monac. gr. 500|
 Soph. Ant. 1350|μηδὲν|μηδέν’|Markland|s.xviii med.|MSS|
 Soph. El. 21|ξυνάπτετον|-έον|Jonathan Toup|s.xviii med.|Paris. gr. 2884 (Ζf)|
 Soph. El. 87|ἰσόμοιρ ̓|-μοιρος|Porson|n.d.|p|
-Soph. El. 160|ὄλβιος|-ον|Brunck|1786-9|Hac|
+Soph. El. 160|ὄλβιος|-ον|Brunck|1786–9|Hac|
 Soph. El. 187|τοκ-|τεκέων|Meineke|n.d.|p|
 Soph. El. 219|τὰ δὲ|τάδε|John Jackson|1955|pD|
 Soph. El. 436|-θα|ἔνθεν|Meineke|n.d.|t|
@@ -1435,21 +1435,21 @@ Soph. El. 483|om.|σ'|J. v. G. Fröhlich|1815|Ambros. E. 1035 sup. (Wa)|
 Soph. El. 492|ἐπέβα|-αν|Frederick H. M. Blaydes|n.d.|Vat. gr. 2291 (R)|
 Soph. El. 496|ἡμῖν|ὑμῖν|Purgold|n.d.|pt|
 Soph. El. 513|τις|τι|Hermann|n.d.|Vat. gr. 2291 (R)|
-Soph. El. 583|-εις|τυγχάνοις|Turnebus|1552-3|Vindob. suppl. gr. 71 (Xs)|
-Soph. El. 593|δ'|γ'|J. A. Hartung|1850-1|Paris. gr. 2735 (C)|
-Soph. El. 653|εὐημεροῦσαν|-σα|Erfurdt|1802-25|Laur. 32.40 (H)|
+Soph. El. 583|-εις|τυγχάνοις|Turnebus|1552–3|Vindob. suppl. gr. 71 (Xs)|
+Soph. El. 593|δ'|γ'|J. A. Hartung|1850–1|Paris. gr. 2735 (C)|
+Soph. El. 653|εὐημεροῦσαν|-σα|Erfurdt|1802–25|Laur. 32.40 (H)|
 Soph. El. 653|τέκνων|-οις|Benedict|n.d.|Vindob. phil. gr. 161 (Xr)|s.l.
 Soph. El. 689|τοιοῦδ'|τοιάδ'|Brunck|1786-9|Marc. gr. 616 (Zr)|
 Soph. El. 710|κλήροις|-ους|Wunder|1831|Paris. gr. 2735 (C)|
 Soph. El. 758|δειλαίας σποδοῦ|-αν -όν|F. Neue|1831|p|supra lineam
-Soph. El. 762|οἵπερ|ὥσπερ|J. A. Hartung|1850-1|Laur. CS 41|
+Soph. El. 762|οἵπερ|ὥσπερ|J. A. Hartung|1850–1|Laur. CS 41|
 Soph. El. 819|ἄφιλος|-ον|Monk|n.d.|Vindob. phil. gr. 281|
 Soph. El. 876|οὐκ|οὐκέτ ̓|B. Thiersch|n.d.|p|
 Soph. El. 941|ἔσθ ̓ ὅδ ̓|ἐς τόδ ̓|Haupt|n.d.|p|
 Soph. El. 952||γ’|Johannes Pierson|s.xviii med.|Paris. gr. 2820|
 Soph. El. 957|σε … μ'|με … σ'|Frederick H. M. Blaydes|n.d.|p|
 Soph. El. 995|ποτ' ἐμβλέψασα|ποτε βλέψασα|Henrik van Herwerden|n.d.|P.Oxy IV 693 et Marc. gr. 616 (Zr)|Ludwig Doederlein?
-Soph. El. 998|ἔλαττον|ἔλαϲϲον|Brunck|1786-9|P.Oxy IV 693|
+Soph. El. 998|ἔλαττον|ἔλαϲϲον|Brunck|1786–9|P.Oxy IV 693|
 Soph. El. 1029|μάθῃς|πάθῃς|Johannes Pierson|s.xviii med.|Palat. gr. 40 (P) et a|
 Soph. El. 1044||ποήσεις|Valckenaer|pre-1775|MSS|
 Soph. El. 1127|om.|σ’|Markland|s.xviii med.|Matrit. gr. 4677 (N)|gl.
@@ -1464,7 +1464,7 @@ Soph. OC 33|-ων|ἀκούω|Lindner|n.d.|QacRt|
 Soph. OC 48|-ῶ/-ᾶν|δρᾷς|L. Peters|n.d.|Palat. gr. 287 (Zo)|
 Soph. OC 52|τίς δ ̓|τίς|Frederick H. M. Blaydes|n.d.|rZo|
 Soph. OC 72|μ-|σμικρὰ|Elmsley|n.d.|UY|
-Soph. OC 180|προσβίβαζε|προβίβαζε|Valckenaer|1743-6|r|
+Soph. OC 180|προσβίβαζε|προβίβαζε|Valckenaer|1743–6|r|
 Soph. OC 205|τίνα|τίν ̓ ἂν|Vauvilliers|1781|P.Oxy. LXXIX 5195|
 Soph. OC 213|γεγωνῶ|γεγώνω|Reiske|1743|Laur. 32. 9 (L) et Vat. gr. 2291 (R)|
 Soph. OC 278|μωροὺς/μοίραις/μοῖραν π.|μώρους ποιεῖσθε|Frederick H. M. Blaydes|n.d.|KR|
@@ -1503,17 +1503,17 @@ Soph. OT 281|ἂν|ἃν|Henri Estienne|n.d.|Vindob. phil. gr. 161 (Xr)|
 Soph. OT 290|παλαί ̓|μάται ̓|Halbertsma|n.d.|WaZg|
 Soph. OT 324|φών-|φρόνημ ̓|Naber|n.d.|r|
 Soph. OT 360|λέγειν|λόγων|Brunck|1786-9|Laur. 32.9 (L)|s.l. teste West
-Soph. OT 430|οὐ|αὖ|G. Wolff|1858-65|P.Oxy. I 22|in linea
+Soph. OT 430|οὐ|αὖ|G. Wolff|1858–65|P.Oxy. I 22|in linea
 Soph. OT 433|ᾔδει(ν)|ᾔδη|Dawes|s.xviii med.|P.Oxy. XVIII 2180|in margine
 Soph. OT 446|ἀλγύναις|-οις|Elmsley|n.d.|Matrit. gr. 4677 (N)|
 Soph. OT 458|αὐτὸς|αὑτὸς|Markland|s.xviii med.|Vindob. suppl. gr. 71 (Xs)|pc
 Soph. OT 464|εἶπε|εἶδε|Gitlbauer|n.d.|KG|
 Soph. OT 475|Παρνασοῦ|-ασσοῦ|Hermann|n.d.|Vindob. phil. gr. 161 (Xr)|
-Soph. OT 523|om.|δ'|Moriz Schmidt|1871-80|P.Oxy. XVIII 2180|in linea (Barrett apud OCT)
+Soph. OT 523|om.|δ'|Moriz Schmidt|1871–80|P.Oxy. XVIII 2180|in linea (Barrett apud OCT)
 Soph. OT 525|τοῦ πρὸς|τοὔπος|Heimsoeth|1865|P.Oxy. XVIII 2180|
 Soph. OT 535|ἐναργὴς|-ῶς|Frederick H. M. Blaydes|n.d.|Paris. gr. 2735 (C)|
-Soph. OT 570|τοσόνδε|τὸ σὸν δέ|Brunck|1786-9|LacKp|
-Soph. OT 630|οὐχὶ|οὐ|Brunck|1786-9|DZr|
+Soph. OT 570|τοσόνδε|τὸ σὸν δέ|Brunck|1786–9|LacKp|
+Soph. OT 630|οὐχὶ|οὐ|Brunck|1786–9|DZr|
 Soph. OT 658|ζητῇς|χρῄζῃς|Meineke|n.d.|r|
 Soph. OT 685|προπονουμένῳ/προπονουμένας|προνοουμένῳ|Frederick H. M. Blaydes|n.d.|Marc. gr. 468 (V)|
 Soph. OT 694|τ'|γ'|Turnebus|1552-3|p|
@@ -1544,7 +1544,7 @@ Soph. OT 1312|ἐς|ὡς|Henrik van Herwerden|1866|Laur. 32.40 (H)|
 Soph. OT 1320|φον-|φρονεῖν|Bergk|n.d.|a|
 Soph. OT 1453|ζῶντε|-τι|Johannes Pierson|s.xviii med.|Vat. gr. 904 (Pa)|
 Soph. OT 1466|αἷν|ταῖν|Benjamin Heath|1762|Marc. gr. 616 (Zr)|
-Soph. OT 1474|ἐγγόνοιν|ἐκγόνοιν|Valckenaer|1743-6|Paris. gr. 2787 (Zn) et Marc. gr. 472 (Jebb)|
+Soph. OT 1474|ἐγγόνοιν|ἐκγόνοιν|Valckenaer|1743–6|Paris. gr. 2787 (Zn) et Marc. gr. 472 (Jebb)|
 Soph. OT 1477|ἣ σ' εἶχεν κτλ.|ἥ σ' ἔχει|Wunder|1831|Laur. 32.2 (Zg)|
 Soph. Phil. 30|κυρῇ|κυρεῖ|G. H. Schaefer|n.d.|Gac|
 Soph. Phil. 81|κτῆμα|χρῆμα|Tournier|n.d.|Laur. 31.10 (K)|
@@ -1557,7 +1557,7 @@ Soph. Phil. 481|-ῃ/-ου|ὅποι|Wakefield|n.d.|KZo|
 Soph. Phil. 496|πέμψαντα|πλεύσαντα|Frederick H. M. Blaydes|n.d.|Sγρ|
 Soph. Phil. 496|-οις|δόμους|Wunder|n.d.|Paris. suppl. gr. 109 (Q)|
 Soph. Phil. 510| ̓Ατρείδας| ̓Ατρείδας ἔχθεις|Bergk|n.d.|Vat. gr. 2291 (R)|
-Soph. Phil. 524|γέ μ ̓|γ ̓ ἔμ ̓|Brunck|1786-9|Urb. gr. 141 (S)|
+Soph. Phil. 524|γέ μ ̓|γ ̓ ἔμ ̓|Brunck|1786–9|Urb. gr. 141 (S)|
 Soph. Phil. 588|μηδέν'|μηδὲν|Linwood|n.d.|Palat. gr. 287 (Zo)|
 Soph. Phil. 597|δράσειν|πράσσειν|J. H. Wright|n.d.|Paris. suppl. gr. 109 (Q)|
 Soph. Phil. 600|τ'|γ'|Benjamin Heath|1762|Laur. 32.2 (Zg)|
@@ -1598,7 +1598,7 @@ Soph. Trach. 328|αὐτῇ|αὐτή|Markland|s.xviii med.|Laur. 31.10 (K) et L
 Soph. Trach. 579|-ει(σ)μένον|ἐγκεκλῃμενον|Dindorf|n.d.|Oxy. XV 1805|
 Soph. Trach. 747|καὶ|κοὐ|Markland|s.xviii med.|Laur. 32.2 (Zg)|
 Soph. Trach. 747|καὶ|κοὐ|Valckenaer|pre-1775|Laur. 32.2 (Zg)|
-Soph. Trach. 825|ἀναδοχάν|ἀνακωχάν|Valckenaer|1743-6|Laur. 32.2 (Zg)|ἀνοκωχάν Zg
+Soph. Trach. 825|ἀναδοχάν|ἀνακωχάν|Valckenaer|1743–6|Laur. 32.2 (Zg)|ἀνοκωχάν Zg
 Soph. Trach. 902|ἄψορρον|-ος|Frederick H. M. Blaydes|n.d.|Palat. gr. 287 (Zo)|
 Soph. Trach. 977|γέρων|γέρον|Markland|s.xviii med.|a|
 Soph. Trach. 1082|ἔθαλψεν|ἔθαλψέ μ ̓|Hermann|n.d.|Laur. 31.10 (K)|
@@ -1636,13 +1636,13 @@ Str. 8.5.6|-οτάτην|εὐβοτωτάτην|Casaubon|1621|Vat. gr. 2306 + 2
 Str. 8.5.6|ποιμέϲιν|ποίμναιϲιν|Valckenaer|1755|Vat. gr. 2306 + 2061 A (P)|Phoen. p.90
 Str. 8.6.16|Οἰνώνης|Οἰνόης|Alessandro Politi|s.xvii/xviii|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.7.5|Φαρ(ι)εῖς|Φαραιεῖς|Gustav Kramer|1844|Vat. gr. 2306 + 2061 A (P)|
-Str. 9.1.6|-δον/-μαλ κτλ.|ὅμαυλον|Dindorf|1832-60|EAs|
+Str. 9.1.6|-δον/-μαλ κτλ.|ὅμαυλον|Dindorf|1832–60|EAs|
 Str. 9.2.35|οὔτε|οὐδὲ|Adamantios Korais|1805|P.Petr. I 3|ουδ
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880-8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
 Sud. π 926|προσφ-|προφέρειν|Bekker|1854|Phot. z|Suidae Lex. p. 836a
-Synag. 52.22|αἱρεθίζειν|αἱρετίζειν|Theodor Kock|1880-8|Phot. α 642|
+Synag. 52.22|αἱρεθίζειν|αἱρετίζειν|Theodor Kock|1880–8|Phot. α 642|
 Synag. 177.16|ἀωρὶ θανάτωι|ἀωροθάνατος|Dindorf|1835|Phot. α 3493|
 Synag. 353.9|ἀτη-|ἀτειρής|Friedrich Wilhelm Wagner|1852|Phot. α 474|
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
@@ -1701,7 +1701,7 @@ Thuc. 1.95.5|-να|τινας|Johannes Classen|1862|Ot Fac|
 Thuc. 1.105.6|-ρας|ἡμέραις|Madvig|1871|F6|Adv. p. 308
 Thuc. 1.106.1|ᾧ|ὃ|Henrik van Herwerden|1877|Vk J2|
 Thuc. 1.110.4|Ἀθηναίων|Ἀθηνῶν|Bekker|1832|P.Oxy. XXXIV 2703|α[θη]ν̣ων
-Thuc. 1.112.4|λιμ-|λοιμοῦ|Julius Beloch|1912-27|J2|Griech. Gesch. 2, 1<sup>2</sup> 137
+Thuc. 1.112.4|λιμ-|λοιμοῦ|Julius Beloch|1912–27|J2|Griech. Gesch. 2, 1<sup>2</sup> 137
 Thuc. 1.120.5|ὅμοια|ὁμοίᾳ|Reiske|1761|K E1 γρH2|Anim. p. 14
 Thuc. 1.124.1|ταῦτα κτλ.|ταὐτὰ|Reiske|1761|J2|Anim. p. 14
 Thuc. 1.127.1|om.|ἂν|I. M. Stahl|1875|Mb Vm aliique recc.|Qu. Gr. p. 10
