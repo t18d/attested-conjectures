@@ -1419,9 +1419,17 @@ Sen. nat. 3.27.11|-reptum|diremptum|Erasmus|1515|Paris. lat. 6386 (T)|
 Sen. nat. 3.27.14|aut|an|W. Gemoll|1890|Paris. lat. 6386 (T)|
 Sen. nat. 3.28.6|maximisque|maximis|W. Gemoll|1890|π|
 Sen. nat. 3.29.1|-ant|profundantur|Franz Skutsch|1907|recc.|apud Gercke
+Sen. nat. 3.29.1|bellum|belum|Fortunatus|1522|Cam.2D|
+Sen. nat. 3.29.3|-to|liniamenta|Fortunatus|1522|Genev. lat. 77 (Z)|
+Sen. nat. 3.29.5|-eriue|abolerique|L. Castiglioni|1922|Cambrai 939 (Cam.)|
+Sen. nat. 3.29.6|-us|impetu|Erasmus|1515|W2|
+Sen. nat. 3.29.7|curr-|decurrent|L. Castiglioni|1921|Genev. lat. 77 (Z)|
+Sen. nat. 3.30.3|auar- aut|aut auaritia|H. Mueck|1890|L2|
 Sen. nat. 3.praef.3|post meridianas horas|postmeridianis horis|Erasmus|1515|Genev. lat. 77 (Z)|
 Sen. nat. 3.praef.9|inueniri|iniri|Muretus|1585|Genev. lat. 77 (Z)|
 Sen. nat. 3.praef.10|uid-|uicisse|G. Müller|1886|f et recc.|
+Sen. nat. 4a|De Nilo|De nilo|Alfred Gercke|1907|Cambrai 939 (Cam.)|
+Sen. nat. 4a.praef.2|si modo|modo (prius)|Nonius Pincianus|1536|Zγ|
 Sen. nat. 6.22.1|terram|tecta|M. C. Gertz|1874|ZL2|
 Sen. nat. 7.14.1|-ercere|exerere|Franz Skutsch|1907|B2|ap. Gercke
 Simon. fr. 20.9|νηπίοισι|νή]πιοι|Joachim Camerarius|1551|P.Oxy. LIX 3965|
