@@ -1413,7 +1413,12 @@ Sen. nat. 3.26.8|inibi/nubi|ubi|L. Fromondus|1632|WCam.DET|
 Sen. nat. 3.26.8|-gorum|naufragiorum|Haupt|1876|Exeter 3549B (X)|
 Sen. nat. 3.27.1|aut|an|M. C. Gertz|1884|Genev. lat. 77 (Z)|
 Sen. nat. 3.27.1|perc-|procurrant|M. C. Gertz|1874|Genev. lat. 77 (Z)|
-Sen. nat. 3.27.7|rev-|resolutis|Gronovius|1658|Genev. lat. 77 (Z)|
+Sen. nat. 3.27.5|-et|sustinent|Madvig|1873|F1|
+Sen. nat. 3.27.7|reuol-|resolutis|Gronovius|1658|Genev. lat. 77 (Z)|
+Sen. nat. 3.27.11|-reptum|diremptum|Erasmus|1515|Paris. lat. 6386 (T)|
+Sen. nat. 3.27.14|aut|an|W. Gemoll|1890|Paris. lat. 6386 (T)|
+Sen. nat. 3.28.6|maximisque|maximis|W. Gemoll|1890|π|
+Sen. nat. 3.29.1|-ant|profundantur|Franz Skutsch|1907|recc.|apud Gercke
 Sen. nat. 3.praef.3|post meridianas horas|postmeridianis horis|Erasmus|1515|Genev. lat. 77 (Z)|
 Sen. nat. 3.praef.9|inueniri|iniri|Muretus|1585|Genev. lat. 77 (Z)|
 Sen. nat. 3.praef.10|uid-|uicisse|G. Müller|1886|f et recc.|
