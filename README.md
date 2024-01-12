@@ -1351,7 +1351,10 @@ Sen. nat. 1.14.3|percussu|rep-|Alfred Gercke|1907|recc.|
 Sen. nat. 1.17.3|-polari|interpellari|Andreas Schott|1615|ζ|
 Sen. nat. 2.2.2|et|est|J. Bongarsius|1845|W2|apud Fickert
 Sen. nat. 2.4.1|hoc|hunc|W. Kroll|1907|ζL2B|apud Gercke
-Sen. nat. 2.5.1|ut (a)eque -gas/ut equ(a)e -ges|nisi eque interrogas|O. Rossbach|1907|Escorial. N.III.16 (f)|apud Gercke
+Sen. nat. 2.5.1|ut (a)eque -gas/ut equ(a)e -ges|nisi eque interrogas|O. Rossbach|1907|Escor. N.III.16 (f)|apud Gercke
+Sen. nat. 2.11.1|iam|ima|Muretus|1585|E2|
+Sen. nat. 2.12.3|dist-|destillare|W. Kroll|1907|Escor. O.III.2 (R)|apud Gercke
+Sen. nat. 2.12.3|dist-|destillare|Franz Skutsch|1907|Escor. O.III.2 (R)|apud Gercke
 Sen. nat. 2.21.2|nisi ex (eo quod)|nisi ex eo|Madvig|1873|Montepess. 116 (G)|
 Sen. nat. 2.21.2|nisi ex (eo quod)|nisi ex igne|Günther|1907|Genev. lat. 77 (Z)|apud Gercke
 Sen. nat. 2.22.3|ne hoc|nec hoc|Madvig|1873|O Z|
