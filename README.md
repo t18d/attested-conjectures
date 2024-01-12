@@ -1478,8 +1478,20 @@ Sen. nat. 6.7.5|iam … p. ultra animum|ultra … p. animum|Erasmus|1515|ZL2|
 Sen. nat. 6.7.5|quo|quod|Muretus|1585|ZW1|
 Sen. nat. 6.8.3|a|e|Madvig|1873|Genev. lat. 77 (Z)|
 Sen. nat. 6.8.3|illos|ipsos|C. R. Fickert|1845|Genev. lat. 77 (Z)|
-Sen. nat. 6.8.4|aquis herbae s.|herbis aque sunt|Franz Skutsch|1907|445 (S)|ap. Gercke
+Sen. nat. 6.8.4|aquis herbae s.|herbis aque sunt|Franz Skutsch|1907|Montepess. 445 (S)|ap. Gercke
+Sen. nat. 6.11|diffund-|diffindit|Nonius Pincianus|1536|Berol. lat. oct. 9 (E)|
+Sen. nat. 6.11|fuit|fuerit|Franz Skutsch|1907|BVRU|ap. Gercke
+Sen. nat. 6.14.4|intercidit|interscindit|Nonius Pincianus|1536|cod. Anicianus|
+Sen. nat. 6.18.6|-it -us|effici spiritu|Muretus|1585|Genev. lat. 77 (Z)|
+Sen. nat. 6.21.1|nec|ne|M. C. Gertz|1874|Genev. lat. 77 (Z)|
+Sen. nat. 6.21.2|-i|alternis|H. C. Michaelis|1854|Genev. lat. 77 (Z)|
+Sen. nat. 6.21.2|-itur|sequetur|Alfred Gercke|1907|Cambrai 939 (Cam.)|
 Sen. nat. 6.22.1|terram|tecta|M. C. Gertz|1874|ZL2|
+Sen. nat. 6.27.2|est|del.|Alfred Gercke|1907|Leid. Voss. lat. F.69 (L)|
+Sen. nat. 6.27.2|est|del.|O. Rossbach|1907|Leid. Voss. lat. F.69 (L)|apud Gercke
+Sen. nat. 6.28.2|terras c.|terra se continet|L. Castiglioni|1922|Genev. lat. 77 (Z)|
+Sen. nat. 6.28.2|-tis|conditus|Friedrich Haase|1852|W1G|
+Sen. nat. 6.31.3|itemque|iterumque|L. Castiglioni|1929|ZL2|apud Oltramare
 Sen. nat. 7.14.1|-ercere|exerere|Franz Skutsch|1907|Genev. lat. 77 (Z)|ap. Gercke
 Simon. fr. 20.9|νηπίοισι|νή]πιοι|Joachim Camerarius|1551|P.Oxy. LIX 3965|
 Simon. fr. 20.10|βιότου|βιότοι'|Joachim Camerarius|1551|P.Oxy. LIX 3965|
