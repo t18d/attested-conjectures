@@ -70,6 +70,7 @@
         <li>Seneca, L. Annaeus, <em>Dialogorum libri XII</em>, ed. Emil Hermes (Leipzig, 1905).</li>
         <li>Seneca, L. Annaeus, <em>Naturalium quaestionum libri VIII</em>, ed. Alfred Gercke (Leipzig, 1907).</li>
         <li>Seneca, L. Annaeus, <em>Ad Lucilium epistularum moralium quae supersunt</em>, ed. Otto Hense (Leipzig, 1914).</li>
+        <li>Seneca, L. Annaeus, <em>Naturalium quaestionum libri</em>, ed. Harry M. Hine (Stuttgart, 1996).</li>
         <li>Scribonius Largus, <em>Compositiones</em>, ed. Sergio Sconocchia (Berlin, 2020).</li>
         <li>Snell, Bruno, and Richard Kannicht (eds), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, i: <em>Didascaliae tragicae, catalogi tragicorum et tragoediarum, testimonia et fragmenta tragicorum minorum</em> (Göttingen, 1986).</li>
         <li>Sommerstein, Alan H., 'The history of the text of Aristophanes', in <em>Brill's Companion to the Study of Greek Comedy</em> (Brill, 2010), 399–422 at 412n69.</li>
