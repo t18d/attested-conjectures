@@ -445,7 +445,7 @@ Cic. Cael. 54|laborata|elaborata|Antonius Augustinus|1581|P.Lond.Lit 143|apud Ur
 Cic. Cael. 57|sic enim obiectum (est)|sic est enim obiectum|Karl Halm|1856|CvCii|
 Cic. Cael. 58|ad eadem rem|ad eam rem|Madvig|1876|CvCii|p. 326
 Cic. Cael. 59|ibi/urbi|mihi|Orelli|1826/32|CvCbCii|
-Cic. Cael. 60|sed enim|etenim|J. Gruter|1618|CvCii|
+Cic. Cael. 60|sed enim|etenim|Janus Gruter|1618|CvCii|
 Cic. Cael. 61|aiunt hoc|aiunt huic|Madvig|1887|CvCii|p. 321
 Cic. Cael. 61|iam iam|iam|G. Oetling|1868|CvCbCi|ed. Romana
 Cic. Cael. 71|afraria|aeraria|G. Garatoni|1787|Cv|
@@ -1495,7 +1495,10 @@ Sen. nat. 6.31.3|itemque|iterumque|L. Castiglioni|1929|ZL2|apud Oltramare
 Sen. nat. 7.2.3|om.|nos|Lipsius|1632|Genev. lat. 77 (Z)|teste Fromondo
 Sen. nat. 7.11.3|dem-|dimissos|C. R. Fickert|1845|Leid. B.P.L. 199 (O)|
 Sen. nat. 7.14.1|-ercere|exerere|Franz Skutsch|1907|Bpc|ap. Gercke
-Sen. nat. 7.20.2|-que r.|qu(a)e repentinum|J. Gruterus|1594|ZU|
+Sen. nat. 7.20.2|-que r.|qu(a)e repentinum|Janus Gruter|1594|ZU|
+Sen. nat. 7.20.3|si ced-|secedentis|Fortunatus|1522|Escor. N.III.16 (f)|
+Sen. nat. 7.30.5|mundus|etas|M. C. Gertz|1884|ZL2|
+Sen. nat. 7.32.1|philosophum|-phiam|Fortunatus|1522|Monach. Clm 11049 (U)|
 Simon. fr. 20.9|νηπίοισι|νή]πιοι|Joachim Camerarius|1551|P.Oxy. LIX 3965|
 Simon. fr. 20.10|βιότου|βιότοι'|Joachim Camerarius|1551|P.Oxy. LIX 3965|
 Simon. fr. 25.5|χεέτω|χείτω|M. L. West|1989|P.Oxy. LXXXI 5261|
