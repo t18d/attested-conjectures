@@ -1394,7 +1394,7 @@ Soph. Ant. 314|-ωσμέ-|σεσωμένους|Wecklein|n.d.|Marc. gr. 470 (Ta)|
 Soph. Ant. 342|κουφονέων|κουφονόων|Johannes Pierson|s.xviii med.|Λac et S|
 Soph. Ant. 365|σοφόν|δεινόν|Heimsoeth|1865|t|
 Soph. Ant. 384|om.|ἡ|Markland|s.xviii med.|Palat. gr. 287 (Zo)|
-Soph. Ant. 390|ποθ ̓|γ ̓ ἂν|Erfurdt|1802-25|t|
+Soph. Ant. 390|ποθ ̓|γ ̓ ἂν|Erfurdt|1802–25|t|
 Soph. Ant. 396|κλῆρος|κλῆρος δ ̓|G. Müller|1967|Paris. gr. 2884 (Ζf)|
 Soph. Ant. 404|ἴδον|ἰδὼν|Brunck|1786-9|Paris. gr. 2886|i.e. Aristobulus Apostolides
 Soph. Ant. 406|εὐρέθη|ᾑρέθη|Markland|s.xviii med.|Laur. 32. 9 (L)|fort. pc legit sch. ut videtur
@@ -1402,7 +1402,7 @@ Soph. Ant. 410|εὖ|αὖ|Reiske|1753|Marc. gr. 468 (V)|
 Soph. Ant. 422|ἀπαλλαγέντος|-έντες|G. H. Schaefer|n.d.|Vat. gr. 2291 (R)|S in linea
 Soph. Ant. 444|ἧ|οἷ|Meineke|1861|Palat. gr. 287 (Zo)|
 Soph. Ant. 480|τότ ̓|τόδ ̓|Sehrwald|n.d.|Laur. 31.10 (K)|
-Soph. Ant. 567|μέν σοι|μέντοι|Brunck|1786-9|Urb. gr. 141 (S)|
+Soph. Ant. 567|μέν σοι|μέντοι|Brunck|1786–9|Urb. gr. 141 (S)|
 Soph. Ant. 573|γε|με|Frederick H. M. Blaydes|n.d.|Zf in linea|
 Soph. Ant. 592|βρέμουσι δ'|βρέμουσιν|Johannes Pierson|s.xviii med.|Palat. gr. 287 (Zo)|
 Soph. Ant. 599|ὑπὲρ|ὅπερ|Markland|s.xviii med.|Laur. 31.10 (K)|s.l. (ex sch.)
@@ -1415,7 +1415,7 @@ Soph. Ant. 836|-ῃ/-ῳ/-αν|φθιμένᾳ|Johannes Pierson|s.xviii med.|Lau
 Soph. Ant. 848|ἔργμα|ἕρμα|Hermann|n.d.|Urb. gr. 141 (S)|
 Soph. Ant. 859|οἶκτον|οἶτον|Brunck|1786–9|Kpc|
 Soph. Ant. 938|πατρογενεῖς|προγενεῖς|Valckenaer|pre-1775|Laur. 32. 9 (L)|
-Soph. Ant. 989|-ες|βλέποντε|Moriz Schmidt|1871-80|LpcKa|
+Soph. Ant. 989|-ες|βλέποντε|Moriz Schmidt|1871–80|LpcKa|
 Soph. Ant. 1069|κατῴκ-|κατοικίσας|Henrik van Herwerden|n.d.|Laur. 31.10 (K)|
 Soph. Ant. 1081|-γνι-|καθήγισαν|Burton|n.d.|VacZc|
 Soph. Ant. 1089|-ωτέραν|ἡσυχαιτέραν|G. H. Schaefer|n.d.|Zg et Laur. 31.1|
@@ -1439,7 +1439,7 @@ Soph. El. 583|-εις|τυγχάνοις|Turnebus|1552–3|Vindob. suppl. gr. 71
 Soph. El. 593|δ'|γ'|J. A. Hartung|1850–1|Paris. gr. 2735 (C)|
 Soph. El. 653|εὐημεροῦσαν|-σα|Erfurdt|1802–25|Laur. 32.40 (H)|
 Soph. El. 653|τέκνων|-οις|Benedict|n.d.|Vindob. phil. gr. 161 (Xr)|s.l.
-Soph. El. 689|τοιοῦδ'|τοιάδ'|Brunck|1786-9|Marc. gr. 616 (Zr)|
+Soph. El. 689|τοιοῦδ'|τοιάδ'|Brunck|1786–9|Marc. gr. 616 (Zr)|
 Soph. El. 710|κλήροις|-ους|Wunder|1831|Paris. gr. 2735 (C)|
 Soph. El. 758|δειλαίας σποδοῦ|-αν -όν|F. Neue|1831|p|supra lineam
 Soph. El. 762|οἵπερ|ὥσπερ|J. A. Hartung|1850–1|Laur. CS 41|
