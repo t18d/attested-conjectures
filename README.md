@@ -1415,6 +1415,7 @@ Sen. nat. 3.26.8|-gorum|naufragiorum|Haupt|1876|Exeter 3549B (X)|
 Sen. nat. 3.27.1|aut|an|M. C. Gertz|1884|Genev. lat. 77 (Z)|
 Sen. nat. 3.27.1|perc-|procurrant|M. C. Gertz|1874|Genev. lat. 77 (Z)|
 Sen. nat. 3.27.5|-et|sustinent|Madvig|1873|F1|
+Sen. nat. 3.27.7|ingruunt|-uerunt|O. Waldaestel|1888|Paris. lat. 6386 (T)|
 Sen. nat. 3.27.7|reuol-|resolutis|Gronovius|1658|Genev. lat. 77 (Z)|
 Sen. nat. 3.27.11|-reptum|diremptum|Erasmus|1515|Paris. lat. 6386 (T)|
 Sen. nat. 3.27.14|aut|an|W. Gemoll|1890|Paris. lat. 6386 (T)|
