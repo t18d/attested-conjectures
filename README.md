@@ -1349,6 +1349,8 @@ Sen. nat. 1.13.2|natur(a)e solis|natura solide|B. Larisch|1874|TCam.DX|
 Sen. nat. 1.13.2|percussu|rep-|W. Kroll|1907|W2|apud Gercke
 Sen. nat. 1.14.3|percussu|rep-|Alfred Gercke|1907|recc.|
 Sen. nat. 1.17.3|-polari|interpellari|Andreas Schott|1615|ζ|
+Sen. nat. 1.praef.3|dim-|deminutio|Muretus|1585|Genev. lat. 77 (Z)|
+Sen. nat. 1.praef.6|deo|dei|Erasmus|1515|W2|
 Sen. nat. 2.2.2|et|est|J. Bongarsius|1845|W2|apud Fickert
 Sen. nat. 2.4.1|hoc|hunc|W. Kroll|1907|ζL2B|apud Gercke
 Sen. nat. 2.5.1|ut (a)eque -gas/ut equ(a)e -ges|nisi eque interrogas|O. Rossbach|1907|Escor. N.III.16 (f)|apud Gercke
@@ -1372,14 +1374,18 @@ Sen. nat. 2.46|uim/et uim|sed uim|Alfred Gercke|1907|recc.|
 Sen. nat. 2.47|id (d)en-|denuntiat|Friedrich Haase|1852|Leid. B. P. L. 199 (O)|
 Sen. nat. 2.51|fulmina|del.|F. Schultess|1888|Paris. lat. 6628 (P)|
 Sen. nat. 2.52.2|-oris|interiori|Alfred Gercke|1907|Monach. Clm 11049 (U)|
-Sen. nat. 2.54.2|-a(m)|uniuersum|Zimmermann|1907|Genev. lat. 77 (Z)|apud Gercke
+Sen. nat. 2.54.2|-a(m)|uniuersum|Zimmermann|1907|ZU2|apud Gercke
+Sen. nat. 2.54.3|citi|icti|B. Axelson|1933|Monach. Clm 11049 (U)|
+Sen. nat. 2.54.3|terit|teritur|Fortunatus|1522|Monach. Clm 11049 (U)|
+Sen. nat. 2.55.4|-um|motu|F. Schultess|1888|Monach. Clm 11049 (U)|
+Sen. nat. 2.58.1|celerum e.|celerrimum est|Fortunatus|1522|A1 et recc.|
+Sen. nat. 2.59.5|corrig-|confligitur|Haupt|1876|recc.|
 Sen. nat. 3.11.6|autem|amnem|Friedrich Haase|1852|Genev. lat. 77 (Z)|
 Sen. nat. 3.24.4|introeuntes|nitro euntes|M. C. Gertz|1874|Paris. lat. 8624 (H)|
 Sen. nat. 3.27.7|rev-|resolutis|Gronovius|1658|Genev. lat. 77 (Z)|
+Sen. nat. 3.praef.3|post meridianas horas|postmeridianis horis|Erasmus|1515|Genev. lat. 77 (Z)|
 Sen. nat. 6.22.1|terram|tecta|M. C. Gertz|1874|ZL2|
 Sen. nat. 7.14.1|-ercere|exerere|Franz Skutsch|1907|B2|ap. Gercke
-Sen. nat. praef. 3|dim-|deminutio|Muretus|1585|Genev. lat. 77 (Z)|
-Sen. nat. praef. 6|deo|dei|Erasmus|1515|W2|
 Simon. fr. 20.9|νηπίοισι|νή]πιοι|Joachim Camerarius|1551|P.Oxy. LIX 3965|
 Simon. fr. 20.10|βιότου|βιότοι'|Joachim Camerarius|1551|P.Oxy. LIX 3965|
 Simon. fr. 25.5|χεέτω|χείτω|M. L. West|1989|P.Oxy. LXXXI 5261|
