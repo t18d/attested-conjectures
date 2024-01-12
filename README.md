@@ -1429,6 +1429,13 @@ Sen. nat. 3.praef.3|post meridianas horas|postmeridianis horis|Erasmus|1515|Gene
 Sen. nat. 3.praef.9|inueniri|iniri|Muretus|1585|Genev. lat. 77 (Z)|
 Sen. nat. 3.praef.10|uid-|uicisse|G. Müller|1886|f et recc.|
 Sen. nat. 4a|De Nilo|De nilo|Alfred Gercke|1907|Cambrai 939 (Cam.)|
+Sen. nat. 4a.2.1|usura|(h)ausura|Fortunatus|1522|E2|
+Sen. nat. 4a.2.1|-it|posset|C. F. W. Müller|1866|Genev. lat. 77 (Z)|
+Sen. nat. 4a.2.5|leui|leni|Erasmus|1529|Genev. lat. 77 (Z)|
+Sen. nat. 4a.2.5|ubi in|ubi|Fortunatus|1522|Genev. lat. 77 (Z)|
+Sen. nat. 4a.2.7|hoc|hac|Nonius Pincianus|1536|Genev. lat. 77 (Z)|
+Sen. nat. 4a.2.10|nimiumque|minimumque|Fortunatus|1522|ZθW|
+Sen. nat. 4a.2.12|et aliud/aqu(a)e|atque aliud|Erasmus|1515|Genev. lat. 77 (Z)|
 Sen. nat. 4a.praef.2|si modo|modo (prius)|Nonius Pincianus|1536|Zγ|
 Sen. nat. 4a.praef.4|quisque|patet q.|W. H. Alexander|1948|Genev. lat. 77 (Z)|
 Sen. nat. 4a.praef.5|fieris|ferieris|P. Oltramare|1929|D2X|
@@ -1440,7 +1447,8 @@ Sen. nat. 4a.praef.10|suscip-|suspicere|Erasmus|1515|Genev. lat. 77 (Z)|
 Sen. nat. 4a.praef.13|-rit|dixeris|Fortunatus|1522|W2|
 Sen. nat. 4a.praef.16|-uit|examinaui|H. C. Michaelis|1854|recc.|
 Sen. nat. 4a.praef.16|q. me|quidem|Madvig|1873|Genev. lat. 77 (Z)|
-Sen. nat. 4a.praef.17|a-|operto|H. A. Koch|1874|recc.|
+Sen. nat. 4a.praef.17|ap-|operto|H. A. Koch|1874|recc.|
+Sen. nat. 4a.praef.19|a te|te|Erasmus|1515|Genev. lat. 77 (Z)|
 Sen. nat. 6.22.1|terram|tecta|M. C. Gertz|1874|ZL2|
 Sen. nat. 7.14.1|-ercere|exerere|Franz Skutsch|1907|B2|ap. Gercke
 Simon. fr. 20.9|νηπίοισι|νή]πιοι|Joachim Camerarius|1551|P.Oxy. LIX 3965|
