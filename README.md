@@ -1363,7 +1363,13 @@ Sen. nat. 2.24.3|-eres|permittes|C. R. Fickert|1845|δFP|
 Sen. nat. 2.26.5|uerter-|urerentur|Nonius Pincianus|1536|E2|
 Sen. nat. 2.26.7|quod/que|ut|Madvig|1873|ζ|
 Sen. nat. 2.32.4|sed non/si|si non|Alfred Gercke|1907|recc.|
-Sen. nat. 2.47|id enuntiat|denuntiat|Friedrich Haase|1852|Leid. B. P. L. 199 (O)|
+Sen. nat. 2.34.4|quidem/om.|quid|L. Castiglioni|1921|W2|
+Sen. nat. 2.35.2|nec|ne|M. C. Gertz|1874|ZW|
+Sen. nat. 2.40.1|-mo|primum|B. Axelson|1933|Escor. N.III.16 (f)|
+Sen. nat. 2.42.3|iud-|indicauerunt|Erasmus|1515|Bamb. M.IV.16 (B)|
+Sen. nat. 2.46|ad omne et m.|admouet manum|Alfred Gercke|1907|W2 et recc.|
+Sen. nat. 2.46|uim/et uim|sed uim|Alfred Gercke|1907|recc.|
+Sen. nat. 2.47|id (d)en-|denuntiat|Friedrich Haase|1852|Leid. B. P. L. 199 (O)|
 Sen. nat. 2.51|fulmina|del.|F. Schultess|1872–88|Paris. lat. 6628 (P)|
 Sen. nat. 2.54.2|-a(m)|uniuersum|Zimmermann|1907|Genev. lat. 77 (Z)|apud Gercke
 Sen. nat. 3.11.6|autem|amnem|Friedrich Haase|1852|Genev. lat. 77 (Z)|
