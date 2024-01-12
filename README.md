@@ -1375,6 +1375,7 @@ Sen. nat. 2.46|uim/et uim|sed uim|Alfred Gercke|1907|recc.|
 Sen. nat. 2.47|id (d)en-|denuntiat|Friedrich Haase|1852|Leid. B.P.L. 199 (O)|
 Sen. nat. 2.51|fulmina|del.|F. Schultess|1888|Paris. lat. 6628 (P)|
 Sen. nat. 2.52.2|-oris|interiori|Alfred Gercke|1907|Monach. Clm 11049 (U)|
+Sen. nat. 2.52.2|arboris|del.|I. Opsopoeus|1587|ZP|
 Sen. nat. 2.54.2|-a(m)|uniuersum|Zimmermann|1907|ZU2|apud Gercke
 Sen. nat. 2.54.3|citi|icti|B. Axelson|1933|Monach. Clm 11049 (U)|
 Sen. nat. 2.54.3|terit|teritur|Fortunatus|1522|Monach. Clm 11049 (U)|
@@ -1433,11 +1434,13 @@ Sen. nat. 3.praef.10|uid-|uicisse|G. Müller|1886|f et recc.|
 Sen. nat. 4|De Nilo|De nilo|Alfred Gercke|1907|Cambrai 939 (Cam.)|
 Sen. nat. 4.2.1|usura|(h)ausura|Fortunatus|1522|E2|
 Sen. nat. 4.2.1|-it|posset|C. F. W. Müller|1866|Genev. lat. 77 (Z)|
+Sen. nat. 4.2.4|-que|del.|Friedrich Haase|1852|Leid. B.P.L. 199 (O)|
 Sen. nat. 4.2.5|leui|leni|Erasmus|1529|Genev. lat. 77 (Z)|
 Sen. nat. 4.2.5|ubi in|ubi|Fortunatus|1522|Genev. lat. 77 (Z)|
 Sen. nat. 4.2.7|hoc|hac|Nonius Pincianus|1536|Genev. lat. 77 (Z)|
 Sen. nat. 4.2.10|nimiumque|minimumque|Fortunatus|1522|ZθW|
 Sen. nat. 4.2.12|et aliud/aqu(a)e|atque aliud|Erasmus|1515|Genev. lat. 77 (Z)|
+Sen. nat. 4.2.18|est|del.|Franz Skutsch|1907|ρ|apud Gercke
 Sen. nat. 4.2.18|om.|quae|Fortunatus|1522|Genev. lat. 77 (Z)|
 Sen. nat. 4.2.20|illis|illic|S. Vassis|1907–8|DX|
 Sen. nat. 4.2.22|-su|cursum|Diels|1886|Marc. lat. Z.268 (W)|
@@ -1454,6 +1457,7 @@ Sen. nat. 4.7.2|-asset|excantassit|Schoell|1907|Genev. lat. 77 (Z)|apud Gercke
 Sen. nat. 4.11.3|earum|del.|D. Vottero|1980|Escor. O.III.2 (R)|
 Sen. nat. 4.praef.2|si modo|modo (prius)|Nonius Pincianus|1536|Zγ|
 Sen. nat. 4.praef.4|quisque|patet q.|W. H. Alexander|1948|Genev. lat. 77 (Z)|
+Sen. nat. 4.praef.4|fortasse — petitur|del.|Leo|1907|ZU|apud Gercke
 Sen. nat. 4.praef.5|fieris|ferieris|P. Oltramare|1929|D2X|
 Sen. nat. 4.praef.5|uilleium|uitellium|Lipsius|1605|ZL2|ad Tac. Ann. 6.32
 Sen. nat. 4.praef.7|-a -e|incertam fidem|Erasmus|1515|ZW|
