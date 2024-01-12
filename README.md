@@ -1436,6 +1436,11 @@ Sen. nat. 4a.praef.5|uilleium|uitellium|Lipsius|1605|ZL2|ad Tac. Ann. 6.32
 Sen. nat. 4a.praef.7|-a -e|incertam fidem|Erasmus|1515|ZW|
 Sen. nat. 4a.praef.9|aliam|alienam|Muretus|1585|Genev. lat. 77 (Z)|
 Sen. nat. 4a.praef.10|talia|alia|Nonius Pincianus|1536|D1 et recc.|
+Sen. nat. 4a.praef.10|suscip-|suspicere|Erasmus|1515|Genev. lat. 77 (Z)|
+Sen. nat. 4a.praef.13|-rit|dixeris|Fortunatus|1522|W2|
+Sen. nat. 4a.praef.16|-uit|examinaui|H. C. Michaelis|1854|recc.|
+Sen. nat. 4a.praef.16|q. me|quidem|Madvig|1873|Genev. lat. 77 (Z)|
+Sen. nat. 4a.praef.17|a-|operto|H. A. Koch|1874|recc.|
 Sen. nat. 6.22.1|terram|tecta|M. C. Gertz|1874|ZL2|
 Sen. nat. 7.14.1|-ercere|exerere|Franz Skutsch|1907|B2|ap. Gercke
 Simon. fr. 20.9|νηπίοισι|νή]πιοι|Joachim Camerarius|1551|P.Oxy. LIX 3965|
