@@ -68,6 +68,7 @@
         <li>Reynolds, L. D. (ed.), <em>Texts and Transmission: A Survey of the Latin Classics</em> (Oxford, 1983).</li>
         <li>Sappho and Alcaeus, <em>Fragmenta</em>, ed. Eva-Maria Voigt (Amsterdam, 1971).</li>
         <li>Seneca, L. Annaeus, <em>Dialogorum libri XII</em>, ed. Emil Hermes (Leipzig, 1905).</li>
+        <li>Seneca, L. Annaeus, <em>Naturalium quaestionum libri VIII</em>, ed. Alfred Gercke (Leipzig, 1907).</li>
         <li>Seneca, L. Annaeus, <em>Ad Lucilium epistularum moralium quae supersunt</em>, ed. Otto Hense (Leipzig, 1914).</li>
         <li>Scribonius Largus, <em>Compositiones</em>, ed. Sergio Sconocchia (Berlin, 2020).</li>
         <li>Snell, Bruno, and Richard Kannicht (eds), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, i: <em>Didascaliae tragicae, catalogi tragicorum et tragoediarum, testimonia et fragmenta tragicorum minorum</em> (Göttingen, 1986).</li>
