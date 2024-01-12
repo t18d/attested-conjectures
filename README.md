@@ -1407,6 +1407,12 @@ Sen. nat. 3.25.9|-us|lacu|Nonius Pincianus|1536|Genev. lat. 77 (Z)|
 Sen. nat. 3.25.11|siue|seu|Franz Skutsch|1907|Genev. lat. 77 (Z)|apud Gercke
 Sen. nat. 3.26.2|-atur|reuerberato|Nonius Pincianus|1536|Monach. Clm 11049 (U)|
 Sen. nat. 3.26.3|-to|secretos|L. Castiglioni|1921|Escor. N.III.16 (f)|
+Sen. nat. 3.26.5|-e|mari|Franz Skutsch|1907|Genev. lat. 77 (Z)|apud Gercke
+Sen. nat. 3.26.6|fundat|-it|Alfred Gercke|1907|Marc. lat. Z.268 (W)|
+Sen. nat. 3.26.8|inibi/nubi|ubi|L. Fromondus|1632|WCam.DET|
+Sen. nat. 3.26.8|-gorum|naufragiorum|Haupt|1876|Exeter 3549B (X)|
+Sen. nat. 3.27.1|aut|an|M. C. Gertz|1884|Genev. lat. 77 (Z)|
+Sen. nat. 3.27.1|perc-|procurrant|M. C. Gertz|1874|Genev. lat. 77 (Z)|
 Sen. nat. 3.27.7|rev-|resolutis|Gronovius|1658|Genev. lat. 77 (Z)|
 Sen. nat. 3.praef.3|post meridianas horas|postmeridianis horis|Erasmus|1515|Genev. lat. 77 (Z)|
 Sen. nat. 3.praef.9|inueniri|iniri|Muretus|1585|Genev. lat. 77 (Z)|
