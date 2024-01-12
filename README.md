@@ -1494,7 +1494,7 @@ Soph. OC 1735|ποῖ|πῇ|Karl Halm|n.d.|Laur. 31.10 (K)|
 Soph. OC 1736|τλάμονων|τλάμον ̓|Hermann|n.d.|r|
 Soph. OC 1736|ἕξω/ἔξω|ἄξω|Frederick H. M. Blaydes|n.d.|Laur. 31.10 (K)|
 Soph. OT 75|χρόνου|-ον|Purgold|n.d.|Marc. gr. 468 (V)|
-Soph. OT 79|προσστείχοντα|προστ-|Erfurdt|1802-25|Vat. gr. 2291 (R)|
+Soph. OT 79|προσστείχοντα|προστ-|Erfurdt|1802–25|Vat. gr. 2291 (R)|
 Soph. OT 188|ὧν|τῶν|B. H. Kennedy|1885|PSI XI 1192|τω]ν
 Soph. OT 222|ὕστερος|-ον|Frederick H. M. Blaydes|n.d.|Marc. gr. 616 (Zr)|
 Soph. OT 222|ἀστὸς|αὐτὸς|Elmsley|n.d.|pa|
@@ -1502,7 +1502,7 @@ Soph. OT 258|ἐπικυρῶ|ἐπεὶ κυρῶ|Burton|n.d.|Laur. CS 66|
 Soph. OT 281|ἂν|ἃν|Henri Estienne|n.d.|Vindob. phil. gr. 161 (Xr)|
 Soph. OT 290|παλαί ̓|μάται ̓|Halbertsma|n.d.|WaZg|
 Soph. OT 324|φών-|φρόνημ ̓|Naber|n.d.|r|
-Soph. OT 360|λέγειν|λόγων|Brunck|1786-9|Laur. 32.9 (L)|s.l. teste West
+Soph. OT 360|λέγειν|λόγων|Brunck|1786–9|Laur. 32.9 (L)|s.l. teste West
 Soph. OT 430|οὐ|αὖ|G. Wolff|1858–65|P.Oxy. I 22|in linea
 Soph. OT 433|ᾔδει(ν)|ᾔδη|Dawes|s.xviii med.|P.Oxy. XVIII 2180|in margine
 Soph. OT 446|ἀλγύναις|-οις|Elmsley|n.d.|Matrit. gr. 4677 (N)|
@@ -1516,7 +1516,7 @@ Soph. OT 570|τοσόνδε|τὸ σὸν δέ|Brunck|1786–9|LacKp|
 Soph. OT 630|οὐχὶ|οὐ|Brunck|1786–9|DZr|
 Soph. OT 658|ζητῇς|χρῄζῃς|Meineke|n.d.|r|
 Soph. OT 685|προπονουμένῳ/προπονουμένας|προνοουμένῳ|Frederick H. M. Blaydes|n.d.|Marc. gr. 468 (V)|
-Soph. OT 694|τ'|γ'|Turnebus|1552-3|p|
+Soph. OT 694|τ'|γ'|Turnebus|1552–3|p|
 Soph. OT 733 schol.|κέλευθον|κελεύθων|Scaliger|post-1568|GMR|
 Soph. OT 766|τοῦτ ̓|τοῦ δ ̓|Frederick H. M. Blaydes|n.d.|Vpc|
 Soph. OT 778|habent|del.|Valckenaer|pre-1775|P.Oxy. XI 1369|
@@ -1622,7 +1622,7 @@ Sor. Gyn. 2–3|Ζήνωνα ... Ἀριστοτέλην τὸν Ἐπικούρ
 St.Byz. Δ 40|δειδείχ-/δεδείχ-|δειδέχαται|Bentley|1693|RVΠ|
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
-Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839-57|Paris. gr. 3012|
+Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839–57|Paris. gr. 3012|
 Stob. 3.34.2|λέγε|λέγ᾽ εὖ|Valckenaer|1767|Laur. 8.22 (L)|
 Stob. 3.34.2|φέροι|φέρει|Cobet|1878|Laur. 8.22 (L)|L 3.13
 Stob. 4.20.46|χερσὶ(ν)|χεροῖν|Scaliger|1623|Paris. 1985 (B) teste Brunck/Gaisford|S. apud Grotium
@@ -1638,7 +1638,7 @@ Str. 8.6.16|Οἰνώνης|Οἰνόης|Alessandro Politi|s.xvii/xviii|Vat. gr
 Str. 8.7.5|Φαρ(ι)εῖς|Φαραιεῖς|Gustav Kramer|1844|Vat. gr. 2306 + 2061 A (P)|
 Str. 9.1.6|-δον/-μαλ κτλ.|ὅμαυλον|Dindorf|1832–60|EAs|
 Str. 9.2.35|οὔτε|οὐδὲ|Adamantios Korais|1805|P.Petr. I 3|ουδ
-Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880-8|P.Cair. 65445|
+Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
 Sud. π 926|προσφ-|προφέρειν|Bekker|1854|Phot. z|Suidae Lex. p. 836a
