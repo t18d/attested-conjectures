@@ -1395,6 +1395,7 @@ Sen. nat. 3.15.3|-e/natura|matura|Fortunatus|1522|Palat. lat. 1579 (V)|
 Sen. nat. 3.15.3|-entur|durantur|P. Oltramare|1929|W2|
 Sen. nat. 3.15.6|perfecerat/patefecit|patefecerat|Friedrich Haase|1852|Paris. lat. 6386 (T)|
 Sen. nat. 3.16.3|-et|solis|Alfred Gercke|1907|Marc. lat. Z.268 (W)|
+Sen. nat. 3.16.3|-os|suus|H. C. Michaelis|1854|Speculum naturae 5.29|
 Sen. nat. 3.24.4|introeuntes|nitro euntes|M. C. Gertz|1874|Paris. lat. 8624 (H)|
 Sen. nat. 3.27.7|rev-|resolutis|Gronovius|1658|Genev. lat. 77 (Z)|
 Sen. nat. 3.praef.3|post meridianas horas|postmeridianis horis|Erasmus|1515|Genev. lat. 77 (Z)|
