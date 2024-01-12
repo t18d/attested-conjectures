@@ -1323,7 +1323,7 @@ Sen. dial. 6.12.1|in misso|in amisso|H. A. Koch|1875|Laur. 76.41 (F)|
 Sen. dial. 6.12.6|male illo|malo illae|C. R. Fickert|1845|Laur. 76.41 (F)|
 Sen. dial. 6.15.2|tamen|tamen tam|M. C. Gertz|1886|Laur. 76.41 (F)|
 Sen. dial. 6.22.1|nequitia|neque ulla|Friedrich Haase|1852|Laur. 76.41 (F)|
-Sen. dial. 11.1.1|-int|fecerunt|C. F. W. Müller|1865-6|D H V|
+Sen. dial. 11.1.1|-int|fecerunt|C. F. W. Müller|1865–6|D H V|
 Sen. epist. 48.6|sci-|inscientia|Lipsius|1605|P2|
 Sen. epist. 52.5|-abunt|lassarunt|Lipsius|1605|Vat. 2207 (Chatelain)|
 Sen. epist. 54.2|egere/agere|egerere|E. Chatelain|1877|Marc. 270|s.l.
@@ -1338,6 +1338,10 @@ Sen. epist. 95.66|eam demum|eandem vim|Erasmus|1515|WX (ψ)|
 Sen. epist. 109.4|facit quoque|facitque|Madvig|n.d.|cod. Velz.|
 Sen. epist. 109.10|partes sui|pares suis|Nonius Pincianus|1536|rec.|
 Sen. epist. 124.21|illum|et illud|Johann Schweighäuser|1809|cod. Harlei. 2659|
+Sen. nat. 2.21.2|nisi ex (eo quod)|nisi ex eo|Madvig|1871–4|Montepess. 116 (G)|
+Sen. nat. 2.21.2|nisi ex (eo quod)|nisi ex igne|Günther|n.d.|Genev. lat. 77 (Z)|apud Gercke
+Sen. nat. 2.54.2|-a(m)|uniuersum|Zimmermann|n.d.|Genev. lat. 77 (Z)|apud Gercke
+Sen. nat. 3.11.6|autem|amnem|Friedrich Haase|1859–60|Genev. lat. 77 (Z)|
 Simon. fr. 20.9|νηπίοισι|νή]πιοι|Joachim Camerarius|1551|P.Oxy. LIX 3965|
 Simon. fr. 20.10|βιότου|βιότοι'|Joachim Camerarius|1551|P.Oxy. LIX 3965|
 Simon. fr. 25.5|χεέτω|χείτω|M. L. West|1989|P.Oxy. LXXXI 5261|
