@@ -1053,7 +1053,7 @@ Men. Pk. 46|θ’ εαυτων|θ αυτων|W. G. Headlam|1908|P.Heid. G 219 + 
 Men. Pk. 46|θ’ εαυτων|θ αυτων|Jan van Leeuwen|1908|P.Heid. G 219 + 239 h|
 Men. Pk. 290|αλλ’ εις οικον τιν|εἰς δ’ οἶκόν τιν’|E. Schwartz|1929|P.Oxy. LXXIX 5200|Herm. 64 (1929) 10 n. 2
 Men. Sam. 280|τουτον|τουτονϊ|Jan van Leeuwen|1908|P.Bodm. XXV et Pap. Barcin. inv. 45|
-Men. Sam. 588|μικρο̄|μικρα|Leo|1907|P.Bodm. XXV et Pap. Barcin. inv. 45|NGG (1907) 315-341
+Men. Sam. 588|μικρο̄|μικρα|Leo|1907|P.Bodm. XXV et Pap. Barcin. inv. 45|NGG (1907) 315–41
 Men. fr. 158.2|ἀρπάγην|ἀρπαγήν|Valckenaer|1739|Ph.Bybl. 28|Animad. p. 23
 Men. fr. 167.3|-άϲαϲαν|ἐπιπολάϲαν|Wilamowitz|1870|Phot. (z) α 2806|Obs. (diss. Berol.)
 Men. fr. 248|τε|δὲ|Meineke|1839–51|Schol. R Soph. OC 1375|FCG
@@ -1150,7 +1150,7 @@ Phot. π 105|κινεῖ|κινεῖται|Dindorf|1835|Cyr. cod. A et Hsch. π 
 Phot. π 192|παρὰ αὐλίδην|παραβλήδην|Adamantios Korais|s.xviii/xix|zpc et Sud. π 270|Eἰς μνήμην  ̓Aμάντου p. 294
 Phot. π 252|-μοῦντες|παρορμῶντες|Porson|1822|zpc Σa+b Sud.|
 Phot. π 317|-απενθεῖς|παρατενεῖς|Schleusner|1810|Tim. et Hsch.|Libell. p. 71
-Phot. π 322|ἐπιστρέψαι/ἐπιτρέψαι|ἐπιτρῖψαι|Cobet|1859|Sud. codd. GMpc|Mnem. 8 (1859) 48-9
+Phot. π 322|ἐπιστρέψαι/ἐπιτρέψαι|ἐπιτρῖψαι|Cobet|1859|Sud. codd. GMpc|Mnem. 8 (1859) 48–9
 Phot. π 328|-ων|λόγῳ|Porson|1822|Harp. pl. et Sud. codd. GM|
 Phot. π 344|-ως|ὁμοίους|Schleusner|1812|Harp. pl. et Suid. codd. GMV|Cur. nov. p. 315
 Phot. π 403|παρ ̓ ἡμῖν|παρήμην|Adamantios Korais|s.xviii/xix|Σa+b Sud.|Eἰς μνήμην  ̓Aμάντου p. 294
