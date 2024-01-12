@@ -91,7 +91,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (57), Bentley (53), Reiske (52), Brunck (48), Cobet (45), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (57), Bentley (54), Reiske (52), Brunck (48), Cobet (45), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1449,6 +1449,8 @@ Sen. nat. 4.2.28|-munt|premit|L. Fromondus|1632|Zυ|
 Sen. nat. 4.2.30|quasi|quare|Fortunatus|1522|υ|
 Sen. nat. 4.3.5|non/ne|nec|B. Larisch|1865|STX|
 Sen. nat. 4.4.1|fallar|fatear|Franz Skutsch|1907|k2|apud Gercke
+Sen. nat. 4.7.2|-asset|excantassit|Schoell|1907|Genev. lat. 77 (Z)|apud Gercke
+Sen. nat. 4.11.3|earum|del.|D. Vottero|1980|Escor. O.III.2 (R)|
 Sen. nat. 4.praef.2|si modo|modo (prius)|Nonius Pincianus|1536|Zγ|
 Sen. nat. 4.praef.4|quisque|patet q.|W. H. Alexander|1948|Genev. lat. 77 (Z)|
 Sen. nat. 4.praef.5|fieris|ferieris|P. Oltramare|1929|D2X|
@@ -1462,6 +1464,11 @@ Sen. nat. 4.praef.16|-uit|examinaui|H. C. Michaelis|1854|recc.|
 Sen. nat. 4.praef.16|q. me|quidem|Madvig|1873|Genev. lat. 77 (Z)|
 Sen. nat. 4.praef.17|ap-|operto|H. A. Koch|1874|recc.|
 Sen. nat. 4.praef.19|a te|te|Erasmus|1515|Genev. lat. 77 (Z)|
+Sen. nat. 5.1.2|adu-|diuersum|Bentley|1672|Genev. lat. 77 (Z)|
+Sen. nat. 5.9.4|appareat|-ret|Alfred Gercke|1907|W1|
+Sen. nat. 5.15.1|nec … superemin-|ne … superinminente|Gronovius|1658|Genev. lat. 77 (Z)|
+Sen. nat. 5.15.3|relinq-|reliquere|O. Rossbach|1889|Escor. O.III.2 (R)|
+Sen. nat. 5.16.5|ergas-|argestes|Erasmus|1515|Monach. Clm 11049 (U)|
 Sen. nat. 6.22.1|terram|tecta|M. C. Gertz|1874|ZL2|
 Sen. nat. 7.14.1|-ercere|exerere|Franz Skutsch|1907|B2|ap. Gercke
 Simon. fr. 20.9|νηπίοισι|νή]πιοι|Joachim Camerarius|1551|P.Oxy. LIX 3965|
