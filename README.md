@@ -1346,7 +1346,8 @@ Sen. nat. 2.51|fulmina|del.|F. Schultess|1872–88|Paris. lat. 6628 (P)|
 Sen. nat. 2.54.2|-a(m)|uniuersum|Zimmermann|n.d.|Genev. lat. 77 (Z)|apud Gercke
 Sen. nat. 3.11.6|autem|amnem|Friedrich Haase|1852|Genev. lat. 77 (Z)|
 Sen. nat. 3.24.4|introeuntes|nitro euntes|M. C. Gertz|1884|Paris. lat. 8624 (H)|
-Sen. nat. 3.27.7|rev-|resolutis|Gronovius|1846|Genev. lat. 77 (Z)|apud Fickert
+Sen. nat. 3.27.7|rev-|resolutis|Gronovius|1658|Genev. lat. 77 (Z)|
+Sen. nat. 7.14.1|-ercere|exerere|Franz Skutsch|1907|B2|ap. Gercke
 Simon. fr. 20.9|νηπίοισι|νή]πιοι|Joachim Camerarius|1551|P.Oxy. LIX 3965|
 Simon. fr. 20.10|βιότου|βιότοι'|Joachim Camerarius|1551|P.Oxy. LIX 3965|
 Simon. fr. 25.5|χεέτω|χείτω|M. L. West|1989|P.Oxy. LXXXI 5261|
