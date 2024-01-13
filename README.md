@@ -1430,7 +1430,7 @@ Sen. nat. 3.30.3|auar- aut|aut auaritia|H. Mueck|1890|L2|
 Sen. nat. 3.praef.3|post meridianas horas|postmeridianis horis|Erasmus|1515|Genev. lat. 77 (Z)|
 Sen. nat. 3.praef.9|inueniri|iniri|Muretus|1585|Genev. lat. 77 (Z)|
 Sen. nat. 3.praef.10|uid-|uicisse|G. Müller|1886|f et recc.|
-Sen. nat. 4|De Nilo|De nilo|Alfred Gercke|1907|Cambrai 939 (Cam.)|
+Sen. nat. 4 tit.|De Nilo|De nilo|Alfred Gercke|1907|Cambrai 939 (Cam.)|
 Sen. nat. 4.2.1|usura|(h)ausura|Fortunatus|1522|E2|
 Sen. nat. 4.2.1|-it|posset|C. F. W. Müller|1866|Genev. lat. 77 (Z)|
 Sen. nat. 4.2.4|-que|del.|Friedrich Haase|1852|Leid. B.P.L. 199 (O)|
