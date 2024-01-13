@@ -91,7 +91,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (57), Bentley (56), Reiske (52), Brunck (48), Cobet (46), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Bentley (57), Markland (57), Reiske (52), Brunck (48), Cobet (46), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1106,6 +1106,10 @@ Ov. met. 12.256|spum-|sputantem|Nicolaus Heinsius|1652|Plan.|
 Ov. met. 12.302|licidas-|licabasque|A. Naugerius|1517|o W|
 Ov. met. 13.2|ad hos|ad hoc|F. H. Bothe|1818|d W|
 Ov. met. 13.175|(s)cyrum|syron|A. Naugerius|1517|v3|
+Ov. met. 13.235|-posco|repono|Bentley|n.d.|B1c ov z|
+Ov. met. 14.24|fineque nil|fine opus est nullo|F. H. Bothe|1818|φ|
+Ov. met. 14.281|toto|prono|Nicolaus Heinsius|1652|Sagall. 866 (G)|
+Ov. met. 15.420|-a|tempore|Nicolaus Heinsius|1652|Guelferb. Bibl. Duc. 2942 (w)|
 P.Oxy. II 266.15|[ἀν]αζυγήν|[δι]α-|Edgar-Hunt|1932|P.Oxy. XLIX 3491|Sel.Pap. I 7.15
 Pherecr. fr. 80|ὁ βλὰξ|ὀκλὰξ|Bekker|1814|Phot. α 387|
 Pherecr. fr. 166|ἃ|ἅ σε|Martin Runkel|1829|Phot. α 816|p. 70
