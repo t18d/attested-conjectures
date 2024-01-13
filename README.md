@@ -1100,6 +1100,11 @@ Ov. met. 4.488|est t.|exterrita|Bentley|n.d.|Paris. lat. 8001 (P/B)|
 Ov. met. 6.234|tamen dantem etc.|dabat; dantem|Nicolaus Heinsius|1652|χ|
 Ov. met. 6.399|rapidum|-dus|Housman|1890|χ|
 Ov. met. 6.399|rapidum|-de|Anderson|1977|χ|
+Ov. met. 11.180|cupit|caput|Schepper|n.d.|χ|
+Ov. met. 11.365|strepitu etc.|strepit et|A. Riese|1872|h2|
+Ov. met. 12.256|spum-|sputantem|Nicolaus Heinsius|1652|Plan.|
+Ov. met. 12.302|licidas-|licabasque|A. Naugerius|1517|o W|
+Ov. met. 13.2|ad hos|ad hoc|Bothe|1517|d W|
 P.Oxy. II 266.15|[ἀν]αζυγήν|[δι]α-|Edgar-Hunt|1932|P.Oxy. XLIX 3491|Sel.Pap. I 7.15
 Pherecr. fr. 80|ὁ βλὰξ|ὀκλὰξ|Bekker|1814|Phot. α 387|
 Pherecr. fr. 166|ἃ|ἅ σε|Martin Runkel|1829|Phot. α 816|p. 70
