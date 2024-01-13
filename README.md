@@ -91,7 +91,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Bentley (57), Markland (57), Reiske (52), Brunck (48), Cobet (46), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Bentley (60), Markland (57), Reiske (52), Brunck (48), Cobet (46), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1089,14 +1089,22 @@ Opp. C. 4.322|δε-|λεξάμενοι|J. G. Schneider|1776|Vindob. phil. gr. 13
 Orac. Sib. 516–517|516, 517|517, 516|Geffcken|n.d.|P.Flor. 398|
 Ov. met. 1.2|-as|illa|P. Lejay|1894|ev U3c|
 Ov. met. 1.50|-amque|utrasque|J. Rappold|1881|ψ|
+Ov. met. 1.332|tec-|tinctum|Bentley|n.d.|φ|
+Ov. met. 2.135|currum|cursum|R. Merkel|1855|φ|
 Ov. met. 2.436|quae|quem|Bentley|n.d.|H Bac|
 Ov. met. 2.734|totum|textum|A. Riese|1872|recc.|
+Ov. met. 2.809|lenius|se(c/t)ius|Scaliger|n.d.|R1 v2v|
+Ov. met. 2.823|ungues|artus|Bentley|n.d.|N4v|
 Ov. met. 3.269|uni|uno|Jacob Micyllus|n.d.|Monv M2v|
+Ov. met. 3.368|tamen|tantum|F. H. Bothe|1818|Laur. 36.12 (L)|
 Ov. met. 3.576|quon-|quendam|Nicolaus Heinsius|1652|h2 W|
 Ov. met. 3.660|ueri|uera|Nicolaus Heinsius|1652|l5 χ|
+Ov. met. 4.228|-us|oculis|Nicolaus Heinsius|1652|N1|
 Ov. met. 4.236|-umque|diffamatamque|Nicolaus Heinsius|1652|Plan. ψ|
+Ov. met. 4.260|n(y/i)ympharum p.|nimborum patiens|Bentley|n.d.|χ|
 Ov. met. 4.416|memor-|uenerabile|J. Gilbert|1896|b W|
 Ov. met. 4.488|est t.|exterrita|Bentley|n.d.|Paris. lat. 8001 (P/B)|
+Ov. met. 4.770|Perseu|Cepheus|Haupt|1853|Plan.|
 Ov. met. 6.234|tamen dantem etc.|dabat; dantem|Nicolaus Heinsius|1652|χ|
 Ov. met. 6.399|rapidum|-dus|Housman|1890|χ|
 Ov. met. 6.399|rapidum|-de|Anderson|1977|χ|
