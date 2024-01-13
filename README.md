@@ -1110,7 +1110,12 @@ Ov. met. 6.399|rapidum|-dus|Housman|1890|χ|
 Ov. met. 6.399|rapidum|-de|Anderson|1977|χ|
 Ov. met. 6.514|et uix animo|a. uix et|J. J. Hartman|1905|χ|
 Ov. met. 6.616|aut|atque|J. Rappold|1881|χ|
-Ov. met. 7.8|numeris|miseris|Koch|n.d.|Lond. Bibl. Brit. King's 26 (k)|
+Ov. met. 7.8|numeris|miseris|H. A. Koch|n.d.|Lond. Bibl. Brit. King's 26 (k)|
+Ov. met. 7.223|despicit|disp-|Lachmann|n.d.|χ|ad Lucr. 4.418
+Ov. met. 7.259|-a|atri|A. Naugerius|1517|Sagall. 866 (G)|
+Ov. met. 7.624|hic|huc|F. H. Bothe|1818|Plan.|
+Ov. met. 7.660|Austros|austrum|F. Polle|1888|NU|
+Ov. met. 8.629|tamen|tandem|F. H. Bothe|1818|Neap. IV.F.2 (R)|
 Ov. met. 11.180|cupit|caput|Schepper|n.d.|χ|
 Ov. met. 11.365|strepitu etc.|strepit et|A. Riese|1872|h2|
 Ov. met. 12.256|spum-|sputantem|Nicolaus Heinsius|1652|Plan.|
