@@ -480,6 +480,7 @@ Cic. orat. 73|-imus|dicamus|J. A. Ernesti|1774–7|Matrit. bibl. nat. 10060 (V)|
 Cic. orat. 93|dix-|dicit|Janus Bake|1856|K f|
 Cic. orat. 99|videtur|-ebitur|Henri Estienne|1885|Σ Θ Ξ|ap. Stangl
 Cic. orat. 115|quid ue/quodque|quidque|P. Manutius|1546|J γ|
+Cic. orat. 138|ut a — aliquantum|del.|Janus Bake|1856|Iul. Vict. rhet. 20|
 Cic. orat. 147|-in|qui|Madvig|1873|N E Q|p. 190
 Cic. orat. 147|-er|delectet|J. A. Ernesti|1774–7|K J E|
 Cic. orat. 159|in insano|in sano|Janus Bake|1856|K γ|
