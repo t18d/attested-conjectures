@@ -91,7 +91,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Bentley (60), Markland (57), Reiske (52), Brunck (48), Cobet (46), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Bentley (61), Markland (57), Reiske (52), Brunck (48), Cobet (46), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1116,7 +1116,13 @@ Ov. met. 7.259|-a|atri|A. Naugerius|1517|Sagall. 866 (G)|
 Ov. met. 7.624|hic|huc|F. H. Bothe|1818|Plan.|
 Ov. met. 7.660|Austros|austrum|F. Polle|1888|NU|
 Ov. met. 8.629|tamen|tandem|F. H. Bothe|1818|Neap. IV.F.2 (R)|
+Ov. met. 9.669|quon-|quendam|Housman|1890|Neap. IV.F.2 (R)|
+Ov. met. 10.133|ac ut|ut hunc|A. Riese|1872|gpc|
+Ov. met. 10.240|forma|fama|P. Burman|1727|χ|
+Ov. met. 10.271|bl-|pandis|Gronovius|n.d.|χ|
+Ov. met. 11.45|tua|te|Bentley|n.d.|χ|
 Ov. met. 11.180|cupit|caput|Schepper|n.d.|χ|
+Ov. met. 11.183|hoc|haec|F. H. Bothe|1818|χ|
 Ov. met. 11.365|strepitu etc.|strepit et|A. Riese|1872|h2|
 Ov. met. 12.256|spum-|sputantem|Nicolaus Heinsius|1652|Plan.|
 Ov. met. 12.302|licidas-|licabasque|A. Naugerius|1517|o W|
