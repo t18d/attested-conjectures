@@ -91,7 +91,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (57), Bentley (54), Reiske (52), Brunck (48), Cobet (46), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (57), Bentley (55), Reiske (52), Brunck (48), Cobet (46), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1087,6 +1087,7 @@ Opp. C. 4.199|ἴκ-|εἴκελος|Andreas Schott|s.xvi/xvii|P.Oxy. LXXXI 5278
 Opp. C. 4.208|ἐρυϲϲάμενοι|ερειϲάμεν[οι|Johannes Pierson|1752|P.Oxy. LXXXI 5278|Verisimilium libri duo (1752) 174
 Opp. C. 4.322|δε-|λεξάμενοι|J. G. Schneider|1776|Vindob. phil. gr. 135 (L)|
 Orac. Sib. 516–517|516, 517|517, 516|Geffcken|n.d.|P.Flor. 398|
+Ov. met. 2.436|quae|quem|Bentley|n.d.|Harl. 2610 (ε)|
 P.Oxy. II 266.15|[ἀν]αζυγήν|[δι]α-|Edgar-Hunt|1932|P.Oxy. XLIX 3491|Sel.Pap. I 7.15
 Pherecr. fr. 80|ὁ βλὰξ|ὀκλὰξ|Bekker|1814|Phot. α 387|
 Pherecr. fr. 166|ἃ|ἅ σε|Martin Runkel|1829|Phot. α 816|p. 70
