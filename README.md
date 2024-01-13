@@ -91,7 +91,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (57), Bentley (54), Reiske (52), Brunck (48), Cobet (45), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Markland (57), Bentley (54), Reiske (52), Brunck (48), Cobet (46), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2058,6 +2058,7 @@ Verg. ecl. 6.33|exordia|ex omnia|P. Hofman Peerlkamp|1861|Palat. lat. 1631 (P)|
 Verg. georg. 1.418|vias|vices|Markland|1728|γ|ad Stat. silv. 5.2.162
 Verg. georg. 2.81|exiit|exit|Lachmann|1855|γ*|ad Lucr. 3.1042
 Verg. georg. 2.514|hinc (prius)|hic|Markland|1728|iγ1|ad Stat. silv. 1.2.144
+Xen. Oec. 4.6|φύλακας|φυλακάς|Cobet|s.xix ex.|Laur. 55.21 (G)|
 Xen. Oec. 9.2|τῆς οἰκίας|τῆς γε οἰκίας|Cobet|s.xix ex.|P.Oxy. II 227|] γε οικιας
 Xen. Oec. 9.2|ἑκάστῳ|ἐν ἑκάστῳ|Schneider|n.d.|P.Oxy. II 227|]ν εκαϲ[
 Zen. 4.80|-ω|Δακτύλων|Andreas Schott|1612|Angel. et Marc. et Paris.|
