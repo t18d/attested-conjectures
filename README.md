@@ -1108,6 +1108,9 @@ Ov. met. 4.770|Perseu|Cepheus|Haupt|1853|Plan.|
 Ov. met. 6.234|tamen dantem etc.|dabat; dantem|Nicolaus Heinsius|1652|χ|
 Ov. met. 6.399|rapidum|-dus|Housman|1890|χ|
 Ov. met. 6.399|rapidum|-de|Anderson|1977|χ|
+Ov. met. 6.514|et uix animo|a. uix et|J. J. Hartman|1905|χ|
+Ov. met. 6.616|aut|atque|J. Rappold|1881|χ|
+Ov. met. 7.8|numeris|miseris|Koch|n.d.|Lond. Bibl. Brit. King's 26 (k)|
 Ov. met. 11.180|cupit|caput|Schepper|n.d.|χ|
 Ov. met. 11.365|strepitu etc.|strepit et|A. Riese|1872|h2|
 Ov. met. 12.256|spum-|sputantem|Nicolaus Heinsius|1652|Plan.|
