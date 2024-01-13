@@ -1130,9 +1130,13 @@ Ov. met. 12.191|Achille|achille, est|D. C. G. Baumgartner-Crusius|1834|Sagall. 8
 Ov. met. 12.256|spum-|sputantem|Nicolaus Heinsius|1652|Plan.|
 Ov. met. 12.302|licidas-|licabasque|A. Naugerius|1517|o W|
 Ov. met. 12.308|astilus|asbolus|W. H. Roscher|1872|Vat. lat. 5859 (W)|
+Ov. met. 12.408|-us|cultu|Haupt|1853|recc.|
 Ov. met. 13.2|ad hos|ad hoc|F. H. Bothe|1818|d W|
+Ov. met. 13.135|uidetur|fatetur|F. H. Bothe|1818|ψ|
 Ov. met. 13.175|(s)cyrum|syron|A. Naugerius|1517|v3|
 Ov. met. 13.235|-posco|repono|Bentley|n.d.|B1c ov z|
+Ov. met. 13.410|tractaque|tracta atque|F. Vollmer|n.d.|h2ac|apud Magnum
+Ov. met. 13.726|exp-/imp-|oppositum|Housman|1890|χ|
 Ov. met. 14.24|fineque nil|fine opus est nullo|F. H. Bothe|1818|φ|
 Ov. met. 14.281|toto|prono|Nicolaus Heinsius|1652|Sagall. 866 (G)|
 Ov. met. 15.420|-a|tempore|Nicolaus Heinsius|1652|Guelferb. Bibl. Duc. 2942 (w)|
