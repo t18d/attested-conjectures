@@ -91,7 +91,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Bentley (61), Markland (57), Reiske (52), Brunck (48), Cobet (46), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Bentley (61), Markland (58), Reiske (52), Brunck (48), Cobet (46), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1123,9 +1123,13 @@ Ov. met. 10.271|bl-|pandis|Gronovius|n.d.|χ|
 Ov. met. 11.45|tua|te|Bentley|n.d.|χ|
 Ov. met. 11.180|cupit|caput|Schepper|n.d.|χ|
 Ov. met. 11.183|hoc|haec|F. H. Bothe|1818|χ|
+Ov. met. 11.257|tenebat|tep-|Markland|n.d.|χ|ad Stat. silv. 5.3.202
+Ov. met. 11.293|quantum|iam tum|J. D. Fuss|s.xix med.|dl6|apud Magnum
 Ov. met. 11.365|strepitu etc.|strepit et|A. Riese|1872|h2|
+Ov. met. 12.191|Achille|achille, est|D. C. G. Baumgartner-Crusius|1834|Sagall. 866 (G)|
 Ov. met. 12.256|spum-|sputantem|Nicolaus Heinsius|1652|Plan.|
 Ov. met. 12.302|licidas-|licabasque|A. Naugerius|1517|o W|
+Ov. met. 12.308|astilus|asbolus|W. H. Roscher|1872|Vat. lat. 5859 (W)|
 Ov. met. 13.2|ad hos|ad hoc|F. H. Bothe|1818|d W|
 Ov. met. 13.175|(s)cyrum|syron|A. Naugerius|1517|v3|
 Ov. met. 13.235|-posco|repono|Bentley|n.d.|B1c ov z|
