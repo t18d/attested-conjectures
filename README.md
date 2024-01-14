@@ -1098,6 +1098,11 @@ Ov. am. 1.8.84|-e u. -e/-a u. -a|illa uel ille|J. Willis|1972|L2|
 Ov. am. 2.1.33|-es|facie|Nicolaus Heinsius|1658–61|Ca2|
 Ov. am. 2.2.37|-es|obiciens|Nicolaus Heinsius|1658–61|Oxon. Bodl. Auct. F.I.17|
 Ov. am. 2.6.28|fiant/fient|fiunt|G. Némethy|1922|Turon. 879 (T)|
+Ov. am. 2.7.25|quae e.|quod erat|Kenney|1958|Yrecc.|
+Ov. am. 2.10.33|-undo|arando|Nicolaus Heinsius|1658–61|Hamilt. 471 (Y)|
+Ov. am. 2.11.9|quid|quam|G. Némethy|1922|Francof. Barth. 110 (F)|
+Ov. am. 2.13.17|dedit|sedit|Nicolaus Heinsius|1658–61|Lent. 329 (Le)|
+Ov. am. 2.13.18|ting-|tangit|G. Némethy|1922|Sagall. 864 (S)|
 Ov. met. 1.2|-as|illa|P. Lejay|1894|ev U3c|
 Ov. met. 1.50|-amque|utrasque|J. Rappold|1881|ψ|
 Ov. met. 1.332|tec-|tinctum|Bentley|n.d.|φ|
