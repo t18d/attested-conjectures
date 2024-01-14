@@ -1032,24 +1032,24 @@ Isoc. Ad Nic. 8|ταῖς μοναρχίαις|τὰς μοναρχίας|Cobet|
 Isoc. Paneg. 68|γε|ελαττω γε|Cobet|1783|P.Oxy. V 844|
 Iuv. 1.67|-o|falsi|Markland|n.d.|PRV|
 Iuv. 1.70|-am|rubeta|Plathner|n.d.|PRV|
-Iuv. 2.106|spo-|solium|Henrik van Herwerden|n.d.|Reg. 2029|
-Iuv. 2.108|assyrio … orbe|asyria … urbe|Hadr. Valesius|n.d.|Vindob. 107 (V)|
+Iuv. 2.106|spo-|solium|Henrik van Herwerden|1873|Reg. 2029|
+Iuv. 2.108|assyrio … orbe|asyria … urbe|Hadr. Valesius|1810|Vindob. 107 (V)|apud Achaintre
 Iuv. 3.18|-stantius|praesentius|Grangaeus|n.d.|Vindob. 107 (V)|
 Iuv. 3.105|-um|aliena|Markland|n.d.|PRV|
 Iuv. 3.157|-i|nitidus|Markland|n.d.|Lond. mus. Brit. Reg. 15 B XVIII|
-Iuv. 3.168|-auit|negabis|Hadr. Valesius|n.d.|PRVΣ|
-Iuv. 3.218|haec a.|hic asianorum|Ruperti|n.d.|VO|
+Iuv. 3.168|-auit|negabis|Hadr. Valesius|1810|PRVΣ|apud Achaintre
+Iuv. 3.218|haec a.|hic asianorum|G. A. Ruperti|1801|VO|
 Iuv. 4.148|et|ex|Ribbeck|1859|Bodl. Canon. Class. lat. 41 (O)|
 Iuv. 5.137|-tres|frater|Markland|n.d.|Colon. 199 et Paris. 8291|
-Iuv. 5.169|tac-|iacetis|Lubinus|n.d.|PRFZ|
+Iuv. 5.169|tac-|iacetis|E. Lubinus|1602–3|PRFZ|
 Iuv. 6.13|que|ue|Pithoeus|n.d.|RFKOTU|
-Iuv. 6.77|que|ue|Hadr. Valesius|n.d.|Urb. 661 (U)|
+Iuv. 6.77|que|ue|Hadr. Valesius|1810|Urb. 661 (U)|apud Achaintre
 Iuv. 6.153|cum/quo|quom|Hermann|n.d.|Lond. mus. Brit. Add. 12002|
-Iuv. 6.167|-sinam|uenustinam|Franz Bücheler|n.d.|Reg. 2029 et Valent. 410|
+Iuv. 6.167|-sinam|uenustinam|Franz Bücheler|1886|Reg. 2029 et Valent. 410|
 Iuv. 6.295|istros|istos|Nogarola|n.d.|KU|
 Iuv. 6.363|rediuiuus|recidiuus|Scioppius|n.d.|Norimberg. 6.19|
 Iuv. 6.455|-at|castiget|Ribbeck|1859|Ottob. 1471|
-Iuv. 6.561|-o/-a|longe|Franz Bücheler|n.d.|Bodl. Canon. Class. lat. 41 (O)|
+Iuv. 6.561|-o/-a|longe|Franz Bücheler|1886|Bodl. Canon. Class. lat. 41 (O)|
 Iuv. 6.660||praegustarit|Markland|n.d.|Monac. 14466|
 Iuv. 7.204|thres-|tharsimachi|Ritschl|n.d.|Montepess. bibl. med. 125 (P)|
 Iuv. 7.218|acoenetus|acoenonetos|Grangaeus|n.d.|Urb. 661 (U)|
