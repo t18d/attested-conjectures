@@ -93,7 +93,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Bentley (63), Porson (62), Markland (59), Reiske (52), Brunck (48), Cobet (46), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Bentley (64), Porson (62), Markland (59), Reiske (52), Brunck (48), Cobet (46), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1120,6 +1120,13 @@ Ov. ars 1.225|facit|facito|Nicolaus Heinsius|1658|Yrecc.|
 Ov. ars 1.303|quod|quo|Nicolaus Heinsius|1658|Yrecc.|
 Ov. ars 1.490|quam|qua|Kenney|1959|FT<sup>2</sup>|
 Ov. ars 1.558|rege|reget|R. Merkel|1852|Yrecc.|
+Ov. ars 1.581|-es/-as|bibis|C. Marchesi|1918|Bodl. Canon. class. lat. 18 (O6)|
+Ov. ars 1.730|multi|uultu|Nicolaus Heinsius|1658|Tolet. 102–14 (To2)|
+Ov. ars 2.243|placidum-|planumque|Nicolaus Heinsius|1658|Vat. lat. 3140|
+Ov. ars 2.440|candet in|canet in|Nicolaus Heinsius|1658|Lond. Bibl. Brit. Add. 21169 (L4)|
+Ov. ars 2.496|agit|adit|Bentley|n.d.|Hamilt. 471 (Y)|
+Ov. ars 2.569|simul ac|semel est|R. Merkel|1852|Hamilt. 471 (Y)|
+Ov. ars 3.167|rubor|pudor|Dilthey|1969|Paris. lat. 8430 (P7)|ap. Lenz
 Ov. met. 1.2|-as|illa|P. Lejay|1894|ev U3c|
 Ov. met. 1.50|-amque|utrasque|J. Rappold|1881|ψ|
 Ov. met. 1.332|tec-|tinctum|Bentley|n.d.|φ|
