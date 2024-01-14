@@ -93,7 +93,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Bentley (61), Markland (58), Reiske (52), Brunck (48), Cobet (46), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Porson (62), Bentley (62), Markland (59), Reiske (52), Brunck (48), Cobet (46), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1091,6 +1091,9 @@ Opp. C. 4.199|ἴκ-|εἴκελος|Andreas Schott|s.xvi/xvii|P.Oxy. LXXXI 5278
 Opp. C. 4.208|ἐρυϲϲάμενοι|ερειϲάμεν[οι|Johannes Pierson|1752|P.Oxy. LXXXI 5278|Verisimilium libri duo (1752) 174
 Opp. C. 4.322|δε-|λεξάμενοι|J. G. Schneider|1776|Vindob. phil. gr. 135 (L)|
 Orac. Sib. 516–517|516, 517|517, 516|Geffcken|n.d.|P.Flor. 398|
+Ov. am. 1.2.14|pressi|prensi|Markland|1728|B2f|ad Stat. silv. 1.2.45
+Ov. am. 1.6.8|di-|derigit|Housman|n.d.|Hamilt. 471 (Y)|
+Ov. am. 1.7.46|nec|et|Bentley|n.d.|Barb. lat. 26 (V)|
 Ov. met. 1.2|-as|illa|P. Lejay|1894|ev U3c|
 Ov. met. 1.50|-amque|utrasque|J. Rappold|1881|ψ|
 Ov. met. 1.332|tec-|tinctum|Bentley|n.d.|φ|
