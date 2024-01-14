@@ -1106,6 +1106,13 @@ Ov. am. 2.13.18|ting-|tangit|G. Némethy|1922|Sagall. 864 (S)|
 Ov. am. 2.15.24|-a|gemmam|L. Müller|1856|Lond. Bibl. Brit. Add. 21169 (L4)|
 Ov. am. 2.19.32|pot-|portet|L. Müller|1856|Barb. lat. 26 (V)|
 Ov. am. 3.6.23|debebant|debuerant|O. Tescari|1931–2|Lond. Bibl. Brit. Add. 21169 (L4)|
+Ov. am. 3.6.41|eban-|euanthe|A. Riese|1871|Yrecc.|
+Ov. am. 3.7.55|blanda|b. est|A. Riese|1871|Turon. 879 (T)|
+Ov. am. 3.9.23|et linon|aelinon|Scaliger|1573|Paris. lat. 8430 (P7)|
+Ov. am. 3.9.23|edidit|& Linon|Nicolaus Heinsius|1658–61|Hamilt. 471 (Y)|
+Ov. am. 3.11.52|ut|quam|E. R. Rautenberg|1868|Yrecc.|
+Ov. am. 3.14.42|falsis|falli|Madvig|1873|Barb. lat. 26 (V)|
+Ov. am. 3.14.42|-is|falsum|R. Merkel|1852|Matrit. 206 (Ma)|
 Ov. met. 1.2|-as|illa|P. Lejay|1894|ev U3c|
 Ov. met. 1.50|-amque|utrasque|J. Rappold|1881|ψ|
 Ov. met. 1.332|tec-|tinctum|Bentley|n.d.|φ|
