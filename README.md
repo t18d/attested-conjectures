@@ -1094,6 +1094,10 @@ Orac. Sib. 516–517|516, 517|517, 516|Geffcken|n.d.|P.Flor. 398|
 Ov. am. 1.2.14|pressi|prensi|Markland|1728|B2f|ad Stat. silv. 1.2.45
 Ov. am. 1.6.8|di-|derigit|Housman|n.d.|Hamilt. 471 (Y)|
 Ov. am. 1.7.46|nec|et|Bentley|n.d.|Barb. lat. 26 (V)|
+Ov. am. 1.8.84|-e u. -e/-a u. -a|illa uel ille|J. Willis|1972|L2|
+Ov. am. 2.1.33|-es|facie|Nicolaus Heinsius|1658–61|Ca2|
+Ov. am. 2.2.37|-es|obiciens|Nicolaus Heinsius|1658–61|Oxon. Bodl. Auct. F.I.17|
+Ov. am. 2.6.28|fiant/fient|fiunt|G. Némethy|1922|Turon. 879 (T)|
 Ov. met. 1.2|-as|illa|P. Lejay|1894|ev U3c|
 Ov. met. 1.50|-amque|utrasque|J. Rappold|1881|ψ|
 Ov. met. 1.332|tec-|tinctum|Bentley|n.d.|φ|
