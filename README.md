@@ -93,7 +93,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Porson (62), Bentley (62), Markland (59), Reiske (52), Brunck (48), Cobet (46), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Bentley (63), Porson (62), Markland (59), Reiske (52), Brunck (48), Cobet (46), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1095,13 +1095,13 @@ Ov. am. 1.2.14|pressi|prensi|Markland|1728|B2f|ad Stat. silv. 1.2.45
 Ov. am. 1.6.8|di-|derigit|Housman|n.d.|Hamilt. 471 (Y)|
 Ov. am. 1.7.46|nec|et|Bentley|n.d.|Barb. lat. 26 (V)|
 Ov. am. 1.8.84|-e u. -e/-a u. -a|illa uel ille|J. Willis|1972|Lond. Bibl. Brit. Add. 49368 (L2)|
-Ov. am. 2.1.33|-es|facie|Nicolaus Heinsius|1658–61|Casanat. 3227 (Ca2)|
-Ov. am. 2.2.37|-es|obiciens|Nicolaus Heinsius|1658–61|Oxon. Bodl. Auct. F.I.17|
+Ov. am. 2.1.33|-es|facie|Nicolaus Heinsius|1658|Casanat. 3227 (Ca2)|
+Ov. am. 2.2.37|-es|obiciens|Nicolaus Heinsius|1658|Oxon. Bodl. Auct. F.I.17|
 Ov. am. 2.6.28|fiant/fient|fiunt|G. Némethy|1922|Turon. 879 (T)|
 Ov. am. 2.7.25|quae e.|quod erat|Kenney|1958|Yrecc.|
-Ov. am. 2.10.33|-undo|arando|Nicolaus Heinsius|1658–61|Hamilt. 471 (Y)|
+Ov. am. 2.10.33|-undo|arando|Nicolaus Heinsius|1658|Hamilt. 471 (Y)|
 Ov. am. 2.11.9|quid|quam|G. Némethy|1922|Francof. Barth. 110 (F)|
-Ov. am. 2.13.17|dedit|sedit|Nicolaus Heinsius|1658–61|Lent. 329 (Le)|
+Ov. am. 2.13.17|dedit|sedit|Nicolaus Heinsius|1658|Lent. 329 (Le)|
 Ov. am. 2.13.18|ting-|tangit|G. Némethy|1922|Sagall. 864 (S)|
 Ov. am. 2.15.24|-a|gemmam|L. Müller|1856|Lond. Bibl. Brit. Add. 21169 (L4)|
 Ov. am. 2.19.32|pot-|portet|L. Müller|1856|Barb. lat. 26 (V)|
@@ -1109,10 +1109,14 @@ Ov. am. 3.6.23|debebant|debuerant|O. Tescari|1931–2|Lond. Bibl. Brit. Add. 211
 Ov. am. 3.6.41|eban-|euanthe|A. Riese|1871|Yrecc.|
 Ov. am. 3.7.55|blanda|b. est|A. Riese|1871|Turon. 879 (T)|
 Ov. am. 3.9.23|et linon|aelinon|Scaliger|1573|Paris. lat. 8430 (P7)|
-Ov. am. 3.9.23|edidit|& Linon|Nicolaus Heinsius|1658–61|Hamilt. 471 (Y)|
+Ov. am. 3.9.23|edidit|& Linon|Nicolaus Heinsius|1658|Hamilt. 471 (Y)|
 Ov. am. 3.11.52|ut|quam|E. R. Rautenberg|1868|Yrecc.|
 Ov. am. 3.14.42|falsis|falli|Madvig|1873|Barb. lat. 26 (V)|
 Ov. am. 3.14.42|-is|falsum|R. Merkel|1852|Matrit. 206 (Ma)|
+Ov. am. 3.15.18|magnis|nostris|L. Zurli|1996|Matrit. 206 (Ma)|
+Ov. ars 1.126|pudor|timor|Bentley|n.d.|RYS2L<sup>2</sup>|
+Ov. ars 1.133|-ia|sollemni|Madvig|1873|Hamilt. 471 (Y)|
+Ov. ars 1.225|facit|facito|Nicolaus Heinsius|1658|Yrecc.|
 Ov. met. 1.2|-as|illa|P. Lejay|1894|ev U3c|
 Ov. met. 1.50|-amque|utrasque|J. Rappold|1881|ψ|
 Ov. met. 1.332|tec-|tinctum|Bentley|n.d.|φ|
