@@ -95,7 +95,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Bentley (64), Markland (63), Porson (62), Reiske (52), Brunck (48), Cobet (47), Hermann (44), Elmsley (44) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Bentley (64), Markland (64), Porson (62), Reiske (52), Brunck (48), Cobet (47), Hermann (44), Elmsley (44) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1045,7 +1045,12 @@ Iuv. 5.169|tac-|iacetis|Lubinus|n.d.|PRFZ|
 Iuv. 6.13|que|ue|Pithoeus|n.d.|RFKOTU|
 Iuv. 6.77|que|ue|Hadr. Valesius|n.d.|Urb. 661 (U)|
 Iuv. 6.153|cum/quo|quom|Hermann|n.d.|Lond. mus. Brit. Add. 12002|
+Iuv. 6.167|-sinam|uenustinam|Franz Bücheler|n.d.|Reg. 2029 et Valent. 410|
 Iuv. 6.295|istros|istos|Nogarola|n.d.|KU|
+Iuv. 6.363|rediuiuus|recidiuus|Scioppius|n.d.|Norimberg. 6.19|
+Iuv. 6.455|-at|castiget|Ribbeck|1859|Ottob. 1471|
+Iuv. 6.561|-o/-a|longe|Franz Bücheler|n.d.|Bodl. Canon. Class. lat. 41 (O)|
+Iuv. 6.660||praegustarit|Markland|n.d.|Monac. 14466|
 Iuv. 7.204|thres-|tharsimachi|Ritschl|n.d.|Montepess. bibl. med. 125 (P)|
 Iuv. 7.218|acoenetus|acoenonetos|Grangaeus|n.d.|Urb. 661 (U)|
 Iuv. 8.38|sis|sic|H. Iunius|n.d.|Lond. mus. Brit. Add. 11997|
