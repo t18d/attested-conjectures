@@ -95,7 +95,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Bentley (64), Markland (63), Porson (62), Reiske (52), Brunck (48), Cobet (47), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Bentley (64), Markland (63), Porson (62), Reiske (52), Brunck (48), Cobet (47), Hermann (44), Elmsley (44) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1043,6 +1043,8 @@ Iuv. 4.148|et|ex|Ribbeck|1859|Bodl. Canon. Class. lat. 41 (O)|
 Iuv. 5.137|-tres|frater|Markland|n.d.|Colon. 199 et Paris. 8291|
 Iuv. 5.169|tac-|iacetis|Lubinus|n.d.|PRFZ|
 Iuv. 6.13|que|ue|Pithoeus|n.d.|RFKOTU|
+Iuv. 6.77|que|ue|Hadr. Valesius|n.d.|Urb. 661 (U)|
+Iuv. 6.153|cum/quo|quom|Hermann|n.d.|Lond. mus. Brit. Add. 12002|
 Iuv. 6.295|istros|istos|Nogarola|n.d.|KU|
 Iuv. 7.204|thres-|tharsimachi|Ritschl|n.d.|Montepess. bibl. med. 125 (P)|
 Iuv. 7.218|acoenetus|acoenonetos|Grangaeus|n.d.|Urb. 661 (U)|
@@ -1118,7 +1120,7 @@ Ov. am. 1.6.8|di-|derigit|Housman|n.d.|Hamilt. 471 (Y)|
 Ov. am. 1.7.46|nec|et|Bentley|n.d.|Barb. lat. 26 (V)|
 Ov. am. 1.8.84|-e u. -e/-a u. -a|illa uel ille|J. Willis|1972|Lond. Bibl. Brit. Add. 49368 (L2)|
 Ov. am. 2.1.33|-es|facie|Nicolaus Heinsius|1658|Rom. Casan. 3227 (Ca2)|
-Ov. am. 2.2.37|-es|obiciens|Nicolaus Heinsius|1658|Oxon. Bodl. Auct. F.I.17|
+Ov. am. 2.2.37|-es|obiciens|Nicolaus Heinsius|1658|Bodl. Auct. F.I.17|
 Ov. am. 2.6.28|fiant/fient|fiunt|G. Némethy|1922|Turon. 879 (T)|
 Ov. am. 2.7.25|quae e.|quod erat|Kenney|1958|Yrecc.|
 Ov. am. 2.10.33|-undo|arando|Nicolaus Heinsius|1658|Hamilt. 471 (Y)|
