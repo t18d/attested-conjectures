@@ -95,7 +95,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Bentley (64), Porson (62), Markland (61), Reiske (52), Brunck (48), Cobet (47), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Bentley (64), Porson (62), Markland (62), Reiske (52), Brunck (48), Cobet (47), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1032,8 +1032,13 @@ Isoc. Ad Nic. 8|ταῖς μοναρχίαις|τὰς μοναρχίας|Cobet|
 Isoc. Paneg. 68|γε|ελαττω γε|Cobet|1783|P.Oxy. V 844|
 Iuv. 1.67|-o|falsi|Markland|n.d.|PRV|
 Iuv. 1.70|-am|rubeta|Plathner|n.d.|PRV|
+Iuv. 2.106|spo-|solium|Henrik van Herwerden|n.d.|Reg. 2029|
+Iuv. 2.108|assyrio … orbe|asyria … urbe|Hadr. Valesius|n.d.|Vindob. 107 (V)|
 Iuv. 3.18|-stantius|praesentius|Grangaeus|n.d.|Vindob. 107 (V)|
+Iuv. 3.105|-um|aliena|Markland|n.d.|PRV|
 Iuv. 3.157|-i|nitidus|Markland|n.d.|Lond. mus. Brit. Reg. 15 B XVIII|
+Iuv. 3.168|-auit|negabis|Hadr. Valesius|n.d.|PRVΣ|
+Iuv. 3.218|haec a.|hic asianorum|Ruperti|n.d.|VO|
 Iuv. 6.295|istros|istos|Nogarola|n.d.|KU|
 Iuv. 7.204|thres-|tharsimachi|Ritschl|n.d.|Montepess. bibl. med. 125 (P)|
 Iuv. 7.218|acoenetus|acoenonetos|Grangaeus|n.d.|Urb. 661 (U)|
@@ -1108,7 +1113,7 @@ Ov. am. 1.2.14|pressi|prensi|Markland|1728|B2f|ad Stat. silv. 1.2.45
 Ov. am. 1.6.8|di-|derigit|Housman|n.d.|Hamilt. 471 (Y)|
 Ov. am. 1.7.46|nec|et|Bentley|n.d.|Barb. lat. 26 (V)|
 Ov. am. 1.8.84|-e u. -e/-a u. -a|illa uel ille|J. Willis|1972|Lond. Bibl. Brit. Add. 49368 (L2)|
-Ov. am. 2.1.33|-es|facie|Nicolaus Heinsius|1658|Casanat. 3227 (Ca2)|
+Ov. am. 2.1.33|-es|facie|Nicolaus Heinsius|1658|Rom. Casan. 3227 (Ca2)|
 Ov. am. 2.2.37|-es|obiciens|Nicolaus Heinsius|1658|Oxon. Bodl. Auct. F.I.17|
 Ov. am. 2.6.28|fiant/fient|fiunt|G. Némethy|1922|Turon. 879 (T)|
 Ov. am. 2.7.25|quae e.|quod erat|Kenney|1958|Yrecc.|
