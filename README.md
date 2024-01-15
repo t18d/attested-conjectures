@@ -87,7 +87,7 @@
         <li>West, Martin L. (ed.), <em>Aeschyli tragoediae cum incerti poetae Prometheo</em> (Stuttgart, 1998).</li>
         <li>Willis, William H., 'The Robinson-Cologne Papyrus of Achilles Tatius', <em>Greek, Roman and Byzantine Studies</em>, 31 (1990), 73-102.</li>
         <li>Wilson, N. G., <em>Herodotea: studies on the text of Herodotus</em> (Oxford, 2015), xii–xiii.</li>
-        <li>Xénophon, <em>Economique</em>, ed. Pierre Chantraine (Paris, 1949).</li>
+        <li>Xénophon, <em>Économique</em>, ed. Pierre Chantraine (Paris, 1949).</li>
     </ul>
 </details>
 
