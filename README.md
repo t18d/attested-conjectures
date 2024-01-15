@@ -95,7 +95,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (76), Valckenaer (72), Bentley (64), Porson (62), Reiske (52), Brunck (48), Cobet (47), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Markland (77), Valckenaer (72), Bentley (64), Porson (62), Reiske (52), Brunck (48), Cobet (47), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1121,11 +1121,16 @@ Iuv. 13.68|-que|examenve|Markland|1717–28|GU|
 Iuv. 13.209|-um|tacitus|Scholte|n.d.|Dresd. 153|
 Iuv. 14.67|emen-|emundat|Gaspar Schopp|1596|UL2|
 Iuv. 14.83|-abit|leuarit|Adrien de Valois|1810|recc.|apud Achaintre
+Iuv. 14.97|nu-|nomen|Mead|n.d.|schol. Lucan. 2.593|
 Iuv. 14.165|nullis|nulli|Heinrich|n.d.|FU|
 Iuv. 15.7|i. caeruleos|illic aeluros|Brodaeus|n.d.|Urb. 661 (U)|
 Iuv. 15.75|omnes|ombis|Mercerius|n.d.|Bodl. Canon. Class. lat. 41 (O)|
 Iuv. 15.90|autem|ante|Housman|1905|Lond. mus. Brit. Add. 11997|
-Iuv. 15.124|britones|bistones|Johannes Schrader|n.d.|OU|
+Iuv. 15.104|viribus|urbibus|Guietus|n.d.|P1U|
+Iuv. 15.105|illo-|ipsorum|Andreas Weidner|n.d.|Urb. 661 (U)|
+Iuv. 15.124|britones|bistones|Johannes Schrader|n.d.|O1U|
+Iuv. 15.125|-que|sauromataeve|Markland|1717–28|Φ|
+Iuv. 15.134|causam dicentis|casum lugentis|Wakefield|n.d.|recc.|
 Iuv. 15.145|capien-|pariendisque|Franz Buecheler|1886|OU|
 Just. Edict. 13.24 p. 792.11|ἐπιβάλλοντα|τὸν ἐ.|Zachariae von Lingenthal|1892|P.Oxy. LXIII 4400|ZRG 13
 Luc. Ocyp. 57|ἔτειλα/ἔτιλα/ἔστειλα|ἔτεινα|K. G. Jacobitz|s.xix med.|P.Oxy. XXXI 2532|
