@@ -1036,14 +1036,14 @@ Iuv. 1.108|-as|conductus|Scholte|n.d.|U1|
 Iuv. 2.8|-is|fronti|Markland|1717–28|recc.|
 Iuv. 2.26|Verri|verri si|Barth|n.d.|recc.|
 Iuv. 2.106|spo-|solium|Henrik van Herwerden|1873|Reg. 2029|
-Iuv. 2.108|assyrio … orbe|asyria … urbe|Hadr. Valesius|1810|Vindob. 107 (V)|apud Achaintre
+Iuv. 2.108|assyrio … orbe|asyria … urbe|Adrien de Valois|1810|Vindob. 107 (V)|apud Achaintre
 Iuv. 2.116|-indere|abscidere|Franz van Oudendorp|n.d.|KZ|
 Iuv. 3.18|-stantius|praesentius|Isaac Grangaeus|1614|Vindob. 107 (V)|
 Iuv. 3.46|-unt|norint|Markland|1717–28|recc.|
 Iuv. 3.105|-um|aliena|Markland|1717–28|PRV|
 Iuv. 3.144|-es|iuret|Hadr. Valesius|1810|Leid. bibl. publ. 82 (L)|apud Achaintre
 Iuv. 3.157|-i|nitidus|Markland|1717–28|Lond. mus. Brit. Reg. 15 B XVIII|
-Iuv. 3.168|-auit|negabis|Hadr. Valesius|1810|PRVΣ|apud Achaintre
+Iuv. 3.168|-auit|negabis|Adrien de Valois|1810|PRVΣ|apud Achaintre
 Iuv. 3.193|colimus|inc-|Markland|1717–28|schol. Luc. 7.404|
 Iuv. 3.211|-it|iuvabat|Markland|1717–28|R G2|
 Iuv. 3.218|haec a.|hic asianorum|G. A. Ruperti|1801|VO|
@@ -1056,7 +1056,7 @@ Iuv. 5.137|-tres|frater|Markland|1717–28|Colon. 199 et Paris. 8291|
 Iuv. 5.169|tac-|iacetis|E. Lubinus|1602–3|PRFZ|
 Iuv. 6.13|que|ue|Petrus Pithoeus|1585|RFKOTU|
 Iuv. 6.29|-are|exagitere|Markland|1717–28|OUZ|
-Iuv. 6.77|que|ue|Hadr. Valesius|1810|Urb. 661 (U)|apud Achaintre
+Iuv. 6.77|que|ue|Adrien de Valois|1810|Urb. 661 (U)|apud Achaintre
 Iuv. 6.120|sed|sic|Ribbeck|1859|Bodl. Canon. Class. lat. 41 (O)|
 Iuv. 6.122|pap-|capillis|C. Valesius|n.d.|Urb. 661 (U)|
 Iuv. 6.153|cum/quo|quom|C. F. Hermann|1854|Lond. mus. Brit. Add. 12002|
@@ -1097,7 +1097,7 @@ Iuv. 8.229|tu|seu|Jahn|n.d.|recc.|ed. 1
 Iuv. 9.17|torret|torquet|Wakefield|n.d.|recc.|
 Iuv. 9.55|-os|lassas|Haupt|n.d.|GU|apud Jahn ed. pr.
 Iuv. 9.105|-e|tollito|Jortin|n.d.|P2GHL2U|
-Iuv. 10.7|opta-|operantibus|Scioppius|n.d.|recc.|
+Iuv. 10.7|opta-|operantibus|Gaspar Schopp|1596|recc.|
 Iuv. 10.304|uiros|uiro|Jahn|n.d.|Guelf. Gud. 53|
 Iuv. 11.4|convictus|conventus|Barth|n.d.|Urb. 661 (U)|
 Iuv. 11.6|ardens/-nti(s)|ardent|Rigaltius|1613|Rom. Casan. 1627|
@@ -1108,7 +1108,7 @@ Iuv. 11.178|-ant|faciunt|C. Valesius|n.d.|Laur. 34.42 (K)|
 Iuv. 11.191|-is|illic|Markland|1717–28|GU|
 Iuv. 12.33|cum ferret|conferret|Lachmann|n.d.|recc.|
 Iuv. 12.54|ac|hac|Markland|1717–28|GL1U|
-Iuv. 12.63|-es|uectori|Hadr. Valesius|1810|L2|apud Achaintre
+Iuv. 12.63|-es|uectori|Adrien de Valoiss|1810|L2|apud Achaintre
 Iuv. 12.69|aus-|astris|Jessen|n.d.|Paris. 8071 (F)|
 Iuv. 12.86|praes-|restat|Guietus|n.d.|GU|
 Iuv. 12.88|-unt|accipient|Guietus|n.d.|Lond. BM add. 15600 (Z)|
@@ -1119,7 +1119,8 @@ Iuv. 13.28|nona|non|Heineccius|n.d.|GFK1|
 Iuv. 13.58|tam|tum|Jahn|n.d.|P2|
 Iuv. 13.68|-que|examenve|Markland|1717–28|GU|
 Iuv. 13.209|-um|tacitus|Scholte|n.d.|Dresd. 153|
-Iuv. 14.83|-abit|leuarit|Hadr. Valesius|1810|recc.|apud Achaintre
+Iuv. 14.67|emen-|emundat|Gaspar Schopp|1596|UL2|
+Iuv. 14.83|-abit|leuarit|Adrien de Valois|1810|recc.|apud Achaintre
 Iuv. 14.165|nullis|nulli|Heinrich|n.d.|FU|
 Iuv. 15.7|i. caeruleos|illic aeluros|Brodaeus|n.d.|Urb. 661 (U)|
 Iuv. 15.75|omnes|ombis|Mercerius|n.d.|Bodl. Canon. Class. lat. 41 (O)|
