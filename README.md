@@ -1037,7 +1037,7 @@ Iuv. 2.8|-is|fronti|Markland|1717–28|recc.|
 Iuv. 2.26|Verri|verri si|Barth|n.d.|recc.|
 Iuv. 2.106|spo-|solium|Henrik van Herwerden|1873|Reg. 2029|
 Iuv. 2.108|assyrio … orbe|asyria … urbe|Hadr. Valesius|1810|Vindob. 107 (V)|apud Achaintre
-Iuv. 2.116|-indere|abscidere|Oudendorp|n.d.|KZ|
+Iuv. 2.116|-indere|abscidere|Franz van Oudendorp|n.d.|KZ|
 Iuv. 3.18|-stantius|praesentius|Isaac Grangaeus|1614|Vindob. 107 (V)|
 Iuv. 3.46|-unt|norint|Markland|1717–28|recc.|
 Iuv. 3.105|-um|aliena|Markland|1717–28|PRV|
@@ -1086,7 +1086,7 @@ Iuv. 10.304|uiros|uiro|Jahn|n.d.|Guelf. Gud. 53|
 Iuv. 11.6|ardens/-nti(s)|ardent|Rigaltius|1613|Rom. Casan. 1627|
 Iuv. 11.178|-ant|faciunt|C. Valesius|n.d.|Laur. 34.42 (K)|
 Iuv. 12.63|-es|uectori|Hadr. Valesius|1810|L2|apud Achaintre
-Iuv. 12.93|nec|neu|Scbrader|n.d.|FHLOZ|
+Iuv. 12.93|nec|neu|Johannes Schrader|n.d.|FHLOZ|
 Iuv. 12.93|nec|ne|Lacbmann|n.d.|Laur. S. Marci 234|
 Iuv. 13.5|omnes|homines|Ribbeck|1859|Urb. 661 (U)|
 Iuv. 14.83|-abit|leuarit|Hadr. Valesius|1810|recc.|apud Achaintre
@@ -1094,7 +1094,7 @@ Iuv. 14.165|nullis|nulli|Heinrich|n.d.|FU|
 Iuv. 15.7|i. caeruleos|illic aeluros|Brodaeus|n.d.|Urb. 661 (U)|
 Iuv. 15.75|omnes|ombis|Mercerius|n.d.|Bodl. Canon. Class. lat. 41 (O)|
 Iuv. 15.90|autem|ante|Housman|1905|Lond. mus. Brit. Add. 11997|
-Iuv. 15.124|britones|bistones|Scbrader|n.d.|OU|
+Iuv. 15.124|britones|bistones|Johannes Schrader|n.d.|OU|
 Iuv. 15.145|capien-|pariendisque|Franz Buecheler|1886|OU|
 Just. Edict. 13.24 p. 792.11|ἐπιβάλλοντα|τὸν ἐ.|Zachariae von Lingenthal|1892|P.Oxy. LXIII 4400|ZRG 13
 Luc. Ocyp. 57|ἔτειλα/ἔτιλα/ἔστειλα|ἔτεινα|K. G. Jacobitz|s.xix med.|P.Oxy. XXXI 2532|
