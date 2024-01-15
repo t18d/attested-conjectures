@@ -95,7 +95,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Markland (68), Bentley (64), Porson (62), Reiske (52), Brunck (48), Cobet (47), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Markland (69), Bentley (64), Porson (62), Reiske (52), Brunck (48), Cobet (47), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1048,10 +1048,14 @@ Iuv. 3.193|colimus|inc-|Markland|1717–28|schol. Luc. 7.404|
 Iuv. 3.211|-it|iuvabat|Markland|1717–28|R G2|
 Iuv. 3.218|haec a.|hic asianorum|G. A. Ruperti|1801|VO|
 Iuv. 3.312|proa-|pravorum|Bahrdt|n.d.|Sangall.|
+Iuv. 4.13|-at|decebit|Heinrich|n.d.|Joh. Salisb. policr. 1.4|
 Iuv. 4.148|et|ex|Ribbeck|1859|Bodl. Canon. Class. lat. 41 (O)|
+Iuv. 5.9|-a|dimidio|Guietus|n.d.|Urb. 661 (U)|
+Iuv. 5.38|berillos|berullo|Salmasius|n.d.|PR|
 Iuv. 5.137|-tres|frater|Markland|1717–28|Colon. 199 et Paris. 8291|
 Iuv. 5.169|tac-|iacetis|E. Lubinus|1602–3|PRFZ|
 Iuv. 6.13|que|ue|Petrus Pithoeus|1585|RFKOTU|
+Iuv. 6.29|-are|exagitere|Markland|1717–28|OUZ|
 Iuv. 6.77|que|ue|Hadr. Valesius|1810|Urb. 661 (U)|apud Achaintre
 Iuv. 6.153|cum/quo|quom|C. F. Hermann|1854|Lond. mus. Brit. Add. 12002|
 Iuv. 6.167|-sinam|uenustinam|Franz Buecheler|1886|Reg. 2029 et Valent. 410|
