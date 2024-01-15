@@ -95,7 +95,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (73), Valckenaer (72), Bentley (64), Porson (62), Reiske (52), Brunck (48), Cobet (47), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Markland (75), Valckenaer (72), Bentley (64), Porson (62), Reiske (52), Brunck (48), Cobet (47), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1105,7 +1105,11 @@ Iuv. 11.14|-unt|quaerit|Markland|1717–28|schol. Luc.|
 Iuv. 11.57|nec|tibi|Franz Buecheler|1886|O2|
 Iuv. 11.158|opp-|apposito|Heinsius|n.d.|recc.|
 Iuv. 11.178|-ant|faciunt|C. Valesius|n.d.|Laur. 34.42 (K)|
+Iuv. 11.191|-is|illic|Markland|1717–28|GU|
+Iuv. 12.33|cum ferret|conferret|Lachmann|n.d.|recc.|
+Iuv. 12.54|ac|hac|Markland|1717–28|GL1U|
 Iuv. 12.63|-es|uectori|Hadr. Valesius|1810|L2|apud Achaintre
+Iuv. 12.69|aus-|astris|Jessen|n.d.|Paris. 8071 (F)|
 Iuv. 12.93|nec|neu|Johannes Schrader|n.d.|FHLOZ|
 Iuv. 12.93|nec|ne|Lacbmann|n.d.|Laur. S. Marci 234|
 Iuv. 13.5|omnes|homines|Ribbeck|1859|Urb. 661 (U)|
