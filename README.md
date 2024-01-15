@@ -1051,6 +1051,10 @@ Iuv. 6.363|rediuiuus|recidiuus|Gaspar Schopp|1596|Norimberg. 6.19|
 Iuv. 6.455|-at|castiget|Ribbeck|1859|Ottob. 1471|
 Iuv. 6.561|-o/-a|longe|Franz Buecheler|1886|Bodl. Canon. Class. lat. 41 (O)|
 Iuv. 6.660|-et|praegustarit|Markland|1717–28|Monac. 14466|
+Iuv. 7.12|-eon|alcithoen|Rutgersius|n.d.|GO|
+Iuv. 7.130|-illi|tongilii|Jahn|n.d.|GOZ|
+Iuv. 7.153|isdem|idem|Jahn|n.d.|AGU|
+Iuv. 7.154|cambre|crambe|Politian|n.d.|Paris. 7900 A (G)|
 Iuv. 7.204|thres-|tharsimachi|Ritschl|n.d.|Montepess. bibl. med. 125 (P)|
 Iuv. 7.218|acoenetus|acoenonetos|Isaac Grangaeus|1614|Urb. 661 (U)|
 Iuv. 8.38|sis|sic|Hadrianus Iunius|n.d.|Lond. mus. Brit. Add. 11997|apud Gruteri Lampadem
