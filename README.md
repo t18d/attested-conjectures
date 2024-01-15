@@ -95,7 +95,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Markland (69), Bentley (64), Porson (62), Reiske (52), Brunck (48), Cobet (47), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Markland (71), Bentley (64), Porson (62), Reiske (52), Brunck (48), Cobet (47), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1066,9 +1066,15 @@ Iuv. 6.295|istros|istos|Nogarola|1602|KU|apud Janum Parrhasium
 Iuv. 6.363|rediuiuus|recidiuus|Gaspar Schopp|1596|Norimberg. 6.19|
 Iuv. 6.392|pert-|protulit|Dorleans|n.d.|Laur. 34.42 (K)|
 Iuv. 6.455|-at|castiget|Ribbeck|1859|Ottob. 1471|
+Iuv. 6.491|-o|umeros|Markland|1717–28|A K2|
 Iuv. 6.561|-o/-a|longe|Franz Buecheler|1886|Bodl. Canon. Class. lat. 41 (O)|
+Iuv. 6.628|-et|vetat|Markland|1717–28|Urb. 661 (U)|
 Iuv. 6.660|-et|praegustarit|Markland|1717–28|Monac. 14466|
-Iuv. 7.12|-eon|alcithoen|Rutgersius|n.d.|GO|
+Iuv. 7.12|-eon|alcithoen|Rutgers|n.d.|GO|
+Iuv. 7.16|-lia|gallica|Rutgers|n.d.|PGU|
+Iuv. 7.78|cap-|cupiunt|Heinrich|n.d.|Lond. BM add. 15600 (Z)|
+Iuv. 7.80|-is|marmoreus|Gronovius|n.d.|recc.|
+Iuv. 7.88|-ur|largitus|Johannes Schrader|n.d.|Paris. 7900 A (G)|
 Iuv. 7.130|-illi|tongilii|Jahn|n.d.|GOZ|
 Iuv. 7.153|isdem|idem|Jahn|n.d.|AGU|
 Iuv. 7.154|cambre|crambe|Politian|n.d.|Paris. 7900 A (G)|
