@@ -95,7 +95,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Markland (71), Bentley (64), Porson (62), Reiske (52), Brunck (48), Cobet (47), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Markland (72), Bentley (64), Porson (62), Reiske (52), Brunck (48), Cobet (47), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1077,8 +1077,10 @@ Iuv. 7.80|-is|marmoreus|Gronovius|n.d.|recc.|
 Iuv. 7.88|-ur|largitus|Johannes Schrader|n.d.|Paris. 7900 A (G)|
 Iuv. 7.124|licet|libet|Heinrich|n.d.|GLU|
 Iuv. 7.130|-illi|tongilii|Jahn|n.d.|GOZ2|
+Iuv. 7.142|an post te sella|posita an sit sella|Scioppius|n.d.|recc.|
 Iuv. 7.153|isdem|idem|Jahn|n.d.|AGU|
 Iuv. 7.154|cambre|crambe|Politian|n.d.|Paris. 7900 A (G)|
+Iuv. 7.156|forte|a fronte|Markland|1717–28|P.Ant. Juv.|
 Iuv. 7.177|-ens|scindes|Jahn|n.d.|Leid. Voss. 64 et Monac. 14466|
 Iuv. 7.204|thres-|tharsimachi|Ritschl|n.d.|Montepess. bibl. med. 125 (P)|
 Iuv. 7.218|acoenetus|acoenonetos|Isaac Grangaeus|1614|Urb. 661 (U)|
