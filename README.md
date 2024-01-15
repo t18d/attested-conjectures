@@ -95,7 +95,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Valckenaer (72), Bentley (64), Markland (64), Porson (62), Reiske (52), Brunck (48), Cobet (47), Hermann (44), Elmsley (44) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Valckenaer (72), Bentley (64), Markland (64), Porson (62), Reiske (52), Brunck (48), Cobet (47), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1044,7 +1044,7 @@ Iuv. 5.137|-tres|frater|Markland|n.d.|Colon. 199 et Paris. 8291|
 Iuv. 5.169|tac-|iacetis|E. Lubinus|1602–3|PRFZ|
 Iuv. 6.13|que|ue|Petrus Pithoeus|1585|RFKOTU|
 Iuv. 6.77|que|ue|Hadr. Valesius|1810|Urb. 661 (U)|apud Achaintre
-Iuv. 6.153|cum/quo|quom|Hermann|n.d.|Lond. mus. Brit. Add. 12002|
+Iuv. 6.153|cum/quo|quom|C. F. Hermann|1854|Lond. mus. Brit. Add. 12002|
 Iuv. 6.167|-sinam|uenustinam|Franz Buecheler|1886|Reg. 2029 et Valent. 410|
 Iuv. 6.295|istros|istos|Nogarola|1602|KU|apud Janum Parrhasium
 Iuv. 6.363|rediuiuus|recidiuus|Gaspar Schopp|1596|Norimberg. 6.19|
@@ -1055,7 +1055,7 @@ Iuv. 7.204|thres-|tharsimachi|Ritschl|n.d.|Montepess. bibl. med. 125 (P)|
 Iuv. 7.218|acoenetus|acoenonetos|Isaac Grangaeus|1614|Urb. 661 (U)|
 Iuv. 8.38|sis|sic|Hadrianus Iunius|n.d.|Lond. mus. Brit. Add. 11997|apud Gruteri Lampadem
 Iuv. 9.55|-os|lassas|Haupt|n.d.|GU|apud Jahn ed. pr.
-Iuv. 11.6|ardens/-nti(s)|ardent|Rigaltius|n.d.|Rom. Casan. 1627|
+Iuv. 11.6|ardens/-nti(s)|ardent|Rigaltius|1613|Rom. Casan. 1627|
 Iuv. 15.75|omnes|ombis|Mercerius|n.d.|Bodl. Canon. Class. lat. 41 (O)|
 Just. Edict. 13.24 p. 792.11|ἐπιβάλλοντα|τὸν ἐ.|Zachariae von Lingenthal|1892|P.Oxy. LXIII 4400|ZRG 13
 Luc. Ocyp. 57|ἔτειλα/ἔτιλα/ἔστειλα|ἔτεινα|K. G. Jacobitz|s.xix med.|P.Oxy. XXXI 2532|
