@@ -1045,11 +1045,11 @@ Iuv. 5.169|tac-|iacetis|E. Lubinus|1602–3|PRFZ|
 Iuv. 6.13|que|ue|P. Pithoeus|1585|RFKOTU|
 Iuv. 6.77|que|ue|Hadr. Valesius|1810|Urb. 661 (U)|apud Achaintre
 Iuv. 6.153|cum/quo|quom|Hermann|n.d.|Lond. mus. Brit. Add. 12002|
-Iuv. 6.167|-sinam|uenustinam|Franz Bücheler|1886|Reg. 2029 et Valent. 410|
+Iuv. 6.167|-sinam|uenustinam|Franz Buecheler|1886|Reg. 2029 et Valent. 410|
 Iuv. 6.295|istros|istos|Nogarola|1602|KU|apud Janum Parrhasium
 Iuv. 6.363|rediuiuus|recidiuus|Gaspar Schopp|1596|Norimberg. 6.19|
 Iuv. 6.455|-at|castiget|Ribbeck|1859|Ottob. 1471|
-Iuv. 6.561|-o/-a|longe|Franz Bücheler|1886|Bodl. Canon. Class. lat. 41 (O)|
+Iuv. 6.561|-o/-a|longe|Franz Buecheler|1886|Bodl. Canon. Class. lat. 41 (O)|
 Iuv. 6.660||praegustarit|Markland|n.d.|Monac. 14466|
 Iuv. 7.204|thres-|tharsimachi|Ritschl|n.d.|Montepess. bibl. med. 125 (P)|
 Iuv. 7.218|acoenetus|acoenonetos|Isaac Grangaeus|1614|Urb. 661 (U)|
@@ -1472,10 +1472,10 @@ Sen. epist. 54.2|egere/agere|egerere|E. Chatelain|1877|Marc. 270|s.l.
 Sen. epist. 72.7|dat fortuna|dant fortunae|C. R. Fickert|1842|V/V2|
 Sen. epist. 75.7|quando quae/quandoque|quando tam|P. Hauck|1910|Quirin. B.II.6 (Q)|
 Sen. epist. 83.26|villa-|vitiatur|Haupt|n.d.|Paris. lat. 8539 (b)|
-Sen. epist. 90.38|redacti|redegit|Franz Bücheler|1878|cod. Velz.|
+Sen. epist. 90.38|redacti|redegit|Franz Buecheler|1878|cod. Velz.|
 Sen. epist. 90.39|-ens/-eris|pelles|Friedrich Haase|1853|cod. Velz.|
 Sen. epist. 92.1|perfert|refert|Madvig|n.d.|cod. Velz.|
-Sen. epist. 92.7|sonis|solis|Franz Bücheler|1878|cod. Velz.|
+Sen. epist. 92.7|sonis|solis|Franz Buecheler|1878|cod. Velz.|
 Sen. epist. 95.66|eam demum|eandem vim|Erasmus|1515|WX (ψ)|
 Sen. epist. 109.4|facit quoque|facitque|Madvig|n.d.|cod. Velz.|
 Sen. epist. 109.10|partes sui|pares suis|Nonius Pincianus|1536|rec.|
