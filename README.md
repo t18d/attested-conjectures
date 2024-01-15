@@ -1032,13 +1032,16 @@ Isoc. Ad Nic. 8|ταῖς μοναρχίαις|τὰς μοναρχίας|Cobet|
 Isoc. Paneg. 68|γε|ελαττω γε|Cobet|1783|P.Oxy. V 844|
 Iuv. 1.67|-o|falsi|Markland|1717–28|PRV|
 Iuv. 1.70|-am|rubeta|G. H. Plathner|1637|PRV|
+Iuv. 1.108|-as|conductus|Scholte|n.d.|U1|
 Iuv. 2.106|spo-|solium|Henrik van Herwerden|1873|Reg. 2029|
 Iuv. 2.108|assyrio … orbe|asyria … urbe|Hadr. Valesius|1810|Vindob. 107 (V)|apud Achaintre
 Iuv. 3.18|-stantius|praesentius|Isaac Grangaeus|1614|Vindob. 107 (V)|
 Iuv. 3.105|-um|aliena|Markland|1717–28|PRV|
+Iuv. 3.144|-es|iuret|Hadr. Valesius|1810|Leid. bibl. publ. 82 (L)|apud Achaintre
 Iuv. 3.157|-i|nitidus|Markland|1717–28|Lond. mus. Brit. Reg. 15 B XVIII|
 Iuv. 3.168|-auit|negabis|Hadr. Valesius|1810|PRVΣ|apud Achaintre
 Iuv. 3.218|haec a.|hic asianorum|G. A. Ruperti|1801|VO|
+Iuv. 3.312|proa-|pravorum|Bahrdt|n.d.|Sangall.|
 Iuv. 4.148|et|ex|Ribbeck|1859|Bodl. Canon. Class. lat. 41 (O)|
 Iuv. 5.137|-tres|frater|Markland|1717–28|Colon. 199 et Paris. 8291|
 Iuv. 5.169|tac-|iacetis|E. Lubinus|1602–3|PRFZ|
