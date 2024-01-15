@@ -1132,6 +1132,9 @@ Iuv. 15.124|britones|bistones|Johannes Schrader|n.d.|O1U|
 Iuv. 15.125|-que|sauromataeve|Markland|1717–28|Φ|
 Iuv. 15.134|causam dicentis|casum lugentis|Wakefield|n.d.|recc.|
 Iuv. 15.145|capien-|pariendisque|Franz Buecheler|1886|OU|
+Iuv. 16.13|Bardai-|barbaricus|Cramer|n.d.|Dresd. 155|
+Iuv. 16.24|caligatos|caligas tot|Thomas Dempster|1610|recc.|
+Iuv. 16.24|caligatos|caligas tot|Josias Mercier|1650|recc.|apud Pricaeum
 Just. Edict. 13.24 p. 792.11|ἐπιβάλλοντα|τὸν ἐ.|Zachariae von Lingenthal|1892|P.Oxy. LXIII 4400|ZRG 13
 Luc. Ocyp. 57|ἔτειλα/ἔτιλα/ἔστειλα|ἔτεινα|K. G. Jacobitz|s.xix med.|P.Oxy. XXXI 2532|
 Lyc. Alex. 158|γυίας|γύας|Reichlin|n.d.|P.Oxy. LXIV 4428|
