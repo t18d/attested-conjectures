@@ -1055,8 +1055,10 @@ Iuv. 7.12|-eon|alcithoen|Rutgersius|n.d.|GO|
 Iuv. 7.130|-illi|tongilii|Jahn|n.d.|GOZ|
 Iuv. 7.153|isdem|idem|Jahn|n.d.|AGU|
 Iuv. 7.154|cambre|crambe|Politian|n.d.|Paris. 7900 A (G)|
+Iuv. 7.177|-ens|scindes|Jahn|n.d.|Leid. Voss. 64 et Monac. 14466|
 Iuv. 7.204|thres-|tharsimachi|Ritschl|n.d.|Montepess. bibl. med. 125 (P)|
 Iuv. 7.218|acoenetus|acoenonetos|Isaac Grangaeus|1614|Urb. 661 (U)|
+Iuv. 7.236|-us|siculi|C. Valesius|n.d.|PGL|
 Iuv. 8.38|sis|sic|Hadrianus Iunius|n.d.|Lond. mus. Brit. Add. 11997|apud Gruteri Lampadem
 Iuv. 9.55|-os|lassas|Haupt|n.d.|GU|apud Jahn ed. pr.
 Iuv. 11.6|ardens/-nti(s)|ardent|Rigaltius|1613|Rom. Casan. 1627|
