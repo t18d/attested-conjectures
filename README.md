@@ -1071,6 +1071,10 @@ Iuv. 11.178|-ant|faciunt|C. Valesius|n.d.|Laur. 34.42 (K)|
 Iuv. 12.63|-es|uectori|Hadr. Valesius|1810|L2|apud Achaintre
 Iuv. 12.93|nec|neu|Scbrader|n.d.|FHLOZ|
 Iuv. 12.93|nec|ne|Lacbmann|n.d.|Laur. S. Marci 234|
+Iuv. 13.5|omnes|homines|Ribbeck|1859|Urb. 661 (U)|
+Iuv. 14.83|-abit|leuarit|Hadr. Valesius|1810|recc.|apud Achaintre
+Iuv. 14.165|nullis|nulli|Heinrich|n.d.|FU|
+Iuv. 15.7|i. caeruleos|illic aeluros|Brodaeus|n.d.|Urb. 661 (U)|
 Iuv. 15.75|omnes|ombis|Mercerius|n.d.|Bodl. Canon. Class. lat. 41 (O)|
 Just. Edict. 13.24 p. 792.11|ἐπιβάλλοντα|τὸν ἐ.|Zachariae von Lingenthal|1892|P.Oxy. LXIII 4400|ZRG 13
 Luc. Ocyp. 57|ἔτειλα/ἔτιλα/ἔστειλα|ἔτεινα|K. G. Jacobitz|s.xix med.|P.Oxy. XXXI 2532|
