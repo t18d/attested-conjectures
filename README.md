@@ -1127,7 +1127,7 @@ Ov. am. 1.8.84|-e u. -e/-a u. -a|illa uel ille|J. Willis|1972|Lond. Bibl. Brit. 
 Ov. am. 2.1.33|-es|facie|Nicolaus Heinsius|1658|Rom. Casan. 3227 (Ca2)|
 Ov. am. 2.2.37|-es|obiciens|Nicolaus Heinsius|1658|Bodl. Auct. F.I.17|
 Ov. am. 2.6.28|fiant/fient|fiunt|G. Némethy|1922|Turon. 879 (T)|
-Ov. am. 2.7.25|quae e.|quod erat|Kenney|1958|Yrecc.|
+Ov. am. 2.7.25|quae e.|quod erat|Kenney|1958|y|
 Ov. am. 2.10.33|-undo|arando|Nicolaus Heinsius|1658|Hamilt. 471 (Y)|
 Ov. am. 2.11.9|quid|quam|G. Némethy|1922|Francof. Barth. 110 (F)|
 Ov. am. 2.13.17|dedit|sedit|Nicolaus Heinsius|1658|Lent. 329 (Le)|
@@ -1135,20 +1135,20 @@ Ov. am. 2.13.18|ting-|tangit|G. Némethy|1922|Sagall. 864 (S)|
 Ov. am. 2.15.24|-a|gemmam|Lucian Müller|1856|Lond. Bibl. Brit. Add. 21169 (L4)|
 Ov. am. 2.19.32|pot-|portet|Lucian Müller|1856|Barb. lat. 26 (V)|
 Ov. am. 3.6.23|debebant|debuerant|O. Tescari|1931–2|Lond. Bibl. Brit. Add. 21169 (L4)|
-Ov. am. 3.6.41|eban-|euanthe|A. Riese|1871|Yrecc.|
+Ov. am. 3.6.41|eban-|euanthe|A. Riese|1871|y|
 Ov. am. 3.7.55|blanda|b. est|A. Riese|1871|Turon. 879 (T)|
 Ov. am. 3.9.23|et linon|aelinon|Scaliger|1573|Paris. lat. 8430 (P7)|
 Ov. am. 3.9.23|edidit|& Linon|Nicolaus Heinsius|1658|Hamilt. 471 (Y)|
-Ov. am. 3.11.52|ut|quam|E. R. Rautenberg|1868|Yrecc.|
+Ov. am. 3.11.52|ut|quam|E. R. Rautenberg|1868|y|
 Ov. am. 3.14.42|falsis|falli|Madvig|1873|Barb. lat. 26 (V)|
 Ov. am. 3.14.42|-is|falsum|R. Merkel|1852|Matrit. 206 (Ma)|
 Ov. am. 3.15.18|magnis|nostris|L. Zurli|1996|Matrit. 206 (Ma)|
 Ov. ars 1.126|pudor|timor|Bentley|n.d.|RYS2L<sup>2</sup>|
 Ov. ars 1.133|-ia|sollemni|Madvig|1873|Hamilt. 471 (Y)|
-Ov. ars 1.225|facit|facito|Nicolaus Heinsius|1658|Yrecc.|
-Ov. ars 1.303|quod|quo|Nicolaus Heinsius|1658|Yrecc.|
+Ov. ars 1.225|facit|facito|Nicolaus Heinsius|1658|y|
+Ov. ars 1.303|quod|quo|Nicolaus Heinsius|1658|y|
 Ov. ars 1.490|quam|qua|Kenney|1959|FT<sup>2</sup>|
-Ov. ars 1.558|rege|reget|R. Merkel|1852|Yrecc.|
+Ov. ars 1.558|rege|reget|R. Merkel|1852|y|
 Ov. ars 1.581|-es/-as|bibis|C. Marchesi|1918|Bodl. Canon. class. lat. 18 (O6)|
 Ov. ars 1.730|multi|uultu|Nicolaus Heinsius|1658|Tolet. 102–14 (To2)|
 Ov. ars 2.243|placidum-|planumque|Nicolaus Heinsius|1658|Vat. lat. 3140|
