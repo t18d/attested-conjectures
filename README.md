@@ -1103,7 +1103,7 @@ Iuv. 11.4|convictus|conventus|Caspar von Barth|1624|Urb. 661 (U)|
 Iuv. 11.6|ardens/-nti(s)|ardent|Nicolas Rigault|1613|Rom. Casan. 1627|
 Iuv. 11.14|-unt|quaerit|Markland|1717–28|schol. Luc.|
 Iuv. 11.57|nec|tibi|Franz Buecheler|1886|O2|
-Iuv. 11.158|opp-|apposito|Heinsius|n.d.|recc.|
+Iuv. 11.158|opp-|apposito|Nicolaus Heinsius|1652|recc.|ad Ov. her. 7.100
 Iuv. 11.178|-ant|faciunt|Charles de Valois|1810|Laur. 34.42 (K)|apud Achaintre
 Iuv. 11.191|-is|illic|Markland|1717–28|GU|
 Iuv. 12.33|cum ferret|conferret|Lachmann|n.d.|recc.|
