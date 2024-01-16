@@ -1217,8 +1217,8 @@ Ov. am. 2.13.18|ting-|tangit|G. Némethy|1922|Sagall. 864 (S)|
 Ov. am. 2.15.24|-a|gemmam|Lucian Müller|1856|Lond. Bibl. Brit. Add. 21169 (L4)|
 Ov. am. 2.19.32|pot-|portet|Lucian Müller|1856|Barb. lat. 26 (V)|
 Ov. am. 3.6.23|debebant|debuerant|O. Tescari|1931–2|Lond. Bibl. Brit. Add. 21169 (L4)|
-Ov. am. 3.6.41|eban-|euanthe|A. Riese|1871|y|
-Ov. am. 3.7.55|blanda|b. est|A. Riese|1871|Turon. 879 (T)|
+Ov. am. 3.6.41|eban-|euanthe|Alexander Riese|1871|y|
+Ov. am. 3.7.55|blanda|b. est|Alexander Riese|1871|Turon. 879 (T)|
 Ov. am. 3.9.23|et linon|aelinon|Scaliger|1573|Paris. lat. 8430 (P7)|
 Ov. am. 3.9.23|edidit|& Linon|Nicolaus Heinsius|1658|Hamilt. 471 (Y)|
 Ov. am. 3.11.52|ut|quam|E. R. Rautenberg|1868|y|
@@ -1250,7 +1250,7 @@ Ov. met. 1.50|-amque|utrasque|J. Rappold|1881|ψ|
 Ov. met. 1.332|tec-|tinctum|Bentley|n.d.|φ|
 Ov. met. 2.135|currum|cursum|R. Merkel|1855|φ|
 Ov. met. 2.436|quae|quem|Bentley|n.d.|H Bac|
-Ov. met. 2.734|totum|textum|A. Riese|1872|recc.|
+Ov. met. 2.734|totum|textum|Alexander Riese|1872|recc.|
 Ov. met. 2.809|lenius|se(c/t)ius|Scaliger|n.d.|R1 v2v|
 Ov. met. 2.823|ungues|artus|Bentley|n.d.|N4v|
 Ov. met. 3.269|uni|uno|Jacob Micyllus|n.d.|Monv M2v|
@@ -1275,7 +1275,7 @@ Ov. met. 7.624|hic|huc|F. H. Bothe|1818|Plan.|
 Ov. met. 7.660|Austros|austrum|F. Polle|1888|NU|
 Ov. met. 8.629|tamen|tandem|F. H. Bothe|1818|Neap. IV.F.2 (R)|
 Ov. met. 9.669|quon-|quendam|Housman|1890|Neap. IV.F.2 (R)|
-Ov. met. 10.133|ac ut|ut hunc|A. Riese|1872|gpc|
+Ov. met. 10.133|ac ut|ut hunc|Alexander Riese|1872|gpc|
 Ov. met. 10.240|forma|fama|Pieter Burman I|1727|χ|
 Ov. met. 10.271|bl-|pandis|Gronovius|n.d.|χ|
 Ov. met. 11.45|tua|te|Bentley|n.d.|χ|
@@ -1283,7 +1283,7 @@ Ov. met. 11.180|cupit|caput|Schepper|n.d.|χ|
 Ov. met. 11.183|hoc|haec|F. H. Bothe|1818|χ|
 Ov. met. 11.257|tenebat|tep-|Markland|n.d.|χ|ad Stat. silv. 5.3.202
 Ov. met. 11.293|quantum|iam tum|J. D. Fuss|s.xix med.|dl6|apud Magnum
-Ov. met. 11.365|strepitu etc.|strepit et|A. Riese|1872|h2|
+Ov. met. 11.365|strepitu etc.|strepit et|Alexander Riese|1872|h2|
 Ov. met. 12.191|Achille|achille, est|D. C. G. Baumgartner-Crusius|1834|Sagall. 866 (G)|
 Ov. met. 12.256|spum-|sputantem|Nicolaus Heinsius|1652|Plan.|
 Ov. met. 12.302|licidas-|licabasque|A. Naugerius|1517|o W|
@@ -1332,6 +1332,7 @@ Ov. trist. 2.345|-via|lascivas|Pieter Burman I|1727|Lond. Bibl. Brit. Add. 49368
 Ov. trist. 2.363|vino|Baccho|Nicolaus Heinsius|1661|Goth. membr. II. 122 (D)|
 Ov. trist. 2.498|victi|ficti|Tanaquil Faber|1674|Eton. B. k. 6.18 (Et)|
 Ov. trist. 2.542|irrequietus|irreprehensus|Alexander Riese|1874|GuH2|
+Ov. trist. 3.3.13|-tremis|externis|J. Ph. d'Orville|1732|AHQ|
 P.Oxy. II 266.15|[ἀν]αζυγήν|[δι]α-|Edgar-Hunt|1932|P.Oxy. XLIX 3491|Sel.Pap. I 7.15
 Pers. 5.90|uetauit|uetabit|C. F. Heinrich|1844|Reg. 1562|
 Pers. 5.123|-i|satyrum|Casaubon|n.d.|αVX|
