@@ -1106,19 +1106,19 @@ Iuv. 11.57|nec|tibi|Franz Buecheler|1886|O2|
 Iuv. 11.158|opp-|apposito|Nicolaus Heinsius|1652|recc.|ad Ov. her. 7.100
 Iuv. 11.178|-ant|faciunt|Charles de Valois|1810|Laur. 34.42 (K)|apud Achaintre
 Iuv. 11.191|-is|illic|Markland|1717–28|GU|
-Iuv. 12.33|cum ferret|conferret|Lachmann|n.d.|recc.|
+Iuv. 12.33|cum ferret|conferret|Lachmann|1850|recc.|
 Iuv. 12.54|ac|hac|Markland|1717–28|GL1U|
 Iuv. 12.63|-es|uectori|Adrien de Valoiss|1810|L2|apud Achaintre
-Iuv. 12.69|aus-|astris|Jessen|n.d.|Paris. 8071 (F)|
-Iuv. 12.86|praes-|restat|Guietus|n.d.|GU|
-Iuv. 12.88|-unt|accipient|Guietus|n.d.|Lond. BM add. 15600 (Z)|
-Iuv. 12.93|nec|neu|Johannes Schrader|n.d.|FHLOZ|
-Iuv. 12.93|nec|ne|Lacbmann|n.d.|Laur. S. Marci 234|
+Iuv. 12.69|aus-|astris|J. Jessen|1900|Paris. 8071 (F)|Philol. 59
+Iuv. 12.86|praes-|restat|François Guyet|1614|GU|
+Iuv. 12.88|-unt|accipient|François Guyet|1614|Lond. BM add. 15600 (Z)|
+Iuv. 12.93|nec|neu|Johannes Schrader|1801|FHLOZ|apud Rupertium
+Iuv. 12.93|nec|ne|Lachmann|1850|Laur. S. Marci 234|
 Iuv. 13.5|omnes|homines|Ribbeck|1859|Urb. 661 (U)|
-Iuv. 13.28|nona|non|Heineccius|1804|GFK1|
-Iuv. 13.58|tam|tum|Jahn|n.d.|P2|
+Iuv. 13.28|nona|non|J. G. Heinecke|1804|GFK1|
+Iuv. 13.58|tam|tum|Jahn|1868|P2|
 Iuv. 13.68|-que|examenve|Markland|1717–28|GU|
-Iuv. 13.209|-um|tacitus|Scholte|n.d.|Dresd. 153|
+Iuv. 13.209|-um|tacitus|Andreas Scholte|1873|Dresd. 153|
 Iuv. 14.67|emen-|emundat|Gaspar Schopp|1596|UL2|
 Iuv. 14.83|-abit|leuarit|Adrien de Valois|1810|recc.|apud Achaintre
 Iuv. 14.97|nu-|nomen|Mead|n.d.|schol. Lucan. 2.593|
