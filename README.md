@@ -47,6 +47,7 @@
         <li>Homerus, <em>Ilias</em>, ed. Martin L. West, 2 vols (Munich, 1998–2000).</li>
         <li>Homerus, <em>Odyssea</em>, ed. Martin L. West (Berlin, 2017).</li>
         <li>Horatius Flaccus, Q., <em>Opera</em>, i: <em>Carminum libri IIII, epodon liber, Carmen Saeculare</em>, ed. Otto Keller (Leipzig, 1899).</li>
+        <li>Iuvenalis, D. Iunius, <em>Saturae sedecim</em>, ed. James Willis (Stuttgart, 1997).</li>
         <li>Kannicht, Richard (ed.), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, v: <em>Euripides</em> (Göttingen, 2004).</li>
         <li>Kassel, R., and C. Austin (eds), <em>Poetae comici Graeci (PCG)</em>, iv: <em>Aristophon — Crobylus</em> (Berlin, 1983).</li>
         <li>Kassel, R., and C. Austin (eds), <em>Poetae comici Graeci (PCG)</em>, iii/2: <em>Aristophanes: Testimonia et fragmenta</em> (Berlin, 1984).</li>
@@ -65,6 +66,7 @@
         <li>Ovidius Naso, P., <em>Metamorphoses</em>, ed. R. J. Tarrant (Oxford, 2004).</li>
         <li>Ovidius Naso, P., <em>Carmina amatoria</em>, ed. Antonio Ramírez de Verger (Munich, 2006).</li>
         <li>Page, D. L. (ed.), <em>Poetae melici Graeci</em> (Oxford, 1967).</li>
+        <li>Persius Flaccus, A., and D. Iunius Iuvenalis, <em>Saturae</em>, ed. W. V. Clausen (Stuttgart, 1966).</li>
         <li>Photius, <em>Patriarchae lexicon</em>, ed. Christos Theodoridis, 3 vols (Berlin, 1982–2013).</li>
         <li>Propertius, Sextus, <em>Elegi</em>, ed. S. J. Heyworth (Oxford, 2007).</li>
         <li>Radt, Stefan (ed.), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, iii: <em>Aeschylus</em> (Göttingen, 1985).</li>
@@ -85,7 +87,8 @@
         <li>Vergilius Maro, P., <em>Bucolica Georgica</em>, ed. Silvia Ottaviano and Gian Biagio Conte (Berlin, 2013).</li>
         <li>West, M. L. (ed.), <em>Iambi et elegi Graeci ante Alexandrum cantati</em>, 2 vols (Oxford, 1998).</li>
         <li>West, Martin L. (ed.), <em>Aeschyli tragoediae cum incerti poetae Prometheo</em> (Stuttgart, 1998).</li>
-        <li>Willis, William H., 'The Robinson-Cologne Papyrus of Achilles Tatius', <em>Greek, Roman and Byzantine Studies</em>, 31 (1990), 73-102.</li>
+        <li>Willis, James, 'Markland's notes on Juvenal', <em>Antichthon</em>, 30 (1996), 59–84.</li>
+        <li>Willis, William H., 'The Robinson-Cologne Papyrus of Achilles Tatius', <em>Greek, Roman and Byzantine Studies</em>, 31 (1990), 73–102.</li>
         <li>Wilson, N. G., <em>Herodotea: studies on the text of Herodotus</em> (Oxford, 2015), xii–xiii.</li>
         <li>Xénophon, <em>Économique</em>, ed. Pierre Chantraine (Paris, 1949).</li>
     </ul>
