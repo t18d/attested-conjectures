@@ -1070,7 +1070,7 @@ Iuv. 6.295|istros|istos|Nogarola|1602|KU|apud Janum Parrhasium
 Iuv. 6.363|rediuiuus|recidiuus|Gaspar Schopp|1596|Norimberg. 6.19|
 Iuv. 6.392|pert-|protulit|L. Dorleans|1622|Laur. 34.42 (K)|
 Iuv. 6.455|-at|castiget|Ribbeck|1859|Ottob. 1471|
-Iuv. 6.491|-o|umeros|Markland|1717–28|AK2|
+Iuv. 6.491|-o|humeros|Markland|1717–28|AK2|umeros AK2
 Iuv. 6.561|-o/-a|longe|Franz Buecheler|1886|Bodl. Canon. Class. lat. 41 (O)|
 Iuv. 6.628|-et|vetat|Markland|1717–28|Urb. 661 (U)|
 Iuv. 6.660|-et|praegustarit|Markland|1717–28|Monac. 14466|
@@ -1105,13 +1105,13 @@ Iuv. 10.7|opta-|operantibus|Gaspar Schopp|1596|recc.|
 Iuv. 10.304|uiros|uiro|Jahn|1851|Guelf. Gud. 53|
 Iuv. 11.4|convictus|conventus|Caspar von Barth|1624|Urb. 661 (U)|
 Iuv. 11.6|ardens/-nti(s)|ardent|Nicolas Rigault|1613|Rom. Casan. 1627|
-Iuv. 11.14|-unt|quaerit|Markland|1717–28|schol. Luc.|
+Iuv. 11.14|-unt|quaerit|Markland|1717–28|schol. Lucan.|
 Iuv. 11.57|nec|tibi|Franz Buecheler|1886|O2|
 Iuv. 11.158|opp-|apposito|Nicolaus Heinsius|1652|recc.|ad Ov. her. 7.100
 Iuv. 11.178|-ant|faciunt|Charles de Valois|1810|Laur. 34.42 (K)|apud Achaintre
 Iuv. 11.191|-is|illic|Markland|1717–28|GU|
 Iuv. 12.33|cum ferret|conferret|Lachmann|1850|recc.|
-Iuv. 12.54|ac|hac|Markland|1717–28|GL1U|
+Iuv. 12.54|ac|hâc|Markland|1717–28|GL1U|
 Iuv. 12.63|-es|uectori|Adrien de Valoiss|1810|L2|apud Achaintre
 Iuv. 12.69|aus-|astris|J. Jessen|1900|Paris. 8071 (F)|Philol. 59
 Iuv. 12.86|praes-|restat|François Guyet|1614|GU|
