@@ -1276,7 +1276,7 @@ Ov. met. 7.660|Austros|austrum|F. Polle|1888|NU|
 Ov. met. 8.629|tamen|tandem|F. H. Bothe|1818|Neap. IV.F.2 (R)|
 Ov. met. 9.669|quon-|quendam|Housman|1890|Neap. IV.F.2 (R)|
 Ov. met. 10.133|ac ut|ut hunc|A. Riese|1872|gpc|
-Ov. met. 10.240|forma|fama|P. Burman|1727|χ|
+Ov. met. 10.240|forma|fama|Pieter Burman I|1727|χ|
 Ov. met. 10.271|bl-|pandis|Gronovius|n.d.|χ|
 Ov. met. 11.45|tua|te|Bentley|n.d.|χ|
 Ov. met. 11.180|cupit|caput|Schepper|n.d.|χ|
@@ -1319,15 +1319,19 @@ Ov. trist. 1.3.100|perii-|potuisse|Petrus Francius|n.d.|Paris. 8239 (E)|
 Ov. trist. 1.5.53|perii-|potuisse|Daniel Heinsius|1629|codd. Heinsii et Bersmanni|
 Ov. trist. 1.8.7|-am|negabant|S. G. Owen|1889|Lond. Mus. Brit. Add. 18384 (Ln)|
 Ov. trist. 1.8.35|aequoreos|Aeolios|Johannes Schrader|1776|cod. Rottendorp.|
-Ov. trist. 1.8.45|non|nunc|T. Faber|1674|MAtV|
+Ov. trist. 1.8.45|non|nunc|Tanaquil Faber|1674|MAtV|'qui faisoit autant gloire de sa pauvreté que de sa profession'
 Ov. trist. 1.9.27|-ae|Orestis|Rudolf Ehwald|1884|Florileg. Paris. 8465|
 Ov. trist. 1.9.40|pro sensu|processu|Pieter Burman I|1727|Laur. Marc. 223 (M)|
 Ov. trist. 1.10.24|-liquit|relegit|Micyllus|1543–9|Bodl. B. N. Rawl. 107 (Od)|
 Ov. trist. 1.10.29|inque|inde|Petrus Francius|n.d.|codd. Burmanni et Bersmanni|
 Ov. trist. 2.66|multa|certa|A. S. Wilkins|1889|Zulich. (Z)|apud Owen
 Ov. trist. 2.69|-is|Iovi|Georgius Merula|1489|Harl. 2699 (Lo)|
-Ov. trist. 2.79|ne … quae te|de … cum te|Rudolf Merkel|1837|Va2|
+Ov. trist. 2.79|ne … quae te|de … cum te|Rudolf Merkel|1837|Va2|edited from prison
 Ov. trist. 2.296|viro|vir|Bentley|1722–3|Laur. Marc. 223 (M)|per litt. ad Burmann
+Ov. trist. 2.345|-via|lascivas|Pieter Burman I|1727|Lond. Bibl. Brit. Add. 49368 (H)|
+Ov. trist. 2.363|vino|Baccho|Nicolaus Heinsius|1661|Goth. membr. II. 122 (D)|
+Ov. trist. 2.498|victi|ficti|Tanaquil Faber|1674|Eton. B. k. 6.18 (Et)|
+Ov. trist. 2.542|irrequietus|irreprehensus|Alexander Riese|1874|GuH2|
 P.Oxy. II 266.15|[ἀν]αζυγήν|[δι]α-|Edgar-Hunt|1932|P.Oxy. XLIX 3491|Sel.Pap. I 7.15
 Pers. 5.90|uetauit|uetabit|C. F. Heinrich|1844|Reg. 1562|
 Pers. 5.123|-i|satyrum|Casaubon|n.d.|αVX|
