@@ -1322,7 +1322,7 @@ Ov. trist. 1.3.5|disc-|decedere|Gilbert Wakefield|1789–95|Haun. 2014 (F)|
 Ov. trist. 1.3.43|pros-|adstrata|Nicolaus Heinsius|1661|G1BnF|
 Ov. trist. 1.3.100|perii-|potuisse|Nicolaus Heinsius|1661|Paris. 8239 (E)|
 Ov. trist. 1.3.100|perii-|potuisse|Petrus Francius|n.d.|Paris. 8239 (E)|
-Ov. trist. 1.5.53|perii-|potuisse|Daniel Heinsius|1629|codd. Heinsii et Bersmanni|
+Ov. trist. 1.5.53|esset|aere|Daniel Heinsius|1629|codd. Heinsii et Bersmanni|
 Ov. trist. 1.8.7|-am|negabant|S. G. Owen|1889|Lond. Mus. Brit. Add. 18384 (Ln)|
 Ov. trist. 1.8.35|aequoreos|Aeolios|Johannes Schrader|1776|cod. Rottendorp.|
 Ov. trist. 1.8.45|non|nunc|Tanaquil Faber|1674|MAtV|'qui faisoit autant gloire de sa pauvreté que de sa profession'
