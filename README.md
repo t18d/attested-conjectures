@@ -98,7 +98,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (78), Valckenaer (72), Bentley (67), Porson (62), Reiske (52), Brunck (48), Cobet (47), Elmsley (44), Hermann (43) and Nicolaus Heinsius (43).</p>
+<p>The top 10 critics are Markland (78), Valckenaer (72), Bentley (68), Porson (62), Reiske (52), Brunck (48), Cobet (47), Elmsley (44), Hermann (43) and Nicolaus Heinsius (43).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1545,7 +1545,9 @@ Pl. Smp. 222d|διαβάλῃ|διαβαλει|R. B. Hirschig|s.xix med.|P.Oxy. 
 Pl. Tht. 152b12|αἰσθάνεσθαί|αἰσθάνεταί|Gottfried Faehse|n.d.|BKT II|ἐστιν om.
 Pl.Com. fr. 30|μόγις/μόσις|μόλις|Ottomar Bachmann|1878|Ar. Αν. 798 schol. Lh|
 Plaut. Bacch. 499|-e|impono|Georgius Merula|n.d.|Ambros. G 82 sup. (A)|
-Plaut. Bacch. 956|-a|nostro|Jan de Meurs|n.d.|Ambros. G 82 sup. (A)|
+Plaut. Bacch. 529|-atur|remoretur|Bentley|n.d.|Ambros. G 82 sup. (A)|
+Plaut. Bacch. 955|forte|portae|Georgius Merula|n.d.|Ambros. G 82 sup. (A)|
+Plaut. Bacch. 956|-a|nostro|Johannes Meursius|n.d.|Ambros. G 82 sup. (A)|
 Plaut. Cas. 854|bella|i belle|Valens Acidalius|1607|Ambros. G 82 sup. (A)|
 Plaut. Epid. 222|ornamenta|ornata|Joachim Camerarius|1552|Ambros. G 82 sup. (A)|
 Plaut. Most. 675|terno|Tranio|Pius II|n.d.|Ambros. G 82 sup. (A)|
