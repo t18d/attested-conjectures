@@ -98,7 +98,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (78), Valckenaer (72), Bentley (66), Porson (62), Reiske (52), Brunck (48), Cobet (47), Elmsley (44), Hermann (43) and Nicolaus Heinsius (43).</p>
+<p>The top 10 critics are Markland (78), Valckenaer (72), Bentley (67), Porson (62), Reiske (52), Brunck (48), Cobet (47), Elmsley (44), Hermann (43) and Nicolaus Heinsius (43).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -466,7 +466,7 @@ Cic. Cluent. 199|nomen et iura|iura|Madvig|1871|Paris. lat. 18104 (X)|Adv. I 89 
 Cic. Quinct. 17|-et|quaesisses|Fr. Hotomanus|1554|Arus. gramm. 32|
 Cic. Quinct. 54|hoc|hos|Denys Lambin|1565|Iul. Ruf. rhet. 10|
 Cic. Tim. 14|-unt|fuerant|Denys Lambin|1565–6|Vindob. lat. 189 (V)|
-Cic. Tull. 42|-matis|armis|Huschke|n.d.|Palimp. Taur. (T)|
+Cic. Tull. 42|-matis|armis|P. E. Huschke|1826|Palimp. Taur. (T)|apud J. G. H.
 Cic. div. 1.20|post|prius|Janus Gulielmus|s.xvi med.|Phillipp. 1794 (L)|apud Gruter
 Cic. div. 1.20|exces(s)um|excelsum|Denys Lambin|1565–6|Merton. 311|
 Cic. div. 1.21|ac/at|et|Hottinger|1793|Palat. lat. 1519 (P)|
@@ -1601,6 +1601,7 @@ Sen. dial. 6.12.1|in misso|in amisso|H. A. Koch|1875|Laur. 76.41 (F)|
 Sen. dial. 6.12.6|male illo|malo illae|C. R. Fickert|1845|Laur. 76.41 (F)|
 Sen. dial. 6.15.2|tamen|tamen tam|M. C. Gertz|1886|Laur. 76.41 (F)|
 Sen. dial. 6.22.1|nequitia|neque ulla|Friedrich Haase|1852|Laur. 76.41 (F)|
+Sen. dial. 9.2.10|-am|deploratae|Bentley|1899|A1|apud E. Hedicke, Studia Bentleiana
 Sen. dial. 11.1.1|-int|fecerunt|C. F. W. Müller|1865–6|D H V|
 Sen. epist. 48.6|sci-|inscientia|Lipsius|1605|P2|
 Sen. epist. 52.5|-abunt|lassarunt|Lipsius|1605|Vat. 2207 (Chatelain)|
