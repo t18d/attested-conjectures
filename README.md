@@ -98,7 +98,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (78), Valckenaer (72), Bentley (65), Porson (62), Reiske (52), Brunck (48), Cobet (47), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Markland (78), Valckenaer (72), Bentley (66), Porson (62), Reiske (52), Brunck (48), Cobet (47), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1333,6 +1333,13 @@ Ov. trist. 2.363|vino|Baccho|Nicolaus Heinsius|1661|Goth. membr. II. 122 (D)|
 Ov. trist. 2.498|victi|ficti|Tanaquil Faber|1674|Eton. B. k. 6.18 (Et)|
 Ov. trist. 2.542|irrequietus|irreprehensus|Alexander Riese|1874|GuH2|
 Ov. trist. 3.3.13|-tremis|externis|J. Ph. d'Orville|1732|AHQ|
+Ov. trist. 3.3.82|tuis|suis|Nicolaus Heinsius|1661|Bern. 478 (Be)|
+Ov. trist. 3.5.3|ni|nec|Bentley|1722–3|Lr2|
+Ov. trist. 3.5.39|Pharos|Porus|Nicolaus Heinsius|1661|MK|
+Ov. trist. 3.5.40|praeclari-|Dareique|Nicolaus Heinsius|1661|Laur. Marc. 223 (M)|
+Ov. trist. 3.6.7|ca-|raris|Nicolaus Heinsius|1661|Divion. 497 (Di)|
+Ov. trist. 3.11.1|si quis es|quisquis|Nicolaus Heinsius|1661|Bern. 478 (Be)|
+Ov. trist. 4.3.77|iacet|vacet|Nicolaus Heinsius|1661|Haun. Gl. Kgl. S. 2013 (Go)|
 P.Oxy. II 266.15|[ἀν]αζυγήν|[δι]α-|Edgar-Hunt|1932|P.Oxy. XLIX 3491|Sel.Pap. I 7.15
 Pers. 5.90|uetauit|uetabit|C. F. Heinrich|1844|Reg. 1562|
 Pers. 5.123|-i|satyrum|Casaubon|n.d.|αVX|
