@@ -98,7 +98,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (78), Valckenaer (72), Bentley (66), Porson (62), Reiske (52), Brunck (48), Cobet (47), Elmsley (44), Hermann (43) and Frederick H. M. Blaydes (42).</p>
+<p>The top 10 critics are Markland (78), Valckenaer (72), Bentley (66), Porson (62), Reiske (52), Brunck (48), Cobet (47), Elmsley (44), Hermann (43) and Nicolaus Heinsius (43).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1346,6 +1346,13 @@ Ov. trist. 4.8.43|-is/-os|Delphi|Scaliger|n.d.|Berol. lat. oct. 67 (Bn)|
 Ov. trist. 5.1.76|-io/-ii|ingeniis|Nicolaus Heinsius|1661|Guelf. Gud. 192 (G)|
 Ov. trist. 5.1.79|-os|istuc|Rudolf Merkel|1837|Go2|
 Ov. trist. 5.2.21|-rbi|acervo|Nicolaus Heinsius|1661|Turon. 879 (T)|
+Ov. trist. 5.4.14|dol-|docenda|Pieter Burman I|1727|M pars rec.|
+Ov. trist. 5.5.3|-at|egerit|Nicolaus Heinsius|1661|Haun. Gl. Kgl. S. 2013 (Go)|
+Ov. trist. 5.6.35|labo-|malorum|Tanaquil Faber|1674|GBnDLo|
+Ov. trist. 5.7.17|mor-|Martis|Nicolaus Heinsius|1661|D2|
+Ov. trist. 5.7b.25||(incipit)|Nicolaus Heinsius|1661|Berol. lat. oct. 67 (Bn)|
+Ov. trist. 5.8.17|manet|nitet|Petrus Francius|n.d.|Floril. Paris. 17903|
+Ov. trist. 5.8.30|roganda|petenda|Tanaquil Faber|1674|Berol. Diez. 20 (Bl)|
 P.Oxy. II 266.15|[ἀν]αζυγήν|[δι]α-|Edgar-Hunt|1932|P.Oxy. XLIX 3491|Sel.Pap. I 7.15
 Pers. 5.90|uetauit|uetabit|C. F. Heinrich|1844|Reg. 1562|
 Pers. 5.123|-i|satyrum|Casaubon|n.d.|αVX|
