@@ -475,6 +475,7 @@ Cic. div. 2.72|silentium|si silentium|Denys Lambin|1565–6|Erlang. 618|
 Cic. div. 2.109|esse (alterum)|del.|Marsus|1509|codd. Cantabr. et Reg. (Davies)|
 Cic. div. 2.111|primi(s) versus|primis versuum|Jean d'Aurat|s.xvi med.|codd. dett. (Moser)|
 Cic. div. 2.145|-unt|viderint|Franz Skutsch|1912|Marc. lat. 257 (F)|Glotta p. 367; Schwanengesang
+Cic. dom. 39|infirma sunt|infirmas|Madvig|1873|P1|
 Cic. orat. 12|-a|instructus|P. Reis|1932|Budap. bibl. nat. lat. 148 (Bud.)|
 Cic. orat. 16|-is|oratori|J. A. Ernesti|1774–7|N2|
 Cic. orat. 21|aequali-|aequabilitatem|P. Manutius|1546|H Bud.|
