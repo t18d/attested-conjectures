@@ -1544,6 +1544,8 @@ Pl. Smp. 209b|ἐπιθυμεῖ|επιθυμη|Henri Estienne|1578|P.Oxy. V 843
 Pl. Smp. 222d|διαβάλῃ|διαβαλει|R. B. Hirschig|s.xix med.|P.Oxy. V 843|
 Pl. Tht. 152b12|αἰσθάνεσθαί|αἰσθάνεταί|Gottfried Faehse|n.d.|BKT II|ἐστιν om.
 Pl.Com. fr. 30|μόγις/μόσις|μόλις|Ottomar Bachmann|1878|Ar. Αν. 798 schol. Lh|
+Plaut. Cas. 854|bella|i belle|Valens Acidalius|1607|Ambros. G 82 sup. (A)|
+Plaut. Truc. 270|sistentatum|te ostentatum cum|Valens Acidalius|1607|Ambros. G 82 sup. (A)|
 Plb. 11.14.2|ἐμπειρίαν|τὴν τῶν ἡγουμένων ἐ.|Gronovius|s.xvii med.|P.Ryl. 60|
 Plb. 11.14.3|προθεῖναι|προσθ-|Scaliger|s.xvi/xvii|P.Ryl. 60|
 Plb. 11.15.5|ὡρακίτας|θωρ-|Ursinus|1582|P.Berol. inv. 9570 = APF 1:388-95|
