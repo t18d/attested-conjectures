@@ -1367,7 +1367,14 @@ Phaedr. 1.19.1|-es|hominis|Pierre Pithou|1596|ρ D Wχ|
 Phaedr. 3.3.6|-us|hariolos|Pierre Pithou|1596|Δ V Ni|
 Phaedr. 3.4.6|-us|formosos|Pierre Pithou|1596|ρ N|
 Phaedr. 3.11.6|-lec-|delictum|Pierre Pithou|1596|VNi|
+Phaedr. 3.13.11|quibus|quis|Pierre Pithou|1596|Nn|
 Phaedr. 3.17.13|monet|adm-|Pierre Pithou|1596|cod. Remensis (R)|
+Phaedr. 4.6.25|-re|fauor|Pierre Pithou|1596|λ|
+Phaedr. 4.6.36|-feret|profert|Pierre Pithou|1596|MVNid|
+Phaedr. 5.22.6|-um|factus|Pierre Pithou|1596|MVNi|
+Phaedr. 5.22.17|-o|nudos|Pierre Pithou|1596|ρ M N|
+Phaedr. 5.22.26|-it|dixi|Pierre Pithou|1596|ρ λ|
+Phaedr. 5.25.25|-ent|prouocet|Pierre Pithou|1596|VNi|
 Pherecr. fr. 80|ὁ βλὰξ|ὀκλὰξ|Bekker|1814|Phot. α 387|
 Pherecr. fr. 166|ἃ|ἅ σε|Martin Runkel|1829|Phot. α 816|p. 70
 Pherecr. fr. 181|-ίαν|Ἀδώνι'|Scaliger|s.xvi/xvii|Phot. α 400|apud Cant. ms. ΙΙ p. 23
