@@ -1363,6 +1363,11 @@ Ov. trist. 5.10.12|dura|longa|J. Ph. d'Orville|1732|D2Ma|
 P.Oxy. II 266.15|[ἀν]αζυγήν|[δι]α-|Edgar-Hunt|1932|P.Oxy. XLIX 3491|Sel.Pap. I 7.15
 Pers. 5.90|uetauit|uetabit|C. F. Heinrich|1844|Reg. 1562|
 Pers. 5.123|-i|satyrum|Casaubon|n.d.|αVX|
+Phaedr. 1.19.1|-es|hominis|Pierre Pithou|1596|ρ D Wχ|
+Phaedr. 3.3.6|-us|hariolos|Pierre Pithou|1596|Δ V Ni|
+Phaedr. 3.4.6|-us|formosos|Pierre Pithou|1596|ρ N|
+Phaedr. 3.11.6|-lec-|delictum|Pierre Pithou|1596|VNi|
+Phaedr. 3.17.13|monet|adm-|Pierre Pithou|1596|cod. Remensis (R)|
 Pherecr. fr. 80|ὁ βλὰξ|ὀκλὰξ|Bekker|1814|Phot. α 387|
 Pherecr. fr. 166|ἃ|ἅ σε|Martin Runkel|1829|Phot. α 816|p. 70
 Pherecr. fr. 181|-ίαν|Ἀδώνι'|Scaliger|s.xvi/xvii|Phot. α 400|apud Cant. ms. ΙΙ p. 23
