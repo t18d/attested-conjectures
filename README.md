@@ -221,6 +221,7 @@ Ap. Rhod. 4.978|-εσσι|κεράασι|Eduard Gerhard|1816|Laur. gr. 32.16 (S)
 Ap. Rhod. 4.1129|ε. ἐ.|εὐαγέως τ' ἐπιβώμια|Fränkel|1961|P.Oxy. XXXIV 2691|ευαγεωϲ τ ε̣[
 Ap. Rhod. 4.1487|αὐλείτης/αὐλήτης|αὐλίτης|R. Merkel|1852–4|Et.Gen.|
 Apollod. Π. θεῶν 20|-βαφεῖς|μελαμβαθεῖς|Brunck|1786|F|
+Apul. Plat. 2.3 p. 223|haec|ac|Scaliger|n.d.|BRZz|
 Ar. Ach. 46|οὔ|οὐκ|Odoard Biset|1570|Paris. gr. 2715 (B)|
 Ar. Ach. 60|πρυτανεύσητε|-εύητε|Meineke|n.d.|P.Oxy. LXVI 4510|
 Ar. Ach. 68|ἐτρυχόμεσθα|-μεθα|Bentley|s.xviii in.|Bodl. Holkh. gr. 88 (L)|apud Burges, Classical Journal xi, xii, xiii
