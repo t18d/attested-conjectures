@@ -1063,7 +1063,7 @@ Iuv. 5.9|-a|dimidio|François Guyet|1614|Urb. 661 (U)|
 Iuv. 5.38|berillos|berullo|Salmasius|1629|PR|
 Iuv. 5.137|-tres|frater|Markland|1717–28|Colon. 199 et Paris. 8291|
 Iuv. 5.169|tac-|iacetis|E. Lubinus|1602–3|PRFZ|
-Iuv. 6.13|que|ue|Petrus Pithoeus|1585|RFKOTU|
+Iuv. 6.13|que|ue|Pierre Pithou|1585|RFKOTU|
 Iuv. 6.29|-are|exagitere|Markland|1717–28|OUZ|
 Iuv. 6.77|que|ue|Adrien de Valois|1810|Urb. 661 (U)|apud Achaintre
 Iuv. 6.120|sed|sic|Ribbeck|1859|Bodl. Canon. Class. lat. 41 (O)|
@@ -1364,15 +1364,21 @@ P.Oxy. II 266.15|[ἀν]αζυγήν|[δι]α-|Edgar-Hunt|1932|P.Oxy. XLIX 3491|
 Pers. 5.90|uetauit|uetabit|C. F. Heinrich|1844|Reg. 1562|
 Pers. 5.123|-i|satyrum|Casaubon|n.d.|αVX|
 Phaedr. 1.19.1|-es|hominis|Pierre Pithou|1596|ρ D Wχ|
+Phaedr. 2.9.2|-uulum|seruum|Pierre Pithou|1596|Vat. lat. 5190 (M)|
+Phaedr. 3.2.4|-em|quidam|Pierre Pithou|1596|N T|
+Phaedr. 3.2.16|prumta|pro uita|Pierre Pithou|1596|ρ N ξ|
 Phaedr. 3.3.6|-us|hariolos|Pierre Pithou|1596|Δ V Ni|
+Phaedr. 3.4.4|-us|praestatur|Pierre Pithou|1596|ρ λ|
 Phaedr. 3.4.6|-us|formosos|Pierre Pithou|1596|ρ N|
 Phaedr. 3.11.6|-lec-|delictum|Pierre Pithou|1596|VNi|
 Phaedr. 3.13.11|quibus|quis|Pierre Pithou|1596|Nn|
 Phaedr. 3.17.13|monet|adm-|Pierre Pithou|1596|cod. Remensis (R)|
+Phaedr. 4.4.8|-msi|contempti|Pierre Pithou|1596|Neap. IV F 58 (N)|
 Phaedr. 4.6.25|-re|fauor|Pierre Pithou|1596|λ|
 Phaedr. 4.6.36|-feret|profert|Pierre Pithou|1596|MVNid|
 Phaedr. 5.22.6|-um|factus|Pierre Pithou|1596|MVNi|
 Phaedr. 5.22.17|-o|nudos|Pierre Pithou|1596|ρ M N|
+Phaedr. 5.22.18|nati qua|antiqua|Pierre Pithou|1596|ρ N|
 Phaedr. 5.22.26|-it|dixi|Pierre Pithou|1596|ρ λ|
 Phaedr. 5.25.25|-ent|prouocet|Pierre Pithou|1596|VNi|
 Pherecr. fr. 80|ὁ βλὰξ|ὀκλὰξ|Bekker|1814|Phot. α 387|
