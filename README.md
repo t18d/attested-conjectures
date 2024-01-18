@@ -1253,7 +1253,7 @@ Ov. ars 3.418|ferre|ferte|Nicolaus Heinsius|1658|Antuerp. Plant. lat. D.68 (A)|
 Ov. ars 3.733|arcus|artus|R. Merkel|1852|Matrit. 206 (Ma)|
 Ov. epist. 1.110|aura|ara|Nicolaus Heinsius|1662|Dp G2|
 Ov. epist. 4.151|et|at|Bentley|1820|Bern. 512|apud Lemaire
-Ov. epist. 5.16|depressa|defensa|Parrhasius|n.d.|Paris. lat. 7993 (Pa)|
+Ov. epist. 5.16|depressa|defensa|Aulo Giano Parrasio|1518|Paris. lat. 7993 (Pa)|
 Ov. met. 1.2|-as|illa|P. Lejay|1894|ev U3c|
 Ov. met. 1.50|-amque|utrasque|J. Rappold|1881|ψ|
 Ov. met. 1.332|tec-|tinctum|Bentley|n.d.|φ|
