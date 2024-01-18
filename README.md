@@ -2135,6 +2135,9 @@ Sud. π 926|προσφ-|προφέρειν|Bekker|1854|Phot. z|Suidae Lex. p. 83
 Synag. 52.22|αἱρεθίζειν|αἱρετίζειν|Theodor Kock|1880–8|Phot. α 642|
 Synag. 177.16|ἀωρὶ θανάτωι|ἀωροθάνατος|Dindorf|1835|Phot. α 3493|
 Synag. 353.9|ἀτη-|ἀτειρής|Friedrich Wilhelm Wagner|1852|Phot. α 474|
+Tac. Agr. 3.3|senectutis|seruitutis|Fulvius Ursinus|1595|Aesinas lat. 8 (E)|
+Tac. Agr. 9.3|-am|persona|Beatus Rhenanus|1533|Ec|
+Tac. Agr. 9.3|di-|deminuit|Lipsius|1574|Aesinas lat. 8 (E)|
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
 Theoc. 2.35–36a schol.|-δρομος|πρόδομος|Samuel Butler|1816|Bodl. Can. gr. 86 (Gaisford)|
 Theoc. 2.82|μοι περὶ|μεῦ πυρὶ|Walter Taylor|1821|P.Ant. III 207 (Pa)|apud Briggs; μ]ευ
