@@ -99,7 +99,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (78), Valckenaer (72), Bentley (68), Porson (62), Reiske (52), Brunck (48), Cobet (47), Elmsley (44), Hermann (43) and Nicolaus Heinsius (43).</p>
+<p>The top 10 critics are Markland (78), Valckenaer (72), Bentley (68), Porson (62), Reiske (52), Brunck (48), Cobet (47), Elmsley (44), Nicolaus Heinsius (44) and Hermann (43).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1251,6 +1251,7 @@ Ov. ars 3.273|analept-|analemptrides|W. Schulze|1894|Hamilt. 471 (Y)|
 Ov. ars 3.410|-os|contiguus|Parrhasius|n.d.|Paris. lat. 7311 (R)|
 Ov. ars 3.418|ferre|ferte|Nicolaus Heinsius|1658|Antuerp. Plant. lat. D.68 (A)|
 Ov. ars 3.733|arcus|artus|R. Merkel|1852|Matrit. 206 (Ma)|
+Ov. epist. 1.110|aura|ara|Nicolaus Heinsius|1662|Dp G2|
 Ov. met. 1.2|-as|illa|P. Lejay|1894|ev U3c|
 Ov. met. 1.50|-amque|utrasque|J. Rappold|1881|ψ|
 Ov. met. 1.332|tec-|tinctum|Bentley|n.d.|φ|
