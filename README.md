@@ -2041,7 +2041,7 @@ Soph. Phil. 30|κυρῇ|κυρεῖ|G. H. Schaefer|n.d.|Gac|
 Soph. Phil. 81|κτῆμα|χρῆμα|Tournier|n.d.|Laur. 31.10 (K)|
 Soph. Phil. 256|που|πω|Markland|s.xviii med.|Marc. gr. 468 (V)|
 Soph. Phil. 266|τῆσδ ̓|τῆς|Auratus|n.d.|Zopc|
-Soph. Phil. 272|κτῆμα|χρῆμα|Frederick H. M. Blaydes|n.d.|Paris. suppl. gr. 109 (Q)|
+Soph. Phil. 272|-ῳ|πέτρᾳ|Frederick H. M. Blaydes|n.d.|Paris. suppl. gr. 109 (Q)|
 Soph. Phil. 306|ἀνθρώπων|-ῷ|Frederick H. M. Blaydes|n.d.|Paris. gr. 2712 (A)|
 Soph. Phil. 361|πρὸς φίλους|προσφιλῶς|F. H. Bothe|n.d.|Vat. gr. 2291 (R)|
 Soph. Phil. 481|-ῃ/-ου|ὅποι|Wakefield|n.d.|KZo|
