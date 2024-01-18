@@ -2149,6 +2149,14 @@ Tac. Agr. 18.4|dubiis|subitis|Gronovius|1685|Hersfeld. (H)|
 Tac. Agr. 19.2|-ros|libertos|Francesco Puteolano|1475|Hersfeld. (H)|
 Tac. Agr. 19.4|circumcisisque|circumcisis quae|Beatus Rhenanus|1533|Hc|
 Tac. Agr. 19.4|ludere|luere|F. C. Wex|1852|Hersfeld. (H)|
+Tac. Agr. 20.3|et t.|tanta|Beatus Rhenanus|1533|Hersfeld. (H)|
+Tac. Agr. 25.1|-is -us|hostili exercitu|Beatus Rhenanus|1533|Hm|
+Tac. Agr. 25.3|-asse|oppugnare|Beatus Rhenanus|1533|Hersfeld. (H)|
+Tac. Agr. 26.2|intulisse|ut tulisse|Francesco Puteolano|1475|Hersfeld. (H)|
+Tac. Agr. 27.2|om.|se victos|J. v. G. Fröhlich|1827|Hersfeld. (H)|
+Tac. Agr. 28.1|-is|immixti|Francesco Puteolano|1475|Hersfeld. (H)|
+Tac. Agr. 32.2|circum t.|trepidos|C. A. Heumann|1712|Hersfeld. (H)|
+Tac. Agr. 34.3|imputare|inputari|Francesco Puteolano|1475|Hersfeld. (H)|
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
 Theoc. 2.35–36a schol.|-δρομος|πρόδομος|Samuel Butler|1816|Bodl. Can. gr. 86 (Gaisford)|
 Theoc. 2.82|μοι περὶ|μεῦ πυρὶ|Walter Taylor|1821|P.Ant. III 207 (Pa)|apud Briggs; μ]ευ
