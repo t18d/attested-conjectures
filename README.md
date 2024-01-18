@@ -2170,6 +2170,7 @@ Tac. Agr. 43.3|-ant|constabat|Beatus Rhenanus|1533|Aesinas lat. 8 (E)|
 Tac. Agr. 45.1|(iam) tum|etiam tum|Gronovius|1685|Aesinas lat. 8 (E)|
 Tac. hist. 1.16.1|-et|possit|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 1.25.2|-i|commune|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
+Tac. hist. 1.30.3|proinde|perinde|Beatus Rhenanus|1533|Harl. 2764 (H)|
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
 Theoc. 2.35–36a schol.|-δρομος|πρόδομος|Samuel Butler|1816|Bodl. Can. gr. 86 (Gaisford)|
 Theoc. 2.82|μοι περὶ|μεῦ πυρὶ|Walter Taylor|1821|P.Ant. III 207 (Pa)|apud Briggs; μ]ευ
