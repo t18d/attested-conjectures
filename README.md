@@ -1759,6 +1759,20 @@ Sen. nat. 3.29.5|-eriue|abolerique|L. Castiglioni|1922|Cambrai 939 (Cam.)|
 Sen. nat. 3.29.6|-us|impetu|Erasmus|1515|W2|
 Sen. nat. 3.29.7|curr-|decurrent|L. Castiglioni|1921|Genev. lat. 77 (Z)|
 Sen. nat. 3.30.3|auar- aut|aut auaritia|H. Mueck|1890|L2|
+Sen. nat. 4 praef. 2|si modo|modo (prius)|Nonius Pincianus|1536|Zγ|
+Sen. nat. 4 praef. 4|quisque|patet q.|W. H. Alexander|1948|Genev. lat. 77 (Z)|
+Sen. nat. 4 praef. 4|fortasse — petitur|del.|Leo|1907|ZU|apud Gercke
+Sen. nat. 4 praef. 5|fieris|ferieris|P. Oltramare|1929|D2X|
+Sen. nat. 4 praef. 5|uilleium|uitellium|Lipsius|1605|ZL2|ad Tac. Ann. 6.32
+Sen. nat. 4 praef. 7|-a -e|incertam fidem|Erasmus|1515|ZW|
+Sen. nat. 4 praef. 9|aliam|alienam|Muretus|1585|Genev. lat. 77 (Z)|
+Sen. nat. 4 praef. 10|talia|alia|Nonius Pincianus|1536|D1 et recc.|
+Sen. nat. 4 praef. 10|suscip-|suspicere|Erasmus|1515|Genev. lat. 77 (Z)|
+Sen. nat. 4 praef. 13|-rit|dixeris|Fortunatus|1522|W2|
+Sen. nat. 4 praef. 16|-uit|examinaui|H. C. Michaelis|1854|recc.|
+Sen. nat. 4 praef. 16|q. me|quidem|Madvig|1873|Genev. lat. 77 (Z)|
+Sen. nat. 4 praef. 17|ap-|operto|H. A. Koch|1874|recc.|
+Sen. nat. 4 praef. 19|a te|te|Erasmus|1515|Genev. lat. 77 (Z)|
 Sen. nat. 4 tit.|De Nilo|De nilo|Alfred Gercke|1907|Cambrai 939 (Cam.)|
 Sen. nat. 4.2.1|usura|(h)ausura|Fortunatus|1522|E2|
 Sen. nat. 4.2.1|-it|posset|C. F. W. Müller|1866|Genev. lat. 77 (Z)|
@@ -1783,20 +1797,6 @@ Sen. nat. 4.3.5|non/ne|nec|B. Larisch|1865|STX|
 Sen. nat. 4.4.1|fallar|fatear|Franz Skutsch|1907|k2|apud Gercke
 Sen. nat. 4.7.2|-asset|excantassit|Schoell|1907|Genev. lat. 77 (Z)|apud Gercke
 Sen. nat. 4.11.3|earum|del.|D. Vottero|1980|Escor. O.III.2 (R)|
-Sen. nat. 4.praef.2|si modo|modo (prius)|Nonius Pincianus|1536|Zγ|
-Sen. nat. 4.praef.4|quisque|patet q.|W. H. Alexander|1948|Genev. lat. 77 (Z)|
-Sen. nat. 4.praef.4|fortasse — petitur|del.|Leo|1907|ZU|apud Gercke
-Sen. nat. 4.praef.5|fieris|ferieris|P. Oltramare|1929|D2X|
-Sen. nat. 4.praef.5|uilleium|uitellium|Lipsius|1605|ZL2|ad Tac. Ann. 6.32
-Sen. nat. 4.praef.7|-a -e|incertam fidem|Erasmus|1515|ZW|
-Sen. nat. 4.praef.9|aliam|alienam|Muretus|1585|Genev. lat. 77 (Z)|
-Sen. nat. 4.praef.10|talia|alia|Nonius Pincianus|1536|D1 et recc.|
-Sen. nat. 4.praef.10|suscip-|suspicere|Erasmus|1515|Genev. lat. 77 (Z)|
-Sen. nat. 4.praef.13|-rit|dixeris|Fortunatus|1522|W2|
-Sen. nat. 4.praef.16|-uit|examinaui|H. C. Michaelis|1854|recc.|
-Sen. nat. 4.praef.16|q. me|quidem|Madvig|1873|Genev. lat. 77 (Z)|
-Sen. nat. 4.praef.17|ap-|operto|H. A. Koch|1874|recc.|
-Sen. nat. 4.praef.19|a te|te|Erasmus|1515|Genev. lat. 77 (Z)|
 Sen. nat. 5.1.2|adu-|diuersum|Bentley|1672|Genev. lat. 77 (Z)|
 Sen. nat. 5.9.4|appareat|-ret|Alfred Gercke|1907|W1|
 Sen. nat. 5.15.1|nec … superemin-|ne … superinminente|Gronovius|1658|Genev. lat. 77 (Z)|
@@ -2169,6 +2169,7 @@ Tac. Agr. 42.2|-i|proconsulare|Bletterius|1771|Aesinas lat. 8 (E)|apud Brotier
 Tac. Agr. 43.3|-ant|constabat|Beatus Rhenanus|1533|Aesinas lat. 8 (E)|
 Tac. Agr. 45.1|(iam) tum|etiam tum|Gronovius|1685|Aesinas lat. 8 (E)|
 Tac. hist. 1.16.1|-et|possit|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
+Tac. hist. 1.25.2|-i|commune|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
 Theoc. 2.35–36a schol.|-δρομος|πρόδομος|Samuel Butler|1816|Bodl. Can. gr. 86 (Gaisford)|
 Theoc. 2.82|μοι περὶ|μεῦ πυρὶ|Walter Taylor|1821|P.Ant. III 207 (Pa)|apud Briggs; μ]ευ
