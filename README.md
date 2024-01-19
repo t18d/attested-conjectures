@@ -2226,6 +2226,7 @@ Tac. hist. 3.69.1|-issi-|cecidisset|F. Jacob|1842|IbU|
 Tac. hist. 3.76.1|terr-|Tarracinae|Lipsius|1547–1607|Yal. II (Y02)|
 Tac. hist. 3.77.1|Vergilii|uerginii|Franciscus Puteolanus|1476|V58L24|
 Tac. hist. 3.82.2|asti-|adstiterat|Franciscus Puteolanus|1476|HZUY03|
+Tac. hist. 4.10|adulationi|ad ultionem|Gabriello Faerno|1595|Leid. BPL 16 Β (L)|apud Ursinum
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
 Theoc. 2.35–36a schol.|-δρομος|πρόδομος|Samuel Butler|1816|Bodl. Can. gr. 86 (Gaisford)|
 Theoc. 2.82|μοι περὶ|μεῦ πυρὶ|Walter Taylor|1821|P.Ant. III 207 (Pa)|apud Briggs; μ]ευ
