@@ -1332,7 +1332,7 @@ Ov. trist. 1.8.35|aequoreos|Aeolios|Johannes Schrader|1776|cod. Rottendorp.|
 Ov. trist. 1.8.45|non|nunc|Tanaquil Faber|1674|MAtV|'qui faisoit autant gloire de sa pauvreté que de sa profession'
 Ov. trist. 1.9.27|-ae|Orestis|Rudolf Ehwald|1884|Florileg. Paris. 8465|
 Ov. trist. 1.9.40|pro sensu|processu|Pieter Burman I|1727|Laur. Marc. 223 (M)|
-Ov. trist. 1.10.24|-liquit|relegit|Micyllus|1543–9|Bodl. B. N. Rawl. 107 (Od)|
+Ov. trist. 1.10.24|-liquit|relegit|Jacob Micyllus|1543–9|Bodl. B. N. Rawl. 107 (Od)|
 Ov. trist. 1.10.29|inque|inde|Petrus Francius|n.d.|codd. Burmanni et Bersmanni|
 Ov. trist. 2.66|multa|certa|A. S. Wilkins|1889|Zulich. (Z)|apud Owen
 Ov. trist. 2.69|-is|Iovi|Georgius Merula|1489|Harl. 2699 (Lo)|
@@ -2190,7 +2190,7 @@ Tac. hist. 2.23.4|quocum|ducum|J. Freinsheim|1638|G2|
 Tac. hist. 2.24.3|et|ex|N. Bach|1835|Yal. II (Y02)|
 Tac. hist. 2.26.2|periculosis|perculsis|Muretus|1607|IaY01Y02|apud Gruter
 Tac. hist. 2.32.1|qua|quia|Georg Andresen|1914|Ia|
-Tac. hist. 2.40|am(m)issuro|omissuro|Micyllus|1557|BHol|
+Tac. hist. 2.40|am(m)issuro|omissuro|Jacob Micyllus|1557|BHol|
 Tac. hist. 2.45.2|legatione capud|legatio ne<sup>c</sup> apud|Curzio Picchena|1604|Harl. 2764 (H)|
 Tac. hist. 2.47.2|-ic|illinc|Beatus Rhenanus|1533|Bodl. 34472 (B72)|
 Tac. hist. 2.50.2|luco|loco|Christoph Coler|1603|N23<sup>2</sup>|
