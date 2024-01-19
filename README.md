@@ -2200,7 +2200,11 @@ Tac. hist. 2.65.1|hilarius|Hilarus|Georg Andresen|1914|M1|
 Tac. hist. 2.67.2|tertia decumam|tertiadecumani|Beatus Rhenanus|1533|Ib|
 Tac. hist. 2.67.2|-it|iussi|G. Sörbom|1935|Holkh. 359 (Hol)|
 Tac. hist. 2.69.1|inania|initia|Valens Acidalius|1606|Y03<sup>2</sup> mg.|
-Tac. hist. 2.70.2|-asque|rosaque|Ludwig Doederlein|s.xix med.|M1|
+Tac. hist. 2.70.2|-asque|rosaque|Ludwig Doederlein|1847|M1|Pforte
+Tac. hist. 2.77.2|tus|tu hos|Franciscus Puteolanus|1476|Vat. lat. 1958 (V58)|
+Tac. hist. 2.78.2|lat-|laetior|D. W. Triller|1742|Vat. lat. 1958 (V58)|
+Tac. hist. 2.78.3|-am … -am|ara … reuerentia|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
+Tac. hist. 2.79|cognit-|contione|Curzio Picchena|1604|Leid. BPL 16 Β (L)|
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
 Theoc. 2.35–36a schol.|-δρομος|πρόδομος|Samuel Butler|1816|Bodl. Can. gr. 86 (Gaisford)|
 Theoc. 2.82|μοι περὶ|μεῦ πυρὶ|Walter Taylor|1821|P.Ant. III 207 (Pa)|apud Briggs; μ]ευ
