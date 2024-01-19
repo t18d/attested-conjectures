@@ -2222,6 +2222,8 @@ Tac. hist. 3.50.2|omniaque quae|ad o. q.|Franciscus Puteolanus|1476|H1U|
 Tac. hist. 3.51.1|quamquam|quam quae|Franciscus Puteolanus|1476|Leid. BPL 16 Β (L)|
 Tac. hist. 3.55.2|di-|remittere|Carl Nipperdey|1874|Leid. BPL 16 Β (L)|
 Tac. hist. 3.58.2|officia m.|officii a metu|J. A. Ernesti|1752|Vat. lat. 1958 (V58)|
+Tac. hist. 3.69.1|-issi-|cecidisset|F. Jacob|1842|IbU|
+Tac. hist. 3.76.1|terr-|Tarracinae|Lipsius|1547–1607|Yal. II (Y02)|
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
 Theoc. 2.35–36a schol.|-δρομος|πρόδομος|Samuel Butler|1816|Bodl. Can. gr. 86 (Gaisford)|
 Theoc. 2.82|μοι περὶ|μεῦ πυρὶ|Walter Taylor|1821|P.Ant. III 207 (Pa)|apud Briggs; μ]ευ
