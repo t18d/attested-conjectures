@@ -2175,6 +2175,10 @@ Tac. hist. 1.30.3|proinde|perinde|Beatus Rhenanus|1533|Harl. 2764 (H)|
 Tac. hist. 1.33.2|proi-|perinde|Carl Nipperdey|1855|Laur. 63.24 (L24)|
 Tac. hist. 1.39.2|-terum|postremum|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 1.51.3|confr-|contractae|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
+Tac. hist. 1.52.2|-erandi|impetrandi|Gronovius|1672|Leid. BPL 16 Β (L)|
+Tac. hist. 1.58.1|paro|partim|Lipsius|1547–1607|B2Hol|
+Tac. hist. 1.67.1|soli in|olim|Beatus Rhenanus|1533|ZL1|
+Tac. hist. 1.67.1|clara|elata|Johannes Classen|1863|Caesaraug. 9439 (Z)|
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
 Theoc. 2.35–36a schol.|-δρομος|πρόδομος|Samuel Butler|1816|Bodl. Can. gr. 86 (Gaisford)|
 Theoc. 2.82|μοι περὶ|μεῦ πυρὶ|Walter Taylor|1821|P.Ant. III 207 (Pa)|apud Briggs; μ]ευ
