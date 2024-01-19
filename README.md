@@ -2254,7 +2254,8 @@ Tac. hist. 5.6.1|exsu-|exuperant|Friedrich Jacob|1842|MIbc|
 Tac. hist. 5.7.2|bellus|Belus|Beatus Rhenanus|1533|Y02Y03|
 Tac. hist. 5.7.2|ui-|nitro|Beatus Rhenanus|1533|Paris. Reg. 6118 (P)|
 Tac. hist. 5.10.1|inter|intra|Beatus Rhenanus|1533|U2mgL|
-Tac. hist. 5.17.2|-uidisse|prouisa|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
+Tac. hist. 5.17.2|preuise|prouisa|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
+Tac. hist. 5.17.2|preuise/prouisa|prouidisse|Friedrich Jacob|1842|Ia|p. 29
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
 Theoc. 2.35–36a schol.|-δρομος|πρόδομος|Samuel Butler|1816|Bodl. Can. gr. 86 (Gaisford)|
 Theoc. 2.82|μοι περὶ|μεῦ πυρὶ|Walter Taylor|1821|P.Ant. III 207 (Pa)|apud Briggs; μ]ευ
