@@ -2205,6 +2205,10 @@ Tac. hist. 2.77.2|tus|tu hos|Franciscus Puteolanus|1476|Vat. lat. 1958 (V58)|
 Tac. hist. 2.78.2|lat-|laetior|D. W. Triller|1742|Vat. lat. 1958 (V58)|
 Tac. hist. 2.78.3|-am … -am|ara … reuerentia|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 2.79|cognit-|contione|Curzio Picchena|1604|Leid. BPL 16 Β (L)|
+Tac. hist. 2.81.1|ins-|seruientium|Robert Novák|1892|N23L|
+Tac. hist. 2.93.1|-tate|auiditas|Franciscus Puteolanus|1476|Iac|
+Tac. hist. 2.95.1|iec-|fecisset|Lipsius|1547–1607|Leid. BPL 16 Β (L)|
+Tac. hist. 2.95.1|subdere|subdidere|Beatus Rhenanus|1533|L2|
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
 Theoc. 2.35–36a schol.|-δρομος|πρόδομος|Samuel Butler|1816|Bodl. Can. gr. 86 (Gaisford)|
 Theoc. 2.82|μοι περὶ|μεῦ πυρὶ|Walter Taylor|1821|P.Ant. III 207 (Pa)|apud Briggs; μ]ευ
