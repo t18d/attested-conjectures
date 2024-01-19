@@ -2222,7 +2222,7 @@ Tac. hist. 3.50.2|omniaque quae|ad o. q.|Franciscus Puteolanus|1476|H1U|
 Tac. hist. 3.51.1|quamquam|quam quae|Franciscus Puteolanus|1476|Leid. BPL 16 Β (L)|
 Tac. hist. 3.55.2|di-|remittere|Carl Nipperdey|1874|Leid. BPL 16 Β (L)|
 Tac. hist. 3.58.2|officia m.|officii a metu|J. A. Ernesti|1752|Vat. lat. 1958 (V58)|
-Tac. hist. 3.69.1|-issi-|cecidisset|F. Jacob|1842|IbU|
+Tac. hist. 3.69.1|-issi-|cecidisset|Friedrich Jacob|1842|IbU|
 Tac. hist. 3.76.1|terr-|Tarracinae|Lipsius|1547–1607|Yal. II (Y02)|
 Tac. hist. 3.77.1|Vergilii|uerginii|Franciscus Puteolanus|1476|V58L24|
 Tac. hist. 3.82.2|asti-|adstiterat|Franciscus Puteolanus|1476|HZUY03|
@@ -2234,7 +2234,8 @@ Tac. hist. 4.26.1|-ebant|efferabant|Filippo Beroaldo|1515|V58<sup>1</sup>|s.l.
 Tac. hist. 4.26.3|loco|l. cui|H. Ritter|1848|H2Y03L|
 Tac. hist. 4.29.2|arcus|artus|H. Ritter|1848|Yal. III (Y03)|
 Tac. hist. 4.32.3|-dit|rediit|Beatus Rhenanus|1533|Yal. II (Y02)|
-Tac. hist. 4.37.3|-ari|incruentati|F. Jacob|1842|Ia|
+Tac. hist. 4.37.3|-ari|incruentati|Friedrich Jacob|1842|Ia|
+Tac. hist. 4.37.3|-ari quia|incruenta uia|F. Oelschlaeger|1844|U2mg|
 Tac. hist. 4.42.1|s. ex senatus consulto|s. ex se|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 4.42.4|sign-|saginatus|Gabriele Faerno|1595|IbU|
 Tac. hist. 4.51.1|quadraginta|q. milia|H. Ritter|1848|IabU|
@@ -2249,6 +2250,11 @@ Tac. hist. 4.81.1|caelisest|caelestis|Beatus Rhenanus|1533|Yal. II (Y02)|
 Tac. hist. 4.85.2|-e|ostentaret|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 5.4.4|uiam suam et cursus|ui sua et cursu|Beatus Rhenanus|1533|Vat. lat. 1958 (V58)|
 Tac. hist. 5.5.1|gere-|congerebant|Franciscus Puteolanus|1476|Vat. lat. 1958 (V58)|
+Tac. hist. 5.6.1|exsu-|exuperant|Friedrich Jacob|1842|MIbc|
+Tac. hist. 5.7.2|bellus|Belus|Beatus Rhenanus|1533|Y02Y03|
+Tac. hist. 5.7.2|ui-|nitro|Beatus Rhenanus|1533|Paris. Reg. 6118 (P)|
+Tac. hist. 5.10.1|inter|intra|Beatus Rhenanus|1533|U2mgL|
+Tac. hist. 5.17.2|-uidisse|prouisa|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
 Theoc. 2.35–36a schol.|-δρομος|πρόδομος|Samuel Butler|1816|Bodl. Can. gr. 86 (Gaisford)|
 Theoc. 2.82|μοι περὶ|μεῦ πυρὶ|Walter Taylor|1821|P.Ant. III 207 (Pa)|apud Briggs; μ]ευ
