@@ -2209,7 +2209,7 @@ Tac. hist. 2.81.1|ins-|seruientium|Robert Novák|1892|N23L|
 Tac. hist. 2.93.1|-tate|auiditas|Franciscus Puteolanus|1476|Iac|
 Tac. hist. 2.95.1|iec-|fecisset|Lipsius|1547–1607|Leid. BPL 16 Β (L)|
 Tac. hist. 2.95.1|subdere|subdidere|Beatus Rhenanus|1533|L2|
-Tac. hist. 2.96.1|mu-|mollius|Beatus Rhenanus|1533|Ib|
+Tac. hist. 2.96.1|nu-|mollius|Beatus Rhenanus|1533|Ib|
 Tac. hist. 2.100.3|patui|patuit|R. H. Martin|1951|Ib|
 Tac. hist. 2.101.1|Vitellium (alterum)|del.|Lipsius|1547–1607|II|
 Tac. hist. 3.2.4|militia|militiam|Massimo Lenchantin|1929|Ib|
