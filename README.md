@@ -2235,8 +2235,18 @@ Tac. hist. 4.26.3|loco|l. cui|H. Ritter|1848|H2Y03L|
 Tac. hist. 4.29.2|arcus|artus|H. Ritter|1848|Yal. III (Y03)|
 Tac. hist. 4.32.3|-dit|rediit|Beatus Rhenanus|1533|Yal. II (Y02)|
 Tac. hist. 4.37.3|-ari|incruentati|F. Jacob|1842|Ia|
-Tac. hist. 4.42.1|sponte ex s. c.|sponte ex se|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
+Tac. hist. 4.42.1|s. ex senatus consulto|s. ex se|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 4.42.4|sign-|saginatus|Gabriele Faerno|1595|IbU|
+Tac. hist. 4.51.1|quadraginta|q. milia|H. Ritter|1848|IabU|
+Tac. hist. 4.53.2|pluere|perluere|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
+Tac. hist. 4.58.3|-icit|suffecit|Lipsius|1547–1607|Leid. BPL 16 Β (L)|
+Tac. hist. 4.60.2|at qui|atque|Curzio Picchena|1604|ZY02|
+Tac. hist. 4.63.1|-enti|ingenii|Lipsius|1547–1607|L2|
+Tac. hist. 4.63.1|h. custodiae erant|honorata custodia habuerant|E. Wurm|1853|Yal. II (Y02)|
+Tac. hist. 4.68.5|tulio|Iulio|H. Ritter|1848|BHolU|
+Tac. hist. 4.77.1|-a|improuisi|Beatus Rhenanus|1533|LO48|
+Tac. hist. 4.81.1|caelisest|caelestis|Beatus Rhenanus|1533|Yal. II (Y02)|
+Tac. hist. 4.85.2|-e|ostentaret|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
 Theoc. 2.35–36a schol.|-δρομος|πρόδομος|Samuel Butler|1816|Bodl. Can. gr. 86 (Gaisford)|
 Theoc. 2.82|μοι περὶ|μεῦ πυρὶ|Walter Taylor|1821|P.Ant. III 207 (Pa)|apud Briggs; μ]ευ
