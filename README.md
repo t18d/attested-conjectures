@@ -2192,6 +2192,10 @@ Tac. hist. 2.26.2|periculosis|perculsis|Muretus|1607|IaY01Y02|apud Gruter
 Tac. hist. 2.32.1|qua|quia|Georg Andresen|1914|Ia|
 Tac. hist. 2.40|am(m)issuro|omissuro|Micyllus|1557|BHol|
 Tac. hist. 2.45.2|legatione capud|legatio ne<sup>c</sup> apud|Curzio Picchena|1604|Harl. 2764 (H)|
+Tac. hist. 2.47.2|-ic|illinc|Beatus Rhenanus|1533|Bodl. 34472 (B72)|
+Tac. hist. 2.50.2|luco|loco|Christoph Coler|1603|N23<sup>2</sup>|
+Tac. hist. 2.56.1|dominos|domos|W. G. Pluygers|1860|Guelf. Gud. 118 (G)|
+Tac. hist. 2.63.2|e|ne|Schraut|1840|B2Hol|
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
 Theoc. 2.35–36a schol.|-δρομος|πρόδομος|Samuel Butler|1816|Bodl. Can. gr. 86 (Gaisford)|
 Theoc. 2.82|μοι περὶ|μεῦ πυρὶ|Walter Taylor|1821|P.Ant. III 207 (Pa)|apud Briggs; μ]ευ
