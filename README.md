@@ -100,7 +100,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (78), Valckenaer (72), Bentley (69), Porson (62), Reiske (52), Brunck (48), Cobet (47), Elmsley (44), Nicolaus Heinsius (44) and Hermann (43).</p>
+<p>The top 10 critics are Markland (78), Valckenaer (72), Bentley (69), Porson (62), Reiske (52), Brunck (48), Cobet (47), Nicolaus Heinsius (45), Elmsley (44) and Hermann (43).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2233,20 +2233,20 @@ Tac. hist. 4.24.1|lectos|l. e|Muretus|1607|Ib*U*N21|apud Gruter
 Tac. hist. 4.26.1|-ebant|efferabant|Filippo Beroaldo|1515|V58<sup>1</sup>|s.l.
 Tac. hist. 4.26.3|loco|l. cui|H. Ritter|1848|H2Y03L|
 Tac. hist. 4.29.2|arcus|artus|H. Ritter|1848|Yal. III (Y03)|
-Tac. hist. 4.32.3|-dit|rediit|Beatus Rhenanus|1533|Yal. II (Y02)|
+Tac. hist. 4.32.3|redd-|rediit|Beatus Rhenanus|1533|Yal. II (Y02)|
 Tac. hist. 4.37.3|-ari|incruentati|Friedrich Jacob|1842|Ia|
 Tac. hist. 4.37.3|-ari quia|incruenta uia|F. Oelschlaeger|1844|U2mg|
 Tac. hist. 4.42.1|s. ex senatus consulto|s. ex se|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 4.42.4|sign-|saginatus|Gabriele Faerno|1595|IbU|
 Tac. hist. 4.51.1|quadraginta|q. milia|H. Ritter|1848|IabU|
-Tac. hist. 4.53.2|pluere|perluere|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
+Tac. hist. 4.53.2|plueret|perluere|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 4.58.3|-icit|suffecit|Lipsius|1547–1607|Leid. BPL 16 Β (L)|
 Tac. hist. 4.60.2|at qui|atque|Curzio Picchena|1604|ZY02|
 Tac. hist. 4.63.1|-enti|ingenii|Lipsius|1547–1607|L2|
 Tac. hist. 4.63.1|h. custodiae erant|honorata custodia habuerant|E. Wurm|1853|Yal. II (Y02)|
 Tac. hist. 4.68.5|tulio|Iulio|H. Ritter|1848|BHolU|
 Tac. hist. 4.77.1|-a|improuisi|Beatus Rhenanus|1533|LO48|
-Tac. hist. 4.81.1|caelisest|caelestis|Beatus Rhenanus|1533|Yal. II (Y02)|
+Tac. hist. 4.81.1|caelis est|caelestis|Beatus Rhenanus|1533|Yal. II (Y02)|
 Tac. hist. 4.85.2|-e|ostentaret|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 5.4.4|uiam suam et cursus|ui sua et cursu|Beatus Rhenanus|1533|Vat. lat. 1958 (V58)|
 Tac. hist. 5.5.1|gere-|congerebant|Franciscus Puteolanus|1476|Vat. lat. 1958 (V58)|
@@ -2256,6 +2256,9 @@ Tac. hist. 5.7.2|ui-|nitro|Beatus Rhenanus|1533|Paris. Reg. 6118 (P)|
 Tac. hist. 5.10.1|inter|intra|Beatus Rhenanus|1533|U2mgL|
 Tac. hist. 5.17.2|preuise|prouisa|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 5.17.2|preuise/prouisa|prouidisse|Friedrich Jacob|1842|Ia|p. 29
+Tac. hist. 5.21.3|sed/set|et|Nicolaus Heinsius|1752|Yal. II (Y02)|apud Ernesti
+Tac. hist. 5.22.3|impia|Lupia|Beatus Rhenanus|1533|H2Y03|
+Tac. hist. 5.26.1|Nabaliae|naualis|J. G. Ottema|1845|Y03<sup>2</sup>|
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
 Theoc. 2.35–36a schol.|-δρομος|πρόδομος|Samuel Butler|1816|Bodl. Can. gr. 86 (Gaisford)|
 Theoc. 2.82|μοι περὶ|μεῦ πυρὶ|Walter Taylor|1821|P.Ant. III 207 (Pa)|apud Briggs; μ]ευ
