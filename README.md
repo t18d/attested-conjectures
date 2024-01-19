@@ -2183,6 +2183,15 @@ Tac. hist. 1.71.2|inf-|felix|Valens Acidalius|1606|Ib|
 Tac. hist. 1.74.1|-antur|offerebant|Beatus Rhenanus|1533|Harl. 2764 (H)|
 Tac. hist. 1.75.1|ign-|gnaris|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 1.85.1|et|ea|Muretus|1607|UY03|apud Gruter
+Tac. hist. 1.85.3|-ndi|dicenti|Lipsius|1547–1607|GL|
+Tac. hist. 1.90.1|-i|sterile|Lipsius|1547–1607|L2|
+Tac. hist. 2.1.2|decoris|decor oris|Beatus Rhenanus|1533|Z2|
+Tac. hist. 2.23.4|quocum|ducum|J. Freinsheim|1638|G2|
+Tac. hist. 2.24.3|et|ex|N. Bach|1835|Yal. II (Y02)|
+Tac. hist. 2.26.2|periculosis|perculsis|Muretus|1607|IaY01Y02|apud Gruter
+Tac. hist. 2.32.1|qua|quia|Georg Andresen|1914|Ia|
+Tac. hist. 2.40|am(m)issuro|omissuro|Micyllus|1557|BHol|
+Tac. hist. 2.45.2|legatione capud|legatio ne<sup>c</sup> apud|Curzio Picchena|1604|Harl. 2764 (H)|
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
 Theoc. 2.35–36a schol.|-δρομος|πρόδομος|Samuel Butler|1816|Bodl. Can. gr. 86 (Gaisford)|
 Theoc. 2.82|μοι περὶ|μεῦ πυρὶ|Walter Taylor|1821|P.Ant. III 207 (Pa)|apud Briggs; μ]ευ
