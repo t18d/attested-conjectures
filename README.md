@@ -614,7 +614,7 @@ Eup. fr. 99.42|τ. π.|πέττειν τινὰ|Casaubon|1621|P.Cair. 43227|πέ
 Eur. Alc. 493|γε|τι|Nauck|n.d.|Escor. gr. X.1.13 (gE)|
 Eur. Alc. 909|-ὰς|πολιᾶς|Lenting|n.d.|Laur. 31.10 (O)|
 Eur. Alc. 1037|ἀτιμάζων|ἀτίζων|Scaliger|n.d.|Harl. 5743 (Q)|
-Eur. Alc. 1092|ὅπουπερ ἔστι|ὅτου πάρεστι|Andreas Weidner|1883|Harl. 5743 (Q)|ὅπου πάρεστι Q; https://hdl.handle.net/2027/coo.31924026460356
+Eur. Alc. 1092|ὅπουπερ ἔστι|ὅτου πάρεστι|Andreas Weidner|1883|Harl. 5743 (Q)|ὅπου πάρεστι Q
 Eur. Alc. 1112|-μοις|δόμους|Monk|n.d.|Marc. gr. IX 10|
 Eur. Andr. 7|habent|del.|Valckenaer|n.d.|P.Oxy. III 449|
 Eur. Andr. 404|δῆτ᾽ ἐμοὶ|δῆτά μοι|Radermacher|n.d.|lΣy et Σy|
