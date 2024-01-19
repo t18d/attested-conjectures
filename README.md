@@ -118,7 +118,7 @@ Ach.Tat. LC 3.22.3|ἔ. π.|ἔφη τοὺς πρωτομύστας|Jérôme Co
 Ach.Tat. LC 3.22.6|ἡμῶν ἐκποδὼν|ἡ]μῖν ἐμποδὼν|Friedrich Jacobs|1821|P.Duk. inv. 772 + P.Köln inv. 901|
 Ach.Tat. LC 3.23.1|τὴν ψυχὴν|τῆς ψυχῆς|Cobet|1858|P.Duk. inv. 772 + P.Köln inv. 901|
 Ach.Tat. LC 3.24.2|πέντε|αἱ πέντε|Cobet|1858|P.Duk. inv. 772 + P.Köln inv. 901|
-Ael. NA 12.10|-ία|μυωνιά|Theodor Kock|1880–8|Laur. 86.7(L)|
+Ael. NA 12.10|-ία|μυωνιά|Theodor Kock|1880–8|Laur. 86.7 (L)|
 Aesch. Ag. 231|-άν|εὐχᾶν|Maas|1951|Mac|CQ 1 (1951) 94
 Aesch. PV 157|ἐπεγήθει/ἐπιγήθει|ἐγεγήθει|Valckenaer|s.xviii med.|Ambros. gr. G 56 (D) et Matrit. gr. 4677 (N)|
 Aesch. Pr. 691–3|δείματ'|del.|Hermann|1852|Ambros. gr. G 56 (D)|
