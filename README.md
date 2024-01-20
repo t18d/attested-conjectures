@@ -598,9 +598,9 @@ Dem. Ep. 3.22|ἠδικεῖσθε/ἀδικεῖσθαι|ἀδικοῖσθε|H
 Dem. Ep. 3.25|οὐδεὶς ἂν|οὐδεὶς|Hermann Sauppe|1839|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.27|τὴν|τιν'|Blass|1885–9|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.28|δὲ|δ'ἐν|Reiske|1771|P.Lond.Lit. 130 (inv. 133)|
-Dem. Ep. 3.30|πατρώιος|πατρίους|Hieronymus Wolf|1604|P.Lond.Lit. 130 (inv. 133)|
-Dem. Ep. 3.30|γενήσεσθαι|γενέσθαι|Karl Fuhr|1914|P.Lond.Lit. 130 (inv. 133)|
+Dem. Ep. 3.30|πατρῴους|πατρίους|Hieronymus Wolf|1604|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.31|Εὔδικον/Εὔδημον|Εὐθύδικον|Blass|1885–9|P.Lond.Lit. 130 (inv. 133)|
+Dem. Ep. 3.32|γενήσεσθαι|γενέσθαι|Karl Fuhr|1914|P.Lond.Lit. 130 (inv. 133)|
 Dem. Ep. 3.38|om.|ἐὰν|Bekker|1823|P.Lond.Lit. 130 (inv. 133)|
 Dem. Prooem. 26.1|κοιῶς|κοινῶν|Hieronymus Wolf|1604|P.Oxy. I 26|
 Din. 1.109|ἐλεήϲετε|ε̣λ̣ε̣ηϲαιτε|P. P. Dobree|s.xviii/xix|P.Oxy. XLIX 3436|
