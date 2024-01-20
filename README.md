@@ -15,6 +15,7 @@
     <h3>Sources</h3>
     <ul>
         <li>P.Oxy. I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XV, XVII, XIX, XX, XXII, XXIV, XXVI, XXVII, XXXI, XXXII, XXXVIII, XLI, XLII, XLIV, XLV, XLVII, XLIX, L, LIII, LIV, LVI, LVII, LIX, LX, LXI, LXII, LXIII, LXIV, LXVI, LXVII, LXVIII, LXXV, LXXVI, LXXVIII, LXXIX, LXXXI, LXXXIV (XLVIII, LXV, LXXXV, LXXXVII unavailable)</li>
+        <li>P.Ryl. I, III</li>
         <li>Aeschines, <em>Orationes</em>, ed. Mervin R. Dilts (Stuttgart, 1997).</li>
         <li>Aristophanes, <em>Fabulae</em>, ed. N. G. Wilson, 2 vols (Oxford, 2007).</li>
         <li>Apollonius Rhodius, <em>Argonautica</em>, ed. Hermann Fränkel (Oxford, 1961).</li>
@@ -82,6 +83,7 @@
         <li>Snell, Bruno, and Richard Kannicht (eds), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, i: <em>Didascaliae tragicae, catalogi tragicorum et tragoediarum, testimonia et fragmenta tragicorum minorum</em> (Göttingen, 1986).</li>
         <li>Sommerstein, Alan H., 'The history of the text of Aristophanes', in <em>Brill's Companion to the Study of Greek Comedy</em> (Brill, 2010), 399–422 at 412n69.</li>
         <li>Sophocles, <em>Fabulae</em>, ed. H. Lloyd-Jones and N. G. Wilson (Oxford, 1990).</li>
+        <li>Tacitus, Cornelius, <em>Historiarum libri</em>, ed. Kenneth Wellesley (Leipzig, 1989).</li>
         <li>Tacitus, P. Cornelius, <em>Agricola</em>, ed. Josef Delz and J. von Ungern-Sternberg (Berlin, 2010).</li>
         <li>Theodoridis, Christos (ed.), <em>Die Fragmente des Grammatikers Philoxenos</em> (Berlin, 1976).</li>
         <li>Thucydides, <em>Historiae</em>, ed. Ioannes Baptista Alberti, 3 vols (Rome, 1972–2000).</li>
