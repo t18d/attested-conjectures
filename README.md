@@ -104,7 +104,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (78), Valckenaer (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48), Nicolaus Heinsius (45), Elmsley (44) and Hermann (43).</p>
+<p>The top 10 critics are Markland (79), Valckenaer (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48), Nicolaus Heinsius (45), Elmsley (44) and Hermann (43).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2517,8 +2517,15 @@ Thuc. 8.79.1|ἵνα δὲ|ἵνα δὴ|Gottfried Boehme|1856|S5|
 Thuc. 8.86.5|-ρῶν|λοιδοριῶν|Madvig|1871|Pi2|Adv. p. 334
 Thuc. 8.86.9|πεμπτοὺς/πέμπουσι|del.|Bekker|1832|recc.|
 Thuc. 8.95.6|οἱ|οἳ|Henri Estienne|1564|Pi2|
-Tib. 1.1.51|pereat potiusque|potius pereatque|Livineius|n.d.|Berol. Diez R. Sant. 21 (E)|
+Tib. 1.1.51|pereat potiusque|potius pereatque|Johannes Livineius|1621|Berol. Diez R. Sant. 21 (E)|
 Tib. 1.1.67|tu|tum|Haupt|1861|Ambros. G 10 sup.|
+Tib. 1.2.19|decedere|descendere|Janus Dousa|1592|Leid. Voss. 0.81|
+Tib. 1.2.73|si|sim|Scaliger|1577–1607|'vetus liber' (Ach. Statius)|
+Tib. 1.2.84|di-|deripuisse|Turnebus|n.d.|codd. (teste Dousa)|
+Tib. 1.3.17|dant|aut|Scaliger|1577–1607|codd. (teste Ach. Statio)|
+Tib. 1.3.51|pater|precor|Markland|1577–1607|Berol. Diez Β. Sant. 39b (D)|
+Tib. 1.3.54|inscriptis|his scriptus|Janus Dousa|1592|codd. (Fruytier/Livineius)|
+Tib. 1.3.69|impe-|implexa|Lucas Fruytier|1584|'Regius cum Corvino' (Heyne)|
 Verg. Aen. 1.646|-i|caro|Emil Baehrens|1887|P.Ryl. III 478|τιμίῳ
 Verg. Aen. 4.423|-as|noris|Emil Baehrens|1887|P.Colt Nessana 2.1|Jahrb. kl. Phil. 135 (1887) 817
 Verg. Aen. 4.471|-us|agitatur|W. Klouček|1886|Paris. lat. 7906 (p)|
