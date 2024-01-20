@@ -478,6 +478,7 @@ Cic. div. 2.72|silentium|si silentium|Denys Lambin|1565–6|Erlang. 618|
 Cic. div. 2.109|esse (alterum)|del.|Marsus|1509|codd. Cantabr. et Reg. (Davies)|
 Cic. div. 2.111|primi(s) versus|primis versuum|Jean d'Aurat|s.xvi med.|codd. dett. (Moser)|
 Cic. div. 2.145|-unt|viderint|Franz Skutsch|1912|Marc. lat. 257 (F)|Glotta p. 367; Schwanengesang
+Cic. div. in Caec. 46|-em … -em|more … religione|Gronovius|n.d.|P.Ryl. III 477|m1
 Cic. dom. 39|infirma sunt|infirmas|Madvig|1873|P1|
 Cic. orat. 12|-a|instructus|P. Reis|1932|Budap. bibl. nat. lat. 148 (Bud.)|
 Cic. orat. 16|-is|oratori|J. A. Ernesti|1774–7|N2|
@@ -982,6 +983,7 @@ Eur. fr. 912.2|φέρων|φέρω|Grotius|1626|P.Oxy. IX 1176|φερ[.]
 Eur. fr. 1063.2|: ἄνδρ᾽ ἢ κτλ.|ἄνδρα χρὴ|Conrad Gesner|1543|Chor. 32.52|
 Eust. Il. 353.33|-ὸς|αἰσχρῶς|Guarinus Camers|s.xv/xvi|Laur. 59.2 et 3 (L)|
 Eust. Il. 1291.44|οὔ τοι|οὗτοι|Guarinus Camers|s.xv/xvi|Laur. 59.2 et 3 (L)|
+Harp. Κ 26|om.|καὶ|Hermann Sauppe|1850|P.Ryl. III 532|
 Hdn. Fig. Walz p. 601.10|Τυδεὺς|ὁ Τυδεὺς|Brunck|1786|Hav|
 Hdt. 1.76.3|ἐπειρῶντο|-ρέοντο|Dindorf|n.d.|P.Oxy. I 19|
 Hdt. 1.90.3|ἐπαρ-|ἐπαερθεὶς|Heinrich Stein|1869|Vat. gr. 2369 (D)|
