@@ -1050,7 +1050,7 @@ Hsch. κ 4905|καμίκην|Καμικοῖς|Johann Alberti|1766|Cyrill.|
 Isoc. Paneg. 68|γε|ελαττω γε|Cobet|1783|P.Oxy. V 844|
 Isoc. ad Nic. 2|διοικοῖς|διοικῇς|Blass|1891|Pap. Massiliensis = CPF I.2 17|
 Isoc. ad Nic. 8|ταῖς μοναρχίαις|τὰς μοναρχίας|Cobet|1783|Pap. Massiliensis = CPF I.2 17|
-Isoc. de Pace 81|-οντα|λυπήσαντα|Cobet|1783||
+Isoc. de Pace 81|-οντα|λυπήσαντα|Cobet|1783|P.Lond.Lit 132|
 Iuv. 1.67|-o|falsi|Markland|1717–28|PRV|
 Iuv. 1.70|-am|rubeta|G. H. Plathner|1637|PRV|
 Iuv. 1.108|-as|conductus|Scholte|1873|U1|
