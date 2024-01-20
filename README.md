@@ -104,7 +104,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (79), Valckenaer (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48), Nicolaus Heinsius (45), Elmsley (44) and Hermann (43).</p>
+<p>The top 10 critics are Markland (79), Valckenaer (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48), Nicolaus Heinsius (46), Elmsley (44) and Hermann (43).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2526,6 +2526,8 @@ Tib. 1.3.17|dant|aut|Scaliger|1577–1607|codd. (teste Ach. Statio)|
 Tib. 1.3.51|pater|precor|Markland|1577–1607|Berol. Diez Β. Sant. 39b (D)|
 Tib. 1.3.54|inscriptis|his scriptus|Janus Dousa|1592|codd. (Fruytier/Livineius)|
 Tib. 1.3.69|impe-|implexa|Lucas Fruytier|1584|'Regius cum Corvino' (Heyne)|
+Tib. 1.3.72|stridet|-it|Achilles Statius|1567|H2|
+Tib. 1.4.15|-bit|negarit|Nicolaus Heinsius|n.d.|Berol. Diez R. Sant. 21 (E)|
 Verg. Aen. 1.646|-i|caro|Emil Baehrens|1887|P.Ryl. III 478|τιμίῳ
 Verg. Aen. 4.423|-as|noris|Emil Baehrens|1887|P.Colt Nessana 2.1|Jahrb. kl. Phil. 135 (1887) 817
 Verg. Aen. 4.471|-us|agitatur|W. Klouček|1886|Paris. lat. 7906 (p)|
