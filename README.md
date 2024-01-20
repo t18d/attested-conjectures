@@ -480,7 +480,7 @@ Cic. div. 1.21|ac/at|et|Hottinger|1793|Palat. lat. 1519 (P)|
 Cic. div. 1.130|ut enim|etenim|P. Manutius|1541|codd. Cantabr. et Reg. (Davies)|
 Cic. div. 2.72|silentium|si silentium|Denys Lambin|1565–6|Erlang. 618|
 Cic. div. 2.109|esse (alterum)|del.|Marsus|1509|codd. Cantabr. et Reg. (Davies)|
-Cic. div. 2.111|primi(s) versus|primis versuum|Jean d'Aurat|s.xvi med.|codd. dett. (Moser)|
+Cic. div. 2.111|primi(s) versus|primis versuum|Jean Dorat|s.xvi med.|codd. dett. (Moser)|
 Cic. div. 2.145|-unt|viderint|Franz Skutsch|1912|Marc. lat. 257 (F)|Glotta p. 367; Schwanengesang
 Cic. div. in Caec. 46|-em … -em|more … religione|Gronovius|n.d.|P.Ryl. III 477|m1
 Cic. dom. 39|infirma sunt|infirmas|Madvig|1873|P1|
@@ -2056,7 +2056,7 @@ Soph. OT 1477|ἣ σ' εἶχεν κτλ.|ἥ σ' ἔχει|Wunder|1831|Laur. 32
 Soph. Phil. 30|κυρῇ|κυρεῖ|G. H. Schaefer|n.d.|Gac|
 Soph. Phil. 81|κτῆμα|χρῆμα|Tournier|n.d.|Laur. 31.10 (K)|
 Soph. Phil. 256|που|πω|Markland|s.xviii med.|Marc. gr. 468 (V)|
-Soph. Phil. 266|τῆσδ ̓|τῆς|Auratus|n.d.|Zopc|
+Soph. Phil. 266|τῆσδ ̓|τῆς|Jean Dorat|n.d.|Zopc|
 Soph. Phil. 272|-ῳ|πέτρᾳ|Frederick H. M. Blaydes|n.d.|Paris. suppl. gr. 109 (Q)|
 Soph. Phil. 306|ἀνθρώπων|-ῷ|Frederick H. M. Blaydes|n.d.|Paris. gr. 2712 (A)|
 Soph. Phil. 361|πρὸς φίλους|προσφιλῶς|F. H. Bothe|n.d.|Vat. gr. 2291 (R)|
@@ -2519,7 +2519,7 @@ Thuc. 8.86.9|πεμπτοὺς/πέμπουσι|del.|Bekker|1832|recc.|
 Thuc. 8.95.6|οἱ|οἳ|Henri Estienne|1564|Pi2|
 Tib. 1.1.51|pereat potiusque|potius pereatque|Johannes Livineius|1621|Berol. Diez R. Sant. 21 (E)|
 Tib. 1.1.67|tu|tum|Haupt|1861|Ambros. G 10 sup.|
-Tib. 1.2.19|decedere|descendere|Janus Dousa|1592|Leid. Voss. 0.81|
+Tib. 1.2.19|decedere|descendere|Janus Dousa|1592|Leid. Voss. lat. 0.81|
 Tib. 1.2.73|si|sim|Scaliger|1577–1607|'vetus liber' (Ach. Statius)|
 Tib. 1.2.84|di-|deripuisse|Turnebus|n.d.|codd. (teste Dousa)|
 Tib. 1.3.17|dant|aut|Scaliger|1577–1607|codd. (teste Ach. Statio)|
@@ -2529,7 +2529,8 @@ Tib. 1.3.69|impe-|implexa|Lucas Fruytier|1584|'Regius cum Corvino' (Heyne)|
 Tib. 1.3.72|stridet|-it|Achilles Statius|1567|H2|
 Tib. 1.4.15|-bit|negarit|Nicolaus Heinsius|1708|Berol. Diez R. Sant. 21 (E)|apud Broukhusium
 Tib. 1.4.44|imbrifer/nubifer|nimbifer|Nicolaus Heinsius|1708|G2|apud Broukhusium
-Tib. 1.5.30|adiuvet|ac iuvet|O. F. Gruppe|1838|Leid. Voss. 0.59|
+Tib. 1.5.30|adiuvet|ac iuvet|O. F. Gruppe|1838|Leid. Voss. lat. 0.59|
+Tib. 1.6.53|-it|attigeris|Jean Dorat|n.d.|Leid. Voss. lat. 0.13|
 Verg. Aen. 1.646|-i|caro|Emil Baehrens|1887|P.Ryl. III 478|τιμίῳ
 Verg. Aen. 4.423|-as|noris|Emil Baehrens|1887|P.Colt Nessana 2.1|Jahrb. kl. Phil. 135 (1887) 817
 Verg. Aen. 4.471|-us|agitatur|W. Klouček|1886|Paris. lat. 7906 (p)|
