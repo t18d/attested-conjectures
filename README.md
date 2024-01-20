@@ -104,7 +104,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (79), Valckenaer (72), Bentley (69), Porson (62), Reiske (52), Nicolaus Heinsius (49), Cobet (48), Brunck (48), Elmsley (44) and Hermann (43).</p>
+<p>The top 10 critics are Markland (79), Valckenaer (72), Bentley (69), Porson (62), Reiske (52), Nicolaus Heinsius (52), Cobet (48), Brunck (48), Elmsley (44) and Hermann (43).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2543,6 +2543,12 @@ Tib. 1.8.30|foveat|-as|Nicolaus Heinsius|1708|Y (teste Broukh.)|apud Broukhusium
 Tib. 1.8.49|seu|neu|Scaliger|1577–1607|GV2|
 Tib. 1.8.52|-eo|luto|Scaliger|1577–1607|'veteres libri' (Muretus)|
 Tib. 1.10.18|-es|veteris|Lucas Fruytier|1584|unus Vaticanus|
+Tib. 1.10.31|potan-|bacchanti|Janus Gebhard|1621|cod. Lips.|
+Tib. 1.10.68|praefl-|perpluat|Nicolaus Heinsius|1708|cod. Bern.|apud Broukhusium
+Tib. 2.1.1|adest valeat|adest, faveat|Scaliger|1577–1607|'quinque Anglici' (Heyne-Wunderlich)|
+Tib. 2.1.34|ades|avis|Scaliger|1577–1607|Monac. Clm 14.486 (M)|
+Tib. 2.1.89|ful-|furvis|Nicolaus Heinsius|1708|GH|apud Broukhusium
+Tib. 2.2.10|-it|annuet|Nicolaus Heinsius|1708|exc. Lipsii (teste Broukh.)|apud Broukhusium
 Verg. Aen. 1.646|-i|caro|Emil Baehrens|1887|P.Ryl. III 478|τιμίῳ
 Verg. Aen. 4.423|-as|noris|Emil Baehrens|1887|P.Colt Nessana 2.1|Jahrb. kl. Phil. 135 (1887) 817
 Verg. Aen. 4.471|-us|agitatur|W. Klouček|1886|Paris. lat. 7906 (p)|
