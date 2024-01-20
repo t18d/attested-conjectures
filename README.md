@@ -102,7 +102,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (78), Valckenaer (72), Bentley (69), Porson (62), Reiske (52), Brunck (48), Cobet (47), Nicolaus Heinsius (45), Elmsley (44) and Hermann (43).</p>
+<p>The top 10 critics are Markland (78), Valckenaer (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48), Nicolaus Heinsius (45), Elmsley (44) and Hermann (43).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1047,9 +1047,10 @@ Hor. carm. 3.27.38|-um|uirginis|Markland|1723|Montepess. H 425 (μ)|var.
 Hsch. α 2737|παλαιός|μάταιος|F. W. Schmidt|1886|Cyrill. ph|Krit. St. 1,112
 Hsch. α 2737|ἀλαιός|ἀλεός|Gottfried Sopingius|s.xvi/xvii|Cyrill. ph|apud Schrevelius/Alberti
 Hsch. κ 4905|καμίκην|Καμικοῖς|Johann Alberti|1766|Cyrill.|
-Isoc. Ad Nic. 2|διοικοῖς|διοικῇς|Blass|1891|Pap. Massiliensis = CPF I.2 17|
-Isoc. Ad Nic. 8|ταῖς μοναρχίαις|τὰς μοναρχίας|Cobet|1783|Pap. Massiliensis = CPF I.2 17|
 Isoc. Paneg. 68|γε|ελαττω γε|Cobet|1783|P.Oxy. V 844|
+Isoc. ad Nic. 2|διοικοῖς|διοικῇς|Blass|1891|Pap. Massiliensis = CPF I.2 17|
+Isoc. ad Nic. 8|ταῖς μοναρχίαις|τὰς μοναρχίας|Cobet|1783|Pap. Massiliensis = CPF I.2 17|
+Isoc. de Pace 81|-οντα|λυπήσαντα|Cobet|1783||
 Iuv. 1.67|-o|falsi|Markland|1717–28|PRV|
 Iuv. 1.70|-am|rubeta|G. H. Plathner|1637|PRV|
 Iuv. 1.108|-as|conductus|Scholte|1873|U1|
