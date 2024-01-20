@@ -2231,7 +2231,7 @@ Tac. hist. 4.10|adulationi|ad ultionem|Gabriele Faerno|1595|Leid. BPL 16 Β (L)|
 Tac. hist. 4.22.2|iugisque|lucisque|Lipsius|1547–1607|Ib*U*|
 Tac. hist. 4.22.3|a. Romanorum|armatorum|M. Vertranius Maurus|1569|Y01Y02|
 Tac. hist. 4.24.1|lectos|l. e|Muretus|1607|Ib*U*N21|apud Gruter
-Tac. hist. 4.26.1|-ebant|efferabant|Filippo Beroaldo|1515|V58<sup>1</sup>|s.l.
+Tac. hist. 4.26.1|-ebant|efferabant|Philippus Beroaldus|1515|V58<sup>1</sup>|s.l.
 Tac. hist. 4.26.3|loco|l. cui|H. Ritter|1848|H2Y03L|
 Tac. hist. 4.29.2|arcus|artus|H. Ritter|1848|Yal. III (Y03)|
 Tac. hist. 4.32.3|redd-|rediit|Beatus Rhenanus|1533|Yal. II (Y02)|
