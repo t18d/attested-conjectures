@@ -10,6 +10,7 @@
     <summary>Bibliography</summary>
     <h3>Theory</h3>
     <ul>
+        <li>Hine, Harry M., <a href="../../wiki/On-'Confirmed-Conjectures'-(Hine)">comment on 'confirmed conjectures'</a>, project Wiki (22 Jan. 2024).</li>
         <li>James, Patrick, review of <em>The Oxyrhynchus Papyri. Volume LXXXI</em>, in <em>The Classical Review</em>, 68/2 (2018), 395–8 at 396.</li>
     </ul>
     <h3>Sources</h3>
