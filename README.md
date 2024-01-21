@@ -104,7 +104,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (79), Valckenaer (72), Bentley (69), Porson (62), Nicolaus Heinsius (57), Reiske (52), Cobet (48), Brunck (48), Elmsley (44) and Hermann (43).</p>
+<p>The top 10 critics are Markland (79), Valckenaer (72), Bentley (69), Porson (62), Nicolaus Heinsius (58), Reiske (52), Cobet (48), Brunck (48), Elmsley (44) and Hermann (43).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2574,7 +2574,13 @@ Tib. 3.5.10|certa|taetra|Scaliger|1577–1607|G2 et unus Statii|
 Tib. 3.6.6|et|i|Scaliger|1577–1607|Vindob. lat. 224 (W)|
 Tib. 3.6.17|vo-|valet|Lucas Fruytier|1584|Berol. Diez R. Sant. 21 (E)|
 Tib. 3.6.21|non v.|nam venit|Johannes Livineius|1621|unus Statii|
-Tib. 3.6.21|non venit|convenit|Lachmann|n.d.|Monac. Clm 14.486 (M)|
+Tib. 3.6.21|non venit|convenit|Lachmann|1829|Monac. Clm 14.486 (M)|
+Tib. 3.6.21|-us|severis|Johannes Livineius|1621|cod. Bern.|
+Tib. 3.6.21|-us|severis|Janus Guilielmius|n.d.|cod. Bern.|
+Tib. 3.6.23|-umque|quantasque|Nicolaus Heinsius|1708|ed. pr. et exc. Puccii|apud Broukhusium
+Tib. 3.6.47|-vit|iurarit|Lucas Fruytier|1584|Vindob. lat. 224 (W)|
+Tib. 3.6.62|et|i|Achilles Statius|1567|Fragm. Cuiac. (F)|
+Tib. 4.1.13|terris|tectis|Muretus|1558–62|Vindob. lat. 224 (W)|
 Verg. Aen. 1.646|-i|caro|Emil Baehrens|1887|P.Ryl. III 478|τιμίῳ
 Verg. Aen. 4.423|-as|noris|Emil Baehrens|1887|P.Colt Nessana 2.1|Jahrb. kl. Phil. 135 (1887) 817
 Verg. Aen. 4.471|-us|agitatur|W. Klouček|1886|Paris. lat. 7906 (p)|
