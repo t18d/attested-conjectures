@@ -1662,7 +1662,7 @@ Q.S. 3.297|φοβέοντο|φέβοντο|J. C. de Pauw|1734|Neap. gr. II E 24 
 Q.S. 3.473|δέ μοι|δ ̓ ἐμοῖσι|Lorenz Rhodomann|1604|Lpc|
 Q.S. 3.621|μοι|με|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
 Q.S. 3.783|om.|δέ|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
-Q.S. 4.297|ἀέθλων|ἄεθλον|Lorenz Rhodomann|1604|Scorial. Σ 11 6|
+Q.S. 4.297|ἀέθλων|ἄεθλον|Lorenz Rhodomann|1604|Scorial. Σ II 6|
 Q.S. 4.400|om.|τὸ|C. L. Struve|1854|Lsl|
 Q.S. 4.429|μ. θ ̓ ὑπ ̓ εἴ. ἑρ.|μ. ἑρσήεντος θ ̓ ὑπ ̓ εἴαρος|Constantine Lascaris|1464–5|UQ|
 Q.S. 4.465|ἐφάλματος|ἐφ ̓ ἅλματι|Lorenz Rhodomann|1604|Rpc|
@@ -1681,6 +1681,11 @@ Q.S. 7.224|-νοιο|ξείνοισι(ν)|T. C. Tychsen|1807|Vindob. phil. gr. 5
 Q.S. 7.227|om.|alterum καὶ|Lorenz Rhodomann|1604|Lsl|
 Q.S. 7.242|-τον|ἐπήρατος|T. C. Tychsen|1807|Lsl|
 Q.S. 7.262|σοι|σοὶ|Hermann Köchly|1850|Neap. gr. II F 11 (N)|
+Q.S. 7.509|-σι|ἀμύνουσιν|Constantine Lascaris|1496|BLpcRsl|
+Q.S. 7.521|ὑπο-|ὕπο|T. C. Tychsen|1807|Scorial. Σ II 8 (E)|
+Q.S. 7.534|μενεπτ-|Νεοπτόλεμον|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
+Q.S. 7.548|οἳ|οἱ|Constantine Lascaris|1496|Brux. gr. 11.400 (B)|
+Q.S. 7.550|om.|post τρομέουσι dist.|Albert Zimmermann|1891|Neap. gr. II F 10 (P)|
 Sall. hist. fr. 1.107 M|acc[]as|accitas|Gerlach|1856|Vindob. L 117 (Funari)|
 Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Bergk|1835|FP|κωϋ κεθέλουσα F: κ’ ώυ κ’ ἐθέλοις P
 Sapph. fr. 44A.5|ἀεί|ἄϊ|H. L. Ahrens|1839–43|P.Sapph.Obbink|
