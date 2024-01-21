@@ -104,7 +104,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (79), Valckenaer (72), Bentley (69), Porson (62), Nicolaus Heinsius (60), Reiske (52), Cobet (48), Brunck (48), Scaliger (44) and Elmsley (44).</p>
+<p>The top 10 critics are Markland (79), Valckenaer (72), Bentley (69), Nicolaus Heinsius (63), Porson (62), Reiske (52), Cobet (48), Brunck (48), Scaliger (44) and Elmsley (44).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -634,8 +634,8 @@ Eur. Ba. 20|πόλιν|χθόνα|Schenkl|n.d.|Chr. Pat.|
 Eur. Ba. 23|πόλιν|χθόνα|Johannes Pierson|n.d.|P.Berol inv. 21235|
 Eur. Ba. 233|ὅστις|ὥς τ[ις|Aldina|n.d.|P.Oxy. LIII 3718|
 Eur. Ba. 406|θ᾽ ἃν|ἔνθ᾽|Schoene|n.d.|Barberin. gr. 4 (gB)|
-Eur. Ba. 468|ἀλλ᾽ ὃς|α̣λλα|Canter|n.d.|P.Ant. I 24|
-Eur. Ba. 468|-λης|σεμελην|Canter|n.d.|P.Ant. I 24|
+Eur. Ba. 468|ἀλλ᾽ ὃς|α̣λλα|Willem Canter|1571|P.Ant. I 24|
+Eur. Ba. 468|-λης|σεμελην|Willem Canter|1571|P.Ant. I 24|
 Eur. Ba. 1083|ἐστήριζε|-ιξε|Aldina|n.d.|Chr. Pat. 2259|
 Eur. Ba. 1083|σεμνοῦ|-ον|Frederick H. M. Blaydes|n.d.|P.Oxy. XIX 2223|
 Eur. Ba. 1096|κραταβ-|κραταιβόλους|Benjamin Heath|n.d.|Chr. Pat. 667|
@@ -661,7 +661,7 @@ Eur. HF 62|θεῶν|θείων|Adolf Kirchhoff|n.d.|ps.-Iustin. expos. fid. 8|
 Eur. HF 168|ἐμοὺς|]εμοι|Camper|n.d.|P.Hib. II 179|
 Eur. Hec. 8|χερρο-|Χερσονησίαν|Brunck|n.d.|St.Byz.|
 Eur. Hec. 210|ἁ τ-|τάλαινα|J. F. A. Seidler|n.d.|Vat. gr. 53 (Vb)|
-Eur. Hec. 355|μέτα|μέγα|Canter|n.d.|Rw i.m.|
+Eur. Hec. 355|μέτα|μέγα|Willem Canter|1571|Rw i.m.|
 Eur. Hec. 426|τ᾽ ἐμοί|τέ μοι|A. Matthiae|1813|Vat. gr. 1345 (Sa)|
 Eur. Hec. 580|λέγον|λέγων|Johannes Pierson|pre-1752|MB et V2 et iΣm|
 Eur. Hec. 605|μου|μοι|G. H. Schaefer|n.d.|Dresd. Da.22 (Dr)|
@@ -678,7 +678,7 @@ Eur. Hec. 1070|τᾶνδε|τάνδε|J. F. A. Seidler|n.d.|OGZc|
 Eur. Hec. 1108|ζοῆς/ζωῆς|ζόης|Markland|n.d.|Va i.m.|ap. Burges, CJ 25 (1822) 340
 Eur. Hec. 1167|-υον|ἤνυτον|L. Dindorf|n.d.|Huv|
 Eur. Hec. 1176|τε|τὸν|Nauck|n.d.|Laur. 32.3 (L)|
-Eur. Hec. 1215|-νῶι|καπνὸς|Canter|n.d.|Kγρ|
+Eur. Hec. 1215|-νῶι|καπνὸς|Willem Canter|1571|Kγρ|
 Eur. Hel. 135|οὔ πω vel ἦ που|οὔ που|P. P. Dobree|s.xviii/xix|Laur. 32.3 (L)|
 Eur. Hel. 634|χεῖρας|χέρας|Elmsley|n.d.|P.Oxy. XXII 2336|
 Eur. Heracl. 837|-ῃ|μάχη|Elmsley|n.d.|Laur. 32.3 (L)|
@@ -758,7 +758,7 @@ Eur. Or. 406|om.|γ'|Adolf Kirchhoff|n.d.|SaZcZm|
 Eur. Or. 473|σεσωσμ-|σεσωμένος|Wecklein|n.d.|Athos Dionysiou 334 (Ad)|
 Eur. Or. 545|σε|γε|Samuel Musgrave|n.d.|Z et γρPrS|
 Eur. Or. 671|ἐμῶν κακῶν|ἐγὼ κακῶν|Porson|n.d.|ZcgE|
-Eur. Or. 680 nota|Ἠλ.|Χο.|Canter|n.d.|Z et Xa|
+Eur. Or. 680 nota|Ἠλ.|Χο.|Willem Canter|1571|Z et Xa|
 Eur. Or. 694|μὲν γὰρ τὰ|γὰρ τὰ|Joshua Barnes|n.d.|KS et gE|
 Eur. Or. 695|τάδε|τόδε|King|n.d.|Vat. gr. 1135 (R)|
 Eur. Or. 698|-τι|ἐντείνοντα|Elmsley|n.d.|sRf1Rw1|
@@ -794,7 +794,7 @@ Eur. Or. 1092|λέχος|λ. γ'|Joshua Barnes|n.d.|Laur. conv. soppr. 66 (K)|
 Eur. Or. 1114|ὥσθ᾽|ὡς|Wecklein|n.d.|Escor. gr. X.1.13 (gE)|
 Eur. Or. 1148|σπάσω μέλαν|σπασώμεθα|Adolf Kirchhoff|n.d.|γρCPr|
 Eur. Or. 1156|τι|τοι|Charles Willink|1986|MnS1s|
-Eur. Or. 1165|-ώσωμεν|ἀνταναλώσω μὲν|Canter|n.d.|A et V2/3|
+Eur. Or. 1165|-ώσωμεν|ἀνταναλώσω μὲν|Willem Canter|1571|A et V2/3|
 Eur. Or. 1169|-εν|ἔσχ᾽|Joshua Barnes|n.d.|GK1c|
 Eur. Or. 1169|οὐ|del.|Porson|n.d.|Laur. 32.33 (Rf)|
 Eur. Or. 1181|νῦν|νυν|Porson|n.d.|Cantab. Nn. 3.14 (Zd)|
@@ -862,12 +862,12 @@ Eur. Ph. 420|θηρσὶ|θηρσὶν|Valckenaer|n.d.|AC|
 Eur. Ph. 436|habent|del.|Nauck|n.d.|P.Oxy. LX 4012|
 Eur. Ph. 437|με καὶ σὲ|σ]ε κὰμε̣[ |Elmsley|n.d.|P.Oxy. LX 4012|
 Eur. Ph. 483|ἐμῶν|ἐμὸν|Grotius|n.d.|Arund. 540 (Za)|
-Eur. Ph. 487|αὖθις|αὖθις αὖ|Canter|n.d.|TzZb|
+Eur. Ph. 487|αὖθις|αὖθις αὖ|Willem Canter|1571|TzZb|
 Eur. Ph. 499|ταὐτὸ|ταὐτὸν|Elmsley|n.d.|Sa et Sext. Emp. hyp. Pyrrh. 1. 86|
 Eur. Ph. 548|ἀπονεῖμαι|-νέμων|Markland|n.d.|Paris. gr. 2712 (A)|
 Eur. Ph. 563/616|ὄψει|ο]ψη|Murray|n.d.|P.Oxy. XLIV 3153|
 Eur. Ph. 572|δή/δορός|διί|Adolf Kirchhoff|n.d.|Rw s.l. et Σs|
-Eur. Ph. 578|ὑπεκδ-|ὑπερδράμηι|Canter|n.d.|P et Aa|
+Eur. Ph. 578|ὑπεκδ-|ὑπερδράμηι|Willem Canter|1571|P et Aa|
 Eur. Ph. 584|δυοῖν|δύο|Conradt|n.d.|Escor. gr. X.1.13 (gE)|
 Eur. Ph. 596|-κας|βέβηκεν|Benjamin Heath|n.d.|P.Berol. inv. 17018 + 21218|
 Eur. Ph. 600|κομπὸς κτλ.|κομψὸς|Markland|n.d.|γρΣv|
@@ -915,7 +915,7 @@ Eur. Ph. 1322|κρέον ἔ. δ.|κρέων ἔ. δ.|Brunck|n.d.|Ambros. L 39 s
 Eur. Ph. 1338|-οις|ἄλλο|Valckenaer|n.d.|B3/4Sa|
 Eur. Ph. 1344 nota|om.|Ἄγγ.|J. A. Hartung|n.d.|Cantab. Nn. 3.14 (Z)|
 Eur. Ph. 1363|-μαχοῦντ᾽|μονομάχου τ᾽|Johannes Pierson|n.d.|ΣRfγρ|
-Eur. Ph. 1369|-ῶ|αἰτῶν|Canter|n.d.|ZcZuc|
+Eur. Ph. 1369|-ῶ|αἰτῶν|Willem Canter|1571|ZcZuc|
 Eur. Ph. 1383|-θαίνοι|ἐξολισθάνοι|Porson|n.d.|RS|
 Eur. Ph. 1384|-σχόντ'|ὑπερσχὸν|Scaliger|n.d.|Marc. gr. 468 (F)|
 Eur. Ph. 1388|ἐϲτάλαϲϲ'|-λαζ'|F. H. Bothe|1825|RWZ|
@@ -967,7 +967,7 @@ Eur. T 1.IA.2–3|ἑταῖρος δὲ δοκεῖ|ἑταῖρος. δοκε�
 Eur. Tr. 578|ἰώ μοι μοὶ|οἴμοι|Burges|n.d.|Σ|
 Eur. Tr. 633|τ. δ'|τῶι μὲν|Burges|n.d.|Stob. Spc|
 Eur. Tr. 802|-νας|᾿Αθάνα|Aldina|n.d.|Σi|
-Eur. Tr. 930|ὑπεκδ-|ὑπερδράμοι|Canter|n.d.|Tzetzae cod. Lips.|
+Eur. Tr. 930|ὑπεκδ-|ὑπερδράμοι|Willem Canter|1571|Tzetzae cod. Lips.|
 Eur. Tr. 931|ἐνθένδ᾽|ἔνθεν δ᾽|Tyrrell|n.d.|Harl. 5743 (q)|
 Eur. Tr. 1076|σὺν δ'|συνδώδεκα|Joshua Barnes|n.d.|Palat. gr. 98 (Va)|
 Eur. Tr. 1234|-ίσει|φροντιεῖ|A. Matthiae|n.d.|Chr. Pat. 1383|
@@ -1993,7 +1993,7 @@ Soph. OC 1341|χρόνῳ|πόνῳ|P. P. Dobree|n.d.|a s.l.|
 Soph. OC 1345|σθένω|θέλω|Markland|s.xviii med.|r|
 Soph. OC 1492|-αν|ἄκρον|Vauvilliers|n.d.|Qγρ|
 Soph. OC 1515|στρέψαντα|στράψαντα|Reiske|1743|Laur. 31.10 (K)|
-Soph. OC 1596|κἀπὸ|κἀπὶ|Canter|n.d.|Laur. 31.10 (K)|
+Soph. OC 1596|κἀπὸ|κἀπὶ|Willem Canter|1579|Laur. 31.10 (K)|
 Soph. OC 1619|βίοτον/βίωτον|τοῦ βίου|Fröhlich|n.d.|Sud. s.v. τητᾶσθαι|
 Soph. OC 1682|φαινόμεναι|φερόμεναι|Hermann|n.d.|t|
 Soph. OC 1728|ἔγωγε|ἐγώ|Nauck|n.d.|Palat. gr. 287 (Zo)|
@@ -2585,10 +2585,15 @@ Tib. 4.1.60|-os|gelida|Scaliger|1577–1607|cod. (Broukh.)|
 Tib. 4.1.70|tergeminae|inter geminae|Canter|n.d.|F (Scaliger)|
 Tib. 4.1.115|audet|gau-|Nicolaus Heinsius|1708|Berol. Diez R. Sant. 21 (E)|apud Broukhusium
 Tib. 4.1.127|u-|nulla|Passerat|n.d.|Brix. A VII.7 (Q)|
-Tib. 4.1.144|nec|vel|Schrader|n.d.|Monac. Clm 14.486 (M)|
+Tib. 4.1.144|nec|vel|Johannes Schrader|1811|Monac. Clm 14.486 (M)|apud Voss
 Tib. 4.1.151|consistit|considit|Nicolaus Heinsius|1708|Berol. Diez R. Sant. 21 (E)|apud Broukhusium
 Tib. 4.1.175|praecla-|per claros|Scaliger|1577–1607|Leid. Voss. lat. 0.76|
 Tib. 4.1.181|non|nec|Heyne|1755–98|Vindob. lat. 224 (W)|
+Tib. 4.1.197|si|sit|Nicolaus Heinsius|1708|duo Guelferbyt. (Heyne-Wunderlich)|apud Broukhusium
+Tib. 4.1.207|rigidos|gyro|Nicolaus Heinsius|1708|Leid. Voss. lat. 0.76|apud Broukhusium
+Tib. 4.1.209|-is … -is|volucri ... penna|Nicolaus Heinsius|1708|Leid. Voss. lat. 0.76|apud Broukhusium
+Tib. 4.2.13|aeterno|aetherio|Achilles Statius|1567|unus Heinsii|
+Tib. 4.3.13|cervi|-ae|Janus Broukhusius|1708|Monac. Clm 14.486 (M)|
 Verg. Aen. 1.646|-i|caro|Emil Baehrens|1887|P.Ryl. III 478|τιμίῳ
 Verg. Aen. 4.423|-as|noris|Emil Baehrens|1887|P.Colt Nessana 2.1|Jahrb. kl. Phil. 135 (1887) 817
 Verg. Aen. 4.471|-us|agitatur|W. Klouček|1886|Paris. lat. 7906 (p)|
