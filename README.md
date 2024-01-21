@@ -375,7 +375,7 @@ Archil. fr. 4.6|ἀλλά τε|ἀλλ᾽ ἄγε|Musurus|n.d.|P.Oxy. VI 854|
 Arist. fr. 57.12 Rose|οὔτε|ουδε|Meineke|1839–57|P.Oxy. IV 666|
 Arist. fr. 842.7 Page|τ᾽ ἀθάνατον/εἰς ἀ.|ἰσαθάνατον|Wilamowitz|n.d.|BKT I 25|Did. in D. col. 6.18 seqq.
 Aristarch.Trag. fr. 3|-νημα|σωφρόνισμα|Meineke|1839–57|Macar.|
-Ath. 9.375E|νοθ-|νοτοῦντι|Jan Cornelis de Pauw|1745|Marc. 447 (A)|
+Ath. 9.375E|νοθ-|νοτοῦντι|J. C. de Pauw|1745|Marc. 447 (A)|
 Ath. 11.490E|οὐρανός τε γῆ|οὐρανοστεγῆ|Benjamin Heath|1798|Marc. 447 (A)|apud Schweighäuser
 BGU 1074|Οὐήρῳ|Σευήρῳ|Viereck|n.d.|P.Oxy. XXVII 2476|
 Bacchyl. 17.53|μ[ε κουρ]α|με νυμ[φα|H. Jurenka|1898|P.Oxy. VIII 1091|
@@ -1570,9 +1570,9 @@ Pi. N. 6.51|-βὰς|-βαὶς|Turyn|n.d.|P.Oxy. LXXV 5043|
 Pi. N. 9.42|ἡ-|ἁμέραις|Triclinius|n.d.|P.Oxy. LXXV 5043|
 Pi. N. 10.42|-ε|θάλησεν|Triclinius|n.d.|P.Oxy. LXXV 5043|
 Pi. N. 10.48|π. τε χειρῶν (τε)|ποδῶν χειρῶν τε|E. Schmid|n.d.|P.Oxy. LXXV 5043|
-Pi. N. 10.60|αἰχμᾷ|ἀκμᾷ|Cornelis de Pauw|1747|P.Oxy. LXXV 5043|
+Pi. N. 10.60|αἰχμᾷ|ἀκμᾷ|J. C. de Pauw|1747|P.Oxy. LXXV 5043|
 Pi. O. 1 schol. Inscr. a|ογ΄|οϛ΄|Bergk|1878|P.Oxy. II 222|Poet. Lyr. i. p.4
-Pi. O. 2.76|γᾶς|μέγας|Jan Cornelis de Pauw|1747|P.Oxy. XVII 2092|
+Pi. O. 2.76|γᾶς|μέγας|J. C. de Pauw|1747|P.Oxy. XVII 2092|
 Pi. O. 6.77|ὄροις|ὄρος|Zacharias Callierges|1515|P.Oxy. XIII 1614|
 Pi. P. 3.166 schol.|ἐν κῷ|ἐν Ἴκῳ|Brodaeus|n.d.|DEGQ|Epigr. Gr. 1549 p. 372
 Pi. P. 6.14|-οι/-ος|τυπτόμενον|Dawes|n.d.|P.Oxy. LXXV 5039|
@@ -1647,6 +1647,7 @@ Q.S. 1.457|πέλ-|πένονται|Hermann Köchly|1850|Vindob. phil. gr. 5 (R)
 Q.S. 1.551|φρεσὶ|χερσὶ|Lorenz Rhodomann|1604|Nr|
 Q.S. 1.592|κρατερῇ|κραταιῇ|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
 Q.S. 1.630|εἴδοντο|ἐσίδοντο|J. C. de Pauw|1734|Rsl|
+Q.S. 1.637||τετρυμένοι|Lorenz Rhodomann|1604|Neap. gr. II E 24 (L)|
 Sall. hist. fr. 1.107 M|acc[]as|accitas|Gerlach|1856|Vindob. L 117 (Funari)|
 Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Bergk|1835|FP|κωϋ κεθέλουσα F: κ’ ώυ κ’ ἐθέλοις P
 Sapph. fr. 44A.5|ἀεί|ἄϊ|H. L. Ahrens|1839–43|P.Sapph.Obbink|
