@@ -104,7 +104,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (79), Valckenaer (72), Bentley (69), Nicolaus Heinsius (65), Porson (62), Reiske (52), Cobet (48), Brunck (48), Scaliger (44) and Elmsley (44).</p>
+<p>The top 10 critics are Markland (79), Valckenaer (72), Nicolaus Heinsius (70), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48), Scaliger (44) and Elmsley (44).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2597,6 +2597,12 @@ Tib. 4.3.13|cervi|-ae|Janus Broukhusius|1708|Monac. Clm 14.486 (M)|
 Tib. 4.6.3|tota|lota|Johannes Sambucus|1565|ed. Plantin.|mg.
 Tib. 4.6.16|iam sua|clam sibi|Nicolaus Heinsius|1708|Berol. Diez R. Sant. 21 (E)|apud Broukhusium
 Tib. 4.8.8|-o … -o|arbitrii … mei|Nicolaus Heinsius|1708|unus Italicus (Broukh.)|apud Broukhusium
+Tib. 4.10.1|mihi|tibi|Nicolaus Heinsius|1708|Hamb. serin. 139 (H)|apud Broukhusium
+Tib. 4.10.2|per-|promittis|Nicolaus Heinsius|1708|Leid. Voss. lat. 0.13|apud Broukhusium
+Tib. 4.10.3|sit|si|Nicolaus Heinsius|1708|Palat. lat. 910 (P)|apud Broukhusium
+Tib. 4.10.3|togae|toga est|Nicolaus Heinsius|1708|Berol. Diez R. Sant. 21 (E)|apud Broukhusium
+Tib. 4.10.6|cre-|cedam|Achilles Statius|1567|Monac. Clm 14.486 (M)|
+Tib. 4.11.1|placitura|pia cura|Nicolaus Heinsius|1661|Leid. Voss. lat. 0.42|ad Ov. trist. 2.514
 Verg. Aen. 1.646|-i|caro|Emil Baehrens|1887|P.Ryl. III 478|τιμίῳ
 Verg. Aen. 4.423|-as|noris|Emil Baehrens|1887|P.Colt Nessana 2.1|Jahrb. kl. Phil. 135 (1887) 817
 Verg. Aen. 4.471|-us|agitatur|W. Klouček|1886|Paris. lat. 7906 (p)|
