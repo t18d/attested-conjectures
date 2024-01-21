@@ -104,7 +104,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (79), Valckenaer (72), Bentley (69), Porson (62), Nicolaus Heinsius (53), Reiske (52), Cobet (48), Brunck (48), Elmsley (44) and Hermann (43).</p>
+<p>The top 10 critics are Markland (79), Valckenaer (72), Bentley (69), Porson (62), Nicolaus Heinsius (54), Reiske (52), Cobet (48), Brunck (48), Elmsley (44) and Hermann (43).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2552,6 +2552,12 @@ Tib. 2.2.10|-it|annuet|Nicolaus Heinsius|1708|exc. Lipsii (teste Broukh.)|apud B
 Tib. 2.2.15|un-|Indis|Lucas Fruytier|1584|fV2|
 Tib. 2.2.17|utinam|viden ut|François Guyet|n.d.|Leid. Voss. lat. 0.81|
 Tib. 2.3.78|-am … -am|in laxa … toga|Nicolaus Heinsius|1708|cod. Huschkii|apud Broukhusium
+Tib. 2.4.36|at(t)ulit|addidit|Janus Dousa|1592|cod. Dresd.|
+Tib. 2.5.20|cap-|raptos|Scaliger|1577–1607|Ebor. Heinsii (Y)|
+Tib. 2.5.20|Lares|deos|Housman|n.d.|Hamb. serin. 139 (H)|
+Tib. 2.5.34|pulla|pulsa|Scaliger|1577–1607|Floril. Marc. 497|
+Tib. 2.5.35|-is|diti|Nicolaus Heinsius|1708|Vindob. lat. 224 (W)|apud Broukhusium
+Tib. 2.5.62|-am ... -am|longa ... via|Scaliger|1577–1607|Leid. Voss. lat. 0.76|
 Verg. Aen. 1.646|-i|caro|Emil Baehrens|1887|P.Ryl. III 478|τιμίῳ
 Verg. Aen. 4.423|-as|noris|Emil Baehrens|1887|P.Colt Nessana 2.1|Jahrb. kl. Phil. 135 (1887) 817
 Verg. Aen. 4.471|-us|agitatur|W. Klouček|1886|Paris. lat. 7906 (p)|
