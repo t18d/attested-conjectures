@@ -104,7 +104,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (79), Valckenaer (72), Bentley (69), Porson (62), Nicolaus Heinsius (58), Reiske (52), Cobet (48), Brunck (48), Elmsley (44) and Hermann (43).</p>
+<p>The top 10 critics are Markland (79), Valckenaer (72), Bentley (69), Porson (62), Nicolaus Heinsius (60), Reiske (52), Cobet (48), Brunck (48), Scaliger (44) and Elmsley (44).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2581,6 +2581,14 @@ Tib. 3.6.23|-umque|quantasque|Nicolaus Heinsius|1708|ed. pr. et exc. Puccii|apud
 Tib. 3.6.47|-vit|iurarit|Lucas Fruytier|1584|Vindob. lat. 224 (W)|
 Tib. 3.6.62|et|i|Achilles Statius|1567|Fragm. Cuiac. (F)|
 Tib. 4.1.13|terris|tectis|Muretus|1558–62|Vindob. lat. 224 (W)|
+Tib. 4.1.60|-os|gelida|Scaliger|1577–1607|cod. (Broukh.)|
+Tib. 4.1.70|tergeminae|inter geminae|Canter|n.d.|F (Scaliger)|
+Tib. 4.1.115|audet|gau-|Nicolaus Heinsius|1708|Berol. Diez R. Sant. 21 (E)|apud Broukhusium
+Tib. 4.1.127|u-|nulla|Passerat|n.d.|Brix. A VII.7 (Q)|
+Tib. 4.1.144|nec|vel|Schrader|n.d.|Monac. Clm 14.486 (M)|
+Tib. 4.1.151|consistit|considit|Nicolaus Heinsius|1708|Berol. Diez R. Sant. 21 (E)|apud Broukhusium
+Tib. 4.1.175|praecla-|per claros|Scaliger|1577–1607|Leid. Voss. lat. 0.76|
+Tib. 4.1.181|non|nec|Heyne|1755–98|Vindob. lat. 224 (W)|
 Verg. Aen. 1.646|-i|caro|Emil Baehrens|1887|P.Ryl. III 478|τιμίῳ
 Verg. Aen. 4.423|-as|noris|Emil Baehrens|1887|P.Colt Nessana 2.1|Jahrb. kl. Phil. 135 (1887) 817
 Verg. Aen. 4.471|-us|agitatur|W. Klouček|1886|Paris. lat. 7906 (p)|
