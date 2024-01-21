@@ -2410,8 +2410,8 @@ Tib. 1.1.51,pereat potiusque,potius pereatque,Johannes Livineius,1621,Berol. Die
 Tib. 1.1.67,tu,tum,Haupt,1861,Ambros. G 10 sup.,
 Tib. 1.2.19,decedere,descendere,Janus Dousa,1592,Leid. Voss. lat. 0.81,
 Tib. 1.2.73,si,sim,Scaliger,1577–1607,'vetus liber' (Ach. Statius),
-Tib. 1.2.84,di-,deripuisse,Turnebus,n.d.,codd. (teste Dousa),
-Tib. 1.3.17,dant,aut,Scaliger,1577–1607,codd. (teste Ach. Statio),
+Tib. 1.2.84,di-,deripuisse,Turnebus,n.d.,codd. (Dousa),
+Tib. 1.3.17,dant,aut,Scaliger,1577–1607,codd. (Ach. Statius),
 Tib. 1.3.51,pater,precor,Markland,1577–1607,Berol. Diez Β. Sant. 39b (D),
 Tib. 1.3.54,inscriptis,his scriptus,Janus Dousa,1592,codd. (Fruytier/Livineius),
 Tib. 1.3.69,impe-,implexa,Lucas Fruytier,1584,'Regius cum Corvino' (Heyne),
@@ -2424,11 +2424,11 @@ Tib. 1.6.72,proprias,pronas,Lucas Fruytier,1584,G2,
 Tib. 1.6.72,-orque,proripiatque,Emil Baehrens,1878,Brix. A VII.7 (Q),
 Tib. 1.7.8,-bat,portabit,Scaliger,1577–1607,Berol. Diez Β. Sant. 39b (D),
 Tib. 1.7.9,tua bella,Tarbella,Scaliger,1577–1607,Monac. Clm 14.486 (M),
-Tib. 1.7.13,at,an,Nicolaus Heinsius,1708,cod. Colotii (teste Broukh.),apud Broukhusium
+Tib. 1.7.13,at,an,Nicolaus Heinsius,1708,cod. Colotii (Broukh.),apud Broukhusium
 Tib. 1.7.42,pulsa,vincta,Wacker,n.d.,Ebor. Heinsii (Y),
 Tib. 1.7.47,-is,dulci,Lucas Fruytier,1584,cod. Gothanus,
 Tib. 1.7.49,-os,ludis,Achilles Statius,1567,Berol. Diez R. Sant. 21 (E),
-Tib. 1.8.30,foveat,-as,Nicolaus Heinsius,1708,Y (teste Broukh.),apud Broukhusium
+Tib. 1.8.30,foveat,-as,Nicolaus Heinsius,1708,Y (Broukh.),apud Broukhusium
 Tib. 1.8.49,seu,neu,Scaliger,1577–1607,GV2,
 Tib. 1.8.52,-eo,luto,Scaliger,1577–1607,'veteres libri' (Muretus),
 Tib. 1.10.18,-es,veteris,Lucas Fruytier,1584,unus Vaticanus,
@@ -2437,7 +2437,7 @@ Tib. 1.10.68,praefl-,perpluat,Nicolaus Heinsius,1708,cod. Bern.,apud Broukhusium
 Tib. 2.1.1,adest valeat,"adest, faveat",Scaliger,1577–1607,'quinque Anglici' (Heyne-Wunderlich),
 Tib. 2.1.34,ades,avis,Scaliger,1577–1607,Monac. Clm 14.486 (M),
 Tib. 2.1.89,ful-,furvis,Nicolaus Heinsius,1708,GH,apud Broukhusium
-Tib. 2.2.10,-it,annuet,Nicolaus Heinsius,1708,exc. Lipsii (teste Broukh.),apud Broukhusium
+Tib. 2.2.10,-it,annuet,Nicolaus Heinsius,1708,exc. Lipsii (Broukh.),apud Broukhusium
 Tib. 2.2.15,un-,Indis,Lucas Fruytier,1584,fV2,
 Tib. 2.2.17,utinam,viden ut,François Guyet,n.d.,Leid. Voss. lat. 0.81,
 Tib. 2.3.78,-am … -am,in laxa … toga,Nicolaus Heinsius,1708,cod. Huschkii,apud Broukhusium
@@ -2447,6 +2447,15 @@ Tib. 2.5.20,Lares,deos,Housman,n.d.,Hamb. serin. 139 (H),
 Tib. 2.5.34,pulla,pulsa,Scaliger,1577–1607,Floril. Marc. 497,
 Tib. 2.5.35,-is,diti,Nicolaus Heinsius,1708,Vindob. lat. 224 (W),apud Broukhusium
 Tib. 2.5.62,-am ... -am,longa ... via,Scaliger,1577–1607,Leid. Voss. lat. 0.76,
+Tib. 2.5.66,-as et ... -as,fusa sed ... coma,Scaliger,1577–1607,exc. Petrei,
+Tib. 2.5.69,quod-,quotque,Nicolaus Heinsius,1708,Laur. 33.14 (Ach. Statius),apud Broukhusium
+Tib. 2.5.69,Albana ... Tiberis,Aniena ... Tiburs,Brassicanus,n.d.,cod. Ferrarti et exc. Lipsii,
+Tib. 2.5.70,-it ... perlueritque,portarit ... pertulerit,Muretus,1558–62,codd. (Ach. Statius),
+Tib. 2.5.73,stre-,crepitantia,Nicolaus Heinsius,1708,codd. (Broukh.),apud Broukhusium
+Tib. 2.5.92,-pressis,comprensis,G. G. Giraldi,1545,G2,
+Tib. 2.5.109,ta-,iaceo,Scaliger,1577–1607,Guelferbyt. 3,s.l.
+Tib. 2.6.16,scilicet,si licet,Muretus,1558–62,Ebor. Heinsii (Y),
+Tib. 2.6.16,scilicet,i licet,Nicolaus Heinsius,1708,cod. Schefferi/Upsaliensi (Broukh.),apud Broukhusium
 Verg. Aen. 1.646,-i,caro,Emil Baehrens,1887,P.Ryl. III 478,τιμίῳ
 Verg. Aen. 4.423,-as,noris,Emil Baehrens,1887,P.Colt Nessana 2.1,Jahrb. kl. Phil. 135 (1887) 817
 Verg. Aen. 4.471,-us,agitatur,W. Klouček,1886,Paris. lat. 7906 (p),
