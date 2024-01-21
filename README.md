@@ -107,7 +107,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (79), Valckenaer (72), Nicolaus Heinsius (72), Bentley (69), Porson (62), Scaliger (61), Reiske (52), Cobet (48), Brunck (48) and Elmsley (44).</p>
+<p>The top 10 critics are Markland (79), Valckenaer (72), Nicolaus Heinsius (72), Scaliger (69), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Elmsley (44).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1681,12 +1681,22 @@ Q.S. 3.582|ὀρινομένοιο|ὀ. γόοιο|Scaliger|n.d.|Vindob. phil. g
 Q.S. 3.610|εὐρέ-|εὐρυρέεθρος|Scaliger|n.d.|PR|
 Q.S. 3.621|μοι|με|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
 Q.S. 3.783|om.|δέ|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
+Q.S. 4.140|εἰς|ἐς|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
+Q.S. 4.144|-λέος|Νηλῆος|Scaliger|n.d.|Rpc|
+Q.S. 4.144|ἠὺς|ἐὺς|Scaliger|n.d.|Neap. gr. II F 10 (P)|
 Q.S. 4.297|ἀέθλων|ἄεθλον|Lorenz Rhodomann|1604|Scorial. Σ II 6|
 Q.S. 4.400|om.|τὸ|C. L. Struve|1854|Lsl|
 Q.S. 4.429|μ. θ ̓ ὑπ ̓ εἴ. ἑρ.|μ. ἑρσήεντος θ ̓ ὑπ ̓ εἴαρος|Constantine Lascaris|1464–5|UQ|
 Q.S. 4.465|ἐφάλματος|ἐφ ̓ ἅλματι|Lorenz Rhodomann|1604|Rpc|
+Q.S. 4.469|χείρεσ ̓|χερσὶν|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
+Q.S. 5.63|ἐφέσπ-|ἐφέποντο|Constantine Lascaris|1496|PR|
 Q.S. 5.126|-χη|τεύχε ̓|Hermann Köchly|1850|Neap. gr. II E 24 (L)|
 Q.S. 5.126|ἄρτια|ἄρμενα|Heyne|1807|Vindob. phil. gr. 5 (R)|apud Tychsen
+Q.S. 5.217|δείδιες|περιδείδιες|Scaliger|n.d.|LslR|
+Q.S. 5.263|τε|δὲ|Scaliger|n.d.|R et Bruxell. 2946–50|εὐφροσύνῃσι?
+Q.S. 5.287|-η|ἐγχείην|Constantine Lascaris|1496|Vindob. phil. gr. 5 (R)|
+Q.S. 5.422|ἀασσάμεθα|ἀασάμεσθα|Scaliger|n.d.|HcLR|
+Q.S. 5.446|τοκῆες|τοκέες|Scaliger|n.d.|LprR|
 Q.S. 5.536|χεῖρ-|κῆρες|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
 Q.S. 6.150|ὡς|ὣς|Hermann Köchly|1850|DU|
 Q.S. 6.411|μιν|οἱ|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
