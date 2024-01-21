@@ -107,7 +107,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (79), Valckenaer (72), Nicolaus Heinsius (72), Bentley (69), Porson (62), Scaliger (54), Reiske (52), Cobet (48), Brunck (48) and Elmsley (44).</p>
+<p>The top 10 critics are Markland (79), Valckenaer (72), Nicolaus Heinsius (72), Bentley (69), Porson (62), Scaliger (61), Reiske (52), Cobet (48), Brunck (48) and Elmsley (44).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1668,9 +1668,17 @@ Q.S. 2.509|δ. δ ̓ ἄρ’|δοιαὶ ἄρ’|Scaliger|n.d.|Vindob. phil. g
 Q.S. 2.562|-τώδης|αἱματόεις|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
 Q.S. 2.595|δυώδεκα|δυοκαίδεκα|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
 Q.S. 3.94|διάνδιχα|διὰ δ ̓ ἄνδιχα|Eduard Gerhard|1816|Lsl|
+Q.S. 3.110|-τεροῖο|κραταιοῦ|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
+Q.S. 3.154|κέασε|-σσε|Constantine Lascaris|1496|LslR|
 Q.S. 3.155|ἐρύσ-|ἐρείσας|Lorenz Rhodomann|1604|Brux. gr. 11.400 (B)|
+Q.S. 3.213|-ἐβασαν|ἀμφέβαν|Scaliger|n.d.|LR|
 Q.S. 3.297|φοβέοντο|φέβοντο|J. C. de Pauw|1734|Neap. gr. II E 24 (L)|
+Q.S. 3.302|-μοῦ|ποταμοῖο|Scaliger|n.d.|LR|
+Q.S. 3.333|κρατός|κράατος|Scaliger|n.d.|LslR|
 Q.S. 3.473|δέ μοι|δ ̓ ἐμοῖσι|Lorenz Rhodomann|1604|Lpc|
+Q.S. 3.495|-νοιο|καταφθιμένου|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
+Q.S. 3.582|ὀρινομένοιο|ὀ. γόοιο|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
+Q.S. 3.610|εὐρέ-|εὐρυρέεθρος|Scaliger|n.d.|PR|
 Q.S. 3.621|μοι|με|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
 Q.S. 3.783|om.|δέ|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
 Q.S. 4.297|ἀέθλων|ἄεθλον|Lorenz Rhodomann|1604|Scorial. Σ II 6|
