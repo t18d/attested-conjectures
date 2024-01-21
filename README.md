@@ -1665,6 +1665,13 @@ Q.S. 3.783|om.|δέ|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
 Q.S. 4.297|ἀέθλων|ἄεθλον|Lorenz Rhodomann|1604|Scorial. Σ 11 6|
 Q.S. 4.400|om.|τὸ|C. L. Struve|1854|Lsl|
 Q.S. 4.429|μ. θ ̓ ὑπ ̓ εἴ. ἑρ.|μ. ἑρσήεντος θ ̓ ὑπ ̓ εἴαρος|Constantine Lascaris|1464–5|UQ|
+Q.S. 4.465|ἐφάλματος|ἐφ ̓ ἅλματι|Lorenz Rhodomann|1604|Rpc|
+Q.S. 5.126|-χη|τεύχε ̓|Hermann Köchly|1850|Neap. gr. II E 24 (L)|
+Q.S. 5.126|ἄρτια|ἄρμενα|Heyne|1807|Vindob. phil. gr. 5 (R)|apud Tychsen
+Q.S. 5.536|χεῖρ-|κῆρες|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
+Q.S. 6.150|ὡς|ὣς|Hermann Köchly|1850|DU|
+Q.S. 6.411|μιν|οἱ|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
+Q.S. 6.431|om.|γε|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
 Sall. hist. fr. 1.107 M|acc[]as|accitas|Gerlach|1856|Vindob. L 117 (Funari)|
 Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Bergk|1835|FP|κωϋ κεθέλουσα F: κ’ ώυ κ’ ἐθέλοις P
 Sapph. fr. 44A.5|ἀεί|ἄϊ|H. L. Ahrens|1839–43|P.Sapph.Obbink|
