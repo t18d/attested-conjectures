@@ -1655,10 +1655,16 @@ Q.S. 2.299|-τε|βεβαῶτα|Hermann Köchly|1850|Neap. gr. II F 10 (P)|
 Q.S. 2.314|-γου|μόθου|Hermann Köchly|1850|Vindob. phil. gr. 5 (R)|
 Q.S. 2.408|om.|περ|Lorenz Rhodomann|1604|BR|
 Q.S. 2.426|μεθ-|καθημένη|Lorenz Rhodomann|1604|Marc. gr. Z 456 (V)|
-Q.S. 2.495|ὑπ-|ἐπέβραχεν|Franciscus Spitzner|1839|Neap. gr. II E 24 (L)|
-Q.S. 3.94|διάνδιχα|διὰ δ ̓ ἄνδιχα|Gerhard|n.d.|Lsl|
+Q.S. 2.495|ὑπ-|ἐπέβραχεν|Franz Spitzner|1839|Neap. gr. II E 24 (L)|Pforte
+Q.S. 3.94|διάνδιχα|διὰ δ ̓ ἄνδιχα|Eduard Gerhard|1816|Lsl|
 Q.S. 3.155|ἐρύσ-|ἐρείσας|Lorenz Rhodomann|1604|Brux. gr. 11.400 (B)|
 Q.S. 3.297|φοβέοντο|φέβοντο|J. C. de Pauw|1734|Neap. gr. II E 24 (L)|
+Q.S. 3.473|δέ μοι|δ ̓ ἐμοῖσι|Lorenz Rhodomann|1604|Lpc|
+Q.S. 3.621|μοι|με|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
+Q.S. 3.783|om.|δέ|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
+Q.S. 4.297|ἀέθλων|ἄεθλον|Lorenz Rhodomann|1604|Scorial. Σ 11 6|
+Q.S. 4.400|om.|τὸ|C. L. Struve|1854|Lsl|
+Q.S. 4.429|μ. θ ̓ ὑπ ̓ εἴ. ἑρ.|μ. ἑρσήεντος θ ̓ ὑπ ̓ εἴαρος|Constantine Lascaris|1464–5|UQ|
 Sall. hist. fr. 1.107 M|acc[]as|accitas|Gerlach|1856|Vindob. L 117 (Funari)|
 Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Bergk|1835|FP|κωϋ κεθέλουσα F: κ’ ώυ κ’ ἐθέλοις P
 Sapph. fr. 44A.5|ἀεί|ἄϊ|H. L. Ahrens|1839–43|P.Sapph.Obbink|
