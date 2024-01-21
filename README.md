@@ -1651,6 +1651,11 @@ Q.S. 1.637|-υγμένοι|τετρυμένοι|Lorenz Rhodomann|1604|Neap. gr. 
 Q.S. 1.723|om.|ἤ|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
 Q.S. 2.154|μάχεσθ-|μαχέσασθαι|Scaliger|n.d.|Rpc|
 Q.S. 2.168|-έμω|πολέων|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
+Q.S. 2.299|-τε|βεθαῶτα|Hermann Köchly|1850|Neap. gr. II F 10 (P)|
+Q.S. 2.314|-γου|μόθου|Hermann Köchly|1850|Vindob. phil. gr. 5 (R)|
+Q.S. 2.408|om.|περ|Lorenz Rhodomann|1604|BR|
+Q.S. 2.426|μεθ-|καθημένη|Lorenz Rhodomann|1604|Marc. gr. Z 456 (V)|
+Q.S. 2.495|ὑπ-|ἐπέθραχεν|Spitzner|n.d.|Neap. gr. II E 24 (L)|
 Sall. hist. fr. 1.107 M|acc[]as|accitas|Gerlach|1856|Vindob. L 117 (Funari)|
 Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Bergk|1835|FP|κωϋ κεθέλουσα F: κ’ ώυ κ’ ἐθέλοις P
 Sapph. fr. 44A.5|ἀεί|ἄϊ|H. L. Ahrens|1839–43|P.Sapph.Obbink|
