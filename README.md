@@ -105,7 +105,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (79), Valckenaer (72), Nicolaus Heinsius (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48), Scaliger (44) and Elmsley (44).</p>
+<p>The top 10 critics are Markland (79), Valckenaer (72), Nicolaus Heinsius (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48), Scaliger (45) and Elmsley (44).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1647,7 +1647,10 @@ Q.S. 1.457|πέλ-|πένονται|Hermann Köchly|1850|Vindob. phil. gr. 5 (R)
 Q.S. 1.551|φρεσὶ|χερσὶ|Lorenz Rhodomann|1604|Nr|
 Q.S. 1.592|κρατερῇ|κραταιῇ|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
 Q.S. 1.630|εἴδοντο|ἐσίδοντο|J. C. de Pauw|1734|Rsl|
-Q.S. 1.637||τετρυμένοι|Lorenz Rhodomann|1604|Neap. gr. II E 24 (L)|
+Q.S. 1.637|-υγμένοι|τετρυμένοι|Lorenz Rhodomann|1604|Neap. gr. II E 24 (L)|
+Q.S. 1.723|om.|ἤ|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
+Q.S. 2.154|μάχεσθ-|μαχέσασθαι|Scaliger|n.d.|Rpc|
+Q.S. 2.168|-έμω|πολέων|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
 Sall. hist. fr. 1.107 M|acc[]as|accitas|Gerlach|1856|Vindob. L 117 (Funari)|
 Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Bergk|1835|FP|κωϋ κεθέλουσα F: κ’ ώυ κ’ ἐθέλοις P
 Sapph. fr. 44A.5|ἀεί|ἄϊ|H. L. Ahrens|1839–43|P.Sapph.Obbink|
