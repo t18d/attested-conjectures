@@ -107,7 +107,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (79), Valckenaer (72), Nicolaus Heinsius (72), Scaliger (69), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Elmsley (44).</p>
+<p>The top 10 critics are Markland (79), Scaliger (72), Valckenaer (72), Nicolaus Heinsius (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Elmsley (44).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1710,6 +1710,7 @@ Q.S. 7.224|-νοιο|ξείνοισι(ν)|T. C. Tychsen|1807|Vindob. phil. gr. 5
 Q.S. 7.227|om.|alterum καὶ|Lorenz Rhodomann|1604|Lsl|
 Q.S. 7.242|-τον|ἐπήρατος|T. C. Tychsen|1807|Lsl|
 Q.S. 7.262|σοι|σοὶ|Hermann Köchly|1850|Neap. gr. II F 11 (N)|
+Q.S. 7.306|-φέρονται|συμφορέονται|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
 Q.S. 7.509|-σι|ἀμύνουσιν|Constantine Lascaris|1496|BLpcRsl|
 Q.S. 7.521|ὑπο-|ὕπο|T. C. Tychsen|1807|Scorial. Σ II 8 (E)|
 Q.S. 7.534|μενεπτ-|Νεοπτόλεμον|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
@@ -1723,6 +1724,8 @@ Q.S. 8.486|-χε ̓ ἔθεντο|τεύχεα θέντο|Hermann Köchly|1850|B
 Q.S. 9.288|ἀνὴρ|ἄρης|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
 Q.S. 9.368|ἀφίκεται|-κετο|Arthur Platt|1901|Vindob. phil. gr. 5 (R)|
 Q.S. 9.499|πᾶσαν τ ̓|πᾶσαν|Lorenz Rhodomann|1604|LR|
+Q.S. 9.519|ἐμοῖο|ἐμεῖο|Scaliger|n.d.|VNR|
+Q.S. 13.462||ΛΕΙΠΕΙ|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
 Sall. hist. fr. 1.107 M|acc[]as|accitas|Gerlach|1856|Vindob. L 117 (Funari)|
 Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Bergk|1835|FP|κωϋ κεθέλουσα F: κ’ ώυ κ’ ἐθέλοις P
 Sapph. fr. 44A.5|ἀεί|ἄϊ|H. L. Ahrens|1839–43|P.Sapph.Obbink|
