@@ -107,7 +107,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (79), Scaliger (77), Valckenaer (72), Nicolaus Heinsius (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Elmsley (44).</p>
+<p>The top 10 critics are Scaliger (81), Markland (79), Valckenaer (72), Nicolaus Heinsius (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Elmsley (44).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1655,6 +1655,7 @@ Q.S. 1.592|κρατερῇ|κραταιῇ|Lorenz Rhodomann|1604|Vindob. phil. g
 Q.S. 1.630|εἴδοντο|ἐσίδοντο|J. C. de Pauw|1734|Rsl|
 Q.S. 1.637|-υγμένοι|τετρυμένοι|Lorenz Rhodomann|1604|Neap. gr. II E 24 (L)|
 Q.S. 1.723|om.|ἤ|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
+Q.S. 2.1||ὀρέων ὑπερηχηέντων|Scaliger|n.d.|Cantab. Corp. Chr. coll. 81 (C)|?
 Q.S. 2.51|μὴ δέ τι πάτρην|μήδ’ ἐπὶ πάτρης|Scaliger|n.d.|Marc. gr. Z 456 (V)|
 Q.S. 2.115|μητρὸς|μητέρος|Scaliger|n.d.|BslR|
 Q.S. 2.154|μάχεσθ-|μαχέσασθαι|Scaliger|n.d.|Rpc|
@@ -1668,12 +1669,14 @@ Q.S. 2.495|ὑπ-|ἐπέβραχεν|Franz Spitzner|1839|Neap. gr. II E 24 (L)|
 Q.S. 2.509|δ. δ ̓ ἄρ’|δοιαὶ ἄρ’|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
 Q.S. 2.562|-τώδης|αἱματόεις|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
 Q.S. 2.595|δυώδεκα|δυοκαίδεκα|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
+Q.S. 2.658|-ουσ'|εἰσανόρουσεν|Scaliger|n.d.|CpcB|
 Q.S. 3.94|διάνδιχα|διὰ δ ̓ ἄνδιχα|Eduard Gerhard|1816|Lsl|
 Q.S. 3.110|-τεροῖο|κραταιοῦ|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
 Q.S. 3.154|κέασε|-σσε|Constantine Lascaris|1496|LslR|
 Q.S. 3.155|ἐρύσ-|ἐρείσας|Lorenz Rhodomann|1604|Brux. gr. 11.400 (B)|
 Q.S. 3.165|ἐπέτον-|ἐφέβοντο|Scaliger|n.d.|Marc. gr. Z 456 (V)|
 Q.S. 3.213|-ἐβασαν|ἀμφέβαν|Scaliger|n.d.|LR|
+Q.S. 3.264|-νοῖσιν|οὐτιδανῇσιν|Scaliger|n.d.|MDHc|
 Q.S. 3.297|φοβέοντο|φέβοντο|J. C. de Pauw|1734|Neap. gr. II E 24 (L)|
 Q.S. 3.302|-μοῦ|ποταμοῖο|Scaliger|n.d.|LR|
 Q.S. 3.333|κρατός|κράατος|Scaliger|n.d.|LslR|
@@ -1730,6 +1733,7 @@ Q.S. 9.288|ἀνὴρ|ἄρης|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
 Q.S. 9.368|ἀφίκεται|-κετο|Arthur Platt|1901|Vindob. phil. gr. 5 (R)|
 Q.S. 9.499|πᾶσαν τ ̓|πᾶσαν|Lorenz Rhodomann|1604|LR|
 Q.S. 9.519|ἐμοῖο|ἐμεῖο|Scaliger|n.d.|VNR|
+Q.S. 10.481||Εὐάδνην Καπανῆος ... μελέεσσιν|Scaliger|n.d.|Cpc|
 Q.S. 13.26||τάχα δ’ ἂμ φατὰ|Scaliger|n.d.|VLmgRpc|
 Q.S. 13.462||ΛΕΙΠΕΙ|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
 Sall. hist. fr. 1.107 M|acc[]as|accitas|Gerlach|1856|Vindob. L 117 (Funari)|
