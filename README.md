@@ -107,7 +107,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (112), Markland (79), Valckenaer (72), Nicolaus Heinsius (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Elmsley (44).</p>
+<p>The top 10 critics are Scaliger (111), Markland (79), Valckenaer (72), Nicolaus Heinsius (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Elmsley (44).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1655,24 +1655,23 @@ Q.S. 1.333|ἔναντι|ἐναντία|Scaliger|n.d.|Y|ἠριάασθαι
 Q.S. 1.345|θε-|θοοῖς|Scaliger|n.d.|YUQ|
 Q.S. 1.406|φρεσὶ μεμαυῖα|φρεσὶν ἐμμεμαυῖα|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
 Q.S. 1.406|σιφόνην|τισιφόνην|Scaliger|n.d.|Y|
-Q.S. 1.420||ὁράατε|Scaliger|n.d.|Y|
 Q.S. 1.457|πέλ-|πένονται|Hermann Köchly|1850|Vindob. phil. gr. 5 (R)|
-Q.S. 1.469||πτολέμοιο|Scaliger|n.d.|Y|
-Q.S. 1.536||καὶ|Scaliger|n.d.|Y|
-Q.S. 1.540||ἠύτε θουρία uel λυγρὴ|Scaliger|n.d.|Y|
-Q.S. 1.541||ἦτορ ἔχουσα|Scaliger|n.d.|Y|
+Q.S. 1.469|πολ-|πτολέμοιο|Scaliger|n.d.|Y|
+Q.S. 1.536|δὲ|καὶ|Scaliger|n.d.|Y|
+Q.S. 1.540|om.|λυγρὴ|Scaliger|n.d.|Y|
+Q.S. 1.541|om.|ἔχουσα|Scaliger|n.d.|Y|
 Q.S. 1.551|φρεσὶ|χερσὶ|Lorenz Rhodomann|1604|Nr|
-Q.S. 1.552||ἀμφοτέροισιν|Scaliger|n.d.|Y|
+Q.S. 1.552|-ροις|ἀμφοτέροισιν|Scaliger|n.d.|Y|
 Q.S. 1.558|ἵκεσθ ̓|ἵκεσθε|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|ἱκέσθε?
 Q.S. 1.592|κρατερῇ|κραταιῇ|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
 Q.S. 1.630|εἴδοντο|ἐσίδοντο|J. C. de Pauw|1734|Rsl|
 Q.S. 1.637|-υγμένοι|τετρυμένοι|Lorenz Rhodomann|1604|Neap. gr. II E 24 (L)|
-Q.S. 1.711|||Scaliger|n.d.|Y|
+Q.S. 1.711|διὸς|Ζηνὸς|Scaliger|n.d.|Y|
 Q.S. 1.723|om.|ἤ|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
-Q.S. 1.779||ἐριδμαίνειν|Scaliger|n.d.|Y|
-Q.S. 1.804||οἱ παρκατέθαψαν|Scaliger|n.d.|Y|
-Q.S. 1.806||οὐδ’ ἂρ σφὶ|Scaliger|n.d.|Y|
-Q.S. 1.827||ἐκίδνατο|Scaliger|n.d.|Y|
+Q.S. 1.779|ἐριδαί-|ἐριδμαίνειν|Scaliger|n.d.|Y|
+Q.S. 1.804|πὰρ κ.|παρκατέθαψαν|Scaliger|n.d.|Y|
+Q.S. 1.806|ἀμφὶ|σφὶ|Scaliger|n.d.|Y|
+Q.S. 1.827|σκίδν-|ἐκίδνατο|Scaliger|n.d.|Y|
 Q.S. 2.1||ὀρέων ὑπερηχηέντων|Scaliger|n.d.|Cantab. Corp. Chr. coll. 81 (C)|?
 Q.S. 2.51|μὴ δέ τι πάτρην|μήδ’ ἐπὶ πάτρης|Scaliger|n.d.|Marc. gr. Z 456 (V)|
 Q.S. 2.115|μητρὸς|μητέρος|Scaliger|n.d.|BslR|
