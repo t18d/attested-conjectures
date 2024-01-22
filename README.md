@@ -1652,7 +1652,7 @@ Q.S. 1.227|μολίωνά τε|μολίονα|Lorenz Rhodomann|1604|Vindob. phil
 Q.S. 1.261|-οις|ὤμους|Lorenz Rhodomann|1604|UQ|
 Q.S. 1.282|-αλίην|Μυκάλην|Scaliger|n.d.|MR|
 Q.S. 1.333|ἔναντι|ἐναντία|Scaliger|n.d.|Y|ἠριάασθαι
-Q.S. 1.345||θοοῖς|Scaliger|n.d.|Y|
+Q.S. 1.345|θε-|θοοῖς|Scaliger|n.d.|YUQ|
 Q.S. 1.406|φρεσὶ μεμαυῖα|φρεσὶν ἐμμεμαυῖα|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
 Q.S. 1.406|σιφόνην|τισιφόνην|Scaliger|n.d.|Y|
 Q.S. 1.457|πέλ-|πένονται|Hermann Köchly|1850|Vindob. phil. gr. 5 (R)|
