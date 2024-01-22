@@ -107,7 +107,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Markland (79), Scaliger (72), Valckenaer (72), Nicolaus Heinsius (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Elmsley (44).</p>
+<p>The top 10 critics are Markland (79), Scaliger (77), Valckenaer (72), Nicolaus Heinsius (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Elmsley (44).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1655,6 +1655,7 @@ Q.S. 1.592|κρατερῇ|κραταιῇ|Lorenz Rhodomann|1604|Vindob. phil. g
 Q.S. 1.630|εἴδοντο|ἐσίδοντο|J. C. de Pauw|1734|Rsl|
 Q.S. 1.637|-υγμένοι|τετρυμένοι|Lorenz Rhodomann|1604|Neap. gr. II E 24 (L)|
 Q.S. 1.723|om.|ἤ|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
+Q.S. 2.51|μὴ δέ τι πάτρην|μήδ’ ἐπὶ πάτρης|Scaliger|n.d.|Marc. gr. Z 456 (V)|
 Q.S. 2.115|μητρὸς|μητέρος|Scaliger|n.d.|BslR|
 Q.S. 2.154|μάχεσθ-|μαχέσασθαι|Scaliger|n.d.|Rpc|
 Q.S. 2.168|-έμω|πολέων|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
@@ -1671,6 +1672,7 @@ Q.S. 3.94|διάνδιχα|διὰ δ ̓ ἄνδιχα|Eduard Gerhard|1816|Lsl|
 Q.S. 3.110|-τεροῖο|κραταιοῦ|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
 Q.S. 3.154|κέασε|-σσε|Constantine Lascaris|1496|LslR|
 Q.S. 3.155|ἐρύσ-|ἐρείσας|Lorenz Rhodomann|1604|Brux. gr. 11.400 (B)|
+Q.S. 3.165|ἐπέτον-|ἐφέβοντο|Scaliger|n.d.|Marc. gr. Z 456 (V)|
 Q.S. 3.213|-ἐβασαν|ἀμφέβαν|Scaliger|n.d.|LR|
 Q.S. 3.297|φοβέοντο|φέβοντο|J. C. de Pauw|1734|Neap. gr. II E 24 (L)|
 Q.S. 3.302|-μοῦ|ποταμοῖο|Scaliger|n.d.|LR|
@@ -1692,9 +1694,11 @@ Q.S. 4.469|χείρεσ ̓|χερσὶν|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
 Q.S. 5.63|ἐφέσπ-|ἐφέποντο|Constantine Lascaris|1496|PR|
 Q.S. 5.126|-χη|τεύχε ̓|Hermann Köchly|1850|Neap. gr. II E 24 (L)|
 Q.S. 5.126|ἄρτια|ἄρμενα|Heyne|1807|Vindob. phil. gr. 5 (R)|apud Tychsen
+Q.S. 5.190|σοι … θάρσος|σοὶ … θράσος|Scaliger|n.d.|Marc. gr. Z 456 (V)|
 Q.S. 5.217|δείδιες|περιδείδιες|Scaliger|n.d.|LslR|
 Q.S. 5.263|τε|δὲ|Scaliger|n.d.|R et Bruxell. 2946–50|εὐφροσύνῃσι?
 Q.S. 5.287|-η|ἐγχείην|Constantine Lascaris|1496|Vindob. phil. gr. 5 (R)|
+Q.S. 5.354|ἔντεσι|ἔντεσιν|Scaliger|n.d.|Marc. gr. Z 456 (V)|
 Q.S. 5.422|ἀασσάμεθα|ἀασάμεσθα|Scaliger|n.d.|HcLR|
 Q.S. 5.446|τοκῆες|τοκέες|Scaliger|n.d.|LprR|
 Q.S. 5.536|χεῖρ-|κῆρες|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
@@ -1710,7 +1714,7 @@ Q.S. 7.224|-νοιο|ξείνοισι(ν)|T. C. Tychsen|1807|Vindob. phil. gr. 5
 Q.S. 7.227|om.|alterum καὶ|Lorenz Rhodomann|1604|Lsl|
 Q.S. 7.242|-τον|ἐπήρατος|T. C. Tychsen|1807|Lsl|
 Q.S. 7.262|σοι|σοὶ|Hermann Köchly|1850|Neap. gr. II F 11 (N)|
-Q.S. 7.306|-φέρονται|συμφορέονται|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
+Q.S. 7.306|-φέρονται|συμφορέονται|Scaliger|n.d.|Neap. gr. II E 24 (L)|
 Q.S. 7.509|-σι|ἀμύνουσιν|Constantine Lascaris|1496|BLpcRsl|
 Q.S. 7.521|ὑπο-|ὕπο|T. C. Tychsen|1807|Scorial. Σ II 8 (E)|
 Q.S. 7.534|μενεπτ-|Νεοπτόλεμον|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
@@ -1721,10 +1725,12 @@ Q.S. 8.45|τε καὶ|καὶ|T. C. Tychsen|1807|Urb. gr. 147 (U)|
 Q.S. 8.57|ὑπεχρεμέτιζον|ἐπ-|Hermann Köchly|1850|Brux. gr. 11.400 (B)|
 Q.S. 8.88|δάμνατ ̓|δάμνατο δ ̓|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
 Q.S. 8.486|-χε ̓ ἔθεντο|τεύχεα θέντο|Hermann Köchly|1850|Brux. gr. 11.400 (B)|
+Q.S. 9.56|ἴδ-|εἶδον|Constantine Lascaris|1496|BL|
 Q.S. 9.288|ἀνὴρ|ἄρης|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
 Q.S. 9.368|ἀφίκεται|-κετο|Arthur Platt|1901|Vindob. phil. gr. 5 (R)|
 Q.S. 9.499|πᾶσαν τ ̓|πᾶσαν|Lorenz Rhodomann|1604|LR|
 Q.S. 9.519|ἐμοῖο|ἐμεῖο|Scaliger|n.d.|VNR|
+Q.S. 13.26||τάχα δ’ ἂμ φατὰ|Scaliger|n.d.|VLmgRpc|
 Q.S. 13.462||ΛΕΙΠΕΙ|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
 Sall. hist. fr. 1.107 M|acc[]as|accitas|Gerlach|1856|Vindob. L 117 (Funari)|
 Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Bergk|1835|FP|κωϋ κεθέλουσα F: κ’ ώυ κ’ ἐθέλοις P
