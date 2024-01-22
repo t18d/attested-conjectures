@@ -107,7 +107,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (91), Markland (79), Valckenaer (72), Nicolaus Heinsius (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Elmsley (44).</p>
+<p>The top 10 critics are Scaliger (94), Markland (79), Valckenaer (72), Nicolaus Heinsius (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Elmsley (44).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1747,6 +1747,9 @@ Q.S. 9.519|ἐμοῖο|ἐμεῖο|Scaliger|n.d.|VNR|
 Q.S. 10.481||Εὐάδνην Καπανῆος ... μελέεσσιν|Scaliger|n.d.|Cpc|
 Q.S. 13.26||τάχα δ’ ἂμ φατὰ|Scaliger|n.d.|VLmgRpc|
 Q.S. 13.462||ΛΕΙΠΕΙ|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
+Q.S. 14.36||μίγδα περιγρύζουσι|Scaliger|n.d.|Hc|
+Q.S. 14.205||ὄτι|Scaliger|n.d.|Hc|
+Q.S. 14.582||κατ’ Ἐγκελάδοιο δαΐφρων|Scaliger|n.d.|Hc|
 Sall. hist. fr. 1.107 M|acc[]as|accitas|Gerlach|1856|Vindob. L 117 (Funari)|
 Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Bergk|1835|FP|κωϋ κεθέλουσα F: κ’ ώυ κ’ ἐθέλοις P
 Sapph. fr. 44A.5|ἀεί|ἄϊ|H. L. Ahrens|1839–43|P.Sapph.Obbink|
