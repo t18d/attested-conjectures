@@ -107,7 +107,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (94), Markland (79), Valckenaer (72), Nicolaus Heinsius (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Elmsley (44).</p>
+<p>The top 10 critics are Scaliger (101), Markland (79), Valckenaer (72), Nicolaus Heinsius (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Elmsley (44).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1641,11 +1641,18 @@ Porph. Antr. 8|ἔρχετ᾽|ἔρχεταί τ᾽|Rudolf Hercher|1858|Vat. gr.
 Priscian. Inst. 18.197|ὅσοι γὰρ/θεοῖς ἄρ'|θεοὶ γὰρ|Madvig|1846|VR|Philol. 1 (1846) 672
 Prob. vita Pers. l. 37|centies|centum|Casaubon|n.d.|Lond. mus. Brit. Reg. 15 B XIX|
 Prop. 2.26.54|uor-|uocans (i.e. uac-)|F. C. Ayrmann|1726|Monac. Vniu.Cim.22 (S)|
+Q.S. 1.33|om.|ἕποντο|Scaliger|n.d.|Y|
+Q.S. 1.71|πόλ-|πτόλεμον|Scaliger|n.d.|Y|
+Q.S. 1.77|ἠὲ|ἢ|Scaliger|n.d.|Y|
+Q.S. 1.143|-είας|χρυσέας|Scaliger|n.d.|Y|
 Q.S. 1.169|-υίαισιν|ἁρπυίῃσι(ν)|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|Ἀρπυίῃσι?
 Q.S. 1.192|πολλὰ κακὰ|κακὰ πολλὰ|Lorenz Rhodomann|1604|Lpr|
+Q.S. 1.205|-θε|ἀπάνευθεν|Scaliger|n.d.|Y|
 Q.S. 1.227|μολίωνά τε|μολίονα|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
 Q.S. 1.261|-οις|ὤμους|Lorenz Rhodomann|1604|UQ|
 Q.S. 1.282|-αλίην|Μυκάλην|Scaliger|n.d.|MR|
+Q.S. 1.333|ἔναντι|ἐναντία|Scaliger|n.d.|Y|ἠριάασθαι
+Q.S. 1.345||θοοῖς|Scaliger|n.d.|Y|
 Q.S. 1.406|φρεσὶ μεμαυῖα|φρεσὶν ἐμμεμαυῖα|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
 Q.S. 1.406|σιφόνην|τισιφόνην|Scaliger|n.d.|Y|
 Q.S. 1.457|πέλ-|πένονται|Hermann Köchly|1850|Vindob. phil. gr. 5 (R)|
