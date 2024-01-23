@@ -134,7 +134,7 @@ Aesch. Supp. 79|ηβαι|ἥβαν|C. G. Schütz|1808–11|schol. vetus (Σ)|
 Aesch. T 1.5|-ουϲ|Ἀριϲτοφάνει|Bergk|1883|BXc|Hermes 18 (1883) 483
 Aesch. T 56b.2|καταθ-|καϑέϲειϲ|Casaubon|1600|Marc. gr. 468 (V)|Animadv. 260, 24 sq.
 Aesch. Th. 322|Ἀΐδαι|ἄϊδι|Turnebus|1552|Monac. gr. 565 (Uc)|
-Aesch. fr. 191.2|μέγα πῇ δ'|μέγαν ἠδ᾽|Isaac Vossius|1629|Anon. B|
+Aesch. fr. 191.2|μέγα πῇ δ'|μέγαν ἠδ᾽|Isaac Voss|1629|Anon. B|
 Aesch. fr. 300.3|-δεῖ/-δων|κυλίνδει|Salmasius|1629 (?)|Anon. C|
 Aesch. fr. 300.7|ἀγγέ-|ἀντέλλει|Grotius|1626|Anon. C et Tz.|
 Aeschin. 1.16|ὧ|οὗ|Samuel Petit|s.xvii in.|Vat. gr. 64 (V)|
@@ -1040,7 +1040,7 @@ Hom. Il. 24.192|κεχάνδει|κεχ]όνδει|August Fick|1886|P.Lond.Lit. 
 Hom. Od. 5.8|καὶ|μηδ’|Nauck|1874|P.Tebt. III/I 697|
 Hom. Od. 8.106 schol.|εὐφύ-|ἐν φύλλοισιν|Joshua Barnes|1711|Marc. 613|Homeri Odyssea p. 171
 Hom. Od. 10.10|αὐλῆ(ι)|αὐδῆι|Nitzsch|1826–40|P.Oxy. XLIX 3441|αυδη[]
-Hom. Od. 10.19|δῶκε δέ μοι ἐκδ-|δῶκέ μοι ἐκδείρας|Voss|pre-1782|P. Oxy. XLIX 3441|
+Hom. Od. 10.19|δῶκε δέ μοι ἐκδ-|δῶκέ μοι ἐκδείρας|J. H. Voss|1838|P. Oxy. XLIX 3441|
 Hom. Od. 11.393|ἔτ’ ἦν|εην|Nauck|1874|P. CtYBR inv. 5128|
 Hom. Od. 22.258|-κει|βεβλήκειν|Bekker|1858|P.Ryl. I 53|
 Hom. Od. 23.188|-κται|τέτυκτο|Grashof|n.d.|P.Ryl. I 53|
@@ -2310,7 +2310,7 @@ Soph. Trach. 1082|ἔθαλψεν|ἔθαλψέ μ ̓|Hermann|n.d.|Laur. 31.10 (
 Soph. Trach. 1123|ἐστιν|ἔστ ̓ ἐν|Frederick H. M. Blaydes|n.d.|Harl. 5743|
 Soph. Trach. 1136|μνωμένη|μωμένη|Benjamin Heath|1762|P.Oxy. XV 1805 et Laur. 31.10 (K)|μωμ[
 Soph. fr. 240|τὰ δ᾽ ὅσα|τάδε σε|Bergk|1859|Anon. Ambros. de re metr. 2.12|
-Soph. fr. 265|ἀντεροῦσ-|ἀνταίρουσιν|Isaac Vossius|s.xvii|Cyrill.|apud Alberti
+Soph. fr. 265|ἀντεροῦσ-|ἀνταίρουσιν|Isaac Voss|s.xvii|Cyrill.|apud Alberti
 Soph. fr. 294|ἐπισχολάζεται|κοὐκ ἔτι σχολάζεται|Meineke|n.d.|P.Oxy. IX 1174|
 Soph. fr. 330|-ὴν -ην/-ὴ -η|λευκῇ στάθμῃ|T. G. Tucker|1904|Sud. A (F)|CR 18 (1904) 245
 Soph. fr. 339|ἢ|ἦ|Gaisford|1826|Phot. α 1990|Sophoclis tragoediae septem p. 40
