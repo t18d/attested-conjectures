@@ -107,7 +107,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (163), Markland (79), Valckenaer (72), Nicolaus Heinsius (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Elmsley (44).</p>
+<p>The top 10 critics are Scaliger (159), Markland (79), Valckenaer (72), Nicolaus Heinsius (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Lorenz Rhodomann (45).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1680,13 +1680,13 @@ Q.S. 2.71|-α|πάντων|Scaliger|n.d.|Y|
 Q.S. 2.115|μητρὸς|μητέρος|Scaliger|n.d.|BslR|
 Q.S. 2.130|ἅπαντας|ἅμα πάντας|Scaliger|n.d.|Y|
 Q.S. 2.154|μάχεσθ-|μαχέσασθαι|Scaliger|n.d.|Rpc|
-Q.S. 2.157|θέλ-|ἐθέλεις|Scaliger|n.d.|Y|
+Q.S. 2.157|θέλ-|ἐθέλεις|Lorenz Rhodomann|1604|Y|
 Q.S. 2.168|-έμω|πολέων|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
 Q.S. 2.175|μηδὲν|μηδὲ|Scaliger|n.d.|Y|μὴ δὲ Y
 Q.S. 2.299|-τε|βεβαῶτα|Hermann Köchly|1850|Neap. gr. II F 10 (P)|
 Q.S. 2.314|-γου|μόθου|Hermann Köchly|1850|Vindob. phil. gr. 5 (R)|
 Q.S. 2.331|διήρη-|δίηται|Scaliger|n.d.|YHc|
-Q.S. 2.373|ἰλη-|ἰλαδὸν|Scaliger|n.d.|Y|
+Q.S. 2.373|ἰλη-|ἰλαδὸν|Lorenz Rhodomann|1604|Y|
 Q.S. 2.408|ὃ|ὃς|Scaliger|n.d.|Y|
 Q.S. 2.408|om.|περ|Lorenz Rhodomann|1604|BR|
 Q.S. 2.426|μεθ-|καθημένη|Lorenz Rhodomann|1604|Marc. gr. Z 456 (V)|
@@ -1795,7 +1795,7 @@ Q.S. 7.15|τυκτὰ|πυκνὰ|Lorenz Rhodomann|1604|Lpr|
 Q.S. 7.16|σῆμ ̓ ἐβάλοντο|σῆμα βάλ-|Hermann Köchly|1850|Uac|
 Q.S. 7.61|-τῆρα|ἰητήρια|Scaliger|n.d.|PHc|
 Q.S. 7.69|-ντες|ἐκτελέσαντας|Lorenz Rhodomann|1604|Bruxell. 2946|
-Q.S. 7.206|δῖοι|Διὶ|Scaliger|n.d.|Neap. gr. II F 10 (P)|
+Q.S. 7.206|δῖοι|Διὶ|Lorenz Rhodomann|1604|Neap. gr. II F 10 (P)|
 Q.S. 7.224|-νοιο|ξείνοισι(ν)|T. C. Tychsen|1807|Vindob. phil. gr. 5 (R)|
 Q.S. 7.227|om.|alterum καὶ|Lorenz Rhodomann|1604|Lsl|
 Q.S. 7.242|-τον|ἐπήρατος|T. C. Tychsen|1807|Lsl|
@@ -1832,7 +1832,7 @@ Q.S. 13.26|ἂν φυτὰ|ἂμ φατὰ|Scaliger|n.d.|VLmgRpc|
 Q.S. 13.236||ὄμβριμον ἆορ||n.d.|Neap. gr. II F 10 (P)|?
 Q.S. 13.462||ΛΕΙΠΕΙ|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
 Q.S. 14.36|περιτρ-|περιγρύζουσι|Scaliger|n.d.|Hc|
-Q.S. 14.60|-τῆρα|ἰητήρια|Scaliger|n.d.|PRpc|
+Q.S. 14.60|ἐσβολ|ῇσι|ἐπεσβολίῃσι|Lorenz Rhodomann|1604|PRpc|
 Q.S. 14.205|ὅτε|ὅτι|Lorenz Rhodomann|1604|PHc|ὄτι Scal.?
 Q.S. 14.582|ἐγκεφάλοιο|Ἐγκελάδοιο|Lorenz Rhodomann|1604|Hc|
 Sall. hist. fr. 1.107 M|acc[]as|accitas|Gerlach|1856|Vindob. L 117 (Funari)|
