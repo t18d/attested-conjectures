@@ -195,13 +195,13 @@ Anaximen. Rh. 2.3|περιττῶς|τριττῶς|Bekker|1831|P.Hib. I 26|
 Anaximen. Rh. 4.1|-λωμεν|διέλθωμεν|Leonhard von Spengel|1844|P.Hib. I 26|
 Anaximen. Rh. 4.3|νόμος|ὁ ν.|Leonhard von Spengel|1844|P.Hib. I 26|
 Anaximen. Rh. 4.4|ἴσασι/εἰδῶσι|τιμῶσι|Leonhard von Spengel|1844|P.Hib. I 26|
-Ap. Rhod. 1.74|ἦεν κτλ.|ᾖεν|A. Platt|1914–9|Palat. gr. 186 (V)|
+Ap. Rhod. 1.74|ἦεν κτλ.|ᾖεν|Arthur Platt|1914–9|Palat. gr. 186 (V)|
 Ap. Rhod. 1.372|πρώραν|πρώειραν|Bergk|n.d.|Et.Gen.|
 Ap. Rhod. 1.749|ἀμειβό-|ἀμυνόμενοι|Jeremias Hoelzlin|1641|Laur. gr. 32.16 (S)|
 Ap. Rhod. 1.883|-κέως|ἐνδυκὲς|Rutgers|n.d.|Et.Gen.|
 Ap. Rhod. 1.941|-τον|Ἄρκτων|Hoelzlin|1641|schLa|
 Ap. Rhod. 1.990|φράξαν|φράσσον|Fränkel|1961|P.Oxy. LXIV 4414|
-Ap. Rhod. 1.990|-ίοιο|ἀπειρεσίῃσι|A. Platt|1914|P.Oxy. LXIV 4414|Journ. of Phil. 33 (1914) 12–3
+Ap. Rhod. 1.990|-ίοιο|ἀπειρεσίῃσι|Arthur Platt|1914|P.Oxy. LXIV 4414|Journ. of Phil. 33 (1914) 12–3
 Ap. Rhod. 2.119|μέλαν τεταγών|μάλ᾽ ἀντεταγών|Sanctamandus|n.d.|P.Oxy. XXXIV 2697|
 Ap. Rhod. 2.171|νεφ-|λαιφέων|Naber|n.d.|P.Oxy. LXXXIV 5417|
 Ap. Rhod. 2.177|βιθυνηίδι|θυνηίδι|Meineke|n.d.|schL lm.|
@@ -210,7 +210,7 @@ Ap. Rhod. 2.906|-νάσσατο|κατενίσσετο|Naber|n.d.|P.Oxy. LXXXIV 
 Ap. Rhod. 2.921|ἔδυνε μέλαν|ἔδυ μέλανα|Bywater|n.d.|P.Oxy. XXXIV 2694|] μελανα
 Ap. Rhod. 2.926|-οντο|χεύαντο|Brunck|1780|Et.|
 Ap. Rhod. 2.989|ἔ. μέμηλε(ν)|ἔργα μεμήλει|Brunck|1780|P.Oxy. LXXXIV 5417|]γ̣’ ε̣μεμη̣λει; hoc flagitat temporum ratio
-Ap. Rhod. 2.1017|habent|del.|A. Platt|1914–9|P.Oxy. LXXXIV 5417|
+Ap. Rhod. 2.1017|habent|del.|Arthur Platt|1914–9|P.Oxy. LXXXIV 5417|
 Ap. Rhod. 2.1260|ἀλημο-|δαημοσύνῃσιν|d'Arnaud|1730|marg. E2|
 Ap. Rhod. 3.158|-ροιο|μεγάλοιο|Eduard Gerhard|1816|Strassb.|
 Ap. Rhod. 3.201|-μαδοί|πρόμαλοι|Henri Estienne|1574|Et.Gen. et EM|
