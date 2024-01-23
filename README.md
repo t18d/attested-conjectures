@@ -107,7 +107,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (106), Markland (79), Valckenaer (72), Nicolaus Heinsius (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Elmsley (44).</p>
+<p>The top 10 critics are Scaliger (123), Markland (79), Valckenaer (72), Nicolaus Heinsius (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Elmsley (44).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1673,21 +1673,38 @@ Q.S. 1.804|πὰρ κ.|παρκατέθαψαν|Scaliger|n.d.|Y|
 Q.S. 1.806|ἀμφὶ|σφὶ|Scaliger|n.d.|Y|
 Q.S. 1.827|σκίδν-|ἐκίδνατο|Scaliger|n.d.|Y|
 Q.S. 2.1|-χεόντων|ὑπερηχηέντων|Lorenz Rhodomann|1604|Cantab. Corp. Chr. coll. 81 (C)|
+Q.S. 2.30|πω|που|Scaliger|n.d.|Y|
+Q.S. 2.34|νυ|ἦ νύ οἱ|Scaliger|n.d.|Y|
 Q.S. 2.51|μὴ δέ τι πάτρην|μήδ’ ἐπὶ πάτρης|Scaliger|n.d.|Marc. gr. Z 456 (V)|
+Q.S. 2.71|-α|πάντων|Scaliger|n.d.|Y|
 Q.S. 2.115|μητρὸς|μητέρος|Scaliger|n.d.|BslR|
+Q.S. 2.130|ἅπαντας|ἅμα πάντας|Scaliger|n.d.|Y|
 Q.S. 2.154|μάχεσθ-|μαχέσασθαι|Scaliger|n.d.|Rpc|
+Q.S. 2.157|θέλ-|ἐθέλεις|Scaliger|n.d.|Y|
 Q.S. 2.168|-έμω|πολέων|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
+Q.S. 2.175|μηδὲν|μηδὲ|Scaliger|n.d.|Y|μὴ δὲ Y
 Q.S. 2.299|-τε|βεβαῶτα|Hermann Köchly|1850|Neap. gr. II F 10 (P)|
 Q.S. 2.314|-γου|μόθου|Hermann Köchly|1850|Vindob. phil. gr. 5 (R)|
 Q.S. 2.331|διήρη-|δίηται|Scaliger|n.d.|YHc|
+Q.S. 2.373|ἰλη-|ἰλαδὸν|Scaliger|n.d.|Y|
+Q.S. 2.408|ὃ|ὃς|Scaliger|n.d.|Y|
 Q.S. 2.408|om.|περ|Lorenz Rhodomann|1604|BR|
 Q.S. 2.426|μεθ-|καθημένη|Lorenz Rhodomann|1604|Marc. gr. Z 456 (V)|
 Q.S. 2.436|-ρηΐδ-|Νηρεΐδας|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
+Q.S. 2.439|δὴ μαί-|δειμαίνεσκε|Scaliger|n.d.|YUQ|
+Q.S. 2.441|-που|Οὐλύμποιο|Scaliger|n.d.|Y|
+Q.S. 2.464|om.|δὲ|Scaliger|n.d.|Y|
 Q.S. 2.495|ὑπ-|ἐπέβραχεν|Franz Spitzner|1839|Neap. gr. II E 24 (L)|Pforte
 Q.S. 2.509|δ. δ ̓ ἄρ’|δοιαὶ ἄρ’|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
+Q.S. 2.535|τρε-|χρεμέθοντες|Scaliger|n.d.|Y|
+Q.S. 2.545|-χε|βράχεν|Scaliger|n.d.|Y|
 Q.S. 2.562|-τώδης|αἱματόεις|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
+Q.S. 2.566|τυπο-|πυθομένους|Scaliger|n.d.|Y|
+Q.S. 2.573|ὑπ ̓ ἠερίοιο φέρεσθαι|ὑπηέριοι φορέεσθαι|Scaliger|n.d.|Y|
 Q.S. 2.595|δυώδεκα|δυοκαίδεκα|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
+Q.S. 2.609|-ον|φίλε|Scaliger|n.d.|Y|
 Q.S. 2.658|-ουσ'|εἰσανόρουσεν|Scaliger|n.d.|CpcB|
+Q.S. 2.664|ἐέργει|ἔχει|Scaliger|n.d.|Y|
 Q.S. 3.94|διάνδιχα|διὰ δ ̓ ἄνδιχα|Eduard Gerhard|1816|Lsl|
 Q.S. 3.110|-τεροῖο|κραταιοῦ|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
 Q.S. 3.154|κέασε|-σσε|Constantine Lascaris|1496|LslR|
