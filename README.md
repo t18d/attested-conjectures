@@ -107,7 +107,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (135), Markland (79), Valckenaer (72), Nicolaus Heinsius (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Elmsley (44).</p>
+<p>The top 10 critics are Scaliger (140), Markland (79), Valckenaer (72), Nicolaus Heinsius (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Elmsley (44).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1736,9 +1736,13 @@ Q.S. 3.495|-νοιο|καταφθιμένου|Scaliger|n.d.|Vindob. phil. gr. 5 
 Q.S. 3.496|-νέεσσιν|δυσμενέσιν|Scaliger|n.d.|YHc|
 Q.S. 3.499|τοι|τι|Hermann Köchly|1850|Lpr|
 Q.S. 3.499|-οις|λόγοισι|Scaliger|n.d.|YC|
+Q.S. 3.501|ὡς|ὃς|Scaliger|n.d.|Y|
+Q.S. 3.527|-τες … λέοντος|θέντας … λέβητας|Scaliger|n.d.|Y|
+Q.S. 3.531|-τες|πάντα|Scaliger|n.d.|Y|
 Q.S. 3.582|ὀρινομένοιο|ὀ. γόοιο|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
 Q.S. 3.610|εὐρέ-|εὐρυρέεθρος|Scaliger|n.d.|PR|
 Q.S. 3.621|μοι|με|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
+Q.S. 3.710|πυρὶ|πυρῇ|Scaliger|n.d.|Y|
 Q.S. 3.783|om.|δέ|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
 Q.S. 4.140|εἰς|ἐς|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
 Q.S. 4.144|-λέος|Νηλῆος|Scaliger|n.d.|Rpc|
@@ -1775,6 +1779,7 @@ Q.S. 7.227|om.|alterum καὶ|Lorenz Rhodomann|1604|Lsl|
 Q.S. 7.242|-τον|ἐπήρατος|T. C. Tychsen|1807|Lsl|
 Q.S. 7.262|σοι|σοὶ|Hermann Köchly|1850|Neap. gr. II F 11 (N)|
 Q.S. 7.306|-φέρονται|συμφορέονται|Scaliger|n.d.|Neap. gr. II E 24 (L)|
+Q.S. 7.397|om.|δὴ|Scaliger|n.d.|Y|
 Q.S. 7.509|-σι|ἀμύνουσιν|Constantine Lascaris|1496|BLpcRsl|
 Q.S. 7.521|ὑπο-|ὕπο|T. C. Tychsen|1807|Scorial. Σ II 8 (E)|
 Q.S. 7.534|μενεπτ-|Νεοπτόλεμον|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
