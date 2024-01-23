@@ -107,7 +107,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (145), Markland (79), Valckenaer (72), Nicolaus Heinsius (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Elmsley (44).</p>
+<p>The top 10 critics are Scaliger (151), Markland (79), Valckenaer (72), Nicolaus Heinsius (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Elmsley (44).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1763,16 +1763,22 @@ Q.S. 4.465|ἐφάλματος|ἐφ ̓ ἅλματι|Lorenz Rhodomann|1604|Rpc|
 Q.S. 4.469|χείρεσ ̓|χερσὶν|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
 Q.S. 4.537|om.|δρόμου|Lorenz Rhodomann|1604|Neap. gr. II F 10 (P)|
 Q.S. 4.558|om.|ἐκέκλετο|Lorenz Rhodomann|1604|Neap. gr. II F 10 (P)|
+Q.S. 5.52|-ντες|πάντῃ|Scaliger|n.d.|Neap. gr. II F 10 (P)|
 Q.S. 5.63|ἐφέσπ-|ἐφέποντο|Constantine Lascaris|1496|PR|
+Q.S. 5.120|-έου|Ἑκτορέοιο|Scaliger|n.d.|PHc|
 Q.S. 5.126|-χη|τεύχε ̓|Hermann Köchly|1850|Neap. gr. II E 24 (L)|
 Q.S. 5.126|ἄρτια|ἄρμενα|Heyne|1807|Vindob. phil. gr. 5 (R)|apud Tychsen
+Q.S. 5.152|πείθ-|πίθεσθε|Scaliger|n.d.|Neap. gr. II F 10 (P)|
+Q.S. 5.170|δηιό-|δηριόωνται|Scaliger|n.d.|Neap. gr. II F 10 (P)|
 Q.S. 5.190|ἀμφὶ μέμηλε/ἀμφικάμηλε|ἀμφιμέμηλε|Constantine Lascaris|1496|Hc|
 Q.S. 5.190|σοι … θάρσος|σοὶ … θράσος|Scaliger|n.d.|Marc. gr. Z 456 (V)|
 Q.S. 5.217|δείδιες|περιδείδιες|Scaliger|n.d.|LslR|
+Q.S. 5.229|-οτε|ἐριδμαίνοντε|Scaliger|n.d.|PHc|
 Q.S. 5.263|τε|δὲ|Scaliger|n.d.|R et Bruxell. 2946–50|
 Q.S. 5.287|-η|ἐγχείην|Constantine Lascaris|1496|Vindob. phil. gr. 5 (R)|
 Q.S. 5.354|ἔντεσι|ἔντεσιν|Scaliger|n.d.|Marc. gr. Z 456 (V)|
 Q.S. 5.422|ἀασσάμεθα|ἀασάμεσθα|Scaliger|n.d.|HcLR|
+Q.S. 5.439|ἀρνεῖο|ἀρνειοῖο|Scaliger|n.d.|Neap. gr. II F 10 (P)|
 Q.S. 5.446|τοκῆες|τοκέες|Scaliger|n.d.|LprR|
 Q.S. 5.536|χεῖρ-|κῆρες|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
 Q.S. 6.150|ὡς|ὣς|Hermann Köchly|1850|DU|
