@@ -1581,7 +1581,7 @@ Pi. P. 3.166 schol.|ἐν κῷ|ἐν Ἴκῳ|Brodaeus|n.d.|DEGQ|Epigr. Gr. 154
 Pi. P. 6.14|-οι/-ος|τυπτόμενον|Dawes|n.d.|P.Oxy. LXXV 5039|
 Pi. Pae. 9.4|ἰσχὺν πτανὸν (ἀν)δράσιν|ἰσχύν τ'ἀνδράσι(ν)|Blass|n.d.|P.Oxy. V 841|
 Pl. Chrm. 173b|(μὴ) ὑγιέσιν|η υ̣γιεϲ̣[ιν|Heindorf|n.d.|P.Oxy. LXXVI 5082|
-Pl. Crit. 48e|πείσαι κτλ.|πείσας|Buttmann|n.d.|Vat. gr. 225 (V)|
+Pl. Crit. 48e|πείσαι κτλ.|πείσας|Philip Buttmann|1830|Vat. gr. 225 (V)|
 Pl. Phd. 82e|τῳ δεδέσθαι|τοῦ δεδέσθαι|Heindorf|1810|P.Lond.Lit. 145 (inv. 488)|
 Pl. Phdr. 228b|πάνυ τις|πάνυ τι|Schanz|n.d.|P.Oxy. VII 1016|
 Pl. Phdr. 239a|τῶν|τοῖς|Heindorf|n.d.|P.Oxy. VII 1017|
@@ -2128,7 +2128,7 @@ Soph. Ant. 1236|μέσσον/μέσον/ἐς|ἐν|Wecklein|n.d.|SZot|
 Soph. Ant. 1237|παρθένῳ|-ον|Brunck|1786–9|Paris. gr. 2884 (Ζf)|
 Soph. Ant. 1238|ἐκβάλλει|ἐμβάλλει|Markland|s.xviii med.|Berol. Phillips 1588|
 Soph. Ant. 1337|προσεύχου|κατ-|Benedict|n.d.|Vat. gr. 1333 (Zc)|
-Soph. Ant. 1337-8|Ἄγγελος|choro trib.|Buttmann|n.d.|Ambr. C. 24 sup. et Monac. gr. 500|
+Soph. Ant. 1337-8|Ἄγγελος|choro trib.|Philip Buttmann|1822?|Ambr. C. 24 sup. et Monac. gr. 500|
 Soph. Ant. 1350|μηδὲν|μηδέν’|Markland|s.xviii med.|MSS|
 Soph. El. 21|ξυνάπτετον|-έον|Jonathan Toup|s.xviii med.|Paris. gr. 2884 (Ζf)|
 Soph. El. 87|ἰσόμοιρ ̓|-μοιρος|Porson|n.d.|p|
@@ -2283,7 +2283,7 @@ Soph. Phil. 1095|οὐκ|κοὐκ|Erfurdt|n.d.|SQ|
 Soph. Phil. 1138|ὅσ ̓|ὅς|F. H. Bothe|n.d.|Marc. gr. 468 (V)|
 Soph. Phil. 1144|ἐφημοσύνᾳ/εὐφ-|ὑφ-|Hermann|n.d.|Marc. gr. 616 (Zr)|
 Soph. Phil. 1238|ταῦτα|ταὐτὰ|Markland|s.xviii med.|LGRS|
-Soph. Phil. 1243|τοῖσδ ̓|τοῖς|Buttmann|n.d.|z|
+Soph. Phil. 1243|τοῖσδ ̓|τοῖς|Philip Buttmann|1822|z|
 Soph. Phil. 1289|-ιστον|ὑψίστου|Wakefield|n.d.|VTa|
 Soph. Phil. 1330|ὡς|ἕως|Denys Lambin|n.d.|Paris. suppl. gr. 109 (Q)|
 Soph. Phil. 1362|δ'|γ'|Frederick H. M. Blaydes|n.d.|VQ|
