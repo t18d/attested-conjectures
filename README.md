@@ -371,9 +371,9 @@ Ar. Vesp. 1413|-ειν|κλητεύεις|Bergler|n.d.|Paris. gr. 2715 (B)|
 Ar. Vesp. 1424|πράγμ-|τραύματος|Reiske|n.d.|Paris. gr. 2715 (B)|
 Ar. fr. 135|-ειψεν/ἡμεῖς|ἤμει|Bekker|1829|Phot. Szac|
 Ar. fr. 471|καὶ τῶν βελέκκων|βελέκκων|Theodor Kock|1880|P.Oxy. XV 1801|CAF I
-Arat. Phaen. 736|ἰοῦσα|ἄγουσα|Buttman|n.d.|BKT V/I 7503 + 7804|
-Arat. Phaen. 750|ἐμπλήσει|ἐμπλήσσει|Voss|n.d.|BKT V/I 7503 + 7804|
-Arat. Phaen. 870|φαίνονται|φαίνωνται|Voss|n.d.|BKT V/I 7503 + 7804|
+Arat. Phaen. 736|ἰοῦσα|ἄγουσα|Philip Buttmann|1826|BKT V/I 7503 + 7804|
+Arat. Phaen. 750|ἐμπλήσει|ἐμπλήσσει|J. H. Voss|1824|BKT V/I 7503 + 7804|
+Arat. Phaen. 870|φαίνονται|φαίνωνται|J. H. Voss|1824|BKT V/I 7503 + 7804|
 Archil. fr. 4.6|ἀλλά τε|ἀλλ᾽ ἄγε|Musurus|n.d.|P.Oxy. VI 854|
 Arist. fr. 57.12 Rose|οὔτε|ουδε|Meineke|1839–57|P.Oxy. IV 666|
 Arist. fr. 842.7 Page|τ᾽ ἀθάνατον/εἰς ἀ.|ἰσαθάνατον|Wilamowitz|n.d.|BKT I 25|Did. in D. col. 6.18 seqq.
