@@ -107,7 +107,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (159), Markland (79), Valckenaer (72), Nicolaus Heinsius (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Elmsley (44).</p>
+<p>The top 10 critics are Scaliger (163), Markland (79), Valckenaer (72), Nicolaus Heinsius (72), Bentley (69), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Elmsley (44).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1814,19 +1814,26 @@ Q.S. 7.572|οὐδὲ|οἳ δὲ|Scaliger|n.d.|Neap. gr. II F 10 (P)|
 Q.S. 7.625|-λκέος|δυσαλγέος|J. C. de Pauw|1734|Brux. gr. 11.400 (B)|
 Q.S. 8.45|τε καὶ|καὶ|T. C. Tychsen|1807|Urb. gr. 147 (U)|
 Q.S. 8.57|ὑπεχρεμέτιζον|ἐπ-|Hermann Köchly|1850|Brux. gr. 11.400 (B)|
+Q.S. 8.72|συνέφεας|σὺν νέφεα|Lorenz Rhodomann|1604|Neap. gr. II F 10 (P)|
 Q.S. 8.88|δάμνατ ̓|δάμνατο δ ̓|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
 Q.S. 8.438–9|habent|del.|Scaliger|n.d.|Ambros. D 528 inf. (D)|
 Q.S. 8.486|-χε ̓ ἔθεντο|τεύχεα θέντο|Hermann Köchly|1850|Brux. gr. 11.400 (B)|
 Q.S. 9.56|ἴδ-|εἶδον|Constantine Lascaris|1496|BL|
 Q.S. 9.288|ἀνὴρ|ἄρης|Lorenz Rhodomann|1604|Vindob. phil. gr. 5 (R)|
 Q.S. 9.368|ἀφίκεται|-κετο|Arthur Platt|1901|Vindob. phil. gr. 5 (R)|
+Q.S. 9.449|//// έσκον|ἄγεσκον|Lorenz Rhodomann|1604|Neap. gr. II F 10 (P)|
 Q.S. 9.499|πᾶσαν τ ̓|πᾶσαν|Lorenz Rhodomann|1604|LR|
 Q.S. 9.519|ἐμοῖο|ἐμεῖο|Scaliger|n.d.|VNR|
+Q.S. 10.109|-τῆρα|ἰητήρια|Scaliger|n.d.|PHc|
+Q.S. 10.194|παύσοιτο|πεπότητο|Scaliger|n.d.|Neap. gr. II F 10 (P)|
 Q.S. 10.481|Οἰνώνην … βελέεσσιν|Εὐάδνην ... μελέεσσιν|Lorenz Rhodomann|1604|Cpc|
+Q.S. 11.194|-τῆρα|ἰητήρια|Scaliger|n.d.|PHc|
 Q.S. 13.26|ἂν φυτὰ|ἂμ φατὰ|Scaliger|n.d.|VLmgRpc|
+Q.S. 13.236||ὄμβριμον ἆορ||n.d.|Neap. gr. II F 10 (P)|?
 Q.S. 13.462||ΛΕΙΠΕΙ|Scaliger|n.d.|Vindob. phil. gr. 5 (R)|
 Q.S. 14.36|περιτρ-|περιγρύζουσι|Scaliger|n.d.|Hc|
-Q.S. 14.205|ὅτε|ὅτι|Lorenz Rhodomann|1604|Hc|ὄτι Scal.?
+Q.S. 14.60|-τῆρα|ἰητήρια|Scaliger|n.d.|PRpc|
+Q.S. 14.205|ὅτε|ὅτι|Lorenz Rhodomann|1604|PHc|ὄτι Scal.?
 Q.S. 14.582|ἐγκεφάλοιο|Ἐγκελάδοιο|Lorenz Rhodomann|1604|Hc|
 Sall. hist. fr. 1.107 M|acc[]as|accitas|Gerlach|1856|Vindob. L 117 (Funari)|
 Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Bergk|1835|FP|κωϋ κεθέλουσα F: κ’ ώυ κ’ ἐθέλοις P
