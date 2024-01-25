@@ -68,6 +68,7 @@
         <li>Krans-Plaisier, Jan, '<a href="http://vuntblog.blogspot.com/2023/12/amsterdam-database-conjectures-with.html">Amsterdam Database: Conjectures with Attestation</a>', the Amsterdam NT Weblog (2 Dec. 2023), accessed 14 Dec. 2023.</li>
         <li>La Penna, Antonio, and Rodolfo Funari (eds), <em>C. Sallusti Crispi Historiae</em>, i: <em>Fragmenta 1.1–146</em> (Berlin, 2015).</li>
         <li>Luck, Georg (ed.), <em>Albii Tibulli aliorumque carmina</em> (Stuttgart, 1998).</li>
+        <li>Manilius, M., <em>Astronomica</em>, ed. George P. Goold (Stuttgart, 1998).</li>
         <li>Markus, D., and G. Schwendner, 'Seneca’s Medea in Egypt (663–704)', <em>ZPE</em>, 117 (1997), 73–84.</li>
         <li>Marshall, P. K., <em>The Manuscript Tradition of Cornelius Nepos (BICS Suppl. No. 37)</em> (Oxford, 1977), 43.</li>
         <li>Oppianus Apameensis, <em>Cynegetica</em>, ed. Manolis Papathomopoulos (Munich, 2003).</li>
@@ -75,7 +76,7 @@
         <li>Ovidius Naso, P., <em>Metamorphoses</em>, ed. R. J. Tarrant (Oxford, 2004).</li>
         <li>Ovidius Naso, P., <em>Carmina amatoria</em>, ed. Antonio Ramírez de Verger (Munich, 2006).</li>
         <li>Page, D. L. (ed.), <em>Poetae melici Graeci</em> (Oxford, 1967).</li>
-        <li>Persius Flaccus, A., and D. Iunius Iuvenalis, <em>Saturae</em>, ed. W. V. Clausen (Stuttgart, 1966).</li>
+        <li>Persius Flaccus, A., and D. Iunius Iuvenalis, <em>Saturae</em>, ed. W. V. Clausen (Oxford, 1966).</li>
         <li>Photius, <em>Patriarchae lexicon</em>, ed. Christos Theodoridis, 3 vols (Berlin, 1982–2013).</li>
         <li>Propertius, Sextus, <em>Elegi</em>, ed. S. J. Heyworth (Oxford, 2007).</li>
         <li>Quintus de Smyrne, <em>La Suite d'Homère</em>, ed. Francis Vian, 2 vols (Paris, 1963–6).</li>
