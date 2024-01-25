@@ -109,7 +109,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (171), Bentley (80), Markland (79), Valckenaer (72), Nicolaus Heinsius (72), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Lorenz Rhodomann (45).</p>
+<p>The top 10 critics are Scaliger (175), Bentley (80), Markland (79), Valckenaer (72), Nicolaus Heinsius (72), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Lorenz Rhodomann (45).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1217,6 +1217,13 @@ Manil. 3.571|bi-|bessem|Scaliger|1579|Matrit. 3678 (M)|
 Manil. 4.182|rapto/uictor|uicto|Scaliger|1600|Marc. lat. XII 69 (b)|
 Manil. 4.223|-arant/-errant|peragrant|Ellis|1893|cod. Venetus (V)|
 Manil. 4.253|-re|frigora|Michael Fayus|1679|LMV|
+Manil. 4.269|-es|fontis|Salmasius|1629|cod. Venetus (V)|
+Manil. 4.285|euertere|euerrere|Scaliger|1579|Matrit. 3678 (M)|
+Manil. 4.290|nautis|natis|Scaliger|1600|LMV|
+Manil. 4.304|-no|caeco|Scaliger|1579|Matrit. 3678 (M)|
+Manil. 4.322|quis-|quicquam|Housman|1903|Lips. 1465 (L)|
+Manil. 4.335|cum|cui|Scaliger|1579|Matrit. 3678 (M)|
+Manil. 4.531|quae|qua|Housman|1903|Bodl. Auct. F. 4.34 (d)|
 Marcellin. Vit. Thuc. 1|ἀνὴρ|ὁ ἀνὴρ|Casaubon|1588|Turon. 980 (T)|
 Marcellin. Vit. Thuc. 7|πρόσκ-|πρόκλησιν|Hude|1898|Vat. gr. 1302 (Vg)|
 Marcellin. Vit. Thuc. 38|εἰσαγό-|εἰσαγαγόντων|E. F. Poppo|1843|Ambros. I 25 sup. (Ab)|
