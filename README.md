@@ -491,10 +491,12 @@ Cic. dom. 39|infirma sunt|infirmas|Madvig|1873|P1|
 Cic. fin. 1.59|immanes|inanes|Madvig|1876|Vat. lat. 1759 (V)|
 Cic. fin. 2.54|scipioni|caepioni|P. Manutius|1583|A R MV|
 Cic. fin. 2.112|Athoque|Athone|P. Manutius|1583|R PLS NV Β|
-Cic. fin. 3.12|siis etc.|iis|Madvig|1876|Ambros. C. 55. inf. (Y)|
+Cic. fin. 3.12|siis|iis|Madvig|1876|Ambros. C. 55. inf. (Y)|
 Cic. fin. 3.44|-im|separatum|Madvig|1876|PS (Moreschini)|
 Cic. fin. 3.126|adf-|confirmare|Orelli|1828|recc.|
 Cic. fin. 4.11|qua hi/que hic|qua et hi|Madvig|1876|Vat. lat. 1759 (V)|
+Cic. fin. 4.33|-ale|naturarum|P. Manutius|1583|recc.|
+Cic. fin. 5.23|t. tamquam/tamquam t.|tranquillitas|Madvig|1876|Vat. lat. 1759 (V)|
 Cic. orat. 12|-a|instructus|P. Reis|1932|Budap. bibl. nat. lat. 148 (Bud.)|
 Cic. orat. 16|-is|oratori|J. A. Ernesti|1774–7|N2|
 Cic. orat. 21|aequali-|aequabilitatem|P. Manutius|1546|H Bud.|
