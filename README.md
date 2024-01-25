@@ -33,6 +33,7 @@
         <li>Cicero, M. Tullius, <em>Oratio pro P. Quinctio</em>, ed. Michael D. Reeve (Leipzig, 1992).</li>
         <li>Cicero, M. Tullius, <em>Oraliones in P. Vatinium testem et Pro M. Caelio</em>, ed. Tadeusz Maslowski (Stuttgart, 1995).</li>
         <li>Cicero, M. Tullius, <em>Oraliones in L. Catilinam quattuor</em>, ed. Tadeusz Maslowski (Munich, 2003).</li>
+        <li>Cicero, M. Tullius, <em>De finibus bonorum et malorum</em>, ed. Claudio Moreschini (Munich, 2005).</li>
         <li>Clark, Albert C., <em>Anecdota Oxoniensia</em>, x: <em>The Vetus Cluniacensis of Poggio</em> (Oxford, 1905).</li>
         <li>Demosthenes, <em>Orationes</em>, ed. M. R. Dilts, 4 vols (Oxford, 2002–9).</li>
         <li>Diggle, James, 'Apologies to Bothe (and Others)', in <em>Euripidea: collected essays</em> (Oxford, 1994), 518–23.</li>
