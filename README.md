@@ -488,6 +488,9 @@ Cic. div. 2.111|primi(s) versus|primis versuum|Jean Dorat|s.xvi med.|codd. dett.
 Cic. div. 2.145|-unt|viderint|Franz Skutsch|1912|Marc. lat. 257 (F)|Glotta p. 367; Schwanengesang
 Cic. div. in Caec. 46|-em … -em|more … religione|Gronovius|n.d.|P.Ryl. III 477|m1
 Cic. dom. 39|infirma sunt|infirmas|Madvig|1873|P1|
+Cic. fin. 2.54|scipioni|caepioni|P. Manutius|1583|A R MV|
+Cic. fin. 2.112|Athoque|Athone|P. Manutius|1583|R PLS NV Β|
+Cic. fin. 3.126|adf-|confirmare|Orelli|1828|recc.|
 Cic. orat. 12|-a|instructus|P. Reis|1932|Budap. bibl. nat. lat. 148 (Bud.)|
 Cic. orat. 16|-is|oratori|J. A. Ernesti|1774–7|N2|
 Cic. orat. 21|aequali-|aequabilitatem|P. Manutius|1546|H Bud.|
