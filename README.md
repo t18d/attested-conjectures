@@ -109,7 +109,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (166), Markland (79), Bentley (78), Valckenaer (72), Nicolaus Heinsius (72), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Lorenz Rhodomann (45).</p>
+<p>The top 10 critics are Scaliger (167), Markland (79), Bentley (78), Valckenaer (72), Nicolaus Heinsius (72), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Lorenz Rhodomann (45).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1205,6 +1205,9 @@ Manil. 2.277|-ur|partitus|Scaliger|1600|Matrit. 3678 (M)|
 Manil. 2.291|hunc|hinc|Matthaeus Lannoius|1590|Matrit. 3678 (M)|apud Junium
 Manil. 2.314|-ue|-que|Bentley|1739|Matrit. 3678 (M)|
 Manil. 2.331|-as|trigona|Scaliger|1579|Matrit. 3678 (M)|
+Manil. 2.399|manent|ualent|Scaliger|1579|GL2M|
+Manil. 2.552|-um|gemini|Housman|1903|Marc. lat. XII 69 (b)|
+Manil. 2.907|aut|amat|Laurentius Bonincontrius|1484|Palat. Junii (q)|
 Manil. 4.223|-arant/-errant|peragrant|Ellis|1893|cod. Venetus (V)|
 Manil. 4.253|-re|frigora|Michael Fayus|1679|LMV|
 Marcellin. Vit. Thuc. 1|ἀνὴρ|ὁ ἀνὴρ|Casaubon|1588|Turon. 980 (T)|
