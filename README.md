@@ -1242,6 +1242,7 @@ Manil. 5.388|haeserit|has erit|Scaliger|1579|Matrit. 3678 (M)|
 Manil. 5.438|-os|adnumeres|Thomas Reinesius|1655|cod. Venetus (V)|
 Manil. 5.479|tanto|tacito|Ludovicus Carrio|1576|Matrit. 3678 (M)|
 Manil. 5.617|condi-|concidit|Caspar von Barth|1624|Matrit. 3678 (M)|
+Manil. 5.641|uel bis/uel lebis|-ue leuis|Friedrich Jacob|1846|cod. Venetus (V)|
 Marcellin. Vit. Thuc. 1|ἀνὴρ|ὁ ἀνὴρ|Casaubon|1588|Turon. 980 (T)|
 Marcellin. Vit. Thuc. 7|πρόσκ-|πρόκλησιν|Hude|1898|Vat. gr. 1302 (Vg)|
 Marcellin. Vit. Thuc. 38|εἰσαγό-|εἰσαγαγόντων|E. F. Poppo|1843|Ambros. I 25 sup. (Ab)|
