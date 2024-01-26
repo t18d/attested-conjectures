@@ -110,7 +110,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Bentley (82), Markland (79), Nicolaus Heinsius (73), Valckenaer (72), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Lorenz Rhodomann (45).</p>
+<p>The top 10 critics are Scaliger (187), Bentley (83), Markland (79), Nicolaus Heinsius (76), Valckenaer (72), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Lorenz Rhodomann (45).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1189,6 +1189,12 @@ Lucan. 3.564|-a ē/et|percussae|Jan Rutgersius|1618|ZM|
 Lucan. 4.562|-is … m.|iuguli … manum|Gronovius|n.d.|ZM|
 Lucan. 5.210|-a est|locutae|Pieter Burman I|1740|ΩC|
 Lucan. 5.372|timet|tenet|Bentley|n.d.|NZMGc|
+Lucan. 5.443|ri-|regente|Bentley|n.d.|M2|
+Lucan. 6.293|aetnaeis|hennaeis|Nicolaus Heinsius|1742|ZM|
+Lucan. 6.330|-duxit/-uertit|condixit|Nicolaus Heinsius|1742|NZMP|'pro edixit'
+Lucan. 6.558|si|sic|Sebastian Gryphius|n.d.|Paris. 7900A (Q)|
+Lucan. 7.780|desci-|desisset|Grotius|1614–39|GVa|
+Lucan. 8.311|-unt|fallent|Nicolaus Heinsius|1742|ZMc|
 Lyc. Alex. 158|γυίας|γύας|Reichlin|n.d.|P.Oxy. LXIV 4428|
 Macr. Sat. 5.19.8|-ΤΡΑΙ|ΚΑΛΥΠΤΑΙ|Valckenaer|1767|TRFA|Diatr. 167C
 Manil. 1.229|-et|deficeres|Bentley|1739|cod. Venetus (V)|
