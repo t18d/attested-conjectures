@@ -1742,7 +1742,9 @@ Prop. 2.8.8|-is|uinces|Authur Palmer|1883|recc.|
 Prop. 2.9.41|sunt|sint|Pieter Burman II|1780|recc.|
 Prop. 2.10.11|-a|anime|Nicolaus Heinsius|1742|Salmant. 86|
 Prop. 2.15.1|o nox|nox ο|Francesco Pucci|1827|recc.|
+Prop. 2.23.4|promi-|commissa|Philippus Beroaldus|1486|recc.|
 Prop. 2.26.54|uor-/uac-|uocans|Housman|1888|Monac. Vniu.Cim.22 (S)|
+Prop. 3.3.17|hic|hinc|Antonius Volscus|1488|recc.|
 Q.S. 1.33|om.|ἕποντο|Scaliger|n.d.|Y|
 Q.S. 1.71|πόλ-|πτόλεμον|Scaliger|n.d.|Y|
 Q.S. 1.77|ἠὲ|ἢ|Scaliger|n.d.|Y|
@@ -2902,7 +2904,7 @@ Tib. 4.10.3|sit|si|Nicolaus Heinsius|1708|Palat. lat. 910 (P)|apud Broukhusium
 Tib. 4.10.3|togae|toga est|Nicolaus Heinsius|1708|Berol. Diez R. Sant. 21 (E)|apud Broukhusium
 Tib. 4.10.6|cre-|cedam|Achilles Statius|1567|Monac. Clm 14.486 (M)|
 Tib. 4.11.1|placitura|pia cura|Nicolaus Heinsius|1661|Leid. Voss. lat. 0.42|ad Ov. trist. 2.514
-Tib. 4.11.5|quid|si|Franciscus Puccius|1502|G2V2|
+Tib. 4.11.5|quid|si|Francesco Pucci|1502|G2V2|
 Tib. 4.13.5|-es|possis|Nicolaus Heinsius|1708|Berol. Diez R. Sant. 21 (E)|apud Broukhusium
 Tib. 4.13.15|haec tibi/haec per|per tibi|Nicolaus Heinsius|1658|exc. Pocchi et Petrei|ad Ov. am. 3.2.61
 Verg. Aen. 1.646|-i|caro|Emil Baehrens|1887|P.Ryl. III 478|τιμίῳ
