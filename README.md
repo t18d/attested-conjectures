@@ -1742,7 +1742,7 @@ Prop. 2.8.8|-is|uinces|Authur Palmer|1883|recc.|
 Prop. 2.9.41|sunt|sint|Pieter Burman II|1780|recc.|
 Prop. 2.10.11|-a|anime|Nicolaus Heinsius|1742|Salmant. 86|
 Prop. 2.15.1|o nox|nox ο|Francesco Pucci|1827|recc.|
-Prop. 2.23.4|promi-|commissa|Philippus Beroaldus|1486|recc.|
+Prop. 2.23.4|promi-|commissa|Philippus Beroaldus I|1486|recc.|
 Prop. 2.26.54|uor-/uac-|uocans|Housman|1888|Monac. Vniu.Cim.22 (S)|
 Prop. 3.3.17|hic|hinc|Antonius Volscus|1488|recc.|
 Prop. 3.3.31|turba|cura|Jean Passerat|1608|recc.|
@@ -1753,10 +1753,10 @@ Prop. 3.16.23|huc|haec|François Guyet|1742|recc.|apud Heinsium
 Prop. 3.20.4|-isne|tantine|Gronovius|1662|Berol. lat. 500|
 Prop. 3.22.25|-ii|socia|Francesco Pucci|1827|recc.|
 Prop. 3.24.12|uerba|uera|Johannes Livineius|1621|Vat. Chig. Η IV 123|
-Prop. 4.3.8|-us|munito|Philippus Beroaldus|1486|Berol. lat. 500|
+Prop. 4.3.8|-us|munito|Philippus Beroaldus I|1486|Berol. lat. 500|
 Prop. 4.5.76|hunc|hanc|Marcus Antonius Pocchus|1502|recc.|
 Prop. 4.5.77|c(a)edito|caedite|Johannes Livineius|1621|recc.|
-Prop. 4.8.28|-it|uolui|Philippus Beroaldus|1486|recc.|
+Prop. 4.8.28|-it|uolui|Philippus Beroaldus I|1486|recc.|
 Q.S. 1.33|om.|ἕποντο|Scaliger|n.d.|Y|
 Q.S. 1.71|πόλ-|πτόλεμον|Scaliger|n.d.|Y|
 Q.S. 1.77|ἠὲ|ἢ|Scaliger|n.d.|Y|
@@ -2564,7 +2564,7 @@ Tac. hist. 4.10|adulationi|ad ultionem|Gabriele Faerno|1595|Leid. BPL 16 Β (L)|
 Tac. hist. 4.22.2|iugisque|lucisque|Lipsius|1547–1607|Ib*U*|
 Tac. hist. 4.22.3|a. Romanorum|armatorum|M. Vertranius Maurus|1569|Y01Y02|
 Tac. hist. 4.24.1|lectos|l. e|Muretus|1607|Ib*U*N21|apud Gruter
-Tac. hist. 4.26.1|-ebant|efferabant|Philippus Beroaldus|1515|V58<sup>1</sup>|s.l.
+Tac. hist. 4.26.1|-ebant|efferabant|Philippus Beroaldus II|1515|V58<sup>1</sup>|s.l.
 Tac. hist. 4.26.3|loco|l. cui|H. Ritter|1848|H2Y03L|
 Tac. hist. 4.29.2|arcus|artus|H. Ritter|1848|Yal. III (Y03)|
 Tac. hist. 4.32.3|redd-|rediit|Beatus Rhenanus|1533|Yal. II (Y02)|
