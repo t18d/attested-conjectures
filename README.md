@@ -1186,6 +1186,8 @@ Lucan. 2.556|en|in|Nicolaus Heinsius|1742|Brux. bibl. Burgund. 5330—32 (G)|
 Lucan. 3.410|-is … -is|ulli … aurae|J. Ph. d’Orville|1732|ZM|
 Lucan. 3.510|-i|maris|J. Ph. d’Orville|1732|Paris. lat. 10314 (Z)|
 Lucan. 3.564|-a ē/et|percussae|Jan Rutgersius|1618|ZM|
+Lucan. 4.562|-is … m.|iuguli … manum|Gronovius|n.d.|ZM|
+Lucan. 5.210|-a est|locutae|Pieter Burman|1740|ΩC|
 Lyc. Alex. 158|γυίας|γύας|Reichlin|n.d.|P.Oxy. LXIV 4428|
 Macr. Sat. 5.19.8|-ΤΡΑΙ|ΚΑΛΥΠΤΑΙ|Valckenaer|1767|TRFA|Diatr. 167C
 Manil. 1.229|-et|deficeres|Bentley|1739|cod. Venetus (V)|
