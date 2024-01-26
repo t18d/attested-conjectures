@@ -112,7 +112,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Bentley (83), Nicolaus Heinsius (80), Markland (79), Valckenaer (72), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Lorenz Rhodomann (45).</p>
+<p>The top 10 critics are Scaliger (187), Bentley (83), Nicolaus Heinsius (81), Markland (79), Valckenaer (72), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Lorenz Rhodomann (45).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1745,6 +1745,13 @@ Prop. 2.15.1|o nox|nox ο|Francesco Pucci|1827|recc.|
 Prop. 2.23.4|promi-|commissa|Philippus Beroaldus|1486|recc.|
 Prop. 2.26.54|uor-/uac-|uocans|Housman|1888|Monac. Vniu.Cim.22 (S)|
 Prop. 3.3.17|hic|hinc|Antonius Volscus|1488|recc.|
+Prop. 3.3.31|turba|cura|Jean Passerat|1608|recc.|
+Prop. 3.8.40|-am|offensa|Francesco Pucci|1827|recc.|
+Prop. 3.10.26|aura|ara|François Guyet|1742|recc.|apud Heinsium
+Prop. 3.11.45|canopeia|conopia|Nicolaus Heinsius|1742|recc.|
+Prop. 3.16.23|huc|haec|François Guyet|1742|recc.|apud Heinsium
+Prop. 3.20.4|-isne|tantine|Gronovius|1662|Berol. lat. 500|
+Prop. 3.22.25|-ii|socia|Francesco Pucci|1827|recc.|
 Q.S. 1.33|om.|ἕποντο|Scaliger|n.d.|Y|
 Q.S. 1.71|πόλ-|πτόλεμον|Scaliger|n.d.|Y|
 Q.S. 1.77|ἠὲ|ἢ|Scaliger|n.d.|Y|
@@ -2885,7 +2892,7 @@ Tib. 4.1.13|terris|tectis|Muretus|1558–62|Vindob. lat. 224 (W)|
 Tib. 4.1.60|-os|gelida|Scaliger|1577–1607|cod. (Broukh.)|
 Tib. 4.1.70|tergeminae|inter geminae|Willem Canter|1569|F (Scaliger)|
 Tib. 4.1.115|audet|gau-|Nicolaus Heinsius|1708|Berol. Diez R. Sant. 21 (E)|apud Broukhusium
-Tib. 4.1.127|u-|nulla|Passerat|n.d.|Brix. A VII.7 (Q)|
+Tib. 4.1.127|u-|nulla|Jean Passerat|1608|Brix. A VII.7 (Q)|
 Tib. 4.1.144|nec|vel|Johannes Schrader|1811|Monac. Clm 14.486 (M)|apud Voss
 Tib. 4.1.151|consistit|considit|Nicolaus Heinsius|1708|Berol. Diez R. Sant. 21 (E)|apud Broukhusium
 Tib. 4.1.175|praecla-|per claros|Scaliger|1577–1607|Leid. Voss. lat. 0.76|
