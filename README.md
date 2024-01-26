@@ -10,7 +10,8 @@
     <summary>Bibliography</summary>
     <h3>Theory</h3>
     <ul>
-        <li>Hine, Harry M., <a href="https://github.com/t18d/attested-conjectures/wiki/On-'Confirmed-Conjectures'-(Hine)">comment on 'confirmed conjectures'</a>, database Wiki (22 Jan. 2024).</li>
+        <li>Hine, Harry, <a href="https://github.com/t18d/attested-conjectures/wiki/On-'Confirmed-Conjectures'-(Hine)">comment on 'confirmed conjectures'</a>, database Wiki (22 Jan. 2024).</li>
+        <li>Housman, A. E., <em>M. Annaei Lucani belli civilis libri decem</em>  (Oxford, 1927), xxix.</li>
         <li>James, Patrick, review of <em>The Oxyrhynchus Papyri. Volume LXXXI</em>, in <em>The Classical Review</em>, 68/2 (2018), 395–8 at 396.</li>
     </ul>
     <h3>Sources</h3>
@@ -67,6 +68,7 @@
         <li>Kenyon, Frederic George, <em>The Evidence of Greek Papyri with Regard to Textual Criticism</em> (London, 1904).</li>
         <li>Krans-Plaisier, Jan, '<a href="http://vuntblog.blogspot.com/2023/12/amsterdam-database-conjectures-with.html">Amsterdam Database: Conjectures with Attestation</a>', the Amsterdam NT Weblog (2 Dec. 2023), accessed 14 Dec. 2023.</li>
         <li>La Penna, Antonio, and Rodolfo Funari (eds), <em>C. Sallusti Crispi Historiae</em>, i: <em>Fragmenta 1.1–146</em> (Berlin, 2015).</li>
+        <li>Lucanus, M. Annaeus, <em>Belli civilis libri decem</em>, ed. A. E. Housman (Oxford, 1927).</li>
         <li>Luck, Georg (ed.), <em>Albii Tibulli aliorumque carmina</em> (Stuttgart, 1998).</li>
         <li>Manilius, M., <em>Astronomica</em>, ed. George P. Goold (Stuttgart, 1998).</li>
         <li>Markus, D., and G. Schwendner, 'Seneca’s Medea in Egypt (663–704)', <em>ZPE</em>, 117 (1997), 73–84.</li>
