@@ -112,7 +112,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Bentley (83), Markland (79), Nicolaus Heinsius (78), Valckenaer (72), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Lorenz Rhodomann (45).</p>
+<p>The top 10 critics are Scaliger (187), Bentley (83), Markland (79), Nicolaus Heinsius (79), Valckenaer (72), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Lorenz Rhodomann (45).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1734,6 +1734,10 @@ Prob. vita Pers. l. 37|centies|centum|Casaubon|n.d.|Lond. mus. Brit. Reg. 15 B X
 Prop. 1.6.9|meam|se iam|Nicolaus Heinsius|1742|recc.|
 Prop. 1.9.29|manus|malus|Franz Modius|1605|recc.|
 Prop. 1.12.7|illo|ullo|Nicolaus Heinsius|1742|recc.|
+Prop. 1.20.6|Therodom-|Theiodamanteo|H. E. Butler|1905|Ambros. H 46 sup.|New
+Prop. 2.4.13|-o|subitum|Nicolaus Heinsius|1742|Casanat. 3227|
+Prop. 2.6.12|c. qua|cum quae|Janus Dousa II|1581–92|recc.|
+Prop. 2.7.11|tibi|mihi|Hermann Kraffert|1883|Paris. lat. 7990|
 Prop. 2.26.54|uor-/uac-|uocans|Housman|1888|Monac. Vniu.Cim.22 (S)|
 Q.S. 1.33|om.|ἕποντο|Scaliger|n.d.|Y|
 Q.S. 1.71|πόλ-|πτόλεμον|Scaliger|n.d.|Y|
