@@ -2497,6 +2497,10 @@ Tac. Agr. 41.2|Mis-|Moesia|Lipsius|1574|Aesinas lat. 8 (E)|
 Tac. Agr. 42.2|-i|proconsulare|Bletterius|1771|Aesinas lat. 8 (E)|apud Brotier
 Tac. Agr. 43.3|-ant|constabat|Beatus Rhenanus|1533|Aesinas lat. 8 (E)|
 Tac. Agr. 45.1|(iam) tum|etiam tum|Gronovius|1685|Aesinas lat. 8 (E)|
+Tac. ann. 11.2.2|-eret|respondit|J. A. Ernesti|1752|Laur. 63.24 (L24)|
+Tac. ann. 11.3.1|-i|consultante|J. A. Ernesti|1752|Harl. 2764 (H)|
+Tac. ann. 11.4.2|-um|interpretatam|K. Sirker|1867|Vat. lat. 2965 (V65)|
+Tac. ann. 11.4.3|poppe assen|Poppaeae sentiam|Franciscus Puteolanus|1476|Ia|
 Tac. hist. 1.15.4|blanditie|blanditiae et|Johannes Freudenberg|1909|Leid. BPL 16 Β (L)|apud Fisher
 Tac. hist. 1.16.1|-et|possit|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 1.25.2|-i|commune|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
