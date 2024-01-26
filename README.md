@@ -112,7 +112,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Bentley (83), Markland (79), Nicolaus Heinsius (76), Valckenaer (72), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Lorenz Rhodomann (45).</p>
+<p>The top 10 critics are Scaliger (187), Bentley (83), Markland (79), Nicolaus Heinsius (78), Valckenaer (72), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Lorenz Rhodomann (45).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1731,7 +1731,10 @@ Polyzel. fr. 2|ἔν-|εὔυδρον|Meineke|1839–57|Phot. ε 986|
 Porph. Antr. 8|ἔρχετ᾽|ἔρχεταί τ᾽|Rudolf Hercher|1858|Vat. gr. 325 (V)|
 Priscian. Inst. 18.197|ὅσοι γὰρ/θεοῖς ἄρ'|θεοὶ γὰρ|Madvig|1846|VR|Philol. 1 (1846) 672
 Prob. vita Pers. l. 37|centies|centum|Casaubon|n.d.|Lond. mus. Brit. Reg. 15 B XIX|
-Prop. 2.26.54|uor-|uocans (i.e. uac-)|F. C. Ayrmann|1726|Monac. Vniu.Cim.22 (S)|
+Prop. 1.6.9|meam|se iam|Nicolaus Heinsius|1742|recc.|
+Prop. 1.9.29|manus|malus|Franz Modius|1605|recc.|
+Prop. 1.12.7|illo|ullo|Nicolaus Heinsius|1742|recc.|
+Prop. 2.26.54|uor-/uac-|uocans|Housman|1888|Monac. Vniu.Cim.22 (S)|
 Q.S. 1.33|om.|ἕποντο|Scaliger|n.d.|Y|
 Q.S. 1.71|πόλ-|πτόλεμον|Scaliger|n.d.|Y|
 Q.S. 1.77|ἠὲ|ἢ|Scaliger|n.d.|Y|
