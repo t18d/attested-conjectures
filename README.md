@@ -1182,7 +1182,8 @@ Iuv. 16.24|caligatos|caligas tot|Josias Mercier|1650|recc.|apud Pricaeum
 Just. Edict. 13.24 p. 792.11|ἐπιβάλλοντα|τὸν ἐ.|Zachariae von Lingenthal|1892|P.Oxy. LXIII 4400|ZRG 13
 Luc. Ocyp. 57|ἔτειλα/ἔτιλα/ἔστειλα|ἔτεινα|K. G. Jacobitz|s.xix med.|P.Oxy. XXXI 2532|
 Lucan. 2.13|-ent|habet|Gottlieb Kortte|1726|ZM|
-Lucan. 2.556|-ent|habet|Nicolaus Heinsius|1742|Brux. bibl. Burgund. 5330—32 (G)|
+Lucan. 2.556|en|in|Nicolaus Heinsius|1742|Brux. bibl. Burgund. 5330—32 (G)|
+Lucan. 3.410|-is … -is|ulli … aurae|Doruillius||ZM|
 Lyc. Alex. 158|γυίας|γύας|Reichlin|n.d.|P.Oxy. LXIV 4428|
 Macr. Sat. 5.19.8|-ΤΡΑΙ|ΚΑΛΥΠΤΑΙ|Valckenaer|1767|TRFA|Diatr. 167C
 Manil. 1.229|-et|deficeres|Bentley|1739|cod. Venetus (V)|
