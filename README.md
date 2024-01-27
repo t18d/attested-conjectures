@@ -2552,6 +2552,7 @@ Tac. ann. 13.12.2|-a|mulierculam|J. Müller|1912|O48O22|
 Tac. ann. 13.13.1|s. nece|seque Senecae|Muretus|1607|BHolL24|apud Gruter
 Tac. ann. 13.13.3|rursus Burrus|burrus|Muretus|1607|M1|apud Gruter
 Tac. ann. 13.15.5|-e|securitatem|Franciscus Puteolanus|1476|HY02L|
+Tac. ann. 13.16.1|-eret|omitteretur||1515|Y03LC|
 Tac. hist. 1.15.4|blanditie|blanditiae et|Johannes Freudenberg|1909|Leid. BPL 16 Β (L)|apud Fisher
 Tac. hist. 1.16.1|-et|possit|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 1.25.2|-i|commune|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
