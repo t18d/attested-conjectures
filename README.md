@@ -2577,6 +2577,14 @@ Tac. ann. 13.56.3|defendenti-|deserentibus|Beatus Rhenanus|1533|Leid. BPL 16 Β 
 Tac. ann. 13.57.1|-e|libidinem|Beatus Rhenanus|1533|LN21<sup>2</sup>|
 Tac. ann. 13.57.1|item|salem|Franciscus Puteolanus|1476|BHol|
 Tac. ann. 13.57.1|arentem|ardentem|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
+Tac. ann. 13.57.3|resistent-|residentibus|J. J. Hartman|1905|V58B05Y01|
+Tac. ann. 13.58|sept-|octingentos|Lipsius|1547–1607|U2|
+Tac. ann. 13.58|reuiues-|reuiresceret|Curzio Picchena|1607|Leid. BPL 16 Β (L)|
+Tac. ann. 14.3.1|-e|praegrauem|Franciscus Puteolanus|1476|Leid. BPL 16 Β (L)|
+Tac. ann. 14.3.2|-o|illi|Franciscus Puteolanus|1476|Z<sup>2</sup>Y01Y02VinL|
+Tac. ann. 14.4.3|-i|matris|J. Froben|1519|Ia|
+Tac. ann. 14.4.4|-um|blandimentis|Muretus|1607|BHol|apud Gruter
+Tac. ann. 14.4.4|-i|pectore|C. M. Francken|1889|JP|
 Tac. hist. 1.15.4|blanditie|blanditiae et|Johannes Freudenberg|1909|Leid. BPL 16 Β (L)|apud Fisher
 Tac. hist. 1.16.1|-et|possit|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 1.25.2|-i|commune|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
