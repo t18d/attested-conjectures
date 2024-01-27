@@ -2544,6 +2544,14 @@ Tac. ann. 13.5.1|ad-|auditum|C. Heraeus|1859|Leid. BPL 16 Β (L)|
 Tac. ann. 13.6.3|-arum|multa|J. A. Ernesti|1752|Y03III|
 Tac. ann. 13.8.2|aliisque|alisque|Beatus Rhenanus|1533|B05<sup>2</sup>H<sup>2</sup>|
 Tac. ann. 13.9.1|u. ad|uterque|F. Becher|1899|Ia|
+Tac. ann. 13.9.1|quomodo|commodo|Muretus|1607|Ib|apud Gruter
+Tac. ann. 13.9.3|addi(di)t|addi|Franciscus Puteolanus|1476|V58B05|
+Tac. ann. 13.10.2|equester|eques Romanus|Muretus|1607|Leid. BPL 16 Β (L)|apud Gruter
+Tac. ann. 13.12.2|adu-|auersantibus|J. Müller|1912|Y03AV65|
+Tac. ann. 13.12.2|-a|mulierculam|J. Müller|1912|O48O22|
+Tac. ann. 13.13.1|s. nece|seque Senecae|Muretus|1607|BHolL24|apud Gruter
+Tac. ann. 13.13.3|rursus Burrus|burrus|Muretus|1607|M1|apud Gruter
+Tac. ann. 13.15.5|-e|securitatem|Franciscus Puteolanus|1476|HY02L|
 Tac. hist. 1.15.4|blanditie|blanditiae et|Johannes Freudenberg|1909|Leid. BPL 16 Β (L)|apud Fisher
 Tac. hist. 1.16.1|-et|possit|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 1.25.2|-i|commune|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
