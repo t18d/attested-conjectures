@@ -2562,6 +2562,12 @@ Tac. ann. 13.28.3|eo|et|Gronovius|1672|B72Ven|
 Tac. ann. 13.28.3|pl.|plebis|J. A. Ernesti|1752|Ia|
 Tac. ann. 13.29.2|tunc|tum|Carl Nipperdey|1852|MalPrmJB72|
 Tac. ann. 13.32.2|uarius|Varus|Carl Nipperdey|1852|Mpc|
+Tac. ann. 13.32.3|huic|hinc|C. F. Neue|1836|Ib|
+Tac. ann. 13.34.2|-uc|illud|Lipsius|1547–1607|N21O48O22K|
+Tac. ann. 13.36.1|-irent|auderent|Lipsius|1547–1607|U2|
+Tac. ann. 13.42.4|acdō|ac diu|Curzio Picchena|1607|Leid. BPL 16 Β (L)|
+Tac. ann. 13.45.1|-is|consulari|Franciscus Puteolanus|1476|Ia|
+Tac. ann. 13.51.2|quadringentes-|quadragesimae|Franciscus Puteolanus|1476|Leid. BPL 16 Β (L)|
 Tac. hist. 1.15.4|blanditie|blanditiae et|Johannes Freudenberg|1909|Leid. BPL 16 Β (L)|apud Fisher
 Tac. hist. 1.16.1|-et|possit|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 1.25.2|-i|commune|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
