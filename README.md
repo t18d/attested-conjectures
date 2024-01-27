@@ -2552,7 +2552,10 @@ Tac. ann. 13.12.2|-a|mulierculam|J. Müller|1912|O48O22|
 Tac. ann. 13.13.1|s. nece|seque Senecae|Muretus|1607|BHolL24|apud Gruter
 Tac. ann. 13.13.3|rursus Burrus|burrus|Muretus|1607|M1|apud Gruter
 Tac. ann. 13.15.5|-e|securitatem|Franciscus Puteolanus|1476|HY02L|
-Tac. ann. 13.16.1|-eret|omitteretur||1515|Y03LC|
+Tac. ann. 13.16.1|-eret|omitteretur|Philippus Beroaldus II|1515|Y03LC|
+Tac. ann. 13.16.2|s. eius|spiritus|J. A. Ernesti|1752|PVin|
+Tac. ann. 13.19.2|iulia|Iunia|Lipsius|1547–1607|Y03AV65|
+Tac. ann. 13.19.3|etiam|et|Carl Nipperdey|1852|Vindob. 49 (Vin)|
 Tac. hist. 1.15.4|blanditie|blanditiae et|Johannes Freudenberg|1909|Leid. BPL 16 Β (L)|apud Fisher
 Tac. hist. 1.16.1|-et|possit|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 1.25.2|-i|commune|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
@@ -2617,20 +2620,20 @@ Tac. hist. 4.22.2|iugisque|lucisque|Lipsius|1547–1607|Ib*U*|
 Tac. hist. 4.22.3|a. Romanorum|armatorum|M. Vertranius Maurus|1569|Y01Y02|
 Tac. hist. 4.24.1|lectos|l. e|Muretus|1607|Ib*U*N21|apud Gruter
 Tac. hist. 4.26.1|-ebant|efferabant|Philippus Beroaldus II|1515|V58<sup>1</sup>|s.l.
-Tac. hist. 4.26.3|loco|l. cui|H. Ritter|1848|H2Y03L|
-Tac. hist. 4.29.2|arcus|artus|H. Ritter|1848|Yal. III (Y03)|
+Tac. hist. 4.26.3|loco|l. cui|Franz Ritter|1848|H2Y03L|
+Tac. hist. 4.29.2|arcus|artus|Franz Ritter|1848|Yal. III (Y03)|
 Tac. hist. 4.32.3|redd-|rediit|Beatus Rhenanus|1533|Yal. II (Y02)|
 Tac. hist. 4.37.3|-ari|incruentati|Friedrich Jacob|1842|Ia|
 Tac. hist. 4.37.3|-ari quia|incruenta uia|F. Oelschlaeger|1844|U2mg|
 Tac. hist. 4.42.1|s. ex senatus consulto|s. ex se|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 4.42.4|sign-|saginatus|Gabriele Faerno|1595|IbU|
-Tac. hist. 4.51.1|quadraginta|q. milia|H. Ritter|1848|IabU|
+Tac. hist. 4.51.1|quadraginta|q. milia|Franz Ritter|1848|IabU|
 Tac. hist. 4.53.2|plueret|perluere|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 4.58.3|-icit|suffecit|Lipsius|1547–1607|Leid. BPL 16 Β (L)|
 Tac. hist. 4.60.2|at qui|atque|Curzio Picchena|1604|ZY02|
 Tac. hist. 4.63.1|-enti|ingenii|Lipsius|1547–1607|L2|
 Tac. hist. 4.63.1|h. custodiae erant|honorata custodia habuerant|E. Wurm|1853|Yal. II (Y02)|
-Tac. hist. 4.68.5|tulio|Iulio|H. Ritter|1848|BHolU|
+Tac. hist. 4.68.5|tulio|Iulio|Franz Ritter|1848|BHolU|
 Tac. hist. 4.77.1|-a|improuisi|Beatus Rhenanus|1533|LO48|
 Tac. hist. 4.81.1|caelis est|caelestis|Beatus Rhenanus|1533|Yal. II (Y02)|
 Tac. hist. 4.85.2|-e|ostentaret|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
