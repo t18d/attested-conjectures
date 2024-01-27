@@ -2517,6 +2517,12 @@ Tac. ann. 12.12.3|ignarum|ignauum|Madvig|1884|L2|
 Tac. ann. 12.13.2|om.|et|Lipsius|1547–1607|Leid. BPL 16 Β (L)|
 Tac. ann. 12.14.2|obuersis/obusis|obuiis|Georg Andresen|1892|Ib|
 Tac. ann. 12.15.2|-is|diffisi|Curzio Picchena|1607|H2L|
+Tac. ann. 12.15.2|praecellebat|praesidebat|Friedrich Haase|1855|Leid. BPL 16 Β (L)|
+Tac. ann. 12.20.1|quin|cui|Franciscus Puteolanus|1476|V58Hol2|
+Tac. ann. 12.20.2|hoc temptata|hostem tanta|Muretus|1607|Leid. BPL 16 Β (L)|apud Gruter
+Tac. ann. 12.25.2|om.|in|Muretus|1607|IaY01Y02|apud Gruter
+Tac. ann. 12.30.1|di-|degressus|J. A. Ernesti|1752|V58B05|
+Tac. ann. 12.33|astu|astu tum|Fritz Walter|1939|Ia|
 Tac. hist. 1.15.4|blanditie|blanditiae et|Johannes Freudenberg|1909|Leid. BPL 16 Β (L)|apud Fisher
 Tac. hist. 1.16.1|-et|possit|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 1.25.2|-i|commune|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
