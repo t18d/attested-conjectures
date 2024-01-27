@@ -112,7 +112,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Bentley (83), Nicolaus Heinsius (81), Markland (79), Valckenaer (72), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Lorenz Rhodomann (45).</p>
+<p>The top 10 critics are Scaliger (187), Bentley (83), Nicolaus Heinsius (81), Markland (79), Valckenaer (72), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Beatus Rhenanus (47).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2568,6 +2568,15 @@ Tac. ann. 13.36.1|-irent|auderent|Lipsius|1547–1607|U2|
 Tac. ann. 13.42.4|acdō|ac diu|Curzio Picchena|1607|Leid. BPL 16 Β (L)|
 Tac. ann. 13.45.1|-is|consulari|Franciscus Puteolanus|1476|Ia|
 Tac. ann. 13.51.2|quadringentes-|quadragesimae|Franciscus Puteolanus|1476|Leid. BPL 16 Β (L)|
+Tac. ann. 13.52.1|-unt|habuerant|Beatus Rhenanus|1533|Vat. lat. 1864 (V64)|
+Tac. ann. 13.53.1|-i|peruulgatis|Franciscus Puteolanus|1476|B05<sup>1</sup>L|
+Tac. ann. 13.55.2|-am|famem|Pierre Danes|1595|L1|apud Ursinum
+Tac. ann. 13.56.1|terram uiuam|terra in qua uiuamus|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
+Tac. ann. 13.56.2|ten(e)terum|tencterum|Philippus Beroaldus II|1515|HB05L|
+Tac. ann. 13.56.3|defendenti-|deserentibus|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
+Tac. ann. 13.57.1|-e|libidinem|Beatus Rhenanus|1533|LN21<sup>2</sup>|
+Tac. ann. 13.57.1|item|salem|Franciscus Puteolanus|1476|BHol|
+Tac. ann. 13.57.1|arentem|ardentem|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 1.15.4|blanditie|blanditiae et|Johannes Freudenberg|1909|Leid. BPL 16 Β (L)|apud Fisher
 Tac. hist. 1.16.1|-et|possit|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 1.25.2|-i|commune|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
