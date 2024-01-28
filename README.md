@@ -112,7 +112,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (85), Bentley (83), Markland (79), Valckenaer (72), Porson (62), Reiske (52), Beatus Rhenanus (51), Cobet (48) and Brunck (48).</p>
+<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (85), Bentley (83), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (53), Reiske (52), Cobet (48) and Brunck (48).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2632,6 +2632,13 @@ Tac. ann. 15.54.2|uagis|uariis|Nicolaus Heinsius|1752|Leid. BPL 16 Β (L)|apud E
 Tac. ann. 15.56.4|quintilie-|Quintianusque|Lipsius|1547–1607|PN21O22|
 Tac. ann. 15.57.1|apichari|epicharin|Bekker|1825|Leid. BPL 16 Β (L)|
 Tac. ann. 15.57.1|apichari|Epicharim|K. Sirker|1871|Ia|
+Tac. ann. 15.66.2|equite/-er|equite Romano|Orelli|1846|Yal. III (Y03)|
+Tac. ann. 15.69.1|-et|occupare|Franciscus Puteolanus|1476|V58<sup>1</sup>B05|
+Tac. ann. 15.71.2|extim-|existimarentur|Beatus Rhenanus|1533|H2P|
+Tac. ann. 15.71.5|in|sine|Claude Chifflet|n.d.|L2|
+Tac. ann. 15.72.1|turpia-|Turpiliano|Vertranius Maurus|1569|Leid. BPL 16 Β (L)|
+Tac. ann. 15.73.1|u. e.|uiros claros et|E. Wurm|1854|Leid. BPL 16 Β (L)|
+Tac. ann. 16.3.2|-ea|ante|Beatus Rhenanus|1533|IaL24|
 Tac. hist. 1.15.4|blanditie|blanditiae et|Johannes Freudenberg|1909|Leid. BPL 16 Β (L)|apud Fisher
 Tac. hist. 1.16.1|-et|possit|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 1.25.2|-i|commune|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
