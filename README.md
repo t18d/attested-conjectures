@@ -112,7 +112,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Bentley (83), Nicolaus Heinsius (81), Markland (79), Valckenaer (72), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Beatus Rhenanus (47).</p>
+<p>The top 10 critics are Scaliger (187), Bentley (83), Nicolaus Heinsius (81), Markland (79), Valckenaer (72), Porson (62), Reiske (52), Cobet (48), Brunck (48) and Beatus Rhenanus (48).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2585,6 +2585,12 @@ Tac. ann. 14.3.2|-o|illi|Franciscus Puteolanus|1476|Z<sup>2</sup>Y01Y02VinL|
 Tac. ann. 14.4.3|-i|matris|J. Froben|1519|Ia|
 Tac. ann. 14.4.4|-um|blandimentis|Muretus|1607|BHol|apud Gruter
 Tac. ann. 14.4.4|-i|pectore|C. M. Francken|1889|JP|
+Tac. ann. 14.7.3|om.|ut|Philippus Beroaldus II|1515|IaY01<sup>2</sup>|
+Tac. ann. 14.7.6|agerrim-|Agermum|Georg Andresen|1905|Haun. Gl. kgl. S. 496 (K)|
+Tac. ann. 14.10.3|-a|quam|K. L. Urlichs|1848|Vat. lat. 2965 (V65)|
+Tac. ann. 14.11.1|abla-|optata|Jérôme Groslot|1725|Leid. BPL 16 Β (L)|apud Burman I
+Tac. ann. 14.11.1|sit|sint|Jérôme Groslot|1725|Ia|apud Burman I
+Tac. ann. 14.14.1|nomen|numen|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 1.15.4|blanditie|blanditiae et|Johannes Freudenberg|1909|Leid. BPL 16 Β (L)|apud Fisher
 Tac. hist. 1.16.1|-et|possit|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 1.25.2|-i|commune|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
