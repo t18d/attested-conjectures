@@ -112,7 +112,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Bentley (83), Nicolaus Heinsius (81), Markland (79), Valckenaer (72), Porson (62), Reiske (52), Beatus Rhenanus (50), Cobet (48) and Brunck (48).</p>
+<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (84), Bentley (83), Markland (79), Valckenaer (72), Porson (62), Reiske (52), Beatus Rhenanus (51), Cobet (48) and Brunck (48).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2526,7 +2526,7 @@ Tac. ann. 12.33|astu|astu tum|Fritz Walter|1939|Ia|
 Tac. ann. 12.33|ordolucas etc.|Ordouicas|Beatus Rhenanus|1533|Laur. 68.2 (M)|
 Tac. ann. 12.34|-i|religione|Lipsius|1547–1607|UL|
 Tac. ann. 12.35.1|-e|uirtuti|Curzio Picchena|1607|Ia|
-Tac. ann. 12.35.1|tribuni|et t.|G. Bezzenberger|1844|Leid. BPL 16 Β (L)|
+Tac. ann. 12.35.1|tribuni|et t.|Georg Bezzenberger|1844|Leid. BPL 16 Β (L)|
 Tac. ann. 12.38.3|p. nos ipsos|pabulantis nostro|Franciscus Puteolanus|1476|V58<sup>1</sup>B05|
 Tac. ann. 12.39.1|expo-|opposuit|Lipsius|1547–1607|U2|
 Tac. ann. 12.41.3|aut|ac|P. Petersen|1835|Y01Y02|
@@ -2543,7 +2543,7 @@ Tac. ann. 13.5.1|ad-|auditus|Lipsius|1547–1607|B05Vin|
 Tac. ann. 13.5.1|ad-|auditum|C. Heraeus|1859|Leid. BPL 16 Β (L)|
 Tac. ann. 13.6.3|-arum|multa|J. A. Ernesti|1752|Y03III|
 Tac. ann. 13.8.2|aliisque|alisque|Beatus Rhenanus|1533|B05<sup>2</sup>H<sup>2</sup>|
-Tac. ann. 13.9.1|u. ad|uterque|F. Becher|1899|Ia|
+Tac. ann. 13.9.1|u. ad|uterque|Ferdinand Becher|1899|Ia|
 Tac. ann. 13.9.1|quomodo|commodo|Muretus|1607|Ib|apud Gruter
 Tac. ann. 13.9.3|addi(di)t|addi|Franciscus Puteolanus|1476|V58B05|
 Tac. ann. 13.10.2|equester|eques Romanus|Muretus|1607|Leid. BPL 16 Β (L)|apud Gruter
@@ -2601,6 +2601,20 @@ Tac. ann. 14.34.1|et|et e|Franciscus Puteolanus|1476|V58B05HMal|
 Tac. ann. 14.36.2|paucos|p. esse|Georg Andresen|1913|Ia|
 Tac. ann. 14.36.3|-u|euentus|Beatus Rhenanus|1533|V58H|
 Tac. ann. 14.38.3|f. ipsius|fortunam|J. A. Ernesti|1752|Leid. BPL 16 Β (L)|
+Tac. ann. 14.45.2|incen-|intenderetur|Beatus Rhenanus|1533|HL|
+Tac. ann. 14.50.1|uegento|Veiento|Franciscus Puteolanus|1476|B05Y03<sup>2</sup>PK<sup>2</sup>|
+Tac. ann. 14.50.1|aug-|agent|Georg Bezzenberger|1844|MIb|
+Tac. ann. 14.50.1|-ent|iacet|Lipsius|1547–1607|Leid. BPL 16 Β (L)|
+Tac. ann. 14.50.1|-unt|incumbit|Lipsius|1547–1607|Ib|
+Tac. ann. 14.55.2|-a|ipse|Nicolaus Heinsius|1752|N23L|apud Ernesti
+Tac. ann. 14.57.2|praesentiora|praesenti cura|Nicolaus Heinsius|1752|Leid. BPL 16 Β (L)|apud Ernesti
+Tac. ann. 14.58.4|-antium|aspernandum|Franciscus Puteolanus|1476|Ib|
+Tac. ann. 14.59.4|tam|iam|J. Freinsheim|1638|Leid. BPL 16 Β (L)|
+Tac. ann. 14.60.3|si|ut|Franciscus Puteolanus|1476|V58B05|
+Tac. ann. 14.60.5|ex/et|et ex|Franciscus Puteolanus|1476|Bodl. 27605 (B05)|
+Tac. ann. 14.64.1|-a|uitae|Nicolaus Heinsius|1752|Bodl. 27605 (B05)|apud Ernesti
+Tac. ann. 15.2.4|exturba. dum|exturbandum dum|Ferdinand Becher|1899|Ib|
+Tac. ann. 15.7.2|(h)ostia queque|hostiaque quae|Franciscus Puteolanus|1476|V58B05|
 Tac. hist. 1.15.4|blanditie|blanditiae et|Johannes Freudenberg|1909|Leid. BPL 16 Β (L)|apud Fisher
 Tac. hist. 1.16.1|-et|possit|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 1.25.2|-i|commune|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
