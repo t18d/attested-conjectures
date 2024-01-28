@@ -2660,6 +2660,9 @@ Tac. ann. 16.22.2|quod t.|quo tibi|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. ann. 16.24.2|quo dubie non uenit|quod ubi non euenit|Beatus Rhenanus|1533|B1Hol|
 Tac. ann. 16.26.1|-e|subtraheret|Franciscus Puteolanus|1476|LK2|
 Tac. ann. 16.28.2|-e|ageret|Madvig|1873|Leid. BPL 16 Β (L)|
+Tac. ann. 16.30.1|proconsul|-latum|Claude Chifflet|n.d.|L1V65|
+Tac. ann. 16.32.2|h. et|honesti|Gabriele Faerno|1595|Leid. BPL 16 Β (L)|apud Ursinum
+Tac. ann. 16.35.2|conuersis|obuersus|Valens Acidalius|1607|Bodl. 34472 (B72)|
 Tac. hist. 1.15.4|blanditie|blanditiae et|Johannes Freudenberg|1909|Leid. BPL 16 Β (L)|apud Fisher
 Tac. hist. 1.16.1|-et|possit|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 1.25.2|-i|commune|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
