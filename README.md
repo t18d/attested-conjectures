@@ -2640,6 +2640,15 @@ Tac. ann. 15.71.5|in|sine|Claude Chifflet|n.d.|L2|
 Tac. ann. 15.72.1|turpia-|Turpiliano|M. Vertranius Maurus|1569|Leid. BPL 16 Β (L)|
 Tac. ann. 15.73.1|u. e.|uiros claros et|E. Wurm|1854|Leid. BPL 16 Β (L)|
 Tac. ann. 16.3.2|-ea|ante|Beatus Rhenanus|1533|IaL24|
+Tac. ann. 16.5.1|-amque … -am|seueraque … Italia|J. Freinsheim|1638|Leid. BPL 16 Β (L)|
+Tac. ann. 16.5.1|longas|longinquas|Muretus|1607|Ib|apud Gruter
+Tac. ann. 16.5.1|-uiam|lasciuie|Franciscus Puteolanus|1476|Leid. BPL 16 Β (L)|
+Tac. ann. 16.9.1|senatus|senectus|F. Medices|1607|B2Hol|apud Picchena
+Tac. ann. 16.10.1|uincendo|uiuendo|Franciscus Puteolanus|1476|V58Bpc|
+Tac. ann. 16.10.3|imple-|impexa|Petavius|n.d.|BHol|
+Tac. ann. 16.11.2|-e|seniores|Valens Acidalius|1607|B1Hol|
+Tac. ann. 16.15.1|ingenti corporis corporis|ingenti corporis robore|Philippus Beroaldus II|1515|Ib|
+Tac. ann. 16.15.1|ingenti corporis corporis|ingenti corpore|Georg Andresen|1892|Ia|
 Tac. hist. 1.15.4|blanditie|blanditiae et|Johannes Freudenberg|1909|Leid. BPL 16 Β (L)|apud Fisher
 Tac. hist. 1.16.1|-et|possit|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 1.25.2|-i|commune|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
