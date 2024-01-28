@@ -2511,6 +2511,7 @@ Tac. ann. 11.20.3|et fodere|effodere|Beatus Rhenanus|1533|B72PVin|
 Tac. ann. 11.22.4|potius|Potitus|Lipsius|1547–1607|Caesaraug. 9439 (Z)|
 Tac. ann. 11.24.6|attamen|ac tamen|K. Halm|1850|Yal. III (Y03)|
 Tac. ann. 11.24.7|-ei|plebeii|Carl Nipperdey|1852|Caesaraug. 9439 (Z)|
+Tac. ann. 11.27|audisse a. u. subisse|audisse auspicum uerba|K. L. Urlichs|1848|Ib|
 Tac. ann. 11.34.2|-et|obstrepere|Valens Acidalius|1607|M2|
 Tac. ann. 12.2.3|-a|expertae|Gabriele Faerno|1595|LO48O22K|apud Ursinum
 Tac. ann. 12.5.3|censoriae|caesareae|Curzio Picchena|1607|Paris. Reg. 6118 (P)|
@@ -2523,6 +2524,7 @@ Tac. ann. 12.20.1|quin|cui|Franciscus Puteolanus|1476|V58Hol2|
 Tac. ann. 12.20.2|hoc temptata|hostem tanta|Muretus|1607|Leid. BPL 16 Β (L)|apud Gruter
 Tac. ann. 12.25.2|om.|in|Muretus|1607|IaY01Y02|apud Gruter
 Tac. ann. 12.30.1|di-|degressus|J. A. Ernesti|1752|V58<sup>1</sup>B05|
+Tac. ann. 12.32.1|inde cangos|in decangos|Georg Bezzenberger|1844|VinSt|
 Tac. ann. 12.33|astu|astu tum|Fritz Walter|1939|Ia|
 Tac. ann. 12.33|ordolucas etc.|Ordouicas|Beatus Rhenanus|1533|Laur. 68.2 (M)|
 Tac. ann. 12.34|-i|religione|Lipsius|1547–1607|UL|
@@ -2586,6 +2588,7 @@ Tac. ann. 14.3.2|-o|illi|Franciscus Puteolanus|1476|Z<sup>2</sup>Y01Y02VinL|
 Tac. ann. 14.4.3|-i|matris|J. Froben|1519|Ia|
 Tac. ann. 14.4.4|-um|blandimentis|Muretus|1607|BHol|apud Gruter
 Tac. ann. 14.4.4|-i|pectore|C. M. Francken|1889|JP|
+Tac. ann. 14.7.2|expergens|expergiscerentur|J. Gronovius|1721|V58B05|
 Tac. ann. 14.7.3|om.|ut|Philippus Beroaldus II|1515|IaY01<sup>2</sup>|
 Tac. ann. 14.7.6|agerrim-|Agermum|Georg Andresen|1905|Haun. Gl. kgl. S. 496 (K)|
 Tac. ann. 14.10.3|-a|quam|K. L. Urlichs|1848|Vat. lat. 2965 (V65)|
@@ -2630,6 +2633,7 @@ Tac. ann. 15.51.1|scisci-|suscitata|M. Vertranius Maurus|1569|BHol|
 Tac. ann. 15.52.3|morere-|moueretur|Curzio Picchena|1607|IaY01Y02|
 Tac. ann. 15.53.4|-e|inanem|Curzio Picchena|1607|Yal. III (Y03)|
 Tac. ann. 15.54.2|uagis|uariis|Nicolaus Heinsius|1752|Leid. BPL 16 Β (L)|apud Ernesti
+Tac. ann. 15.54.3|partiebat|parare|Franciscus Puteolanus|1476|LK2|
 Tac. ann. 15.56.4|quintilie-|Quintianusque|Lipsius|1547–1607|PN21O22|
 Tac. ann. 15.57.1|apichari|epicharin|Bekker|1825|Leid. BPL 16 Β (L)|
 Tac. ann. 15.57.1|apichari|Epicharim|K. Sirker|1871|Ia|
