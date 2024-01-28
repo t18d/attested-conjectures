@@ -112,7 +112,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (85), Bentley (83), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (53), Reiske (52), Cobet (48) and Brunck (48).</p>
+<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (85), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (53), Reiske (52), Cobet (48) and Brunck (48).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1211,7 +1211,7 @@ Manil. 1.657|quae-|quacumque|Bentley|1739|Lond. Bibl. Brit. Add. 22808 (N)|
 Manil. 1.661|-fert|referet|Scaliger|1600|Lond. Bibl. Brit. Add. 22808 (N)|
 Manil. 1.718|de-|diductis|Scaliger|1579|cod. Venetus (V)|
 Manil. 1.744|quo(d)|quid|Bentley|1739|Matrit. 3678 (M)|
-Manil. 1.771|-es|mentis|Bentley|1739|Matrit. 3678 (M)|
+Manil. 1.771|-es|mentis|Valens Acidalius|1590s|Matrit. 3678 (M)|
 Manil. 1.843|-os/capillos|capellas|Bentley|1739|Matrit. 3678 (M)|
 Manil. 2.98|-at|constas|Franciscus Junius|1590|Brux. 10012 (G)|
 Manil. 2.112|-a|summam|Scaliger|1600|Matrit. 3678 (M)|
@@ -1243,11 +1243,11 @@ Manil. 4.659|albi-|alpinas|Gronovius|s.xvii med.|Matrit. 3678 (M)|
 Manil. 4.863|quia|qua|Scaliger|1579|Matrit. 3678 (M)|
 Manil. 5.60|et mentita|ementita|Scaliger|1579|Brux. 10012 (G)|
 Manil. 5.71|-ans|retentas|Scaliger|1579|Matrit. 3678 (M)|
-Manil. 5.91|-ur|imitatus|Thomas Reinesius|1655|Matrit. 3678 (M)|
+Manil. 5.91|-ur|imitatus|Valens Acidalius|1590s|Matrit. 3678 (M)|
 Manil. 5.126|-unt … -oetem|fidum … syboten|Scaliger|1600|cod. Venetus (V)|
 Manil. 5.148|undis|uinclis|Scaliger|1600|Leid. Voss. lat. O 18 (c)|
 Manil. 5.163|moritur|motu|Turnebus|1564–73|Matrit. 3678 (M)|
-Manil. 5.181|-ri|uidere|Caspar von Barth|1624|Matrit. 3678 (M)|
+Manil. 5.181|-ri|uidere|Valens Acidalius|1590s|Matrit. 3678 (M)|
 Manil. 5.224|rap-|rabit|Scaliger|1579|LMV|
 Manil. 5.238|-it|iunget|Scaliger|1579|Matrit. 3678 (M)|
 Manil. 5.240|find-|fidentem|Scaliger|1600|Matrit. 3678 (M)|
@@ -2625,7 +2625,7 @@ Tac. ann. 15.22.2|effigies usque|effigiesque|Franciscus Puteolanus|1476|Leid. BP
 Tac. ann. 15.36.3|auditurus e.|iter aditurus esset|Franciscus Puteolanus|1476|Ia|
 Tac. ann. 15.44.1|a di(i)s|dis|Gronovius|1672|III|
 Tac. ann. 15.45.3|et|del.|H. Fuchs|1973|Leid. BPL 16 Β (L)|
-Tac. ann. 15.51.1|scisci-|suscitata|Vertranius Maurus|1569|BHol|
+Tac. ann. 15.51.1|scisci-|suscitata|M. Vertranius Maurus|1569|BHol|
 Tac. ann. 15.52.3|morere-|moueretur|Curzio Picchena|1607|IaY01Y02|
 Tac. ann. 15.53.4|-e|inanem|Curzio Picchena|1607|Yal. III (Y03)|
 Tac. ann. 15.54.2|uagis|uariis|Nicolaus Heinsius|1752|Leid. BPL 16 Β (L)|apud Ernesti
@@ -2636,7 +2636,7 @@ Tac. ann. 15.66.2|equite/-er|equite Romano|Orelli|1846|Yal. III (Y03)|
 Tac. ann. 15.69.1|-et|occupare|Franciscus Puteolanus|1476|V58<sup>1</sup>B05|
 Tac. ann. 15.71.2|extim-|existimarentur|Beatus Rhenanus|1533|H2P|
 Tac. ann. 15.71.5|in|sine|Claude Chifflet|n.d.|L2|
-Tac. ann. 15.72.1|turpia-|Turpiliano|Vertranius Maurus|1569|Leid. BPL 16 Β (L)|
+Tac. ann. 15.72.1|turpia-|Turpiliano|M. Vertranius Maurus|1569|Leid. BPL 16 Β (L)|
 Tac. ann. 15.73.1|u. e.|uiros claros et|E. Wurm|1854|Leid. BPL 16 Β (L)|
 Tac. ann. 16.3.2|-ea|ante|Beatus Rhenanus|1533|IaL24|
 Tac. hist. 1.15.4|blanditie|blanditiae et|Johannes Freudenberg|1909|Leid. BPL 16 Β (L)|apud Fisher
