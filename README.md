@@ -113,7 +113,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (85), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (53), Reiske (52), Cobet (48) and Brunck (48).</p>
+<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (85), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (58), Reiske (52), Cobet (48) and Brunck (48).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2649,6 +2649,17 @@ Tac. ann. 16.10.3|imple-|impexa|Petavius|n.d.|BHol|
 Tac. ann. 16.11.2|-e|seniores|Valens Acidalius|1607|B1Hol|
 Tac. ann. 16.15.1|ingenti corporis corporis|ingenti corporis robore|Philippus Beroaldus II|1515|Ib|
 Tac. ann. 16.15.1|ingenti corporis corporis|ingenti corpore|Georg Andresen|1892|Ia|
+Tac. ann. 16.16.1|restringunt|restinguunt|Madvig|1873|Lond. BL Add. 8904 (Ora)|
+Tac. ann. 16.17.1|ac C.|ac|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
+Tac. ann. 16.17.4|-untur|fingitur|Franciscus Puteolanus|1476|V58<sup>1</sup>|
+Tac. ann. 16.19.2|quam|quamquam|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
+Tac. ann. 16.20.2|deditum/dedidit|dedit|Beatus Rhenanus|1533|Holkh. 359 (Hol)|
+Tac. ann. 16.21.1|acced-|accendentibus|K. Meiser|1899|VenVin|
+Tac. ann. 16.21.2|decernuntur|decernerentur|Gabriele Faerno|1595|GL|apud Ursinum
+Tac. ann. 16.22.2|quod t.|quo tibi|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
+Tac. ann. 16.24.2|quo dubie non uenit|quod ubi non euenit|Beatus Rhenanus|1533|B1Hol|
+Tac. ann. 16.26.1|-e|subtraheret|Franciscus Puteolanus|1476|LK2|
+Tac. ann. 16.28.2|-e|ageret|Madvig|1873|Leid. BPL 16 Β (L)|
 Tac. hist. 1.15.4|blanditie|blanditiae et|Johannes Freudenberg|1909|Leid. BPL 16 Β (L)|apud Fisher
 Tac. hist. 1.16.1|-et|possit|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 1.25.2|-i|commune|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
