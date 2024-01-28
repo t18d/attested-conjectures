@@ -113,7 +113,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (85), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (58), Reiske (52), Cobet (48) and Brunck (48).</p>
+<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (85), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (59), Reiske (52), Cobet (48) and Brunck (48).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2716,6 +2716,8 @@ Tac. hist. 2.96.1|nu-|mollius|Beatus Rhenanus|1533|Ib|
 Tac. hist. 2.100.3|patui|patuit|R. H. Martin|1951|Ib|
 Tac. hist. 3.2.4|militia|militiam|Massimo Lenchantin|1929|Ib|
 Tac. hist. 3.10.3|-baba-|obturbatur|Orelli|1846|Y01Y02|
+Tac. hist. 3.13.3|litem|licet|Grotius|1640|Ia|
+Tac. hist. 3.13.3|litem|principi militem|G. Brotier|1771|Leid. BPL 16 Β (L)|
 Tac. hist. 3.17.2|-ic|illi|Beatus Rhenanus|1533|Caesaraug. 9439 (Z)|
 Tac. hist. 3.18.1|-ti|uicturi|E. Ferlet|1801|Leid. BPL 16 Β (L)|
 Tac. hist. 3.23.1|labe-|labantem|Curzio Picchena|1604|Ic|
@@ -2741,6 +2743,7 @@ Tac. hist. 4.37.3|-ari quia|incruenta uia|F. Oelschlaeger|1844|U2mg|
 Tac. hist. 4.42.1|s. ex senatus consulto|s. ex se|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 4.42.4|sign-|saginatus|Gabriele Faerno|1595|IbU|
 Tac. hist. 4.51.1|quadraginta|q. milia|Franz Ritter|1848|IabU|
+Tac. hist. 4.53.2|aquarinis e. f.|aqua riuis et fontibus|Beatus Rhenanus|1533|Ia|
 Tac. hist. 4.53.2|plueret|perluere|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 4.58.3|-icit|suffecit|Lipsius|1547–1607|Leid. BPL 16 Β (L)|
 Tac. hist. 4.60.2|at qui|atque|Curzio Picchena|1604|ZY02|
