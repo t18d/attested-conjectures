@@ -2649,7 +2649,7 @@ Tac. ann. 16.5.1|longas|longinquas|Muretus|1607|Ib|apud Gruter
 Tac. ann. 16.5.1|-uiam|lasciuie|Franciscus Puteolanus|1476|Leid. BPL 16 Β (L)|
 Tac. ann. 16.9.1|senatus|senectus|F. Medices|1607|B2Hol|apud Picchena
 Tac. ann. 16.10.1|uincendo|uiuendo|Franciscus Puteolanus|1476|V58Bpc|
-Tac. ann. 16.10.3|imple-|impexa|Petavius|n.d.|BHol|
+Tac. ann. 16.10.3|imple-|impexa|Denis Pétau|1771|BHol|apud Brotier
 Tac. ann. 16.11.2|-e|seniores|Valens Acidalius|1607|B1Hol|
 Tac. ann. 16.15.1|ingenti corporis corporis|ingenti corporis robore|Philippus Beroaldus II|1515|Ib|
 Tac. ann. 16.15.1|ingenti corporis corporis|ingenti corpore|Georg Andresen|1892|Ia|
@@ -2684,8 +2684,10 @@ Tac. hist. 1.74.1|-antur|offerebant|Beatus Rhenanus|1533|Harl. 2764 (H)|
 Tac. hist. 1.75.1|ign-|gnaris|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 1.85.1|et|ea|Muretus|1607|UY03|apud Gruter
 Tac. hist. 1.85.3|-ndi|dicenti|Lipsius|1547–1607|GL|
+Tac. hist. 1.87.2|immut-|imitatus|Valens Acidalius|1606|Urb. lat. 412 (U)|
 Tac. hist. 1.90.1|-i|sterile|Lipsius|1547–1607|L2|
 Tac. hist. 2.1.2|decoris|decor oris|Beatus Rhenanus|1533|Z2|
+Tac. hist. 2.21.1|reportans gerunt|regerunt|Franciscus Puteolanus|1476|Vat. lat. 1958 (V58)|
 Tac. hist. 2.23.4|quocum|ducum|J. Freinsheim|1638|G2|
 Tac. hist. 2.24.3|et|ex|N. Bach|1835|Yal. II (Y02)|
 Tac. hist. 2.26.2|periculosis|perculsis|Muretus|1607|IaY01Y02|apud Gruter
