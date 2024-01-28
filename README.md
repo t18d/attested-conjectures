@@ -112,7 +112,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Bentley (83), Nicolaus Heinsius (81), Markland (79), Valckenaer (72), Porson (62), Reiske (52), Beatus Rhenanus (49), Cobet (48) and Brunck (48).</p>
+<p>The top 10 critics are Scaliger (187), Bentley (83), Nicolaus Heinsius (81), Markland (79), Valckenaer (72), Porson (62), Reiske (52), Beatus Rhenanus (50), Cobet (48) and Brunck (48).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2595,7 +2595,12 @@ Tac. ann. 14.19|qua|quae|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. ann. 14.20.2|om.|ne|Pierre Danes|1595|L1|apud Ursinum
 Tac. ann. 14.29.1|siluas|Siluras|Lipsius|1547–1607|B05<sup>2</sup>|
 Tac. ann. 14.32.1|-e|furorem|Gabriele Faerno|1595|Vindob. 49 (Vin)|apud Ursinum
-Tac. ann. 14.32.3|-ae|auaritia|F. Becher|1899|Ia|
+Tac. ann. 14.32.3|-ae|auaritia|Ferdinand Becher|1899|Ia|
+Tac. ann. 14.33.2|-tarium|militum|Muretus|1607|Leid. BPL 16 Β (L)|apud Gruter
+Tac. ann. 14.34.1|et|et e|Franciscus Puteolanus|1476|V58B05HMal|
+Tac. ann. 14.36.2|paucos|p. esse|Georg Andresen|1913|Ia|
+Tac. ann. 14.36.3|-u|euentus|Beatus Rhenanus|1533|V58H|
+Tac. ann. 14.38.3|f. ipsius|fortunam|J. A. Ernesti|1752|Leid. BPL 16 Β (L)|
 Tac. hist. 1.15.4|blanditie|blanditiae et|Johannes Freudenberg|1909|Leid. BPL 16 Β (L)|apud Fisher
 Tac. hist. 1.16.1|-et|possit|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 1.25.2|-i|commune|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
