@@ -112,7 +112,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (84), Bentley (83), Markland (79), Valckenaer (72), Porson (62), Reiske (52), Beatus Rhenanus (51), Cobet (48) and Brunck (48).</p>
+<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (85), Bentley (83), Markland (79), Valckenaer (72), Porson (62), Reiske (52), Beatus Rhenanus (51), Cobet (48) and Brunck (48).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2625,6 +2625,13 @@ Tac. ann. 15.22.2|effigies usque|effigiesque|Franciscus Puteolanus|1476|Leid. BP
 Tac. ann. 15.36.3|auditurus e.|iter aditurus esset|Franciscus Puteolanus|1476|Ia|
 Tac. ann. 15.44.1|a di(i)s|dis|Gronovius|1672|III|
 Tac. ann. 15.45.3|et|del.|H. Fuchs|1973|Leid. BPL 16 Β (L)|
+Tac. ann. 15.51.1|scisci-|suscitata|Vertranius Maurus|1569|BHol|
+Tac. ann. 15.52.3|morere-|moueretur|Curzio Picchena|1607|IaY01Y02|
+Tac. ann. 15.53.4|-e|inanem|Curzio Picchena|1607|Yal. III (Y03)|
+Tac. ann. 15.54.2|uagis|uariis|Nicolaus Heinsius|1752|Leid. BPL 16 Β (L)|apud Ernesti
+Tac. ann. 15.56.4|quintilie-|Quintianusque|Lipsius|1547–1607|PN21O22|
+Tac. ann. 15.57.1|apichari|epicharin|Bekker|1825|Leid. BPL 16 Β (L)|
+Tac. ann. 15.57.1|apichari|Epicharim|K. Sirker|1871|Ia|
 Tac. hist. 1.15.4|blanditie|blanditiae et|Johannes Freudenberg|1909|Leid. BPL 16 Β (L)|apud Fisher
 Tac. hist. 1.16.1|-et|possit|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 1.25.2|-i|commune|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
