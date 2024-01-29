@@ -3419,6 +3419,7 @@ Rev 8:3 [40–42]|ταῖς προσευχαῖς|τὰς προσευχάς|Cas
 Rev 8:4 [14–16]|ταῖς προσευχαῖς|τῆς προσευχῆς|Grotius|1645||[cj12026](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj12026)
 Rev 8:13 [12]|ἀετοῦ|ἀγγέλου ὡς ἀετοῦ|Könnecke|1908||[cj12127](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj12127)
 Rev 9:9 [32]|ἵππων|om.|Baljon|1908||[cj12132](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj12132)
+Rev 9:13|φωνὴν μίαν|om.|Bengel|1734||[cj17007](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj17007)
 Rev 12:18 [4]|ἐστάθη|txt|Piscator|1613||[cj10560](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10560)
 Rev 13:16 [44]|δῶσιν|δώσει|Westcott-Hort|1881||[cj10684](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10684)
 Rev 14:19 [40]|τὴν ληνόν|τὸν ληνόν Breunissen|Troost|1861||[cj12064](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj12064)
