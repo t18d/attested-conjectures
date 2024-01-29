@@ -1481,7 +1481,7 @@ P.Oxy. II 266.15|[ἀν]αζυγήν|[δι]α-|Edgar-Hunt|1932|P.Oxy. XLIX 3491|
 Pers. 5.90|uetauit|uetabit|C. F. Heinrich|1844|Reg. 1562|
 Pers. 5.123|-i|satyrum|Casaubon|n.d.|αVX|
 Phaedr. 1.19.1|-es|hominis|Pierre Pithou|1596|ρ D Wχ|
-Phaedr. 2.8.21|b. n.|nuper boues|Pierre Pithou|1596|?|
+Phaedr. 2.8.21|b. n.|nuper boues|Pierre Pithou|1596|ρ N|
 Phaedr. 2.9.2|-uulum|seruum|Pierre Pithou|1596|Vat. lat. 5190 (M)|
 Phaedr. 3 prol. 37|fiet scelus it|fictis elusit|Pierre Pithou|1596|Neap. IV F 58 (N)|fictis eluṣ[]
 Phaedr. 3.2.4|-em|quidam|Pierre Pithou|1596|N T|
@@ -1495,7 +1495,7 @@ Phaedr. 3.11.6|-lec-|delictum|Pierre Pithou|1596|VNi|
 Phaedr. 3.13.11|quibus|quis|Pierre Pithou|1596|Nn|
 Phaedr. 3.17.13|monet|adm-|Pierre Pithou|1596|cod. Remensis (R)|
 Phaedr. 3.18.3|auri-|auibus|Pierre Pithou|1596|λ|
-Phaedr. 3.19.7|est t.|e turba|Pierre Pithou|1596|?|
+Phaedr. 3.19.7|est t.|e turba|Pierre Pithou|1596|ρ N|
 Phaedr. 4.4.8|-msi|contempti|Pierre Pithou|1596|Neap. IV F 58 (N)|
 Phaedr. 4.6.25|-re|fauor|Pierre Pithou|1596|λ|
 Phaedr. 4.6.36|-feret|profert|Pierre Pithou|1596|MVNid|
