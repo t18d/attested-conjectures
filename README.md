@@ -1736,7 +1736,9 @@ Plin. nat. 16.156|alta|talia|Julius Sillig|1853|D2|
 Plin. nat. 16.245|primo|piro|Johannes Harduinus|1685|D2|
 Plin. nat. 17.244|capita bis|ara iouis|Johannes Harduinus|1685|D2|
 Plin. nat. 18.114|annoaducena|annua ducena|Johannes Harduinus|1685|cod. Chiffl. (f)|
-Plin. nat. 18.224|N&#8254;R&#8254;|noster|Jacobus Dalechampius|1587|Paris. lat. 6797 (d)|
+Plin. nat. 18.224|N̅R/N.R.|noster|Jacobus Dalechampius|1587|Paris. lat. 6797 (d)|
+Plin. nat. 27.136|malagmate|-ta|Johannes Harduinus|1685|Flor. Ricc. 488 (R)|
+Plin. nat. 28.117|farct-/fast-|fartum|Jacobus Dalechampius|1587|Flor. Ricc. 488 (R)|
 Plu. 21A|ἦ/ἐῆ/εἴη|ἴῃ|Brunck|1786|Vat. Palat. gr. 178 (p)|
 Plu. 21B|-οῖ|φρονεῖ|Cobet|1877|G1X1vZWCh|Mnem. N.S. 5 (1877) 243
 Plu. 75B|περιθεμένη|περικει̣μ̣ενη|F. C. Babbitt|1927|P.Oxy. LXXVIII 5153|
