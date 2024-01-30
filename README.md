@@ -1718,8 +1718,14 @@ Plb. 11.16.6|τὴν δυσχρήστην|τὸ -τον|Causabon|1609|P.Berol. i
 Plb. 11.16.6|διαβάλλει|-βαλεῖ|Scaliger|s.xvi/xvii|P.Berol. inv. 9570 = APF 1:388-95|
 Plb. 11.16.7|ἐμπορεία|ἐν πορείᾳ|Johann Schweighäuser|1795|P.Ryl. 60|
 Plb. 28.2.4|om.|ϲυνεχωρηϲεν|Friedrich Otto Hultsch|1889|P.Oxy. LXXXI 5267|ϲ]υνεχωρηϲ[ε
-Plin. nat. 1.11|-mum. etiam in cera|minimum. aestatis|Julius Sillig|1851|cod. Moneus (M)|
-Plin. nat. 2.64|cuncta|capita|Johannes Caesarius|1524|E3|
+Plin. nat. 1.XI|-mum. etiam in cera|minimum. aestatis|Julius Sillig|1851|cod. Moneus (M)|
+Plin. nat. 2.160|cuncta|capita|Johannes Caesarius|1524|E3|
+Plin. nat. 11.24|euauatis|euitatis|Jacobus Dalechampius|1587|Flor. Ricc. 488 (R)|
+Plin. nat. 11.199|-nus|intestinum|Jacobus Dalechampius|1587|cod. Moneus (M)|
+Plin. nat. 12.1|restant|restat ut|Madvig|1873|exc. Dalecampii (z)|
+Plin. nat. 13.101|primus|proximus|Julius Sillig|1852|cod. Moneus (M)|
+Plin. nat. 13.109|-ire uerti|inueniri reuerti|Jacobus Dalechampius|1587|D2F2|
+Plin. nat. 13.132|perfer-|transferuntur|Jacobus Dalechampius|1587|cod. Moneus (M)|
 Plu. 21A|ἦ/ἐῆ/εἴη|ἴῃ|Brunck|1786|Vat. Palat. gr. 178 (p)|
 Plu. 21B|-οῖ|φρονεῖ|Cobet|1877|G1X1vZWCh|Mnem. N.S. 5 (1877) 243
 Plu. 75B|περιθεμένη|περικει̣μ̣ενη|F. C. Babbitt|1927|P.Oxy. LXXVIII 5153|
