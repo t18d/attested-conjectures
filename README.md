@@ -115,7 +115,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (85), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (59), Reiske (52), Cobet (48) and Brunck (48).</p>
+<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (59), Reiske (52), Cobet (48) and Brunck (48).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -436,6 +436,9 @@ Call. fr. 721|ἔαϲιν|ἐωϲιν|Dindorf|1864|Theognost. cod. Barocc.|Thes.
 Carm. conv. 906 Page|εἰ δὴ χρὴ|εἰ χρὴ|Johann Schweighäuser|1798|Arist. Ath. c. 20 fin|
 Carm. conv. 906 Page|εἰ δὴ χρὴ|εἰ χρὴ|Porson|n.d.|Arist. Ath. 20 fin|
 Carm. conv. 907 Page|κύρησαν|ἔσαν|Erasmus|n.d.|Arist. Ath. 19.3|
+Catull. 17.6|sali subsili|salisubsali|Bergk|1854|Diez. 37 m. sec.|ap. A. Rossbach
+Catull. 37.11|nam me|nam mi|Nicolaus Heinsius|1866|β2|ap. Schwabe
+Catull. 40.1|ravide|Raude|Gabriel Faernus|1566|(η)|ap. Ach. Statium
 Charito 2.3.5|ποθεν|ποδῶν|J. Ph. d’Orville|1750|P.Oxy. VII 1019|a man of means
 Charito 2.4.5|ἐπυρφόρει|επυρπ̣ο[λει|Rudolf Hercher|1854|P.Oxy. XLI 2948|
 Charito 2.4.6|μή τις|μή τι|Cobet|1842|P.Oxy. XLI 2948|
