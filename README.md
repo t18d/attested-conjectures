@@ -1721,25 +1721,25 @@ Plb. 11.16.7|ἐμπορεία|ἐν πορείᾳ|Johann Schweighäuser|1795|P.
 Plb. 28.2.4|om.|ϲυνεχωρηϲεν|Friedrich Otto Hultsch|1889|P.Oxy. LXXXI 5267|ϲ]υνεχωρηϲ[ε
 Plin. nat. 1.XI|-mum. etiam in cera|minimum. aestatis|Julius Sillig|1851|cod. Moneus (M)|
 Plin. nat. 2.160|cuncta|capita|Johannes Caesarius|1524|E3|
-Plin. nat. 11.24|euauatis|euitatis|Jacobus Dalechampius|1587|Flor. Ricc. 488 (R)|
-Plin. nat. 11.199|-nus|intestinum|Jacobus Dalechampius|1587|cod. Moneus (M)|
+Plin. nat. 11.24|euauatis|euitatis|Jacques Daléchamps|1587|Flor. Ricc. 488 (R)|
+Plin. nat. 11.199|-nus|intestinum|Jacques Daléchamps|1587|cod. Moneus (M)|
 Plin. nat. 12.1|restant|restat ut|Madvig|1873|exc. Dalecampii (z)|
 Plin. nat. 13.101|primus|proximus|Julius Sillig|1852|cod. Moneus (M)|
-Plin. nat. 13.109|-ire uerti|inueniri reuerti|Jacobus Dalechampius|1587|D2F2|
-Plin. nat. 13.132|perfer-|transferuntur|Jacobus Dalechampius|1587|cod. Moneus (M)|
-Plin. nat. 14.30|-ate|uetustatem|Jacobus Dalechampius|1587|MFa|
-Plin. nat. 14.33|-atem suam|fertilitate sua|Jacobus Dalechampius|1587|cod. Moneus (M)|
-Plin. nat. 14.39|ubi|ibi|Jacobus Dalechampius|1587|cod. Moneus (M)|
+Plin. nat. 13.109|-ire uerti|inueniri reuerti|Jacques Daléchamps|1587|D2F2|
+Plin. nat. 13.132|perfer-|transferuntur|Jacques Daléchamps|1587|cod. Moneus (M)|
+Plin. nat. 14.30|-ate|uetustatem|Jacques Daléchamps|1587|MFa|
+Plin. nat. 14.33|-atem suam|fertilitate sua|Jacques Daléchamps|1587|cod. Moneus (M)|
+Plin. nat. 14.39|ubi|ibi|Jacques Daléchamps|1587|cod. Moneus (M)|
 Plin. nat. 14.51|fuit|ruit|Gronovius|1669|cod. Moneus (M)|
 Plin. nat. 14.105|-go|asparagi|Julius Sillig|1852|cod. Moneus (M)|
-Plin. nat. 15.61|-ntecta|superiniecta|Jacobus Dalechampius|1587|cod. Moneus (M)|
+Plin. nat. 15.61|-ntecta|superiniecta|Jacques Daléchamps|1587|cod. Moneus (M)|
 Plin. nat. 16.156|alta|talia|Julius Sillig|1853|D2|
-Plin. nat. 16.245|primo|piro|Johannes Harduinus|1685|D2|
-Plin. nat. 17.244|capita bis|ara iouis|Johannes Harduinus|1685|D2|
-Plin. nat. 18.114|annoaducena|annua ducena|Johannes Harduinus|1685|cod. Chiffl. (f)|
-Plin. nat. 18.224|N̅R/N.R.|noster|Jacobus Dalechampius|1587|Paris. lat. 6797 (d)|
-Plin. nat. 27.136|malagmate|-ta|Johannes Harduinus|1685|Flor. Ricc. 488 (R)|
-Plin. nat. 28.117|farct-/fast-|fartum|Jacobus Dalechampius|1587|Flor. Ricc. 488 (R)|
+Plin. nat. 16.245|primo|piro|Jean Hardouin|1685|D2|
+Plin. nat. 17.244|capita bis|ara iouis|Jean Hardouin|1685|D2|
+Plin. nat. 18.114|annoaducena|annua ducena|Jean Hardouin|1685|cod. Chiffl. (f)|
+Plin. nat. 18.224|N̅R/N.R.|noster|Jacques Daléchamps|1587|Paris. lat. 6797 (d)|
+Plin. nat. 27.136|malagmate|-ta|Jean Hardouin|1685|Flor. Ricc. 488 (R)|
+Plin. nat. 28.117|farct-/fast-|fartum|Jacques Daléchamps|1587|Flor. Ricc. 488 (R)|
 Plin. nat. 31.37|-ia|mesopotamiae|Julius Sillig|1851|E1|
 Plu. 21A|ἦ/ἐῆ/εἴη|ἴῃ|Brunck|1786|Vat. Palat. gr. 178 (p)|
 Plu. 21B|-οῖ|φρονεῖ|Cobet|1877|G1X1vZWCh|Mnem. N.S. 5 (1877) 243
