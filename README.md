@@ -444,7 +444,7 @@ Catull. 63.71|columnibus|columinibus|Joannes Calphurnius|1481|(θ)|
 Catull. 63.77|lev-|saevumque|Francesco Pucci|n.d.|Caes. 29 sin. 19|
 Catull. 64.36|nicenis alacrissea|moenia larissea|Joannes Calphurnius|1481|θ|
 Catull. 64.196|imis/extremis|ex imis|Casaubon|n.d.|Lond. add. 12005|
-Catull. 66.11|auc-|avectus|L. R. S. Peiper|1875|(ε)|
+Catull. 66.11|auc-|avectus|Rudolf Peiper|1875|(ε)|
 Charito 2.3.5|ποθεν|ποδῶν|J. Ph. d’Orville|1750|P.Oxy. VII 1019|a man of means
 Charito 2.4.5|ἐπυρφόρει|επυρπ̣ο[λει|Rudolf Hercher|1854|P.Oxy. XLI 2948|
 Charito 2.4.6|μή τις|μή τι|Cobet|1842|P.Oxy. XLI 2948|
