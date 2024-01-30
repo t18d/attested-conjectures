@@ -80,6 +80,7 @@
         <li>Page, D. L. (ed.), <em>Poetae melici Graeci</em> (Oxford, 1967).</li>
         <li>Persius Flaccus, A., and D. Iunius Iuvenalis, <em>Saturae</em>, ed. W. V. Clausen (Oxford, 1966).</li>
         <li>Photius, <em>Patriarchae lexicon</em>, ed. Christos Theodoridis, 3 vols (Berlin, 1982–2013).</li>
+        <li>Plinius Secundus, C., <em>Naturalis historia: libri XXXVII</em>, ed. Karl Mayhoff (Munich, 1892–1909).</li>
         <li>Propertius, Sextus, <em>Elegiarum libri IV</em>, ed. Paolo Fedeli (Munich, 1994).</li>
         <li>Quintus de Smyrne, <em>La Suite d'Homère</em>, ed. Francis Vian, 2 vols (Paris, 1963–6).</li>
         <li>Radt, Stefan (ed.), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, iii: <em>Aeschylus</em> (Göttingen, 1985).</li>
