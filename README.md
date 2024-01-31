@@ -116,7 +116,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (59), Reiske (52), Cobet (48) and Brunck (48).</p>
+<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (59), Reiske (52), Cobet (48), Brunck (48) and Madvig (48) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -468,16 +468,23 @@ Choerob. in Theod. p. 268.35|λινό-|αἰνοτάλαντα|Bekker|1821|Marc.
 Choerob. in Theod. p. 352.11|-τήτειρα|ὀπτῆρα|A. F. Naeke|1845|Coisl. 176 (Bekker)|Gr. Gr. iv/1 Hilg.
 Cic. Caecin. 72|se at ue|statue|Madvig|n.d.|Brux. 14492 (π)|
 Cic. Caecin. 74|mina/cum omnia|lumina|Manutius|n.d.|Brux. 14492 (π)|
+Cic. Cael. 9|potuit|potuit isti|A. Naugerius|1534|CvCii|
 Cic. Cael. 11|is|del.|I. C. Vollgraff|1887|Cv|
 Cic. Cael. 15|pudicitiae|impu-|G. Garatoni|1787|Cv|
 Cic. Cael. 18|rei ρ. c.|publica causa|C. M. Francken|1880|CvCii|
 Cic. Cael. 21|vos|del.|G. Garatoni|1787|Cv|
+Cic. Cael. 29|om.|et copiose|A. Naugerius|1534|P.Lond.Lit 143|
+Cic. Cael. 34|eorum|horum|J. A. Ernesti|1810|gZI|
+Cic. Cael. 36|visa|vis|Madvig|1887|P.Lond.Lit 143|
 Cic. Cael. 37|dide/dede/dideae ac disce|dide ac dissice|Erycius Puteanus|n.d.|Cv|
 Cic. Cael. 41|et interdum|interdum|Madvig|1828|CvCii|appendix p. 47
 Cic. Cael. 43|liquet|libet|Madvig|1887|P.Lond.Lit 143|p. 320
 Cic. Cael. 44|quondam|quoniam|A. Naugerius|1534|P.Lond.Lit 143|
+Cic. Cael. 45|atque|atqui|Denys Lambin|1565|P.Lond.Lit 143|
 Cic. Cael. 45|om.|modo facimus non|Madvig|1887|Cv|p. 321
-Cic. Cael. 47|laborefiendi/labor confitendi|labor offendit|Madvig|1887|CvCii|p. 322
+Cic. Cael. 46|laborefiendi/labor confitendi|labor offendit|Madvig|1887|CvCii|p. 322
+Cic. Cael. 47|tot|tot iam|Denys Lambin|1565|CvCii|
+Cic. Cael. 52|ceterum|ceterorum|Janus Gulielmus|1618|CvCii|apud Gruter
 Cic. Cael. 54|laborata|elaborata|Antonius Augustinus|1581|P.Lond.Lit 143|apud Ursinum
 Cic. Cael. 57|sic enim obiectum (est)|sic est enim obiectum|Karl Halm|1856|CvCii|
 Cic. Cael. 58|ad eadem rem|ad eam rem|Madvig|1876|CvCii|p. 326
