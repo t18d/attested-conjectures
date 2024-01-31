@@ -500,6 +500,9 @@ Cic. Manil. 44|huius a.|auctoritas|Niccolò Angeli|1515|Harl. 2682 (H)|
 Cic. Manil. 54|umq-|inquam|Karl Halm|1854|Paris. 14749 (σ)|mg.
 Cic. Manil. 66|qui se a|qui a|C. A. Heumann|1735|Harl. 2682 (H)|
 Cic. Manil. 67|eos|nos|Denys Lambin|1566|HW|
+Cic. Mur. 13|cumsp-/consp-|circumspicere|Janus Gulielmus|n.d.|χ2|
+Cic. Mur. 25|causis|capsis|Madvig|n.d.|cod. Sambuci|
+Cic. Mur. 32|-am|statuo|Niccolò Angeli|1515|Monac. 15734 (s)|
 Cic. Quinct. 17|-et|quaesisses|Fr. Hotomanus|1554|Arus. gramm. 32|
 Cic. Quinct. 54|hoc|hos|Denys Lambin|1565|Iul. Ruf. rhet. 10|
 Cic. S. Rosc. 1|surrexerim|s. is|Naugerius|1534|Paris. 14749 (Σ)|
