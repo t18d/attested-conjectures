@@ -470,8 +470,22 @@ Choerob. in Theod. p. 268.35|λινό-|αἰνοτάλαντα|Bekker|1821|Marc.
 Choerob. in Theod. p. 352.11|-τήτειρα|ὀπτῆρα|A. F. Naeke|1845|Coisl. 176 (Bekker)|Gr. Gr. iv/1 Hilg.
 Cic. Caecin. 7|id|si id|C. M. Francken|1881|Palimp. Taur. (P)|
 Cic. Caecin. 25|quid|qui|Lehmann|n.d.|c2|
+Cic. Caecin. 25|pert-|proterrui|Denys Lambin|1566|cod. Tegerns. (T)|
+Cic. Caecin. 36|prohibito|prohibito, prohibito|Niccolò Angeli|1515|ς|
+Cic. Caecin. 38|opp-|approbata|François Hotman|1554|Palimp. Taur. (P)|
+Cic. Caecin. 46|aliunde|alicunde|Andrea Navagero|1519|cod. Tegerns. (T)|
+Cic. Caecin. 49|atting-|adiungere|Denys Lambin|1566|Palimp. Taur. (P)|
+Cic. Caecin. 55|restitisse|restituisse|Andrea Navagero|1519|cod. Tegerns. (T)|
+Cic. Caecin. 57|aut|an|Niccolò Angeli|1515|Paris. 7779 (k)|
 Cic. Caecin. 72|se at ue|statue|Madvig|n.d.|Brux. 14492 (π)|
-Cic. Caecin. 74|mina/cum omnia|lumina|Manutius|n.d.|Brux. 14492 (π)|
+Cic. Caecin. 72|ac natus|agnatus|Niccolò Angeli|1515|ς|
+Cic. Caecin. 74|mina/cum omnia|lumina|P. Manutius|1540|Brux. 14492 (π)|
+Cic. Caecin. 77|retinet|rem et|Spengel|n.d.|cod. Tegerns. (T)|
+Cic. Caecin. 85|-xit|interdixerit|Denys Lambin|1566|cod. Tegerns. (T)|
+Cic. Caecin. 87|om.|ex eo me deiecerit|Niccolò Angeli|1515|Paris. 7779 (k)|
+Cic. Caecin. 92|ei-|deiectum|Niccolò Angeli|1515|Paris. 7779 (k)|
+Cic. Caecin. 93|destitutum|destitutumquc|Niccolò Angeli|1515|c2|
+Cic. Caecin. 98|mancipi|ut Mancinum|Niccolò Angeli|1515|Paris. 7779 (k)|
 Cic. Cael. 9|potuit|potuit isti|Andrea Navagero|1534|CvCii|
 Cic. Cael. 11|is|del.|I. C. Vollgraff|1887|Cv|
 Cic. Cael. 15|pudicitiae|impu-|G. Garatoni|1787|Cv|
