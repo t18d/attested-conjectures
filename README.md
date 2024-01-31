@@ -520,7 +520,7 @@ Cic. Mur. 34|-o|ipse|Niccolò Angeli|1515|Guelf. 205 (w)|
 Cic. Mur. 56|sunt|sint|J. A. Ernesti|n.d.|Laur. 52.1 (φ)|
 Cic. Mur. 56|alienissimo|alienis exitio|Denys Lambin|1566|ψ2|
 Cic. Q. Rosc. 7|sunt in|in|Andrea Navagero|1519|oς|
-Cic. Q. Rosc. 8|exem-|extemplo|Philippus Beroaldus|1499|ς|
+Cic. Q. Rosc. 8|exem-|extemplo|Filippo Beroaldo I|1499|ς|
 Cic. Q. Rosc. 8|om.|referri|Niccolò Angeli|1515|ς|
 Cic. Quinct. 17|-et|quaesisses|François Hotman|1554|Arus. gramm. 32|
 Cic. Quinct. 19|-em|auctione|François Hotman|1554|ck|
@@ -1820,7 +1820,7 @@ Prop. 2.8.8|-is|uinces|Authur Palmer|1883|recc.|
 Prop. 2.9.41|sunt|sint|Pieter Burman II|1780|recc.|
 Prop. 2.10.11|-a|anime|Nicolaus Heinsius|1742|Salmant. 86|
 Prop. 2.15.1|o nox|nox ο|Francesco Pucci|1827|recc.|
-Prop. 2.23.4|promi-|commissa|Philippus Beroaldus I|1486|recc.|
+Prop. 2.23.4|promi-|commissa|Filippo Beroaldo I|1486|recc.|
 Prop. 2.26.54|uor-/uac-|uocans|Housman|1888|Monac. Vniu.Cim.22 (S)|
 Prop. 3.3.17|hic|hinc|Antonius Volscus|1488|recc.|
 Prop. 3.3.31|turba|cura|Jean Passerat|1608|recc.|
@@ -1831,10 +1831,10 @@ Prop. 3.16.23|huc|haec|François Guyet|1742|recc.|apud Heinsium
 Prop. 3.20.4|-isne|tantine|Gronovius|1662|Berol. lat. 500|
 Prop. 3.22.25|-ii|socia|Francesco Pucci|1827|recc.|
 Prop. 3.24.12|uerba|uera|Johannes Livineius|1621|Vat. Chig. Η IV 123|
-Prop. 4.3.8|-us|munito|Philippus Beroaldus I|1486|Berol. lat. 500|
+Prop. 4.3.8|-us|munito|Filippo Beroaldo I|1486|Berol. lat. 500|
 Prop. 4.5.76|hunc|hanc|Marcus Antonius Pocchus|1502|recc.|
 Prop. 4.5.77|c(a)edito|caedite|Johannes Livineius|1621|recc.|
-Prop. 4.8.28|-it|uolui|Philippus Beroaldus I|1486|recc.|
+Prop. 4.8.28|-it|uolui|Filippo Beroaldo I|1486|recc.|
 Q.S. 1.33|om.|ἕποντο|Scaliger|n.d.|Y|
 Q.S. 1.71|πόλ-|πτόλεμον|Scaliger|n.d.|Y|
 Q.S. 1.77|ἠὲ|ἢ|Scaliger|n.d.|Y|
