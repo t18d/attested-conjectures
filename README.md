@@ -494,6 +494,8 @@ Cic. Cluent. 199|nomen et iura|iura|Madvig|1871|Paris. lat. 18104 (X)|Adv. I 89 
 Cic. Manil. 26|-i|confectis|Naugerius|1534|Harl. 2682 (H)|
 Cic. Manil. 44|huius a.|auctoritas|Niccolò Angeli|1515|Harl. 2682 (H)|
 Cic. Manil. 54|umq-|inquam|Karl Halm|1854|Paris. 14749 (σ)|mg.
+Cic. Manil. 66|qui se a|qui a|Heumann|n.d.|Harl. 2682 (H)|
+Cic. Manil. 67|eos|nos|Denys Lambin|1566|HW|
 Cic. Quinct. 17|-et|quaesisses|Fr. Hotomanus|1554|Arus. gramm. 32|
 Cic. Quinct. 54|hoc|hos|Denys Lambin|1565|Iul. Ruf. rhet. 10|
 Cic. S. Rosc. 1|surrexerim|s. is|Naugerius|1534|Paris. 14749 (Σ)|
