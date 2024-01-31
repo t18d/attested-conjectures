@@ -491,12 +491,16 @@ Cic. Catil. 2.4|etiam tum reprobatam|etiam tum re probata|A. C. Clark|1905|Pap. 
 Cic. Catil. 4.15|in c. c.|consulatu confirmatam|Friedrich Richter|1861|Laur. 50.45 (x)|
 Cic. Cluent. 183|Strato … dixit|Stratonem … dixisse|C. G. Schütz|1815|cod. Cluny (C)|
 Cic. Cluent. 199|nomen et iura|iura|Madvig|1871|Paris. lat. 18104 (X)|Adv. I 89 sq.
+Cic. Manil. 26|-i|confectis|Naugerius|1534|Harl. 2682 (H)|
 Cic. Quinct. 17|-et|quaesisses|Fr. Hotomanus|1554|Arus. gramm. 32|
 Cic. Quinct. 54|hoc|hos|Denys Lambin|1565|Iul. Ruf. rhet. 10|
 Cic. S. Rosc. 1|surrexerim|s. is|Naugerius|1534|Paris. 14749 (Σ)|
 Cic. S. Rosc. 72|t. e.|est tam|Denys Lambin|1566|Laur. 48.25 (χ)|
 Cic. S. Rosc. 74|om.|quos|F. Richter|1861|Paris. 14749 (Σ)|
 Cic. S. Rosc. 82|i. n. q.|ibi quoque nos|Madvig|1887|Σσχ|
+Cic. S. Rosc. 125|ego hoc|hoc|Halm|n.d.|Guelf. 205 (w)|
+Cic. S. Rosc. 145|cognosti|cognovisti|Halm|n.d.|Guelf. 205 (w)|
+Cic. S. Rosc. 147|p. c.|clarissimum patrem|Halm|n.d.|Guelf. 205 (w)|
 Cic. Tim. 14|-unt|fuerant|Denys Lambin|1565–6|Vindob. lat. 189 (V)|
 Cic. Tull. 42|-matis|armis|P. E. Huschke|1826|Palimp. Taur. (T)|apud J. G. H.
 Cic. div. 1.20|post|prius|Janus Gulielmus|s.xvi med.|Phillipp. 1794 (L)|apud Gruter
