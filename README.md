@@ -519,7 +519,12 @@ Cic. Mur. 33|M. non|Mithridatem|Jodocus Badius|1511|Monac. 15734 (s)|
 Cic. Mur. 34|-o|ipse|Niccolò Angeli|1515|Guelf. 205 (w)|
 Cic. Mur. 56|sunt|sint|J. A. Ernesti|n.d.|Laur. 52.1 (φ)|
 Cic. Mur. 56|alienissimo|alienis exitio|Denys Lambin|1566|ψ2|
-Cic. Quinct. 17|-et|quaesisses|Fr. Hotomanus|1554|Arus. gramm. 32|
+Cic. Quinct. 17|-et|quaesisses|François Hotman|1554|Arus. gramm. 32|
+Cic. Quinct. 19|-em|auctione|François Hotman|1554|ck|
+Cic. Quinct. 29|tum|tamen|J. A. Ernesti|1773|Flor. Bibl. Nat. I. iv. 4 (b)|
+Cic. Quinct. 30|-eret|iuberetur|François Hotman|1554|ck|
+Cic. Quinct. 31|-et|possit|P. Manutius|1579|Φ|
+Cic. Quinct. 33|testesque|potestasque|Andrea Navagero|1519|b2|
 Cic. Quinct. 54|hoc|hos|Denys Lambin|1565|Iul. Ruf. rhet. 10|
 Cic. S. Rosc. 1|surrexerim|s. is|Andrea Navagero|1534|Paris. 14749 (Σ)|
 Cic. S. Rosc. 11|i-|eidem|Antonius Augustinus|1581|Laur. 48.26 (ω)|apud Ursinum
