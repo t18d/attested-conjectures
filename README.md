@@ -492,13 +492,17 @@ Cic. Cael. 59|ibi/urbi|mihi|Orelli|1826/32|CvCbCii|
 Cic. Cael. 60|sed enim|etenim|Janus Gruter|1618|CvCii|
 Cic. Cael. 61|aiunt hoc|aiunt huic|Madvig|1887|CvCii|p. 321
 Cic. Cael. 61|iam iam|iam|G. Oetling|1868|CvCbCi|ed. Romana
+Cic. Cael. 68|-levata|sublata|Denys Lambin|1565|TCvCii|
+Cic. Cael. 71|stultitiamne|stultitiam stultitiamne|A. Naugerius|1519|Ci|
 Cic. Cael. 71|afraria|aeraria|G. Garatoni|1787|Cv|
+Cic. Cael. 78|om.|esse|Denys Lambin|1565|Cv|
 Cic. Cael. 78|sit|est|J. G. Baiter|1856|Cv|Baiter-Halm p. 1452
 Cic. Catil. 2.4|etiam tum reprobatam|etiam tum re probata|A. C. Clark|1905|Pap. Barcin. (B)|
 Cic. Catil. 4.8|-a|dignas|Denys Lambin|1566|Monac. 7809 (i)|
 Cic. Catil. 4.8|l. p.|possit levare|Tadeusz Zielinski|1904|β|
 Cic. Catil. 4.15|in c. c.|consulatu confirmatam|Friedrich Richter|1861|Laur. 50.45 (x)|
 Cic. Cluent. 63|bis causam (iis)|bis iis causam|J. G. Baiter|1854|Paris. 14749 m. 1 (σ)|
+Cic. Cluent. 130|multitudinem illicitum|multitudini nemini licitum|Antonius Augustinus|1581|Palimp. Taurin. (P)|apud Ursinum
 Cic. Cluent. 150|tantum|tamen|Denys Lambin|1566|Paris. 14749 m. 2 (Σ)|
 Cic. Cluent. 183|Strato … dixit|Stratonem … dixisse|C. G. Schütz|1815|cod. Cluny (C)|
 Cic. Cluent. 199|nomen et iura|iura|Madvig|1871|Paris. lat. 18104 (X)|Adv. I 89 sq.
@@ -517,6 +521,7 @@ Cic. Mur. 56|alienissimo|alienis exitio|Denys Lambin|1566|ψ2|
 Cic. Quinct. 17|-et|quaesisses|Fr. Hotomanus|1554|Arus. gramm. 32|
 Cic. Quinct. 54|hoc|hos|Denys Lambin|1565|Iul. Ruf. rhet. 10|
 Cic. S. Rosc. 1|surrexerim|s. is|Naugerius|1534|Paris. 14749 (Σ)|
+Cic. S. Rosc. 11|i-|eidem|Antonius Augustinus|1581|Laur. 48.26 (ω)|apud Ursinum
 Cic. S. Rosc. 72|t. e.|est tam|Denys Lambin|1566|Laur. 48.25 (χ)|
 Cic. S. Rosc. 82|i. n. q.|ibi quoque nos|Madvig|1848|Σσχ|
 Cic. Tim. 14|-unt|fuerant|Denys Lambin|1565–6|Vindob. lat. 189 (V)|
