@@ -522,6 +522,12 @@ Cic. Mur. 56|alienissimo|alienis exitio|Denys Lambin|1566|ψ2|
 Cic. Q. Rosc. 7|sunt in|in|Andrea Navagero|1519|oς|
 Cic. Q. Rosc. 8|exem-|extemplo|Filippo Beroaldo I|1499|ς|
 Cic. Q. Rosc. 8|om.|referri|Niccolò Angeli|1515|ς|
+Cic. Q. Rosc. 10|om-|amittamus|Filippo Beroaldo I|1499|Paris. 7779 (k)|
+Cic. Q. Rosc. 11|clarius|dari|P. Manutius|1540|Ωt|
+Cic. Q. Rosc. 15|peri-|proinde|Denys Lambin|1566|b1|
+Cic. Q. Rosc. 16|om.|quae|Niccolò Angeli|1515|Paris. 7779 (k)|
+Cic. Q. Rosc. 20|non|nonne|Andrea Navagero|1534|otς|
+Cic. Q. Rosc. 20|-is|rasus|J. A. Ernesti|1773|oς|
 Cic. Quinct. 17|-et|quaesisses|François Hotman|1554|Arus. gramm. 32|
 Cic. Quinct. 19|-em|auctione|François Hotman|1554|ck|
 Cic. Quinct. 29|tum|tamen|J. A. Ernesti|1773|Flor. Bibl. Nat. I. iv. 4 (b)|
