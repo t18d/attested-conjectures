@@ -2549,7 +2549,7 @@ Tac. ann. 11.10.1|habebat/habeat|auebat|Lipsius|1547–1607|B2Hol|
 Tac. ann. 11.10.1|habebat|parabat|E. Wurm|1854|Ia|
 Tac. ann. 11.20.3|et fodere|effodere|Beatus Rhenanus|1533|B72PVin|
 Tac. ann. 11.22.4|potius|Potitus|Lipsius|1547–1607|Caesaraug. 9439 (Z)|
-Tac. ann. 11.24.6|attamen|ac tamen|K. Halm|1850|Yal. III (Y03)|
+Tac. ann. 11.24.6|attamen|ac tamen|Karl Halm|1850|Yal. III (Y03)|
 Tac. ann. 11.24.7|-ei|plebeii|Carl Nipperdey|1852|Caesaraug. 9439 (Z)|
 Tac. ann. 11.27|audisse a. u. subisse|audisse auspicum uerba|K. L. Urlichs|1848|Ib|
 Tac. ann. 11.34.2|-et|obstrepere|Valens Acidalius|1607|M2|
