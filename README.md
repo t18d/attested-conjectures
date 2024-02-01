@@ -472,26 +472,18 @@ Choerob. in Theod. p. 352.11|-τήτειρα|ὀπτῆρα|A. F. Naeke|1845|Coi
 Cic. Caecin. 7|id|si id|C. M. Francken|1881|Palimp. Taur. (P)|
 Cic. Caecin. 25|quid|qui|Lehmann|n.d.|c2|
 Cic. Caecin. 25|pert-|proterrui|Denys Lambin|1566|cod. Tegerns. (T)|
-Cic. Caecin. 36|prohibito|prohibito, prohibito|Niccolò Angeli|1515|ς|
 Cic. Caecin. 38|opp-|approbata|François Hotman|1554|Palimp. Taur. (P)|
 Cic. Caecin. 46|aliunde|alicunde|Andrea Navagero|1519|cod. Tegerns. (T)|
 Cic. Caecin. 49|atting-|adiungere|Denys Lambin|1566|Palimp. Taur. (P)|
 Cic. Caecin. 55|restitisse|restituisse|Andrea Navagero|1519|cod. Tegerns. (T)|
-Cic. Caecin. 57|aut|an|Niccolò Angeli|1515|Paris. 7779 (k)|
 Cic. Caecin. 72|se at ue|statue|Madvig|n.d.|Brux. 14492 (π)|
-Cic. Caecin. 72|ac natus|agnatus|Niccolò Angeli|1515|ς|
 Cic. Caecin. 74|mina/cum omnia|lumina|P. Manutius|1540|Brux. 14492 (π)|
 Cic. Caecin. 77|retinet|rem et|Spengel|n.d.|cod. Tegerns. (T)|
 Cic. Caecin. 85|-xit|interdixerit|Denys Lambin|1566|cod. Tegerns. (T)|
-Cic. Caecin. 87|om.|ex eo me deiecerit|Niccolò Angeli|1515|Paris. 7779 (k)|
-Cic. Caecin. 92|ei-|deiectum|Niccolò Angeli|1515|Paris. 7779 (k)|
 Cic. Caecin. 93|destitutum|destitutumquc|Niccolò Angeli|1515|c2|
-Cic. Caecin. 98|mancipi|ut Mancinum|Niccolò Angeli|1515|Paris. 7779 (k)|
 Cic. Caecin. 99|visceribus|hisce rebus|Filippo Beroaldo I|1499|ς|
 Cic. Caecin. 100|-fuerunt|proferunt|Orelli|1826–31|Paris. 7779 (k)|
-Cic. Caecin. 102|de|ea de|Niccolò Angeli|1515|Paris. 7779 (k)|
 Cic. Caecin. 103|relinquo|reliquo|Petrus Faber|1601|Te|
-Cic. Caecin. 104|-it|quaeri|Niccolò Angeli|1515|ς|
 Cic. Cael. 9|potuit|potuit isti|Andrea Navagero|1534|CvCii|
 Cic. Cael. 11|is|del.|I. C. Vollgraff|1887|Cv|
 Cic. Cael. 15|pudicitiae|impu-|Gasparo Garatoni|1787|Cv|
@@ -544,10 +536,8 @@ Cic. Flacc. 61|-ant|iactent|Denys Lambin|1566|Paris. 7779 (k)|
 Cic. Flacc. 61|defecerunt et defuerunt|defecerunt|Janus Gruter|1618|Paris. 7779 (k)|
 Cic. Flacc. 65|Caria|Care|Erasmus|1508|cod. Salisb. (s)|
 Cic. Flacc. 66|om.|sic|Gabriele Faerno|1563|b1k|
-Cic. Flacc. 74|quasi|quaeso|Niccolò Angeli|1515|Paris. 7779 (k)|
 Cic. Flacc. 82|ingeniosus scriptoris|ingenio subscriptoris|Andrea Navagero|1519|schol. Bobiensis|
 Cic. Flacc. 90|qui|cui|Graevius|1695–9|Paris. 7779 (k)|
-Cic. Flacc. 94|vestris|vestris, vestris|Niccolò Angeli|1515|ki|
 Cic. Flacc. 104|om.|cum|Gabriele Faerno|1563|b1k|
 Cic. Flacc. 105|-tuerint|poterunt|J. A. Ernesti|1773|Lag. 6 (b)|
 Cic. Manil. 26|-i|confectis|Andrea Navagero|1534|Harl. 2682 (H)|
@@ -575,7 +565,6 @@ Cic. Pis. 31|-vivi|semiviri|Anton Draeger|1867|Lag. 9|Philol.
 Cic. Pis. 59|facet-|factus|Antonius Augustinus|1543|V1|
 Cic. Pis. 67|hi|ii|Reinhold Klotz|1872|χς|
 Cic. Pis. 74|tu me|tu|Gabriele Faerno|1563|Laur. Conv. Soppr. 13 (M)|
-Cic. Pis. 87|-are|recordere|Niccolò Angeli|1515|ς|
 Cic. Pis. 87|mar-|armorum|Filippo Beroaldo I|1499|cod. Ströbel (i)|
 Cic. Pis. 87|et quid|ecquid|Niccolò Angeli|1515|cod. Erfurt. (E)|
 Cic. Pis. 89|descensi-|decessionis|Niccolò Angeli|1515|cod. Ströbel (i)|
@@ -585,16 +574,12 @@ Cic. Pis. 96|-ere|fuerunt|Karl Halm|1856|cod. Ströbel (i)|
 Cic. Pis. 98|p. dicere audes|ponderari|P. Manutius|1540|c2k|
 Cic. Q. Rosc. 7|sunt in|in|Andrea Navagero|1519|oς|
 Cic. Q. Rosc. 8|exem-|extemplo|Filippo Beroaldo I|1499|ς|
-Cic. Q. Rosc. 8|om.|referri|Niccolò Angeli|1515|ς|
 Cic. Q. Rosc. 10|om-|amittamus|Filippo Beroaldo I|1499|Paris. 7779 (k)|
 Cic. Q. Rosc. 11|clarius|dari|P. Manutius|1540|Ωt|
 Cic. Q. Rosc. 15|peri-|proinde|Denys Lambin|1566|b1|
-Cic. Q. Rosc. 16|om.|quae|Niccolò Angeli|1515|Paris. 7779 (k)|
 Cic. Q. Rosc. 20|non|nonne|Andrea Navagero|1534|otς|
 Cic. Q. Rosc. 20|-is|rasus|J. A. Ernesti|1773|oς|
 Cic. Q. Rosc. 22|su-|nummis|Andrea Navagero|1534|ς|
-Cic. Q. Rosc. 34|-is|liberabo|Niccolò Angeli|1515|Paris. 7779 (k)|
-Cic. Q. Rosc. 46|minore|maiore|Niccolò Angeli|1515|ς|
 Cic. Q. Rosc. 46|propterea|praeterea|Turnebus|1581|ς|
 Cic. Q. Rosc. 53|et|et eum|Denys Lambin|1566|Ω1|
 Cic. Quinct. 17|-et|quaesisses|François Hotman|1554|Arus. gramm. 32|
@@ -612,7 +597,6 @@ Cic. Rab. Post. 17|-orum|maior|François Hotman|1554|Paris. 7779 (k)|
 Cic. Rab. Post. 21|huic|hui|Turnebus|1581|c1|
 Cic. Rab. Post. 24|om.|se|Karl Halm|1856|ς|
 Cic. Rab. Post. 25|om.|illa|Andrea Navagero|1534–7|Paris. 7779 (k)|
-Cic. Rab. Post. 29|-pudentis|impeditis|Niccolò Angeli|1515|Paris. 7779 (k)|
 Cic. Rab. Post. 29|om.|et|Andrea Navagero|1519|Bodl. Canon. 226 (c)|
 Cic. Rab. Post. 30|-orum|imperatarum|Madvig|1855|Laur. 90 sup. 69 (ψ)|non ex dett.
 Cic. Rab. Post. 30|centima|in centesima|Karl Halm|1856|c2|
@@ -650,9 +634,7 @@ Cic. fin. 4.33|-ale|naturarum|P. Manutius|1583|recc.|
 Cic. fin. 5.23|t. tamquam/tamquam t.|tranquillitas|Madvig|1876|Vat. lat. 1759 (V)|
 Cic. fin. 5.42|-int|vicerunt|Madvig|1876|Mutin. lat. 213 (O)|
 Cic. fin. 5.84|-rum|miser|Madvig|1876|P2|
-Cic. leg. agr. 1.23|dedi-|seditionibus|Niccolò Angeli|1515|ς|
 Cic. leg. agr. 1.26|p. R.|patres conscripti|Carolus Sigonius|1558|ς|
-Cic. leg. agr. 2.10|sed si|si|Niccolò Angeli|1515|Paris. 7779 (k)|
 Cic. leg. agr. 2.10|sed si|sed|Gasparo Garatoni|1777–8|c1|
 Cic. leg. agr. 2.10|quidem|quiddam|Andrea Navagero|1519|Paris. 7779 (k)|
 Cic. leg. agr. 2.12|in r.|rebus|Andrea Navagero|1519|Paris. 7779 (k)|
@@ -661,9 +643,7 @@ Cic. leg. agr. 2.13|-tata|exspectatur|Janus Gulielmus|1618|Paris. 7779 (k)|apud 
 Cic. leg. agr. 2.21|-titur|sortietur|Andrea Navagero|1519|Paris. 7779 (k)|
 Cic. leg. agr. 2.21|-idit|excipit|Andrea Navagero|1519|ς|
 Cic. leg. agr. 2.24|reus|non r.|Carolus Sigonius|1558|Paris. 7779 (k)|
-Cic. leg. agr. 2.26|cui|qui|Niccolò Angeli|1515|Paris. 7779 (k)|
 Cic. leg. agr. 2.27|quia|Quirites|J. G. Baiter|1856|Lag. 9|
-Cic. leg. agr. 2.29|-et|possit|Niccolò Angeli|1515|Paris. 7779 (k)|
 Cic. leg. agr. 2.35|-orata|ignota|Madvig|1873|Lagg. 1, 7|p. 204
 Cic. leg. agr. 2.37|credend-|cavendum|Denys Lambin|1566|Paris. 7779 (k)|
 Cic. leg. agr. 2.40|terrae|certe|Niccolò Angeli|1515|Lag. 9|
