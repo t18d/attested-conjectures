@@ -570,7 +570,7 @@ Cic. Pis. 22|suo|suorum|Fulvio Orsini|1581|Palimp. Taur. (P)|
 Cic. Pis. 23|-i|Clodiane|Denys Lambin|1566|Lag. 12|
 Cic. Pis. 25|pulsat-|cerussataeque|Niccolò Angeli|1515|cod. Ströbel (i)|
 Cic. Pis. 31|omni-|ominibus|Filippo Beroaldo I|1499|c2|
-Cic. Pis. 31|-vivi|semiviri|Dräger||Lag. 9|
+Cic. Pis. 31|-vivi|semiviri|Anton Draeger|1867|Lag. 9|Philol.
 Cic. Pis. 59|facet-|factus|Antonius Augustinus|1543|V1|
 Cic. Pis. 67|hi|ii|Reinhold Klotz|1872|χς|
 Cic. Pis. 74|tu me|tu|Gabriele Faerno|1563|Laur. Conv. Soppr. 13 (M)|
