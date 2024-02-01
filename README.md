@@ -606,7 +606,14 @@ Cic. leg. agr. 2.24|reus|non r.|Carolus Sigonius|1558|Paris. 7779 (k)|
 Cic. leg. agr. 2.26|cui|qui|Niccolò Angeli|1515|Paris. 7779 (k)|
 Cic. leg. agr. 2.27|quia|Quirites|J. G. Baiter|1856|Lag. 9|
 Cic. leg. agr. 2.29|-et|possit|Niccolò Angeli|1515|Paris. 7779 (k)|
-Cic. leg. agr. 2.35|-orata|ignota|Madvig|n.d.|Lagg. 1, 7|
+Cic. leg. agr. 2.35|-orata|ignota|Madvig|1873|Lagg. 1, 7|p. 204
+Cic. leg. agr. 2.37|credend-|cavendum|Denys Lambin|1566|Paris. 7779 (k)|
+Cic. leg. agr. 2.40|terrae|certe|Niccolò Angeli|1515|Lag. 9|
+Cic. leg. agr. 2.41|Alexae|Alexandri|Carolus Sigonius|1558|ωχ|
+Cic. leg. agr. 2.83|fi-|idem|Mommsen|1856|Lag. 9|apud Baiter-Halm
+Cic. leg. agr. 2.87|-ie|nefarii|Andrea Navagero|1519|Lag. 9|
+Cic. leg. agr. 2.91|condit-|contionibus|Andrea Navagero|1519|Paris. 7779 (k)|
+Cic. leg. agr. 2.98|-nere uis|opponeretis|P. Manutius|1540|Lag. 9|
 Cic. orat. 12|-a|instructus|P. Reis|1932|Budap. bibl. nat. lat. 148 (Bud.)|
 Cic. orat. 16|-is|oratori|J. A. Ernesti|1774–7|N2|
 Cic. orat. 21|aequali-|aequabilitatem|P. Manutius|1546|H Bud.|
