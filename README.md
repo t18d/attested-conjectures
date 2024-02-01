@@ -118,7 +118,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (59), Reiske (52), Madvig (49), Cobet (48) and Brunck (48) (tied).</p>
+<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (59), Reiske (52), Madvig (50), Cobet (48) and Brunck (48) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -614,6 +614,9 @@ Cic. Rab. Post. 25|om.|illa|Andrea Navagero|1534–7|Paris. 7779 (k)|
 Cic. Rab. Post. 29|-pudentis|impeditis|Niccolò Angeli|1515|Paris. 7779 (k)|
 Cic. Rab. Post. 29|om.|et|Andrea Navagero|1519|Bodl. Canon. 226 (c)|
 Cic. Rab. Post. 30|centima|in centesima|Karl Halm|1856|c2|
+Cic. Rab. Post. 41|om.|ut|Andrea Navagero|1519|ς|
+Cic. Rab. Post. 47|a. fecisset|adiumento|Madvig||Paris. 7779 (k)|
+Cic. Rab. Post. 48|iam|nam|Karl Halm|1856|c1|
 Cic. Rab. perd. 3|-i|iudicare|Turnebus|1581|Paris. 7779 (k)|
 Cic. Rab. perd. 4|om.|nisi|Karl Halm|1856|Paris. 7779 (k)|
 Cic. Rab. perd. 14|om.|C.|C. L. Kayser|1861|Paris. 7779 (k)|
