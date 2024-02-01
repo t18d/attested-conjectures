@@ -535,7 +535,20 @@ Cic. Flacc. 23|ipse p.|psephismata|W. G. Pluygers|1856|cod. Ströbel (i)|
 Cic. Flacc. 23|et|sed|Gabriele Faerno|1563|b2|
 Cic. Flacc. 25|f. e.|est factus|Reinhold Klotz|1870|cod. Salisb. (s)|
 Cic. Flacc. 25|-averit|degenerarit|P. Manutius||cod. Ströbel (i)|
-Cic. Flacc. 25||quam|C. F. W. Müller|1897|b2|
+Cic. Flacc. 25|in qua|quam|C. F. W. Müller|1897|b2|
+Cic. Flacc. 32|abeno|ab Aeno|Turnebus|1581|Lag. 6 (b)|
+Cic. Flacc. 41|-sensu-|consessuque|Andrea Navagero|1534|Paris. 7778|m. 2
+Cic. Flacc. 52|pythodoria et idem iepisoni|Pythodori Aetidemi Lepisones|Gabriele Faerno|1563|Paris. 7779 (k)|-soni k
+Cic. Flacc. 61|-ant|iactent|Denys Lambin|1566|Paris. 7779 (k)|
+Cic. Flacc. 61|defecerunt et defuerunt|defecerunt|Janus Gruter|1618|Paris. 7779 (k)|
+Cic. Flacc. 65|Caria|Care|Erasmus||cod. Salisb. (s)|
+Cic. Flacc. 66|om.|sic|Gabriele Faerno|1563|b1k|
+Cic. Flacc. 74|quasi|quaeso|Niccolò Angeli|1515|Paris. 7779 (k)|
+Cic. Flacc. 82|ingeniosus scriptoris|ingenio subscriptoris|Andrea Navagero|1519|schol. Bobiensis|
+Cic. Flacc. 90|qui|cui|Graevius|1695–9|Paris. 7779 (k)|
+Cic. Flacc. 94|vestris|vestris, vestris|Niccolò Angeli|1515|ki|
+Cic. Flacc. 104|om.|cum|Gabriele Faerno|1563|b1k|
+Cic. Flacc. 105|-tuerint|poterunt|J. A. Ernesti|1773|Lag. 6 (b)|
 Cic. Manil. 26|-i|confectis|Andrea Navagero|1534|Harl. 2682 (H)|
 Cic. Manil. 44|huius a.|auctoritas|Niccolò Angeli|1515|Harl. 2682 (H)|
 Cic. Manil. 54|umq-|inquam|Karl Halm|1854|Paris. 14749 (σ)|mg.
