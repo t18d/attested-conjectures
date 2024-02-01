@@ -561,6 +561,12 @@ Cic. Mur. 33|M. non|Mithridatem|Jodocus Badius|1511|Monac. 15734 (s)|
 Cic. Mur. 34|-o|ipse|Niccolò Angeli|1515|Guelf. 205 (w)|
 Cic. Mur. 56|sunt|sint|J. A. Ernesti|n.d.|Laur. 52.1 (φ)|
 Cic. Mur. 56|alienissimo|alienis exitio|Denys Lambin|1566|ψ2|
+Cic. Pis. 2|tum|tu|Andrea Navagero|1519|ς|
+Cic. Pis. 5|-unicavi|commutavi|François Hotman|1554|Lag. 9|
+Cic. Pis. 6|-ae … -ae|gesta … conservata|Gasparo Garatoni|1777–8|Lag. 9|
+Cic. Pis. 13|vino-|vinulentis|C. F. W. Müller|1886|Mμς|
+Cic. Pis. 15|interire|interimere|Andrea Navagero|1534|c2k|
+Cic. Pis. 22|suo|suorum|Ph. Ursinus|1584|Palimp. Taur. (P)|
 Cic. Q. Rosc. 7|sunt in|in|Andrea Navagero|1519|oς|
 Cic. Q. Rosc. 8|exem-|extemplo|Filippo Beroaldo I|1499|ς|
 Cic. Q. Rosc. 8|om.|referri|Niccolò Angeli|1515|ς|
