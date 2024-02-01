@@ -606,6 +606,14 @@ Cic. Quinct. 40|si p.|et petisses|Reinhold Klotz|1852–62|b2|
 Cic. Quinct. 54|hoc|hos|Denys Lambin|1565|Iul. Ruf. rhet. 10|
 Cic. Quinct. 60|latitat|latitarit|P. Manutius|1579|Paris. 7778|
 Cic. Quinct. 82|qui|quin|Denys Lambin|1565|Paris. 7779 (k)|
+Cic. Rab. Post. 8|etiam cum|etiam|Niccolò Angeli|1515|pq|
+Cic. Rab. Post. 17|-orum|maior|François Hotman|1554|Paris. 7779 (k)|
+Cic. Rab. Post. 21|huic|hui|Turnebus|1581|c1|
+Cic. Rab. Post. 24|om.|se|Karl Halm|1856|ς|
+Cic. Rab. Post. 25|om.|illa|Andrea Navagero|1534–7|Paris. 7779 (k)|
+Cic. Rab. Post. 29|-pudentis|impeditis|Niccolò Angeli|1515|Paris. 7779 (k)|
+Cic. Rab. Post. 29|om.|et|Andrea Navagero|1519|Bodl. Canon. 226 (c)|
+Cic. Rab. Post. 30|centima|in centesima|Karl Halm|1856|c2|
 Cic. Rab. perd. 3|-i|iudicare|Turnebus|1581|Paris. 7779 (k)|
 Cic. Rab. perd. 4|om.|nisi|Karl Halm|1856|Paris. 7779 (k)|
 Cic. Rab. perd. 14|om.|C.|C. L. Kayser|1861|Paris. 7779 (k)|
