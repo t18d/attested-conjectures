@@ -118,7 +118,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (59), Reiske (52), Cobet (48), Brunck (48) and Madvig (48) (tied).</p>
+<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (59), Reiske (52), Madvig (49), Cobet (48) and Brunck (48) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -604,7 +604,9 @@ Cic. leg. agr. 2.21|-titur|sortietur|Andrea Navagero|1519|Paris. 7779 (k)|
 Cic. leg. agr. 2.21|-idit|excipit|Andrea Navagero|1519|ς|
 Cic. leg. agr. 2.24|reus|non r.|Carolus Sigonius|1558|Paris. 7779 (k)|
 Cic. leg. agr. 2.26|cui|qui|Niccolò Angeli|1515|Paris. 7779 (k)|
-Cic. leg. agr. 2.27|quia|Quirites|Baiter|1856|Lag. 9|
+Cic. leg. agr. 2.27|quia|Quirites|J. G. Baiter|1856|Lag. 9|
+Cic. leg. agr. 2.29|-et|possit|Niccolò Angeli|1515|Paris. 7779 (k)|
+Cic. leg. agr. 2.35|-orata|ignota|Madvig|n.d.|Lagg. 1, 7|
 Cic. orat. 12|-a|instructus|P. Reis|1932|Budap. bibl. nat. lat. 148 (Bud.)|
 Cic. orat. 16|-is|oratori|J. A. Ernesti|1774–7|N2|
 Cic. orat. 21|aequali-|aequabilitatem|P. Manutius|1546|H Bud.|
