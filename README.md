@@ -616,7 +616,7 @@ Cic. Rab. Post. 29|om.|et|Andrea Navagero|1519|Bodl. Canon. 226 (c)|
 Cic. Rab. Post. 30|-orum|imperatarum|Madvig|1855|Laur. 90 sup. 69 (ψ)|non ex dett.
 Cic. Rab. Post. 30|centima|in centesima|Karl Halm|1856|c2|
 Cic. Rab. Post. 41|om.|ut|Andrea Navagero|1519|ς|
-Cic. Rab. Post. 47|a. fecisset|adiumento|Madvig||Paris. 7779 (k)|
+Cic. Rab. Post. 47|a. fecisset|adiumento|Madvig|1856|Paris. 7779 (k)|apud Baiter-Halm
 Cic. Rab. Post. 48|iam|nam|Karl Halm|1856|c1|
 Cic. Rab. perd. 3|-i|iudicare|Turnebus|1581|Paris. 7779 (k)|
 Cic. Rab. perd. 4|om.|nisi|Karl Halm|1856|Paris. 7779 (k)|
