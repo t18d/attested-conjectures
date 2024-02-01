@@ -529,6 +529,9 @@ Cic. Cluent. 130|multitudinem illicitum|multitudini nemini licitum|Antonius Augu
 Cic. Cluent. 150|tantum|tamen|Denys Lambin|1566|Paris. 14749 m. 2 (Σ)|
 Cic. Cluent. 183|Strato … dixit|Stratonem … dixisse|C. G. Schütz|1815|cod. Cluny (C)|
 Cic. Cluent. 199|nomen et iura|iura|Madvig|1871|Paris. lat. 18104 (X)|Adv. I 89 sq.
+Cic. Flacc. 6|qua vi|del.|Faerno||Lag. 6 (b)|
+Cic. Flacc. 23|-et|dicit|Niccolò Angeli|1515|b1k|
+Cic. Flacc. 23|ipse p.|psephismata|Pluygers||cod. Ströbel (i)|
 Cic. Manil. 26|-i|confectis|Andrea Navagero|1534|Harl. 2682 (H)|
 Cic. Manil. 44|huius a.|auctoritas|Niccolò Angeli|1515|Harl. 2682 (H)|
 Cic. Manil. 54|umq-|inquam|Karl Halm|1854|Paris. 14749 (σ)|mg.
