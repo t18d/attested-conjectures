@@ -119,7 +119,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (59), Reiske (52), Madvig (51), Cobet (48) and Brunck (48) (tied).</p>
+<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (59), Reiske (52), Madvig (52), Cobet (48) and Brunck (48) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -582,6 +582,7 @@ Cic. Q. Rosc. 20|-is|rasus|J. A. Ernesti|1773|oς|
 Cic. Q. Rosc. 22|su-|nummis|Andrea Navagero|1534|ς|
 Cic. Q. Rosc. 46|propterea|praeterea|Turnebus|1581|ς|
 Cic. Q. Rosc. 53|et|et eum|Denys Lambin|1566|Ω1|
+Cic. Quinct. 13|quod quidque|quodcumque|J. G. Baiter|1854|H2|
 Cic. Quinct. 17|-et|quaesisses|François Hotman|1554|Arus. gramm. 32|
 Cic. Quinct. 19|-em|auctione|François Hotman|1554|ck|
 Cic. Quinct. 29|tum|tamen|J. A. Ernesti|1773|Flor. Bibl. Nat. I. iv. 4 (b)|
@@ -589,9 +590,13 @@ Cic. Quinct. 30|-eret|iuberetur|François Hotman|1554|ck|
 Cic. Quinct. 31|-et|possit|P. Manutius|1579|Φ|
 Cic. Quinct. 33|testesque|potestasque|Andrea Navagero|1519|b2|
 Cic. Quinct. 40|si p.|et petisses|Reinhold Klotz|1852–62|b2|
+Cic. Quinct. 47|sedeat|se dedat|Reinhold Klotz|1852–62|Pal. lat. 1484 (136)|
+Cic. Quinct. 51|-e|commemorari|Madvig|1856|H2 85|apud Baiter-Halm
 Cic. Quinct. 54|hoc|hos|Denys Lambin|1565|Iul. Ruf. rhet. 10|
 Cic. Quinct. 60|latitat|latitarit|P. Manutius|1579|Paris. 7778|
+Cic. Quinct. 79|agis|ais|Gasparo Garatoni|1777|Φ|
 Cic. Quinct. 82|qui|quin|Denys Lambin|1565|Paris. 7779 (k)|
+Cic. Quinct. 84|-dat/-dit|defenderit|Reinhold Klotz|1852–62|Vat. Ottob. lat. 1710 (H)|
 Cic. Rab. Post. 8|etiam cum|etiam|Niccolò Angeli|1515|pq|
 Cic. Rab. Post. 17|-orum|maior|François Hotman|1554|Paris. 7779 (k)|
 Cic. Rab. Post. 21|huic|hui|Turnebus|1581|c1|
