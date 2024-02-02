@@ -577,6 +577,9 @@ Cic. Phil. 12.24|maneo|del.|Andrea Navagero|1519|codd. dett.|
 Cic. Phil. 13.6|tectior|protectior|Tadeusz Zielinski||V2|
 Cic. Phil. 13.49|-as -am|undis flamma|Ferrarius||cod. P. Laeti (corr.)|
 Cic. Phil. 14.22|est|dico|Gabriele Faerno|1563|Collegii Novi Oxon. 252 (o)|
+Cic. Phil. 14.23|Servilium|Servili num|Ferrarius||Bern. 104 (b)|
+Cic. Phil. 14.33|ins-|sepulta|P. Laetus||Bern. 104 (b)|
+Cic. Phil. 14.36|-a|sententiam|Karl Halm|1856|Collegii Novi Oxon. 252 (o)|
 Cic. Pis. 2|tum|tu|Andrea Navagero|1519|ς|
 Cic. Pis. 5|-unicavi|commutavi|François Hotman|1554|Lag. 9|
 Cic. Pis. 6|-ae … -ae|gesta … conservata|Gasparo Garatoni|1777–8|Lag. 9|
