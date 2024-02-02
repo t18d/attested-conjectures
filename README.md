@@ -200,12 +200,12 @@ Aeschin. 3.243|μοῖραν|μόραν|Hieronymus Wolf|1572|Barb. gr. 159 (B)|
 Alc. fr. 6.3|καὶ|ΚΕ’ΝΑ|J. F. A. Seidler|1829|P.Oxy. XV 1789|
 Alc. fr. 34|]ϲον|δεῦτέ μοι νᾶϲον|C. Gallavotti|1947|P.Mich. inv. 3498 + 3250b recto|δεῦτ̣[έ] μοι νᾶcον; Borges-Sampson (2012)
 Alc. fr. 343|τετυγ-|τετυχ[|Lobel|1927|P.Oxy. XXXV 2734|
-Anaximen. Rh. 1.13|ἢ ἄ.|ἢ ὑπ' ἄνθρώπων|Leonhard von Spengel|1844|P.Hib. I 26|
-Anaximen. Rh. 1.15|τὸν τρόπον τοῦτον|τοῦτον τὸν τρόπον|Leonhard von Spengel|1844|P.Hib. I 26|[τ]οῦ[το]ν τὸν [
+Anaximen. Rh. 1.13|ἢ ἄ.|ἢ ὑπ' ἄνθρώπων|Leonhard Spengel|1844|P.Hib. I 26|
+Anaximen. Rh. 1.15|τὸν τρόπον τοῦτον|τοῦτον τὸν τρόπον|Leonhard Spengel|1844|P.Hib. I 26|[τ]οῦ[το]ν τὸν [
 Anaximen. Rh. 2.3|περιττῶς|τριττῶς|Bekker|1831|P.Hib. I 26|
-Anaximen. Rh. 4.1|-λωμεν|διέλθωμεν|Leonhard von Spengel|1844|P.Hib. I 26|
-Anaximen. Rh. 4.3|νόμος|ὁ ν.|Leonhard von Spengel|1844|P.Hib. I 26|
-Anaximen. Rh. 4.4|ἴσασι/εἰδῶσι|τιμῶσι|Leonhard von Spengel|1844|P.Hib. I 26|
+Anaximen. Rh. 4.1|-λωμεν|διέλθωμεν|Leonhard Spengel|1844|P.Hib. I 26|
+Anaximen. Rh. 4.3|νόμος|ὁ ν.|Leonhard Spengel|1844|P.Hib. I 26|
+Anaximen. Rh. 4.4|ἴσασι/εἰδῶσι|τιμῶσι|Leonhard Spengel|1844|P.Hib. I 26|
 Ap. Rhod. 1.74|ἦεν κτλ.|ᾖεν|Arthur Platt|1914–9|Palat. gr. 186 (V)|
 Ap. Rhod. 1.372|πρώραν|πρώειραν|Bergk|n.d.|Et.Gen.|
 Ap. Rhod. 1.749|ἀμειβό-|ἀμυνόμενοι|Jeremias Hoelzlin|1641|Laur. gr. 32.16 (S)|
@@ -478,7 +478,7 @@ Cic. Caecin. 49|atting-|adiungere|Denys Lambin|1566|Palimp. Taur. (P)|
 Cic. Caecin. 55|restitisse|restituisse|Andrea Navagero|1519|cod. Tegerns. (T)|
 Cic. Caecin. 72|se at ue|statue|Madvig|n.d.|Brux. 14492 (π)|
 Cic. Caecin. 74|mina/cum omnia|lumina|P. Manutius|1540|Brux. 14492 (π)|
-Cic. Caecin. 77|retinet|rem et|Spengel|n.d.|cod. Tegerns. (T)|
+Cic. Caecin. 77|retinet|rem et|Leonhard Spengel|1847|cod. Tegerns. (T)|Philolog.
 Cic. Caecin. 85|-xit|interdixerit|Denys Lambin|1566|cod. Tegerns. (T)|
 Cic. Caecin. 93|destitutum|destitutumquc|Niccolò Angeli|1515|c2|
 Cic. Caecin. 99|visceribus|hisce rebus|Filippo Beroaldo I|1499|ς|
