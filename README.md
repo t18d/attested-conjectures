@@ -517,15 +517,15 @@ Cic. Catil. 2.4|etiam tum reprobatam|etiam tum re probata|A. C. Clark|1905|Pap. 
 Cic. Catil. 4.8|-a|dignas|Denys Lambin|1566|Monac. 7809 (i)|
 Cic. Catil. 4.8|l. p.|possit levare|Tadeusz Zielinski|1904|β|
 Cic. Catil. 4.15|in c. c.|consulatu confirmatam|Friedrich Richter|1861|Laur. 50.45 (x)|
-Cic. Cluent. 25|-traretur|arbitretur|Weiske||ς|
+Cic. Cluent. 25|-traretur|arbitretur|B. Weiske|1806|ς|
 Cic. Cluent. 63|bis causam (iis)|bis iis causam|J. G. Baiter|1854|Paris. 14749 m. 1 (σ)|
 Cic. Cluent. 130|multitudinem illicitum|multitudini nemini licitum|Antonius Augustinus|1581|Palimp. Taurin. (P)|apud Ursinum
-Cic. Cluent. 137|ut id quod|ut quod|Peterson||ς|
-Cic. Cluent. 150|tantum|tamen|Denys Lambin|1566|Paris. 14749 m. 2 (Σ)|
-Cic. Cluent. 152|-e -a|potestatem suam|P. Manutius||ς|
-Cic. Cluent. 170|aud-|adire|Andrea Navagero|1519|Bodl. Canon. 226 (c)|
+Cic. Cluent. 137|ut id quod|ut quod|W. Peterson|1899|Vat. Barb. lat. 142 (G)|
+Cic. Cluent. 150|tantum|tamen|Denys Lambin|1566|cod. Cluny (C)|
+Cic. Cluent. 152|-e -a|potestatem suam|P. Manutius|1541|ς|
+Cic. Cluent. 170|aud-|adire|Andrea Navagero|1519|exc. in Paris. lat. 18104 (X)|
 Cic. Cluent. 183|Strato … dixit|Stratonem … dixisse|C. G. Schütz|1815|cod. Cluny (C)|
-Cic. Cluent. 199|nomen et iura|iura|Madvig|1871|Paris. lat. 18104 (X)|Adv. I 89 sq.
+Cic. Cluent. 199|nomen et iura|iura|Madvig|1871|exc. in Paris. lat. 18104 (X)|Adv. I 89 sq.
 Cic. Flacc. 6|qua vi|del.|Gabriele Faerno|1563|Lag. 6 (b)|
 Cic. Flacc. 23|-et|dicit|Niccolò Angeli|1515|b1k|
 Cic. Flacc. 23|ipse p.|psephismata|W. G. Pluygers|1856|cod. Ströbel (i)|
