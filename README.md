@@ -549,11 +549,14 @@ Cic. Manil. 44|huius a.|auctoritas|Niccolò Angeli|1515|Harl. 2682 (H)|
 Cic. Manil. 54|umq-|inquam|Karl Halm|1854|Paris. 14749 (σ)|mg.
 Cic. Manil. 66|qui se a|qui a|C. A. Heumann|1735|Harl. 2682 (H)|
 Cic. Manil. 67|eos|nos|Denys Lambin|1566|HW|
+Cic. Mur. 3|-a|uno|Denys Lambin|1566|ς|
 Cic. Mur. 13|cumsp-/consp-|circumspicere|Janus Gulielmus|n.d.|χ2|
+Cic. Mur. 21|i. e.|eadem in|Denys Lambin|1566|ς|
 Cic. Mur. 25|causis|capsis|Madvig|n.d.|cod. Sambuci|
 Cic. Mur. 32|-am|statuo|Niccolò Angeli|1515|Monac. 15734 (s)|
-Cic. Mur. 33|M. non|Mithridatem|Jodocus Badius|1511|Monac. 15734 (s)|
+Cic. Mur. 33|M. non|Mithridatem|Jodocus Badius|1511|sς|
 Cic. Mur. 34|-o|ipse|Niccolò Angeli|1515|Guelf. 205 (w)|
+Cic. Mur. 49|-cussi|perculsi|Denys Lambin|1566|ς|
 Cic. Mur. 56|sunt|sint|J. A. Ernesti|n.d.|Laur. 52.1 (φ)|
 Cic. Mur. 56|alienissimo|alienis exitio|Denys Lambin|1566|ψ2|
 Cic. Pis. 2|tum|tu|Andrea Navagero|1519|ς|
