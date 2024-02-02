@@ -478,7 +478,7 @@ Cic. Caecin. 49|atting-|adiungere|Denys Lambin|1566|Palimp. Taur. (P)|
 Cic. Caecin. 55|restitisse|restituisse|Andrea Navagero|1519|cod. Tegerns. (T)|
 Cic. Caecin. 72|se at ue|statue|Madvig|n.d.|Brux. 14492 (π)|
 Cic. Caecin. 74|mina/cum omnia|lumina|P. Manutius|1540|Brux. 14492 (π)|
-Cic. Caecin. 77|retinet|rem et|Leonhard Spengel|1847|cod. Tegerns. (T)|Philolog.
+Cic. Caecin. 77|retinet|rem et|Leonhard Spengel|1847|cod. Tegerns. (T)|Philol.
 Cic. Caecin. 85|-xit|interdixerit|Denys Lambin|1566|cod. Tegerns. (T)|
 Cic. Caecin. 93|destitutum|destitutumquc|Niccolò Angeli|1515|c2|
 Cic. Caecin. 99|visceribus|hisce rebus|Filippo Beroaldo I|1499|ς|
@@ -622,11 +622,11 @@ Cic. S. Rosc. 56|tamen non|tamen|R. Novák|1887|c2k|
 Cic. S. Rosc. 62|id maxime|maxime|Jodocus Badius|1527|c2k|
 Cic. S. Rosc. 72|t. e.|est tam|Denys Lambin|1566|Laur. 48.25 (χ)|
 Cic. S. Rosc. 74|hi|ii|Karl Halm|1854|ως|
-Cic. S. Rosc. 74|quicum locutus|qui conlocutus|G. Krüger|1868|c1|
+Cic. S. Rosc. 74|quicum locutus|qui conlocutus|Guatav Krüger|1868|c1|NeueJahrbPhil; conlocutus Stanger
 Cic. S. Rosc. 82|i. n. q.|ibi quoque nos|Madvig|1848|Σσχ|
 Cic. S. Rosc. 96|-um|primo|W. Büchner|1835|ς|
 Cic. S. Rosc. 105|hoc|hanc|François Dubois|1530|ς|
-Cic. S. Rosc. 115|Roscio|T. Roscio|Schütz||ς|
+Cic. S. Rosc. 115|Roscio|T. Roscio|C. G. Schütz|1814–23|ς|
 Cic. S. Rosc. 124|l. s. esse|laesos se|A. C. Clark|1905|ς|
 Cic. S. Rosc. 149|-ala|Messalla|Denys Lambin|1566|c2k|
 Cic. Tim. 14|-unt|fuerant|Denys Lambin|1565–6|Vindob. lat. 189 (V)|
