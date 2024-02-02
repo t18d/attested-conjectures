@@ -553,15 +553,21 @@ Cic. Flacc. 82|ingeniosus scriptoris|ingenio subscriptoris|Andrea Navagero|1519|
 Cic. Flacc. 90|qui|cui|Graevius|1695–9|Paris. 7779 (k)|
 Cic. Flacc. 104|om.|cum|Gabriele Faerno|1563|b1k|
 Cic. Flacc. 105|-tuerint|poterunt|J. A. Ernesti|1773|Lag. 6 (b)|
+Cic. Lig. 5|t. est q. … si|tempus quod ... si|J. G. Baiter||Harl. 2682 (H)|
+Cic. Lig. 17|quis-|quicquam|Haupt||ah|
 Cic. Lig. 25|essetis|estis|Gasparo Garatoni||C1|
 Cic. Lig. 29|m. tuae|misericordiae|Tadeusz Zielinski|1904|β|
+Cic. Lig. 38|-em h. -o|salute hominibus danda|Müller||hσ|
 Cic. Manil. 26|-i|confectis|Andrea Navagero|1534|Harl. 2682 (H)|
 Cic. Manil. 44|huius a.|auctoritas|Niccolò Angeli|1515|Harl. 2682 (H)|
 Cic. Manil. 54|umq-|inquam|Karl Halm|1854|Paris. 14749 (σ)|mg.
 Cic. Manil. 66|qui se a|qui a|C. A. Heumann|1735|Harl. 2682 (H)|
 Cic. Manil. 67|eos|nos|Denys Lambin|1566|HW|
 Cic. Marcell. 12|q. illa erant adepta|quae <illā> erant adempta|Madvig|1884|Harl. 2545|p. 152
+Cic. Mil. 12|est|esset|John Bake|1852|Harl. 2682 (H)|
+Cic. Mil. 39|-erent|concurreret|Richter||ΣH|
 Cic. Mil. 63|perdi-|percito|Andrea Navagero|1519|b2|
+Cic. Mil. 65|esse|se|Heumann||ΣH|
 Cic. Mur. 3|-a|uno|Denys Lambin|1566|ω|
 Cic. Mur. 13|cumsp-/consp-|circumspicere|Janus Gulielmus|n.d.|χ2|
 Cic. Mur. 21|i. e.|eadem in|Denys Lambin|1566|ς|
