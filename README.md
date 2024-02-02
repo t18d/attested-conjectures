@@ -120,7 +120,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (59), Reiske (52), Madvig (52), Cobet (48) and Brunck (48) (tied).</p>
+<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (59), Reiske (52), Madvig (51), Cobet (48) and Brunck (48) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -477,7 +477,7 @@ Cic. Caecin. 38|opp-|approbata|François Hotman|1554|Palimp. Taur. (P)|
 Cic. Caecin. 46|aliunde|alicunde|Andrea Navagero|1519|cod. Tegerns. (T)|
 Cic. Caecin. 49|atting-|adiungere|Denys Lambin|1566|Palimp. Taur. (P)|
 Cic. Caecin. 55|restitisse|restituisse|Andrea Navagero|1519|cod. Tegerns. (T)|
-Cic. Caecin. 72|se at ue|statue|Madvig|n.d.|Brux. 14492 (π)|
+Cic. Caecin. 72|se at ue|statue|Mommsen|1845|Brux. 14492 (π)|
 Cic. Caecin. 74|mina/cum omnia|lumina|P. Manutius|1540|Brux. 14492 (π)|
 Cic. Caecin. 77|retinet|rem et|Leonhard Spengel|1847|cod. Tegerns. (T)|Philol.
 Cic. Caecin. 85|-xit|interdixerit|Denys Lambin|1566|cod. Tegerns. (T)|
