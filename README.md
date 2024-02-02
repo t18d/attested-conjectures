@@ -120,7 +120,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (59), Madvig (53), Reiske (52), Cobet (48) and Brunck (48) (tied).</p>
+<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (59), Madvig (54), Reiske (52), Cobet (48) and Brunck (48) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -535,6 +535,7 @@ Cic. Cluent. 152|-e -a|potestatem suam|P. Manutius|1541|ς|
 Cic. Cluent. 170|aud-|adire|Andrea Navagero|1519|exc. in Paris. lat. 18104 (X)|
 Cic. Cluent. 183|Strato … dixit|Stratonem … dixisse|C. G. Schütz|1815|cod. Cluny (C)|
 Cic. Cluent. 199|nomen et iura|iura|Madvig|1871|exc. in Paris. lat. 18104 (X)|Adv. I 89 sq.
+Cic. Deiot. 2|crudelis Castor (est)|-em -em|Madvig|1842|γ|p. 308 'in a well-known passage' (Clark)
 Cic. Flacc. 6|qua vi|del.|Gabriele Faerno|1563|Lag. 6 (b)|
 Cic. Flacc. 23|-et|dicit|Niccolò Angeli|1515|b1k|
 Cic. Flacc. 23|ipse p.|psephismata|W. G. Pluygers|1856|cod. Ströbel (i)|
@@ -543,7 +544,6 @@ Cic. Flacc. 25|f. e.|est factus|Reinhold Klotz|1870|cod. Salisb. (s)|
 Cic. Flacc. 25|-averit|degenerarit|P. Manutius|1540|cod. Ströbel (i)|
 Cic. Flacc. 25|in qua|quam|C. F. W. Müller|1897|b2|
 Cic. Flacc. 32|abeno|ab Aeno|Turnebus|1581|Lag. 6 (b)|
-Cic. Flacc. 41|-sensu-|consessuque|Andrea Navagero|1534|Paris. 7778|m. 2
 Cic. Flacc. 52|pythodoria et idem iepisoni|Pythodori Aetidemi Lepisones|Gabriele Faerno|1563|Paris. 7779 (k)|-soni k
 Cic. Flacc. 61|-ant|iactent|Denys Lambin|1566|Paris. 7779 (k)|
 Cic. Flacc. 61|defecerunt et defuerunt|defecerunt|Janus Gruter|1618|Paris. 7779 (k)|
@@ -553,6 +553,8 @@ Cic. Flacc. 82|ingeniosus scriptoris|ingenio subscriptoris|Andrea Navagero|1519|
 Cic. Flacc. 90|qui|cui|Graevius|1695–9|Paris. 7779 (k)|
 Cic. Flacc. 104|om.|cum|Gabriele Faerno|1563|b1k|
 Cic. Flacc. 105|-tuerint|poterunt|J. A. Ernesti|1773|Lag. 6 (b)|
+Cic. Lig. 25|essetis|estis|Gasparo Garatoni||C1|
+Cic. Lig. 29|m. tuae|misericordiae|Tadeusz Zielinski|1904|β|
 Cic. Manil. 26|-i|confectis|Andrea Navagero|1534|Harl. 2682 (H)|
 Cic. Manil. 44|huius a.|auctoritas|Niccolò Angeli|1515|Harl. 2682 (H)|
 Cic. Manil. 54|umq-|inquam|Karl Halm|1854|Paris. 14749 (σ)|mg.
@@ -718,6 +720,7 @@ Cic. orat. 215|e|del.|W. A. Baehrens|1912|L|
 Cic. orat. 222|nodi|modi|J. Stroux|1913|B N Q|
 Cic. orat. 232|-atur|corrumpetur|Christian Hörner|1885|Θ B|ap. Stangl
 Cic. orat. 233|-it|fuerat|Denys Lambin|1566|Barcin. bibl. univ. 12 (B)|
+Cic.Deiot. 43Deiot. 43 Flacc. 41|-sensu-|consessuque|Andrea Navagero|1534|Paris. 7778|m. 2
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
