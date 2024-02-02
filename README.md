@@ -120,7 +120,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (59), Reiske (52), Madvig (51), Cobet (48) and Brunck (48) (tied).</p>
+<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (59), Reiske (52), Madvig (52), Cobet (48) and Brunck (48) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -390,6 +390,10 @@ Archil. fr. 4.6|ἀλλά τε|ἀλλ᾽ ἄγε|Musurus|n.d.|P.Oxy. VI 854|
 Arist. fr. 57.12 Rose|οὔτε|ουδε|Meineke|1839–57|P.Oxy. IV 666|
 Arist. fr. 842.7 Page|τ᾽ ἀθάνατον/εἰς ἀ.|ἰσαθάνατον|Wilamowitz|n.d.|BKT I 25|Did. in D. col. 6.18 seqq.
 Aristarch.Trag. fr. 3|-νημα|σωφρόνισμα|Meineke|1839–57|Macar.|
+Ascon. Mil. 28|elisi|visi|Rinkes||ς|
+Ascon. Mil. 32|idque ipse ipsum|idque ipsum|Lodoicus|1536|ς|
+Ascon. Mil. 34|eorum|suorum|Auguste Wagener||ς|
+Ascon. Mil. 49|repertus|repetitus|Madvig||Forteguerri 37 (S)|
 Ath. 9.375E|νοθ-|νοτοῦντι|J. C. de Pauw|1745|Marc. 447 (A)|
 Ath. 11.490E|οὐρανός τε γῆ|οὐρανοστεγῆ|Benjamin Heath|1798|Marc. 447 (A)|apud Schweighäuser
 BGU 1074|Οὐήρῳ|Σευήρῳ|Viereck|n.d.|P.Oxy. XXVII 2476|
