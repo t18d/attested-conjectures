@@ -616,12 +616,19 @@ Cic. S. Rosc. 1|surrexerim|s. is|Andrea Navagero|1534|Σc|
 Cic. S. Rosc. 11|i-|eidem|Antonius Augustinus|1581|Laur. 48.26 (ω)|apud Ursinum
 Cic. S. Rosc. 30|-etur|optet|Filippo Beroaldo I|1499|ς|
 Cic. S. Rosc. 30|supplicium parricidarum|del.|François Hotman|1554|ς|
-Cic. S. Rosc. 30|quoniam quidem suscepi|del.|Heusinger||Bodl. Canon. 226 (c)|
+Cic. S. Rosc. 30|quoniam quidem suscepi|del.|J. F. Heusinger|1835|Bodl. Canon. 226 (c)|apud Büchner
 Cic. S. Rosc. 44|-e|attenta|Andrea Navagero|1519|ς|
 Cic. S. Rosc. 56|tamen non|tamen|R. Novák|1887|c2k|
-Cic. S. Rosc. 62|id maxime|maxime|Jodocus Badius|1511|c2k|
+Cic. S. Rosc. 62|id maxime|maxime|Jodocus Badius|1527|c2k|
 Cic. S. Rosc. 72|t. e.|est tam|Denys Lambin|1566|Laur. 48.25 (χ)|
+Cic. S. Rosc. 74|hi|ii|Karl Halm|1854|ως|
+Cic. S. Rosc. 74|quicum locutus|qui conlocutus|G. Krüger|1868|c1|
 Cic. S. Rosc. 82|i. n. q.|ibi quoque nos|Madvig|1848|Σσχ|
+Cic. S. Rosc. 96|-um|primo|Büchner|1835|ς|
+Cic. S. Rosc. 105|hoc|hanc|Sylvius||ς|
+Cic. S. Rosc. 115|Roscio|T. Roscio|Schütz||ς|
+Cic. S. Rosc. 124|l. s. esse|laesos se|Clark||ς|
+Cic. S. Rosc. 149|-ala|Messalla|Denys Lambin|1566|c2k|
 Cic. Tim. 14|-unt|fuerant|Denys Lambin|1565–6|Vindob. lat. 189 (V)|
 Cic. Tull. 42|-matis|armis|P. E. Huschke|1826|Palimp. Taur. (T)|apud J. G. H.
 Cic. div. 1.20|post|prius|Janus Gulielmus|s.xvi med.|Phillipp. 1794 (L)|apud Gruter
