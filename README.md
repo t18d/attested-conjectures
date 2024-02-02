@@ -39,6 +39,7 @@
         <li>Cicero, M. Tullius, <em>Oraliones in L. Catilinam quattuor</em>, ed. Tadeusz Maslowski (Munich, 2003).</li>
         <li>Cicero, M. Tullius, <em>De finibus bonorum et malorum</em>, ed. Claudio Moreschini (Munich, 2005).</li>
         <li>Clark, Albert C., <em>Anecdota Oxoniensia</em>, x: <em>The Vetus Cluniacensis of Poggio</em> (Oxford, 1905).</li>
+        <li>Clark, Albert C., <em>Anecdota Oxoniensia</em>, xi: <em>Inventa Italorum</em> (Oxford, 1909).</li>
         <li>Demosthenes, <em>Orationes</em>, ed. M. R. Dilts, 4 vols (Oxford, 2002–9).</li>
         <li>Diggle, James, 'Apologies to Bothe (and Others)', in <em>Euripidea: collected essays</em> (Oxford, 1994), 518–23.</li>
         <li>El-Maghrabi, M. G., and C. Römer (eds), <em>Texts from the "Archive" of Socrates, the Tax Collector, and Other Contexts at Karanis (P. Cair. Mich. II)</em> (Berlin, 2015), 48.</li>
