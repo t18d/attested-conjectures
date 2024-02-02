@@ -572,6 +572,11 @@ Cic. Mur. 34|-o|ipse|Niccolò Angeli|1515|Guelf. 205 (w)|
 Cic. Mur. 49|-cussi|perculsi|Denys Lambin|1566|ς|
 Cic. Mur. 56|sunt|sint|J. A. Ernesti|n.d.|Laur. 52.1 (φ)|
 Cic. Mur. 56|alienissimo|alienis exitio|Denys Lambin|1566|ψ2|
+Cic. Phil. 8.9|sunt illi potius quam pecudes|illi ac non precudes potius|Gabriele Faerno|1563|Basil. Vat. H. 25 (V)|
+Cic. Phil. 12.24|maneo|del.|Andrea Navagero|1519|codd. dett.|
+Cic. Phil. 13.6|tectior|protectior|Tadeusz Zielinski||V2|
+Cic. Phil. 13.49|-as -am|undis flamma|Ferrarius||cod. P. Laeti (corr.)|
+Cic. Phil. 14.22|est|dico|Gabriele Faerno|1563|Collegii Novi Oxon. 252 (o)|
 Cic. Pis. 2|tum|tu|Andrea Navagero|1519|ς|
 Cic. Pis. 5|-unicavi|commutavi|François Hotman|1554|Lag. 9|
 Cic. Pis. 6|-ae … -ae|gesta … conservata|Gasparo Garatoni|1777–8|Lag. 9|
