@@ -120,7 +120,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (59), Reiske (52), Madvig (52), Cobet (48) and Brunck (48) (tied).</p>
+<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (59), Madvig (53), Reiske (52), Cobet (48) and Brunck (48) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -393,7 +393,7 @@ Aristarch.Trag. fr. 3|-νημα|σωφρόνισμα|Meineke|1839–57|Macar.|
 Ascon. Mil. 28|elisi|visi|S. H. Rinkes|1861|ς|Mnem.
 Ascon. Mil. 32|idque ipse ipsum|idque ipsum|Jean Loys|1536|ς|
 Ascon. Mil. 34|eorum|suorum|Jean Wagener|1860|ς|
-Ascon. Mil. 49|repertus|repetitus|Madvig||Forteguerri 37 (S)|
+Ascon. Mil. 49|repertus|repetitus|Madvig|1828|Forteguerri 37 (S)|p. 25
 Ath. 9.375E|νοθ-|νοτοῦντι|J. C. de Pauw|1745|Marc. 447 (A)|
 Ath. 11.490E|οὐρανός τε γῆ|οὐρανοστεγῆ|Benjamin Heath|1798|Marc. 447 (A)|apud Schweighäuser
 BGU 1074|Οὐήρῳ|Σευήρῳ|Viereck|n.d.|P.Oxy. XXVII 2476|
@@ -558,6 +558,8 @@ Cic. Manil. 44|huius a.|auctoritas|Niccolò Angeli|1515|Harl. 2682 (H)|
 Cic. Manil. 54|umq-|inquam|Karl Halm|1854|Paris. 14749 (σ)|mg.
 Cic. Manil. 66|qui se a|qui a|C. A. Heumann|1735|Harl. 2682 (H)|
 Cic. Manil. 67|eos|nos|Denys Lambin|1566|HW|
+Cic. Marcell. 25|q. illa erant adepta|quae <illā> erant adempta|Madvig|1884|Harl. 2545|p. 152
+Cic. Mil. 63|perdi-|percito|Andrea Navagero|1519|b2|
 Cic. Mur. 3|-a|uno|Denys Lambin|1566|ω|
 Cic. Mur. 13|cumsp-/consp-|circumspicere|Janus Gulielmus|n.d.|χ2|
 Cic. Mur. 21|i. e.|eadem in|Denys Lambin|1566|ς|
