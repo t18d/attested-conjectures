@@ -484,6 +484,7 @@ Cic. Caecin. 93|destitutum|destitutumquc|Niccolò Angeli|1515|c2|
 Cic. Caecin. 99|visceribus|hisce rebus|Filippo Beroaldo I|1499|ς|
 Cic. Caecin. 100|-fuerunt|proferunt|Orelli|1826–31|Paris. 7779 (k)|
 Cic. Caecin. 103|relinquo|reliquo|Petrus Faber|1601|Te|
+Cic. Cael. 4|no-|vestra|Karl Halm|1856|bς|
 Cic. Cael. 9|potuit|potuit isti|Andrea Navagero|1534|CvCii|
 Cic. Cael. 11|is|del.|I. C. Vollgraff|1887|Cv|
 Cic. Cael. 15|pudicitiae|impu-|Gasparo Garatoni|1787|Cv|
@@ -496,6 +497,7 @@ Cic. Cael. 37|dide/dede/dideae ac disce|dide ac dissice|Erycius Puteanus|n.d.|Cv
 Cic. Cael. 41|et interdum|interdum|Madvig|1828|CvCii|appendix p. 47
 Cic. Cael. 43|liquet|libet|Madvig|1887|P.Lond.Lit 143|p. 320
 Cic. Cael. 44|quondam|quoniam|Andrea Navagero|1534|P.Lond.Lit 143|
+Cic. Cael. 45|el-|loquor|Andrea Navagero|1519|P.Lond.Lit 143|
 Cic. Cael. 45|atque|atqui|Denys Lambin|1565|P.Lond.Lit 143|
 Cic. Cael. 45|om.|modo facimus non|Madvig|1887|Cv|p. 321
 Cic. Cael. 46|laborefiendi/labor confitendi|labor offendit|Madvig|1887|CvCii|p. 322
@@ -505,9 +507,11 @@ Cic. Cael. 54|laborata|elaborata|Antonius Augustinus|1581|P.Lond.Lit 143|apud Ur
 Cic. Cael. 57|sic enim obiectum (est)|sic est enim obiectum|Karl Halm|1856|CvCii|
 Cic. Cael. 58|ad eadem rem|ad eam rem|Madvig|1876|CvCii|p. 326
 Cic. Cael. 59|ibi/urbi|mihi|Orelli|1826/32|CvCbCii|
+Cic. Cael. 60|co-|tonantem|A. C. Clark|1905|Bodl. Canon. Class. lat. 226 (g)|
 Cic. Cael. 60|sed enim|etenim|Janus Gruter|1618|CvCii|
 Cic. Cael. 61|aiunt hoc|aiunt huic|Madvig|1887|CvCii|p. 321
 Cic. Cael. 61|iam iam|iam|G. Oetling|1868|CvCbCi|ed. Romana
+Cic. Cael. 65|est etiam|est iam|Jodocus Badius|1527|C*|
 Cic. Cael. 68|-levata|sublata|Denys Lambin|1565|TCvCii|
 Cic. Cael. 71|stultitiamne|stultitiam stultitiamne|Andrea Navagero|1519|Ci|
 Cic. Cael. 71|afraria|aeraria|Gasparo Garatoni|1787|Cv|
