@@ -521,6 +521,7 @@ Cic. Cael. 60|co-|tonantem|A. C. Clark|1905|Bodl. Canon. Class. lat. 226 (g)|
 Cic. Cael. 60|sed enim|etenim|Janus Gruter|1618|CvCii|
 Cic. Cael. 61|aiunt hoc|aiunt huic|Madvig|1887|CvCii|p. 321
 Cic. Cael. 61|iam iam|iam|G. Oetling|1868|CvCbCi|ed. Romana
+Cic. Cael. 62|venenum|venenumque|Denys Lambin|1565|CvCii|
 Cic. Cael. 65|est etiam|est iam|Jodocus Badius|1527|C*|
 Cic. Cael. 68|-levata|sublata|Denys Lambin|1565|TCvCii|
 Cic. Cael. 71|stultitiamne|stultitiam stultitiamne|Andrea Navagero|1519|Ci|
@@ -614,11 +615,15 @@ Cic. Pis. 5|-unicavi|commutavi|François Hotman|1554|Lag. 9|
 Cic. Pis. 6|-ae … -ae|gesta … conservata|Gasparo Garatoni|1777–8|Lag. 9|
 Cic. Pis. 13|vino-|vinulentis|C. F. W. Müller|1886|Mμς|
 Cic. Pis. 15|interire|interimere|Andrea Navagero|1534|c2k|
+Cic. Pis. 15|interire|vi terrere|Zumpt||Bodl. Canon. 226 (c)|ad Caec. 54
+Cic. Pis. 20|tum|aut|Schue.||Palimp. Taur. (P)|
 Cic. Pis. 22|suo|suorum|Fulvio Orsini|1581|Palimp. Taur. (P)|
 Cic. Pis. 23|-i|Clodiane|Denys Lambin|1566|Lag. 12|
 Cic. Pis. 25|pulsat-|cerussataeque|Niccolò Angeli|1515|cod. Ströbel (i)|
 Cic. Pis. 31|omni-|ominibus|Filippo Beroaldo I|1499|c2|
 Cic. Pis. 31|-vivi|semiviri|Anton Draeger|1867|Lag. 9|Philol.
+Cic. Pis. 49|praebuisse|praebuit se|Gabriele Faerno|1563|Palimp. Taur. (P)|
+Cic. Pis. 57|non e. p. t. sed|eversae per te et|Gabriele Faerno|1563|Basil. Vat. H. 25 (V)|
 Cic. Pis. 59|facet-|factus|Antonius Augustinus|1543|V1|
 Cic. Pis. 67|hi|ii|Reinhold Klotz|1872|χς|
 Cic. Pis. 74|tu me|tu|Gabriele Faerno|1563|Laur. Conv. Soppr. 13 (M)|
