@@ -672,9 +672,9 @@ Cic. S. Rosc. 105|hoc|hanc|François Dubois|1530|ς|
 Cic. S. Rosc. 115|Roscio|T. Roscio|C. G. Schütz|1814–23|ς|
 Cic. S. Rosc. 124|l. s. esse|laesos se|A. C. Clark|1905|ς|
 Cic. S. Rosc. 149|-ala|Messalla|Denys Lambin|1566|c2k|
-Cic. Sull. 52|om.|et|James S. Reid|1882|Brux. 14492 (π)|
+Cic. Sull. 52|om.|et|James S. Reid||Brux. 14492 (π)|
 Cic. Sull. 55|servili|Servili|Madvig||Lag. 9|
-Cic. Sull. 83|quid? Ego|quid ego?|James S. Reid|1882|Laur. xxiii. Sin. 3 (a)|
+Cic. Sull. 83|quid? Ego|quid ego?|James S. Reid||Laur. xxiii. Sin. 3 (a)|
 Cic. Tim. 14|-unt|fuerant|Denys Lambin|1565–6|Vindob. lat. 189 (V)|
 Cic. Tull. 42|-matis|armis|P. E. Huschke|1826|Palimp. Taur. (T)|apud J. G. H.
 Cic. Verr. II 1.123|ad-|idiurare|Reinhold Klotz|1852–62|Paris. 7776 (p)|
