@@ -121,7 +121,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (59), Madvig (55), Reiske (52), Cobet (48) and Brunck (48) (tied).</p>
+<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (59), Madvig (56), Reiske (52), Cobet (48) and Brunck (48) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -673,6 +673,11 @@ Cic. S. Rosc. 124|l. s. esse|laesos se|A. C. Clark|1905|ς|
 Cic. S. Rosc. 149|-ala|Messalla|Denys Lambin|1566|c2k|
 Cic. Tim. 14|-unt|fuerant|Denys Lambin|1565–6|Vindob. lat. 189 (V)|
 Cic. Tull. 42|-matis|armis|P. E. Huschke|1826|Palimp. Taur. (T)|apud J. G. H.
+Cic. Verr. II 1.123|ad-|idiurare|Klotz||Paris. 7776 (p)|
+Cic. Verr. II 1.123|et i. l.|at ille libertus|J. A. Ernesti||Harl. 2687 (r)|
+Cic. Verr. II 1.153|-erent|defendent|Madvig||Paris. 7776 (p)|
+Cic. Verr. II 2.113|-it|statueret|J. A. Ernesti||COb|
+Cic. Verr. II 5.51|-um … -um|usurpato … retento|Th. Luther||Paris. 7776 (p)|
 Cic. Verr. II 5.137|-ia(e)|luxurie|Madvig||Paris. 7776 (p)|
 Cic. div. 1.20|post|prius|Janus Gulielmus|s.xvi med.|Phillipp. 1794 (L)|apud Gruter
 Cic. div. 1.20|exces(s)um|excelsum|Denys Lambin|1565–6|Merton. 311|
