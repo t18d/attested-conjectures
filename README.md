@@ -625,13 +625,16 @@ Cic. Pis. 31|-vivi|semiviri|Anton Draeger|1867|Lag. 9|Philol.
 Cic. Pis. 49|praebuisse|praebuit se|Gabriele Faerno|1563|Palimp. Taur. (P)|
 Cic. Pis. 57|non e. p. t. sed|eversae per te et|Gabriele Faerno|1563|Basil. Vat. H. 25 (V)|
 Cic. Pis. 59|facet-|factus|Antonius Augustinus|1543|V1|
+Cic. Pis. 64|idem|item|J. A. Ernesti||Basil. Vat. H. 25 (V)|
 Cic. Pis. 67|hi|ii|Reinhold Klotz|1872|χς|
 Cic. Pis. 74|tu me|tu|Gabriele Faerno|1563|Laur. Conv. Soppr. 13 (M)|
+Cic. Pis. 81|-io|imperium|Denys Lambin|1566|Pχ1|
 Cic. Pis. 87|mar-|armorum|Filippo Beroaldo I|1499|cod. Ströbel (i)|
 Cic. Pis. 87|et quid|ecquid|Niccolò Angeli|1515|cod. Erfurt. (E)|
 Cic. Pis. 89|descensi-|decessionis|Niccolò Angeli|1515|cod. Ströbel (i)|
 Cic. Pis. 94|-ent|excellunt|Andrea Navagero|1519|Lag. 9|
 Cic. Pis. 94|n. est q. i.|nihil quod invites|Karl Halm|1856|ω1|
+Cic. Pis. 96|-et|putat|Pluygers|1861|Cus. C. 52|
 Cic. Pis. 96|-ere|fuerunt|Karl Halm|1856|cod. Ströbel (i)|
 Cic. Pis. 98|p. dicere audes|ponderari|P. Manutius|1540|c2k|
 Cic. Planc. 13|servaras|res-|J. C. F. Campe|1867|a1|
