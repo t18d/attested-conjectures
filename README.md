@@ -122,7 +122,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (59), Madvig (58), Reiske (52), Cobet (48) and Brunck (48) (tied).</p>
+<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Madvig (59), Beatus Rhenanus (59), Reiske (52), Cobet (48) and Brunck (48) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -476,6 +476,9 @@ Charito 8.7.2|ὅτε|ποτε|Reiske|1750|codex Thebanus|
 Choerob. in Theod. p. 231.6-7|Παλάμ-|Πάλμυδος|Dindorf|1864|Marc. 489 (V)|Gr. Gr. iv/1 Hilg.; ThGL 6,108 D
 Choerob. in Theod. p. 268.35|λινό-|αἰνοτάλαντα|Bekker|1821|Marc. 489 (V)|Gr. Gr. iv/1 Hilg.
 Choerob. in Theod. p. 352.11|-τήτειρα|ὀπτῆρα|A. F. Naeke|1845|Coisl. 176 (Bekker)|Gr. Gr. iv/1 Hilg.
+Cic. Arch. 12|his|iis|Madvig||c2|
+Cic. Arch. 19|-diamus|repudiabimus|Andrea Navagero|1519|Lag. 9|
+Cic. Arch. 22|rudem tum|Rudinum|Antonius Augustinus||schol. Bob.|
 Cic. Caecin. 7|id|si id|C. M. Francken|1881|Palimp. Taur. (P)|
 Cic. Caecin. 24|quid|qui|C. A. Lehmann|1880|c2|apud Quaestiones Tullianae Pars V
 Cic. Caecin. 24|pert-|proterrui|Denys Lambin|1566|cod. Tegerns. (T)|
