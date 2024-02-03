@@ -628,6 +628,12 @@ Cic. Pis. 94|-ent|excellunt|Andrea Navagero|1519|Lag. 9|
 Cic. Pis. 94|n. est q. i.|nihil quod invites|Karl Halm|1856|ω1|
 Cic. Pis. 96|-ere|fuerunt|Karl Halm|1856|cod. Ströbel (i)|
 Cic. Pis. 98|p. dicere audes|ponderari|P. Manutius|1540|c2k|
+Cic. Planc. 13|servaras|res-|Campe||a1|
+Cic. Planc. 52|Q.|C.|P. Manutius||Paris. 16228 (g)|
+Cic. Planc. 58|fine|me|Denys Lambin||cod. Tegerns. (T)|
+Cic. Planc. 75|absolut-|obsoletae|P. Manutius||cod. Tegerns. (T)|
+Cic. Planc. 78|d. m. aut pro m.|de magistratibus|Andrea Navagero|1519|cod. Tegerns. (T)|
+Cic. Planc. 89|om.|constantiam|Niccolò Angeli|1515|b2ψ2|
 Cic. Q. Rosc. 7|sunt in|in|Andrea Navagero|1519|oς|
 Cic. Q. Rosc. 8|exem-|extemplo|Filippo Beroaldo I|1499|ς|
 Cic. Q. Rosc. 10|om-|amittamus|Filippo Beroaldo I|1499|Paris. 7779 (k)|
