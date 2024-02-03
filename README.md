@@ -121,7 +121,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (59), Madvig (56), Reiske (52), Cobet (48) and Brunck (48) (tied).</p>
+<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (82), Markland (79), Valckenaer (72), Porson (62), Beatus Rhenanus (59), Madvig (57), Reiske (52), Cobet (48) and Brunck (48) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -583,7 +583,7 @@ Cic. Phil. 1.3|qua|qua re|Rudolf Klussmann|1877|cod. Amst.|Tulliana p. 6
 Cic. Phil. 2.58|leno-|leonibus|Petrus Victorius|1540|Harl. 2682 (h)|
 Cic. Phil. 6.19|-a|horam|Graevius|1699|Collegii Novi Oxon. 252 (o)|
 Cic. Phil. 8.9|sunt illi potius quam pecudes|illi ac non pecudes potius|Gabriele Faerno|1561|Basil. Vat. H. 25 (V)|
-Cic. Phil. 11.26|consulib; alter ambosve/cõs. alterum ambosve|consules, alter ambove|Müller||Voss. lat. O. 2 (n)|
+Cic. Phil. 11.26|consulib; alter ambosve/cõs. alterum ambosve|consules, alter ambove|Madvig|1842|Voss. lat. O. 2 (n)|p. 729
 Cic. Phil. 12.6|-aretur|miretur|J. A. Ernesti|1819|Vat. 3228 (s)|
 Cic. Phil. 12.24|maneo|del.|Andrea Navagero|1519|codd. dett.|
 Cic. Phil. 13.6|tectior|protectior|Tadeusz Zielinski|1904|V2|
@@ -677,6 +677,7 @@ Cic. Verr. II 1.123|ad-|idiurare|Klotz||Paris. 7776 (p)|
 Cic. Verr. II 1.123|et i. l.|at ille libertus|J. A. Ernesti||Harl. 2687 (r)|
 Cic. Verr. II 1.153|-erent|defendent|Madvig||Paris. 7776 (p)|
 Cic. Verr. II 2.113|-it|statueret|J. A. Ernesti||COb|
+Cic. Verr. II 4.14|nisi l.|si libidini non|C. A. Jordan|1854|Perizon. 12 (L)|
 Cic. Verr. II 5.51|-um … -um|usurpato … retento|Th. Luther||Paris. 7776 (p)|
 Cic. Verr. II 5.137|-ia(e)|luxurie|Madvig||Paris. 7776 (p)|
 Cic. div. 1.20|post|prius|Janus Gulielmus|s.xvi med.|Phillipp. 1794 (L)|apud Gruter
