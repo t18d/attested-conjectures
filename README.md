@@ -31,6 +31,7 @@
         <li>Cicero, M. Tullius, <em>Orationes pro Sex. Roscio, de imperio Cn. Pompei, pro Cluentio, in Catilinam, pro Murena, pro Caelio</em>, ed. Albert Curtis Clark (Oxford, 1905).</li>
         <li>Cicero, M. Tullius, <em>Orationes pro Quinctio, pro Q. Roscio Comoedo, pro Caecina, de lege agraria contra Rullum, pro C. Rabirio perduellionis reo, pro L. Flacco, in L. Pisonem, pro C. Rabirio Postumo</em>, ed. Albert Curtis Clark (Oxford, 1909).</li>
         <li>Cicero, M. Tullius, <em>Orationes pro Tullio, pro Fonteio, pro Sulla, pro Archia, pro Plancio, pro Scauro</em>, ed. Albert Curtis Clark (Oxford, 1911).</li>
+        <li>Cicero, M. Tullius, <em>Orationes: Divinatio in Q. Caecilium, In C. Verrem</em>, ed. William Peterson (Oxford, 1916).</li>
         <li>Cicero, M. Tullius, <em>Orationes pro Milone, pro Marcello, pro Ligario, pro rege Deiotaro, Philippicae I–XIV</em>, ed. Albert Curtis Clark (Oxford, 1918).</li>
         <li>Cicero, M. Tullius, <em>De divinatione, De fato, Timaeus</em>, ed. Remo Giomini (Leipzig, 1975).</li>
         <li>Cicero, M. Tullius, <em>Orator</em>, ed. Rolf Westman (Munich, 1980).</li>
