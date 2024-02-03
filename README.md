@@ -549,6 +549,7 @@ Cic. Flacc. 25|f. e.|est factus|Reinhold Klotz|1870|cod. Salisb. (s)|
 Cic. Flacc. 25|-averit|degenerarit|P. Manutius|1540|cod. Ströbel (i)|
 Cic. Flacc. 25|in qua|quam|C. F. W. Müller|1897|b2|
 Cic. Flacc. 32|abeno|ab Aeno|Turnebus|1581|Lag. 6 (b)|
+Cic. Flacc. 41|-sensu-|consessuque|Andrea Navagero|1534|Paris. 7778|m. 2
 Cic. Flacc. 52|pythodoria et idem iepisoni|Pythodori Aetidemi Lepisones|Gabriele Faerno|1563|Paris. 7779 (k)|-soni k
 Cic. Flacc. 61|-ant|iactent|Denys Lambin|1566|Paris. 7779 (k)|
 Cic. Flacc. 61|defecerunt et defuerunt|defecerunt|Janus Gruter|1618|Paris. 7779 (k)|
@@ -724,6 +725,7 @@ Cic. div. 2.111|primi(s) versus|primis versuum|Jean Dorat|s.xvi med.|codd. dett.
 Cic. div. 2.145|-unt|viderint|Franz Skutsch|1912|Marc. lat. 257 (F)|Glotta p. 367; Schwanengesang
 Cic. div. in Caec. 46|-em … -em|more … religione|Gronovius|n.d.|P.Ryl. III 477|m1
 Cic. dom. 39|infirma sunt|infirmas|Madvig|1873|P1|
+Cic. dom. 122|prae-|proditis|C. F. Naegelsbach|1856|Paris. 7779 (k)|apud Baiter-Halm
 Cic. fin. 1.59|immanes|inanes|Madvig|1876|Vat. lat. 1759 (V)|
 Cic. fin. 2.54|scipioni|caepioni|P. Manutius|1583|A R MV|
 Cic. fin. 2.112|Athoque|Athone|P. Manutius|1583|R PLS NV Β|
@@ -784,7 +786,7 @@ Cic. orat. 222|nodi|modi|J. Stroux|1913|B N Q|
 Cic. orat. 232|-atur|corrumpetur|Christian Hörner|1885|Θ B|ap. Stangl
 Cic. orat. 233|-it|fuerat|Denys Lambin|1566|Barcin. bibl. univ. 12 (B)|
 Cic. p. red. ad Quir. 3|quantum incolumitate|quam tum incolumes|François Hotman|1554|Lag. 25|
-Cic.Deiot. 43Deiot. 43 Flacc. 41|-sensu-|consessuque|Andrea Navagero|1534|Paris. 7778|m. 2
+Cic. prov. 47|si|del.|Gustav Sorof|1875|GEb|
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
