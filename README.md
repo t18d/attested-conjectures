@@ -615,8 +615,8 @@ Cic. Pis. 5|-unicavi|commutavi|François Hotman|1554|Lag. 9|
 Cic. Pis. 6|-ae … -ae|gesta … conservata|Gasparo Garatoni|1777–8|Lag. 9|
 Cic. Pis. 13|vino-|vinulentis|C. F. W. Müller|1886|Mμς|
 Cic. Pis. 15|interire|interimere|Andrea Navagero|1534|c2k|
-Cic. Pis. 15|interire|vi terrere|Zumpt||Bodl. Canon. 226 (c)|ad Caec. 54
-Cic. Pis. 20|tum|aut|Schue.||Palimp. Taur. (P)|
+Cic. Pis. 15|interire|vi terrere|C. G. Zumpt||Bodl. Canon. 226 (c)|ad Caec. 54
+Cic. Pis. 20|tum|aut|C. G. Schütz|1815|Palimp. Taur. (P)|
 Cic. Pis. 22|suo|suorum|Fulvio Orsini|1581|Palimp. Taur. (P)|
 Cic. Pis. 23|-i|Clodiane|Denys Lambin|1566|Lag. 12|
 Cic. Pis. 25|pulsat-|cerussataeque|Niccolò Angeli|1515|cod. Ströbel (i)|
@@ -634,7 +634,7 @@ Cic. Pis. 87|et quid|ecquid|Niccolò Angeli|1515|cod. Erfurt. (E)|
 Cic. Pis. 89|descensi-|decessionis|Niccolò Angeli|1515|cod. Ströbel (i)|
 Cic. Pis. 94|-ent|excellunt|Andrea Navagero|1519|Lag. 9|
 Cic. Pis. 94|n. est q. i.|nihil quod invites|Karl Halm|1856|ω1|
-Cic. Pis. 96|-et|putat|Pluygers|1861|Cus. C. 52|
+Cic. Pis. 96|-et|putat|W. G. Pluygers|1861|Cus. C. 52 (C)|
 Cic. Pis. 96|-ere|fuerunt|Karl Halm|1856|cod. Ströbel (i)|
 Cic. Pis. 98|p. dicere audes|ponderari|P. Manutius|1540|c2k|
 Cic. Planc. 13|servaras|res-|J. C. F. Campe|1867|a1|
