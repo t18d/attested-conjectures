@@ -583,7 +583,7 @@ Cic. Phil. 1.3|qua|qua re|Rudolf Klussmann|1877|cod. Amst.|Tulliana p. 6
 Cic. Phil. 2.58|leno-|leonibus|Petrus Victorius|1540|Harl. 2682 (h)|
 Cic. Phil. 6.19|-a|horam|Graevius|1699|Collegii Novi Oxon. 252 (o)|
 Cic. Phil. 8.9|sunt illi potius quam pecudes|illi ac non pecudes potius|Gabriele Faerno|1561|Basil. Vat. H. 25 (V)|
-Cic. Phil. 11.26|consulib; alter ambosve/cõs. alterum ambosve|consules, alter ambove|Madvig|1842|Voss. lat. O. 2 (n)|p. 729
+Cic. Phil. 11.26|consulib; alter ambosve/cõs. alterum ambosve|consules, alter ambove|Madvig|1855–8|Voss. lat. O. 2 (n)|Opusc. II (1887) p. 729
 Cic. Phil. 12.6|-aretur|miretur|J. A. Ernesti|1819|Vat. 3228 (s)|
 Cic. Phil. 12.24|maneo|del.|Andrea Navagero|1519|codd. dett.|
 Cic. Phil. 13.6|tectior|protectior|Tadeusz Zielinski|1904|V2|
