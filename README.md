@@ -590,7 +590,7 @@ Cic. Phil. 13.22|-at|desinet|J. A. Ernesti|1819|n2|
 Cic. Phil. 13.49|-as -am|undis flamma|Hieronymus Ferrarius|1542|cod. P. Laeti (corr.)|
 Cic. Phil. 14.22|est|dico|Gabriele Faerno|1561|Collegii Novi Oxon. 252 (o)|
 Cic. Phil. 14.23|Servilium|Servili num|Hieronymus Ferrarius|1542|Bern. 104 (b)|
-Cic. Phil. 14.33|ins-|sepulta|P. Laetus||Bern. 104 (b)|
+Cic. Phil. 14.33|ins-|sepulta|Pomponius Laetus|n.d.|Bern. 104 (b)|
 Cic. Phil. 14.36|-a|sententiam|Karl Halm|1856|Collegii Novi Oxon. 252 (o)|
 Cic. Phil. 14.38|-ere -os|caderent nonnulli|Karl Halm|1856|Collegii Novi Oxon. 252 (o)|
 Cic. Pis. 2|tum|tu|Andrea Navagero|1519|ς|
