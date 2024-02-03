@@ -557,6 +557,8 @@ Cic. Flacc. 104|om.|cum|Gabriele Faerno|1563|b1k|
 Cic. Flacc. 105|-tuerint|poterunt|J. A. Ernesti|1773|Lag. 6 (b)|
 Cic. Font. 16|-tatis|auctoritas|Niccolò Angeli|1515|Arundel. 236 (l)|
 Cic. Font. 16|omnium|hominum|Gabriele Faerno||Paris. 7779 (k)|
+Cic. Font. 19|a|M.|Karl Halm||Paris. 7779 (k)|
+Cic. Font. 23|-e|cogitationi|François Hotman|1554|Paris. 7779 (k)|
 Cic. Lig. 5|t. est q. … si|tempus quod ... si|J. G. Baiter||Harl. 2682 (H)|
 Cic. Lig. 17|quis-|quicquam|Haupt||ah|
 Cic. Lig. 25|essetis|estis|Gasparo Garatoni||C1|
