@@ -810,6 +810,7 @@ Cic. orat. 232|-atur|corrumpetur|Christian Hörner|1885|Θ B|ap. Stangl
 Cic. orat. 233|-it|fuerat|Denys Lambin|1566|Barcin. bibl. univ. 12 (B)|
 Cic. p. red. ad Quir. 3|quantum incolumitate|quam tum incolumes|François Hotman|1554|Lag. 25|
 Cic. parad. 39|spes|spe|Bentley||Vindob. 189 (V)|
+Cic. part. 62|in|del.|Thomas Stangl|1886|CI|Philol.
 Cic. prov. 47|si|del.|Gustav Sorof|1875|GEb|
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
