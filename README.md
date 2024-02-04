@@ -125,7 +125,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (84), Markland (79), Valckenaer (72), Porson (62), Madvig (60), Beatus Rhenanus (59), Reiske (52), Cobet (48) and Brunck (48) (tied).</p>
+<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (84), Markland (79), Valckenaer (72), Porson (62), Madvig (60), Beatus Rhenanus (59), Reiske (53) and Cobet (49).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -833,6 +833,7 @@ Dem. 9.25|πέμπτον/πολλοστὸν μ.|μέρος|Carl Rehdantz|1865|O
 Dem. 9.53|μισῆσαι|μισεῖν|Blass|1885–9|Ypc|
 Dem. 9.67|ὥστε|ὥ. μηδέν|Seager|n.d.|Opc|
 Dem. 9.75|π. ἔπειτα … εἰ γὰρ …|ποιήσοντας εἰ γὰρ … ἔπειτα …|G. H. Schaefer|1824|Harl. 6322 (Ll)|
+Dem. 10.58|οἰομ-|εἰθισμένοις|Cobet||Monac. gr. 485 (A)|
 Dem. 14.5|δὲ|δὴ|P. P. Dobree|1814|P.Med. inv. 71.80|pc
 Dem. 17.8|ὑμᾶς|ἡμᾶς|Hieronymus Wolf|1604|Vind. phil. gr. 70 (Wb)|
 Dem. 18.90|προγενομ-|προγεγεναμένοις|G. H. Schaefer|1825|Hpc|
@@ -849,7 +850,9 @@ Dem. 19.21|διδάσκειν|διδάξαι|Markland|1757|Pap.Flor. IV 24 + P.L
 Dem. 19.21|ταῦτα|τοῦτο|J. T. Voemel|1849|Pap.Flor. IV 24 + P.Lond.Lit. 127|
 Dem. 19.190|εἰσιτήρια/εἰσητήρια|εἰσιτητήρια|Reiske|1774–5|Salaman. M 224 (Sb)|
 Dem. 19.254|οἷος|οἵους|Cobet|s.xix med.|Lond. Addit. 39617 (Ln)|
+Dem. 19.255|-αμένη|ἀποτισομένη|Sylburg||B2|
 Dem. 19.280|καὶ τοῦ|τοῦ|P. P. Dobree|1814|P.Oxy. VIII 1094|
+Dem. 19.300|-ους|τούτοις|Reiske|1774–5|Laur. plut. 61.136 (L)|
 Dem. 19.303|Θεμιστοκλέους|τὸ Θ.|Henri Weil|1883|schol.|
 Dem. 20.2|ἀφείλετο|del.|Reiske|1774–5|S1|
 Dem. 20.28|διείρηκεν|διῄρηκεν|P. P. Dobree|1814|Ftpc|
