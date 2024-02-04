@@ -638,6 +638,8 @@ Cic. Pis. 96|-et|putat|W. G. Pluygers|1861|Cus. C. 52 (C)|
 Cic. Pis. 96|-ere|fuerunt|Karl Halm|1856|cod. Ströbel (i)|
 Cic. Pis. 98|p. dicere audes|ponderari|P. Manutius|1540|c2k|
 Cic. Planc. 13|servaras|res-|J. C. F. Campe|1867|a1|
+Cic. Planc. 27|-i|magn[i]s|Ottavio Pantagato||Berol. 13229 A et B (P)|
+Cic. Planc. 41|editi|editici|Gasparo Garatoni|1815–25|TEΣ|
 Cic. Planc. 52|Q.|C.|P. Manutius|1540–1|Paris. 16228 (g)|
 Cic. Planc. 58|fine|me|Denys Lambin|1565–6|cod. Tegerns. (T)|
 Cic. Planc. 75|absolut-|obsoletae|P. Manutius|1540–1|cod. Tegerns. (T)|
