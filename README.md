@@ -778,6 +778,8 @@ Cic. leg. agr. 3.2|-abo|probaro|J. A. Ernesti|1773|Lag. 9|
 Cic. leg. agr. 3.7|sint|sunt|Turnebus|1581|Bodl. Canon. 226 (c)|
 Cic. leg. agr. 3.15|res p.|populus R.|Carolus Sigonius|1558|Paris. 7779 (k)|
 Cic. leg. agr. 3.16|atque|atqui|P. Manutius|1540|mo|
+Cic. nat. deor. 1.68|st|sit|Denys Lambin|1566|B1|
+Cic. nat. deor. 1.110|cog-|agitare|C. F. W. Müller|1878|D1|
 Cic. orat. 12|-a|instructus|P. Reis|1932|Budap. bibl. nat. lat. 148 (Bud.)|
 Cic. orat. 16|-is|oratori|J. A. Ernesti|1774–7|N2|
 Cic. orat. 21|aequali-|aequabilitatem|P. Manutius|1546|H Bud.|
