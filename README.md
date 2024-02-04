@@ -982,7 +982,7 @@ Eur. Hec. 1215|-νῶι|καπνὸς|Willem Canter|1571|Kγρ|
 Eur. Hel. 135|οὔ πω vel ἦ που|οὔ που|P. P. Dobree|s.xviii/xix|Laur. 32.3 (L)|
 Eur. Hel. 634|χεῖρας|χέρας|Elmsley|n.d.|P.Oxy. XXII 2336|
 Eur. Heracl. 837|-ῃ|μάχη|Elmsley|n.d.|Laur. 32.3 (L)|
-Eur. Hipp. 71–72|ὄπαρθένων ἄρτεμι|ὄλυμπον|Nauck|n.d.|Laur. 31.10 (O)|
+Eur. Hipp. 71–2|ὄπαρθένων ἄρτεμι|ὄλυμπον|Nauck|n.d.|Laur. 31.10 (O)|
 Eur. Hipp. 364|σὰν|σᾶν|Elmsley|n.d.|Paris. gr. 2713 (B)|
 Eur. Hipp. 378|κάκιον|κακίον'|Henrik van Herwerden|n.d.|cod. Oxon. Cyrilli Alex.|Exerc. crit. (1862) 135
 Eur. Hipp. 480|τἄρα γ᾽|τἄρ᾽ ἂν|Brunck|n.d.|Hc|
