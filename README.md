@@ -747,6 +747,7 @@ Cic. div. in Caec. 46|-em … -em|more … religione|Gronovius|n.d.|P.Ryl. III 4
 Cic. dom. 39|infirma sunt|infirmas|Madvig|1873|P1|
 Cic. dom. 40|te|tibi|G. Lahmeyer|1866|Bern. 254 (t)|Philol.
 Cic. dom. 122|prae-|proditis|C. F. Naegelsbach|1856|Paris. 7779 (k)|apud Baiter-Halm
+Cic. fin. 1.3|sapientia|del.|P. Manutius|1583|Ambros. C. 55. inf. (Y)|
 Cic. fin. 1.59|immanes|inanes|Madvig|1876|Vat. lat. 1759 (V)|
 Cic. fin. 2.54|scipioni|caepioni|P. Manutius|1583|A R MV|
 Cic. fin. 2.112|Athoque|Athone|P. Manutius|1583|R PLS NV Β|
