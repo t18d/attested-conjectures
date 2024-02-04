@@ -33,6 +33,7 @@
         <li>Cicero, M. Tullius, <em>Orationes pro Tullio, pro Fonteio, pro Sulla, pro Archia, pro Plancio, pro Scauro</em>, ed. Albert Curtis Clark (Oxford, 1911).</li>
         <li>Cicero, M. Tullius, <em>Orationes: Divinatio in Q. Caecilium, In C. Verrem</em>, ed. William Peterson (Oxford, 1916).</li>
         <li>Cicero, M. Tullius, <em>Orationes pro Milone, pro Marcello, pro Ligario, pro rege Deiotaro, Philippicae I–XIV</em>, ed. Albert Curtis Clark (Oxford, 1918).</li>
+        <li>Cicero, M. Tullius, <em>Orationes cum senatui gratias egit, cum populo gratias egit, de domo, de haruspicum responsis, pro Sestio, in Vatinium, pro Caelio, de provinciis consularibus, pro Balbo, in Pisonem, pro Rabirio Postumo, pro Scauro</em>, ed. A. Klotz and F. Schoell (Leipzig, 1919).</li>
         <li>Cicero, M. Tullius, <em>De divinatione, De fato, Timaeus</em>, ed. Remo Giomini (Leipzig, 1975).</li>
         <li>Cicero, M. Tullius, <em>Orator</em>, ed. Rolf Westman (Munich, 1980).</li>
         <li>Cicero, M. Tullius, <em>Pro A. Cluentio Habito oratio</em>, ed. Silvia Rizzo (Rome, 1991).</li>
