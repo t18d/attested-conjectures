@@ -729,10 +729,10 @@ Cic. Verr. II 2.113|-it|statueret|J. A. Ernesti|1773–7|COb|
 Cic. Verr. II 4.14|nisi l.|si libidini non|C. A. Jordan|1854|Leid. Periz. 12 (L)|
 Cic. Verr. II 5.51|-um … -um|usurpato … retento|Denys Lambin|1585|Paris. 7776 (p)|
 Cic. Verr. II 5.137|-ia(e)|luxurie|Madvig|1828|Paris. 7776 (p)|Ad Orellium p. 47
-Cic. ac. 1.17|qui|quia|Reid|1885|ππ1ρ μν1γφ|
-Cic. ac. 1.19|imp-|expressionem|P. Manutius||αβς|
-Cic. ac. 1.29|inter|item|Bentley||ππ2ρ|i. m.
-Cic. ac. 1.30|ra-|oratione|Denys Lambin||ν1φ1φ2|
+Cic. ac. 1.17|qui|quia|J. S. Reid|1885|ππ1ρ μν1γφ|
+Cic. ac. 1.19|imp-|expressionem|P. Manutius|1541–60|αβς|
+Cic. ac. 1.29|inter|item|Bentley|1725–36|ππ2ρ i. m.|‘amicus’ apud Dauisium
+Cic. ac. 1.30|ra-|oratione|Denys Lambin|1566|ν1φ1φ2|
 Cic. div. 1.20|post|prius|Janus Gulielmus|s.xvi med.|Phillipp. 1794 (L)|apud Gruter
 Cic. div. 1.20|exces(s)um|excelsum|Denys Lambin|1565–6|Merton. 311|
 Cic. div. 1.21|ac/at|et|Hottinger|1793|Palat. lat. 1519 (P)|
