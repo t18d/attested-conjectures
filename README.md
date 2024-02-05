@@ -724,6 +724,7 @@ Cic. Sull. 92|est|sunt|Denys Lambin||TE|
 Cic. Tim. 14|-unt|fuerant|Denys Lambin|1565–6|Vindob. lat. 189 (V)|
 Cic. Tull. 42|-matis|armis|P. E. Huschke|1826|Palimp. Taur. (T)|apud J. G. H.
 Cic. Tusc. 1.51|nisi|si|Moritz Seyffert|1864|ς|
+Cic. Tusc. 4.30|in insipientem|in sapientem|Turnebus|1564|V2|Adv. VII 17
 Cic. Verr. I 41|-mae|nocentissimi|Madvig|1828|schol. Gronov.|Append. crit. p. 38
 Cic. Verr. II 1.123|ad-|idiurare|Reinhold Klotz|1852–62|Paris. 7776 (p)|
 Cic. Verr. II 1.123|et i. l.|at ille libertus|J. A. Ernesti|1773–7|Harl. 2687 (r)|
