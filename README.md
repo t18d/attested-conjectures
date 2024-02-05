@@ -485,12 +485,13 @@ Choerob. in Theod. p. 352.11|-τήτειρα|ὀπτῆρα|A. F. Naeke|1845|Coi
 Cic. Arch. 12|his|iis|Madvig||c2|
 Cic. Arch. 19|-diamus|repudiabimus|Andrea Navagero|1519|Lag. 9|
 Cic. Arch. 22|rudem tum|Rudinum|Antonius Augustinus||schol. Bob.|
-Cic. Att. 1.1.2|et ex.|et ab existimatione|Denys Lambin|1565–73|Paris. 8536 (P)|
+Cic. Att. 1.1.2|et ex.|et ab existimatione|Denys Lambin|1565–72|Paris. 8536 (P)|
 Cic. Att. 1.8.1|-i|dare|Sebastian Corrado|1537–55|Paris. 8536 (P)|
-Cic. Att. 1.10.1|-um|missuram|Victorius||A2c|
+Cic. Att. 1.10.1|-um|missuram|Victorius|1536|A2c|
 Cic. Att. 1.14.7|-di|redii|Madvig|1873|bd|
 Cic. Att. 1.16.4|-abat|impetrarat|James S. Reid|1903|Ω|apud Purser
 Cic. Att. 1.19.1|quem|quam|P. Manutius|1540|Paris. 8536 (P)|
+Cic. Att. 2.1.5|-eat|habet|J. A. Ernesti|1775|GH|
 Cic. Att. 15.15.2|odit me|odi. Id me|Orelli|1845|Zt|
 Cic. Caecin. 7|id|si id|C. M. Francken|1881|Palimp. Taur. (P)|
 Cic. Caecin. 24|quid|qui|C. A. Lehmann|1880|c2|apud Quaestiones Tullianae Pars V
