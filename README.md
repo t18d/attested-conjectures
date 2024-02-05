@@ -485,6 +485,8 @@ Choerob. in Theod. p. 352.11|-τήτειρα|ὀπτῆρα|A. F. Naeke|1845|Coi
 Cic. Arch. 12|his|iis|Madvig||c2|
 Cic. Arch. 19|-diamus|repudiabimus|Andrea Navagero|1519|Lag. 9|
 Cic. Arch. 22|rudem tum|Rudinum|Antonius Augustinus||schol. Bob.|
+Cic. Att. 1.1.2|et ex.|et ab existimatione|Denys Lambin|1565–73|Paris. 8536 (P)|
+Cic. Att. 1.8.1|-i|dare|Sebastian Corrado||Paris. 8536 (P)|
 Cic. Att. 15.15.2|odit me|odi. Id me|Orelli|1845|Zt|
 Cic. Caecin. 7|id|si id|C. M. Francken|1881|Palimp. Taur. (P)|
 Cic. Caecin. 24|quid|qui|C. A. Lehmann|1880|c2|apud Quaestiones Tullianae Pars V
