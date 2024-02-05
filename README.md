@@ -128,7 +128,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (84), Markland (79), Valckenaer (72), Porson (62), Madvig (60), Beatus Rhenanus (59), Reiske (53) and Cobet (49).</p>
+<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (84), Markland (79), Valckenaer (72), Porson (62), Madvig (61), Beatus Rhenanus (59), Reiske (53) and Cobet (49).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -486,7 +486,10 @@ Cic. Arch. 12|his|iis|Madvig||c2|
 Cic. Arch. 19|-diamus|repudiabimus|Andrea Navagero|1519|Lag. 9|
 Cic. Arch. 22|rudem tum|Rudinum|Antonius Augustinus||schol. Bob.|
 Cic. Att. 1.1.2|et ex.|et ab existimatione|Denys Lambin|1565–73|Paris. 8536 (P)|
-Cic. Att. 1.8.1|-i|dare|Sebastian Corrado||Paris. 8536 (P)|
+Cic. Att. 1.8.1|-i|dare|Sebastian Corrado|1537–55|Paris. 8536 (P)|
+Cic. Att. 1.10.1|-um|missuram|Victorius||A2c|
+Cic. Att. 1.14.7|-di|redii|Madvig|1873|bd|
+Cic. Att. 1.16.4|-abat|impetrarat|Reid|1903|Ω|apud Purser
 Cic. Att. 15.15.2|odit me|odi. Id me|Orelli|1845|Zt|
 Cic. Caecin. 7|id|si id|C. M. Francken|1881|Palimp. Taur. (P)|
 Cic. Caecin. 24|quid|qui|C. A. Lehmann|1880|c2|apud Quaestiones Tullianae Pars V
