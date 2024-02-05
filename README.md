@@ -127,7 +127,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (84), Markland (79), Valckenaer (72), Porson (62), Madvig (60), Beatus Rhenanus (59), Reiske (53) and Cobet (49).</p>
+<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (85), Markland (79), Valckenaer (72), Porson (62), Madvig (60), Beatus Rhenanus (59), Reiske (53) and Cobet (49).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -726,6 +726,7 @@ Cic. Tull. 42|-matis|armis|P. E. Huschke|1826|Palimp. Taur. (T)|apud J. G. H.
 Cic. Tusc. 1.51|nisi|si|Moritz Seyffert|1864|ς|
 Cic. Tusc. 4.30|in insipientem|in sapientem|Turnebus|1564|V2|Adv. VII 17
 Cic. Tusc. 5.63|tragicum|t. accepimus|Moritz Seyffert|1864|ς|
+Cic. Tusc. 5.119|observent/obscurentur|obruantur|Bentley|1723|frg. Oxon. (F)|apud Davies
 Cic. Verr. I 41|-mae|nocentissimi|Madvig|1828|schol. Gronov.|Append. crit. p. 38
 Cic. Verr. II 1.123|ad-|idiurare|Reinhold Klotz|1852–62|Paris. 7776 (p)|
 Cic. Verr. II 1.123|et i. l.|at ille libertus|J. A. Ernesti|1773–7|Harl. 2687 (r)|
