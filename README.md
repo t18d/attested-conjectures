@@ -487,7 +487,7 @@ Cic. Arch. 19|-diamus|repudiabimus|Andrea Navagero|1519|Lag. 9|
 Cic. Arch. 22|rudem tum|Rudinum|Antonius Augustinus||schol. Bob.|
 Cic. Att. 1.1.2|et ex.|et ab existimatione|Denys Lambin|1565–72|Paris. 8536 (P)|
 Cic. Att. 1.8.1|-i|dare|Sebastian Corrado|1537–55|Paris. 8536 (P)|
-Cic. Att. 1.10.1|-um|missuram|Victorius|1536|A2c|
+Cic. Att. 1.10.1|-um|missuram|Petrus Victorius|1536|A2c|
 Cic. Att. 1.14.7|-di|redii|Madvig|1873|bd|
 Cic. Att. 1.16.4|-abat|impetrarat|James S. Reid|1903|Ω|apud Purser
 Cic. Att. 1.19.1|quem|quam|P. Manutius|1540|Paris. 8536 (P)|
