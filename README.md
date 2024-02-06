@@ -3396,7 +3396,7 @@ Tib. 3.6.21|non v.|nam venit|Johannes Livineius|1621|unus Statii|
 Tib. 3.6.21|non venit|convenit|Lachmann|1829|Monac. Clm 14.486 (M)|
 Tib. 3.6.21|-us|severis|Johannes Livineius|1621|cod. Bern.|
 Tib. 3.6.21|-us|severis|Janus Guilielmius|n.d.|cod. Bern.|
-Tib. 3.6.23|-umque|quantasque|Nicolaus Heinsius|1708|ed. pr. et exc. Puccii|apud Broukhusium
+Tib. 3.6.23|-umque|quantasque|Nicolaus Heinsius|1708|exc. Puccii|apud Broukhusium
 Tib. 3.6.47|-vit|iurarit|Lucas Fruytier|1584|Vindob. lat. 224 (W)|
 Tib. 3.6.62|et|i|Achilles Statius|1567|Fragm. Cuiac. (F)|
 Tib. 4.1.13|terris|tectis|Muretus|1558–62|Vindob. lat. 224 (W)|
@@ -3413,7 +3413,6 @@ Tib. 4.1.207|rigidos|gyro|Nicolaus Heinsius|1708|Leid. Voss. lat. 0.76|apud Brou
 Tib. 4.1.209|-is … -is|volucri ... penna|Nicolaus Heinsius|1708|Leid. Voss. lat. 0.76|apud Broukhusium
 Tib. 4.2.13|aeterno|aetherio|Achilles Statius|1567|unus Heinsii|
 Tib. 4.3.13|cervi|-ae|Janus Broukhusius|1708|Monac. Clm 14.486 (M)|
-Tib. 4.6.3|tota|lota|Johannes Sambucus|1565|ed. Plantin.|mg.
 Tib. 4.6.16|iam sua|clam sibi|Nicolaus Heinsius|1708|Berol. Diez R. Sant. 21 (E)|apud Broukhusium
 Tib. 4.8.8|-o … -o|arbitrii … mei|Nicolaus Heinsius|1708|unus Italicus (Broukh.)|apud Broukhusium
 Tib. 4.10.1|mihi|tibi|Nicolaus Heinsius|1708|Hamb. serin. 139 (H)|apud Broukhusium
