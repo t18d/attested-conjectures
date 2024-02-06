@@ -487,7 +487,6 @@ Cic. Arch. 19|-diamus|repudiabimus|Andrea Navagero|1519|Lag. 9|
 Cic. Arch. 22|rudem tum|Rudinum|Antonius Augustinus||schol. Bob.|
 Cic. Att. 1.1.2|et ex.|et ab existimatione|Denys Lambin|1565–72|Paris. 8536 (P)|
 Cic. Att. 1.8.1|-i|dare|Sebastian Corrado|1537–55|Paris. 8536 (P)|
-Cic. Att. 1.10.1|-um|missuram|Petrus Victorius|1536|A2c|
 Cic. Att. 1.14.7|-di|redii|Madvig|1873|bd|
 Cic. Att. 1.16.4|-abat|impetrarat|James S. Reid|1903|Ω|apud Purser
 Cic. Att. 1.19.1|quem|quam|P. Manutius|1540|Paris. 8536 (P)|
@@ -505,7 +504,6 @@ Cic. Att. 4.6.4|nunquam|nunc quam|Leonardus Malaespina|1564|Zb|p. 93
 Cic. Att. 4.13.1|XIII/XVIII|XIIII|P. Manutius|1540|NO1|
 Cic. Att. 4.15.3|forte|fere|Petrus Victorius|1536|Paris. 8536 (P)|
 Cic. Att. 4.17.3|detu-|rettulerunt|A. S. Wesenberg|1873|Urb. 322 (s)|retu- s
-Cic. Att. 4.17.3|q. s.|si qui|P. Manutius|1540|A2c|
 Cic. Att. 4.17.4|fue- f.|erat futurus|A. S. Wesenberg|1873|Laur. Conv. Suppr. 49 (N)|
 Cic. Att. 4.18.5|-ter|nostri|P. Manutius|1540|NF|
 Cic. Att. 5.7|XIIII|XII|O. E. Schmidt|1893|Laur. Conv. Suppr. 49 (N)|
@@ -518,6 +516,8 @@ Cic. Att. 5.11.5|nos nostram|nostram|Reinhold Klotz|1854|bds|
 Cic. Att. 5.12.2|-ebimus|habemus|C. A. Lehmann|1886|ΔNOP|
 Cic. Att. 5.14.1|stabo|praestabo|Petrus Victorius|1536|Taur. lat. 495 (O)|
 Cic. Att. 5.14.2|para-|speramus|P. Manutius|1540|Paris. 8536 (P)|
+Cic. Att. 5.16.2|-us|moratos|Gabriele Faerno|1581|Urb. 322 (s)|apud Ursinum p. 121
+Cic. Att. 5.19.1|at(t)el(l)iano|Atiliano|P. Manutius|1540|GH|
 Cic. Att. 15.15.2|odit me|odi. Id me|Orelli|1845|Zt|
 Cic. Caecin. 7|id|si id|C. M. Francken|1881|Palimp. Taur. (P)|
 Cic. Caecin. 24|quid|qui|C. A. Lehmann|1880|c2|apud Quaestiones Tullianae Pars V
