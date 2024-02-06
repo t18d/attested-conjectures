@@ -513,6 +513,7 @@ Cic. Att. 5.8.2|-is|alienus|Denys Lambin|1565–72|Palat. 1510 (V)|
 Cic. Att. 5.8.2|esse|del.|J. A. Ernesti|1775|bds|
 Cic. Att. 5.8.2|-it|posset|Leonardus Malaespina|1564|Palat. 1510 (V)|
 Cic. Att. 5.10.5|-um|ornamento|A. S. Wesenberg|1873|Palat. 1510 (V)|
+Cic. Att. 5.11.3|q. illum n./q. illud n. q. illum n.|quam illud, nusquam|Leo|1892|NOP|
 Cic. Att. 15.15.2|odit me|odi. Id me|Orelli|1845|Zt|
 Cic. Caecin. 7|id|si id|C. M. Francken|1881|Palimp. Taur. (P)|
 Cic. Caecin. 24|quid|qui|C. A. Lehmann|1880|c2|apud Quaestiones Tullianae Pars V
