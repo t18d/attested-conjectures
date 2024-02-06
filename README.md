@@ -531,7 +531,7 @@ Cic. Att. 6.6.4|fortuita|fert uita|P. Manutius|1540–7|Laur. Conv. Suppr. 49 (N
 Cic. Att. 6.7.2|-im|possem|A. S. Wesenberg|1840|Laur. Conv. Suppr. 49 (N)|'miror neminem scripsisse'
 Cic. Att. 6.9.2|-as|attingat|Sebastiano Corradi|1544|Paris. 8536 (P)|
 Cic. Att. 7.2.3|animum|manum|P. Manutius|1540–7|Berol. 168 (b)|
-Cic. Att. 7.2.7|negauit. id itaque|negauit. itaque|P. Manutius|1540|Ambros. E 14 inf. (E)|
+Cic. Att. 7.2.7|negauit. id itaque|negauit. itaque|P. Manutius|1540–7|Ambros. E 14 inf. (E)|
 Cic. Att. 7.15.2|quam|del.|P. Manutius|1540–7|Ambros. E 14 inf. (E)|
 Cic. Att. 7.18.1|tac|iacebit|Petrus Victorius|1536|Paris. 8536 (P)|
 Cic. Att. 7.21.1|istinc|istim|Denys Lambin|1565–72|Laur. Conv. Suppr. 49 (N)|
@@ -541,6 +541,12 @@ Cic. Att. 8.15.2|-io|tullo|P. Manutius|1540–7|Laur. 217 (d)|
 Cic. Att. 8.15A.3|sciet. Quomodo/scio. Quomodo|scio et, quo modo|Reinhold Klotz|1854|Paris. 8536 (P)|
 Cic. Att. 8.16.2|domum quem|dominumque|Reinhold Klotz|1854|Paris. 8536 (P)|
 Cic. Att. 9.7B.2|-e|certo|P. Manutius|1540–7|sO2|
+Cic. Att. 9.12.3|circumset et|circumsedet|J. G. Baiter|1867|Paris. 8538 (R)|
+Cic. Att. 9.13.3|-am|illa|P. Manutius|1540–7|bds|
+Cic. Att. 9.18.1|-is|tardiores|Petrus Victorius|1536|Paris. 8536 (P)|
+Cic. Att. 9.19.4|Cephaloni|Cephalioni|P. Manutius|1540–7|Urb. 322 (s)|
+Cic. Att. 10.1.2|nisi tu|nisi si tu|Petrus Victorius|1536|M1O1R|
+Cic. Att. 10.1.3|quid|quod|P. Manutius|1540–7|OPR|
 Cic. Att. 15.15.2|odit me|odi. Id me|Orelli|1845|Zt|
 Cic. Caecin. 7|id|si id|C. M. Francken|1881|Palimp. Taur. (P)|
 Cic. Caecin. 24|quid|qui|C. A. Lehmann|1880|c2|apud Quaestiones Tullianae Pars V
