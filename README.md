@@ -550,6 +550,8 @@ Cic. Att. 10.1.3|quid|quod|P. Manutius|1540–7|OPR|
 Cic. Att. 10.8.10|-et/velit|uelle|Orelli|1845|O1PR|
 Cic. Att. 10.8.10|-em|possim|C. F. W. Müller|1863|bP|Philol.
 Cic. Att. 10.9.1|-auit|dubitabat|Petrus Victorius|1536|Paris. 8536 (P)|
+Cic. Att. 11.4|luctua ut etc.|hic tua ut|Petrus Victorius|1536|Zl|
+Cic. Att. 11.9.1|causa|casus|P. Manutius|1540–7|dsFPAnt.|
 Cic. Att. 15.15.2|odit me|odi. Id me|Orelli|1845|Zt|
 Cic. Caecin. 7|id|si id|C. M. Francken|1881|Palimp. Taur. (P)|
 Cic. Caecin. 24|quid|qui|C. A. Lehmann|1880|c2|apud Quaestiones Tullianae Pars V
