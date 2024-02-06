@@ -501,7 +501,9 @@ Cic. Att. 3.13.1|meque|neque|Leonardus Malaespina|1564|Paris. 8536 (P)|p. 71
 Cic. Att. 3.25.1|pros-|perspicio|Petrus Victorius|1536|Land. 8 (H)|
 Cic. Att. 4.3.4|Miloni campo|Milo in campo|Muretus|1559|Laur. Conv. Suppr. 49 (N)|
 Cic. Att. 4.5.1|ain tu an me|ain tu me|J. C. G. Boot|1865|O1|
-Cic. Att. 4.6.4|nunquam|nunc quam|Leonardus Malaespina|1564|Zb|
+Cic. Att. 4.6.4|nunquam|nunc quam|Leonardus Malaespina|1564|Zb|p. 93
+Cic. Att. 4.13.1|XIII/XVIII|XIIII|P. Manutius|1540|NO1|
+Cic. Att. 4.15.3|forte|fere|Petrus Victorius|1536|Paris. 8536 (P)|
 Cic. Att. 15.15.2|odit me|odi. Id me|Orelli|1845|Zt|
 Cic. Caecin. 7|id|si id|C. M. Francken|1881|Palimp. Taur. (P)|
 Cic. Caecin. 24|quid|qui|C. A. Lehmann|1880|c2|apud Quaestiones Tullianae Pars V
