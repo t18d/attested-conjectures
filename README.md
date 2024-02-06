@@ -128,7 +128,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (84), Markland (79), Valckenaer (72), Porson (62), Madvig (61), Beatus Rhenanus (59), Reiske (53) and Cobet (49).</p>
+<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (84), Markland (79), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Reiske (53) and Cobet (49).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -495,6 +495,10 @@ Cic. Att. 2.1.5|-us -us|nouos patronos|Simon Dubois|1580|Ω|
 Cic. Att. 2.1.5|-eat|habet|J. A. Ernesti|1775|GH|
 Cic. Att. 2.1.12|tocul(i)o-|tocullionibus|Turnebus|1565|sZl|
 Cic. Att. 2.9.1|inuidia|in inuidia|Simon Dubois|1580|EGP|
+Cic. Att. 2.18.2|attamen|hac tamen|Simon Dubois|1580|Land. 8 (H)|
+Cic. Att. 3.8.2|ab illo|ab Ilio|Madvig|1871|cod. Faerni (F)|p. 145
+Cic. Att. 3.13.1|meque|neque|Leonardus Malaespina|1564|Paris. 8536 (P)|p. 71
+Cic. Att. 3.25.1|pros-|perspicio|Petrus Victorius|1536|Land. 8 (H)|
 Cic. Att. 15.15.2|odit me|odi. Id me|Orelli|1845|Zt|
 Cic. Caecin. 7|id|si id|C. M. Francken|1881|Palimp. Taur. (P)|
 Cic. Caecin. 24|quid|qui|C. A. Lehmann|1880|c2|apud Quaestiones Tullianae Pars V
