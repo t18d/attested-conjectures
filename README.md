@@ -487,6 +487,7 @@ Cic. Arch. 19|-diamus|repudiabimus|Andrea Navagero|1519|Lag. 9|
 Cic. Arch. 22|rudem tum|Rudinum|Antonius Augustinus||schol. Bob.|
 Cic. Att. 1.1.2|et ex.|et ab existimatione|Denys Lambin|1565–72|Paris. 8536 (P)|
 Cic. Att. 1.8.1|-i|dare|Sebastian Corrado|1537–55|Paris. 8536 (P)|
+Cic. Att. 1.11.1|legatio|all-|Leonardus Malaespina|1564|s1|
 Cic. Att. 1.14.7|-di|redii|Madvig|1873|bd|
 Cic. Att. 1.16.4|-abat|impetrarat|James S. Reid|1903|Ω|apud Purser
 Cic. Att. 1.19.1|quem|quam|P. Manutius|1540|Paris. 8536 (P)|
@@ -497,6 +498,7 @@ Cic. Att. 2.9.1|inuidia|in inuidia|Simon Dubois|1580|EGP|
 Cic. Att. 2.18.2|attamen|hac tamen|Simon Dubois|1580|Land. 8 (H)|
 Cic. Att. 3.8.2|ab illo|ab Ilio|Madvig|1871|cod. Faerni (F)|p. 145
 Cic. Att. 3.13.1|meque|neque|Leonardus Malaespina|1564|Paris. 8536 (P)|p. 71
+Cic. Att. 3.24.1|nostra|uestra|Sebastiano Corradi|1544|Paris. 8536 (P)|
 Cic. Att. 3.25.1|pros-|perspicio|Petrus Victorius|1536|Land. 8 (H)|
 Cic. Att. 4.3.4|Miloni campo|Milo in campo|Muretus|1559|Laur. Conv. Suppr. 49 (N)|
 Cic. Att. 4.5.1|ain tu an me|ain tu me|J. C. G. Boot|1865|O1|
@@ -534,6 +536,9 @@ Cic. Att. 7.15.2|quam|del.|P. Manutius|1540|Ambros. E 14 inf. (E)|
 Cic. Att. 7.18.1|tac|iacebit|Petrus Victorius|1536|Paris. 8536 (P)|
 Cic. Att. 7.21.1|istinc|istim|Denys Lambin|1565–72|Laur. Conv. Suppr. 49 (N)|
 Cic. Att. 8.3.6|qui|quid|Reinhold Klotz|1854|Paris. 8536 (P)|
+Cic. Att. 8.15.2|-io|tullo|P. Manutius|1540|Laur. 217 (d)|
+Cic. Att. 8.15A.3|sciet. Quomodo/scio. Quomodo|scio et, quo modo|Reinhold Klotz|1854|Paris. 8536 (P)|
+Cic. Att. 8.16.2|domum quem|dominumque|Reinhold Klotz|1854|Paris. 8536 (P)|
 Cic. Att. 15.15.2|odit me|odi. Id me|Orelli|1845|Zt|
 Cic. Caecin. 7|id|si id|C. M. Francken|1881|Palimp. Taur. (P)|
 Cic. Caecin. 24|quid|qui|C. A. Lehmann|1880|c2|apud Quaestiones Tullianae Pars V
