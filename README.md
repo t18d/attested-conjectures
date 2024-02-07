@@ -562,6 +562,8 @@ Cic. Att. 11.20.2|et|eo|P. Manutius|1540–7|OPRC|
 Cic. Att. 12.1.1|-u|rusticatur|Petrus Victorius|1536|O1PR|
 Cic. Att. 12.41.3|adsentiar|assentior|A. S. Wesenberg|1873|Urb. 322 (s)|
 Cic. Att. 13.21.3|-eri|inhibere|Sebastiano Corradi|1544|Urb. 322 (s)|
+Cic. Att. 14.1.1|-i|Lepido|P. Manutius|1540–7|FP|
+Cic. Att. 14.2.2|σαλάκωμα|φαλάκρωμα|Petrus Victorius|1536|bs|
 Cic. Att. 15.15.2|odit me|odi. Id me|Orelli|1845|Zt|
 Cic. Caecin. 7|id|si id|C. M. Francken|1881|Palimp. Taur. (P)|
 Cic. Caecin. 24|quid|qui|C. A. Lehmann|1880|c2|apud Quaestiones Tullianae Pars V
