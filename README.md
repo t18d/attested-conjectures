@@ -33,6 +33,7 @@
         <li>Cicero, M. Tullius, <em>Orationes pro Quinctio, pro Q. Roscio Comoedo, pro Caecina, de lege agraria contra Rullum, pro C. Rabirio perduellionis reo, pro L. Flacco, in L. Pisonem, pro C. Rabirio Postumo</em>, ed. Albert Curtis Clark (Oxford, 1909).</li>
         <li>Cicero, M. Tullius, <em>Orationes pro Tullio, pro Fonteio, pro Sulla, pro Archia, pro Plancio, pro Scauro</em>, ed. Albert Curtis Clark (Oxford, 1911).</li>
         <li>Cicero, M. Tullius, <em>Orationes: Divinatio in Q. Caecilium, In C. Verrem</em>, ed. William Peterson (Oxford, 1916).</li>
+        <li>Cicero, M. Tullius, <em>Ad Atticum epistularum libri sedecim</em>, ed. H. Sjögren, G. Thörnell and A. Önnerfors (Uppsala, 1916–60).</li>
         <li>Cicero, M. Tullius, <em>Orationes pro Milone, pro Marcello, pro Ligario, pro rege Deiotaro, Philippicae I–XIV</em>, ed. Albert Curtis Clark (Oxford, 1918).</li>
         <li>Cicero, M. Tullius, <em>Orationes cum senatui gratias egit, cum populo gratias egit, de domo, de haruspicum responsis, pro Sestio, in Vatinium, pro Caelio, de provinciis consularibus, pro Balbo, in Pisonem, pro Rabirio Postumo, pro Scauro</em>, ed. A. Klotz and F. Schoell (Leipzig, 1919).</li>
         <li>Cicero, M. Tullius, <em>In Q. Caecilium divinatio, in C. Verrem actio I et II</em>, ed. A. Klotz (Leipzig, 1923).</li>
