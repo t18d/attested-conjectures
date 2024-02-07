@@ -31,6 +31,7 @@
         <li>Cicero, M. Tullius, <em>Orationes pro Sex. Roscio, de imperio Cn. Pompei, pro Cluentio, in Catilinam, pro Murena, pro Caelio</em>, ed. Albert Curtis Clark (Oxford, 1905).</li>
         <li>Cicero, M. Tullius, <em>Paradoxa stoicorum, Academicorum reliquiae cum Lucullo, Timaeus, De natura deorum, De divinatione, De fato</em>, ed. Otto Plasberg (Leipzig, 1908–11).</li>
         <li>Cicero, M. Tullius, <em>Orationes pro Quinctio, pro Q. Roscio Comoedo, pro Caecina, de lege agraria contra Rullum, pro C. Rabirio perduellionis reo, pro L. Flacco, in L. Pisonem, pro C. Rabirio Postumo</em>, ed. Albert Curtis Clark (Oxford, 1909).</li>
+        <li>Cicero, M. Tullius, <em>Ad Q. fratrem epistularum libri tres</em>, ed. H. Sjögren (Uppsala, 1911).</li>
         <li>Cicero, M. Tullius, <em>Orationes pro Tullio, pro Fonteio, pro Sulla, pro Archia, pro Plancio, pro Scauro</em>, ed. Albert Curtis Clark (Oxford, 1911).</li>
         <li>Cicero, M. Tullius, <em>Orationes: Divinatio in Q. Caecilium, In C. Verrem</em>, ed. William Peterson (Oxford, 1916).</li>
         <li>Cicero, M. Tullius, <em>Ad Atticum epistularum libri sedecim</em>, ed. H. Sjögren, G. Thörnell and A. Önnerfors (Uppsala, 1916–60).</li>
@@ -105,6 +106,7 @@
         <li>Seneca, L. Annaeus, <em>Ad Lucilium epistularum moralium quae supersunt</em>, ed. Otto Hense (Leipzig, 1914).</li>
         <li>Seneca, L. Annaeus, <em>Naturalium quaestionum libri</em>, ed. Harry M. Hine (Stuttgart, 1996).</li>
         <li>Scribonius Largus, <em>Compositiones</em>, ed. Sergio Sconocchia (Berlin, 2020).</li>
+        <li>Sjögren, H. (ed.), <em>M. Tulli Ciceronis ad M. Brutum et M. Bruti ad M. Tullium Ciceronem epistularum liber novus</em> (Uppsala, 1910).</li>
         <li>Snell, Bruno, and Richard Kannicht (eds), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, i: <em>Didascaliae tragicae, catalogi tragicorum et tragoediarum, testimonia et fragmenta tragicorum minorum</em> (Göttingen, 1986).</li>
         <li>Sommerstein, Alan H., 'The history of the text of Aristophanes', in <em>Brill's Companion to the Study of Greek Comedy</em> (Brill, 2010), 399–422 at 412n69.</li>
         <li>Sophocles, <em>Fabulae</em>, ed. H. Lloyd-Jones and N. G. Wilson (Oxford, 1990).</li>
