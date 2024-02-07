@@ -575,6 +575,7 @@ Cic. Att. 15.3.2|quoniam|quam|Giovan Battista Pio|1527|Urb. 322 (s)|
 Cic. Att. 15.12.1|ait|autem|G. H. Moser|1851|Paris. 8536 (P)|
 Cic. Att. 15.15.2|odit me|odi. Id me|Orelli|1845|Zt|
 Cic. Att. 15.17.2|desit (id) est/dees, id est|des id est|C. F. W. Müller|1898|O1PR|
+Cic. Att. 15.18.2|etiam|et|A. S. Wesenberg|1873|Paris. 8536 (P)|
 Cic. Caecin. 7|id|si id|C. M. Francken|1881|Palimp. Taur. (P)|
 Cic. Caecin. 24|quid|qui|C. A. Lehmann|1880|c2|apud Quaestiones Tullianae Pars V
 Cic. Caecin. 24|pert-|proterrui|Denys Lambin|1566|cod. Tegerns. (T)|
