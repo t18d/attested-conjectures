@@ -129,7 +129,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (84), Markland (79), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Reiske (53), Denys Lambin (50) and P. Manutius (50) (tied).</p>
+<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (84), Markland (79), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Reiske (53) and P. Manutius (51).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -851,6 +851,8 @@ Cic. ac. 1.17|qui|quia|James S. Reid|1885|ππ1ρ μν1γφ|
 Cic. ac. 1.19|imp-|expressionem|P. Manutius|1541–60|αβς|
 Cic. ac. 1.29|inter|item|Bentley|1725–36|ππ2ρ i. m.|‘amicus’ apud Dauisium
 Cic. ac. 1.30|ra-|oratione|Denys Lambin|1566|ν1φ1φ2|
+Cic. ad Brut. 9.12.3|prorsus alienae|prorsus|C. L. Kayser|1884|Land. 8 (H)|apud Madvig
+Cic. ad Q. fr. 1.1.16|et inuident non|e. uero i. n.|P. Manutius|1540–62|Taur. lat. 495 (O)|
 Cic. div. 1.20|post|prius|Janus Gulielmus|s.xvi med.|Phillipp. 1794 (L)|apud Gruter
 Cic. div. 1.20|exces(s)um|excelsum|Denys Lambin|1565–6|Merton. 311|
 Cic. div. 1.21|ac/at|et|Hottinger|1793|Palat. lat. 1519 (P)|
