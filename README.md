@@ -853,6 +853,8 @@ Cic. ac. 1.29|inter|item|Bentley|1725–36|ππ2ρ i. m.|‘amicus’ apud Dauis
 Cic. ac. 1.30|ra-|oratione|Denys Lambin|1566|ν1φ1φ2|
 Cic. ad Brut. 9.12.3|prorsus alienae|prorsus|C. L. Kayser|1884|Land. 8 (H)|apud Madvig
 Cic. ad Q. fr. 1.1.16|et inuident non|e. uero i. n.|P. Manutius|1540–62|Taur. lat. 495 (O)|
+Cic. ad Q. fr. 2.9.1|-ebaris/-ebis|uideris|Leonardus Malaespina|1564|bs2|
+Cic. ad Q. fr. 2.9.1|infusa|insulsa|Petrus Victorius|1536|sF|
 Cic. div. 1.20|post|prius|Janus Gulielmus|s.xvi med.|Phillipp. 1794 (L)|apud Gruter
 Cic. div. 1.20|exces(s)um|excelsum|Denys Lambin|1565–6|Merton. 311|
 Cic. div. 1.21|ac/at|et|Hottinger|1793|Palat. lat. 1519 (P)|
