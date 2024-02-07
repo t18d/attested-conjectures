@@ -574,6 +574,7 @@ Cic. Att. 14.8.1|uimam/Cluuiam|iuniam|P. Manutius|1540–7|Paris. 8538 (R)|
 Cic. Att. 14.11.2|uero cure|cur(a)e|Petrus Victorius|1536|bs|
 Cic. Att. 14.13.2|-im|possum|Graevius|1684|Berol. 168 (b)|
 Cic. Att. 14.13.4|cred-|caedis|P. Manutius|1540–7|bP|
+Cic. Att. 14.22.1|(uirum) clarissimum|c. u.|Orelli|1845|Berol. 168 (b)|
 Cic. Att. 14.22.1|-temus|desisteremus|Gabriele Faerno|1581|bm1s|apud Ursinum
 Cic. Att. 15.3.2|quoniam|quam|Giovan Battista Pio|1527|Urb. 322 (s)|
 Cic. Att. 15.12.1|ait|autem|G. H. Moser|1851|Paris. 8536 (P)|
