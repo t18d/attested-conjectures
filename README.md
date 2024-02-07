@@ -128,7 +128,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (84), Markland (79), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Reiske (53), Cobet (49) and P. Manutius (49) (tied).</p>
+<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (84), Markland (79), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Reiske (53), Denys Lambin (50) and P. Manutius (50) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -550,6 +550,7 @@ Cic. Att. 10.1.3|quid|quod|P. Manutius|1540–7|OPR|
 Cic. Att. 10.8.10|-et/velit|uelle|Orelli|1845|O1PR|
 Cic. Att. 10.8.10|-em|possim|C. F. W. Müller|1863|bP|Philol.
 Cic. Att. 10.9.1|-auit|dubitabat|Petrus Victorius|1536|Paris. 8536 (P)|
+Cic. Att. 10.12.2|cum pacto|compacto|P. Manutius|1540–7|OW|
 Cic. Att. 11.4|luctua ut etc.|hic tua ut|Petrus Victorius|1536|Zl|
 Cic. Att. 11.9.1|causa|casus|P. Manutius|1540–7|dsFPAnt.|
 Cic. Att. 11.11.1|-em|possim|Simon Dubois|1580|Paris. 8538 (R)|
@@ -560,8 +561,11 @@ Cic. Att. 11.16.1|ualde a.|ualde de aduentu|Petrus Victorius|1536|FP|
 Cic. Att. 11.17a.3|-i/-o|illim|Petrus Victorius|1536|cod. Ant.|
 Cic. Att. 11.20.2|et|eo|P. Manutius|1540–7|OPRC|
 Cic. Att. 12.1.1|-u|rusticatur|Petrus Victorius|1536|O1PR|
+Cic. Att. 12.14.4|uetabat id est/uetabat is est solitus|ueta satis est|Sebastiano Corradi|1544|Zl|
+Cic. Att. 12.28.1|tuis|eius|Denys Lambin|1565–72|O1|
 Cic. Att. 12.41.3|adsentiar|assentior|A. S. Wesenberg|1873|Urb. 322 (s)|
 Cic. Att. 13.21.3|-eri|inhibere|Sebastiano Corradi|1544|Urb. 322 (s)|
+Cic. Att. 13.33.1|-is|scribes|Denys Lambin|1565–72|OP|
 Cic. Att. 14.1.1|-i|Lepido|P. Manutius|1540–7|FP|
 Cic. Att. 14.2.2|σαλάκωμα|φαλάκρωμα|Petrus Victorius|1536|bs|
 Cic. Att. 14.3.2|pragmaticum|πραγματικὸν|Tyrrell-Purser|1897|Berol. 168 (b)|
