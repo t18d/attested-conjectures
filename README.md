@@ -539,7 +539,7 @@ Cic. Att. 8.3.6|qui|quid|Reinhold Klotz|1854|Paris. 8536 (P)|
 Cic. Att. 8.14.3|sed|ait|Petrus Victorius|1536|Urb. 322 (s)|
 Cic. Att. 8.15.2|-io|tullo|P. Manutius|1540–7|Laur. 217 (d)|
 Cic. Att. 8.15A.3|sciet. Quomodo/scio. Quomodo|scio et, quo modo|Reinhold Klotz|1854|Paris. 8536 (P)|
-Cic. Att. 8.16.2|domum quem|dominumque|Reinhold Klotz|1854|Paris. 8536 (P)|
+Cic. Att. 8.16.2|domum quem|dominumque|Reinhold Klotz|1870|Paris. 8536 (P)|
 Cic. Att. 9.7B.2|-e|certo|P. Manutius|1540–7|sO2|
 Cic. Att. 9.12.3|circumset et|circumsedet|J. G. Baiter|1867|Paris. 8538 (R)|
 Cic. Att. 9.13.3|-am|illa|P. Manutius|1540–7|bds|
@@ -576,6 +576,7 @@ Cic. Att. 15.12.1|ait|autem|G. H. Moser|1851|Paris. 8536 (P)|
 Cic. Att. 15.15.2|odit me|odi. Id me|Orelli|1845|Zt|
 Cic. Att. 15.17.2|desit (id) est/dees, id est|des id est|C. F. W. Müller|1898|O1PR|
 Cic. Att. 15.18.2|etiam|et|A. S. Wesenberg|1873|Paris. 8536 (P)|
+Cic. Att. 15.18.2|etiam|et iam|Reinhold Klotz|1870|frg. Wurceb. (W)|
 Cic. Caecin. 7|id|si id|C. M. Francken|1881|Palimp. Taur. (P)|
 Cic. Caecin. 24|quid|qui|C. A. Lehmann|1880|c2|apud Quaestiones Tullianae Pars V
 Cic. Caecin. 24|pert-|proterrui|Denys Lambin|1566|cod. Tegerns. (T)|
