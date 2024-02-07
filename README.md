@@ -128,7 +128,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (84), Markland (79), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Reiske (53) and Cobet (49).</p>
+<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (84), Markland (79), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Reiske (53), Cobet (49) and P. Manutius (49) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -581,7 +581,15 @@ Cic. Att. 15.20.1|anteno|ante nos|Sebastiano Corradi|1544|Paris. 8536 (P)|
 Cic. Att. 15.20.4|u. enim|uideas|P. Manutius|1540–7|Paris. 8538 (R)|
 Cic. Att. 15.28|amore meo|amorem eo|Petrus Victorius|1536|PR|
 Cic. Att. 15.29.2|dissid-|discidium|P. Manutius|1540–7|PR|
-Cic. Att. 15.29.3|uidi esse|uidisse|Petrus Victorius|1536|Zb|
+Cic. Att. 15.29.3|uidi esse|uidisse|Filippo Beroaldo I||Zb|
+Cic. Att. 16.3.1|agis addis|addis|P. Manutius|1540–7|Ambros. E 14 inf. (E)|
+Cic. Att. 16.4.4|et tectis|etesiis|Sebastiano Corradi|1544|Zl|
+Cic. Att. 16.5.5|equidem|et quidem|P. Manutius|1540–7|PR|
+Cic. Att. 16.6.1|equis|aequis|Salmasius|1629|Paris. 8538 (R)|Plinianae exercitationes p. 567–8
+Cic. Att. 16.11.2|per|ter|Sebastiano Corradi|1544|Zb|
+Cic. Att. 16.15.5|ut inde suo|uti de suo|Petrus Victorius|1536|bs|
+Cic. Att. 16.16A.5|-et|transissent|Giovan Battista Pio|1527|Berol. 168 (b)|
+Cic. Att. 16.16F.18|tui|sui|P. Manutius|1540–7|Pb2|
 Cic. Caecin. 7|id|si id|C. M. Francken|1881|Palimp. Taur. (P)|
 Cic. Caecin. 24|quid|qui|C. A. Lehmann|1880|c2|apud Quaestiones Tullianae Pars V
 Cic. Caecin. 24|pert-|proterrui|Denys Lambin|1566|cod. Tegerns. (T)|
