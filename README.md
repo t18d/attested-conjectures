@@ -1506,7 +1506,7 @@ Hsch. α 2737|παλαιός|μάταιος|F. W. Schmidt|1886|Cyrill. ph|Krit. 
 Hsch. α 2737|ἀλαιός|ἀλεός|Gottfried Sopingius|s.xvi/xvii|Cyrill. ph|apud Schrevelius/Alberti
 Hsch. κ 4905|καμίκην|Καμικοῖς|Johann Alberti|1766|Cyrill.|
 Isoc. Paneg. 68|γε|ελαττω γε|Cobet|1783|P.Oxy. V 844|
-Isoc. ad Nic. 2|διοικοῖς|διοικῇς|Blass|1891|Pap. Massiliensis = CPF I.2 17|
+Isoc. ad Nic. 2|διοικοίης|διοικῇς|Blass|1891|Pap. Massiliensis = CPF I.2 17|
 Isoc. ad Nic. 8|ταῖς μοναρχίαις|τὰς μοναρχίας|Cobet|1783|Pap. Massiliensis = CPF I.2 17|
 Isoc. de Pace 81|-οντα|λυπήσαντα|Cobet|1783|P.Lond.Lit 132|
 Iuv. 1.67|-o|falsi|Markland|1717–28|PRV|
