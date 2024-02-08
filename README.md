@@ -945,8 +945,8 @@ Claud. 3.48|quo|cur|Goodyear|1985|Paris. lat. 7936 (P14)|apud Hall
 Claud. 3.131|fera-|furiale|Theodor Birt|1892|Lond. Add. 6042 (L3)|v.l.
 Claud. 3.154|leuaui/litaui|uocaui|Ludwig Jeep|1876|Bonon. 2221 (b1)|m. sec.
 Claud. 3.207|-unt|rapiant|Nicolaus Heinsius|1650|Paris. lat. 2908 (P13)|
-Claud. 3.260|s. m. se|solus medio sed|Livineius||LJ6pc|
-Claud. 3.274|ob-|subieceris|Johann Schrader|1871|Flor. bibl. nat. VII. 144 (F17)|apud Haupt
+Claud. 3.260|s. m. se|solus medio sed|Johannes Livineius|1581|LJ6pc|
+Claud. 3.274|ob-|subieceris|Johannes Schrader|1871|Flor. bibl. nat. VII. 144 (F17)|apud Haupt
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
