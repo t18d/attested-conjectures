@@ -154,6 +154,7 @@ Ach.Tat. LC 3.24.2|πέντε|αἱ πέντε|Cobet|1858|P.Duk. inv. 772 + P.K�
 Ael. NA 12.10|-ία|μυωνιά|Theodor Kock|1880–8|Laur. 86.7 (L)|
 Aesch. Ag. 175|φρε-|φρονῶν|Francesco Robortello|1552|Fac|
 Aesch. Ag. 231|-άν|εὐχᾶν|Maas|1951|Mac|CQ 1 (1951) 94
+Aesch. Ag. 448|διὰ|διαὶ|Hermann|1852|Epim.Hom. δ 68|
 Aesch. Cho. 989|ψέ-|λέγω|Turnebus|1552|schol. vetus (Σ)|
 Aesch. PV 157|ἐπεγήθει/ἐπιγήθει|ἐγεγήθει|Valckenaer|s.xviii med.|Ambros. gr. G 56 (D) et Matrit. gr. 4677 (N)|
 Aesch. PV 691–3|δείματ'|del.|Hermann|1852|Ambros. gr. G 56 (D)|
