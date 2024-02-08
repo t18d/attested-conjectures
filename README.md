@@ -158,7 +158,7 @@ Aesch. PV 157|ἐπεγήθει/ἐπιγήθει|ἐγεγήθει|Valckenaer|s
 Aesch. PV 691–3|δείματ'|del.|Hermann|1852|Ambros. gr. G 56 (D)|
 Aesch. Sept. 322|Ἀΐδαι|ἄϊδι|Turnebus|1552|Monac. gr. 565 (Uc)|
 Aesch. Supp. 44|-αις|ἐπιπνοίας|Francesco Robortello|1552|schol. vetus (Σ)|
-Aesch. Supp. 79|ηβαι|ἥβαν|C. G. Schütz|1808–11|schol. vetus (Σ)|
+Aesch. Supp. 79|ηβαι|ἥβαν|C. G. Schütz|1794|schol. vetus (Σ)|
 Aesch. Supp. 459|-εῖ|καλή|Turnebus|1552|Bonon. Bibl. Univ. 2271 (Mb)|a. c.
 Aesch. Supp. 570|τὰν|τὰ|Hermann|1852|Guelf. Gud. gr. 4° 88 (Mc)|a. c.
 Aesch. T 1.5|-ουϲ|Ἀριϲτοφάνει|Bergk|1883|BXc|Hermes 18 (1883) 483
