@@ -53,6 +53,7 @@
         <li>Demosthenes, <em>Orationes</em>, ed. M. R. Dilts, 4 vols (Oxford, 2002–9).</li>
         <li>Diggle, James, 'Apologies to Bothe (and Others)', in <em>Euripidea: collected essays</em> (Oxford, 1994), 518–23.</li>
         <li>El-Maghrabi, M. G., and C. Römer (eds), <em>Texts from the "Archive" of Socrates, the Tax Collector, and Other Contexts at Karanis (P. Cair. Mich. II)</em> (Berlin, 2015), 48.</li>
+        <li>Eschilo, <em>Supplici</em>, ed. Carles Miralles, Vittorio Citti and Liana Lomiento (Rome, 2019).</li>
         <li>Euripides, <em>Fabulae</em>, ed. J. Diggle, 3 vols (Oxford, 1984–94).</li>
         <li>Finglass, P. J., 'Unpublished conjectures at Leiden on the Greek dramatists', <em>Greek, Roman and Byzantine Studies</em>, 49/2 (2009), 187–221.</li>
         <li>Finglass, P. J., 'Unpublished Conjectures on Sophocles by Jeremiah Markland', <em>Greek, Roman, and Byzantine Studies</em>, 51/2 (2011), 232–8.</li>
