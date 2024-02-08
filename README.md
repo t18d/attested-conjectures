@@ -940,6 +940,9 @@ Cic. part. 62|in|del.|Thomas Stangl|1886|CI|Philol.
 Cic. prov. 47|si|del.|Gustav Sorof|1875|GEb|
 Claud. 1.9|anni-|amniadae|Julius Koch|1893|Erlang. 626 (e2)|
 Claud. 1.198|græca/grata|graia|Nicolaus Heinsius|1650|Vindob. 3246 (V4)|
+Claud. 3.40|torua-|totaque|Johannes Camers|1510|Leid. Β. P. L. 131 (J7)|v.l.
+Claud. 3.48|quo|cur|Goodyear|1985|Paris. lat. 7936 (P14)|apud Hall
+Claud. 3.131|fera-|furiale|Theodor Birt|1892|Lond. Add. 6042 (L3)|v.l.
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
