@@ -46,6 +46,7 @@
         <li>Cicero, M. Tullius, <em>Oraliones in P. Vatinium testem et Pro M. Caelio</em>, ed. Tadeusz Maslowski (Stuttgart, 1995).</li>
         <li>Cicero, M. Tullius, <em>Oraliones in L. Catilinam quattuor</em>, ed. Tadeusz Maslowski (Munich, 2003).</li>
         <li>Cicero, M. Tullius, <em>De finibus bonorum et malorum</em>, ed. Claudio Moreschini (Munich, 2005).</li>
+        <li>Citti, V., and R. Dawe, 'Congetture ad Eschilo dalle edizioni cinquecentine', <em>Lexis</em>, 22 (2004), 249–60.</li>
         <li>Clark, Albert C., <em>Anecdota Oxoniensia</em>, x: <em>The Vetus Cluniacensis of Poggio</em> (Oxford, 1905).</li>
         <li>Clark, Albert C., <em>Anecdota Oxoniensia</em>, xi: <em>Inventa Italorum</em> (Oxford, 1909).</li>
         <li>Demosthenes, <em>Orationes</em>, ed. S. H. Butcher and W. Rennie, 3 vols (Oxford, 1903–31).</li>
