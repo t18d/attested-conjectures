@@ -131,7 +131,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (86), Bentley (84), Markland (79), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Reiske (53) and P. Manutius (51).</p>
+<p>The top 10 critics are Scaliger (187), Nicolaus Heinsius (87), Bentley (84), Markland (79), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Reiske (53) and P. Manutius (51).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -939,6 +939,7 @@ Cic. parad. 39|spes|spe|Bentley||Vindob. 189 (V)|
 Cic. part. 62|in|del.|Thomas Stangl|1886|CI|Philol.
 Cic. prov. 47|si|del.|Gustav Sorof|1875|GEb|
 Claud. 1.9|anni-|amniadae|Julius Koch|1893|Erlang. 626 (e2)|
+Claud. 1.198|græca/grata|graia|Nicolaus Heinsius|1650|Vindob. 3246 (V4)|
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
