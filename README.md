@@ -150,7 +150,9 @@ Ach.Tat. LC 3.22.6|ἡμῶν ἐκποδὼν|ἡ]μῖν ἐμποδὼν|Frie
 Ach.Tat. LC 3.23.1|τὴν ψυχὴν|τῆς ψυχῆς|Cobet|1858|P.Duk. inv. 772 + P.Köln inv. 901|
 Ach.Tat. LC 3.24.2|πέντε|αἱ πέντε|Cobet|1858|P.Duk. inv. 772 + P.Köln inv. 901|
 Ael. NA 12.10|-ία|μυωνιά|Theodor Kock|1880–8|Laur. 86.7 (L)|
+Aesch. Ag. 175|φρε-|φρονῶν|Francesco Robortello|1552|Fac|
 Aesch. Ag. 231|-άν|εὐχᾶν|Maas|1951|Mac|CQ 1 (1951) 94
+Aesch. Cho. 989|ψέ-|λέγω|Turnebus|1552|schol. vetus (Σ)|
 Aesch. PV 157|ἐπεγήθει/ἐπιγήθει|ἐγεγήθει|Valckenaer|s.xviii med.|Ambros. gr. G 56 (D) et Matrit. gr. 4677 (N)|
 Aesch. PV 691–3|δείματ'|del.|Hermann|1852|Ambros. gr. G 56 (D)|
 Aesch. Sept. 322|Ἀΐδαι|ἄϊδι|Turnebus|1552|Monac. gr. 565 (Uc)|
