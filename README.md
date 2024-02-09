@@ -134,7 +134,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (188), Nicolaus Heinsius (88), Bentley (84), Markland (80), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Reiske (53), Denys Lambin (51) and P. Manutius (51) (tied).</p>
+<p>The top 10 critics are Scaliger (188), Nicolaus Heinsius (88), Bentley (85), Markland (80), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Reiske (53), Denys Lambin (51) and P. Manutius (51) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1513,6 +1513,7 @@ Hor. carm. 2.14.27|-o|superbus|Caspar von Barth|1624|corr. Vat. A (Fea)|
 Hor. carm. 3.8.26|parce|parte|Matthaeus Bonfinis|1518|v et cod. Battel. Bentleii|
 Hor. carm. 3.10.8|nu-|lumine|Willem Canter|1564|codd. Lambini|
 Hor. carm. 3.12.9|-e|Bellerophonti|Matthaeus Bonfinis|1518|Oxon. coll. Reg. P2|
+Hor. carm. 3.21.5|no-|numine|Bentley|1711|B R1|'Paucis tamen, opinor, probabitur, quia conjecturae nomine nunc venit: quod si e Manuscripto aliquo alicunde prodiret, quibus plausibus exciperetur!'
 Hor. carm. 3.27.38|-um|uirginis|Markland|1723|Montepess. H 425 (μ)|var.
 Hsch. α 2737|παλαιός|μάταιος|F. W. Schmidt|1886|Cyrill. ph|Krit. St. 1,112
 Hsch. α 2737|ἀλαιός|ἀλεός|Gottfried Sopingius|s.xvi/xvii|Cyrill. ph|apud Schrevelius/Alberti
