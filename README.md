@@ -133,7 +133,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (188), Nicolaus Heinsius (88), Bentley (84), Markland (79), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Reiske (53) and P. Manutius (51).</p>
+<p>The top 10 critics are Scaliger (188), Nicolaus Heinsius (88), Bentley (84), Markland (79), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Reiske (53), Denys Lambin (51) and P. Manutius (51) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1502,6 +1502,8 @@ Hom. Od. 24.209|ἠδὲ ἴαυον|ἠδ’ ενϊαυον|Nauck|1874|P.Ryl. I
 Hor. ars 277|quae|qui|Bentley|1711|recc.|
 Hor. carm. 1.3.26|gens|mens|Franz van Oudendorp|1834|cod. Torrentii|apud Peerlkamp
 Hor. carm. 1.14.14|ti-|tumidus|Scaliger|1561|γ et cod. Galei Bentleii|
+Hor. carm. 1.15.36|Iliacas|Pergameas|Peter van Os|1500|pauci codd. (Peerlkamp)|
+Hor. carm. 1.20.5|ca-|clare|Denys Lambin|1561|cod. Reg. Soc. Bentleii|
 Hor. carm. 2.11.19|-guet|restinguit|F. H. Bothe|1820|Reg. lat. 1703 (R)|
 Hor. carm. 3.27.38|-um|uirginis|Markland|1723|Montepess. H 425 (μ)|var.
 Hsch. α 2737|παλαιός|μάταιος|F. W. Schmidt|1886|Cyrill. ph|Krit. St. 1,112
