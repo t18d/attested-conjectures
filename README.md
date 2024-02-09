@@ -1511,6 +1511,8 @@ Hor. carm. 1.31.15|-unt|pascant|Tanaquil Faber|1671|cod. Reg. Soc. Bentleii|
 Hor. carm. 2.11.19|-guet|restinguit|F. H. Bothe|1820|Reg. lat. 1703 (R)|
 Hor. carm. 2.14.27|-o|superbus|Caspar von Barth|1624|corr. Vat. A (Fea)|
 Hor. carm. 3.8.26|parce|parte|Matthaeus Bonfinis|1518|v et cod. Battel. Bentleii|
+Hor. carm. 3.10.8|nu-|lumine|Willem Canter|1564|codd. Lambini|
+Hor. carm. 3.12.9|-e|Bellerophonti|Matthaeus Bonfinis|1518|Oxon. coll. Reg. P2|
 Hor. carm. 3.27.38|-um|uirginis|Markland|1723|Montepess. H 425 (μ)|var.
 Hsch. α 2737|παλαιός|μάταιος|F. W. Schmidt|1886|Cyrill. ph|Krit. St. 1,112
 Hsch. α 2737|ἀλαιός|ἀλεός|Gottfried Sopingius|s.xvi/xvii|Cyrill. ph|apud Schrevelius/Alberti
