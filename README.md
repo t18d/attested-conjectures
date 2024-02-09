@@ -1509,6 +1509,7 @@ Hor. carm. 1.20.10|tu|tum|Ludwig Doederlein|1837|schol. sat. 2.2.48|
 Hor. carm. 1.31.3|-ae|optimas|Markland|1728|cod. Torrentii|ad Stat. silv. 4.6.65 ('ubi minus concinne vulgo legitur optimae')
 Hor. carm. 1.31.15|-unt|pascant|Tanaquil Faber|1671|cod. Reg. Soc. Bentleii|
 Hor. carm. 2.11.19|-guet|restinguit|F. H. Bothe|1820|Reg. lat. 1703 (R)|
+Hor. carm. 2.14.27|-o|superbus|||corr. Vat. A (Fea)|
 Hor. carm. 3.27.38|-um|uirginis|Markland|1723|Montepess. H 425 (μ)|var.
 Hsch. α 2737|παλαιός|μάταιος|F. W. Schmidt|1886|Cyrill. ph|Krit. St. 1,112
 Hsch. α 2737|ἀλαιός|ἀλεός|Gottfried Sopingius|s.xvi/xvii|Cyrill. ph|apud Schrevelius/Alberti
