@@ -1500,6 +1500,7 @@ Hom. Od. 24.137|κεῖτ-|κῆται|F. A. Wolf|1807|P.Ryl. I 53|
 Hom. Od. 24.207|πόλλ’ ἐμόγησεν|πόλλὰ μογη[σεν|Bekker|1858|P.Ryl. I 53|
 Hom. Od. 24.209|ἠδὲ ἴαυον|ἠδ’ ενϊαυον|Nauck|1874|P.Ryl. I 53|
 Hor. ars 277|quae|qui|Bentley|1711|recc.|
+Hor. carm. 1.7.7|-am -ti|decerptae frondi|Erasmus|1533|codd. Lambini|apud Glareanum
 Hor. carm. 1.14.14|ti-|tumidus|Scaliger|1561|γ et cod. Galei Bentleii|
 Hor. carm. 2.11.19|-guet|restinguit|F. H. Bothe|1820|Reg. lat. 1703 (R)|
 Hor. carm. 3.27.38|-um|uirginis|Markland|1723|Montepess. H 425 (μ)|var.
