@@ -133,7 +133,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (188), Nicolaus Heinsius (88), Bentley (84), Markland (79), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Reiske (53), Denys Lambin (51) and P. Manutius (51) (tied).</p>
+<p>The top 10 critics are Scaliger (188), Nicolaus Heinsius (88), Bentley (84), Markland (80), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Reiske (53), Denys Lambin (51) and P. Manutius (51) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1505,6 +1505,8 @@ Hor. carm. 1.14.14|ti-|tumidus|Scaliger|1561|γ et cod. Galei Bentleii|
 Hor. carm. 1.15.36|Iliacas|Pergameas|Peter van Os|1500|pauci codd. (Peerlkamp)|
 Hor. carm. 1.20.5|ca-|clare|Denys Lambin|1561|cod. Reg. Soc. Bentleii|
 Hor. carm. 1.20.10|tu|tum|Ludwig Doederlein|1837|schol. sat. 2.2.48|
+Hor. carm. 1.31.3|-ae|optimas|Markland|1728|cod. Torrentii|ad Stat. silv. 4.6.65 ('ubi minus concinne vulgo legitur optimae')
+Hor. carm. 1.31.15|-unt|pascant|Tanaquil Faber|1671|cod. Reg. Soc. Bentleii|
 Hor. carm. 2.11.19|-guet|restinguit|F. H. Bothe|1820|Reg. lat. 1703 (R)|
 Hor. carm. 3.27.38|-um|uirginis|Markland|1723|Montepess. H 425 (μ)|var.
 Hsch. α 2737|παλαιός|μάταιος|F. W. Schmidt|1886|Cyrill. ph|Krit. St. 1,112
