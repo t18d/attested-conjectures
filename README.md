@@ -1987,7 +1987,7 @@ Phot. α 2096|-δε|Θουγενίδης|J. Stroux|1907|suppl. Zavord. 95 (Sz)|H
 Phot. α 2124|-τλία|ἀντία|Richard Reitzenstein|1907|Zavord. 95 (z)|
 Phot. α 2252|-ων|σπεύδω|Wilamowitz|1907|Zavord. 95 (z)|SBAk. Berlin 1907,13 = Kl. Sehr. 4,541
 Phot. ε 336|-ξασθαι|εἰσδέξεσθαι|Hermann Sauppe|1850|Harp. pl. codd. QP|ad Antiph. fr. 167
-Phot. ε 1110|ἐξάρξ- κτλ.|ἐξαράξαντες|L. Dindorf|1835|Cyr. cod. Α fol. 76r|ThGL. νοl. III p. 1256Β
+Phot. ε 1110|ἐξάρξ- κτλ.|ἐξαράξαντες|L. Dindorf|1835|Cyr. cod. Α fol. 76r|ThGL. vol. III p. 1256Β
 Phot. ε 1818|-θεύθηοαν|ἐπλίνθευοαν|Wilamowitz|n.d.|Zavord. 95 (z)|ms. ad Hsch.
 Phot. ε 2006|φ. ἐ. κόρας|φεῦγ' ἐς κόρακας|Porson|1822|Zavord. 95 (z)|
 Phot. ε 2239|εὐλ-/εὔλ-|εὐλάχα|Naber|1864|schol. Thuc. cod. Gpc|
@@ -1999,18 +1999,18 @@ Phot. ι 49|πυρὸν|πυρρὸν|Porson|1822|Sud. ι 165|
 Phot. ι 49|-γελλεν|ἀπήγγειλεν|Meineke|1822|Sud. ι 165|Anal. Alex. p. 356
 Phot. ι 181|-ος|χρήοιμον|Porson|1822|Phot. Bibl. 528a.41|
 Phot. ι 198|γεννῶνται|γένωνται|Adamantios Korais|s.xviii/xix|Sud. ι 623|
-Phot. κ 671|κήπουρεύμα (dublici acc.)|κήπου ῥεῦμα|Dindorf|1835|Zavord. 95 (z)|ThGL. νοl. IV p. 1521B
+Phot. κ 671|κήπουρεύμα (dublici acc.)|κήπου ῥεῦμα|Dindorf|1835|Zavord. 95 (z)|ThGL. vol. IV p. 1521B
 Phot. κ 784|δὴ|δεῖ|Porson|1822|Epit. Harp. et Sud. κ 1802|
 Phot. κ 1250|-κέναι/-κεν|ἀναβεβηκὸς|Porson|1822|Sud. κ 2749|
 Phot. κ 1288|-τας|ψοφοῦντες|Porson|1822|Et.Gen. Α|
 Phot. λ 92|λαπήττ-|λαπίττειν|Johann Alberti|1766|zpc|Hesych. Lex. vol. II p. 427, 7
 Phot. λ 92|λαμπιστὴν|λαπιοτὴν|Johann Alberti|1766|zpc|Hesych. Lex. vol. II p. 427, 7
-Phot. λ 173|-ία|τρύβλια|L. Dindorf|1835|Zavord. 95 (z)|ThGL. νοl. V p. 179B
+Phot. λ 173|-ία|τρύβλια|L. Dindorf|1835|Zavord. 95 (z)|ThGL. vol. V p. 179B
 Phot. λ 204|-ον|κακῶν|Porson|1822|zpc|
 Phot. λ 232|ἀρτίτ-|ἀρτιτόκος|Schleusner|1812|Σbpc|Cur. nov. p. 188
 Phot. λ 319|τὸν|τὸ|Schleusner|1812|AB I 277.7|Cur. nov. p. 195
 Phot. λ 382|κατὰ|ὑπὲρ|Maussacus|1822|Harp. pl. cod. Κ|apud Dindorf ad Harp.
-Phot. λ 420|-λημ-|κεκλιμένος|L. Dindorf|1835|zpc|ThGL. νοl. V p. 403B
+Phot. λ 420|-λημ-|κεκλιμένος|L. Dindorf|1835|zpc|ThGL. vol. V p. 403B
 Phot. μ 71|μεμαγ-|μεμαλαγμένος|Schleusner|1812|zpc|Cur. nov. p. 213
 Phot. μ 135|τίς|τί|Porson|1822|Epit. Harp. et Suid. cod. G|
 Phot. μ 521|-ορή-|μυχορρήμων|L. Dindorf|1835|zpc|ThGL. vol. V p. 1321D
@@ -2022,7 +2022,7 @@ Phot. ο 119|δῆμος τῆς|δημότης|Adamantios Korais|s.xviii/xix|Ep
 Phot. ο 119|δῆμος τῆς|δημότης|Schleusner|1810|Epit. Harp. et Harp. pl.|Libell. p. 58
 Phot. ο 254| ̓Oλύμπιον| ̓Oλυμπιεῖον|Johann Alberti|1766|zpc|Hesych. Lex. vol. II p. 747, 7
 Phot. ο 716|-φεῖν|ῥόφειν|L. Dindorf|1835|z et Eust.|ThGL. νοl. V p. 2458C
-Phot. π 105|κινεῖ|κινεῖται|Dindorf|1835|Cyr. cod. A et Hsch. π 237|ThGL. νοl. VI p. 106C
+Phot. π 105|κινεῖ|κινεῖται|Dindorf|1835|Cyr. cod. A et Hsch. π 237|ThGL. vol. VI p. 106C
 Phot. π 192|παρὰ αὐλίδην|παραβλήδην|Adamantios Korais|s.xviii/xix|zpc et Sud. π 270|Eἰς μνήμην  ̓Aμάντου p. 294
 Phot. π 252|-μοῦντες|παρορμῶντες|Porson|1822|zpc Σa+b Sud.|
 Phot. π 317|-απενθεῖς|παρατενεῖς|Schleusner|1810|Tim. et Hsch.|Libell. p. 71
@@ -2112,7 +2112,7 @@ Phot. υ 164|ὑφ ̓|ἐφ ̓|Porson|1822|Sud. cod. A|
 Phot. υ 241|ὑπὸ|ἀπὸ|Konstantinos Kontos|1877|Sud. codd. GM|Παρνασσός 1 (1877) 736
 Phot. υ 299|ἐραντίθην|ἐρραντίσθην|Naber|1865|zpc|
 Phot. φ 29|τῆινεῶι|ἐπὶ τῆς νεὼς|Adamantios Korais|s.xviii/xix|z Sud. Et.Gen. AB|Eἰς μνήμην  ̓Aμάντου p. 298
-Phot. φ 69|ἀποστ-|ἀπατήσας|Dindorf|1835|Cyr. φ 28|ThGL. νοl. VIII p.656D
+Phot. φ 69|ἀποστ-|ἀπατήσας|Dindorf|1835|Cyr. φ 28|ThGL. vol. VIII p.656D
 Phot. φ 143|-θεῖν-|φθῆναι|Cobet|1858|Σa Sud. codd. AGFM etc.|Mnem. 7 (1858) 478
 Phot. φ 144|φθείσ-|φθήσεται|Cobet|1858|Σa+b Sud. etc.|Mnem. 7 (1858) 478
 Pi. I. 6.87a schol.|-ειν/-ων|συντέμνει|Petros N. Papageorgiu|1880|codd.|
