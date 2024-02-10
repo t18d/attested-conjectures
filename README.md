@@ -2013,10 +2013,10 @@ Phot. λ 382|κατὰ|ὑπὲρ|Maussacus|1822|Harp. pl. cod. Κ|apud Dindorf 
 Phot. λ 420|-λημ-|κεκλιμένος|L. Dindorf|1835|zpc|ThGL. νοl. V p. 403B
 Phot. μ 71|μεμαγ-|μεμαλαγμένος|Schleusner|1812|zpc|Cur. nov. p. 213
 Phot. μ 135|τίς|τί|Porson|1822|Epit. Harp. et Suid. cod. G|
-Phot. μ 521|-ορή-|μυχορρήμων|L. Dindorf|1835|zpc|ThGL. νοl. V p. 1321D
+Phot. μ 521|-ορή-|μυχορρήμων|L. Dindorf|1835|zpc|ThGL. vol. V p. 1321D
 Phot. ν 77|νεάσαι|νεᾶσαι|Cobet|1859|Zavord. 95 (z)|Mnem. 8 (1859) 38
 Phot. ν 191|νηνί-|νηλίποδες|P. P. Dobree|s.xviii/xix|zpc|Advers. vol. III p. 46
-Phot. ν 209|ποίησον|ποιήσω|Cobet|1859|Sud. codd. GM|Mnem. 8 (1859) 33-4
+Phot. ν 209|ποίησον|ποιήσω|Cobet|1859|Sud. codd. GM|Mnem. 8 (1859) 33–4
 Phot. ο 21|-ύλε-|ὀγκύλλεσθαι|Schleusner|1812|Zavord. 95 (z)|Cur. nov. p. 266
 Phot. ο 119|δῆμος τῆς|δημότης|Adamantios Korais|s.xviii/xix|Epit. Harp. et Harp. pl.|Eἰς μνήμην  ̓Aμάντου p. 293
 Phot. ο 119|δῆμος τῆς|δημότης|Schleusner|1810|Epit. Harp. et Harp. pl.|Libell. p. 58
