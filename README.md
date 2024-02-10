@@ -230,7 +230,7 @@ Anaximen. Rh. 4.4|ἴσασι/εἰδῶσι|τιμῶσι|Leonhard Spengel|1844
 Ap. Rhod. 1.74|ἦεν κτλ.|ᾖεν|Arthur Platt|1914–9|Palat. gr. 186 (V)|
 Ap. Rhod. 1.372|πρώραν|πρώειραν|Bergk|n.d.|Et.Gen.|
 Ap. Rhod. 1.749|ἀμειβό-|ἀμυνόμενοι|Jeremias Hoelzlin|1641|Laur. gr. 32.16 (S)|
-Ap. Rhod. 1.883|-κέως|ἐνδυκὲς|Jan Rutgersius|1618|Et.Gen.|
+Ap. Rhod. 1.883|-κέως|ἐνδυκὲς|Janus Rutgersius|1618|Et.Gen.|
 Ap. Rhod. 1.941|-τον|Ἄρκτων|Hoelzlin|1641|schLa|
 Ap. Rhod. 1.990|φράξαν|φράσσον|Fränkel|1961|P.Oxy. LXIV 4414|
 Ap. Rhod. 1.990|-ίοιο|ἀπειρεσίῃσι|Arthur Platt|1914|P.Oxy. LXIV 4414|Journ. of Phil. 33 (1914) 12–3
@@ -1526,7 +1526,7 @@ Hor. epod. 5.37|ex(s)ecta/ex(s)ucta/exuta|exsuc(c)a|Lucian Müller|1900|ς (Bail
 Hor. epod. 17.81|ag-/hab-|valentis|Muretus|1561|π2 et duo codd. Torrentii|apud Lambinum
 Hor. sat. 1.1.23|-ea|praetereo|Jean Bouhier|1807|codd. Apitzii|
 Hor. sat. 1.2.110|pe-|velli|Nicolaus Heinsius|1711|cod. Coll. Trin. Bentleii|apud Bentley
-Hor. sat. 1.3.25|per-|praevideas||1711|cod. Reg. Soc. Bentleii|apud Bentley
+Hor. sat. 1.3.25|per-|praevideas|Janus Rutgersius|1613|cod. Reg. Soc. Bentleii|
 Hor. sat. 2.5.103|est|et|Bentley|1711|codd. Palmerii|
 Hsch. α 2737|παλαιός|μάταιος|F. W. Schmidt|1886|Cyrill. ph|Krit. St. 1,112
 Hsch. α 2737|ἀλαιός|ἀλεός|Gottfried Sopingius|s.xvi/xvii|Cyrill. ph|apud Schrevelius/Alberti
@@ -1576,8 +1576,8 @@ Iuv. 6.491|-o|humeros|Markland|1717–28|AK2|umeros AK2
 Iuv. 6.561|-o/-a|longe|Franz Buecheler|1886|Bodl. Canon. Class. lat. 41 (O)|
 Iuv. 6.628|-et|vetat|Markland|1717–28|Urb. 661 (U)|
 Iuv. 6.660|-et|praegustarit|Markland|1717–28|Monac. 14466|
-Iuv. 7.12|-eon|alcithoen|Jan Rutgersius|1618|GO|
-Iuv. 7.16|-lia|gallica|Jan Rutgersius|1618|PGU|
+Iuv. 7.12|-eon|alcithoen|Janus Rutgersius|1618|GO|
+Iuv. 7.16|-lia|gallica|Janus Rutgersius|1618|PGU|
 Iuv. 7.78|cap-|cupiunt|C. F. Heinrich|1839|Lond. BM add. 15600 (Z)|
 Iuv. 7.80|-is|marmoreus|Gronovius|1755|recc.|
 Iuv. 7.88|-ur|largitus|Johannes Schrader|1801|Paris. 7900 A (G)|apud Rupertium
@@ -1647,7 +1647,7 @@ Lucan. 2.13|-ent|habet|Gottlieb Kortte|1726|ZM|
 Lucan. 2.556|en|in|Nicolaus Heinsius|1742|Brux. bibl. Burgund. 5330—32 (G)|
 Lucan. 3.410|-is … -is|ulli … aurae|J. Ph. d’Orville|1732–51|ZM|
 Lucan. 3.510|-i|maris|J. Ph. d’Orville|1732–51|Paris. lat. 10314 (Z)|
-Lucan. 3.564|-a ē/et|percussae|Jan Rutgersius|1618|ZM|
+Lucan. 3.564|-a ē/et|percussae|Janus Rutgersius|1618|ZM|
 Lucan. 4.562|-is … m.|iuguli … manum|Gronovius|n.d.|ZM|
 Lucan. 5.210|-a est|locutae|Pieter Burman I|1740|ΩC|
 Lucan. 5.372|timet|tenet|Bentley|n.d.|NZMGc|
