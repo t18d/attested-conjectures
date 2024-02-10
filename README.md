@@ -134,7 +134,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (188), Nicolaus Heinsius (90), Bentley (87), Markland (80), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Reiske (53) and Denys Lambin (52).</p>
+<p>The top 10 critics are Scaliger (188), Nicolaus Heinsius (91), Bentley (87), Markland (80), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Reiske (53) and Denys Lambin (52).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1525,6 +1525,8 @@ Hor. carm. 4.15.7|di-|derepta|Denys Lambin|1561|duo codd. Cruquii|'vel invitis c
 Hor. epod. 5.37|ex(s)ecta/ex(s)ucta/exuta|exsuc(c)a|Lucian Müller|1900|ς (Bailey)|
 Hor. epod. 17.81|ag-/hab-|valentis|Muretus|1561|π2 et duo codd. Torrentii|apud Lambinum
 Hor. sat. 1.1.23|-ea|praetereo|Jean Bouhier|1807|codd. Apitzii|
+Hor. sat. 1.2.110|pe-|velli|Nicolaus Heinsius|1711|cod. Coll. Trin. Bentleii|apud Bentley
+Hor. sat. 1.3.25|per-|praevideas||1711|cod. Reg. Soc. Bentleii|apud Bentley
 Hor. sat. 2.5.103|est|et|Bentley|1711|codd. Palmerii|
 Hsch. α 2737|παλαιός|μάταιος|F. W. Schmidt|1886|Cyrill. ph|Krit. St. 1,112
 Hsch. α 2737|ἀλαιός|ἀλεός|Gottfried Sopingius|s.xvi/xvii|Cyrill. ph|apud Schrevelius/Alberti
