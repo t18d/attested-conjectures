@@ -134,7 +134,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (188), Nicolaus Heinsius (90), Bentley (85), Markland (80), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Reiske (53), Denys Lambin (51) and P. Manutius (51) (tied).</p>
+<p>The top 10 critics are Scaliger (188), Nicolaus Heinsius (90), Bentley (86), Markland (80), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Reiske (53), Denys Lambin (51) and P. Manutius (51) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1517,7 +1517,8 @@ Hor. carm. 3.21.5|no-|numine|Bentley|1711|B R1|'Paucis tamen, opinor, probabitur
 Hor. carm. 3.27.38|-um|uirginis|Markland|1723|Montepess. H 425 (μ)|var.
 Hor. carm. 3.27.60|laed-|elidere|Nicolaus Heinsius|1661|codd. duo dett. (Borzsák)|ad Ov. fast. 4.371
 Hor. carm. 4.4.17|-i|R(a)etis|Nicolaus Heinsius|1711|cod. Rottendorphii Francii (Bentley)|apud Bentley
-Hor. carm. 4.4.24|-vic-|revinctae|Andreas Weidner|1896|duo codd. Torrentii|
+Hor. carm. 4.4.24|-vic-|revinctae|Andreas Weidner|1896|duo codd. Torrentii|'eigener Konjekturen'
+Hor. carm. 4.14.20|-as|indomitus|Bentley|1711|Turic. Carol. 6|
 Hsch. α 2737|παλαιός|μάταιος|F. W. Schmidt|1886|Cyrill. ph|Krit. St. 1,112
 Hsch. α 2737|ἀλαιός|ἀλεός|Gottfried Sopingius|s.xvi/xvii|Cyrill. ph|apud Schrevelius/Alberti
 Hsch. κ 4905|καμίκην|Καμικοῖς|Johann Alberti|1766|Cyrill.|
