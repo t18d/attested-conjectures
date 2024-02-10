@@ -2052,7 +2052,7 @@ Phot. π 1374|-σαν|φάσαι|Porson|1822|Amm. Ptol. Et.Gud. Eust.|
 Phot. π 1374|-σαν|φάσαι|Adamantios Korais|s.xviii/xix|Amm. Ptol. Et.Gud. Eust.|Eἰς μνήμην  ̓Aμάντου p. 295
 Phot. π 1394|βδελλύσσ-|βδελύσσομαι|Porson|1822|Σa+b Sud.|
 Phot. π 1421|-φθείρ-|παραφέρειν|Schleusner|1812|zpc et schol. Ar. et Sud.|Cur. nov. p. 374
-Phot. π 1539|-φθορὰ|διαφορὰ|Dindorf|1835|Sud. π 3173|ThGL. νοl. VI p. 2237C
+Phot. π 1539|-φθορὰ|διαφορὰ|Dindorf|1835|Sud. π 3173|ThGL. vol. VI p. 2237C
 Phot. π 1550|-ραιν-|πύραυνος|Porson|1822|Eust. 1548.1|
 Phot. π 1580|-ρώνων|πυρῶν|Adamantios Korais|s.xviii/xix|Sud. π 3240|Eἰς μνήμην  ̓Aμάντου p. 296
 Phot. ρ 4|-ναιμ-|ἄνεμος|Johann Alberti|1766|Zavord. 95 (z)|Hesych. Lex. vol. II p. 1094, 25
@@ -2060,7 +2060,7 @@ Phot. ρ 80|-τρεία|ῥελατορία|Adamantios Korais|s.xviii/xix|zpc Σ
 Phot. ρ 108|τῶν -ῶν|τὸ παλαιὸν|P. P. Dobree|s.xviii/xix|zpc|Advers. vol. III p. 49
 Phot. ρ 116|ἀπὸ|ὑπὸ|Naber|1865|Σb|
 Phot. ρ 129|-νόμ-|ῥινώμενος|Adamantios Korais|s.xviii/xix|zpc Sud.|Eἰς μνήμην  ̓Aμάντου p. 296
-Phot. ρ 147|-ειν|ῥοίβδην|Dindorf|1835|Σa+b|ThGL. νοl. VI p. 2415B
+Phot. ρ 147|-ειν|ῥοίβδην|Dindorf|1835|Σa+b|ThGL. vol. VI p. 2415B
 Phot. ρ 190|-υστ-|ῥυτῆρας|Cobet|1859|zpc|Mnem. 8 (1859) 66
 Phot. σ 28|-ροτον|ἀσάρωτον|Porson|1822|Zavord. 95 (z)|
 Phot. σ 44|-νῆσαι|σαλακωνίσαι|Porson|1822|zpc|
@@ -2079,9 +2079,9 @@ Phot. σ 346|-μίοις|πολέμοις|Adamantios Korais|s.xviii/xix|Tim.|E�
 Phot. σ 348|-ῆ-|σκληφρόν|David Ruhnken|1828|zpc|Tim. p. 233
 Phot. σ 367|ὡς τυχ-|ᾧ στοιχοῦσιν|Adamantios Korais|s.xviii/xix|zpc Σa Sud.|Eἰς μνήμην  ̓Aμάντου p. 296
 Phot. σ 390|-εῖλον|περιείλουν|Adamantios Korais|s.xviii/xix|Σa+b Sud.|Eἰς μνήμην  ̓Aμάντου p. 296
-Phot. σ 441|σπαρνον sine acc.|σπαρνόν|L. Dindorf|1835|Hsch. cod. Marc.|ThGL. νοl. VII p. 556A
+Phot. σ 441|σπαρνον sine acc.|σπαρνόν|L. Dindorf|1835|Hsch. cod. Marc.|ThGL. vol. VII p. 556A
 Phot. σ 489|-ει|σημαίνοι|Porson|1822|Sud. cod. A|
-Phot. σ 509|τῷ ληνῷ|τῇ ληνῷ|L. Dindorf|1835|AB|ThGL. νοl. VII p. 675A
+Phot. σ 509|τῷ ληνῷ|τῇ ληνῷ|L. Dindorf|1835|AB|ThGL. vol. VII p. 675A
 Phot. σ 535|πικρ-|πυκνοῖς|Adamantios Korais|s.xviii/xix|Sud. codd. GVM|Eἰς μνήμην  ̓Aμάντου p. 296
 Phot. σ 551|-ιγμα|στήριγγα|Johann Alberti|1766|Poll. cod. C|Hesych. Lex. vol. II p. 1268, 30
 Phot. σ 586|τὸν|τῶν|Porson|1822|Zavord. 95 (z)|
@@ -2101,12 +2101,12 @@ Phot. τ 140|κατέ-|ἀπέχοντες|Adamantios Korais|s.xviii/xix|zpc Sud
 Phot. τ 200|καυ-|αὐλίσκον|Naber|1865|AB|
 Phot. τ 219|-γ-|στραγγεύεσθαι|David Ruhnken|1828|Phot. Amphil. cod. Γ|Tim. p. 254
 Phot. τ 271|ἐπέτος|ἐπ ̓ ἔτος|Porson|1822|Zavord. 95 (z)|
-Phot. τ 276|φράτερσεσιν|Φράτερσιν|Dindorf|1835|Zavord. 95 (z)|ThGL. νοl. VIII p.1036C
+Phot. τ 276|φράτερσεσιν|Φράτερσιν|Dindorf|1835|Zavord. 95 (z)|ThGL. vol. VIII p.1036C
 Phot. τ 464|οἷον|οἱ|P. P. Dobree|n.d.|Et.Gen. B et EM|Advers. vol. III p. 53
 Phot. τ 568|-ρ-|Tυρρηνικὰ|P. P. Dobree|n.d.|zpc|Advers. vol. III p. 53
 Phot. υ 28|παραρέη κτλ.|παραρρέῃ|O. Crusius|1910|zpc|Paroemiographica p. 90
 Phot. υ 47|ἐνόλωι|ἐν λόγῳ|Schleusner|1810|zpc Sud.|Libell. p. 120
-Phot. υ 137|μύ-|μισθοὺς|Adamantios Korais|s.xviii/xix|Zen. Ath. + vulg.|Eἰς μνήμην  ̓Aμάντου p. 298
+Phot. υ 137|μύ-|μισθοὺς|Adamantios Korais|s.xviii/xix|Zen. Ath. et vulg.|Eἰς μνήμην  ̓Aμάντου p. 298
 Phot. υ 163|ὑπ ̓ ἠοῖ|ὑπηοίη|Naber|1865|Hsch. υ 542|
 Phot. υ 164|ὑφ ̓|ἐφ ̓|Porson|1822|Sud. cod. A|
 Phot. υ 241|ὑπὸ|ἀπὸ|Konstantinos Kontos|1877|Sud. codd. GM|Παρνασσός 1 (1877) 736
@@ -2696,7 +2696,7 @@ Soph. Ant. 365|σοφόν|δεινόν|Heimsoeth|1865|t|
 Soph. Ant. 384|om.|ἡ|Markland|s.xviii med.|Palat. gr. 287 (Zo)|
 Soph. Ant. 390|ποθ ̓|γ ̓ ἂν|Erfurdt|1802–25|t|
 Soph. Ant. 396|κλῆρος|κλῆρος δ ̓|G. Müller|1967|Paris. gr. 2884 (Ζf)|
-Soph. Ant. 404|ἴδον|ἰδὼν|Brunck|1786-9|Paris. gr. 2886|i.e. Aristobulus Apostolides
+Soph. Ant. 404|ἴδον|ἰδὼν|Brunck|1786–9|Paris. gr. 2886|i.e. Aristobulus Apostolides
 Soph. Ant. 406|εὐρέθη|ᾑρέθη|Markland|s.xviii med.|Laur. 32. 9 (L)|fort. pc legit sch. ut videtur
 Soph. Ant. 410|εὖ|αὖ|Reiske|1753|Marc. gr. 468 (V)|
 Soph. Ant. 422|ἀπαλλαγέντος|-έντες|G. H. Schaefer|n.d.|Vat. gr. 2291 (R)|S in linea
