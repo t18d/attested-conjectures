@@ -134,7 +134,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (188), Nicolaus Heinsius (92), Bentley (87), Markland (80), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (55) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (188), Nicolaus Heinsius (92), Bentley (87), Markland (80), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1528,11 +1528,12 @@ Hor. sat. 1.1.23|-ea|praetereo|Jean Bouhier|1807|codd. (Apitz)|
 Hor. sat. 1.2.110|pe-|velli|Nicolaus Heinsius|1711|cod. Coll. Trin. Bentleii|apud Bentley
 Hor. sat. 1.3.25|per-|praevideas|Janus Rutgersius|1613|cod. Reg. Soc. Bentleii|
 Hor. sat. 1.4.26|ob -am|ab avaritia|Janus Dousa I|1580|cod. Marsilii Apitzii|p. 54
-Hor. sat. 1.5.72|macros arsit|arsit, macros|Denys Lambin|1561|paucissimi codd. (Apitz)|
+Hor. sat. 1.5.72|macros arsit|arsit, macros|J. C. Scaliger|1561|paucissimi codd. (Apitz)|
 Hor. sat. 1.6.68|ac|nec|Denys Lambin|1577|cod. Blandin. vetus. (Apitz)|
 Hor. sat. 2.1.2|tend-|intendere|Nicolaus Heinsius|1711|codd. (Apitz)|apud Bentley
 Hor. sat. 2.1.45|-rit|commordit|Janus Rutgersius|1613|cod. Reg. Bentleii|'sed, opinor, confidentior paullo fuisset, si rescivisset codicem Regium &c.' (Bentley)
 Hor. sat. 2.3.132|q. enim|quid ni|Denys Lambin|1561|quattuor codd. Pulmanni (Bentley)|
+Hor. sat. 2.3.220|parva|parva|George Waddel|1734|duo codd. Torrentii|
 Hor. sat. 2.5.103|est|et|Bentley|1711|codd. Palmerii|
 Hsch. α 2737|παλαιός|μάταιος|F. W. Schmidt|1886|Cyrill. ph|Krit. St. 1,112
 Hsch. α 2737|ἀλαιός|ἀλεός|Gottfried Sopingius|s.xvi/xvii|Cyrill. ph|apud Schrevelius/Alberti
