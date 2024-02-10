@@ -1455,7 +1455,7 @@ Hdt. 1.116.1|ἐσή(ι)ει|ἐσήιε|Portus|n.d.|P.Münch. II 40 = Pap. grae
 Hdt. 1.132.2|om.|τε|Kallenberg|n.d.|P.Oxy. XVII 2096|
 Hdt. 1.196.1|ὧδε|οἵδε|Eltz|n.d.|P.Ross.Georg. I 15|
 Hdt. 1.196.3|οἱ ἐξέλθοι|διεξέλθοι|Stephan Bergler|1715|P.Ross.Georg. I 15|B. apud Gronovium
-Hdt. 1.196.3|ἀνάγεϑαι|ἀγαγέσθαι|Heinrich Stein|1869|Vac|ἀγάγεσϑαι Vac
+Hdt. 1.196.3|ἀνάγεϑαι|ἀγαγέσθαι|Heinrich Stein|1869|Vac|ἀγάγεσθαι Vac
 Hdt. 2.79.1|ἅπαξ ἅ|ἁπαξὰ|Hoffmann|n.d.|P.Oxy. inv. 85/40a|
 Hdt. 2.175.1|οἱ|οἷα|F. L. Abresch|s.xviii med.|P.Oxy. VIII 1092|
 Hdt. 3.108.4|μήτρῃ|μητρὶ|Bekker|1833|D1|
@@ -1591,7 +1591,7 @@ Iuv. 7.218|acoenetus|acoenonetos|Isaac Grangaeus|1614|Urb. 661 (U)|
 Iuv. 7.236|-us|siculi|Charles de Valois|1810|P1GL|
 Iuv. 8.38|sis|sic|Hadrianus Junius|1602–34|Lond. mus. Brit. Add. 11997|apud Gruteri Lampadem
 Iuv. 8.51|hic|hinc|Andreas Weidner|1889|GU|
-Iuv. 8.61|pulvis|cursus|Petrus Scriverius|1705|A2|independent scholar
+Iuv. 8.61|pulvis|cursus|Petrus Scriverius|1705|A2|'lived at Leyden as an independent scholar'
 Iuv. 8.62|corythae|coryphaei|C. S. Schurzfleisch|1717|G U2 schol.|
 Iuv. 8.78|-at|desideret|R. Beer|1885|FGHU|
 Iuv. 8.195|pone|poni|Jo. Sterke|1793|Montepess. bibl. med. 125 (P)|Acta Lit. Soc. Rheno-Traj. p. 174
