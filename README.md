@@ -1501,6 +1501,7 @@ Hom. Od. 24.137|κεῖτ-|κῆται|F. A. Wolf|1807|P.Ryl. I 53|
 Hom. Od. 24.207|πόλλ’ ἐμόγησεν|πόλλὰ μογη[σεν|Bekker|1858|P.Ryl. I 53|
 Hom. Od. 24.209|ἠδὲ ἴαυον|ἠδ’ ενϊαυον|Nauck|1874|P.Ryl. I 53|
 Hor. ars 277|quae|qui|Bentley|1711|recc.|
+Hor. carm. 1.3.4|-tric-|obstructis|Muretus|1608|Edinb. Adv. 18.4.12 (϶)|apud Torrentium
 Hor. carm. 1.3.26|gens|mens|Franz van Oudendorp|1834|cod. Torrentii|apud Peerlkamp
 Hor. carm. 1.12.13|-is|parentem|Muretus|1561|cod. Gemblac. (Bentley)|apud Lambinum
 Hor. carm. 1.14.14|ti-|tumidus|Scaliger|1561|γ et cod. Galei Bentleii|
