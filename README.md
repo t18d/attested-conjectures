@@ -1537,6 +1537,7 @@ Hor. sat. 1.4.26|ob -am|ab avaritia|Janus Dousa I|1580|cod. (Théodore Marcile)|
 Hor. sat. 1.5.72|macros arsit|arsit, macros|J. C. Scaliger|1561|pauciss. codd. (Apitz)|
 Hor. sat. 1.6.68|ac|nec|Denys Lambin|1577|cod. Blandin. vetus. (Apitz)|
 Hor. sat. 1.10.6|exora-|exhortatus|J. C. G. Praedicow|1806|codd. (Jan Lunjak)|
+Hor. sat. 1.19.13|-aeque -ae|exiguaque toga|Jacobus Cruquius|1578|flor. Nostr.|
 Hor. sat. 2.1.2|tend-|intendere|Nicolaus Heinsius|1711|codd. (Apitz)|apud Bentley
 Hor. sat. 2.1.45|-rit|commordit|Janus Rutgersius|1613|cod. Reg. Bentleii|'sed, opinor, confidentior paullo fuisset, si rescivisset codicem Regium &c.' (Bentley)
 Hor. sat. 2.2.113|lat-|lautius|Henri Estienne|1577|codd. (Keller/Palmer)|
