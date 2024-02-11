@@ -1537,7 +1537,9 @@ Hor. sat. 2.1.45|-rit|commordit|Janus Rutgersius|1613|cod. Reg. Bentleii|'sed, o
 Hor. sat. 2.2.113|lat-|lautius|Henri Estienne|1577|codd. (Keller/Palmer)|
 Hor. sat. 2.3.132|q. enim|quid ni|Denys Lambin|1561|quattuor codd. Pulmanni (Bentley)|
 Hor. sat. 2.3.137|m. t.|tutae male|Alexander Cunningham|1721|Argent. olim C VII 7 (D)|
+Hor. sat. 2.3.188|-o|quaere|Willem Canter|1564|V1|
 Hor. sat. 2.3.220|parva|parva|George Waddel|1734|duo codd. Torrentii|
+Hor. sat. 2.5.3|-o|dolose|Daniel Heinsius|1610|cod. Petrensis Bentleii|
 Hor. sat. 2.5.103|est|et|Bentley|1711|codd. (Palmer)|
 Hsch. α 2737|παλαιός|μάταιος|F. W. Schmidt|1886|Cyrill. ph|Krit. St. 1,112
 Hsch. α 2737|ἀλαιός|ἀλεός|Gottfried Sopingius|s.xvi/xvii|Cyrill. ph|apud Schrevelius/Alberti
