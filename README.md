@@ -134,7 +134,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (188), Nicolaus Heinsius (92), Bentley (87), Markland (80), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (188), Nicolaus Heinsius (92), Bentley (88), Markland (80), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1517,11 +1517,13 @@ Hor. carm. 3.10.8|nu-|lumine|Willem Canter|1564|codd. Lambini|
 Hor. carm. 3.12.9|-e|Bellerophonti|Matthaeus Bonfinis|1518|Oxon. coll. Reg. P2|
 Hor. carm. 3.21.5|no-|numine|Bentley|1711|B R1|'Paucis tamen, opinor, probabitur, quia conjecturae nomine nunc venit: quod si e Manuscripto aliquo alicunde prodiret, quibus plausibus exciperetur!'
 Hor. carm. 3.27.38|-um|uirginis|Markland|1723|Montepess. H 425 (μ)|var.
-Hor. carm. 3.27.60|laed-|elidere|Nicolaus Heinsius|1661|codd. duo dett. (Borzsák)|ad Ov. fast. 4.371
+Hor. carm. 3.27.60|laed-|elidere|Nicolaus Heinsius|1661|duo dett. (Borzsák)|ad Ov. fast. 4.371
 Hor. carm. 4.4.17|-i|R(a)etis|Nicolaus Heinsius|1711|cod. Rottendorphii Francii (Bentley)|apud Bentley
 Hor. carm. 4.4.24|-vic-|revinctae|Andreas Weidner|1896|duo codd. Torrentii|'eigener Konjekturen'
 Hor. carm. 4.14.20|-as|indomitus|Bentley|1711|Turic. Carol. 6|
 Hor. carm. 4.15.7|di-|derepta|Denys Lambin|1561|duo codd. Cruquii|'vel invitis codicibus omnibus'
+Hor. epist. 1.18.46|Aetoli(i)s|Aeoliis|Jan van Vliet|1645|f μ|p. 104
+Hor. epist. 2.1.31|-am|olea|Bentley|1711|dett. aliquot (Borzsák)|
 Hor. epod. 5.37|ex(s)ecta/ex(s)ucta/exuta|exsuc(c)a|Lucian Müller|1900|ς (Bailey)|
 Hor. epod. 17.81|ag-/hab-|valentis|Muretus|1561|π2 et duo codd. Torrentii|apud Lambinum
 Hor. sat. 1.1.7|q. enim?|quid ni?|Jacobus Taurellus|1560|codd. (Apitz)|apud Lambinum
