@@ -1523,6 +1523,7 @@ Hor. carm. 4.4.24|-vic-|revinctae|Andreas Weidner|1896|duo codd. Torrentii|'eige
 Hor. carm. 4.14.20|-as|indomitus|Bentley|1711|Turic. Carol. 6|
 Hor. carm. 4.15.7|di-|derepta|Denys Lambin|1561|duo codd. Cruquii|'vel invitis codicibus omnibus'
 Hor. epist. 1.18.46|Aetoli(i)s|Aeoliis|Jan van Vliet|1645|f μ|p. 104
+Hor. epist. 1.19.39|ult-|actor|Willem Canter|1564|cod. Torrentii|
 Hor. epist. 2.1.31|-am|olea|Bentley|1711|dett. aliquot (Borzsák)|
 Hor. epod. 5.37|ex(s)ecta/ex(s)ucta/exuta|exsuc(c)a|Lucian Müller|1900|ς (Bailey)|
 Hor. epod. 17.81|ag-/hab-|valentis|Muretus|1561|π2 et duo codd. Torrentii|apud Lambinum
