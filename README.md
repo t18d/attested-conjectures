@@ -1524,7 +1524,9 @@ Hor. carm. 4.14.20|-as|indomitus|Bentley|1711|Turic. Carol. 6|
 Hor. carm. 4.15.7|di-|derepta|Denys Lambin|1561|duo codd. Cruquii|'vel invitis codicibus omnibus'
 Hor. epod. 5.37|ex(s)ecta/ex(s)ucta/exuta|exsuc(c)a|Lucian Müller|1900|ς (Bailey)|
 Hor. epod. 17.81|ag-/hab-|valentis|Muretus|1561|π2 et duo codd. Torrentii|apud Lambinum
+Hor. sat. 1.1.7|q. enim?|quid ni?|Jacobus Taurellus|1560|codd. (Apitz)|apud Lambinum
 Hor. sat. 1.1.23|-ea|praetereo|Jean Bouhier|1807|codd. (Apitz)|
+Hor. sat. 1.1.88|at si/an si|ac si|L. F. Heindorf|1818|Paris. 7975 (γ)|
 Hor. sat. 1.2.110|pe-|velli|Nicolaus Heinsius|1711|cod. Coll. Trin. Bentleii|apud Bentley
 Hor. sat. 1.3.25|per-|praevideas|Janus Rutgersius|1613|cod. Reg. Soc. Bentleii|
 Hor. sat. 1.4.26|ob -am|ab avaritia|Janus Dousa I|1580|cod. Marsilii Apitzii|p. 54
