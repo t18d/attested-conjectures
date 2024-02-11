@@ -1501,7 +1501,7 @@ Hom. Od. 24.137|κεῖτ-|κῆται|F. A. Wolf|1807|P.Ryl. I 53|
 Hom. Od. 24.207|πόλλ’ ἐμόγησεν|πόλλὰ μογη[σεν|Bekker|1858|P.Ryl. I 53|
 Hom. Od. 24.209|ἠδὲ ἴαυον|ἠδ’ ενϊαυον|Nauck|1874|P.Ryl. I 53|
 Hor. ars 4|piscem|pristim|Gronovius|1662|recc.|
-Hor. ars 197|pecc-|placare|Andreas Weidner|1896|recc. (Klinger)|
+Hor. ars 197|pecc-|placare|Andreas Weidner|1896|recc. (Klinger)|adespota?
 Hor. ars 277|quae|qui|Bentley|1711|recc.|
 Hor. ars 416|nunc|non|Richard Heinze|1908|recc.|
 Hor. carm. 1.3.4|-tric-|obstructis|Muretus|1551|Edinb. Adv. 18.4.12 (϶)|
