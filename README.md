@@ -1525,6 +1525,7 @@ Hor. carm. 4.15.7|di-|derepta|Denys Lambin|1561|duo codd. Cruquii|'vel invitis c
 Hor. epist. 1.18.46|Aetoli(i)s|Aeoliis|Jan van Vliet|1645|f μ|p. 104
 Hor. epist. 1.19.39|ult-|actor|Willem Canter|1564|cod. Torrentii|
 Hor. epist. 2.1.31|-am|olea|Bentley|1711|dett. aliquot (Borzsák)|
+Hor. epist. 2.2.128|-is|Argus|Noël-Étienne Sanadon|1756|duo codd. Torrentii|
 Hor. epod. 5.37|ex(s)ecta/ex(s)ucta/exuta|exsuc(c)a|Lucian Müller|1900|ς (Bailey)|
 Hor. epod. 17.81|ag-/hab-|valentis|Muretus|1561|π2 et duo codd. Torrentii|apud Lambinum
 Hor. sat. 1.1.7|q. enim?|quid ni?|Jacobus Taurellus|1560|codd. (Apitz)|apud Lambinum
