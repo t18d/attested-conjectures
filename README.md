@@ -1501,9 +1501,9 @@ Hom. Od. 24.137|κεῖτ-|κῆται|F. A. Wolf|1807|P.Ryl. I 53|
 Hom. Od. 24.207|πόλλ’ ἐμόγησεν|πόλλὰ μογη[σεν|Bekker|1858|P.Ryl. I 53|
 Hom. Od. 24.209|ἠδὲ ἴαυον|ἠδ’ ενϊαυον|Nauck|1874|P.Ryl. I 53|
 Hor. ars 277|quae|qui|Bentley|1711|recc.|
-Hor. carm. 1.3.4|-tric-|obstructis|Muretus|1608|Edinb. Adv. 18.4.12 (϶)|apud Torrentium
+Hor. carm. 1.3.4|-tric-|obstructis|Muretus|1551|Edinb. Adv. 18.4.12 (϶)|
 Hor. carm. 1.3.26|gens|mens|Franz van Oudendorp|1834|cod. Torrentii|apud Peerlkamp
-Hor. carm. 1.12.13|-is|parentem|Muretus|1561|cod. Gemblac. (Bentley)|apud Lambinum
+Hor. carm. 1.12.13|-is|parentem|Muretus|1551|cod. Gemblac. (Bentley)|
 Hor. carm. 1.14.14|ti-|tumidus|Scaliger|1561|γ et cod. Galei Bentleii|
 Hor. carm. 1.15.36|Iliacas|Pergameas|Peter van Os|1500|pauci codd. (Peerlkamp)|
 Hor. carm. 1.20.5|ca-|clare|Denys Lambin|1561|cod. Reg. Soc. Bentleii|
@@ -1527,7 +1527,7 @@ Hor. epist. 1.19.39|ult-|actor|Willem Canter|1564|cod. Torrentii|
 Hor. epist. 2.1.31|-am|olea|Bentley|1711|dett. aliquot (Borzsák)|
 Hor. epist. 2.2.128|-is|Argus|Noël-Étienne Sanadon|1756|duo codd. Torrentii|
 Hor. epod. 5.37|ex(s)ecta/ex(s)ucta/exuta|exsuc(c)a|Lucian Müller|1900|ς (Bailey)|
-Hor. epod. 17.81|ag-/hab-|valentis|Muretus|1561|π2 et duo codd. Torrentii|apud Lambinum
+Hor. epod. 17.81|ag-/hab-|valentis|Muretus|1551|π2 et duo codd. Torrentii|
 Hor. sat. 1.1.7|q. enim?|quid ni?|Jacobus Taurellus|1560|codd. (Apitz)|apud Lambinum
 Hor. sat. 1.1.23|-ea|praetereo|Jean Bouhier|1807|codd. (Apitz)|
 Hor. sat. 1.1.88|at si/an si|ac si|L. F. Heindorf|1815|Paris. 7975 (γ)|
