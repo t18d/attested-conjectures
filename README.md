@@ -136,7 +136,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (189), Nicolaus Heinsius (92), Bentley (88), Markland (80), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (190), Nicolaus Heinsius (92), Bentley (88), Markland (80), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -483,6 +483,9 @@ Catull. 23.10|fact-|fata|Macnaghten-Ramsay|1899|G3|
 Catull. 25.2|-dulla|medullula|Achilles Statius|1566|Bodl. Canon. Class. lat. 30 (O)|
 Catull. 25.11|insula|insulsa|Corradinus de Allio|1738|'V.C.' (Marc. lat. 12.128)|
 Catull. 29.2|hec|hoc|Emil Baehrens|1876|Marc. lat. 12.86 (117)|
+Catull. 29.17|-um|prima|Scaliger|1577|Brux. Bibl. Roy. IV.711 (10a)|'uel puer diuinauerit legendum esse'
+Catull. 30.5|que|quos|Richard Richter|1881|3 mg.|
+Catull. 33.3|inquinat(i)ore|est uoraciore|Ferdinand Hand|1809|cod. (Carrione)|
 Catull. 37.11|nam me|nam mi|Nicolaus Heinsius|1866|β2|ap. Schwabe
 Catull. 40.1|ravide|Raude|Gabriele Faerno|1566|(η)|ap. Ach. Statium
 Catull. 58.5|magna amiremini|magnanimos Remi|Joannes Calphurnius|1481|ηθ|
