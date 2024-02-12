@@ -485,8 +485,10 @@ Catull. 25.11|insula|insulsa|Corradinus de Allio|1738|'V.C.' (Marc. lat. 12.128)
 Catull. 29.2|hec|hoc|Emil Baehrens|1876|Marc. lat. 12.86 (117)|
 Catull. 29.17|-um|prima|Scaliger|1577|Brux. Bibl. Roy. IV.711 (10a)|'uel puer diuinauerit legendum esse'
 Catull. 30.5|que|quos|Richard Richter|1881|3 mg.|
-Catull. 33.3|inquinat(i)ore|est uoraciore|Ferdinand Hand|1809|cod. (Carrione)|
-Catull. 37.11|nam me|nam mi|Nicolaus Heinsius|1866|β2|ap. Schwabe
+Catull. 33.3|i. … e. u.|est uoraciore … inquinatiore|Ferdinand Hand|1809|cod. (Carrione)|
+Catull. 37.7|an|aut|Léon Herrmann|1957|cod. Tomacellianus (129a)|
+Catull. 37.11|nam me|nam mi|Nicolaus Heinsius|1646–81|78 m. sec.|ap. Schwabe
+Catull. 37.13|pugna-|parata|Ferdinand Hand|1809|Lond. Bibl. Brit. Eger. 3027 (52)|
 Catull. 40.1|ravide|Raude|Gabriele Faerno|1566|(η)|ap. Ach. Statium
 Catull. 58.5|magna amiremini|magnanimos Remi|Joannes Calphurnius|1481|ηθ|
 Catull. 63.71|columnibus|columinibus|Joannes Calphurnius|1481|(θ)|
