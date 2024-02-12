@@ -136,7 +136,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (190), Nicolaus Heinsius (92), Bentley (88), Markland (80), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (191), Nicolaus Heinsius (92), Bentley (88), Markland (80), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -481,7 +481,7 @@ Catull. 17.19|-i|liguris|Girolamo Avanzi|1502|Lond. Bibl. Brit. Add. 12005 (47)|
 Catull. 21.9|ipsi/si id|id si|Achilles Statius|1566|84 3|
 Catull. 23.10|fact-|fata|Macnaghten-Ramsay|1899|G3|
 Catull. 25.2|-dulla|medullula|Achilles Statius|1566|Bodl. Canon. Class. lat. 30 (O)|
-Catull. 25.11|insula|insulsa|Corradinus de Allio|1738|'V.C.' (Marc. lat. 12.128)|
+Catull. 25.11|insula|insulsa|Corradinus de Allio|1738|'V.C.' teste 120|
 Catull. 29.2|hec|hoc|Emil Baehrens|1876|Marc. lat. 12.86 (117)|
 Catull. 29.17|-um|prima|Scaliger|1577|Brux. Bibl. Roy. IV.711 (10a)|'uel puer diuinauerit legendum esse'
 Catull. 30.5|que|quos|Richard Richter|1881|3 mg.|
@@ -489,7 +489,10 @@ Catull. 33.3|i. … e. u.|est uoraciore … inquinatiore|Ferdinand Hand|1809|cod
 Catull. 37.7|an|aut|Léon Herrmann|1957|cod. Tomacellianus (129a)|
 Catull. 37.11|nam me|nam mi|Nicolaus Heinsius|1646–81|78 m. sec.|ap. Schwabe
 Catull. 37.13|pugna-|parata|Ferdinand Hand|1809|Lond. Bibl. Brit. Eger. 3027 (52)|
-Catull. 40.1|ravide|Raude|Gabriele Faerno|1566|(η)|ap. Ach. Statium
+Catull. 39.3|e. o.|orator excitat|Girolamo Avanzi|1495|Lond. Bibl. Brit. Eger. 3027 (52)|
+Catull. 40.1|rauide|raude|Antonius Parthenius|1485|Vat. lat. 1608 (108)|
+Catull. 40.1|rauide|raui|Gustav Friedrich|1908|118 m. sec.|
+Catull. 42.4|-am|redditura|Scaliger|1600|Dres. Dc 133 (15)|
 Catull. 58.5|magna amiremini|magnanimos Remi|Joannes Calphurnius|1481|ηθ|
 Catull. 63.71|columnibus|columinibus|Joannes Calphurnius|1481|(θ)|
 Catull. 63.77|lev-|saevumque|Francesco Pucci|n.d.|Caes. 29 sin. 19|
