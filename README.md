@@ -83,6 +83,7 @@
         <li>Kassel, R., and C. Austin (eds), <em>Poetae comici Graeci (PCG)</em>, i: <em>Comoedia dorica mimi Phlyaces</em> (Berlin, 2001).</li>
         <li>Kassel, R., and St. Schröder (eds), <em>Poetae comici Graeci (PCG)</em>, vi/1: <em>Menander: Dyscolus et fabulae quarum fragmenta in papyris membranisque servata sunt</em> (Berlin, 2022).</li>
         <li>Kenyon, Frederic George, <em>The Evidence of Greek Papyri with Regard to Textual Criticism</em> (London, 1904).</li>
+        <li>Kiss, Dániel, <em><a href="http://www.catullusonline.org/">Catullus Online: An Online Repertory of Conjectures on Catullus</a></em>, accessed 13 Feb. 2024.</li>
         <li>Krans-Plaisier, Jan, '<a href="http://vuntblog.blogspot.com/2023/12/amsterdam-database-conjectures-with.html">Amsterdam Database: Conjectures with Attestation</a>', the Amsterdam NT Weblog (2 Dec. 2023), accessed 14 Dec. 2023.</li>
         <li>La Penna, Antonio, and Rodolfo Funari (eds), <em>C. Sallusti Crispi Historiae</em>, i: <em>Fragmenta 1.1–146</em> (Berlin, 2015).</li>
         <li>Lucanus, M. Annaeus, <em>Belli civilis libri decem</em>, ed. A. E. Housman (Oxford, 1927).</li>
