@@ -2158,7 +2158,7 @@ Pi. Pae. 9.4|ἰσχὺν πτανὸν (ἀν)δράσιν|ἰσχύν τ'ἀν
 Pl. Chrm. 173b|(μὴ) ὑγιέσιν|η υ̣γιεϲ̣[ιν|L. F. Heindorf|1802–10|P.Oxy. LXXVI 5082|
 Pl. Crit. 48e|πείσαι κτλ.|πείσας|Philip Buttmann|1830|Vat. gr. 225 (V)|
 Pl. Grg. 473b|Polo|ἴσως Socrati tribuunt|van Prinsterer||BF|
-Pl. Grg. 498b|-ον|μόνοι|R. B. Hirschig||Vindob. suppl. phil. gr. 39 (F)|
+Pl. Grg. 498b|-ον|μόνοι|R. B. Hirschig|1856|Vindob. suppl. phil. gr. 39 (F)|
 Pl. Grg. 520e|-εύειν|συμβουλεύσειν|Cobet||Vindob. suppl. phil. gr. 39 (F)|
 Pl. Phd. 82e|τῳ δεδέσθαι|τοῦ δεδέσθαι|L. F. Heindorf|1810|P.Lond.Lit. 145 (inv. 488)|
 Pl. Phdr. 228b|πάνυ τις|πάνυ τι|Schanz|n.d.|P.Oxy. VII 1016|
@@ -2171,7 +2171,6 @@ Pl. Smp. 206c|τῷ|del.|Charles Badham|n.d.|P.Oxy. VI 843|
 Pl. Smp. 208b|μετέχειν|μετέχει|Henri Estienne|1578|P.Oxy. VI 843|
 Pl. Smp. 209a|κυεῖν|τεκεῖν|Hug|n.d.|P.Oxy. VI 843|
 Pl. Smp. 209b|ἐπιθυμεῖ|επιθυμη|Henri Estienne|1578|P.Oxy. V 843|
-Pl. Smp. 222d|διαβάλῃ|διαβαλει|R. B. Hirschig|s.xix med.|P.Oxy. V 843|
 Pl. Tht. 152b12|αἰσθάνεσθαί|αἰσθάνεταί|Gottfried Faehse|n.d.|BKT II|ἐστιν om.
 Pl.Com. fr. 30|μόγις/μόσις|μόλις|Ottomar Bachmann|1878|Ar. Αν. 798 schol. Lh|
 Plaut. Bacch. 489|egone illam|e. ut. i.|Pylades|n.d.|Ambros. G 82 sup. (A)|
