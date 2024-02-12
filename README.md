@@ -481,6 +481,8 @@ Catull. 17.19|-i|liguris|Girolamo Avanzi|1502|Lond. Bibl. Brit. Add. 12005 (47)|
 Catull. 21.9|ipsi/si id|id si|Achilles Statius|1566|84 3|
 Catull. 23.10|fact-|fata|Macnaghten-Ramsay|1899|G3|
 Catull. 25.2|-dulla|medullula|Achilles Statius|1566|Bodl. Canon. Class. lat. 30 (O)|
+Catull. 25.11|insula|insulsa|Corradinus de Allio|1738|'V.C.' (Marc. lat. 12.128)|
+Catull. 29.2|hec|hoc|Emil Baehrens|1876|Marc. lat. 12.86 (117)|
 Catull. 37.11|nam me|nam mi|Nicolaus Heinsius|1866|β2|ap. Schwabe
 Catull. 40.1|ravide|Raude|Gabriele Faerno|1566|(η)|ap. Ach. Statium
 Catull. 58.5|magna amiremini|magnanimos Remi|Joannes Calphurnius|1481|ηθ|
