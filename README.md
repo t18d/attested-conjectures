@@ -509,6 +509,7 @@ Catull. 64.36|nicenis alacrissea|moenia larissea|Joannes Calphurnius|1481|θ|
 Catull. 64.92|corp-|pectore|G. C. Giardina|2008|codd. Regius, Puteanus, Statiani|
 Catull. 64.122|eam|eam mollis|Emil Baehrens|1876|Casanat. 15 (91)|
 Catull. 64.183|uentos|uetitos|Scaliger|1577|cod. Tomacellianus (129a)|
+Catull. 64.186|n. s.|nulla est spes|Francesco Pucci|1502|unus Ach. Statii|
 Catull. 64.196|imis/extremis|ex imis|Casaubon|n.d.|Lond. add. 12005|
 Catull. 66.11|auc-|avectus|Rudolf Peiper|1875|(ε)|
 Catull. 79.4|nat-|notorum|Scaliger|1577|Bodl. Canon. Class. lat. 30 (O)|
