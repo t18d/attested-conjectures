@@ -477,7 +477,10 @@ Catull. 6.8|asirio|ac Syrio|Girolamo Avanzi|1495|44 m. pr.|
 Catull. 10.27|mane|minime|Girolamo Avanzi|1502|48 mg.|
 Catull. 12.9|puer|pater|Joannes Calphurnius|1481|'uetus codex' (Marc. lat. 12.128)|
 Catull. 16.12|uosque|uos qui|G. B. Pighi|1961|84 3|
-Catull. 17.19|-i|liguris|Girolamo Avanzi|1502|Lond. Bibl. Add. 12005 (47)|
+Catull. 17.19|-i|liguris|Girolamo Avanzi|1502|Lond. Bibl. Brit. Add. 12005 (47)|
+Catull. 21.9|ipsi/si id|id si|Achilles Statius|1566|84 3|
+Catull. 23.10|fact-|fata|Macnaghten-Ramsay|1899|G3|
+Catull. 25.2|-dulla|medullula|Achilles Statius|1566|Bodl. Canon. Class. lat. 30 (O)|
 Catull. 37.11|nam me|nam mi|Nicolaus Heinsius|1866|β2|ap. Schwabe
 Catull. 40.1|ravide|Raude|Gabriele Faerno|1566|(η)|ap. Ach. Statium
 Catull. 58.5|magna amiremini|magnanimos Remi|Joannes Calphurnius|1481|ηθ|
@@ -964,7 +967,7 @@ Claud. 1.9|anni-|amniadae|Julius Koch|1893|Erlang. 626 (e2)|
 Claud. 1.198|græca/grata|graia|Nicolaus Heinsius|1650|Vindob. 3246 (V4)|
 Claud. 3.40|torua-|totaque|Johannes Camers|1510|Leid. Β. P. L. 131 (J7)|v.l.
 Claud. 3.48|quo|cur|Goodyear|1985|Paris. lat. 7936 (P14)|apud Hall
-Claud. 3.131|fera-|furiale|Theodor Birt|1892|Lond. Add. 6042 (L3)|v.l.
+Claud. 3.131|fera-|furiale|Theodor Birt|1892|Lond. Bibl. Brit. Add. 6042 (L3)|v.l.
 Claud. 3.154|leuaui/litaui|uocaui|Ludwig Jeep|1876|Bonon. 2221 (b1)|m. sec.
 Claud. 3.207|-unt|rapiant|Nicolaus Heinsius|1650|Paris. lat. 2908 (P13)|
 Claud. 3.260|s. m. se/m. s. sed|solus medio sed|Johannes Livineius|1581|LJ6pc|
