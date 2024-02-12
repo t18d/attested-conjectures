@@ -469,7 +469,9 @@ Carm. conv. 906 Page|εἰ δὴ χρὴ|εἰ χρὴ|Porson|n.d.|Arist. Ath. 2
 Carm. conv. 907 Page|κύρησαν|ἔσαν|Erasmus|n.d.|Arist. Ath. 19.3|
 Catull. 2.5|meo|mei|J. H. Hoeufft|1807–8|Flor. Ricc. 606 (31)|
 Catull. 2.5|ad|in|F. W. Doering|1788|Berol. Diez. B Sant. 56 (7)|
-Catull. 2.8|-et|acquiescit|Ellis|1867|Flor. Magl. VII 948 (26)|
+Catull. 2.8|-et|acquiescit|Ellis|1867|Flor. Bibl. Nat. Magl. VII 948 (26)|
+Catull. 2.9|-a|ipse|A. E. Radke|1995|128 5 75|
+Catull. 3.7|-am|ipsa|Franz Hermes|1889|8 58|
 Catull. 17.6|sali subsili|salisubsali|Bergk|1854|Berol. Diez. 37 m. sec.|ap. A. Rossbach
 Catull. 37.11|nam me|nam mi|Nicolaus Heinsius|1866|β2|ap. Schwabe
 Catull. 40.1|ravide|Raude|Gabriele Faerno|1566|(η)|ap. Ach. Statium
@@ -961,7 +963,7 @@ Claud. 3.131|fera-|furiale|Theodor Birt|1892|Lond. Add. 6042 (L3)|v.l.
 Claud. 3.154|leuaui/litaui|uocaui|Ludwig Jeep|1876|Bonon. 2221 (b1)|m. sec.
 Claud. 3.207|-unt|rapiant|Nicolaus Heinsius|1650|Paris. lat. 2908 (P13)|
 Claud. 3.260|s. m. se/m. s. sed|solus medio sed|Johannes Livineius|1581|LJ6pc|
-Claud. 3.274|ob-|subieceris|Johannes Schrader|1871|Flor. bibl. nat. VII. 144 (F17)|apud Haupt
+Claud. 3.274|ob-|subieceris|Johannes Schrader|1871|Flor. Bibl. Nat. VII. 144 (F17)|apud Haupt
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
