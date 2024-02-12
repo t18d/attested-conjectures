@@ -492,7 +492,10 @@ Catull. 37.13|pugna-|parata|Ferdinand Hand|1809|Lond. Bibl. Brit. Eger. 3027 (52
 Catull. 39.3|e. o.|orator excitat|Girolamo Avanzi|1495|Lond. Bibl. Brit. Eger. 3027 (52)|
 Catull. 40.1|rauide|raude|Antonius Parthenius|1485|Vat. lat. 1608 (108)|
 Catull. 40.1|rauide|raui|Gustav Friedrich|1908|118 m. sec.|
-Catull. 42.4|-am|redditura|Scaliger|1600|Dres. Dc 133 (15)|
+Catull. 42.4|-am|redditura|Scaliger|1600|Dresd. Dc 133 (15)|
+Catull. 55.8|serena|seuero|Johannes Schrader|1784|78 m. ter.|
+Catull. 55.14|-e|amicis|K. W. Ramler|1793|'codex palat. papyr.' (Hand)|
+Catull. 55.17|nunc|non|Emil Baehrens|1885|Neap. IV. F. 19 (64)|
 Catull. 58.5|magna amiremini|magnanimos Remi|Joannes Calphurnius|1481|ηθ|
 Catull. 63.71|columnibus|columinibus|Joannes Calphurnius|1481|(θ)|
 Catull. 63.77|lev-|saevumque|Francesco Pucci|n.d.|Caes. 29 sin. 19|
