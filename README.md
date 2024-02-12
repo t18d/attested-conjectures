@@ -136,7 +136,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (191), Nicolaus Heinsius (92), Bentley (88), Markland (80), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (192), Nicolaus Heinsius (92), Bentley (88), Markland (80), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -497,6 +497,11 @@ Catull. 55.8|serena|seuero|Johannes Schrader|1784|78 m. ter.|
 Catull. 55.14|-e|amicis|K. W. Ramler|1793|'codex palat. papyr.' (Hand)|
 Catull. 55.17|nunc|non|Emil Baehrens|1885|Neap. IV. F. 19 (64)|
 Catull. 58.5|magna amiremini|magnanimos Remi|Joannes Calphurnius|1481|ηθ|
+Catull. 61.16|Iunia|Vibia|Syme|1955|4 m. sec.|apud Neudling
+Catull. 61.94|u. ut|uiden|Lachmann|1850|Lond. Bibl. Brit. Eger. 3027 (52)|
+Catull. 61.164|unus|imus|Scaliger|1577|cod. Ach. Statii|
+Catull. 61.179|unis|uiris|Achilles Statius|1566|Leid. lat. in oct. 59|
+Catull. 61.217|-am|suo|Emil Baehrens|1885|Lond. Bibl. Brit. Add. 11915 (46)|
 Catull. 63.71|columnibus|columinibus|Joannes Calphurnius|1481|(θ)|
 Catull. 63.77|lev-|saevumque|Francesco Pucci|n.d.|Caes. 29 sin. 19|
 Catull. 64.36|nicenis alacrissea|moenia larissea|Joannes Calphurnius|1481|θ|
