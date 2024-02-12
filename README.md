@@ -136,7 +136,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (188), Nicolaus Heinsius (92), Bentley (88), Markland (80), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (189), Nicolaus Heinsius (92), Bentley (88), Markland (80), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -467,6 +467,7 @@ Call. fr. 721|ἔαϲιν|ἐωϲιν|Dindorf|1864|Theognost. cod. Barocc.|Thes.
 Carm. conv. 906 Page|εἰ δὴ χρὴ|εἰ χρὴ|Johann Schweighäuser|1798|Arist. Ath. c. 20 fin|
 Carm. conv. 906 Page|εἰ δὴ χρὴ|εἰ χρὴ|Porson|n.d.|Arist. Ath. 20 fin|
 Carm. conv. 907 Page|κύρησαν|ἔσαν|Erasmus|n.d.|Arist. Ath. 19.3|
+Catull. 2.5|meo|mei|J. H. Hoeufft|1807–8|Flor. Bibl. Ricc. 606|
 Catull. 17.6|sali subsili|salisubsali|Bergk|1854|Diez. 37 m. sec.|ap. A. Rossbach
 Catull. 37.11|nam me|nam mi|Nicolaus Heinsius|1866|β2|ap. Schwabe
 Catull. 40.1|ravide|Raude|Gabriele Faerno|1566|(η)|ap. Ach. Statium
@@ -476,6 +477,7 @@ Catull. 63.77|lev-|saevumque|Francesco Pucci|n.d.|Caes. 29 sin. 19|
 Catull. 64.36|nicenis alacrissea|moenia larissea|Joannes Calphurnius|1481|θ|
 Catull. 64.196|imis/extremis|ex imis|Casaubon|n.d.|Lond. add. 12005|
 Catull. 66.11|auc-|avectus|Rudolf Peiper|1875|(ε)|
+Catull. 79.4|nat-|notorum|Scaliger|1577|Bodl. Canon. Class. lat. 30 (O)|
 Charito 2.3.5|ποθεν|ποδῶν|J. Ph. d’Orville|1750|P.Oxy. VII 1019|a man of means
 Charito 2.4.5|ἐπυρφόρει|επυρπ̣ο[λει|Rudolf Hercher|1854|P.Oxy. XLI 2948|
 Charito 2.4.6|μή τις|μή τι|Cobet|1842|P.Oxy. XLI 2948|
