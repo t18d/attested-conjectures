@@ -517,6 +517,8 @@ Catull. 64.344|teuen|riui|Joannes Calphurnius|1481|cod. Tomacellianus (129a)|
 Catull. 64.364|-culsae|percussae|Antonius Parthenius|1485|cod. Tomacellianus (129a)|
 Catull. 65.12|teg-|legam|Léon Herrmann|1957|cod. Tomacellianus (129a)|
 Catull. 66.11|auc-|avectus|Rudolf Peiper|1875|(ε)|
+Catull. 66.31|-us|tantum|Johannes Schrader|1776|recc.|
+Catull. 66.45|-pere|properare|Rudolf Peiper|1875|40 38 56|
 Catull. 79.4|nat-|notorum|Scaliger|1577|Bodl. Canon. Class. lat. 30 (O)|
 Charito 2.3.5|ποθεν|ποδῶν|J. Ph. d’Orville|1750|P.Oxy. VII 1019|a man of means
 Charito 2.4.5|ἐπυρφόρει|επυρπ̣ο[λει|Rudolf Hercher|1854|P.Oxy. XLI 2948|
