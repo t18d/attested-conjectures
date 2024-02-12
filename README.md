@@ -513,6 +513,9 @@ Catull. 64.186|n. s.|nulla est spes|Francesco Pucci|1502|unus Ach. Statii|
 Catull. 64.193|auguineo/anguino|anguineo|Franciscus Puteolanus|1473|Dresd. Dc 133 (15)|
 Catull. 64.196|extremis|ex imis|Casaubon|n.d.|Lond. add. 12005 et Paris. 8232|
 Catull. 64.227|dic-|decet|Lachmann|1829|unus Ach. Statii|
+Catull. 64.344|teuen|riui|Joannes Calphurnius|1481|cod. Tomacellianus (129a)|
+Catull. 64.364|-culsae|percussae|Antonius Parthenius|1485|cod. Tomacellianus (129a)|
+Catull. 65.12|teg-|legam|Léon Herrmann|1957|cod. Tomacellianus (129a)|
 Catull. 66.11|auc-|avectus|Rudolf Peiper|1875|(ε)|
 Catull. 79.4|nat-|notorum|Scaliger|1577|Bodl. Canon. Class. lat. 30 (O)|
 Charito 2.3.5|ποθεν|ποδῶν|J. Ph. d’Orville|1750|P.Oxy. VII 1019|a man of means
