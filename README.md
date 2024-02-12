@@ -468,7 +468,7 @@ Carm. conv. 906 Page|εἰ δὴ χρὴ|εἰ χρὴ|Johann Schweighäuser|179
 Carm. conv. 906 Page|εἰ δὴ χρὴ|εἰ χρὴ|Porson|n.d.|Arist. Ath. 20 fin|
 Carm. conv. 907 Page|κύρησαν|ἔσαν|Erasmus|n.d.|Arist. Ath. 19.3|
 Catull. 2.5|meo|mei|J. H. Hoeufft|1807–8|Flor. Ricc. 606 (31)|
-Catull. 2.5|ad|in|F. W. Doering|1788|Berol. Diez. B Sant. 56 (7)|
+Catull. 2.7|ad|in|F. W. Doering|1788|Berol. Diez. B Sant. 56 (7)|
 Catull. 2.8|-et|acquiescit|Ellis|1867|Flor. Bibl. Nat. Magl. VII 948 (26)|
 Catull. 2.9|-a|ipse|A. E. Radke|1995|128 5 75|
 Catull. 3.7|-am|ipsa|Franz Hermes|1889|8 58|
@@ -535,6 +535,7 @@ Catull. 73.1|quis-|quidquam|Léon Herrmann|1957|codd. Ach. Statii|
 Catull. 76.10|cur te iam|te iam cur|Muretus|1554|recc.|
 Catull. 79.4|nat-|notorum|Scaliger|1577|Bodl. Canon. Class. lat. 30 (O)|
 Catull. 90.1|-atur|nascetur|Herbert Richards|1895|Lond. Bibl. Brit. Add. 11915 (46)|
+Catull. 111.4|expatruo|ex patruo parere|F. W. Doering|1834|codd. (Zicàri)|
 Charito 2.3.5|ποθεν|ποδῶν|J. Ph. d’Orville|1750|P.Oxy. VII 1019|a man of means
 Charito 2.4.5|ἐπυρφόρει|επυρπ̣ο[λει|Rudolf Hercher|1854|P.Oxy. XLI 2948|
 Charito 2.4.6|μή τις|μή τι|Cobet|1842|P.Oxy. XLI 2948|
