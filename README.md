@@ -2689,7 +2689,7 @@ Sen. nat. 4.2.28|-munt|premit|L. Fromondus|1632|Zυ|
 Sen. nat. 4.2.30|quasi|quare|Fortunatus|1522|υ|
 Sen. nat. 4.3.5|non/ne|nec|B. Larisch|1865|STX|
 Sen. nat. 4.4.1|fallar|fatear|Franz Skutsch|1907|k2|apud Gercke
-Sen. nat. 4.7.2|-asset|excantassit|Schoell|1907|Genev. lat. 77 (Z)|apud Gercke
+Sen. nat. 4.7.2|-asset|excantassit|Fritz Schoell|1907|Genev. lat. 77 (Z)|apud Gercke
 Sen. nat. 4.11.3|earum|del.|D. Vottero|1980|Escor. O.III.2 (R)|
 Sen. nat. 5.1.2|adu-|diuersum|Bentley|1672|Genev. lat. 77 (Z)|
 Sen. nat. 5.9.4|appareat|-ret|Alfred Gercke|1907|W1|
