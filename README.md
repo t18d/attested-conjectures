@@ -510,7 +510,9 @@ Catull. 64.92|corp-|pectore|G. C. Giardina|2008|codd. Regius, Puteanus, Statiani
 Catull. 64.122|eam|eam mollis|Emil Baehrens|1876|Casanat. 15 (91)|
 Catull. 64.183|uentos|uetitos|Scaliger|1577|cod. Tomacellianus (129a)|
 Catull. 64.186|n. s.|nulla est spes|Francesco Pucci|1502|unus Ach. Statii|
-Catull. 64.196|imis/extremis|ex imis|Casaubon|n.d.|Lond. add. 12005|
+Catull. 64.193|auguineo/anguino|anguineo|Franciscus Puteolanus|1473|Dresd. Dc 133 (15)|
+Catull. 64.196|extremis|ex imis|Casaubon|n.d.|Lond. add. 12005 et Paris. 8232|
+Catull. 64.227|dic-|decet|Lachmann|1829|unus Ach. Statii|
 Catull. 66.11|auc-|avectus|Rudolf Peiper|1875|(ε)|
 Catull. 79.4|nat-|notorum|Scaliger|1577|Bodl. Canon. Class. lat. 30 (O)|
 Charito 2.3.5|ποθεν|ποδῶν|J. Ph. d’Orville|1750|P.Oxy. VII 1019|a man of means
