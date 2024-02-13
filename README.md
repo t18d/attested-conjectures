@@ -1050,6 +1050,7 @@ Claud. 8.438|sirtibus|syrtidos|Ludwig Jeep|1876|Crac. 71 (g)|
 Claud. 8.488|anim-|armisque|Nicolaus Heinsius|1760|Paris. lat. 18551 (P10)|apud Burmannum
 Claud. 8.540|-tum|contra|G. L. König|1808|Leid. 294 (J3)|v.l.
 Claud. 8.634|-eat|debuit|T. W. Paul|1866|R3Γ1pc|p. 10
+Claud. 9.7|-e fontes|nectaris amnes|Johannes Camers|1510|P4p4|
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
