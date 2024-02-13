@@ -1041,6 +1041,9 @@ Claud. 7.118|-runt carmina|mouere cacumina|Gilbert Wakefield|s.xviii ex.|Paris. 
 Claud. 7.157|dil-|dirige|Johannes Camers|1510|K6acF14vl|
 Claud. 8.38|q. di(c)tat|ditat quos|Theodor Birt|1892|F17ac|
 Claud. 8.84|uul-|cultus|Nicolaus Heinsius|1760|Paris. lat. 7936 (P14)|apud Burmannum
+Claud. 8.97|-os|purpureo|Johannes Schrader|1871|Paris. lat. 8082 (P2)|apud Haupt
+Claud. 8.101|sui|sibi|Johannes Camers|1510|Lond. Burn. 166 (L11)|
+Claud. 8.250|dum|cum|Ludwig Jeep|1876|A2F20O7|
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
