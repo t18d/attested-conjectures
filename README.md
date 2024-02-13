@@ -269,7 +269,7 @@ Apollod. Π. θεῶν 20|-βαφεῖς|μελαμβαθεῖς|Brunck|1786|F|
 Apul. Plat. 2.3 p. 223|haec|ac|Scaliger|n.d.|BRZz|
 Ar. Ach. 46|οὔ|οὐκ|Odoard Biset|1570|Paris. gr. 2715 (B)|
 Ar. Ach. 60|πρυτανεύσητε|-εύητε|Meineke|n.d.|P.Oxy. LXVI 4510|
-Ar. Ach. 68|ἐτρυχόμεσθα|-μεθα|Bentley|s.xviii in.|Bodl. Holkh. gr. 88 (L)|apud Burges, Classical Journal xi, xii, xiii
+Ar. Ach. 68|ἐτρυχόμεσθα|-μεθα|Bentley|s.xviii in.|Bodl. Holkh. Gr. 88 (L)|apud Burges, Classical Journal xi, xii, xiii
 Ar. Ach. 171|-μί' ἐστι|διοσημία 'στι|Elmsley|1809|P.Oxy. LXVI 4510|E. was an heir
 Ar. Ach. 238|σίγα|σῖγα|Bentley|s.xviii in.|c|
 Ar. Ach. 297|σύ μοι|μοι σὺ|Hermann|s.xviii/xix|P.Oxy. LXVI 4510|
@@ -336,7 +336,7 @@ Ar. Lys. 81|om.|τὼ|Reisig|n.d.|schol. R et Mu2|
 Ar. Lys. 106|πορπατιϲ-|πορπακιϲάμενοϲ|Ludolf Küster|1710|schol. O|lm.
 Ar. Lys. 126|μοι μυᾶτε|μοιμυᾶτε|L. Dindorf|n.d.|schol. O|lm.
 Ar. Lys. 427|ἀλλ’|ἄλλ’|Valckenaer|1757|MS (Brunck 1781)|
-Ar. Lys. 476|τοῖσι(ν)|τοῖς|Bentley|s.xviii in.|P.Bodl. gr. class. e. 87|
+Ar. Lys. 476|τοῖσι(ν)|τοῖς|Bentley|s.xviii in.|P.Bodl. Gr. class. e. 87|
 Ar. Lys. arg. 1.15|-πληγεὶς|καταπλαγεὶς|Ludolf Küster|1710|Oxon. Barocc. 38B (O)|
 Ar. Nub. 137|ἐξευρ-|ἐξηυρημένην|Porson|n.d.|Paris. gr. 2712 (A)|
 Ar. Nub. 185|δοκοῦϲιν ἐ.|δοκοῦϲ᾽ ἐοικέναι|Bentley|1708|Neap. II F 22 (Np1)|per litt.
@@ -358,10 +358,10 @@ Ar. Pax 1152|καὶ κυδοιδόπα/-τα|κἀκυδοιδόπα|Musurus|n.
 Ar. Plut. 4|ταῦτα|ταὐτὰ|Thomas Magister|n.d.|P.Oxy. XIII 1617|
 Ar. Plut. 179 schol.|ανόητον|ὄνον τὸν|Bentley|1708|Estensis α.U.5.10 (E)|per litt.
 Ar. Plut. 374|οὖν|ἂν|Ludolf Küster|1710|Vbg1 (Invernizi)|
-Ar. Plut. 411|-κλινεῖν|κατακλίνειν|Angelo Canini|n.d.|Bodl. Holkh. gr. 88 (L)|v.l.
+Ar. Plut. 411|-κλινεῖν|κατακλίνειν|Angelo Canini|n.d.|Bodl. Holkh. Gr. 88 (L)|v.l.
 Ar. Plut. 485|ἢ τί γὰρ/εἴ τι γὰρ/ἢ τί γ᾽ ἂν|τί γὰρ|Porson|n.d.|Ambros. C 222 inf. (K)|
 Ar. Plut. 499|ἐ. σ. τ. μ.|τούτου μάρτυς ἐγώ σοι|Hall-Geldart|1906–7|P.Ant. l1I 180|
-Ar. Plut. 504|-ῶσι|πεινῶσιν|Ludolf Küster|1710|Bodl. Holkh. gr. 88 (L)|
+Ar. Plut. 504|-ῶσι|πεινῶσιν|Ludolf Küster|1710|Bodl. Holkh. Gr. 88 (L)|
 Ar. Plut. 1018|παγκάλας|παγκάλους|Valckenaer|1757|Mpc et L|
 Ar. Plut. 1037|τυγχάνει|τυγχάνοι|Valckenaer|1757|Marc. gr. 474 (V)|
 Ar. Plut. 1116|ἐπιθύει|ἔτι θύει|Valckenaer|1757|Marc. gr. 474 (V)|
