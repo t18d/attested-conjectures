@@ -137,7 +137,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (196), Nicolaus Heinsius (96), Bentley (88), Markland (80), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (196), Nicolaus Heinsius (97), Bentley (88), Markland (80), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1051,6 +1051,9 @@ Claud. 8.488|anim-|armisque|Nicolaus Heinsius|1760|Paris. lat. 18551 (P10)|apud 
 Claud. 8.540|-tum|contra|G. L. König|1808|Leid. 294 (J3)|v.l.
 Claud. 8.634|-eat|debuit|T. W. Paul|1866|R3Γ1pc|p. 10
 Claud. 9.7|-e fontes|nectaris amnes|Johannes Camers|1510|P4p4|
+Claud. 10.88|-is|smaragdi|J. M. Gesner|1759|F3W2pcθvl|BWV 1075
+Claud. 10.97|dilapsus|delatus|Nicolaus Heinsius|1760|Parm. Palat. 2504 (Z)|apud Burmannum
+Claud. 10.126|soluit|sistit|G. L. König|1808|P2vlζac|
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
