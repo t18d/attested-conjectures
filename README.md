@@ -1783,7 +1783,7 @@ Manil. 4.290|nautis|natis|Scaliger|1600|LMV|
 Manil. 4.304|-no|caeco|Scaliger|1579|Matrit. 3678 (M)|
 Manil. 4.322|quis-|quicquam|Housman|1903|Lips. 1465 (L)|
 Manil. 4.335|cum|cui|Scaliger|1579|Matrit. 3678 (M)|
-Manil. 4.531|quae|qua|Housman|1903|Bodl. Auct. F. 4.34 (d)|
+Manil. 4.531|quae|qua|Housman|1903|Bodl. Auct. F. 4. 34 (d)|
 Manil. 4.659|albi-|alpinas|Gronovius|s.xvii med.|Matrit. 3678 (M)|
 Manil. 4.863|quia|qua|Scaliger|1579|Matrit. 3678 (M)|
 Manil. 5.60|et mentita|ementita|Scaliger|1579|Brux. 10012 (G)|
