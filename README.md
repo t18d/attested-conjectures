@@ -1025,7 +1025,9 @@ Claud. 3.354|uoto|uultu|Goodyear|1985|Paris. lat. 8082 (P2)|apud Hall
 Claud. 3.357|quies|fides|Johannes Schrader|1871|F20G5z1λ|apud Haupt
 Claud. 5.60|carin-|catenis|Nicolaus Heinsius|1760|Γpc|apud Burmannum
 Claud. 5.141|faci-|rabiem|Johannes Camers|1510|ΓRZpc|
-Claud. 5.159|scilicet|si licet||1612|Guelf. Gud. 220 (W1)|
+Claud. 5.159|scilicet|si licet|Caspar von Barth|1612|Guelf. Gud. 220 (W1)|
+Claud. 5.233|-troque|ultrixque|Thadaeus Vgoletus|1493|Laur. S. Marci 250 (F2)|
+Claud. 5.357|for-|firmatque|Ludwig Jeep|1876|Paris. lat. 8082 (P2)|v.l.
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
