@@ -575,15 +575,15 @@ Cic. Att. 3.8.2|ab illo|ab Ilio|Madvig|1871|cod. Faerni (F)|p. 145
 Cic. Att. 3.13.1|meque|neque|Leonardus Malaespina|1564|Paris. 8536 (P)|p. 71
 Cic. Att. 3.24.1|nostra|uestra|Sebastiano Corradi|1544|Paris. 8536 (P)|
 Cic. Att. 3.25.1|pros-|perspicio|Petrus Victorius|1536|Land. 8 (H)|
-Cic. Att. 4.3.4|Miloni campo|Milo in campo|Muretus|1559|Laur. Conv. Suppr. 49 (N)|
+Cic. Att. 4.3.4|Miloni campo|Milo in campo|Muretus|1559|Laur. Plut. 49 (N)|
 Cic. Att. 4.5.1|ain tu an me|ain tu me|J. C. G. Boot|1865|O1|
 Cic. Att. 4.6.4|nunquam|nunc quam|Leonardus Malaespina|1564|Zb|p. 93
 Cic. Att. 4.13.1|XIII/XVIII|XIIII|P. Manutius|1540–7|NO1|
 Cic. Att. 4.15.3|forte|fere|Petrus Victorius|1536|Paris. 8536 (P)|
 Cic. Att. 4.17.3|detu-|rettulerunt|A. S. Wesenberg|1873|Urb. 322 (s)|retu- s
-Cic. Att. 4.17.4|fue- f.|erat futurus|A. S. Wesenberg|1873|Laur. Conv. Suppr. 49 (N)|
+Cic. Att. 4.17.4|fue- f.|erat futurus|A. S. Wesenberg|1873|Laur. Plut. 49 (N)|
 Cic. Att. 4.18.5|-ter|nostri|P. Manutius|1540–7|NF|
-Cic. Att. 5.7|XIIII|XII|O. E. Schmidt|1893|Laur. Conv. Suppr. 49 (N)|
+Cic. Att. 5.7|XIIII|XII|O. E. Schmidt|1893|Laur. Plut. 49 (N)|
 Cic. Att. 5.8.2|-is|alienus|Denys Lambin|1565–72|Palat. 1510 (V)|
 Cic. Att. 5.8.2|esse|del.|J. A. Ernesti|1775|bds|
 Cic. Att. 5.8.2|-it|posset|Leonardus Malaespina|1564|Palat. 1510 (V)|
@@ -595,21 +595,21 @@ Cic. Att. 5.14.1|stabo|praestabo|Petrus Victorius|1536|Taur. lat. 495 (O)|
 Cic. Att. 5.14.2|para-|speramus|P. Manutius|1540–7|Paris. 8536 (P)|
 Cic. Att. 5.16.2|-us|moratos|Gabriele Faerno|1581|Urb. 322 (s)|apud Ursinum p. 121
 Cic. Att. 5.19.1|at(t)el(l)iano|Atiliano|P. Manutius|1540–7|GH|
-Cic. Att. 5.21.6|sed|et|Sebastiano Corradi|1544|Laur. Conv. Suppr. 49 (N)|
+Cic. Att. 5.21.6|sed|et|Sebastiano Corradi|1544|Laur. Plut. 49 (N)|
 Cic. Att. 5.21.14|ponid-|pontidia|Petrus Victorius|1536|Urb. 322 (s)|
-Cic. Att. 6.1.2|liberalita-|libertatem|Petrus Victorius|1536|Laur. Conv. Suppr. 49 (N)|
+Cic. Att. 6.1.2|liberalita-|libertatem|Petrus Victorius|1536|Laur. Plut. 49 (N)|
 Cic. Att. 6.1.2|l.? e. d. r.|legatis etiam? de rapinis|A. S. Wesenberg|1873|Paris. 8536 (P)|
 Cic. Att. 6.1.3|dico|illico|Gabriele Faerno|1581|Urb. 322 (s)|apud Ursinum
 Cic. Att. 6.1.17|om.|id|Denys Lambin|1565–72|NP|
 Cic. Att. 6.2.10|-iemus|facimus|P. Manutius|1540–7|Mcorr.bdsE|
-Cic. Att. 6.6.4|fortuita|fert uita|P. Manutius|1540–7|Laur. Conv. Suppr. 49 (N)|
-Cic. Att. 6.7.2|-im|possem|A. S. Wesenberg|1840|Laur. Conv. Suppr. 49 (N)|'miror neminem scripsisse'
+Cic. Att. 6.6.4|fortuita|fert uita|P. Manutius|1540–7|Laur. Plut. 49 (N)|
+Cic. Att. 6.7.2|-im|possem|A. S. Wesenberg|1840|Laur. Plut. 49 (N)|'miror neminem scripsisse'
 Cic. Att. 6.9.2|-as|attingat|Sebastiano Corradi|1544|Paris. 8536 (P)|
 Cic. Att. 7.2.3|animum|manum|P. Manutius|1540–7|Berol. 168 (b)|
 Cic. Att. 7.2.7|negauit. id itaque|negauit. itaque|P. Manutius|1540–7|Ambros. E 14 inf. (E)|
 Cic. Att. 7.15.2|quam|del.|P. Manutius|1540–7|Ambros. E 14 inf. (E)|
 Cic. Att. 7.18.1|tac|iacebit|Petrus Victorius|1536|Paris. 8536 (P)|
-Cic. Att. 7.21.1|istinc|istim|Denys Lambin|1565–72|Laur. Conv. Suppr. 49 (N)|
+Cic. Att. 7.21.1|istinc|istim|Denys Lambin|1565–72|Laur. Plut. 49 (N)|
 Cic. Att. 8.3.6|qui|quid|Reinhold Klotz|1854|Paris. 8536 (P)|
 Cic. Att. 8.14.3|sed|ait|Petrus Victorius|1536|Urb. 322 (s)|
 Cic. Att. 8.15.2|-io|tullo|P. Manutius|1540–7|Laur. 217 (d)|
