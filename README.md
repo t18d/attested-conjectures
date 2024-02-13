@@ -1869,7 +1869,7 @@ Ov. am. 1.6.8|di-|derigit|Housman|n.d.|Hamilt. 471 (Y)|
 Ov. am. 1.7.46|nec|et|Bentley|n.d.|Barb. lat. 26 (V)|
 Ov. am. 1.8.84|-e u. -e/-a u. -a|illa uel ille|J. Willis|1972|Lond. Bibl. Brit. Add. 49368 (L2)|
 Ov. am. 2.1.33|-es|facie|Nicolaus Heinsius|1658|Rom. Casan. 3227 (Ca2)|
-Ov. am. 2.2.37|-es|obiciens|Nicolaus Heinsius|1658|Bodl. Auct. F.I.17|
+Ov. am. 2.2.37|-es|obiciens|Nicolaus Heinsius|1658|Bodl. Auct. F. I. 17|
 Ov. am. 2.6.28|fiant/fient|fiunt|G. Némethy|1922|Turon. 879 (T)|
 Ov. am. 2.7.25|quae e.|quod erat|Kenney|1958|y|
 Ov. am. 2.10.33|-undo|arando|Nicolaus Heinsius|1658|Hamilt. 471 (Y)|
@@ -1977,7 +1977,7 @@ Ov. trist. 1.1.14|-at|sentiet|Jacobus Roverius|n.d.|BDKT|
 Ov. trist. 1.1.17|-i|illic|Justus Zinzerling|1610|O2|
 Ov. trist. 1.2.63|prome-|commerui|Nicolaus Heinsius|1661|Lond. Mus. Brit. Add. 18384 (Ln)|
 Ov. trist. 1.2.78|non mihi|nunc, mihi|Nicolaus Heinsius|1661|AtT|
-Ov. trist. 1.2.90|mori|mei|Nicolaus Heinsius|1661|Bodl. Can. Lat. I (O)|
+Ov. trist. 1.2.90|mori|mei|Nicolaus Heinsius|1661|Bodl. Canon. Lat. I (O)|
 Ov. trist. 1.3.5|disc-|decedere|Gilbert Wakefield|1789–95|Haun. 2014 (F)|
 Ov. trist. 1.3.43|pros-|adstrata|Nicolaus Heinsius|1661|G1BnF|
 Ov. trist. 1.3.100|perii-|potuisse|Nicolaus Heinsius|1661|Paris. 8239 (E)|
@@ -3334,7 +3334,7 @@ Tac. hist. 5.21.3|sed/set|et|Nicolaus Heinsius|1752|Yal. II (Y02)|apud Ernesti
 Tac. hist. 5.22.3|impia|Lupia|Beatus Rhenanus|1533|H2Y03|
 Tac. hist. 5.26.1|Nabaliae|naualis|J. G. Ottema|1845|Y03<sup>2</sup>|
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
-Theoc. 2.35–36a schol.|-δρομος|πρόδομος|Samuel Butler|1816|Bodl. Can. gr. 86 (Gaisford)|
+Theoc. 2.35–36a schol.|-δρομος|πρόδομος|Samuel Butler|1816|Bodl. Canon. Gr. 86 (Gaisford)|
 Theoc. 2.82|μοι περὶ|μεῦ πυρὶ|Walter Taylor|1821|P.Ant. III 207 (Pa)|apud Briggs; μ]ευ
 Theoc. 2.155|ἄλλοτ'|ἄλλοκ ̓|Brunck|1772–6|P.Ant. III 207 (Pa)|
 Theoc. 7.7|εὖ γ ̓|εὖ|Hermann|n.d.|P.Oxy. 2064 (Po)|
