@@ -137,7 +137,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (193), Nicolaus Heinsius (92), Bentley (88), Markland (80), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (195), Nicolaus Heinsius (94), Bentley (88), Markland (80), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1032,6 +1032,10 @@ Claud. 5.380|feruid-|perfidus|Goodyear|1985|Paris. lat. 8082 (P2)|apud Hall
 Claud. 5.384|cum|tum|Ludwig Jeep|1876|Crac. 71 (g)|
 Claud. 5.400|pronior|promptior|Goodyear|1985|Patav. bibl. seminar. 140 (p4)|apud Hall
 Claud. 5.471|-a|dextro|Ludwig Jeep|1876|Rpc|
+Claud. 5.505|-iisque|uitiique|Nicolaus Heinsius|1760|gacP2ac|apud Burmannum
+Claud. 6.3|-sso|excuso|Scaliger|1603|Paris. lat. 8079 (P11)|
+Claud. 6.3|germ-|tegmine|Scaliger|1760|Exc. Gyr.|apud Burmannum
+Claud. 7.4|auge-|lucescat|Nicolaus Heinsius|1760|Bodl. ms. auct. F. 2. 16 (O3)|apud Burmannum
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
