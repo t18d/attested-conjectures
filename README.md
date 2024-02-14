@@ -1257,7 +1257,7 @@ Eur. Hec. 580|λέγον|λέγων|Johannes Pierson|pre-1752|MB et V2 et iΣm|
 Eur. Hec. 605|μου|μοι|G. H. Schaefer|n.d.|Dres. Da.22 (Dr)|
 Eur. Hec. 810|ποτ᾽|τότ᾽|Hoffmann|n.d.|Laur. 31.10 (O)|
 Eur. Hec. 902|κοινὸν|καλὸν|Nagel|n.d.|Thom. Mag.|ap. Treu, JclPh Suppl. 27 (1902) 24
-Eur. Hec. 908|τοῖον δ᾽ vel τοιόνδ᾽|τοῖον|King|n.d.|Hier. τάφου 36 (H)|
+Eur. Hec. 908|τοιόνδ᾽|τοῖον|Johannes Livineius|s.xvi ex.|Hier. τάφου 36 (H)|
 Eur. Hec. 921|ναύταν|ναυτᾶν|Valckenaer|n.d.|Σm|
 Eur. Hec. 931|Ἰλιάδα|Ἰλιάδος|Valckenaer|1749|K1c et PrRfRw|
 Eur. Hec. 932|ἐς οἴκους|οἴκους|King|n.d.|manus Triclinii|
@@ -1380,7 +1380,7 @@ Eur. Or. 1011a|ἤλυθε|ἦλθεν|Brunck|n.d.|Vat. gr. 909 (V)|
 Eur. Or. 1035|δ᾽ ἢ|δὴ|Elmsley|n.d.|Zm1γρ|
 Eur. Or. 1037|νῦν|νυν|Scaliger|n.d.|Tc|
 Eur. Or. 1047|με τήξεις|μ᾽ ἔτηξας|F. H. Bothe|1825|Zd1c|
-Eur. Or. 1092|λέχος|λ. γ'|Joshua Barnes|n.d.|Laur. Conv. Soppr. 66 (K)|
+Eur. Or. 1092|λέχος|λ. γ'|Johannes Livineius|s.xvi ex.|Laur. Conv. Soppr. 66 (K)|
 Eur. Or. 1114|ὥσθ᾽|ὡς|Wecklein|n.d.|Escor. gr. X.1.13 (gE)|
 Eur. Or. 1148|σπάσω μέλαν|σπασώμεθα|Adolf Kirchhoff|n.d.|γρCPr|
 Eur. Or. 1156|τι|τοι|Charles Willink|1986|MnS1s|
@@ -1559,6 +1559,7 @@ Eur. Tr. 633|τ. δ'|τῶι μὲν|Burges|n.d.|Stob. Spc|
 Eur. Tr. 802|-νας|᾿Αθάνα|Aldina|n.d.|Σi|
 Eur. Tr. 930|ὑπεκδ-|ὑπερδράμοι|Willem Canter|1571|Tzetzae cod. Lips.|
 Eur. Tr. 931|ἐνθένδ᾽|ἔνθεν δ᾽|Tyrrell|n.d.|Harl. 5743 (q)|
+Eur. Tr. 1053|δ'|γ'|Johannes Livineius|s.xvi ex.|Haun. 417 (Wecklein)|
 Eur. Tr. 1076|σὺν δ'|συνδώδεκα|Joshua Barnes|n.d.|Palat. gr. 98 (Va)|
 Eur. Tr. 1234|-ίσει|φροντιεῖ|A. Matthiae|n.d.|Chr. Pat. 1383|
 Eur. Tr. 1277|ἀμ-|ἐμπνέουϲ᾽|Gilbert Wakefield|1790|q et Chr. Pat. 1704|
