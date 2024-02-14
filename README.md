@@ -1076,6 +1076,7 @@ Claud. 15.387|quod|quid|Nicolaus Heinsius|1760|J3pc|apud Burmannum p. 814
 Claud. 15.423|-es|leonis|Nicolaus Heinsius|1760|PacJ6acL1L3|apud Burmannum p. 815
 Claud. 15.492|cauda|timida|Johannes Camers|1510|Paris. lat. 18551 (P10)|
 Claud. 17.8|rure|rupe|Stephanus Claverius|1602|P20acW2ac|
+Claud. 17.15|-e|honori|Gilbert Wakefield|s.xviii ex.|Montepess. 330 (μ)|apud Hall; v.l.
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
