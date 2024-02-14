@@ -1014,7 +1014,7 @@ Claud. 1.9|anni-|amniadae|Julius Koch|1893|Erlang. 626 (e2)|
 Claud. 1.198|græca/grata|graia|Nicolaus Heinsius|1650|Vindob. 3246 (V4)|
 Claud. 3.40|torua-|totaque|Johannes Camers|1510|Leid. Β. P. L. 131 (J7)|v.l.
 Claud. 3.48|quo|cur|Goodyear|1985|Paris. lat. 7936 (P14)|apud Hall
-Claud. 3.131|fera-|furiale|Theodor Birt|1892|Lond. Bibl. Brit. Add. 6042 (L3)|v.l.
+Claud. 3.131|fata-/fera-|furiale|Theodor Birt|1892|Lond. Bibl. Brit. Add. 6042 (L3)|v.l.
 Claud. 3.154|leuaui/litaui|uocaui|Ludwig Jeep|1876|Bonon. 2221 (b1)|m. sec.
 Claud. 3.260|s. m. se/m. s. sed|solus medio sed|Johannes Livineius|1581|LJ6pc|
 Claud. 3.274|ob-|subieceris|Johannes Schrader|1871|Flor. Bibl. Nat. VII. 144 (F17)|apud Haupt
