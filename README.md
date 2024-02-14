@@ -23,7 +23,7 @@
         <li>Aristophanes, <em>Fabulae</em>, ed. N. G. Wilson, 2 vols (Oxford, 2007).</li>
         <li>Apollonius Rhodius, <em>Argonautica</em>, ed. Hermann Fränkel (Oxford, 1961).</li>
         <li>Asztalos, Monika, Tor Ivar Østmoe, et al., <em><a href="http://www.tekstlab.uio.no/horace/">Repertory of Conjectures on Horace</a></em>, University of Oslo, accessed 9 Feb. 2024.</li>
-        <li>Battezzato, Luigi, 'Livineius' unpublished Euripidean marginalia', <em>Revue d'histoire des textes</em>, 30 (2001), 323–48.</li>
+        <li>Battezzato, Luigi, 'Livineius' unpublished Euripidean marginalia', <em>Revue d'histoire des textes</em>, 30 (2000), 323–48.</li>
         <li>Borges, Cassandra, and C. Michael Sampson, <em>New literary papyri from the Michigan collection: mythographic lyric and a catalogue of poetic first lines</em> (Ann Arbor, 2012), 20.</li>
         <li>Brink, C. O. (= K. O.), <em>Horace on Poetry</em> (Cambridge, 1971).</li>
         <li>Callimachus, <em>Fragmenta</em>, ed. Rudolf Pfeiffer (Oxford, 1949).</li>
