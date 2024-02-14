@@ -137,7 +137,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (198), Nicolaus Heinsius (105), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (199), Nicolaus Heinsius (106), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1079,7 +1079,13 @@ Claud. 17.8|rure|rupe|Stephanus Claverius|1602|P20acW2ac|
 Claud. 17.15|-e|honori|Gilbert Wakefield|s.xviii ex.|Montepess. 330 (μ)|apud Hall; v.l.
 Claud. 17.55|iud-|uindice|Petrus Scriverius|1760|Paris. lat. 8080 (P1)|apud Burmannum
 Claud. 17.79|-rox|ferax|Theodor Birt|1892|gpc|
-Claud. 17.92|-lect-|collatis|Nicolaus Heinsius|1760|flor. Gall.|apud Burmannum
+Claud. 17.92|-lect-|collatis|Nicolaus Heinsius|1760|flor. Gall.|apud Burmannum p. 821
+Claud. 17.106|-que|lucisue|Caspar von Barth|1612|LPpc|
+Claud. 17.106|-u|repulsus|Nicolaus Heinsius|1760|F2F17|apud Burmannum (teste Heinsio)
+Claud. 17.110|flabra|flamma|Stephanus Claverius|1602|gpcP2sl|
+Claud. 17.111|-ant|excutiat|Stephanus Claverius|1602|gpcRac|
+Claud. 17.118|lim-|nimbo|Scaliger|1760|Lλ|apud Burmannum
+Claud. 17.118|lim-|nimbo|Caspar von Barth|1760|Lλ|apud Burmannum
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
