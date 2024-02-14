@@ -3000,7 +3000,7 @@ Soph. Phil. 266|τῆσδ ̓|τῆς|Jean Dorat|n.d.|Zopc|
 Soph. Phil. 272|-ῳ|πέτρᾳ|Frederick H. M. Blaydes|n.d.|Paris. suppl. gr. 109 (Q)|
 Soph. Phil. 306|ἀνθρώπων|-ῷ|Frederick H. M. Blaydes|n.d.|Paris. gr. 2712 (A)|
 Soph. Phil. 361|πρὸς φίλους|προσφιλῶς|F. H. Bothe|n.d.|Vat. gr. 2291 (R)|
-Soph. Phil. 481|-ῃ/-ου|ὅποι|Wakefield|n.d.|KZo|
+Soph. Phil. 481|-η|ὅποι|Gilbert Wakefield|1794|KZo|
 Soph. Phil. 496|πέμψαντα|πλεύσαντα|Frederick H. M. Blaydes|n.d.|Sγρ|
 Soph. Phil. 496|-οις|δόμους|Wunder|n.d.|Paris. suppl. gr. 109 (Q)|
 Soph. Phil. 510| ̓Ατρείδας| ̓Ατρείδας ἔχθεις|Bergk|n.d.|Vat. gr. 2291 (R)|
@@ -3017,7 +3017,7 @@ Soph. Phil. 894|μ ̓ ἔθος|μέ πως|Frederick H. M. Blaydes|n.d.|Palat. 
 Soph. Phil. 896|λόγῳ|λόγων|Valckenaer|pre-1775|Harl. 5743|Miscell. Obs. Nov. T 3 p. 23 (?)
 Soph. Phil. 928|εἰργάσω|εἴργασαι|Elmsley|n.d.|Palat. gr. 287 (Zo)|
 Soph. Phil. 1007|-α|οἷον|Frederick H. M. Blaydes|n.d.|Laur. 32.2 (Zg)|
-Soph. Phil. 1007|ὥς|ὅς|Wakefield|n.d.|r|
+Soph. Phil. 1007|ὥς|ὅς|Gilbert Wakefield|1794|r|
 Soph. Phil. 1028|ἐξέβαλον/ἔκβαλον/ἐκβάλλον|ἔβαλον|Johannes Pierson|s.xviii med.|LaZo|
 Soph. Phil. 1032|ἐμοῦ|ὁμοῦ|Gernhard|n.d.|Gγρ|
 Soph. Phil. 1079|ὁρμώμεθον|-μεθα|Elmsley|n.d.|Urb. gr. 141 (S)|
@@ -3026,7 +3026,7 @@ Soph. Phil. 1138|ὅσ ̓|ὅς|F. H. Bothe|n.d.|Marc. gr. 468 (V)|
 Soph. Phil. 1144|ἐφημοσύνᾳ/εὐφ-|ὑφ-|Hermann|n.d.|Marc. gr. 616 (Zr)|
 Soph. Phil. 1238|ταῦτα|ταὐτὰ|Markland|s.xviii med.|LGRS|
 Soph. Phil. 1243|τοῖσδ ̓|τοῖς|Philip Buttmann|1822|z|
-Soph. Phil. 1289|-ιστον|ὑψίστου|Wakefield|n.d.|VTa|
+Soph. Phil. 1289|-ιστον|ὑψίστου|Gilbert Wakefield|1794|VTa|
 Soph. Phil. 1330|ὡς|ἕως|Denys Lambin|n.d.|Paris. suppl. gr. 109 (Q)|
 Soph. Phil. 1362|δ'|γ'|Frederick H. M. Blaydes|n.d.|VQ|
 Soph. Phil. 1399|πέμπειν|πέμψειν|Frederick H. M. Blaydes|n.d.|Laur. Conv. Soppr. 152 (G)|
