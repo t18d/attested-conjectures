@@ -1424,7 +1424,7 @@ Eur. Ph. 228|-είων κτλ.|βακχεῖον|Adolf Kirchhoff|n.d.|Vindob. ph
 Eur. Ph. 252|σχῆμα|σῆμα|Heimsoeth|1865|G et Aaγρ|
 Eur. Ph. 297|ἀναπ-|ἀμπέτασον|Hermann|n.d.|Vat. gr. 909 (V)|
 Eur. Ph. 308-9|χαίτας|-ταις|Brodaeus|n.d.|P.Vindob. inv. G 29769|
-Eur. Ph. 325|δ'|τ'|Wakefield|n.d.|Laur. Conv. Soppr. 172 (P)|
+Eur. Ph. 325|δ'|τ'|Gilbert Wakefield|n.d.|Laur. Conv. Soppr. 172 (P)|
 Eur. Ph. 341|τάδε|τᾶιδε|Valckenaer|n.d.|manus Triclinii|
 Eur. Ph. 361|δὲ τάρβους|δ᾽ ἐτάρβης᾽|Hermann|n.d.|Vindob. phil. gr. 119 (Rw)|
 Eur. Ph. 363|-εος|ἄστεως|Dindorf|n.d.|Fauor. de exil. 7.2|
@@ -1545,7 +1545,7 @@ Eur. Tr. 930|ὑπεκδ-|ὑπερδράμοι|Willem Canter|1571|Tzetzae cod. 
 Eur. Tr. 931|ἐνθένδ᾽|ἔνθεν δ᾽|Tyrrell|n.d.|Harl. 5743 (q)|
 Eur. Tr. 1076|σὺν δ'|συνδώδεκα|Joshua Barnes|n.d.|Palat. gr. 98 (Va)|
 Eur. Tr. 1234|-ίσει|φροντιεῖ|A. Matthiae|n.d.|Chr. Pat. 1383|
-Eur. Tr. 1277|ἀμ-|ἐμπνέουϲ᾽|Wakefield|n.d.|q et Chr. Pat. 1704|
+Eur. Tr. 1277|ἀμ-|ἐμπνέουϲ᾽|Gilbert Wakefield|1790|q et Chr. Pat. 1704|
 Eur. Tr. 1306|κρύπτουσα|κτυποῦσα|Samuel Musgrave|n.d.|Σ|
 Eur. fr. 119 + 120.6|πατρος|πάτρας|Heinrich Düntzer|1850|P.Oxy. XXXII 2628|Philologus 5 (1850) 186
 Eur. fr. 495.42|τῶν τέχνων|τω]ν κενων|Conrad Gesner|1543|BKT V/II 5514|
