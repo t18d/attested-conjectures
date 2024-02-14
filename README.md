@@ -1034,7 +1034,7 @@ Claud. 5.400|pronior|promptior|Goodyear|1985|Patav. bibl. seminar. 140 (p4)|apud
 Claud. 5.471|-a|dextro|Ludwig Jeep|1876|Rpc|
 Claud. 5.505|-iisque|uitiique|Nicolaus Heinsius|1760|gacP2ac|apud Burmannum
 Claud. 6.3|-sso|excuso|Scaliger|1603|Paris. lat. 8079 (P11)|
-Claud. 6.3|germ-|tegmine|Scaliger|1760|Exc. Gyr.|apud Burmannum
+Claud. 6.3|germ-|tegmine|Scaliger|1760|exc. Gyr.|apud Burmannum
 Claud. 7.4|auge-|lucescat|Nicolaus Heinsius|1760|Bodl. Auct. F. 2. 16 (O3)|apud Burmannum
 Claud. 7.89|fat-|fastis|Ludwig Jeep|1876|L11ac|
 Claud. 7.118|-runt carmina|mouere cacumina|Gilbert Wakefield|s.xviii ex.|Paris. lat. 18552 (P)|apud Hall; v.l.
@@ -1060,7 +1060,7 @@ Claud. 10.315|-nio|ingenuo|Markland|1728|F2vlq|ad Stat. silv. 2.6.48
 Claud. 14.16|fidem|facem|Johannes Schrader|1871|Vat. Palat. lat. 1714 (R23)|apud Haupt
 Claud. 14.17|facem|fidem|Johannes Schrader|1871|Laur. 33.4 (F3)|apud Haupt
 Claud. 14.23|-um|animam|Gronovius|1639|Ambros. S 66 sup. (K4)|p. 212
-Claud. 15.114|humeris|armis|Johannes Livineius|1581|Exc. Laeti|
+Claud. 15.114|humeris|armis|Johannes Livineius|1581|exc. Laeti|
 Claud. 15.180|furia-|feralis|Nicolaus Heinsius|1760|F17Γ1|apud Burmannum
 Claud. 15.193|disc-/degener|decolor|Nicolaus Heinsius|1760|Ambros. Μ 9 sup. (K6)|apud Burmannum
 Claud. 15.218|saciar-/sancir-|sociarent|Nicolaus Heinsius|1760|Vat. lat. 2808 (R13)|apud Burmannum p. 810
@@ -1086,6 +1086,8 @@ Claud. 17.110|flabra|flamma|Stephanus Claverius|1602|gpcP2sl|
 Claud. 17.111|-ant|excutiat|Stephanus Claverius|1602|gpcRac|
 Claud. 17.118|lim-|nimbo|Scaliger|1760|Lλ|apud Burmannum
 Claud. 17.118|lim-|nimbo|Caspar von Barth|1760|Lλ|apud Burmannum
+Claud. 17.147|regit|gerit|Caspar von Barth|1612|Bodl. Auct. F. 2. 16 (O3)|
+Claud. 17.212|-it … sui|emergis … tui|T. W. Paul|1866|Paris. lat. 7936 (P14)|p. 9
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
