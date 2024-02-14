@@ -1778,7 +1778,7 @@ Iuv. 15.104|viribus|urbibus|François Guyet|1614|P1U|
 Iuv. 15.105|illo-|ipsorum|Andreas Weidner|1889|Urb. 661 (U)|
 Iuv. 15.124|britones|bistones|Johannes Schrader|1761|O1U|
 Iuv. 15.125|-que|sauromataeve|Markland|1717–28|Φ|
-Iuv. 15.134|causam dicentis|casum lugentis|Gilbert Wakefield|1789–95|recc.|
+Iuv. 15.134|causam dicentis|casum lugentis|Gilbert Wakefield|1790|recc.|
 Iuv. 15.145|capien-|pariendisque|Franz Buecheler|1886|OU|
 Iuv. 16.13|Bardai-|barbaricus|A. W. Cramer|1823|Dres. 155|
 Iuv. 16.24|caligatos|caligas tot|Thomas Dempster|1610|recc.|
@@ -2035,7 +2035,7 @@ Ov. trist. 1.1.17|-i|illic|Justus Zinzerling|1610|O2|
 Ov. trist. 1.2.63|prome-|commerui|Nicolaus Heinsius|1661|Lond. Mus. Brit. Add. 18384 (Ln)|
 Ov. trist. 1.2.78|non mihi|nunc, mihi|Nicolaus Heinsius|1661|AtT|
 Ov. trist. 1.2.90|mori|mei|Nicolaus Heinsius|1661|Bodl. Canon. Lat. I (O)|
-Ov. trist. 1.3.5|disc-|decedere|Gilbert Wakefield|1789–95|Haun. 2014 (F)|
+Ov. trist. 1.3.5|disc-|decedere|Gilbert Wakefield|1797|Haun. 2014 (F)|ad Lucr. 5.1103
 Ov. trist. 1.3.43|pros-|adstrata|Nicolaus Heinsius|1661|G1BnF|
 Ov. trist. 1.3.100|perii-|potuisse|Nicolaus Heinsius|1661|Paris. 8239 (E)|
 Ov. trist. 1.3.100|perii-|potuisse|Petrus Francius|n.d.|Paris. 8239 (E)|
