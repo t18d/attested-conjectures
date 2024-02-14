@@ -1088,6 +1088,10 @@ Claud. 17.118|lim-|nimbo|Scaliger|1760|Lλ|apud Burmannum
 Claud. 17.118|lim-|nimbo|Caspar von Barth|1760|Lλ|apud Burmannum
 Claud. 17.147|regit|gerit|Caspar von Barth|1612|Bodl. Auct. F. 2. 16 (O3)|
 Claud. 17.212|-it … sui|emergis … tui|T. W. Paul|1866|Paris. lat. 7936 (P14)|p. 9
+Claud. 17.219|rabidas/rapid-|rabies|Pieter Burman II|1760|P1μacσ|
+Claud. 17.305|uiridis|uarius|Theodor Birt|1892|Paris. lat. 8079 (P11)|marg.
+Claud. 17.323|-et|emicat|Ludwig Jeep|1876|B1F3|
+Claud. 17.323|-us|uinctu|J. M. Gesner|1759|P2acF2ac|
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
