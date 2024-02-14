@@ -137,7 +137,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (197), Nicolaus Heinsius (100), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (198), Nicolaus Heinsius (101), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1069,6 +1069,8 @@ Claud. 15.277|-it|respuat|Nicolaus Heinsius|1650|Lond. Bibl. Brit. Add. 6042 (L3
 Claud. 15.294|etiam num|iam tunc|Johannes Camers|1510|Lond. Eger. 2627 (L1)|
 Claud. 15.294|etiamnum|etiamtum|Ludwig Jeep|1876|CpcJ6|
 Claud. 15.301|et|sed|Johannes Camers|1510|Yal. Marston 45|
+Claud. 15.381|auferet/aff-|ac feret|Scaliger|1760|Rvl (Birt)|apud Burmannum
+Claud. 15.381|auferet/aff-|an feret|Nicolaus Heinsius|1650|Lpc|
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
