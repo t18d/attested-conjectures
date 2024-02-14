@@ -137,7 +137,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (198), Nicolaus Heinsius (101), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (198), Nicolaus Heinsius (104), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1063,6 +1063,7 @@ Claud. 14.23|-um|animam|Gronovius|1639|Ambros. S 66 sup. (K4)|p. 212
 Claud. 15.114|humeris|armis|Johannes Livineius|1581|Exc. Laeti|
 Claud. 15.180|furia-|feralis|Nicolaus Heinsius|1760|F17Γ1|apud Burmannum
 Claud. 15.193|disc-/degener|decolor|Nicolaus Heinsius|1760|Ambros. Μ 9 sup. (K6)|apud Burmannum
+Claud. 15.218|saciar-/sancir-|sociarent|Nicolaus Heinsius|1760|Vat. lat. 2808 (R13)|apud Burmannum p. 810
 Claud. 15.245|fouere/fauere|uenere|Pieter Burman II|1760|Lond. Harl. 2753 (L4)|
 Claud. 15.247|-et|petissent|Theodor Birt|1892|F19P10|
 Claud. 15.277|-it|respuat|Nicolaus Heinsius|1650|Lond. Bibl. Brit. Add. 6042 (L3)|
@@ -1071,6 +1072,8 @@ Claud. 15.294|etiamnum|etiamtum|Ludwig Jeep|1876|CpcJ6|
 Claud. 15.301|et|sed|Johannes Camers|1510|Yal. Marston 45|
 Claud. 15.381|auferet/aff-|ac feret|Scaliger|1760|Rvl (Birt)|apud Burmannum
 Claud. 15.381|auferet/aff-|an feret|Nicolaus Heinsius|1650|Lpc|
+Claud. 15.387|quod|quid|Nicolaus Heinsius|1760|J3pc|apud Burmannum p. 814
+Claud. 15.423|-es|leonis|Nicolaus Heinsius|1760|PacJ6acL1L3|apud Burmannum p. 815
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
