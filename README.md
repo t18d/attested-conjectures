@@ -1131,6 +1131,8 @@ Claud. 22.196|(agnoscit) causas|caulas|Caspar von Barth|1612|Ambros. S 66 sup. (
 Claud. 22.335|tex-|traxit|Nicolaus Heinsius|1760|Lond. Burn. 166 (L11)|apud Burmannum
 Claud. 22.336|hic|his|Nicolaus Heinsius|1665|n1q|'si liceat per codices antiquos'
 Claud. 22.370|spati-|speciosa|Pieter Burman II|1760|Paris. lat. 18552 (P)|s.l.
+Claud. 22.371|-um|cruentam|Gronovius|1637|Ambros. S 66 sup. (K4)|p. 333
+Claud. 22.450|-at r./r. -ant|stabant rutuli||1650|W1θac|apud Heinsium
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
