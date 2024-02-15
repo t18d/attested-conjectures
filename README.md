@@ -138,7 +138,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (199), Nicolaus Heinsius (114), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (199), Nicolaus Heinsius (116), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1104,6 +1104,10 @@ Claud. 18.250|syri-|asiae|Johannes Schrader|1871|Ppc2Rvl|apud Haupt; an P2pcRvl?
 Claud. 18.309|-us|dominis|Gronovius|1639|Paris. lat. 2908 (P13)|p. 42
 Claud. 18.309|-us/-is|domini|Nicolaus Heinsius|1650|exc. Gyr. (teste Birt)|
 Claud. 18.369|cons-|conciliis|Albert Rubens|1650|Ambros. Μ 9 sup. (K6)|apud Heinsium; Petr. Paul. fil. 
+Claud. 18.501|quod|quo|J. M. Gesner|1759|flor. Gall.|
+Claud. 19.25|de/iam|tum|Nicolaus Heinsius|1760|Paris. lat. 7936 (P14)|apud Burmannum
+Claud. 20.16|-ant|penetrent|T. W. Paul|1866|Bodl. Auct. F. 2. 16 (O3)|p. 9
+Claud. 20.18|arescat/exundet|ex(s)udet|Nicolaus Heinsius|1665|L3O2pc|
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
