@@ -138,7 +138,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (200), Nicolaus Heinsius (119), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (202), Nicolaus Heinsius (120), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1117,6 +1117,11 @@ Claud. 20.351|-foss-|defessi|Scaliger|1603|Paris. lat. 18551 (P10)|
 Claud. 20.489|-o|stolidi|Caspar von Barth|1650|L3P14|apud Heinsium
 Claud. 20.508|hoc|hunc|Johannes Camers|1510|Paris. lat. 8082 (P2)|
 Claud. 20.592|pro-|praetendo|Nicolaus Heinsius|1760|n1K6qz1|apud Burmannum
+Claud. 21.30|-um|partito|Stephanus Claverius|1602|Lond. Burn. 166 (L11)|
+Claud. 21.57|uix|uir|Alan Ker|1985|L11W2|apud Hall
+Claud. 21.62|bell-|beli|Scaliger|1603|L4pc|
+Claud. 21.183|quod|quo|Scaliger|1603|Laur. 33.6 (F20)|
+Claud. 21.189|-ant|ruat|Nicolaus Heinsius|1665|Crac. 71 (g)|
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
