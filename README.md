@@ -138,7 +138,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (199), Nicolaus Heinsius (108), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (199), Nicolaus Heinsius (111), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1095,6 +1095,9 @@ Claud. 17.323|-et|emicat|Ludwig Jeep|1876|B1F3|
 Claud. 17.323|-us|uinctu|J. M. Gesner|1759|P2acF2ac|
 Claud. 17.326|chori|tholi|Nicolaus Heinsius|1760|Laur. 33.5 (F19)|apud Burmannum p. 827
 Claud. 18.25|quantum|quonam|Nicolaus Heinsius|1760|C1λ|apud Burmannum p. 828
+Claud. 18.141|ri-|nisu|Nicolaus Heinsius|1760|Rac|apud Burmannum
+Claud. 18.156|thalamis/stabulis|tabulis|Nicolaus Heinsius|1650|Lond. Burn. 166 (L11)|
+Claud. 18.172|-unt/ent|possint|Nicolaus Heinsius|1760|Laur. S. Marco 250 (F2)|apud Burmannum p. 832; s.l.
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
