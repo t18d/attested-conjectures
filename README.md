@@ -138,7 +138,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (211), Nicolaus Heinsius (135), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (211), Nicolaus Heinsius (136), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1172,6 +1172,8 @@ Claud. rapt. Pros. 1.147|-am|trisulco|Nicolaus Heinsius|1650|Lond. Bibl. Brit. A
 Claud. rapt. Pros. 1.149|respuit/respicit|despicit|Stephanus Claverius|1602|Crac. 71 (g)|
 Claud. rapt. Pros. 1.205|-is … -is|coniferi … rami|Ludwig Jeep|1876|Parm. Palat. 2504 (Z)|
 Claud. rapt. Pros. 1.224|-unt|quiescant|Nicolaus Heinsius|1760|L2O2vl|apud Burmannum p. 942
+Claud. rapt. Pros. 1.261|sta-|gramina|Gilbert Wakefield|s.xviii ex.|Erlang. 626 (e2)|apud Hall
+Claud. rapt. Pros. 2 praef. 29|act-|astusque|Nicolaus Heinsius|1760|L2O2vl|apud Burmannum p. 945
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
