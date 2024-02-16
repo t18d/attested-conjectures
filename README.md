@@ -1173,7 +1173,8 @@ Claud. rapt. Pros. 1.149|respuit/respicit|despicit|Stephanus Claverius|1602|Crac
 Claud. rapt. Pros. 1.205|-is … -is|coniferi … rami|Ludwig Jeep|1876|Parm. Palat. 2504 (Z)|
 Claud. rapt. Pros. 1.224|-unt|quiescant|Nicolaus Heinsius|1760|L2O2vl|apud Burmannum p. 942
 Claud. rapt. Pros. 1.261|sta-|gramina|Gilbert Wakefield|s.xviii ex.|Erlang. 626 (e2)|apud Hall
-Claud. rapt. Pros. 2 praef. 29|act-|astusque|Nicolaus Heinsius|1760|L2O2vl|apud Burmannum p. 945
+Claud. rapt. Pros. 2 praef. 29|act-|astusque|Nicolaus Heinsius|1760|Berol. lat. oct. 112 (G2)|apud Burmannum p. 945
+Claud. rapt. Pros. 2 praef. 52|-idos|placito|Stephanus Claverius|1602|O3ac|
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
