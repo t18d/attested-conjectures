@@ -138,7 +138,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (211), Nicolaus Heinsius (142), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (211), Nicolaus Heinsius (144), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1197,6 +1197,11 @@ Claud. rapt. Pros. 3.105|tu nota/tua nata|te nata|Nicolaus Heinsius|1760|Vratisl
 Claud. rapt. Pros. 3.137|di-|degreditur|Emil Baehrens|1875|O1O2acP2ac|Baehrens on Jeep
 Claud. rapt. Pros. 3.241|decres-|marcescere|Julius Koch|1892|A1vlL10pcUpc|apud Birt
 Claud. rapt. Pros. 3.248|casus|et c.|Stephanus Claverius|1602|Haun. Gl. Kgl. S. 1905 (U)|
+Claud. rapt. Pros. 3.267|nimium-/iamiam-|timidumque|Nicolaus Heinsius|1760|Paris. lat. 15005 (P5)|apud Burmannum
+Claud. rapt. Pros. 3.282|-em|hominum|Nicolaus Heinsius|1650|Paris. lat. 15005 (P5)|'-um Claud. scripserat, quicquid libri obstant'
+Claud. rapt. Pros. 3.282|-em|homines|Ludwig Jeep|1876|ae2kR38|
+Claud. rapt. Pros. 3.288|-ria|trinacrida|Theodor Birt|1892|Baltim. 437 (m)|
+Claud. rapt. Pros. 3.301|sit|si|Stephanus Claverius|1602|Vigorn. F 147 (H)|
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
