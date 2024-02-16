@@ -138,7 +138,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (206), Nicolaus Heinsius (129), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (207), Nicolaus Heinsius (130), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1145,6 +1145,9 @@ Claud. 26.190|li-|lechaei|Scaliger|1603|Ambros. S 66 sup. (K4)|marg.
 Claud. 26.207|an|at|Theodor Birt|1892|Atreb. 65|
 Claud. 26.220|-s-|diffissa|Scaliger|1603|Cantab. Coll. Corp. Christi 228 (C1)|
 Claud. 26.328|nimbosue aut|nimbosaue|Nicolaus Heinsius|1760|Ppc|apud Burmannum p. 899
+Claud. 26.347|astr-|austris|Scaliger|1603|Paris. 7647|p.c.
+Claud. 26.370|-uex-|reuixit|Johannes Camers|1510|F17Z|
+Claud. 26.406|-i … -i|animis … receptis|Nicolaus Heinsius|1650|gpc|
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
