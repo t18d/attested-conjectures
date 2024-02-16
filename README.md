@@ -138,7 +138,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (210), Nicolaus Heinsius (132), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (210), Nicolaus Heinsius (133), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1159,6 +1159,10 @@ Claud. 28.267|-i|diuerso|Gilbert Wakefield|s.xviii ex.|F3ζ|apud Hall
 Claud. 28.267|-e|stamina|Th. Hertel|1848|Antuerp. Μ 17.1 (A2)|
 Claud. 28.283|sors|fors|Nicolaus Heinsius|1650|Paris. lat. 8079 (P11)|'vel sine libris'
 Claud. 28.291|hic|haec|Scaliger|1603|J3pc|
+Claud. 28.356|-di|moranti|Nicolaus Heinsius|1760|F17ac|apud Burmannum
+Claud. 28.365|nom-|numine|J. M. Gesner|1759|Guelf. Helmaest. 538 (W2)|
+Claud. 28.387|suis|tuis|Johannes Camers|1510|Laur. 33.4 (F3)|
+Claud. 28.485|manum|manu|Caspar von Barth|1650|Antuerp. Μ 17.1 (A2)|p. 754
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
