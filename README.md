@@ -1086,7 +1086,7 @@ Claud. 17.106|-u|repulsus|Nicolaus Heinsius|1760|F2F17|apud Burmannum (teste Hei
 Claud. 17.110|flabra|flamma|Stephanus Claverius|1602|gpcP2sl|
 Claud. 17.111|-ant|excutiat|Stephanus Claverius|1602|gpcRac|
 Claud. 17.118|lim-|nimbo|Scaliger|1760|Lλ|apud Burmannum
-Claud. 17.118|lim-|nimbo|Caspar von Barth|1760|Lλ|apud Burmannum
+Claud. 17.118|lim-|nimbo|Caspar von Barth|1650|Lλ|
 Claud. 17.147|regit|gerit|Caspar von Barth|1612|Bodl. Auct. F. 2. 16 (O3)|
 Claud. 17.212|-it … sui|emergis … tui|T. W. Paul|1866|Paris. lat. 7936 (P14)|p. 9
 Claud. 17.219|rabidas/rapid-|rabies|Pieter Burman II|1760|P1μacσ|
