@@ -138,7 +138,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (207), Nicolaus Heinsius (130), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (209), Nicolaus Heinsius (131), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1148,6 +1148,13 @@ Claud. 26.328|nimbosue aut|nimbosaue|Nicolaus Heinsius|1760|Ppc|apud Burmannum p
 Claud. 26.347|astr-|austris|Scaliger|1603|Paris. 7647|p.c.
 Claud. 26.370|-uex-|reuixit|Johannes Camers|1510|F17Z|
 Claud. 26.406|-i … -i|animis … receptis|Nicolaus Heinsius|1650|gpc|
+Claud. 26.541|-ire|seruare|Theodor Birt|1892|J6ac|
+Claud. 26.583|praeclarus|praefectus|Ludwig Jeep|1876|Vat. lat. 2808 (R13)|v.l.
+Claud. 26.622|-i|cognatis|Scaliger|1603|Paris. lat. 18552 (P)|v.l.
+Claud. 28.15|sint-|suntque|Nicolaus Heinsius|1760|Ppc|apud Burmannum p. 909
+Claud. 28.21|recond-|retundunt|J. M. Gesner|1759|Cantab. Coll. Corp. Christi 228 (C1)|
+Claud. 28.192|aut|ut|Scaliger|1603|θac|
+Claud. 28.212|b. m.|medius belli|Caspar von Barth|1650|Patav. bibl. capitul. C. 62 (p2)|
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
