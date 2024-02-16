@@ -138,7 +138,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (211), Nicolaus Heinsius (141), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (211), Nicolaus Heinsius (142), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1188,6 +1188,8 @@ Claud. rapt. Pros. 2.275|-it|deterget|Theodor Birt|1892|Berol. lat. qu. 740 (G1)
 Claud. rapt. Pros. 2.300|ues-|fastigia|Caspar von Barth|1650|Laur. S. Crucis 24. sin. 12 (F1)|p. 918
 Claud. rapt. Pros. 2.437|fest-|faustas|Nicolaus Heinsius|1760|Rauenn. Class. 120 (r)|apud Burmannum p. 955
 Claud. rapt. Pros. 3.21|cogno-|commouimus|Johannes Schrader|1871|aF6k|apud Haupt
+Claud. rapt. Pros. 3.36|parcum-|paruumque|Emil Baehrens|1875|Antuerp. Μ 17.1 (A2)|Baehrens on Jeep
+Claud. rapt. Pros. 3.88|exhaust-|exustusque|Nicolaus Heinsius|1650|Angel. 1461 (R29)|
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
