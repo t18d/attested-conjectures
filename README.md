@@ -138,7 +138,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (211), Nicolaus Heinsius (142), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (211), Nicolaus Heinsius (143), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1190,6 +1190,10 @@ Claud. rapt. Pros. 2.437|fest-|faustas|Nicolaus Heinsius|1760|Rauenn. Class. 120
 Claud. rapt. Pros. 3.21|cogno-|commouimus|Johannes Schrader|1871|aF6k|apud Haupt
 Claud. rapt. Pros. 3.36|parcum-|paruumque|Emil Baehrens|1875|Antuerp. Μ 17.1 (A2)|Baehrens on Jeep
 Claud. rapt. Pros. 3.88|exhaust-|exustusque|Nicolaus Heinsius|1650|Angel. 1461 (R29)|
+Claud. rapt. Pros. 3.102|teror/precor|premor|Emil Baehrens|1877|Marc. XII. 11 (T2)|Bursiani Jahresber. p.226; marg.
+Claud. rapt. Pros. 3.103|-es|indulgens|Ludwig Jeep|1876|G4V3ac|
+Claud. rapt. Pros. 3.103|inter-|perstrepis|L. Reinhardt|1892|Vigorn. F 147 (H)|apud Birt
+Claud. rapt. Pros. 3.105|tu nota/tua nata|te nata|Nicolaus Heinsius|1760|Vratisl. IV. Q. 57 (g3)|apud Burmannum p. 960
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
