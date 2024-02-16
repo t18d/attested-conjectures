@@ -1081,7 +1081,7 @@ Claud. 17.15|-e|honori|Gilbert Wakefield|s.xviii ex.|Montepess. 330 (μ)|apud Ha
 Claud. 17.55|iud-|uindice|Petrus Scriverius|1760|Paris. lat. 8080 (P1)|apud Burmannum
 Claud. 17.79|-rox|ferax|Theodor Birt|1892|gpc|
 Claud. 17.92|-lect-|collatis|Nicolaus Heinsius|1760|flor. Gall.|apud Burmannum p. 821
-Claud. 17.106|-que|lucisue|Caspar von Barth|1612|LPpc|
+Claud. 17.106|-que|lucisue|Caspar von Barth|1612|LPpc|p. 243
 Claud. 17.106|-u|repulsus|Caspar von Barth|1650|F2F17|p. 116
 Claud. 17.110|flabra|flamma|Stephanus Claverius|1602|gpcP2sl|
 Claud. 17.111|-ant|excutiat|Stephanus Claverius|1602|gpcRac|
