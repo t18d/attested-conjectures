@@ -138,7 +138,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (211), Nicolaus Heinsius (136), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (211), Nicolaus Heinsius (140), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1179,6 +1179,12 @@ Claud. rapt. Pros. 2.100|-uiret|internitet|Ludwig Jeep|1876|J4C3|
 Claud. rapt. Pros. 2.103|-o|uiui|Ludwig Jeep|1876|Neap. bibl. nat. V. D. 53 (n)|
 Claud. rapt. Pros. 2.148|-is/-em|odorum|Ludwig Jeep|1876|Bodl. Lat. class. e 47 (O4)|
 Claud. rapt. Pros. 2.161|inpedit|implicat|A. G. Parrasio|1500–5|G4P8t|
+Claud. rapt. Pros. 2.189|proluit/palluit|polluit|Nicolaus Heinsius|1760|R14R26|apud Burmannum
+Claud. rapt. Pros. 2.203|harenae|aristae|Johannes Schrader|1871|R4w|apud Haupt
+Claud. rapt. Pros. 2.215|quae|quo|Nicolaus Heinsius|1760|e2mnr|apud Burmannum p. 952
+Claud. rapt. Pros. 2.230|-us|Hymenaeon|Nicolaus Heinsius|1650|Neap. bibl. nat. V. D. 53 (n)|
+Claud. rapt. Pros. 2.255|rapid-|rabido|Nicolaus Heinsius|1650|Laur. Ashb. L. 977 (F4)|
+Claud. rapt. Pros. 2.275|-it|deterget|Theodor Birt|1892|Berol. lat. qu. 740 (G1)|
 Clem.Al. Strom. 2.9.45|θαυμάσας|θαμβηβεὶς|Theodor Zahn|1892|P.Oxy. IV 654|Gesch. d. NT. Kan. ii. p. 657
 Cratin. fr. 107|ποσὶν|ποσσὶν|Meineke|1839–57|Poll. 10.50 S|
 Cratin. fr. 171|ΞΥΝΤΙΧΕΙΑΙ κτλ.|ξυντυχίαισι|Martin Runkel|1827|PSI XI 1212|
