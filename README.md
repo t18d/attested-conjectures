@@ -1026,7 +1026,6 @@ Claud. 3.354|uoto|uultu|Goodyear|1985|Paris. lat. 8082 (P2)|apud Hall
 Claud. 3.357|quies|fides|Johannes Schrader|1871|F20G5z1λ|apud Haupt
 Claud. 5.60|carin-|catenis|Nicolaus Heinsius|1760|Γpc|apud Burmannum
 Claud. 5.159|scilicet|si licet|Caspar von Barth|1612|Guelf. Gud. 220 (W1)|
-Claud. 5.233|-troque|ultrixque|Thadaeus Vgoletus|1493|Laur. S. Marco 250 (F2)|
 Claud. 5.357|for-|firmatque|Ludwig Jeep|1876|Paris. lat. 8082 (P2)|v.l.
 Claud. 5.380|feruid-|perfidus|Goodyear|1985|Paris. lat. 8082 (P2)|apud Hall
 Claud. 5.384|cum|tum|Ludwig Jeep|1876|Crac. 71 (g)|
