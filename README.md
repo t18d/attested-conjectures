@@ -138,7 +138,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (213), Nicolaus Heinsius (161), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (214), Nicolaus Heinsius (162), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1186,6 +1186,10 @@ Claud. carm. min. 30.87|aur-|horae|Andreas Schott|1615|Cuiacii vetus (Claverius)
 Claud. carm. min. 30.166|-no|marito|Scaliger|1650|Matrit. 10082 (ζ)|apud Heinsium
 Claud. carm. min. 30.174|acheloïus iret|achelous abiret|Nicolaus Heinsius|1760|gpcK4|apud Burmannum
 Claud. carm. min. 31.6|-i|dulces|Caspar von Barth|1612|gpc|p. 463
+Claud. carm. min. 31.60|poster-/super-|prosperiora|Johannes Camers|1510|Veron. 163 (Δ)|
+Claud. carm. min. 32.7|inclu-|infusum|Pieter Burman I|1760|Veron. 163 (Δ)|
+Claud. carm. min. 34.3|iunx-|uinxit|Scaliger|1650|CgpcO3|apud Heinsium p. 269
+Claud. carm. min. 40.22|libr-|labris|Nicolaus Heinsius|1650|Crac. 71 (g)|p. 251
 Claud. rapt. Pros. 1.46|aucto/acto|uasto|Georg Goetz|1876|Monac. 391 (M3)|PhilAnz 7 p. 143
 Claud. rapt. Pros. 1.92|i c. (et) p.|i celer i proscinde|Pieter Burman I|1760|Erlang. 626 (e2)|'miror vero non geminasse Heinsium & legisse &c.'
 Claud. rapt. Pros. 1.147|-am|trisulco|Nicolaus Heinsius|1650|Lond. Bibl. Brit. Add. 6042 (L3)|
