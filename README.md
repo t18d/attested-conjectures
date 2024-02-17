@@ -1021,7 +1021,7 @@ Claud. 3.260|s. m. se/m. s. sed|solus medio sed|Johannes Livineius|1581|LJ6pc|cf
 Claud. 3.274|ob-|subieceris|Johannes Schrader|1871|Flor. Bibl. Nat. VII. 144 (F17)|apud Haupt
 Claud. 3.304|diff-|defundit|Ludwig Jeep|1876|z1ac|
 Claud. 3.328|ludus|luctus|G. L. König|1808|Brux. 5381 (Γ)|
-Claud. 3.351|mole/amore|honore|Pieter Burman II|1760|F17pc|
+Claud. 3.351|mole/amore|honore|Pieter Burman I|1760|F17pc|
 Claud. 3.354|uoto|uultu|Goodyear|1985|Paris. lat. 8082 (P2)|apud Hall
 Claud. 3.357|quies|fides|Johannes Schrader|1871|F20G5z1λ|apud Haupt
 Claud. 5.60|carin-|catenis|Nicolaus Heinsius|1760|Γpc|apud Burmannum
@@ -1065,7 +1065,7 @@ Claud. 15.114|humeris|armis|Johannes Livineius|1581|exc. Laeti|
 Claud. 15.180|furia-|feralis|Nicolaus Heinsius|1760|F17Γ1|apud Burmannum
 Claud. 15.193|disc-/degener|decolor|Nicolaus Heinsius|1760|Ambros. Μ 9 sup. (K6)|apud Burmannum
 Claud. 15.218|saciar-/sancir-|sociarent|Nicolaus Heinsius|1760|Vat. lat. 2808 (R13)|apud Burmannum p. 810
-Claud. 15.245|fouere/fauere|uenere|Pieter Burman II|1760|Lond. Harl. 2753 (L4)|
+Claud. 15.245|fouere/fauere|uenere|Pieter Burman I|1760|Lond. Harl. 2753 (L4)|
 Claud. 15.247|-et|petissent|Theodor Birt|1892|F19P10|
 Claud. 15.277|-it|respuat|Nicolaus Heinsius|1650|Lond. Bibl. Brit. Add. 6042 (L3)|
 Claud. 15.294|etiam num|iam tunc|Johannes Camers|1510|Lond. Eger. 2627 (L1)|
@@ -1089,7 +1089,7 @@ Claud. 17.118|lim-|nimbo|Scaliger|1760|Lλ|apud Burmannum
 Claud. 17.118|lim-|nimbo|Caspar von Barth|1650|Lλ|
 Claud. 17.147|regit|gerit|Caspar von Barth|1612|Bodl. Auct. F. 2. 16 (O3)|
 Claud. 17.212|-it … sui|emergis … tui|T. W. Paul|1866|Paris. lat. 7936 (P14)|p. 9
-Claud. 17.219|rabidas/rapid-|rabies|Pieter Burman II|1760|P1μacσ|
+Claud. 17.219|rabidas/rapid-|rabies|Pieter Burman I|1760|P1μacσ|
 Claud. 17.305|uiridis|uarius|Theodor Birt|1892|Paris. lat. 8079 (P11)|marg.
 Claud. 17.323|-et|emicat|Ludwig Jeep|1876|B1F3|
 Claud. 17.323|-us|uinctu|J. M. Gesner|1759|P2acF2ac|
@@ -1130,7 +1130,7 @@ Claud. 22.171|-ferat|praeferre|Franz Buecheler|1892|F17pc|apud Birt
 Claud. 22.196|causas|caulas|Caspar von Barth|1612|Ambros. S 66 sup. (K4)|
 Claud. 22.335|tex-|traxit|Nicolaus Heinsius|1760|Lond. Burn. 166 (L11)|apud Burmannum
 Claud. 22.336|hic|his|Nicolaus Heinsius|1665|n1q|'si liceat per codices antiquos'
-Claud. 22.370|spati-|speciosa|Pieter Burman II|1760|Paris. lat. 18552 (P)|s.l.
+Claud. 22.370|spati-|speciosa|Pieter Burman I|1760|Paris. lat. 18552 (P)|s.l.
 Claud. 22.371|-um|cruentam|Gronovius|1637|Ambros. S 66 sup. (K4)|Diatribe p. 333
 Claud. 22.450|-at r./r. -ant|stabant rutuli|Gaspar Gevartius|1650|W1θac|apud Heinsium
 Claud. 23.23|quint-|quinos|Scaliger|1603|P10pc|
@@ -1167,7 +1167,7 @@ Claud. 28.624|artes|acies|Theodor Poelman|1571|Antuerp. Μ 17.1 (A2)|
 Claud. 28.651|indu-|imbuit|Scaliger|1603|b1F3vl|
 Claud. 28.659|iste|ipse|Stephanus Claverius|1602|P10S3|
 Claud. rapt. Pros. 1.46|aucto/acto|uasto|Georg Goetz|1876|Monac. 391 (M3)|PhilAnz 7 p. 143
-Claud. rapt. Pros. 1.92|i c. (et) p.|i celer i proscinde|Pieter Burman II|1760|Erlang. 626 (e2)|'miror vero non geminasse Heinsium & legisse &c.'
+Claud. rapt. Pros. 1.92|i c. (et) p.|i celer i proscinde|Pieter Burman I|1760|Erlang. 626 (e2)|'miror vero non geminasse Heinsium & legisse &c.'
 Claud. rapt. Pros. 1.147|-am|trisulco|Nicolaus Heinsius|1650|Lond. Bibl. Brit. Add. 6042 (L3)|
 Claud. rapt. Pros. 1.149|respuit/respicit|despicit|Stephanus Claverius|1602|Crac. 71 (g)|
 Claud. rapt. Pros. 1.205|-is … -is|coniferi … rami|Ludwig Jeep|1876|Parm. Palat. 2504 (Z)|
