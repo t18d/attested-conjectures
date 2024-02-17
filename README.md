@@ -138,7 +138,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (211), Nicolaus Heinsius (152), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (212), Nicolaus Heinsius (153), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1173,6 +1173,8 @@ Claud. carm. min. 17.11|erex-|arrexit|Nicolaus Heinsius|1650|Guelf. Gud. lat. 22
 Claud. carm. min. 17.12|trem-|color|Johannes Camers|1510|Laur. S. Marco 250 (F2)|
 Claud. carm. min. 17.35|-er|patri|Nicolaus Heinsius|1650|Ambros. S 66 sup. (K4)|
 Claud. carm. min. 17.42|-auit|dicabit|Nicolaus Heinsius|1650|Veron. 163 (Δ)|
+Claud. carm. min. 20.5|uario|uano|Nicolaus Heinsius|1665|Matrit. 10082 (ζ)|
+Claud. carm. min. 22.17|-is|famuli|Scaliger|1603|Ambros. S 66 sup. (K4)|
 Claud. rapt. Pros. 1.46|aucto/acto|uasto|Georg Goetz|1876|Monac. 391 (M3)|PhilAnz 7 p. 143
 Claud. rapt. Pros. 1.92|i c. (et) p.|i celer i proscinde|Pieter Burman I|1760|Erlang. 626 (e2)|'miror vero non geminasse Heinsium & legisse &c.'
 Claud. rapt. Pros. 1.147|-am|trisulco|Nicolaus Heinsius|1650|Lond. Bibl. Brit. Add. 6042 (L3)|
