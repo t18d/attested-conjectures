@@ -234,7 +234,7 @@ Anaximen. Rh. 4.4|ἴσασι/εἰδῶσι|τιμῶσι|Leonhard Spengel|1844
 Ap. Rhod. 1.74|ἦεν κτλ.|ᾖεν|Arthur Platt|1914–9|Palat. gr. 186 (V)|
 Ap. Rhod. 1.372|πρώραν|πρώειραν|Bergk|n.d.|Et.Gen.|
 Ap. Rhod. 1.749|ἀμειβό-|ἀμυνόμενοι|Jeremias Hoelzlin|1641|Laur. Plut. 32.16 (S)|
-Ap. Rhod. 1.883|-κέως|ἐνδυκὲς|Janus Rutgersius|1618|Et.Gen.|
+Ap. Rhod. 1.883|-κέως|ἐνδυκὲς|Janus Rutgersius|1618|Et.Gen.|'Rutgersius – an ugly word to my thinking' (Bywater)
 Ap. Rhod. 1.941|-τον|Ἄρκτων|Hoelzlin|1641|schLa|
 Ap. Rhod. 1.990|φράξαν|φράσσον|Fränkel|1961|P.Oxy. LXIV 4414|
 Ap. Rhod. 1.990|-ίοιο|ἀπειρεσίῃσι|Arthur Platt|1914|P.Oxy. LXIV 4414|Journ. of Phil. 33 (1914) 12–3
