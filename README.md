@@ -1371,31 +1371,31 @@ Eur. Andr. 814|μέγ᾽ ἀλγεῖ|μεταλγεῖ|Nauck|n.d.|γρΣv et i�
 Eur. Andr. 832|-λοις|πέπλους|Reiske|n.d.|Laur. 31.10 (O)|
 Eur. Andr. 962|φόβω(ι)|φόνωι|Lenting|n.d.|Hier. τάφου 36 (H)|
 Eur. Andr. 985|τε|δὲ|Frederick H. M. Blaydes|n.d.|Vatop. 36 (gV)|
-Eur. Andr. 1009|ἰὼ|ω|Aldina|n.d.|P.Oxy. XXII 2335 et P.Berol. inv. 17021|
+Eur. Andr. 1009|ἰὼ|ω|Johannes Gregoropulos|1503|P.Oxy. XXII 2335 et P.Berol. inv. 17021|
 Eur. Andr. 1079|-άθειν|ἀμυναθεῖν|Elmsley|n.d.|Hier. τάφου 36 (H)|
 Eur. Ba. 20|πρῶτον|πρώτην|Cobet|n.d.|Chr. Pat. 1595 cod. A|
 Eur. Ba. 23|πόλιν|χθόνα|Johannes Pierson|n.d.|P.Berol inv. 21235|
-Eur. Ba. 233|ὅστις|ὥς τ[ις|Aldina|n.d.|P.Oxy. LIII 3718|
+Eur. Ba. 233|ὅστις|ὥς τ[ις|Johannes Gregoropulos|1503|P.Oxy. LIII 3718|
 Eur. Ba. 406|θ᾽ ἃν|ἔνθ᾽|Schoene|n.d.|Barberin. gr. 4 (gB)|
 Eur. Ba. 468|ἀλλ᾽ ὃς|α̣λλα|Willem Canter|1571|P.Ant. I 24|
 Eur. Ba. 468|-λης|σεμελην|Willem Canter|1571|P.Ant. I 24|
-Eur. Ba. 1083|ἐστήριζε|-ιξε|Aldina|n.d.|Chr. Pat. 2259|
+Eur. Ba. 1083|ἐστήριζε|-ιξε|Johannes Gregoropulos|1503|Chr. Pat. 2259|
 Eur. Ba. 1083|σεμνοῦ|-ον|Frederick H. M. Blaydes|n.d.|P.Oxy. XIX 2223|
 Eur. Ba. 1096|κραταβ-|κραταιβόλους|Benjamin Heath|n.d.|Chr. Pat. 667|
 Eur. Ba. 1098|δ'|τ|F. H. Bothe|1802|P.Oxy. XIX 2223|
 Eur. Ba. 1100|τ' ὄχον|στοχον|Reiske|n.d.|P.Oxy. XIX 2223|
-Eur. Ba. 1102|τλῆμον|τλημων|Aldina|n.d.|P.Oxy. XIX 2223|
+Eur. Ba. 1102|τλῆμον|τλημων|Johannes Gregoropulos|1503|P.Oxy. XIX 2223|
 Eur. Ba. 1102|-ησμένος|λελημμενος|Samuel Musgrave|n.d.|P.Oxy. XIX 2223|
-Eur. Ba. 1104|-σπάρασον|α]νεσπαρασσον|Aldina|n.d.|P.Oxy. XIX 2223|
-Eur. Ba. 1132|στυγνάζων|στεναζων|Aldina|n.d.|P.Oxy. XIX 2223|
+Eur. Ba. 1104|-σπάρασον|α]νεσπαρασσον|Johannes Gregoropulos|1503|P.Oxy. XIX 2223|
+Eur. Ba. 1132|στυγνάζων|στεναζων|Johannes Gregoropulos|1503|P.Oxy. XIX 2223|
 Eur. Ba. 1133|ἀνέφερε|εφερε|Duport|n.d.|P.Oxy. XIX 2223|
 Eur. Ba. 1157|ἀίδαν|Ἀίδα|Benjamin Heath|n.d.|P.Ant. II 73|αι̣δα
 Eur. Ba. 1179|ἐμὸν ἐμὸν|ἐμὸν|Samuel Musgrave|n.d.|Plut. Crass. 33.6 (codd. Plut.)|
 Eur. Ba. 1184|τλάμων|τλᾶμ̣ον|F. H. Bothe|1802|P.Ant. II 73|
 Eur. Ba. 1285|οἰμ-|ὠιμωγμένον|Elmsley|n.d.|Orus de orthogr.|= lex. Messan., ed. Rabe, Rh. Mus. 47 (1892) 413
-Eur. Ba. 1332|ἀρμονίας|Ἁρμονίαν|Aldina|n.d.|D.P. 391 schol.|
-Eur. Ba. 1344|-μεθά|λισσόμεσθά|Aldina|n.d.|Chr. Pat. 2557 codd. pauci|
-Eur. Ba. 1345|εἴδ-|ἤιδετε|Aldina|n.d.|Et.Gen. AB etc.|
+Eur. Ba. 1332|ἀρμονίας|Ἁρμονίαν|Johannes Gregoropulos|1503|D.P. 391 schol.|
+Eur. Ba. 1344|-μεθά|λισσόμεσθά|Johannes Gregoropulos|1503|Chr. Pat. 2557 codd. pauci|
+Eur. Ba. 1345|εἴδ-|ἤιδετε|Johannes Gregoropulos|1503|Et.Gen. AB etc.|
 Eur. Ba. arg. 7|-ως|ἄλλους|F. H. Bothe|1826|Palat. gr. 287 (P)|
 Eur. El. 374|γ' ἄρα|ταρα|J. F. A. Seidler|n.d.|P.Hib. I 7|
 Eur. El. 568|-ῆς|φρονεῖς|John Jackson|1955|Lac|
@@ -1457,7 +1457,7 @@ Eur. Med. 584|σύ|σύ·|Witzschel|n.d.|ELV2|
 Eur. Med. 584|νῦν|νυν|Elmsley|n.d.|gE et Σb|
 Eur. Med. 594|-έως|βασιλεων|Elmsley|n.d.|P.Heid. 1385|
 Eur. Med. 884|τ' ἐμοὶ|τέ μοι|Janus Lascaris|n.d.|Palat. gr. 98 (Va)|
-Eur. Med. 979|ἁ δ.|δύστανος|Aldina|n.d.|Laur. 31.15 (D)|
+Eur. Med. 979|ἁ δ.|δύστανος|Johannes Gregoropulos|1503|Laur. 31.15 (D)|
 Eur. Med. 1089|κοὐκ|οὐκ|Reiske|n.d.|P.Lond.Univ.Coll. inv. s.n.|
 Eur. Med. 1094|μέν τ'|μέν γ'|Reiske|n.d.|P.Strasb. inv. WG 304–307|
 Eur. Med. 1094|μέν τ'|μέν|Porson|n.d.|Neap. Vind. gr. 17 (Nv)|
@@ -1673,7 +1673,7 @@ Eur. Ph. 1520–1|ἀεὶ|αἰεὶ|J. F. A. Seidler|n.d.|Cremon. 130 (Cr)|
 Eur. Ph. 1522–3|-οισι(ν)|λειβομένοισιν|F. H. Bothe|1803|P.Strasb. inv. WG 307|
 Eur. Ph. 1522–3|ἰαχήσω|del.|Burges|n.d.|P.Strasb. inv. WG 307|
 Eur. Ph. 1522–3|ἰαχήσω|del.|Dindorf|n.d.|P.Strasb. inv. WG 307|
-Eur. Ph. 1524|-οῖσιν|σπαραγμοῖς|Aldina|n.d.|WZ|
+Eur. Ph. 1524|-οῖσιν|σπαραγμοῖς|Johannes Gregoropulos|1503|WZ|
 Eur. Ph. 1537–8|δ. δύστανον|δεμνίοις δύστανος|Valckenaer|n.d.|Laur. 32.2 (L)|
 Eur. Ph. 1562|γ'|δ'|John Jackson|1955|Laur. 32.33 (Rf)|
 Eur. Ph. 1562|δ'|τ'|Dindorf|n.d.|Laur. 32.33 (Rf)|
@@ -1697,7 +1697,7 @@ Eur. Rh. 108|σὲ … τοὺς δὲ|σοὶ … τοῖς δὲ|Henri Estienn
 Eur. Rh. 131|μετατιθ-|μεταθέμενος|Samuel Musgrave|n.d.|Haun. 417 (Hn)|
 Eur. Rh. 325|-ταις|κυνηγέτης|Elmsley|n.d.|Escor. gr. X.1.13 (gE)|
 Eur. Rh. 398|-ων|πολεμίωι|F. H. Bothe|1826|Va1s|
-Eur. Rh. 429|πορθμεύσων/-εύσας|-εῦσαι|Aldina|n.d.|Harl. 5743 (Q)|
+Eur. Rh. 429|πορθμεύσων/-εύσας|-εῦσαι|Johannes Gregoropulos|1503|Harl. 5743 (Q)|
 Eur. Rh. 482|νῦν|νυν|Scaliger|n.d.|Athos Vatopediou 36 (gV)|
 Eur. Rh. 685|ἴστω|ἵστω|Aemilius Portus|n.d.|Σl|
 Eur. Rh. 694|χεῖρα|χέρα|Samuel Musgrave|n.d.|Haun. 417 (Hn)|
@@ -1708,7 +1708,7 @@ Eur. Supp. 1150|-ῶν|δαναϊδᾶν|Elmsley|n.d.|Triclinii emendatio 1|
 Eur. T 1.IA.2–3|ἑταῖρος δὲ δοκεῖ|ἑταῖρος. δοκεῖ δὲ|Elmsley|1821|RwZc|
 Eur. Tr. 578|ἰώ μοι μοὶ|οἴμοι|Burges|n.d.|Σ|
 Eur. Tr. 633|τ. δ'|τῶι μὲν|Burges|n.d.|Stob. Spc|
-Eur. Tr. 802|-νας|᾿Αθάνα|Aldina|n.d.|Σi|
+Eur. Tr. 802|-νας|᾿Αθάνα|Johannes Gregoropulos|1503|Σi|
 Eur. Tr. 930|ὑπεκδ-|ὑπερδράμοι|Willem Canter|1571|Tzetzae cod. Lips.|
 Eur. Tr. 931|ἐνθένδ᾽|ἔνθεν δ᾽|Tyrrell|n.d.|Harl. 5743 (q)|
 Eur. Tr. 1053|δ'|γ'|Johannes Livineius|1581–2|Haun. 417 (Wecklein)|
