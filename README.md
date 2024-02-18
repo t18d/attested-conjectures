@@ -1025,6 +1025,7 @@ Claud. 3.351|mole/amore|honore|Pieter Burman I|1760|F17pc|
 Claud. 3.354|uoto|uultu|Goodyear|1985|Paris. lat. 8082 (P2)|apud Hall
 Claud. 3.357|quies|fides|Johannes Schrader|1871|F20G5z1λ|apud Haupt
 Claud. 5.60|carin-|catenis|Nicolaus Heinsius|1760|Γpc|apud Burmannum
+Claud. 5.87|nec|ne|Gilbert Wakefield|s.xviii ex.|Brux. 5381 (Γ)|apud Hall
 Claud. 5.159|scilicet|si licet|Caspar von Barth|1612|Guelf. Gud. 220 (W1)|
 Claud. 5.357|for-|firmatque|Ludwig Jeep|1876|Paris. lat. 8082 (P2)|v.l.
 Claud. 5.380|feruid-|perfidus|Goodyear|1985|Paris. lat. 8082 (P2)|apud Hall
@@ -1175,6 +1176,7 @@ Claud. Gigant. 68|τοῖς|τοῖσι|Karl Schenkl|1863|Laur. Conv. Soppr. 164
 Claud. Gigant. 69|-ος|πυρόεντας|Hermann Köchly|1851|Laur. Conv. Soppr. 164 (F23)|
 Claud. Gigant. 70|ἔκθ-|ἔνθορε|Hermann Köchly|1851|Laur. Conv. Soppr. 164 (F23)|
 Claud. Gigant. 71|περὶ ζ.|περιζείουσα|Juan de Iriarte|1769|Laur. Conv. Soppr. 164 (F23)|
+Claud. Gigant. 75|νοῦσ-|νῆσος|Hermann Köchly|1851|Laur. Conv. Soppr. 164 (F23)|
 Claud. carm. min. 9.1|-e|memoranda|Nicolaus Heinsius|1665|Crac. 71 (g)|
 Claud. carm. min. 9.15|pinnae/pugnae|spinae|Nicolaus Heinsius|1760|cod. Buslid. Heinsii|apud Burmannum
 Claud. carm. min. 9.34|mut-|mota|Nicolaus Heinsius|1650|Paris. lat. 18552 (P)|s.l.
