@@ -1153,6 +1153,7 @@ Claud. 26.370|-uex-|reuixit|Johannes Camers|1510|F17Z|
 Claud. 26.406|-i … -i|animis … receptis|Nicolaus Heinsius|1650|gpc|
 Claud. 26.541|-ire|seruare|Theodor Birt|1892|J6ac|
 Claud. 26.583|praeclarus|praefectus|Ludwig Jeep|1876|Vat. lat. 2808 (R13)|v.l.
+Claud. 26.583|-is|gentes|Caspar von Barth|1612|Bodl. Rawl. G. 134 (O8)|
 Claud. 26.622|-i|cognatis|Scaliger|1603|Paris. lat. 18552 (P)|v.l.
 Claud. 28.6|coet-|cultu|Johannes Schrader|1871|F3vlζvl|apud Haupt
 Claud. 28.15|sint-|suntque|Nicolaus Heinsius|1760|Ppc|apud Burmannum p. 909
