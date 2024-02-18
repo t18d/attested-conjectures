@@ -138,7 +138,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (215), Nicolaus Heinsius (166), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (215), Nicolaus Heinsius (167), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1039,6 +1039,7 @@ Claud. 7.4|auge-|lucescat|Nicolaus Heinsius|1760|Bodl. Auct. F. 2. 16 (O3)|apud 
 Claud. 7.89|fat-|fastis|Ludwig Jeep|1876|L11ac|
 Claud. 7.118|-runt carmina|mouere cacumina|Gilbert Wakefield|s.xviii ex.|Paris. lat. 18552 (P)|apud Hall; v.l.
 Claud. 7.157|dil-|dirige|Johannes Camers|1510|K6acF14vl|
+Claud. 8.34|-it|obsistat|Nicolaus Heinsius|1650|Bodl. Lat. class. e 47 (O4)|'vel sine libris lego'
 Claud. 8.38|q. di(c)tat|ditat quos|Theodor Birt|1892|F17ac|
 Claud. 8.84|uul-|cultus|Nicolaus Heinsius|1760|Paris. lat. 7936 (P14)|apud Burmannum
 Claud. 8.97|-os|purpureo|Johannes Schrader|1871|Paris. lat. 8082 (P2)|apud Haupt
