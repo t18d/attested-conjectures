@@ -1218,6 +1218,7 @@ Claud. carm. min. 42.1|-is|superbi|Caspar von Barth|1612|Matrit. 10082 (ζ)|p. 4
 Claud. carm. min. 49.3|-is|molli|Nicolaus Heinsius|1650|J3ac|p. 257
 Claud. carm. min. 53.83|-us|auido|Caspar von Barth|1650|Lond. Burn. 167 (L)|p. 945
 Claud. rapt. Pros. 1.46|aucto/acto|uasto|Georg Goetz|1876|Monac. 391 (M3)|PhilAnz 7 p. 143
+Claud. rapt. Pros. 1.67|-e|illa|Pietro Odo|s.xv med.|R14mgR26mg|apud Hall
 Claud. rapt. Pros. 1.92|i c. (et) p.|i celer i proscinde|Pieter Burman I|1760|Erlang. 626 (e2)|'miror vero non geminasse Heinsium & legisse &c.'
 Claud. rapt. Pros. 1.147|-am|trisulco|Nicolaus Heinsius|1650|Lond. Bibl. Brit. Add. 6042 (L3)|
 Claud. rapt. Pros. 1.149|respuit/respicit|despicit|Stephanus Claverius|1602|Crac. 71 (g)|
