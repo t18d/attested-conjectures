@@ -51,6 +51,7 @@
         <li>Citti, V., and R. Dawe, 'Congetture ad Eschilo dalle edizioni cinquecentine', <em>Lexis</em>, 22 (2004), 249–60.</li>
         <li>Clark, Albert C., <em>Anecdota Oxoniensia</em>, x: <em>The Vetus Cluniacensis of Poggio</em> (Oxford, 1905).</li>
         <li>Clark, Albert C., <em>Anecdota Oxoniensia</em>, xi: <em>Inventa Italorum</em> (Oxford, 1909).</li>
+        <li>Claudianus, Claudius, <em>Carmina</em>, ed. John Barrie Hall (Leipzig, 1985).</li>
         <li>Demosthenes, <em>Orationes</em>, ed. S. H. Butcher and W. Rennie, 3 vols (Oxford, 1903–31).</li>
         <li>Demosthenes, <em>Orationes</em>, ed. M. R. Dilts, 4 vols (Oxford, 2002–9).</li>
         <li>Diggle, James, 'Apologies to Bothe (and Others)', in <em>Euripidea: collected essays</em> (Oxford, 1994), 518–23.</li>
@@ -66,6 +67,7 @@
         <li>Gallavotti, Carlo (ed.), <em>Theocritus quique feruntur bucolici Graeci</em> (Rome, 1993).</li>
         <li>Gerber, Douglas E. '<a href="https://doi.org/10.5169/seals-660688">Emendations in the Odes of Pindar: An Historical Analysis</a>', <em>Entretiens Hardt</em>, 31 (1984), 1–25.</li>
         <li>Grenfell, B. P., 'The Value of Papyri for the Textual Criticism of Extant Greek Authors', <em>The Journal of Hellenic Studies</em>, 39 (1919), 16–36.</li>
+        <li>Hall, J. B., <em>Prolegomena to Claudian</em> (Oxford, 1986).</li>
         <li>Havet, Louis, <em>Manuel de critique verbale appliquée aux textes latins</em> (Paris, 1911).</li>
         <li>Harpocration, <em>Lexeis of the Ten Orators</em>, ed. John J. Keaney (Amsterdam, 1991).</li>
         <li>Herodotus, <em>Historiae</em>, ed. Haiim B. Rosén, 2 vols (Leipzig, 1987–97).</li>
@@ -91,7 +93,7 @@
         <li>Luck, Georg (ed.), <em>Albii Tibulli aliorumque carmina</em> (Stuttgart, 1998).</li>
         <li>Manilius, M., <em>Astronomica</em>, ed. George P. Goold (Stuttgart, 1998).</li>
         <li>Markus, D., and G. Schwendner, 'Seneca’s Medea in Egypt (663–704)', <em>ZPE</em>, 117 (1997), 73–84.</li>
-        <li>Marshall, P. K., <em>The Manuscript Tradition of Cornelius Nepos (BICS Suppl. No. 37)</em> (Oxford, 1977), 43.</li>
+        <li>Marshall, P. K., <em>The Manuscript Tradition of Cornelius Nepos</em> (Oxford, 1977), 43.</li>
         <li>Oppianus Apameensis, <em>Cynegetica</em>, ed. Manolis Papathomopoulos (Munich, 2003).</li>
         <li>Ovidius Naso, P., <em>Heroidas Vol. I</em>, ed. Remus Giomini (Rome, 1963).</li>
         <li>Ovidius Naso, P., <em>Tristia</em>, ed. Georg Luck (Heidelberg, 1967).</li>
