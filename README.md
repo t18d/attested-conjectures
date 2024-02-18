@@ -138,7 +138,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (215), Nicolaus Heinsius (164), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (215), Nicolaus Heinsius (165), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1126,6 +1126,7 @@ Claud. 21.205|-ant/-int|paruerunt|Nicolaus Heinsius|1650|Guelf. Gud. lat. 220 (W
 Claud. 21.226|albim|Alpim|Mommsen|1892|Turic. Car. C. 134 (z1)|apud Birt
 Claud. 21.282|fre-|premerent|Nicolaus Heinsius|1760|F2pc|apud Burmannum p. 866
 Claud. 22.3|rogan-|rigentes|Eduard Arens|1894|Bodl. Auct. F. 2. 16 (O3)|v.l.
+Claud. 22.99|-at|fuerit|Nicolaus Heinsius|1650|Lond. Burn. 167 (L)|p. 145 'vel contra libros'
 Claud. 22.146|par-|prauo|Nicolaus Heinsius|1760|Antuerp. Μ 185 (A3)|apud Burmannum p. 873
 Claud. 22.171|-ferat|praeferre|Franz Buecheler|1892|F17pc|apud Birt
 Claud. 22.196|causas|caulas|Caspar von Barth|1612|Ambros. S 66 sup. (K4)|
@@ -1151,6 +1152,7 @@ Claud. 26.406|-i … -i|animis … receptis|Nicolaus Heinsius|1650|gpc|
 Claud. 26.541|-ire|seruare|Theodor Birt|1892|J6ac|
 Claud. 26.583|praeclarus|praefectus|Ludwig Jeep|1876|Vat. lat. 2808 (R13)|v.l.
 Claud. 26.622|-i|cognatis|Scaliger|1603|Paris. lat. 18552 (P)|v.l.
+Claud. 28.6|coet-|cultu|Johannes Schrader|1871|F3vlζvl|apud Haupt
 Claud. 28.15|sint-|suntque|Nicolaus Heinsius|1760|Ppc|apud Burmannum p. 909
 Claud. 28.21|recond-|retundunt|J. M. Gesner|1759|Cantab. Coll. Corp. Christi 228 (C1)|
 Claud. 28.192|aut|ut|Scaliger|1603|θac|
