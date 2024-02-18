@@ -1094,6 +1094,7 @@ Claud. 17.323|-et|emicat|Ludwig Jeep|1876|B1F3|
 Claud. 17.323|-us|uinctu|J. M. Gesner|1759|P2acF2ac|
 Claud. 17.326|chori|tholi|Nicolaus Heinsius|1760|Laur. 33.5 (F19)|apud Burmannum p. 827
 Claud. 18.25|quantum|quonam|Nicolaus Heinsius|1760|C1λ|apud Burmannum p. 828
+Claud. 18.111|corr-|horruerat|Pieter Burman I|1760|O7ac|
 Claud. 18.141|ri-|nisu|Nicolaus Heinsius|1760|Rac|apud Burmannum
 Claud. 18.156|thalamis/stabulis|tabulis|Nicolaus Heinsius|1650|Lond. Burn. 166 (L11)|
 Claud. 18.172|-unt/ent|possint|Nicolaus Heinsius|1760|Laur. S. Marco 250 (F2)|apud Burmannum p. 832; s.l.
