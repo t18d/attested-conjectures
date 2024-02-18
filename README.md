@@ -1168,6 +1168,13 @@ Claud. Gigant. 18|ῥιφθ-|ῥιφεῖσα|Hermann Köchly|1851|Laur. Conv. S
 Claud. Gigant. 19|γίνεται [...]|γίνετο πᾶσα|Hermann Köchly|1851|Laur. Conv. Soppr. 164 (F23)|
 Claud. Gigant. 26|-ε|τάνυσεν|Hermann Köchly|1851|Laur. Conv. Soppr. 164 (F23)|
 Claud. Gigant. 32|νιέρος|Νηρέος|Juan de Iriarte|1769|F23 mg.|p. 219
+Claud. Gigant. 59|πρόῤῥειζ-|πρόρριζον|Juan de Iriarte|1769|Laur. Conv. Soppr. 164 (F23)|
+Claud. Gigant. 64|φοίν-|φόνιον|C. Schenkl|1863|Laur. Conv. Soppr. 164 (F23)|
+Claud. Gigant. 68|-ὸς|πυροῖς|A. Ludwich|1897|Laur. Conv. Soppr. 164 (F23)|
+Claud. Gigant. 68|τοῖς|τοῖσι|C. Schenkl|1863|Laur. Conv. Soppr. 164 (F23)|
+Claud. Gigant. 69|-ος|πυρόεντας|Hermann Köchly|1851|Laur. Conv. Soppr. 164 (F23)|
+Claud. Gigant. 70|ἔκθ-|ἔνθορε|Hermann Köchly|1851|Laur. Conv. Soppr. 164 (F23)|
+Claud. Gigant. 71|περὶ ζ.|περιζείουσα|Juan de Iriarte|1769|Laur. Conv. Soppr. 164 (F23)|
 Claud. carm. min. 9.1|-e|memoranda|Nicolaus Heinsius|1665|Crac. 71 (g)|
 Claud. carm. min. 9.15|pinnae/pugnae|spinae|Nicolaus Heinsius|1760|cod. Buslid. Heinsii|apud Burmannum
 Claud. carm. min. 9.34|mut-|mota|Nicolaus Heinsius|1650|Paris. lat. 18552 (P)|s.l.
