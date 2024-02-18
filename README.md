@@ -138,7 +138,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (216), Nicolaus Heinsius (163), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (215), Nicolaus Heinsius (163), Bentley (88), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1390,7 +1390,6 @@ Eur. Ba. 1104|-σπάρασον|α]νεσπαρασσον|Aldina|n.d.|P.Oxy. XIX
 Eur. Ba. 1132|στυγνάζων|στεναζων|Aldina|n.d.|P.Oxy. XIX 2223|
 Eur. Ba. 1133|ἀνέφερε|εφερε|Duport|n.d.|P.Oxy. XIX 2223|
 Eur. Ba. 1157|ἀίδαν|Ἀίδα|Benjamin Heath|n.d.|P.Ant. II 73|αι̣δα
-Eur. Ba. 1161|-ατο|ἐξεπράξατε|Scaliger|n.d.|Chr. Pat. 1050|
 Eur. Ba. 1179|ἐμὸν ἐμὸν|ἐμὸν|Samuel Musgrave|n.d.|Plut. Crass. 33.6 (codd. Plut.)|
 Eur. Ba. 1184|τλάμων|τλᾶμ̣ον|F. H. Bothe|1802|P.Ant. II 73|
 Eur. Ba. 1285|οἰμ-|ὠιμωγμένον|Elmsley|n.d.|Orus de orthogr.|= lex. Messan., ed. Rabe, Rh. Mus. 47 (1892) 413
