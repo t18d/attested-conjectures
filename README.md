@@ -1798,6 +1798,7 @@ Hom. Il. 16.145|-ύμεν|ζευγνῦμεν|Joshua Barnes|1711|P.Oxy. XLVII 33
 Hom. Il. 16.389|τῶν|τοῦ|Walter Leaf|1888|recc.|
 Hom. Il. 17.89|ἀσβέστωι|ἀσβέτωι|A. Ludwich|1916|P.Berol. inv. 16007|Rh. Mus. 71 (1916) 211
 Hom. Il. 17.435|-κει|ἑστήκηι|Hermann|1813|P.Ross.Georg. I 4|Serm. Hom. diss. II
+Hom. Il. 18.144|υἱεῖ|υἱέ ̓|Alois Rzach|1887|recc.|
 Hom. Il. 23.198|ὠκέα δ'|ὦκα δὲ|Bentley|1730s|P.Grenf. II 4|
 Hom. Il. 23.535|δ᾽ ἐν ᾿Αργείοις|δ]᾽ εν Αχαιοισιν|Nauck|1877|BKT V/I 5|
 Hom. Il. 24.192|κεχάνδει|κεχ]όνδει|August Fick|1886|P.Lond.Lit. 27|
