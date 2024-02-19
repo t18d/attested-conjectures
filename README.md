@@ -142,7 +142,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (215), Nicolaus Heinsius (167), Bentley (96), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (215), Nicolaus Heinsius (167), Bentley (96), Markland (81), Valckenaer (72), Porson (63), Madvig (62), Beatus Rhenanus (59), Reiske (54) and Denys Lambin (54).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3037,17 +3037,21 @@ Soph. Aj. 836|δ'|θ'|Livineius|1581–2|Bos. q. 7 (J)|
 Soph. Aj. 842|ἐκγόνων|ἐκγόνων τ’|Markland|s.xviii med.|MSS|
 Soph. Aj. 842|ἐκγόνων|ἐκγόνων τ’|Samuel Musgrave|1800|MSS|
 Soph. Aj. 882|Ὀλυμπιάδων|-αδᾶν|Elmsley|n.d.|Matrit. gr. 4677 (N)|
+Soph. Aj. 956|ὁ π.|πολύτλας|Porson|n.d.|Ambros. E. 1035 sup. (Wa)|
 Soph. Aj. 964|τἀγαθὸν ἐ.|τἀγάθ ̓ ἐν|Reiske|1753|Bos. q. 7 (J)|
 Soph. Aj. 1051|ὑβρίσῃ|οὔκουν|Valckenaer|1743–6|Vat. gr. 1333 (Zc)|
 Soph. Aj. 1065|παραλίοις|-ος|Naber|n.d.|Vat. gr. 2291 (R)|
 Soph. Aj. 1098|τὸν|τόνδ’|Markland|s.xviii med.|Laur. 32. 9 (L)|
 Soph. Aj. 1101|ἤγετ ̓/ἡγεῖτ ̓|ἤγαγ ̓|Elmsley|n.d.|Palat. gr. 40 (P)|
+Soph. Aj. 1117|ὡς|ἔστ'|Reiske|1753|Urb. gr. 141 (S)|
+Soph. Aj. 1205|ἀπέπαυσεν|-σε μ ̓|Frederick H. M. Blaydes|n.d.|Urb. gr. 141 (S)|
 Soph. Aj. 1237|ἔχειν|ποῖ|Valckenaer|pre-1775|cod. rec.|
 Soph. Aj. 1243|ἤρεσκεν|ἤρκεσε|Johannes Pierson|s.xviii med.|MS|
 Soph. Aj. 1245|λελειμ-|λελημμένοι|Pearson|n.d.|Laur. 32.40 (H)|
 Soph. Aj. 1274|οὗτος|ἐντός|Markland|s.xviii med.|a|
 Soph. Aj. 1283|αὐτὸς|αὑ-|G. Wolff|1858–65|Vindob. suppl. gr. 71 (Xs)|
 Soph. Aj. 1368|σόν|σόν γ'|Porson|n.d.|Paris. gr. 2735 (C)|
+Soph. Aj. 1371|τῆσ-|τήνδε|F. H. Bothe|n.d.|Paris. gr. 2735 (C)|
 Soph. Aj. 1379|-ον|ὅσων|Porson|n.d.|Vat. gr. 1333 (Zc)|s.l.
 Soph. Ant. 18|ᾔδην|ᾔδη|Johannes Pierson|s.xviii med.|Zcac|
 Soph. Ant. 57|ἐπ ̓ ἀλλήλοιν|ἐπαλλήλοιν|Hermann|n.d.|KSUZf|
