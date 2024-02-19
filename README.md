@@ -3029,14 +3029,13 @@ Soph. Aj. 560|ὑβρίσῃ|ὑβρίσει|Valckenaer|1743–6|MS|
 Soph. Aj. 625|δὲ|τε|Hermann|1848|Sud. s.v. ἔντροφος|ed. ter.
 Soph. Aj. 687|θ'|δ'|Frederick H. M. Blaydes|n.d.|Laur. 28.25 (F)|
 Soph. Aj. 689|ἅμα|(ὑμῶν) μετὰ|Naber|n.d.|Laur. 31.10 (K)|γρ
-Soph. Aj. 727|ὡς|ὥς τ ̓|Samuel Musgrave|s.xviii med.|KF|
+Soph. Aj. 727|ὡς|ὥς τ ̓|Samuel Musgrave|1800|KF|
 Soph. Aj. 742|-ρήκ-|παρείκειν|Reiske|1753|Laur. 32.40 (H)|
 Soph. Aj. 756|τῇδέ θ ̓|τῇδ' ἐθ’|Markland|s.xviii med.|MS|
 Soph. Aj. 773|τότ'/ὅδ'|τόδ'|Johannes Pierson|s.xviii med.|Laur. 32.40 (H)|
-Soph. Aj. 773|τότ'/ὅδ'|τόδ'|Samuel Musgrave|s.xviii med.|Laur. 32.40 (H)|
 Soph. Aj. 836|δ'|θ'|Livineius|1581–2|Bos. q. 7 (J)|
 Soph. Aj. 842|ἐκγόνων|ἐκγόνων τ’|Markland|s.xviii med.|MSS|
-Soph. Aj. 842|ἐκγόνων|ἐκγόνων τ’|Samuel Musgrave|s.xviii med.|MSS|
+Soph. Aj. 842|ἐκγόνων|ἐκγόνων τ’|Samuel Musgrave|1800|MSS|
 Soph. Aj. 882|Ὀλυμπιάδων|-αδᾶν|Elmsley|n.d.|Matrit. gr. 4677 (N)|
 Soph. Aj. 964|τἀγαθὸν ἐ.|τἀγάθ ̓ ἐν|Reiske|1753|Bos. q. 7 (J)|
 Soph. Aj. 1051|ὑβρίσῃ|οὔκουν|Valckenaer|1743–6|Vat. gr. 1333 (Zc)|
@@ -3054,7 +3053,7 @@ Soph. Ant. 18|ᾔδην|ᾔδη|Johannes Pierson|s.xviii med.|Zcac|
 Soph. Ant. 57|ἐπ ̓ ἀλλήλοιν|ἐπαλλήλοιν|Hermann|n.d.|KSUZf|
 Soph. Ant. 70|ἐμοῦ|ἐμοί|Meineke|1861|Laur. 31.10 (K)|
 Soph. Ant. 76|σοί|σύ|Valckenaer|1746|Vat. gr. 57 s.l.|
-Soph. Ant. 108|ὀξυτόρῳ/-τέρῳ|-πόρῳ|Samuel Musgrave|s.xviii med.|Urb. gr. 141 (S)|
+Soph. Ant. 108|ὀξυτόρῳ/-τέρῳ|-πόρῳ|Samuel Musgrave|1800|Urb. gr. 141 (S)|
 Soph. Ant. 211|Κρέον vel Κρέων|ποεῖν|F. J. Martin|n.d.|Laur. 31.10 (K)|in marg.
 Soph. Ant. 287|νόμ-|δόμους|Henrik van Herwerden|n.d.|Vat. gr. 57|
 Soph. Ant. 314|-ωσμέ-|σεσωμένους|Wecklein|n.d.|Marc. gr. 470 (Ta)|
@@ -3073,7 +3072,7 @@ Soph. Ant. 567|μέν σοι|μέντοι|Brunck|1786–9|Urb. gr. 141 (S)|
 Soph. Ant. 573|γε|με|Frederick H. M. Blaydes|n.d.|Zf in linea|
 Soph. Ant. 592|βρέμουσι δ'|βρέμουσιν|Johannes Pierson|s.xviii med.|Palat. gr. 287 (Zo)|
 Soph. Ant. 599|ὑπὲρ|ὅπερ|Markland|s.xviii med.|Laur. 31.10 (K)|s.l. (ex sch.)
-Soph. Ant. 687|χἀτέρῳ|χἀτέρᾳ|Samuel Musgrave|s.xviii med.|Laur. 31.10 (K)|in linea
+Soph. Ant. 687|χἀτέρῳ|χἀτέρᾳ|Samuel Musgrave|1800|Laur. 31.10 (K)|in linea
 Soph. Ant. 687|χἀτέρῳ|χἀτέρως|Hermann|n.d.|Vat. gr. 2291 (R)|
 Soph. Ant. 695|ἀπ’|ἐπ’|Johannes Pierson|s.xviii med.|Paris. gr. 2712 (A)|
 Soph. Ant. 828|-ῳ|ὄμβρος|Gleditsch|n.d.|Vat. gr. 1333 (Zc)|s.l.
