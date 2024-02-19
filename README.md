@@ -142,7 +142,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (215), Nicolaus Heinsius (167), Bentley (96), Markland (81), Valckenaer (72), Porson (63), Madvig (62), Beatus Rhenanus (59), Reiske (54) and Denys Lambin (54).</p>
+<p>The top 10 critics are Scaliger (215), Nicolaus Heinsius (167), Bentley (96), Markland (80), Valckenaer (72), Porson (63), Madvig (62), Beatus Rhenanus (59), Reiske (54) and Denys Lambin (54).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3096,10 +3096,11 @@ Soph. Ant. 1337|προσεύχου|κατ-|Benedict|n.d.|Vat. gr. 1333 (Zc)|
 Soph. Ant. 1337–8|Ἄγγελος|choro trib.|Philipp Buttmann|1822?|Ambr. C. 24 sup. et Monac. gr. 500|
 Soph. Ant. 1350|μηδὲν|μηδέν’|Markland|s.xviii med.|MSS|
 Soph. El. 21|ξυνάπτετον|-έον|Jonathan Toup|s.xviii med.|Paris. gr. 2884 (Ζf)|
+Soph. El. 35|τοιαῦθ ̓ ὁ|τοιαῦτα|Blomfield|n.d.|Voss. gr. Q. 6 (O)|s.l.
 Soph. El. 87|ἰσόμοιρ ̓|-μοιρος|Porson|n.d.|p|
 Soph. El. 139|-οις|γόοισιν|Livineius|1581–2|Marc. gr. 468 (V)|s.l.
 Soph. El. 160|ὄλβιος|-ον|Brunck|1786|Hac|
-Soph. El. 187|τοκ-|τεκέων|Meineke|n.d.|p|
+Soph. El. 187|τοκ-|τεκέων|Meineke|n.d.|Vindob. phil. gr. 281|
 Soph. El. 219|τὰ δὲ|τάδε|John Jackson|1955|pD|
 Soph. El. 305|μου|μοι|Thomas Magister|n.d.|Ambros. E. 1035 sup. (Wa)|
 Soph. El. 436|-θα|ἔνθεν|Meineke|n.d.|t|
@@ -3113,18 +3114,19 @@ Soph. El. 653|εὐημεροῦσαν|-σα|Erfurdt|1802–25|Laur. 32.40 (H)|
 Soph. El. 653|τέκνων|-οις|Benedict|n.d.|Vindob. phil. gr. 161 (Xr)|s.l.
 Soph. El. 689|τοιοῦδ'|τοιάδ'|Brunck|1786|Marc. gr. 616 (Zr)|
 Soph. El. 710|κλήροις|-ους|Wunder|1831|Paris. gr. 2735 (C)|
-Soph. El. 758|δειλαίας σποδοῦ|-αν -όν|F. Neue|1831|p|supra lineam
+Soph. El. 754|-έθοντες|κατασχεθόντες|Elmsley||Nac|
+Soph. El. 758|δειλαίας σποδοῦ|-αν -όν|F. Neue|1831|p|s.l.
 Soph. El. 762|οἵπερ|ὥσπερ|J. A. Hartung|1850–1|Laur. Conv. Soppr. 41|
 Soph. El. 819|ἄφιλος|-ον|Monk|n.d.|Vindob. phil. gr. 281|
 Soph. El. 876|οὐκ|οὐκέτ ̓|B. Thiersch|n.d.|p|
-Soph. El. 941|ἔσθ ̓ ὅδ ̓|ἐς τόδ ̓|Haupt|n.d.|p|
+Soph. El. 941|ἔσθ ̓ ὅδ ̓|ἐς τόδ ̓|Haupt|n.d.|CHV|
 Soph. El. 952||γ’|Johannes Pierson|s.xviii med.|Paris. gr. 2820|
 Soph. El. 957|σε … μ'|με … σ'|Frederick H. M. Blaydes|n.d.|p|
+Soph. El. 960|-ηι|ἐστερημένην|Elmsley||O1pc|
 Soph. El. 995|ποτ' ἐμβλέψασα|ποτε βλέψασα|Henrik van Herwerden|n.d.|P.Oxy IV 693 et Marc. gr. 616 (Zr)|Ludwig Doederlein?
 Soph. El. 998|ἔλαττον|ἔλαϲϲον|Brunck|1786|P.Oxy IV 693|
 Soph. El. 1029|μάθῃς|πάθῃς|Johannes Pierson|s.xviii med.|Palat. gr. 40 (P) et a|
 Soph. El. 1044||ποήσεις|Valckenaer|pre-1775|MSS|
-Soph. El. 1127|om.|σ’|Markland|s.xviii med.|Matrit. gr. 4677 (N)|gl.
 Soph. El. 1139|om.|σ’|Markland|s.xviii med.|p|
 Soph. El. 1226|ἔχεις|ἔχοις|Valckenaer|pre-1775|Laur. 32. 9 (L)|
 Soph. El. 1246|ἐνέβαλες|ὑπ-|Frederick H. M. Blaydes|n.d.|Vat. gr. 40|
