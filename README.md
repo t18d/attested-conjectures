@@ -3025,12 +3025,14 @@ Soph. Aj. 467|μόνος μόνοις|μόνος μόνῳ|Mekler|1885|Cac|
 Soph. Aj. 477|βροτὸν|-ῶν|C. E. Palmer|1878|Stob. cod. Aac|
 Soph. Aj. 503|οἵας λατρείας|οἵαν -αν|Frederick H. M. Blaydes|n.d.|p|
 Soph. Aj. 560|ὑβρίσῃ|ὑβρίσει|Valckenaer|1743–6|MS|
+Soph. Aj. 625|δὲ|τε|Hermann|1848|Sud. s.v. ἔντροφος|ed. ter.
 Soph. Aj. 687|θ'|δ'|Frederick H. M. Blaydes|n.d.|Laur. 28.25 (F)|
 Soph. Aj. 727|ὡς|ὥς τ ̓|Samuel Musgrave|s.xviii med.|KF|
 Soph. Aj. 742|-ρήκ-|παρείκειν|Reiske|1753|Laur. 32.40 (H)|
 Soph. Aj. 756|τῇδέ θ ̓|τῇδ' ἐθ’|Markland|s.xviii med.|MS|
 Soph. Aj. 773|τότ'/ὅδ'|τόδ'|Johannes Pierson|s.xviii med.|Laur. 32.40 (H)|
 Soph. Aj. 773|τότ'/ὅδ'|τόδ'|Samuel Musgrave|s.xviii med.|Laur. 32.40 (H)|
+Soph. Aj. 836|δ'|θ'|Livineius|1581–2|Bos. q. 7 (J)|
 Soph. Aj. 842|ἐκγόνων|ἐκγόνων τ’|Markland|s.xviii med.|MSS|
 Soph. Aj. 842|ἐκγόνων|ἐκγόνων τ’|Samuel Musgrave|s.xviii med.|MSS|
 Soph. Aj. 882|Ὀλυμπιάδων|-αδᾶν|Elmsley|n.d.|Matrit. gr. 4677 (N)|
@@ -3090,6 +3092,7 @@ Soph. Ant. 1337–8|Ἄγγελος|choro trib.|Philipp Buttmann|1822?|Ambr. C. 
 Soph. Ant. 1350|μηδὲν|μηδέν’|Markland|s.xviii med.|MSS|
 Soph. El. 21|ξυνάπτετον|-έον|Jonathan Toup|s.xviii med.|Paris. gr. 2884 (Ζf)|
 Soph. El. 87|ἰσόμοιρ ̓|-μοιρος|Porson|n.d.|p|
+Soph. El. 139|-οις|γόοισιν|Livineius|1581–2|Marc. gr. 468 (V)|s.l.
 Soph. El. 160|ὄλβιος|-ον|Brunck|1786–9|Hac|
 Soph. El. 187|τοκ-|τεκέων|Meineke|n.d.|p|
 Soph. El. 219|τὰ δὲ|τάδε|John Jackson|1955|pD|
