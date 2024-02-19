@@ -1823,6 +1823,7 @@ Hom. Od. 10.10|αὐλῆ(ι)|αὐδῆι|G. W. Nitzsch|1826–40|P.Oxy. XLIX 3
 Hom. Od. 10.19|δῶκε δέ μοι ἐκδ-|δῶκέ μοι ἐκδείρας|J. H. Voss|1838|P. Oxy. XLIX 3441|
 Hom. Od. 10.385|λύσασθ’|λῦσαί θ’|Philipp Buttmann|n.d.|Sext. Math. 1.295|
 Hom. Od. 11.393|ἔτ’ ἦν|εην|Nauck|1874|P. CtYBR inv. 5128|
+Hom. Od. 11.580|ἥλκησε|ἕλκυσσε|Nauck|1874|d|
 Hom. Od. 22.258|-κει|βεβλήκειν|Bekker|1843|P.Ryl. I 53|
 Hom. Od. 23.188|-κται|τέτυκτο|K. H. F. Grashof|1846–52|P.Ryl. I 53|
 Hom. Od. 23.192|ὄφρ’ ἐτέλεσσα|οφρα τελεσ[σα|Bekker|1858|P.Oxy. III 448|
