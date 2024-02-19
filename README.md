@@ -3125,7 +3125,7 @@ Soph. El. 941|ἔσθ ̓ ὅδ ̓|ἐς τόδ ̓|Haupt|n.d.|CHV|
 Soph. El. 952||γ’|Johannes Pierson|s.xviii med.|Paris. gr. 2820|
 Soph. El. 957|σε … μ'|με … σ'|Frederick H. M. Blaydes|n.d.|p|
 Soph. El. 960|-ηι|ἐστερημένην|Elmsley||O1pc|
-Soph. El. 995|ποτ' ἐμβλέψασα|ποτε βλέψασα|Henrik van Herwerden|n.d.|P.Oxy IV 693 et Marc. gr. 616 (Zr)|Ludwig Doederlein?
+Soph. El. 995|ποτ' ἐμβλέψασα|ποτε βλέψασα|Henrik van Herwerden|1868|P.Oxy IV 693 et Marc. gr. 616 (Zr)|p. 12
 Soph. El. 998|ἔλαττον|ἔλαϲϲον|Brunck|1786|P.Oxy IV 693|
 Soph. El. 1029|μάθῃς|πάθῃς|Johannes Pierson|s.xviii med.|Palat. gr. 40 (P) et a|
 Soph. El. 1044||ποήσεις|Valckenaer|pre-1775|MSS|
