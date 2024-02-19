@@ -3056,9 +3056,10 @@ Soph. Aj. 1379|-ον|ὅσων|Porson|n.d.|Vat. gr. 1333 (Zc)|s.l.
 Soph. Ant. 18|ᾔδην|ᾔδη|Johannes Pierson|s.xviii med.|Zcac|
 Soph. Ant. 57|ἐπ ̓ ἀλλήλοιν|ἐπαλλήλοιν|Hermann|n.d.|KSUZf|
 Soph. Ant. 70|ἐμοῦ|ἐμοί|Meineke|1861|Laur. 31.10 (K)|
-Soph. Ant. 76|σοί|σύ|Valckenaer|1746|Vat. gr. 57 s.l.|
+Soph. Ant. 76|σοί|σύ|Valckenaer|1746|Vat. gr. 57|s.l.
 Soph. Ant. 108|ὀξυτόρῳ/-τέρῳ|-πόρῳ|Samuel Musgrave|1800|Urb. gr. 141 (S)|
-Soph. Ant. 211|Κρέον vel Κρέων|ποεῖν|F. J. Martin|n.d.|Laur. 31.10 (K)|in marg.
+Soph. Ant. 202|ἄγ-|ἔχειν|Pallis|n.d.|Laur. 31.10 (K)|
+Soph. Ant. 211|Κρέον vel Κρέων|ποεῖν|F. J. Martin|n.d.|Laur. 31.10 (K)|marg.
 Soph. Ant. 287|νόμ-|δόμους|Henrik van Herwerden|n.d.|Vat. gr. 57|
 Soph. Ant. 314|-ωσμέ-|σεσωμένους|Wecklein|n.d.|Marc. gr. 470 (Ta)|
 Soph. Ant. 342|κουφονέων|κουφονόων|Johannes Pierson|s.xviii med.|Λac et S|
