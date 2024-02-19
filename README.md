@@ -141,7 +141,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (215), Nicolaus Heinsius (167), Bentley (95), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (215), Nicolaus Heinsius (167), Bentley (96), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1817,6 +1817,8 @@ Hom. Od. 8.74|-ης|οἴμη|Bentley|1894|Palat. 45|
 Hom. Od. 8.106 schol.|εὐφύ-|ἐν φύλλοισιν|Joshua Barnes|1711|Marc. 613|Homeri Odyssea p. 171
 Hom. Od. 8.312|ὄφελλ-|ὄφειλον|Nauck|1874|C L7 R4 (a)|
 Hom. Od. 8.435|τ. ἵστασαν|στῆσαν τρίποδ’|K. H. F. Grashof|1846–52|Ho N|
+Hom. Od. 9.138|εἰσόκε ναυτέων|-κεν αὖτε|Bentley|1894|d q|
+Hom. Od. 9.393|-ρου γε κ.|σιδήροιο κράτος|Nauck|1874|Venet. cl. ix num. 29 (U8)|
 Hom. Od. 10.10|αὐλῆ(ι)|αὐδῆι|G. W. Nitzsch|1826–40|P.Oxy. XLIX 3441|αυδη[]
 Hom. Od. 10.19|δῶκε δέ μοι ἐκδ-|δῶκέ μοι ἐκδείρας|J. H. Voss|1838|P. Oxy. XLIX 3441|
 Hom. Od. 11.393|ἔτ’ ἦν|εην|Nauck|1874|P. CtYBR inv. 5128|
