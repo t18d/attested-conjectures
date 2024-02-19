@@ -2485,7 +2485,7 @@ Pi. P. 3.166 schol.|ἐν κῷ|ἐν Ἴκῳ|Brodaeus|n.d.|DEGQ|Epigr. Gr. 154
 Pi. P. 6.14|-οι/-ος|τυπτόμενον|Dawes|n.d.|P.Oxy. LXXV 5039|
 Pi. Pae. 9.4|ἰσχὺν πτανὸν (ἀν)δράσιν|ἰσχύν τ'ἀνδράσι(ν)|Blass|n.d.|P.Oxy. V 841|
 Pl. Chrm. 173b|(μὴ) ὑγιέσιν|η υ̣γιεϲ̣[ιν|L. F. Heindorf|1802–10|P.Oxy. LXXVI 5082|
-Pl. Crit. 48e|πείσαι κτλ.|πείσας|Philip Buttmann|1830|Vat. gr. 225 (V)|
+Pl. Crit. 48e|πείσαι κτλ.|πείσας|Philipp Buttmann|1830|Vat. gr. 225 (V)|
 Pl. Grg. 473b|Polo|ἴσως Socrati tribuunt|van Prinsterer||BF|
 Pl. Grg. 498b|-ον|μόνοι|R. B. Hirschig|1856|Vindob. suppl. phil. gr. 39 (F)|
 Pl. Grg. 520e|-εύειν|συμβουλεύσειν|Cobet||Vindob. suppl. phil. gr. 39 (F)|
@@ -3081,7 +3081,7 @@ Soph. Ant. 1236|μέσσον/μέσον/ἐς|ἐν|Wecklein|n.d.|SZot|
 Soph. Ant. 1237|παρθένῳ|-ον|Brunck|1786–9|Paris. gr. 2884 (Ζf)|
 Soph. Ant. 1238|ἐκβάλλει|ἐμβάλλει|Markland|s.xviii med.|Berol. Phillips 1588|
 Soph. Ant. 1337|προσεύχου|κατ-|Benedict|n.d.|Vat. gr. 1333 (Zc)|
-Soph. Ant. 1337–8|Ἄγγελος|choro trib.|Philip Buttmann|1822?|Ambr. C. 24 sup. et Monac. gr. 500|
+Soph. Ant. 1337–8|Ἄγγελος|choro trib.|Philipp Buttmann|1822?|Ambr. C. 24 sup. et Monac. gr. 500|
 Soph. Ant. 1350|μηδὲν|μηδέν’|Markland|s.xviii med.|MSS|
 Soph. El. 21|ξυνάπτετον|-έον|Jonathan Toup|s.xviii med.|Paris. gr. 2884 (Ζf)|
 Soph. El. 87|ἰσόμοιρ ̓|-μοιρος|Porson|n.d.|p|
