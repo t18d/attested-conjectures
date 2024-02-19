@@ -73,6 +73,7 @@
         <li>Herodotus, <em>Historiae</em>, ed. Haiim B. Rosén, 2 vols (Leipzig, 1987–97).</li>
         <li>Herodotus, <em>Historiae</em>, ed. N. G. Wilson, 2 vols (Oxford, 2015).</li>
         <li>Homerus, <em>Ilias</em>, ed. Martin L. West, 2 vols (Munich, 1998–2000).</li>
+        <li>Homerus, <em>Ilias</em>, ed. Helmut van Thiel (Hildesheim, 2010).</li>
         <li>Homerus, <em>Odyssea</em>, ed. Martin L. West (Berlin, 2017).</li>
         <li>Horatius Flaccus, Q., <em>Opera</em>, i: <em>Carminum libri IIII, epodon liber, Carmen Saeculare</em>, ed. Otto Keller (Leipzig, 1899).</li>
         <li>Iuvenalis, D. Iunius, <em>Saturae sedecim</em>, ed. James Willis (Stuttgart, 1997).</li>
