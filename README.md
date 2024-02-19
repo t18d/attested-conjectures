@@ -3207,7 +3207,7 @@ Soph. OT 1142|νῦν|νυν|Frederick H. M. Blaydes|n.d.|t|
 Soph. OT 1153|μ'|γ'|Frederick H. M. Blaydes|n.d.|Palat. gr. 40 (P)|
 Soph. OT 1172|κάλλιστ'|μάλιστ'|Nauck|n.d.|p|
 Soph. OT 1197|-σας τ.|ἐκράτησε τοῦ|Hermann|n.d.|Ambros. L. 39 sup.|
-Soph. OT 1217|om.|alterum σε|Wunder|n.d.|Voss. gr. Q. 6 (O)|
+Soph. OT 1217|om.|alterum σε|Eduard Wunder|1824|Voss. gr. Q. 6 (O)|
 Soph. OT 1232|ἤδειμεν|ἤδεμεν|Elmsley|n.d.|Vat. gr. 1333 (Zc)|
 Soph. OT 1245|κάλει|καλεῖ|Johannes Pierson|s.xviii med.|Ambros. G 56 sup.|
 Soph. OT 1255|φοιτᾷ|φοίτα|Frederick H. M. Blaydes|n.d.|p|
@@ -3219,7 +3219,7 @@ Soph. OT 1320|φον-|φρονεῖν|Bergk|n.d.|a|
 Soph. OT 1453|ζῶντε|-τι|Johannes Pierson|s.xviii med.|Vat. gr. 904 (Pa)|
 Soph. OT 1466|αἷν|ταῖν|Benjamin Heath|1762|Marc. gr. 616 (Zr)|
 Soph. OT 1474|ἐγγόνοιν|ἐκγόνοιν|Valckenaer|1743–6|Paris. gr. 2787 (Zn) et Marc. gr. 472 (Jebb)|
-Soph. OT 1477|ἣ σ' εἶχεν κτλ.|ἥ σ' ἔχει|Wunder|1831|Laur. 32.2 (Zg)|
+Soph. OT 1477|ἣ σ' εἶχεν κτλ.|ἥ σ' ἔχει|Eduard Wunder|1831|Laur. 32.2 (Zg)|
 Soph. Phil. 30|κυρῇ|κυρεῖ|G. H. Schaefer|n.d.|Gac|
 Soph. Phil. 81|κτῆμα|χρῆμα|Tournier|n.d.|Laur. 31.10 (K)|
 Soph. Phil. 256|που|πω|Markland|s.xviii med.|Marc. gr. 468 (V)|
@@ -3229,7 +3229,7 @@ Soph. Phil. 306|ἀνθρώπων|-ῷ|Frederick H. M. Blaydes|n.d.|Paris. gr. 2
 Soph. Phil. 361|πρὸς φίλους|προσφιλῶς|F. H. Bothe|n.d.|Vat. gr. 2291 (R)|
 Soph. Phil. 481|-η|ὅποι|Gilbert Wakefield|1794|KZo|
 Soph. Phil. 496|πέμψαντα|πλεύσαντα|Frederick H. M. Blaydes|n.d.|Sγρ|
-Soph. Phil. 496|-οις|δόμους|Wunder|n.d.|Paris. suppl. gr. 109 (Q)|
+Soph. Phil. 496|-οις|δόμους|Philipp Buttmann|1822|Paris. suppl. gr. 109 (Q)|p. 110
 Soph. Phil. 510| ̓Ατρείδας| ̓Ατρείδας ἔχθεις|Bergk|n.d.|Vat. gr. 2291 (R)|
 Soph. Phil. 524|γέ μ ̓|γ ̓ ἔμ ̓|Brunck|1786–9|Urb. gr. 141 (S)|
 Soph. Phil. 588|μηδέν'|μηδὲν|Linwood|n.d.|Palat. gr. 287 (Zo)|
