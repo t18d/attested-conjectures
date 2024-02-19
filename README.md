@@ -141,7 +141,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (215), Nicolaus Heinsius (167), Bentley (91), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
+<p>The top 10 critics are Scaliger (215), Nicolaus Heinsius (167), Bentley (93), Markland (81), Valckenaer (72), Porson (62), Madvig (62), Beatus Rhenanus (59), Denys Lambin (54) and Reiske (53).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1804,9 +1804,12 @@ Hom. Il. 23.535|δ᾽ ἐν ᾿Αργείοις|δ]᾽ εν Αχαιοισιν|N
 Hom. Il. 24.192|κεχάνδει|κεχ]όνδει|August Fick|1886|P.Lond.Lit. 27|
 Hom. Od. 1.23|-ας|Αἰθίοπες|Bentley|1894|Str. 6.30 etc.|J. Phil. 22
 Hom. Od. 1.70|ὅου|ὅο|Philipp Buttmann|n.d.|Heidelb. Palat. gr. 45 (P)|a. c.
+Hom. Od. 1.112|προτίθεντο, ἰδὲ|τ', ἠδὲ|Bentley|1894|CR10 (Leaf)|
 Hom. Od. 2.247|ἑὸν|(δώμαθ’) ἑὰ|Bentley|1894|Vat. 1627 (R7)|
+Hom. Od. 4.775|-ας|πάντες|Bentley|1894|Vindob. phil. gr. 56 (Y)|
 Hom. Od. 5.8|καὶ|μηδ’|Nauck|1874|P.Tebt. III/I 697|
 Hom. Od. 5.243|-υτο|ἤνετο|Nauck|1874|Laur. 32.24 (G)|s.l. et m. sec.
+Hom. Od. 5.281|ῥινὸν|ῥίον|Faesi|n.d.|Vat. Ottob. 57 (R10)|γρ
 Hom. Od. 7.156|-έστερος|προγ]ενεστ̣α̣τος|Bekker|1858|P.Oxy. inv. 103/56 (b)|
 Hom. Od. 8.106 schol.|εὐφύ-|ἐν φύλλοισιν|Joshua Barnes|1711|Marc. 613|Homeri Odyssea p. 171
 Hom. Od. 10.10|αὐλῆ(ι)|αὐδῆι|G. W. Nitzsch|1826–40|P.Oxy. XLIX 3441|αυδη[]
