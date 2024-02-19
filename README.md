@@ -1787,17 +1787,21 @@ Hes. Th. 768|habent|del.|F. A. Wolf|1783|P.Oxy. XXXII 2648|= Od. 10.534; 11.47
 Hippon. fr. 103.11|πασπάλιν φαγὼν|πασ]πα[λ]ηφάγον|Johannes Pierson|n.d.|P.Oxy. XVIII 2175|
 Hom. Il. 1.107|τα κάκ' ἐστὶ φίλα|φ[ιλ]ο̣ν̣ εστι κακ[α|Naber|1877|P.Ryl. III 539|
 Hom. Il. 5.667|ἀμφιέποντες|αμ]φις έποιτ[ες|Brandreth|1841|P.Oxy. IV 759|
-Hom. Il. 6.90|ὅς|ο|Bentley|1885|P.Tebt. 899|apud Leaf
+Hom. Il. 6.90|ὅς|ο|Bentley|1885|P.Tebt. 899|J. Phil. 13 (1885) 122–63
 Hom. Il. 6.493|πᾶσιν ἐμοὶ δὲ μάλιστα τοὶ Ἰλίῳ|πασι μαλιστα δ εμοι τοι Ιλιωι|C. A. J. Hoffmann|s.xix med.|P.Oxy. III 445|
 Hom. Il. 9.570|πρόχ-|πρόγνυ|Albert Thumb|1913|Bodl. Auct. T.2.7 (R)|apud Brugmann-Thumb; s.l.
 Hom. Il. 12.449|εἰσ'· ὃ δέ μιν ῥέα|ει[σιν ο δε]ρρεα|Nauck|1877|P.Lond.Lit. 251 + P.Harr. I 36|
 Hom. Il. 13.742|ἤ κεν ἐνὶ|ηε κεν εν|H. L. Ahrens|1843|P.Amh. inv. G 202|Rh. Mus. 2 (1843) 170
 Hom. Il. 16.145|-ύμεν|ζευγνῦμεν|Joshua Barnes|1711|P.Oxy. XLVII 3323|
+Hom. Il. 16.389|τῶν|τοῦ|Walter Leaf|1888|recc.|
 Hom. Il. 17.89|ἀσβέστωι|ἀσβέτωι|Ludwich|1916|P.Berol. inv. 16007|Rh. Mus. 71 (1916) 211
+Hom. Il. 17.435|-κει|ἑστήκηι|Hermann|1813|P.Ross.Georg. I 4|Serm. Hom. diss. II
 Hom. Il. 23.198|ὠκέα δ'|ὦκα δὲ|Bentley|1730s|P.Grenf. II 4|
 Hom. Il. 23.535|δ᾽ ἐν ᾿Αργείοις|δ]᾽ εν Αχαιοισιν|Nauck|1877|BKT V/I 5|
 Hom. Il. 24.192|κεχάνδει|κεχ]όνδει|August Fick|1886|P.Lond.Lit. 27|
+Hom. Od. 1.70|ὅου|ὅο|Philipp Buttmann|n.d.|Heidelb. Palat. gr. 45 (P)|a. c.
 Hom. Od. 5.8|καὶ|μηδ’|Nauck|1874|P.Tebt. III/I 697|
+Hom. Od. 5.243|-υτο|ἤνετο|Nauck|1874|Laur. 32.24 (G)|s.l. m. sec.
 Hom. Od. 8.106 schol.|εὐφύ-|ἐν φύλλοισιν|Joshua Barnes|1711|Marc. 613|Homeri Odyssea p. 171
 Hom. Od. 10.10|αὐλῆ(ι)|αὐδῆι|Nitzsch|1826–40|P.Oxy. XLIX 3441|αυδη[]
 Hom. Od. 10.19|δῶκε δέ μοι ἐκδ-|δῶκέ μοι ἐκδείρας|J. H. Voss|1838|P. Oxy. XLIX 3441|
