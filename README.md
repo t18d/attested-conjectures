@@ -1824,6 +1824,8 @@ Hom. Od. 10.19|δῶκε δέ μοι ἐκδ-|δῶκέ μοι ἐκδείρας
 Hom. Od. 10.385|λύσασθ’|λῦσαί θ’|Philipp Buttmann|n.d.|Sext. Math. 1.295|
 Hom. Od. 11.393|ἔτ’ ἦν|εην|Nauck|1874|P. CtYBR inv. 5128|
 Hom. Od. 11.580|ἥλκησε|ἕλκυσσε|Nauck|1874|d|
+Hom. Od. 15.206|ἐν(ὶ)|επι|Heinrich Düntzer|1863|P.Amh. II 23 et P.S.I. XIII 1299|
+Hom. Od. 20.6|-όων|ἐγρηγορέων|F. H. Bothe|1835|Gal. De plac. Hipp. et Plat. 3.3.8|
 Hom. Od. 22.258|-κει|βεβλήκειν|Bekker|1843|P.Ryl. I 53|
 Hom. Od. 23.188|-κται|τέτυκτο|K. H. F. Grashof|1846–52|P.Ryl. I 53|
 Hom. Od. 23.192|ὄφρ’ ἐτέλεσσα|οφρα τελεσ[σα|Bekker|1858|P.Oxy. III 448|
