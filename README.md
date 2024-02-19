@@ -1821,6 +1821,7 @@ Hom. Od. 9.138|εἰσόκε ναυτέων|-κεν αὖτε|Bentley|1894|d q|
 Hom. Od. 9.393|-ρου γε κ.|σιδήροιο κράτος|Nauck|1874|Venet. cl. ix num. 29 (U8)|
 Hom. Od. 10.10|αὐλῆ(ι)|αὐδῆι|G. W. Nitzsch|1826–40|P.Oxy. XLIX 3441|αυδη[]
 Hom. Od. 10.19|δῶκε δέ μοι ἐκδ-|δῶκέ μοι ἐκδείρας|J. H. Voss|1838|P. Oxy. XLIX 3441|
+Hom. Od. 10.385|λύσασθ’|λῦσαί θ’|Philipp Buttmann|n.d.|Sext. Math. 1.295|
 Hom. Od. 11.393|ἔτ’ ἦν|εην|Nauck|1874|P. CtYBR inv. 5128|
 Hom. Od. 22.258|-κει|βεβλήκειν|Bekker|1843|P.Ryl. I 53|
 Hom. Od. 23.188|-κται|τέτυκτο|K. H. F. Grashof|1846–52|P.Ryl. I 53|
