@@ -72,6 +72,7 @@
         <li>Harpocration, <em>Lexeis of the Ten Orators</em>, ed. John J. Keaney (Amsterdam, 1991).</li>
         <li>Herodotus, <em>Historiae</em>, ed. Haiim B. Rosén, 2 vols (Leipzig, 1987–97).</li>
         <li>Herodotus, <em>Historiae</em>, ed. N. G. Wilson, 2 vols (Oxford, 2015).</li>
+        <li>Homerus, <em>Opera</em>, ed. Thomas W. Allen (Oxford, 1917–31).</li>
         <li>Homerus, <em>Ilias</em>, ed. Martin L. West, 2 vols (Munich, 1998–2000).</li>
         <li>Homerus, <em>Ilias</em>, ed. Helmut van Thiel (Hildesheim, 2010).</li>
         <li>Homerus, <em>Odyssea</em>, ed. Martin L. West (Berlin, 2017).</li>
