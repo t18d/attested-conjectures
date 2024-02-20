@@ -3,8 +3,7 @@ run-name: csv-to-md
 on: 
   push:
     paths:
-      - attested-conjectures.csv
-      - amsterdam-db.csv
+      - "*.csv"
       - csv-to-md.py
 jobs:
   Run-CSV-To-MD_PY:
