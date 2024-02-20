@@ -143,7 +143,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (215), Nicolaus Heinsius (167), Bentley (96), Markland (80), Valckenaer (71), Porson (63), Madvig (62), Beatus Rhenanus (59), Reiske (56) and Denys Lambin (54).</p>
+<p>The top 10 critics are Scaliger (215), Nicolaus Heinsius (167), Bentley (99), Markland (80), Valckenaer (71), Porson (63), Madvig (62), Beatus Rhenanus (59), Reiske (56) and Denys Lambin (54).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -278,6 +278,7 @@ Ar. Ach. 60|πρυτανεύσητε|-εύητε|Meineke|n.d.|P.Oxy. LXVI 4510|
 Ar. Ach. 68|ἐτρυχόμεσθα|-μεθα|Bentley|s.xviii in.|Bodl. Holkh. Gr. 88 (L)|apud Burges, Classical Journal xi, xii, xiii
 Ar. Ach. 171|-μί' ἐστι|διοσημία 'στι|Elmsley|1809|P.Oxy. LXVI 4510|E. was an heir
 Ar. Ach. 238|σίγα|σῖγα|Bentley|s.xviii in.|c|
+Ar. Ach. 296|γ' ἂν|ἄν γ'|Bentley|s.xviii in.|Γ3|
 Ar. Ach. 297|σύ μοι|μοι σὺ|Hermann|s.xviii/xix|P.Oxy. LXVI 4510|
 Ar. Ach. 323|γ' ἆρα|τἄρα|Elmsley|1809|P.Oxy. LXVI 4510|
 Ar. Ach. 325|δήξομαι γὰρ (vel γ' ἄρ') ὑμᾶς|δήξομἄρ' ὑμᾶς|Bentley|s.xviii in.|P.Oxy. LXVI 4510|
@@ -328,8 +329,10 @@ Ar. Eccl. 1124|ἔχει/ἔχοι|ἔχῃ|Valckenaer|1757|Perus. H 56 (Λ)|tac
 Ar. Eq. 84b schol.|πλεῖον/πλείω|πλείους|Dindorf|1837|Estensis α.U.5.10 (E)|
 Ar. Eq. 143|ἐξολῶν|ἐξελῶν|Valckenaer|1757|Rav. 429 (R) et sch.|V. cites the scholia
 Ar. Eq. 424|-υον vel sim.|ἀπώμνυν|Bentley|s.xviii in.|G et Par 6|
+Ar. Eq. 545|-ῶς|σωφρονικὸς|Brunck|1783|Paris. gr. 2715 (B)|
 Ar. Eq. 726|om.|alterum ὦ|Elmsley|1809|P.Oxy. LXXIX 5196|
 Ar. Eq. 802|-ξῃς/-σῃς vel sim.|ἁρπάζῃς|Bentley|s.xviii in.|Paris. gr. 2715 (B)|
+Ar. Eq. 873|-ον|ὅσων|Bentley|s.xviii in.|Bpc|
 Ar. Eq. 881|τηλικουτονί|τηλικοῦτον|Valckenaer|1757|Laur. 31.13 (X)|
 Ar. Eq. 895|τοῦ|τὸν|Bentley|s.xviii in.|Paris. gr. 2712 (A)|
 Ar. Eq. 981|γένοιθ'|’γένεθ'|Scaliger|n.d.|schol. Γ|
@@ -353,6 +356,7 @@ Ar. Nub. 533|ὑμῖν|ὑμῶν|Hermann Sauppe|n.d.|Marc. gr. 473 (V3)|s.l.
 Ar. Nub. 538|σκύτινον|σκυτίον|P. P. Dobree|s.xviii/xix|XLn5|
 Ar. Nub. 615|ὑμᾶς κοὐκ|ὑμᾶς δ᾽ οὐκ|Bentley|1708|Lpc|
 Ar. Nub. 862|πειθ-|πιθόμενος|Bentley|1708|Θpc|
+Ar. Nub. 872|κρέμαιό γ᾽|κρέμαι᾽|Bentley|1708|Matrit. 4683 (Md1)|
 Ar. Nub. 933|-βάλλεις|ἐπιβάλλῃς|Brunck|1783|recc.|
 Ar. Nub. 1379|γ᾽ ἄν/γὰρ|γε|Dindorf|n.d.|P.Stras. inv. 621|
 Ar. Pax 83|-ρῶς|σοβαρὸς|Cobet|n.d.|Rhet. lex. τότ Naoumides|lm.
