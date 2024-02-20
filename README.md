@@ -3239,16 +3239,19 @@ Soph. Phil. 306|ἀνθρώπων|-ῷ|Frederick H. M. Blaydes|n.d.|Paris. gr. 2
 Soph. Phil. 349|ἐπέσχον|ἔπασχ-|Schneider|n.d.|AUY|
 Soph. Phil. 361|πρὸς φίλους|προσφιλῶς|F. H. Bothe|n.d.|Vat. gr. 2291 (R)|
 Soph. Phil. 481|-η|ὅποι|Gilbert Wakefield|1794|KZo|
+Soph. Phil. 481|-η|ὅπου|Elmsley||Paris. suppl. gr. 109 (Q)|
 Soph. Phil. 496|πέμψαντα|πλεύσαντα|Frederick H. M. Blaydes|n.d.|Sγρ|
 Soph. Phil. 496|-οις|δόμους|Philipp Buttmann|1822|Paris. suppl. gr. 109 (Q)|p. 110
-Soph. Phil. 510| ̓Ατρείδας| ̓Ατρείδας ἔχθεις|Bergk|n.d.|Vat. gr. 2291 (R)|
-Soph. Phil. 524|γέ μ ̓|γ ̓ ἔμ ̓|Brunck|1786–9|Urb. gr. 141 (S)|
+Soph. Phil. 510| ̓Ατρείδας| ̓Ατρείδας ἔχθεις|Bergk|n.d.|Vat. gr. 2291 (R)|Hermann?
+Soph. Phil. 524|γέ μ ̓|γ ̓ ἔμ ̓|Brunck|1786|Urb. gr. 141 (S)|
 Soph. Phil. 588|μηδέν'|μηδὲν|Linwood|n.d.|Palat. gr. 287 (Zo)|
 Soph. Phil. 597|δράσειν|πράσσειν|J. H. Wright|n.d.|Paris. suppl. gr. 109 (Q)|
 Soph. Phil. 600|τ'|γ'|Benjamin Heath|1762|Laur. 32.2 (Zg)|
+Soph. Phil. 612|πέρσοιεν|πέρσωσιν|Frederick H. M. Blaydes|n.d.|Palat. gr. 287 (Zo)|
 Soph. Phil. 614|ἤκουσεν|ἤκουσ’|Markland|s.xviii med.|z|
 Soph. Phil. 614|ἤκουσεν|ἤκουσ’|Valckenaer|pre-1775|z|
-Soph. Phil. 728|-ει|πλάθη|Bergk|n.d.|r|
+Soph. Phil. 728|-ει|πλάθη|Bergk|n.d.|QR|
+Soph. Phil. 737|ἰὼ θ. Νε. τ. τ. θ. οὕτως α. κ.|ὦ θ. Νε. τί τοὺς θεοὺς α. κ.|Dindorf||Laur. 32.2 (Zg)|
 Soph. Phil. 760||Philoctetae trib.|Lindner|n.d.|VTa|
 Soph. Phil. 830|ὦναξ|ἄναξ|Wilamowitz|n.d.|VTa|
 Soph. Phil. 894|μ ̓ ἔθος|μέ πως|Frederick H. M. Blaydes|n.d.|Palat. gr. 287 (Zo)|
