@@ -1785,7 +1785,7 @@ Hdt. 5.52.4|-ον|ὕστερος|Heinrich Stein|1869–71|ex corr. D1M|
 Hdt. 6.44.3|οἱ δ. α.|οἳ δὲ αὐτῶν|Reiske||Palat. gr. 176 (Y)|
 Hdt. 6.57.1|πρῶτον|πρώτων|Reiske||Vindob. hist.gr. 85 (V)|
 Hdt. 6.105.2|σφίσι ἤ.|σφι ἤδη|Heinrich Stein|1869–71|Vat. gr. 2369 (D)|
-Hdt. 6.105.3|σφίσι|σφι|Heinrich Stein|1869|Vat. gr. 2369 (D)|
+Hdt. 6.105.3|σφίσι|σφι|Heinrich Stein|1869–71|Vat. gr. 2369 (D)|
 Hdt. 7.61.3|δὲ|δὴ|Heinrich Stein|1869–71|Vat. gr. 2369 (D)|
 Hdt. 7.134.2|τῷ|τῶν|Reiske||Const. Porph.|
 Hdt. 7.165|-όνων|Σαρδονίων|Valckenaer||Cac|
