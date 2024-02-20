@@ -143,7 +143,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (215), Nicolaus Heinsius (167), Bentley (96), Markland (80), Valckenaer (71), Porson (63), Madvig (62), Beatus Rhenanus (59), Reiske (54) and Denys Lambin (54).</p>
+<p>The top 10 critics are Scaliger (215), Nicolaus Heinsius (167), Bentley (96), Markland (80), Valckenaer (71), Porson (63), Madvig (62), Beatus Rhenanus (59), Reiske (56) and Denys Lambin (54).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1773,10 +1773,13 @@ Hdt. 3.108.4|μήτρῃ|μητρὶ|Bekker|1833|D1|
 Hdt. 3.119.5|-ώτατος|ἀλλοτριώτερος|Reiske|n.d.|cod. Athon. Dion. 90 (𝕬)|
 Hdt. 4.192.1|ὄρυες|ὄρυγες|Ph.-E. Legrand|1949|Estensis gr. 221 (M)|
 Hdt. 5.52.4|-ον|ὕστερος|Heinrich Stein|1869|ex corr. D1M|
+Hdt. 6.44.3|οἱ δ. α.|οἳ δὲ αὐτῶν|Reiske||Palat. gr. 176 (Y)|
 Hdt. 7.196|ναυτικὸς ὁ τῶν|ν. τ.|G. H. Schaefer|n.d.|Estensis gr. 221 (M)|
 Hdt. 7.226.1|ἀφί- κτλ.|ἀπίωσι|Dindorf|n.d.|cod. Athon. Dion. 90 (𝕬)|
 Hdt. 8.75.3|οὐτέτι|οὔτ' ἔτι|G. H. Schaefer|n.d.|Vat. gr. 2369 (D)|
+Hdt. 8.112.2|λέγων|λ. δὲ|Reiske||Estensis gr. 221 (M)|
 Hdt. 9.43.2|-ων|Μουσαίου|Bekker|1833|Vat. gr. 2369 (D)|
+Hdt. 9.66.2|-μένως|κατηρτισμένους|Henrik van Herwerden||Vindob. hist.gr. 85 (V)|a. c.
 Herm. Sim. 2.17|<καὶ> εὐχαριστεῖ|εὐχαριστῶν|Tischendorf|n.d.|P.Oxy. IX 1172|
 Herm. Sim. 2.28|συνιει|συνηκεν|Tischendorf|n.d.|P.Oxy. IX 1172|
 Herm. Sim. 8.54|λοιπόν|αὐτόν|Hilgenfeld|n.d.|P.Oxy. XIII 1599|
