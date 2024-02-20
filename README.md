@@ -70,6 +70,7 @@
         <li>Hall, J. B., <em>Prolegomena to Claudian</em> (Oxford, 1986).</li>
         <li>Havet, Louis, <em>Manuel de critique verbale appliquée aux textes latins</em> (Paris, 1911).</li>
         <li>Harpocration, <em>Lexeis of the Ten Orators</em>, ed. John J. Keaney (Amsterdam, 1991).</li>
+        <li>Hérodote, <em>Histoires</em>, ed. Ph.-E. Legrand (Paris, 1954–64).</li>
         <li>Herodotus, <em>Historiae</em>, ed. Haiim B. Rosén, 2 vols (Leipzig, 1987–97).</li>
         <li>Herodotus, <em>Historiae</em>, ed. N. G. Wilson, 2 vols (Oxford, 2015).</li>
         <li>Homerus, <em>Opera</em>, ed. Thomas W. Allen (Oxford, 1917–31).</li>
@@ -128,6 +129,7 @@
         <li>Theodoridis, Christos (ed.), <em>Die Fragmente des Grammatikers Philoxenos</em> (Berlin, 1976).</li>
         <li>Thomson, D. F. S. (ed.), <em>Catullus</em> (Toronto, 1998).</li>
         <li>Thucydides, <em>Historiae</em>, ed. Ioannes Baptista Alberti, 3 vols (Rome, 1972–2000).</li>
+        <li>Tov, Emanuel, <em>Textual Criticism of the Hebrew Bible</em> (Minneapolis, 2012), 329.</li>
         <li>Vergilius Maro, P., <em>Opera</em>, ed. Mario Geymonat (Rome, 2008).</li>
         <li>Vergilius Maro, P., <em>Aeneis</em>, ed. Gian Biagio Conte (Berlin, 2009).</li>
         <li>Vergilius Maro, P., <em>Bucolica Georgica</em>, ed. Silvia Ottaviano and Gian Biagio Conte (Berlin, 2013).</li>
