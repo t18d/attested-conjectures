@@ -4008,7 +4008,7 @@ Zen. 4.80|-ω|Δακτύλων|Andreas Schott|1612|Angel. et Marc. et Paris.|
 [Hdn.] Π. ἡμαρτ. λέξ. 24|-αι/κατέδεσθαι|καταδέχεσθε|Meineke|1839–57|S|
 Jes 33:8|מאס ערים|מאס עדים|Bernhard Duhm|1892|1QIsa|
 Jes 49:7|לבזה|לבזוי|Bernhard Duhm|1892|1QIsa|
-Matt 5:13 [22]|μωρανθῇ|μαρανθῇ|S. A. Naber|1881||[cj10730](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10730)
+Matt 5:13 [22]|μωρανθῇ|μαρανθῇ|Naber|1881||[cj10730](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10730)
 Matt 5:19 [58]|οὗτος μέγας|οὕτως, μέγας|Markland|1739||[cj11195](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11195)
 Matt 5:45 [20]|ὅτι|ὅστις|Beza|1556||[cj11200](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11200)
 Matt 6:24 [31]|ἐνός|τοῦ ἐνός|Markland|1772||[cj11202](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11202)
