@@ -3061,7 +3061,7 @@ Soph. Ant. 108|ὀξυτόρῳ/-τέρῳ|-πόρῳ|Samuel Musgrave|1800|Urb. 
 Soph. Ant. 202|ἄγ-|ἔχειν|Alexandros Pallis|1885|Laur. 31.10 (K)|
 Soph. Ant. 211|Κρέον vel Κρέων|ποεῖν|F. J. Martin|n.d.|Laur. 31.10 (K)|marg.
 Soph. Ant. 218|τοῦτ ̓|τοῦδ ̓|Brunck|1786|Uac|
-Soph. Ant. 287|νόμ-|δόμους|Henrik van Herwerden|n.d.|Vat. gr. 57|
+Soph. Ant. 287|νόμ-|δόμους|Henrik van Herwerden|n.d.|Vat. gr. 57 (Zh)|
 Soph. Ant. 314|-ωσμέ-|σεσωμένους|Wecklein|n.d.|Marc. gr. 470 (Ta)|
 Soph. Ant. 342|κουφονέων|κουφονόων|Johannes Pierson|s.xviii med.|Λac et S|
 Soph. Ant. 365|σοφόν|δεινόν|Heimsoeth|1865|t|
@@ -3081,16 +3081,21 @@ Soph. Ant. 599|ὑπὲρ|ὅπερ|Markland|s.xviii med.|Laur. 31.10 (K)|s.l. (
 Soph. Ant. 687|χἀτέρῳ|χἀτέρᾳ|Samuel Musgrave|1800|Laur. 31.10 (K)|in linea
 Soph. Ant. 687|χἀτέρῳ|χἀτέρως|Hermann|n.d.|Vat. gr. 2291 (R)|
 Soph. Ant. 695|ἀπ’|ἐπ’|Johannes Pierson|s.xviii med.|Paris. gr. 2712 (A)|
+Soph. Ant. 789|ἐπ’|ἀπ’|F. W. Schmidt||Palat. gr. 287 (Zo)|
+Soph. Ant. 825|-ῳ|Σιπύλου|Alexandros Pallis|1885|Vat. gr. 57 (Zh)|s.l.
 Soph. Ant. 828|-ῳ|ὄμβρος|Gleditsch|n.d.|Vat. gr. 1333 (Zc)|s.l.
 Soph. Ant. 831|θ' … -αύστοις|δ' … παγκλαύτοις|F. H. Bothe|n.d.|KS|
 Soph. Ant. 836|-ῃ/-ῳ/-αν|φθιμένᾳ|Johannes Pierson|s.xviii med.|Laur. 32. 9 (L) et a|
 Soph. Ant. 848|ἔργμα|ἕρμα|Hermann|n.d.|Urb. gr. 141 (S)|
+Soph. Ant. 851|οὔτ ̓ ἐν|οὔτε|Erfurdt|1802–25|Urb. gr. 141 (S)|
 Soph. Ant. 859|οἶκτον|οἶτον|Brunck|1786|Kpc|
 Soph. Ant. 938|πατρογενεῖς|προγενεῖς|Valckenaer|pre-1775|Laur. 32. 9 (L)|
 Soph. Ant. 989|-ες|βλέποντε|Moriz Schmidt|1871–80|LpcKa|
+Soph. Ant. 1035|δ ̓|del.|Brunck|1786|Laur. 31.1|a. c.
 Soph. Ant. 1069|κατῴκ-|κατοικίσας|Henrik van Herwerden|n.d.|Laur. 31.10 (K)|
 Soph. Ant. 1081|-γνι-|καθήγισαν|Burton|n.d.|VacZc|
 Soph. Ant. 1089|-ωτέραν|ἡσυχαιτέραν|G. H. Schaefer|n.d.|Zg et Laur. 31.1|
+Soph. Ant. 1098|λαβ-/λακ-|λαχεῖν|Heimsoeth|1865|Paris. gr. 2884 (Ζf)|
 Soph. Ant. 1236|μέσσον/μέσον/ἐς|ἐν|Wecklein|n.d.|SZot|
 Soph. Ant. 1237|παρθένῳ|-ον|Brunck|1786–9|Paris. gr. 2884 (Ζf)|
 Soph. Ant. 1238|ἐκβάλλει|ἐμβάλλει|Markland|s.xviii med.|Berol. Phillips 1588|
