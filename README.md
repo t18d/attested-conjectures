@@ -143,7 +143,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (215), Nicolaus Heinsius (167), Bentley (99), Markland (80), Valckenaer (71), Porson (63), Madvig (62), Beatus Rhenanus (59), Reiske (56) and Denys Lambin (54).</p>
+<p>The top 10 critics are Scaliger (215), Nicolaus Heinsius (167), Bentley (100), Markland (80), Valckenaer (71), Porson (63), Madvig (62), Beatus Rhenanus (59), Reiske (56), Brunck (54) and Denys Lambin (54) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -321,6 +321,8 @@ Ar. Av. 1693|διδότω|δότω|Valckenaer|1757|ΓUL|
 Ar. Eccl. 51|Φιλοδωρίτου|Φιλοδωρήτου|Valckenaer|1757|Paris. gr. 2712 (A)|
 Ar. Eccl. 275|τ' άπερ/τάπερ|γ᾽ ἅπερ|Jonathan Toup|s.xviii med.|Paris. gr. 2712 (A)|
 Ar. Eccl. 281|Πνύκ᾽/Πνύχ᾽|Πύκν᾽|Musurus|n.d.|Perus. H 56 (Λ)|
+Ar. Eccl. 346|ἵεμαι|ἱέμην|Brunck|n.d.|Paris. gr. 2715 (B)|
+Ar. Eccl. 404|χρὴ|χρῆν|Musurus|n.d.|Perus. H 56 (Λ)|
 Ar. Eccl. 456|ταύταις|αὐταῖς|Bergk|n.d.|Paris. gr. 2715 (B)|
 Ar. Eccl. 652|-ῶς|λιπαρῷ|Bentley|s.xviii in.|P.Mich. inv. 6649|
 Ar. Eccl. 707|λαβούσας|λαβόντας|Valckenaer|1757|Rav. 429 (R) et Perus. H 56 (Λ)|tacite
@@ -344,8 +346,9 @@ Ar. Eq. 1158|φράσεις|-ῃς|Porson|n.d.|VΓ|
 Ar. Lys. 81|om.|τὼ|Reisig|n.d.|schol. R et Mu2|
 Ar. Lys. 106|πορπατιϲ-|πορπακιϲάμενοϲ|Ludolf Küster|1710|schol. O|lm.
 Ar. Lys. 126|μοι μυᾶτε|μοιμυᾶτε|L. Dindorf|n.d.|schol. O|lm.
+Ar. Lys. 180|τάδε|τᾷδε|Bentley|s.xviii in.|P.Bodl. Gr. class. e. 87|
 Ar. Lys. 427|ἀλλ’|ἄλλ’|Valckenaer|1757|MS (Brunck 1781)|
-Ar. Lys. 476|τοῖσι(ν)|τοῖς|Bentley|s.xviii in.|P.Bodl. Gr. class. e. 87|
+Ar. Lys. 476|τοῖσι(ν)|τοῖς|Bentley|s.xviii in.|Paris. gr. 2715 (B)|
 Ar. Lys. arg. 1.15|-πληγεὶς|καταπλαγεὶς|Ludolf Küster|1710|Oxon. Barocc. 38B (O)|
 Ar. Nub. 137|ἐξευρ-|ἐξηυρημένην|Porson|n.d.|Paris. gr. 2712 (A)|
 Ar. Nub. 185|δοκοῦϲιν ἐ.|δοκοῦϲ᾽ ἐοικέναι|Bentley|1708|Neap. II F 22 (Np1)|per litt.
@@ -375,6 +378,7 @@ Ar. Plut. 504|-ῶσι|πεινῶσιν|Ludolf Küster|1710|Bodl. Holkh. Gr. 88
 Ar. Plut. 1018|παγκάλας|παγκάλους|Valckenaer|1757|Mpc et L|
 Ar. Plut. 1037|τυγχάνει|τυγχάνοι|Valckenaer|1757|Marc. gr. 474 (V)|
 Ar. Plut. 1116|ἐπιθύει|ἔτι θύει|Valckenaer|1757|Marc. gr. 474 (V)|
+Ar. Ran. 50|τρισ-|τρεῖς|Meineke||Marc. gr. 475 (G)|
 Ar. Ran. 77|om.|γ᾽|Bentley|s.xviii in.|Marc. gr. 475|teste Peppink ad Mnem. N.S. 60 (1933) 382
 Ar. Ran. 239|Libero|choro trib.|Reisig|n.d.|Reg. gr. 147 (Vs1)|
 Ar. Ran. 252|γ᾽ ἄρα/γὰρ|γ᾽ αρ[|Elmsley|n.d.|BKT V/II 18|
