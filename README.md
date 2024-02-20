@@ -471,7 +471,7 @@ Call. fr. 384.26|-ϲομ-|θηϲαμενω|Hunt|1922|P.Oxy. ined.|]ηϲαμεν�
 Call. fr. 388.9|Φωκείων|Φωκαέων|Valckenaer|1799|P.Oxy. XV 1793|
 Call. fr. 407.92|ὀρνίθων|ὀρνέων|F. J. Bast|s.xviii/xix|Anon.Vat.|
 Call. fr. 721|ἔαϲιν|ἐωϲιν|Dindorf|1864|Theognost. cod. Barocc.|Thes.L.Gr. I/2 p. 9 C
-Carm. conv. 906 Page|εἰ δὴ χρὴ|εἰ χρὴ|Johann Schweighäuser|1798|Arist. Ath. c. 20 fin|
+Carm. conv. 906 Page|εἰ δὴ χρὴ|εἰ χρὴ|Johannes Schweighäuser|1798|Arist. Ath. c. 20 fin|
 Carm. conv. 906 Page|εἰ δὴ χρὴ|εἰ χρὴ|Porson|n.d.|Arist. Ath. 20 fin|
 Carm. conv. 907 Page|κύρησαν|ἔσαν|Erasmus|n.d.|Arist. Ath. 19.3|
 Catull. 2.5|meo|mei|J. H. Hoeufft|1807–8|Flor. Ricc. 606 (31)|
@@ -1766,7 +1766,7 @@ Hdt. 1.184|ἐπεκ-|ἐκόσμησαν|Enoch Powell|1949|SV|
 Hdt. 1.196.1|ὧδε|οἵδε|Eltz|n.d.|P.Ross.Georg. I 15|
 Hdt. 1.196.3|οἱ ἐξέλθοι|διεξέλθοι|Stephan Bergler|1715|P.Ross.Georg. I 15|B. apud Gronovium
 Hdt. 1.196.3|ἀνάγεϑαι|ἀγαγέσθαι|Heinrich Stein|1869|Vac|ἀγάγεσθαι Vac
-Hdt. 1.207.2|ἐμὲ σοὶ|ἐμέ σοι|Schweighäuser|1816|UX|
+Hdt. 1.207.2|ἐμὲ σοὶ|ἐμέ σοι|Johannes Schweighäuser|1816|UX|
 Hdt. 2.79.1|ἅπαξ ἅ|ἁπαξὰ|Hoffmann|n.d.|P.Oxy. inv. 85/40a|
 Hdt. 2.175.1|οἱ|οἷα|F. L. Abresch|s.xviii med.|P.Oxy. VIII 1092|
 Hdt. 3.108.4|μήτρῃ|μητρὶ|Bekker|1833|D1|
@@ -2535,11 +2535,11 @@ Plb. 11.14.3|προθεῖναι|προσθ-|Scaliger|s.xvi/xvii|P.Ryl. 60|
 Plb. 11.15.5|ὡρακίτας|θωρ-|Fulvio Orsini|1582|P.Berol. inv. 9570 = APF 1:388–95|
 Plb. 11.15.7|τέλος|θέρος|Causabon|1609|P.Ryl. 60|
 Plb. 11.16.1|ὑπάγειν|ἐπάγ-|Sixtus Arcerius|1613|P.Berol. inv. 9570 = APF 1:388–95|ad Aelian. Tact. 32 p. 152
-Plb. 11.16.2|πρὸς τ.|τοὺς|Johann Schweighäuser|1795|P.Berol. inv. 9570 = APF 1:388–95|
+Plb. 11.16.2|πρὸς τ.|τοὺς|Johannes Schweighäuser|1795|P.Berol. inv. 9570 = APF 1:388–95|
 Plb. 11.16.5|προειρημένον|τὸ π.|Causabon|1609|P.Berol. inv. 9570 = APF 1:388–95|
 Plb. 11.16.6|τὴν δυσχρήστην|τὸ -τον|Causabon|1609|P.Berol. inv. 9570 = APF 1:388–95|
 Plb. 11.16.6|διαβάλλει|-βαλεῖ|Scaliger|s.xvi/xvii|P.Berol. inv. 9570 = APF 1:388–95|
-Plb. 11.16.7|ἐμπορεία|ἐν πορείᾳ|Johann Schweighäuser|1795|P.Ryl. 60|
+Plb. 11.16.7|ἐμπορεία|ἐν πορείᾳ|Johannes Schweighäuser|1795|P.Ryl. 60|
 Plb. 28.2.4|om.|ϲυνεχωρηϲεν|Friedrich Otto Hultsch|1889|P.Oxy. LXXXI 5267|ϲ]υνεχωρηϲ[ε
 Plin. nat. 1.XI|-mum. etiam in cera|minimum. aestatis|Julius Sillig|1851|cod. Moneus (M)|
 Plin. nat. 2.160|cuncta|capita|Johannes Caesarius|1524|E3|
@@ -2843,7 +2843,7 @@ Sen. epist. 92.7|sonis|solis|Franz Buecheler|1878|cod. Velz.|
 Sen. epist. 95.66|eam demum|eandem vim|Erasmus|1515|WX (ψ)|
 Sen. epist. 109.4|facit quoque|facitque|Madvig|n.d.|cod. Velz.|
 Sen. epist. 109.10|partes sui|pares suis|Nonius Pincianus|1536|rec.|
-Sen. epist. 124.21|illum|et illud|Johann Schweighäuser|1809|cod. Harlei. 2659|
+Sen. epist. 124.21|illum|et illud|Johannes Schweighäuser|1809|cod. Harlei. 2659|
 Sen. nat. 1 praef. 3|dim-|deminutio|Muretus|1585|Genev. lat. 77 (Z)|
 Sen. nat. 1 praef. 6|deo|dei|Erasmus|1515|W2|
 Sen. nat. 1.1.2|dicit/discit|scit|Madvig|1873|Genev. lat. 77 (Z)|
