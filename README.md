@@ -3125,9 +3125,10 @@ Soph. El. 653|τέκνων|-οις|Benedict|n.d.|Vindob. phil. gr. 161 (Xr)|s.l.
 Soph. El. 689|τοιοῦδ'|τοιάδ'|Brunck|1786|Marc. gr. 616 (Zr)|
 Soph. El. 710|κλήροις|-ους|Eduard Wunder|1831|Paris. gr. 2735 (C)|
 Soph. El. 754|-έθοντες|κατασχεθόντες|Elmsley||Nac|
-Soph. El. 758|δειλαίας σποδοῦ|-αν -όν|F. Neue|1831|p|s.l.
+Soph. El. 758|δειλαίας σποδοῦ|-αν -όν|Friedrich Neue|1831|p|s.l.
 Soph. El. 762|οἵπερ|ὥσπερ|J. A. Hartung|1850–1|Laur. Conv. Soppr. 41|
 Soph. El. 819|ἄφιλος|-ον|Monk|n.d.|Vindob. phil. gr. 281|
+Soph. El. 859|-ᾶν|εὐπατρίδων|Friedrich Neue|1831|Sud. s.v. παραγάγῃς|
 Soph. El. 876|οὐκ|οὐκέτ ̓|B. Thiersch|n.d.|p|
 Soph. El. 941|ἔσθ ̓ ὅδ ̓|ἐς τόδ ̓|Haupt|n.d.|CHV|
 Soph. El. 952||γ’|Johannes Pierson|s.xviii med.|Paris. gr. 2820|
@@ -3215,7 +3216,7 @@ Soph. OT 829|ἀνορθοίη|ἂν ὀρθοίη|G. H. Schaefer|n.d.|p|
 Soph. OT 870|μήν ποτε|μήποτε|Elmsley|n.d.|Paris. gr. 2884|
 Soph. OT 883|ὑπέροπτα|-οπλα|P. P. Dobree|n.d.|Cac|
 Soph. OT 1001|τε|γε|Hermann|n.d.|p|
-Soph. OT 1031|ἐν καιροῖς/κακοῖς|ἐν χεροῖν|Moriz Schmidt, W. W. Walker|n.d.|Fγρ|
+Soph. OT 1031|ἐν καιροῖς/κακοῖς|ἐν χεροῖν|Moriz Schmidt|n.d.|Fγρ|W. W. Walker?
 Soph. OT 1078|αὐτὴ|αὕτη|Hermann|n.d.|p|
 Soph. OT 1108|-νιάδων|Ἑλικωνίδων|Porson|n.d.|Aac|
 Soph. OT 1142|νῦν|νυν|Frederick H. M. Blaydes|n.d.|t|
@@ -3441,7 +3442,7 @@ Tac. ann. 13.28.3|eo|et|Gronovius|1672|B72Ven|
 Tac. ann. 13.28.3|pl.|plebis|J. A. Ernesti|1752|Ia|
 Tac. ann. 13.29.2|tunc|tum|Carl Nipperdey|1852|MalPrmJB72|
 Tac. ann. 13.32.2|uarius|Varus|Carl Nipperdey|1852|Mpc|
-Tac. ann. 13.32.3|huic|hinc|C. F. Neue|1836|Ib|
+Tac. ann. 13.32.3|huic|hinc|Friedrich Neue|1836|Ib|
 Tac. ann. 13.34.2|-uc|illud|Lipsius|1547–1607|N21O48O22K|
 Tac. ann. 13.36.1|-irent|auderent|Lipsius|1547–1607|U2|
 Tac. ann. 13.42.4|acdō|ac diu|Curzio Picchena|1607|Leid. BPL 16 Β (L)|
