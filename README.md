@@ -1769,7 +1769,7 @@ Hdt. 1.105.4|ὁ θέος|η θε[ος|Hude|n.d.|P.Oxy. X 1244|
 Hdt. 1.107.1|ὑπο-|ῡπερθεμενος|Henri Estienne|s.xvi ex.|P.Oxy. X 1244|
 Hdt. 1.116.1|ἐσή(ι)ει|ἐσήιε|Bekker|1833|P.Münch. II 40 = Pap. graec. mon. 89|
 Hdt. 1.116.1|ἐσή(ι)ει|ἐσήιε|Portus|n.d.|P.Münch. II 40 = Pap. graec. mon. 89|
-Hdt. 1.132.2|om.|τε|Kallenberg|n.d.|P.Oxy. XVII 2096|
+Hdt. 1.132.2|om.|τε|Hermann Kallenberg|1894|P.Oxy. XVII 2096|
 Hdt. 1.184|ἐπεκ-|ἐκόσμησαν|Enoch Powell|1949|SV|
 Hdt. 1.196.1|ὧδε|οἵδε|Eltz|n.d.|P.Ross.Georg. I 15|
 Hdt. 1.196.3|οἱ ἐξέλθοι|διεξέλθοι|Stephan Bergler|1715|P.Ross.Georg. I 15|B. apud Gronovium
@@ -1779,6 +1779,7 @@ Hdt. 2.79.1|ἅπαξ ἅ|ἁπαξὰ|Hoffmann|n.d.|P.Oxy. inv. 85/40a|
 Hdt. 2.175.1|οἱ|οἷα|F. L. Abresch|s.xviii med.|P.Oxy. VIII 1092|
 Hdt. 3.108.4|μήτρῃ|μητρὶ|Bekker|1833|D1|
 Hdt. 3.119.5|-ώτατος|ἀλλοτριώτερος|Reiske|n.d.|cod. Athon. Dion. 90 (𝕬)|
+Hdt. 4.43.5|-λιπόντες/λείποντες|καταλείποντες|Hermann Kallenberg|1894|Vat. gr. 2369 (D)|
 Hdt. 4.192.1|ὄρυες|ὄρυγες|Ph.-E. Legrand|1949|Estensis gr. 221 (M)|
 Hdt. 5.52.4|-ον|ὕστερος|Heinrich Stein|1869|ex corr. D1M|
 Hdt. 6.44.3|οἱ δ. α.|οἳ δὲ αὐτῶν|Reiske||Palat. gr. 176 (Y)|
