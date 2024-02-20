@@ -3521,7 +3521,7 @@ Tac. ann. 15.54.3|partiebat|parare|Franciscus Puteolanus|1476|LK2|
 Tac. ann. 15.56.4|quintilie-|Quintianusque|Lipsius|1547–1607|PN21O22|
 Tac. ann. 15.57.1|apichari|epicharin|Bekker|1825|Leid. BPL 16 Β (L)|
 Tac. ann. 15.57.1|apichari|Epicharim|K. Sirker|1871|Ia|
-Tac. ann. 15.66.2|equite/-er|equite Romano|Orelli|1846|Yal. III (Y03)|
+Tac. ann. 15.66.2|equite/-er|equite Romano|Orelli|1846|Yalensis III (Y03)|
 Tac. ann. 15.69.1|-et|occupare|Franciscus Puteolanus|1476|V58<sup>1</sup>B05|
 Tac. ann. 15.71.2|extim-|existimarentur|Beatus Rhenanus|1533|H2P|
 Tac. ann. 15.71.5|in|sine|Claude Chifflet|n.d.|L2|
@@ -3645,7 +3645,7 @@ Tac. hist. 5.7.2|ui-|nitro|Beatus Rhenanus|1533|Paris. Reg. 6118 (P)|
 Tac. hist. 5.10.1|inter|intra|Beatus Rhenanus|1533|U2mgL|
 Tac. hist. 5.17.2|preuise|prouisa|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 5.17.2|preuise/prouisa|prouidisse|Friedrich Jacob|1842|Ia|p. 29
-Tac. hist. 5.21.3|sed/set|et|Nicolaus Heinsius|1752|Yal. II (Y02)|apud Ernesti
+Tac. hist. 5.21.3|sed/set|et|Nicolaus Heinsius|1752|Yalensis II (Y02)|apud Ernesti
 Tac. hist. 5.22.3|impia|Lupia|Beatus Rhenanus|1533|H2Y03|
 Tac. hist. 5.26.1|Nabaliae|naualis|J. G. Ottema|1845|Y03<sup>2</sup>|
 Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
