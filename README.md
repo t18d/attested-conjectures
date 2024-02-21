@@ -1053,7 +1053,7 @@ Claud. 5.471|-a|dextro|Ludwig Jeep|1876|Rpc|
 Claud. 5.505|-iisque|uitiique|Nicolaus Heinsius|1760|gacP2ac|apud Burmannum
 Claud. 6.3|-sso|excuso|Scaliger|1603|Paris. lat. 8079 (P11)|
 Claud. 6.3|germ-|tegmine|Scaliger|1760|exc. Gyr.|apud Burmannum
-Claud. 7.4|auge-|lucescat|Nicolaus Heinsius|1760|Bodl. Auct. F. 2. 16 (O3)|apud Burmannum
+Claud. 7.4|auge-|lucescat|Nicolaus Heinsius|1760|Bodl. Auct. F.2.16 (O3)|apud Burmannum
 Claud. 7.89|fat-|fastis|Ludwig Jeep|1876|L11ac|
 Claud. 7.118|-runt carmina|mouere cacumina|Gilbert Wakefield|s.xviii ex.|Paris. lat. 18552 (P)|apud Hall; v.l.
 Claud. 7.157|dil-|dirige|Johannes Camers|1510|K6acF14vl|
@@ -1106,7 +1106,7 @@ Claud. 17.110|flabra|flamma|Stephanus Claverius|1602|gpcP2sl|
 Claud. 17.111|-ant|excutiat|Stephanus Claverius|1602|gpcRac|
 Claud. 17.118|lim-|nimbo|Scaliger|1760|Lλ|apud Burmannum
 Claud. 17.118|lim-|nimbo|Caspar von Barth|1650|Lλ|
-Claud. 17.147|regit|gerit|Caspar von Barth|1612|Bodl. Auct. F. 2. 16 (O3)|
+Claud. 17.147|regit|gerit|Caspar von Barth|1612|Bodl. Auct. F.2.16 (O3)|
 Claud. 17.212|-it … sui|emergis … tui|T. W. Paul|1866|Paris. lat. 7936 (P14)|p. 9
 Claud. 17.219|rabidas/rapid-|rabies|Pieter Burman I|1760|P1μacσ|
 Claud. 17.305|uiridis|uarius|Theodor Birt|1892|Paris. lat. 8079 (P11)|marg.
@@ -1126,7 +1126,7 @@ Claud. 18.309|-us/-is|domini|Nicolaus Heinsius|1650|exc. Gyr. (teste Birt)|
 Claud. 18.369|cons-|conciliis|Albert Rubens|1650|Ambros. Μ 9 sup. (K6)|apud Heinsium; Petr. Paul. fil. 
 Claud. 18.501|quod|quo|J. M. Gesner|1759|flor. Gall.|
 Claud. 19.25|de/iam|tum|Nicolaus Heinsius|1760|Paris. lat. 7936 (P14)|apud Burmannum
-Claud. 20.16|-ant|penetrent|T. W. Paul|1866|Bodl. Auct. F. 2. 16 (O3)|p. 9
+Claud. 20.16|-ant|penetrent|T. W. Paul|1866|Bodl. Auct. F.2.16 (O3)|p. 9
 Claud. 20.18|arescat/exundet|ex(s)udet|Nicolaus Heinsius|1665|L3O2pc|
 Claud. 20.25|-us|redditur|Nicolaus Heinsius|1760|Lond. Burn. 166 (L11)|apud Burmannum
 Claud. 20.48|qui|quin|Nicolaus Heinsius|1760|Lond. Burn. 166 (L11)|apud Burmannum p. 845
@@ -1145,7 +1145,7 @@ Claud. 21.189|-ant|ruat|Nicolaus Heinsius|1665|Crac. 71 (g)|
 Claud. 21.205|-ant/-int|paruerunt|Nicolaus Heinsius|1650|Guelf. Gud. lat. 220 (W1)|p. 138
 Claud. 21.226|albim|Alpim|Mommsen|1892|Turic. Car. C. 134 (z1)|apud Birt
 Claud. 21.282|fre-|premerent|Nicolaus Heinsius|1760|F2pc|apud Burmannum p. 866
-Claud. 22.3|rogan-|rigentes|Eduard Arens|1894|Bodl. Auct. F. 2. 16 (O3)|v.l.
+Claud. 22.3|rogan-|rigentes|Eduard Arens|1894|Bodl. Auct. F.2.16 (O3)|v.l.
 Claud. 22.99|-at|fuerit|Nicolaus Heinsius|1650|Lond. Burn. 167 (L)|p. 145 'vel contra libros'
 Claud. 22.146|par-|prauo|Nicolaus Heinsius|1760|Antuerp. Μ 185 (A3)|apud Burmannum p. 873
 Claud. 22.171|-ferat|praeferre|Franz Buecheler|1892|F17pc|apud Birt
@@ -2046,7 +2046,10 @@ Lucan. 7.780|desci-|desisset|Grotius|1614–39|GVa|
 Lucan. 8.311|-unt|fallent|Nicolaus Heinsius|1742|ZMc|
 Lucr. 4.897|ut ac|ut|Muretus|1563|O2|apud Lambinum
 Lyc. Alex. 158|γυίας|γύας|Reichlin|n.d.|P.Oxy. LXIV 4428|
-Lycurg. 20|-σωμεν|κλητεύσομεν|John Taylor|1743|Bodl. Auct. T. 2. 8 (N)|
+Lycurg. 20|-σωμεν|κλητεύσομεν|John Taylor|1743|Bodl. Auct. T.2.8 (N)|
+Lycurg. 21|ἐκ γ.|ἐν γειτόνων|Hermann Sauppe|1834|N2|
+Lycurg. 28|-ὸν|αὐτοὺς|P. P. Dobree|1831|Bodl. Auct. T.2.8 (N)|
+Lycurg. 30|-ὸν|ἑαυτῷ|Henri Estienne|1575|Bodl. Auct. T.2.8 (N)|
 Macr. Sat. 5.19.8|-ΤΡΑΙ|ΚΑΛΥΠΤΑΙ|Valckenaer|1767|TRFA|Diatr. 167C
 Manil. 1.229|-et|deficeres|Bentley|1739|cod. Venetus (V)|
 Manil. 1.264|adu-|auersum|Matthaeus Lannoius|1590|MN|apud Junium
@@ -2087,7 +2090,7 @@ Manil. 4.290|nautis|natis|Scaliger|1600|LMV|
 Manil. 4.304|-no|caeco|Scaliger|1579|Matrit. 3678 (M)|
 Manil. 4.322|quis-|quicquam|Housman|1903|Lips. 1465 (L)|
 Manil. 4.335|cum|cui|Scaliger|1579|Matrit. 3678 (M)|
-Manil. 4.531|quae|qua|Housman|1903|Bodl. Auct. F. 4. 34 (d)|
+Manil. 4.531|quae|qua|Housman|1903|Bodl. Auct. F.4.34 (d)|
 Manil. 4.659|albi-|alpinas|Gronovius|s.xvii med.|Matrit. 3678 (M)|
 Manil. 4.863|quia|qua|Scaliger|1579|Matrit. 3678 (M)|
 Manil. 5.60|et mentita|ementita|Scaliger|1579|Brux. 10012 (G)|
