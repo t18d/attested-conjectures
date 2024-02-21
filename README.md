@@ -4040,7 +4040,7 @@ Jes 44:8|תרהו|תיראו|Frants Buhl|1912|1QIsaᵃ|
 Jes 49:7|לבזה|לבזוי|Bernhard Duhm|1892|1QIsaᵃ|Graetz?
 Jes 54:5|בעליך|בעלכי|Bernhard Duhm|1892|1QIsaᵃ|
 Jes 54:13|בניך|נוניך|Ch.-F. Houbigant|1777|1QIsaᵃ|
-Jes 58:9|שלח|שלוח|Ehrlich||1QIsaᵃ|
+Jes 58:9|שלח|שלוח|Arnold B. Ehrlich|1912|1QIsaᵃ|
 Jes 62:5|יבעל|כבעול|Ch.-F. Houbigant|1777|1QIsaᵃ|
 Matt 5:13 [22]|μωρανθῇ|μαρανθῇ|Naber|1881||[cj10730](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10730)
 Matt 5:19 [58]|οὗτος μέγας|οὕτως, μέγας|Markland|1739||[cj11195](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11195)
