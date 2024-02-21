@@ -4026,7 +4026,9 @@ Zen. 4.80|-ω|Δακτύλων|Andreas Schott|1612|Angel. et Marc. et Paris.|
 [Epich.] fr. 272|πειρ-|θηράσεται|Theodor Kock|1884|P.Petr. I 3(1)|CAF II p. 509
 [Hdn.] Philet. 210|κυν-|κινάραν|Nauck|1889|Q|
 [Hdn.] Π. ἡμαρτ. λέξ. 24|-αι/κατέδεσθαι|καταδέχεσθε|Meineke|1839–57|S|
-Jes 1:18|כשנים|כשני|Michaelis||1QIsaᵃ|
+Jes 1:18|כשנים|כשני|J. D. Michaelis|1779|1QIsaᵃ|
+Jes 15:3|בחוצתיה|בחוצותיו|Kittel||1QIsaᵃ|
+Jes 17:6|בסעפיה|בסעפי|Hitzig||1QIsaᵃ|
 Jes 21:8|אריה|הראה|Max Haller|1914|1QIsaᵃ|
 Jes 33:8|מאס ערים|מאס עדים|Bernhard Duhm|1892|1QIsaᵃ|
 Jes 49:7|לבזה|לבזוי|Bernhard Duhm|1892|1QIsaᵃ|
