@@ -4032,11 +4032,11 @@ Jes 15:3|בחוצתיה|בחוצותיו|Kittel|1906|1QIsaᵃ|
 Jes 17:6|בסעפיה|בסעפי|Ferdinand Hitzig|1831|1QIsaᵃ|Begriff der Kritik p. 134
 Jes 21:8|אריה|הראה|Max Haller|1914|1QIsaᵃ|R. Lowth e 𝕾
 Jes 23:11|מעזניה|מעוזיה|August Knobel|1843|1QIsaᵃ|
-Jes 33:1|כנלתך|ככלותך|Cappell|1650|1QIsaᵃ|
+Jes 33:1|כנלתך|ככלותך|Louis Cappel|n.d.|1QIsaᵃ|
 Jes 33:8|מאס ערים|מאס עדים|Bernhard Duhm|1892|1QIsaᵃ|
 Jes 33:13|ודעו|ידעו|Bernhard Duhm|1892|1QIsaᵃ|
 Jes 43:8|הוציא|הוציאו|Kittel|1906|1QIsaᵃ|
-Jes 44:8|תרהו|תיראו|Buhl||1QIsaᵃ|
+Jes 44:8|תרהו|תיראו|Frants Buhl|1912|1QIsaᵃ|
 Jes 49:7|לבזה|לבזוי|Bernhard Duhm|1892|1QIsaᵃ|Graetz?
 Jes 54:5|בעליך|בעלכי|Bernhard Duhm|1892|1QIsaᵃ|
 Jes 54:13|בניך|נוניך|Ch.-F. Houbigant|1777|1QIsaᵃ|
