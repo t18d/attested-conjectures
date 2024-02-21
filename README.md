@@ -4029,8 +4029,11 @@ Zen. 4.80|-ω|Δακτύλων|Andreas Schott|1612|Angel. et Marc. et Paris.|
 Jes 1:18|כשנים|כשני|J. D. Michaelis|1779|1QIsaᵃ|
 Jes 15:3|בחוצתיה|בחוצותיו|Kittel||1QIsaᵃ|
 Jes 17:6|בסעפיה|בסעפי|Hitzig||1QIsaᵃ|
-Jes 21:8|אריה|הראה|Max Haller|1914|1QIsaᵃ|
+Jes 21:8|אריה|הראה|Max Haller|1914|1QIsaᵃ|Lowth?
+Jes 23:11|מעזניה|מעוזיה|Knobel||1QIsaᵃ|
+Jes 33:1|כנלתך|ככלותך|Cappell||1QIsaᵃ|
 Jes 33:8|מאס ערים|מאס עדים|Bernhard Duhm|1892|1QIsaᵃ|
+Jes 33:13|ודעו|ידעו|Bernhard Duhm|1892|1QIsaᵃ|
 Jes 49:7|לבזה|לבזוי|Bernhard Duhm|1892|1QIsaᵃ|
 Matt 5:13 [22]|μωρανθῇ|μαρανθῇ|Naber|1881||[cj10730](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10730)
 Matt 5:19 [58]|οὗτος μέγας|οὕτως, μέγας|Markland|1739||[cj11195](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11195)
