@@ -55,6 +55,7 @@
         <li>Demosthenes, <em>Orationes</em>, ed. S. H. Butcher and W. Rennie, 3 vols (Oxford, 1903–31).</li>
         <li>Demosthenes, <em>Orationes</em>, ed. M. R. Dilts, 4 vols (Oxford, 2002–9).</li>
         <li>Diggle, James, 'Apologies to Bothe (and Others)', in <em>Euripidea: collected essays</em> (Oxford, 1994), 518–23.</li>
+        <li>Driver, G. R., 'Hebrew Scrolls', <em>The Journal of Theological Studies</em>, 2 (1951), 17–30.</li>
         <li>El-Maghrabi, M. G., and C. Römer (eds), <em>Texts from the "Archive" of Socrates, the Tax Collector, and Other Contexts at Karanis (P. Cair. Mich. II)</em> (Berlin, 2015), 48.</li>
         <li>Eschilo, <em>Agamennone</em>, ed. Enrico Medda (Rome, 2017).</li>
         <li>Eschilo, <em>Supplici</em>, ed. Carles Miralles, Vittorio Citti and Liana Lomiento (Rome, 2019).</li>
