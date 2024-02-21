@@ -4034,7 +4034,10 @@ Jes 23:11|מעזניה|מעוזיה|Knobel||1QIsaᵃ|
 Jes 33:1|כנלתך|ככלותך|Cappell||1QIsaᵃ|
 Jes 33:8|מאס ערים|מאס עדים|Bernhard Duhm|1892|1QIsaᵃ|
 Jes 33:13|ודעו|ידעו|Bernhard Duhm|1892|1QIsaᵃ|
-Jes 49:7|לבזה|לבזוי|Bernhard Duhm|1892|1QIsaᵃ|
+Jes 43:8|הוציא|הוציאו|Kittel||1QIsaᵃ|
+Jes 44:8|תרהו|תיראו|Buhl||1QIsaᵃ|
+Jes 49:7|לבזה|לבזוי|Bernhard Duhm|1892|1QIsaᵃ|Graetz?
+Jes 54:5|בעליך|בעלכי|Bernhard Duhm|1892|1QIsaᵃ|
 Matt 5:13 [22]|μωρανθῇ|μαρανθῇ|Naber|1881||[cj10730](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10730)
 Matt 5:19 [58]|οὗτος μέγας|οὕτως, μέγας|Markland|1739||[cj11195](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11195)
 Matt 5:45 [20]|ὅτι|ὅστις|Beza|1556||[cj11200](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11200)
