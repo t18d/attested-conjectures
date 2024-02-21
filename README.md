@@ -2046,6 +2046,7 @@ Lucan. 7.780|desci-|desisset|Grotius|1614–39|GVa|
 Lucan. 8.311|-unt|fallent|Nicolaus Heinsius|1742|ZMc|
 Lucr. 4.897|ut ac|ut|Muretus|1563|O2|apud Lambinum
 Lyc. Alex. 158|γυίας|γύας|Reichlin|n.d.|P.Oxy. LXIV 4428|
+Lycurg. 20|-σωμεν|κλητεύσομεν|John Taylor|1743|Bodl. Auct. T. 2. 8 (N)|
 Macr. Sat. 5.19.8|-ΤΡΑΙ|ΚΑΛΥΠΤΑΙ|Valckenaer|1767|TRFA|Diatr. 167C
 Manil. 1.229|-et|deficeres|Bentley|1739|cod. Venetus (V)|
 Manil. 1.264|adu-|auersum|Matthaeus Lannoius|1590|MN|apud Junium
@@ -2598,6 +2599,7 @@ Plu. 611D|κατάθεσις|συγκ-|Turnebus|n.d.|PSI XVI 1608|
 Plu. Caes. 45.8|ταιc|αις|Moses Solanus|1729|P.Oxy. LXXXI 5270|
 Plu. Caes. 45.8|τοῖς|del.|Adolph Emperius|s.xix in.|P.Oxy. LXXXI 5270|
 Plu. Comp. Lyc. Num. 3.5|ἀν-|συνερραμμέναι|Henrik van Herwerden|1887|S1|Lucubr. 83
+Plu. Lyc. 6|-κίῳ|Λυκείῳ|Wilhelm Xylander|1560–70|Paris. 1672 (E)|
 Poll. 10.63|κατάχυτλον/-χύτου|-χύτλου|Salmasius|s.xvii in.|Laur. 56.1 (L)|
 Poll. 10.74|δανείζειν|διανίζειν|Henrik van Herwerden|1882|Paris. gr. 2646 (F)|Mnem. 10 (1882) 74
 Polyzel. fr. 2|ἔν-|εὔυδρον|Meineke|1839–57|Phot. ε 986|
