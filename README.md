@@ -4012,10 +4012,12 @@ Verg. Aen. 4.471|-us|agitatur|W. Klouček|1886|Paris. lat. 7906 (p)|
 Verg. Aen. 6.57|di-|derexti|Ribbeck|s.xix ex.|Neap. Vind. lat. 6 (n)|
 Verg. Aen. 10.237|horrentis|ardentis|Johannes Schrader|pre-1767|Pγ (corr. γ1)|
 Verg. ecl. 4.23|fundent|fundet|A. Y. Campbell|1938|Montepess. H 253 (x)|CR 52 (1938) 54–56
-Verg. ecl. 6.33|exordia|ex omnia|P. Hofman Peerlkamp|1861|Palat. lat. 1631 (P)|
+Verg. ecl. 6.33|exordia|ex omnia|P. H. Peerlkamp|1861|Palat. lat. 1631 (P)|
 Verg. georg. 1.418|vias|vices|Markland|1728|γ|ad Stat. silv. 5.2.162
 Verg. georg. 2.81|exiit|exit|Lachmann|1855|γ*|ad Lucr. 3.1042
 Verg. georg. 2.514|hinc (prius)|hic|Markland|1728|iγ1|ad Stat. silv. 1.2.144
+X.Eph. 1.12.1|δὲ|δὲ καὶ|D. K. Zagoiannes|1897|Laur. Conv. Soppr. 627 (F)|
+X.Eph. 2.6.4|ἕξεται|ἄξεται|F. L. Abresch|1739–45|Laur. Conv. Soppr. 627 (F)|
 Xen. Oec. 4.6|φύλακας|φυλακάς|Cobet|s.xix ex.|Laur. 55.21 (G)|
 Xen. Oec. 4.6|καὶ|del.|J. G. Schneider|1805|Ambros. A-157-sup. (Q)|
 Xen. Oec. 5.4|ἀγαθὰ|τἀγαθὰ|Cobet|s.xix ex.|Marc. 511 (V)|
