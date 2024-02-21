@@ -4029,8 +4029,8 @@ Zen. 4.80|-ω|Δακτύλων|Andreas Schott|1612|Angel. et Marc. et Paris.|
 [Hdn.] Π. ἡμαρτ. λέξ. 24|-αι/κατέδεσθαι|καταδέχεσθε|Meineke|1839–57|S|
 Jes 1:18|כשנים|כשני|J. D. Michaelis|1779|1QIsaᵃ|
 Jes 15:3|בחוצתיה|בחוצותיו|Kittel|1906|1QIsaᵃ|
-Jes 17:6|בסעפיה|בסעפי|Hitzig||1QIsaᵃ|
-Jes 21:8|אריה|הראה|Max Haller|1914|1QIsaᵃ|Lowth?
+Jes 17:6|בסעפיה|בסעפי|Ferdinand Hitzig|1831|1QIsaᵃ|Begriff der Kritik p. 134
+Jes 21:8|אריה|הראה|Max Haller|1914|1QIsaᵃ|R. Lowth e 𝕾
 Jes 23:11|מעזניה|מעוזיה|Knobel||1QIsaᵃ|
 Jes 33:1|כנלתך|ככלותך|Cappell|1650|1QIsaᵃ|
 Jes 33:8|מאס ערים|מאס עדים|Bernhard Duhm|1892|1QIsaᵃ|
