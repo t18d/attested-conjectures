@@ -1763,9 +1763,12 @@ Eur. fr. 912.2|φέρων|φέρω|Grotius|1626|P.Oxy. IX 1176|φερ[.]
 Eur. fr. 1063.2|ἄνδρ᾽ ἢ κτλ.|ἄνδρα χρὴ|Conrad Gesner|1543|Chor. 32.52|
 Eust. Il. 353.33|-ὸς|αἰσχρῶς|Guarinus Camers|s.xv/xvi|Laur. 59.2 et 3 (L)|
 Eust. Il. 1291.44|οὔ τοι|οὗτοι|Guarinus Camers|s.xv/xvi|Laur. 59.2 et 3 (L)|
+Harp. Α 19|-θίας|πυθέας|Ph. J. de Maussac|1614|Mediol. 26 (H)|
 Harp. Ε 103|ἐχει-|χειροτονεῖ|Bekker|1833|Arist. Ath.|
 Harp. Κ 5|ἢ ἐν ὁ.|ἣν ὁδῷ|P. J. de Maussac|1614|pl|
 Harp. Κ 26|om.|καὶ|Hermann Sauppe|1850|P.Ryl. III 532|
+Harp. Κ 63|-ει(ν)|βλιμάζῃ|Nicolaas Blancard|1683|Marc. 444 (K)|
+Harp. Ν 19|ἱμερ-|ἡμεραίου|Ph. J. de Maussac|1614|Cantab. Trin. Coll. 0.1.5 (P)|teste Conomis
 Harp. Σ 19|ιε|ι,ε|J. T. Voemel|1850|Matrit. 95 (U)|apud Baiter-Sauppe?
 Hdn. Fig. Walz p. 601.10|Τυδεὺς|ὁ Τυδεὺς|Brunck|1786|Hav|
 Hdt. 1.76.3|ἐπειρῶντο|-ρέοντο|Dindorf|n.d.|P.Oxy. I 19|
