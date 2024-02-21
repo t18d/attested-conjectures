@@ -4020,9 +4020,10 @@ X.Eph. 1.12.1|δὲ|δὲ καὶ|D. K. Zagoiannes|1897|Laur. Conv. Soppr. 627 (
 X.Eph. 2.6.4|ἕξεται|ἄξεται|F. L. Abresch|1739–45|Laur. Conv. Soppr. 627 (F)|
 X.Eph. 3.4.4|καὶ ἄρα καὶ|καὶ γάρ καὶ|Cobet|1856|Laur. Conv. Soppr. 627 (F)|apud Hirschig
 X.Eph. 3.5.4|μου|μοι|Naber|1873–7|Laur. Conv. Soppr. 627 (F)|
-X.Eph. 4.2.7|δέχ-|ἔρχεται|Tiberius Hemsterhuys|1733–5|Laur. Conv. Soppr. 627 (F)|
-X.Eph. 4.2.8|-τίθ-|ἐπετέθειτο|Tiberius Hemsterhuys|1733–5|Laur. Conv. Soppr. 627 (F)|
-X.Eph. 5.4.7|οὐδὲ/ἂν δὲ|μηδὲ|Passow|1833|Laur. Conv. Soppr. 627 (F)|
+X.Eph. 4.2.7|δέχ-|ἔρχεται|Hemsterhuys|1733–5|Laur. Conv. Soppr. 627 (F)|
+X.Eph. 4.2.8|-τίθ-|ἐπετέθειτο|Hemsterhuys|1733–5|Laur. Conv. Soppr. 627 (F)|
+X.Eph. 5.4.7|οὐδὲ/ἂν δὲ|μηδὲ|Franz Passow|1833|Laur. Conv. Soppr. 627 (F)|
+X.Eph. 5.9.8|εἶπε|εἰπέ|F. L. Abresch|1739–45|Laur. Conv. Soppr. 627 (F)|tacite
 Xen. Oec. 4.6|φύλακας|φυλακάς|Cobet|s.xix ex.|Laur. 55.21 (G)|
 Xen. Oec. 4.6|καὶ|del.|J. G. Schneider|1805|Ambros. A-157-sup. (Q)|
 Xen. Oec. 5.4|ἀγαθὰ|τἀγαθὰ|Cobet|s.xix ex.|Marc. 511 (V)|
