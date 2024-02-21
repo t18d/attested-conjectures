@@ -4031,7 +4031,7 @@ Jes 1:18|כשנים|כשני|J. D. Michaelis|1779|1QIsaᵃ|
 Jes 15:3|בחוצתיה|בחוצותיו|Kittel|1906|1QIsaᵃ|
 Jes 17:6|בסעפיה|בסעפי|Ferdinand Hitzig|1831|1QIsaᵃ|Begriff der Kritik p. 134
 Jes 21:8|אריה|הראה|Max Haller|1914|1QIsaᵃ|R. Lowth e 𝕾
-Jes 23:11|מעזניה|מעוזיה|Knobel||1QIsaᵃ|
+Jes 23:11|מעזניה|מעוזיה|August Knobel|1843|1QIsaᵃ|
 Jes 33:1|כנלתך|ככלותך|Cappell|1650|1QIsaᵃ|
 Jes 33:8|מאס ערים|מאס עדים|Bernhard Duhm|1892|1QIsaᵃ|
 Jes 33:13|ודעו|ידעו|Bernhard Duhm|1892|1QIsaᵃ|
