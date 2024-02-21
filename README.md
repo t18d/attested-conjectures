@@ -145,7 +145,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (215), Nicolaus Heinsius (167), Bentley (100), Markland (80), Valckenaer (72), Porson (63), Madvig (62), Beatus Rhenanus (59), Reiske (58), Brunck (54) and Denys Lambin (54) (tied).</p>
+<p>The top 10 critics are Scaliger (215), Nicolaus Heinsius (167), Bentley (101), Markland (80), Valckenaer (72), Porson (63), Madvig (62), Beatus Rhenanus (59), Reiske (58), Brunck (54) and Denys Lambin (54) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3029,6 +3029,11 @@ Sen. nat. 7.20.2|-que r.|qu(a)e repentinum|Janus Gruter|1594|ZU|
 Sen. nat. 7.20.3|si ced-|secedentis|Fortunatus|1522|Escor. N.III.16 (f)|
 Sen. nat. 7.30.5|mundus|etas|M. C. Gertz|1884|ZL2|
 Sen. nat. 7.32.1|philosophum|-phiam|Fortunatus|1522|Monac. Clm 11049 (U)|
+Sil. 2.531|-as|palmam|J. B. Lefebvre|1781|FAXZ|
+Sil. 6.707|-is|tusci|Blass|1890|Harl. 4863|apud Bauer
+Sil. 9.639|-ue|Hannibalemne|Bentley|1811|Laur. Aed. 196 (F)|Class. Jour. 3
+Sil. 10.288|paru-|praua|Alan Ker|1967|Laur. Aed. 196 (F)|Cambr. Philol. Soc. 13
+Sil. 12.251|ca-|rapta|Livineius|s.xvi ex.|FL (α)|
 Simon. fr. 20.9|νηπίοισι|νή]πιοι|Joachim Camerarius|1551|P.Oxy. LIX 3965|
 Simon. fr. 20.10|βιότου|βιότοι'|Joachim Camerarius|1551|P.Oxy. LIX 3965|
 Simon. fr. 25.5|χεέτω|χείτω|M. L. West|1989|P.Oxy. LXXXI 5261|
