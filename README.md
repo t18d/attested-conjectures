@@ -148,7 +148,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (215), Nicolaus Heinsius (170), Bentley (101), Markland (80), Valckenaer (72), Porson (63), Madvig (62), Beatus Rhenanus (59), Reiske (58), Brunck (54) and Denys Lambin (54) (tied).</p>
+<p>The top 10 critics are Scaliger (216), Nicolaus Heinsius (170), Bentley (101), Markland (80), Valckenaer (73), Porson (63), Madvig (62), Reiske (59), Beatus Rhenanus (59), Brunck (54) and Denys Lambin (54) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2053,6 +2053,12 @@ Lycurg. 30|-ὸν|ἑαυτῷ|Henri Estienne|1575|Bodl. Auct. T.2.8 (N)|
 Lycurg. 77|κριν-|κραινόντων|Cobet||tit. Acharn.|
 Lycurg. 84|ἐπιλ-|λήψονται|C. F. Heinrich|1821|Sud.|
 Lycurg. 107|-ία|ἀτιμίη|Hermann||Bodl. Auct. T.2.8 (N)|
+Lycurg. 107|ἀρετ-|ἐρατῆς|Valckenaer||MZ|
+Lycurg. 116|οὕτω|οὔτοι|Scaliger|n.d.|Npc|apud Conomis
+Lycurg. 128|ἐστιν|ἐστιν ἐκ|Conrad Bursian|1870|Bodl. Auct. T.2.8 (N)|
+Lycurg. 140|ἡμ-|ὑμῶν|Hermann Sauppe|1834|Bodl. Auct. T.2.8 (N)|
+Lycurg. 140|πρῶτον|πρώτου|Reiske|1771|Bodl. Auct. T.2.8 (N)|
+Lycurg. 142|-αν|ἔθαψεν|John Taylor|1743|Ambros. A. 99 sup. (P)|
 Macr. Sat. 5.19.8|-ΤΡΑΙ|ΚΑΛΥΠΤΑΙ|Valckenaer|1767|TRFA|Diatr. 167C
 Manil. 1.229|-et|deficeres|Bentley|1739|cod. Venetus (V)|
 Manil. 1.264|adu-|auersum|Matthaeus Lannoius|1590|MN|apud Junium
