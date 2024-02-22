@@ -2238,6 +2238,9 @@ Ov. epist. 1.110|aura|ara|Nicolaus Heinsius|1662|Dp G2|
 Ov. epist. 4.53|reddamus|debemus|Authur Palmer|1874|Bern. 512|s.l.
 Ov. epist. 4.151|et|at|Bentley|1820|Bern. 512|apud Lemaire
 Ov. epist. 5.16|depressa|defensa|A. G. Parrasio|1518|Paris. lat. 7993 (Pa)|
+Ov. fast. 1.232|ni|si|J. M. Heinsius|1722|Plantin. 68|v.l.
+Ov. fast. 1.281|possit|possim|Marcilius||cod. Götting.|ad Hor. epist. 2.1; v.l.
+Ov. fast. 1.494|-o|uacuum|P. V. Sormani|1886|U3 et flor. duo|
 Ov. met. 1.2|-as|illa|P. Lejay|1894|ev U3c|
 Ov. met. 1.50|-amque|utrasque|J. Rappold|1881|ψ|
 Ov. met. 1.332|tec-|tinctum|Bentley|n.d.|φ|
