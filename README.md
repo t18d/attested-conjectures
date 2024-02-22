@@ -103,9 +103,11 @@
         <li>Markus, D., and G. Schwendner, 'Seneca’s Medea in Egypt (663–704)', <em>ZPE</em>, 117 (1997), 73–84.</li>
         <li>Marshall, P. K., <em>The Manuscript Tradition of Cornelius Nepos</em> (Oxford, 1977), 43.</li>
         <li>Oppianus Apameensis, <em>Cynegetica</em>, ed. Manolis Papathomopoulos (Munich, 2003).</li>
+        <li>Ovidius Naso, P., <em>Fastorum libri sex</em>, ed. R. Merkel (Berlin, 1841).</li>
         <li>Ovidius Naso, P., <em>Amores, epistulae, medic. fac. fem., ars amat., remedia amoris</em>, ed. R. Ehwald (Leipzig, 1888).</li>
         <li>Ovidius Naso, P., <em>Heroidas Vol. I</em>, ed. Remus Giomini (Rome, 1963).</li>
         <li>Ovidius Naso, P., <em>Tristia</em>, ed. Georg Luck (Heidelberg, 1967).</li>
+        <li>Ovidius Naso, P., <em>Fastorum libri sex</em>, ed. E. H. Alton, D. E. W. Wormell, E. Courtney (Munich, 1996).</li>
         <li>Ovidius Naso, P., <em>Metamorphoses</em>, ed. R. J. Tarrant (Oxford, 2004).</li>
         <li>Ovidius Naso, P., <em>Carmina amatoria</em>, ed. Antonio Ramírez de Verger (Munich, 2006).</li>
         <li>Page, D. L. (ed.), <em>Poetae melici Graeci</em> (Oxford, 1967).</li>
