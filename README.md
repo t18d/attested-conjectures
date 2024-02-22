@@ -153,7 +153,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (216), Nicolaus Heinsius (170), Bentley (101), Markland (80), Valckenaer (73), Porson (63), Madvig (62), Reiske (59), Beatus Rhenanus (59), Brunck (54) and Denys Lambin (54) (tied).</p>
+<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (170), Bentley (101), Markland (80), Valckenaer (73), Porson (63), Madvig (62), Reiske (59), Beatus Rhenanus (59), Brunck (54) and Denys Lambin (54) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2243,6 +2243,7 @@ Ov. epist. 18.66|ipsa|ipse|F. X. Werfer|1814|Paris. lat. 8242 (P)|Acta philol. M
 Ov. fast. 1.232|ni|si|J. M. Heinsius|1722|Plantin. 68|v.l.
 Ov. fast. 1.281|possit|possim|Marcilius||cod. Götting.|ad Hor. epist. 2.1; v.l.
 Ov. fast. 1.494|-o|uacuum|P. V. Sormani|1886|U3 et flor. duo|
+Ov. fast. 3.115|illa quidem feno|illaque de faeno|Scaliger|1629–30|Paris. lat. 7992 et flor. Berol. (Merkel)|
 Ov. met. 1.2|-as|illa|P. Lejay|1894|ev U3c|
 Ov. met. 1.50|-amque|utrasque|J. Rappold|1881|ψ|
 Ov. met. 1.332|tec-|tinctum|Bentley|n.d.|φ|
