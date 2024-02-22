@@ -1921,10 +1921,11 @@ Hsch. α 2737|παλαιός|μάταιος|F. W. Schmidt|1886|Cyrill. ph|Krit. 
 Hsch. α 2737|ἀλαιός|ἀλεός|Gottfried Sopingius|s.xvi/xvii|Cyrill. ph|apud Schrevelius/Alberti
 Hsch. κ 4905|καμίκην|Καμικοῖς|Johann Alberti|1766|Cyrill.|
 Isoc. 1.12|-οίης|δοκεῖς|Bekker|1822|Paris. 2010 (Y)|
-Isoc. 2.2|διοικοίης|διοικῇς|Blass|1891|Pap. Massiliensis = CPF I.2 17|
-Isoc. 2.8|ταῖς μοναρχίαις|τὰς μοναρχίας|Cobet|1783|Pap. Massiliensis = CPF I.2 17|
+Isoc. 2.2|διοικοίης|διοικῇς|Blass|1891|pap. Massil. = CPF I.2 17|
+Isoc. 2.8|ταῖς μοναρχίαις|τὰς μοναρχίας|Cobet|1783|pap. Massil. = CPF I.2 17|
 Isoc. 2.20|τὰ μὲν πρὸς/τὰ περί|τὰ πρὸς|Bekker|1822|P.Köln VI 253 (π44)|
 Isoc. 2.25|-νείκει|φιλονίκει|Blass|1891|P.Kellis III Gr. 95.3 (π36)|
+Isoc. 2.40|θαύμαζε|θαυμάσῃς|J. G. Baiter||P.Kellis III Gr. 95.3 (π36)|
 Isoc. 4.68|γε|ελαττω γε|Cobet|1783|P.Oxy. V 844|
 Isoc. 8.81|-οντα|λυπήσαντα|Cobet|1783|P.Lond.Lit 132|
 Iuv. 1.67|-o|falsi|Markland|1717–28|PRV|
