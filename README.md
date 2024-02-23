@@ -159,7 +159,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (171), Bentley (103), Markland (80), Valckenaer (73), Porson (63), Madvig (62), Reiske (59), Beatus Rhenanus (59), Brunck (54) and Denys Lambin (54) (tied).</p>
+<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (171), Bentley (103), Markland (80), Valckenaer (73), Madvig (63), Porson (63), Reiske (59), Beatus Rhenanus (59), Brunck (54) and Denys Lambin (54) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -247,6 +247,8 @@ Alc. fr. 6.3|καὶ|ΚΕ’ΝΑ|J. F. A. Seidler|1829|P.Oxy. XV 1789|
 Alc. fr. 34|]ϲον|δεῦτέ μοι νᾶϲον|C. Gallavotti|1947|P.Mich. inv. 3498 + 3250b recto|δεῦτ̣[έ] μοι νᾶcον; Borges-Sampson (2012)
 Alc. fr. 343|τετυγ-|τετυχ[|Lobel|1927|P.Oxy. XXXV 2734|
 Amm. 14.7.12|-es|uocis|Henri de Valois|1636|Paris. lat. 5819 (H)|'Conjecturae nostrae hic aliquantum indulsimus'
+Amm. 14.10.12|-iorum|officiosus|Ludwig Tross|1818|T2|p. 32
+Amm. 14.10.13|absolimo s. at per est s.|absolutio semper aperta est <et> simplex|Madvig|1884|Vat. lat. 2969 (E)|
 Amm. 16.12.39|p(e)and-|pendentis|Gustav Freytag|1874|PT|apud Gardthausen
 Amm. 17.5.13|incl-|inluserunt|Bentley|1878|Basil. S. Petri Ε 27 (P)|RhM p. 476
 Amm. 21.12.5|spect-|sperabatur|Bentley|1880|Vat. lat. 2969 (E)|RhM p. 340
