@@ -157,7 +157,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (170), Bentley (103), Markland (80), Valckenaer (73), Porson (63), Madvig (62), Reiske (59), Beatus Rhenanus (59), Brunck (54) and Denys Lambin (54) (tied).</p>
+<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (171), Bentley (103), Markland (80), Valckenaer (73), Porson (63), Madvig (62), Reiske (59), Beatus Rhenanus (59), Brunck (54) and Denys Lambin (54) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2151,6 +2151,8 @@ Marcellin. Vit. Thuc. 7|πρόσκ-|πρόκλησιν|Hude|1898|Vat. gr. 1302 (
 Marcellin. Vit. Thuc. 38|εἰσαγό-|εἰσαγαγόντων|E. F. Poppo|1843|Ambros. I 25 sup. (Ab)|
 Marcellin. Vit. Thuc. 44|ὀλίγον|καὶ ὀ.|Thomas Arnold|1848|Paris. suppl. gr. 256 (Pl)|
 Marcellin. Vit. Thuc. 52|τῇ παλαιᾷ|del.|E. F. Poppo|1843|Ck Vm|
+Mart. 1.53.11|iud-|uindice|Petrus Scriverius|1619|codd. Ital. (Courtney)|
+Mart. 11.81.4|uter-|utrique|Nicolaus Heinsius||Arondell. Mus. Brit. 136 (Q)|
 Men. Asp. 173|τ’ εμου|τ̣ι̣ μ̣[ου|E. W. Handley|1969|P.Oxy. LXI 4094|ZPE 4 (1969) 162
 Men. Asp. 194|δ’ ειμαι vel δειμαι|δει με|Parsons|1969|P.Oxy. LXI 4094|ZPE 4 (1969) 163
 Men. Asp. 194|δ’ ειμαι vel δειμαι|δ’ ει με|Kassel|1969|P.Oxy. LXI 4094|ZPE 4 (1969) 163
