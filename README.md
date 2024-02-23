@@ -155,7 +155,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (170), Bentley (101), Markland (80), Valckenaer (73), Porson (63), Madvig (62), Reiske (59), Beatus Rhenanus (59), Brunck (54) and Denys Lambin (54) (tied).</p>
+<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (170), Bentley (103), Markland (80), Valckenaer (73), Porson (63), Madvig (62), Reiske (59), Beatus Rhenanus (59), Brunck (54) and Denys Lambin (54) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -242,6 +242,9 @@ Aeschin. 3.243|μοῖραν|μόραν|Hieronymus Wolf|1572|Barb. gr. 159 (B)|
 Alc. fr. 6.3|καὶ|ΚΕ’ΝΑ|J. F. A. Seidler|1829|P.Oxy. XV 1789|
 Alc. fr. 34|]ϲον|δεῦτέ μοι νᾶϲον|C. Gallavotti|1947|P.Mich. inv. 3498 + 3250b recto|δεῦτ̣[έ] μοι νᾶcον; Borges-Sampson (2012)
 Alc. fr. 343|τετυγ-|τετυχ[|Lobel|1927|P.Oxy. XXXV 2734|
+Amm. 16.12.39|p(e)and-|pendentis|G. Freytag||PT|
+Amm. 17.5.13|incl-|inluserunt|Bentley|1878|Basil. S. Petri Ε 27 (P)|RhM p. 476
+Amm. 21.12.5|spect-|sperabatur|Bentley|1880|Vat. lat. 2969 (E)|RhM p. 340
 Anaximen. Rh. 1.13|ἢ ἄ.|ἢ ὑπ' ἄνθρώπων|Leonhard Spengel|1844|P.Hib. I 26|
 Anaximen. Rh. 1.15|τὸν τρόπον τοῦτον|τοῦτον τὸν τρόπον|Leonhard Spengel|1844|P.Hib. I 26|[τ]οῦ[το]ν τὸν [
 Anaximen. Rh. 2.3|περιττῶς|τριττῶς|Bekker|1831|P.Hib. I 26|
@@ -1326,7 +1329,7 @@ Dem. 19.21|διδάσκειν|διδάξαι|Markland|1757|Pap.Flor. IV 24 + P.L
 Dem. 19.21|ταῦτα|τοῦτο|J. T. Voemel|1849|Pap.Flor. IV 24 + P.Lond.Lit. 127|
 Dem. 19.190|εἰσιτήρια/εἰσητήρια|εἰσιτητήρια|Reiske|1774–5|Salaman. M 224 (Sb)|
 Dem. 19.254|οἷος|οἵους|Cobet|s.xix med.|Lond. Addit. 39617 (Ln)|
-Dem. 19.255|-αμένη|ἀποτισομένη|Sylburg||B2|
+Dem. 19.255|-αμένη|ἀποτισομένη|Friedrich Sylburg||B2|
 Dem. 19.280|καὶ τοῦ|τοῦ|P. P. Dobree|1814|P.Oxy. VIII 1094|
 Dem. 19.300|-ους|τούτοις|Reiske|1774–5|Laur. Plut. 61.136 (L)|
 Dem. 19.303|Θεμιστοκλέους|τὸ Θ.|Henri Weil|1883|schol.|
