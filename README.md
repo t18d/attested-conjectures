@@ -242,9 +242,10 @@ Aeschin. 3.243|μοῖραν|μόραν|Hieronymus Wolf|1572|Barb. gr. 159 (B)|
 Alc. fr. 6.3|καὶ|ΚΕ’ΝΑ|J. F. A. Seidler|1829|P.Oxy. XV 1789|
 Alc. fr. 34|]ϲον|δεῦτέ μοι νᾶϲον|C. Gallavotti|1947|P.Mich. inv. 3498 + 3250b recto|δεῦτ̣[έ] μοι νᾶcον; Borges-Sampson (2012)
 Alc. fr. 343|τετυγ-|τετυχ[|Lobel|1927|P.Oxy. XXXV 2734|
-Amm. 16.12.39|p(e)and-|pendentis|G. Freytag||PT|
+Amm. 16.12.39|p(e)and-|pendentis|Gustav Freytag||PT|
 Amm. 17.5.13|incl-|inluserunt|Bentley|1878|Basil. S. Petri Ε 27 (P)|RhM p. 476
 Amm. 21.12.5|spect-|sperabatur|Bentley|1880|Vat. lat. 2969 (E)|RhM p. 340
+Amm. exc. Val.|idem|ibidem|Adrien de Valois|1681|Basil. S. Petri Ε 27 (P)|
 Anaximen. Rh. 1.13|ἢ ἄ.|ἢ ὑπ' ἄνθρώπων|Leonhard Spengel|1844|P.Hib. I 26|
 Anaximen. Rh. 1.15|τὸν τρόπον τοῦτον|τοῦτον τὸν τρόπον|Leonhard Spengel|1844|P.Hib. I 26|[τ]οῦ[το]ν τὸν [
 Anaximen. Rh. 2.3|περιττῶς|τριττῶς|Bekker|1831|P.Hib. I 26|
@@ -2017,7 +2018,7 @@ Iuv. 11.178|-ant|faciunt|Charles de Valois|1810|Laur. 34.42 (K)|apud Achaintre
 Iuv. 11.191|-is|illic|Markland|1717–28|GU|
 Iuv. 12.33|cum ferret|conferret|Lachmann|1850|recc.|
 Iuv. 12.54|ac|hâc|Markland|1717–28|GL1U|
-Iuv. 12.63|-es|uectori|Adrien de Valoiss|1810|L2|apud Achaintre
+Iuv. 12.63|-es|uectori|Adrien de Valois|1810|L2|apud Achaintre
 Iuv. 12.69|aus-|astris|J. Jessen|1900|Paris. 8071 (F)|Philol. 59
 Iuv. 12.86|praes-|restat|François Guyet|1614|GU|
 Iuv. 12.88|-unt|accipient|François Guyet|1614|Lond. BM add. 15600 (Z)|
