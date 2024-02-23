@@ -190,7 +190,7 @@ Aesch. Supp. 79|ηβαι|ἥβαν|C. G. Schütz|1794|schol. vetus (Σ)|
 Aesch. Supp. 459|-εῖ|καλή|Turnebus|1552|Bonon. Bibl. Univ. 2271 (Mb)|a. c.
 Aesch. Supp. 570|τὰν|τὰ|Hermann|1852|Guelf. Gud. gr. 4° 88 (Mc)|a. c.
 Aesch. T 1.5|-ουϲ|Ἀριϲτοφάνει|Bergk|1883|BXc|Hermes 18 (1883) 483
-Aesch. T 56b.2|καταθ-|καϑέϲειϲ|Casaubon|1600|Marc. gr. 468 (V)|Animadv. 260, 24 sq.
+Aesch. T 56b.2|καταθ-|καθέϲειϲ|Casaubon|1600|Marc. gr. 468 (V)|Animadv. 260, 24 sq.
 Aesch. fr. 191.2|μέγα πῇ δ'|μέγαν ἠδ᾽|Isaac Voss|1629|Anon. B|
 Aesch. fr. 300.3|-δεῖ/-δων|κυλίνδει|Salmasius|1629 (?)|Anon. C|
 Aesch. fr. 300.7|ἀγγέ-|ἀντέλλει|Grotius|1626|Anon. C et Tz.|
