@@ -254,7 +254,6 @@ Amm. 14.2.18|[...]terius|ulterius|Petrus Castellus|1517|D2|
 Amm. 14.3.2|cogitabat|agi-|Petrus Castellus|1517|Marc. 388 Bess. (W)|
 Amm. 14.4.1|-ci uitae/-ciui|rapacium|Biondo Flavio|1455–62|Vat. lat. 2969 (E)|
 Amm. 14.5.8|-rup-|abrepto|Petrus Castellus|1517|T2|
-Amm. 14.6.2|geruntur|gereren-|Friedrich Lindenbrog|1609|Vat. lat. 2969 (E)|
 Amm. 14.6.3|-eretur ictura|surgeret uictura|Mariangelo Accursio|1533|Paris. lat. 5819 (H)|
 Amm. 14.6.11|-am|absentia|Henri de Valois|1636|T2|
 Amm. 14.6.12|-peris|suscipieris|Friedrich Lindenbrog|1609|Vat. lat. 2969 (E)|
