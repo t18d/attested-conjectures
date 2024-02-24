@@ -299,6 +299,8 @@ Amm. 20.8.14|eos/ad|eos ad|Mariangelo Accursio|1533|Paris. lat. 6120 (N)|
 Amm. 20.11.15|-it|posset|Mariangelo Accursio|1533|N2|
 Amm. 21.1.10|tidem/item|itidem|Victor Gardthausen|1874|Vat. lat. 2969 (E)|
 Amm. 21.1.14|prospecta|proposita|Albert Kellerbauer|1871|Vat. lat. 2969 (E)|p. 19
+Amm. 21.2.1|quis|quibus|Robert Novák|1910|Paris. lat. 6120 (N)|apud Clark
+Amm. 21.5.1|-es|cladis|Petrus Castellus|1517|Paris. lat. 5819 (H)|
 Amm. 21.12.5|spect-|sperabatur|Bentley|1880|Vat. lat. 2969 (E)|RhM p. 340
 Amm. exc. Val.|idem|ibidem|Adrien de Valois|1681|Basil. S. Petri Ε 27 (P)|
 Anaximen. Rh. 1.13|ἢ ἄ.|ἢ ὑπ' ἄνθρώπων|Leonhard Spengel|1844|P.Hib. I 26|
