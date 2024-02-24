@@ -279,6 +279,7 @@ Amm. 15.4.2|ut [....]gari|et nauigari|Henri de Valois|1636|Paris. lat. 5820 (T)|
 Amm. 15.4.4|ne|ni|Erasmus|1518|E2|
 Amm. 15.4.11|fulm-|fluminis|Petrus Castellus|1517|Paris. lat. 5819 (H)|
 Amm. 15.4.12|-ibus|dorsis|Friedrich Lindenbrog|1609|N2|
+Amm. 15.5.4|praefect-/om.|praetorio|Friedrich Lindenbrog|1609|EP|
 Amm. 15.5.16|cogi-|agitabatur|Franz Eyssenhardt|1871|Vat. lat. 2969 (E)|'aus Berlin kamen die lüderlichen Ausgaben Eyßenharts und Lucian Müller'
 Amm. 15.6.6|-idius|malarichus|Mariangelo Accursio|1533|T2|
 Amm. 15.8.1|-u|contractum|Petrus Castellus|1517|W3|
