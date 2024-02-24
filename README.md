@@ -246,14 +246,21 @@ Aeschin. 3.243|μοῖραν|μόραν|Hieronymus Wolf|1572|Barb. gr. 159 (B)|
 Alc. fr. 6.3|καὶ|ΚΕ’ΝΑ|J. F. A. Seidler|1829|P.Oxy. XV 1789|
 Alc. fr. 34|]ϲον|δεῦτέ μοι νᾶϲον|C. Gallavotti|1947|P.Mich. inv. 3498 + 3250b recto|δεῦτ̣[έ] μοι νᾶcον; Borges-Sampson (2012)
 Alc. fr. 343|τετυγ-|τετυχ[|Lobel|1927|P.Oxy. XXXV 2734|
+Amm. 14.1.3|odio/omo|omnino|Biondo Flavio|1455–62|Vat. lat. 2969 (E)|
+Amm. 14.4.1|-ci uitae/-ciui|rapacium|Biondo Flavio|1455–62|Vat. lat. 2969 (E)|
 Amm. 14.6.12|-peris|suscipieris|Friedrich Lindenbrog|1609|Vat. lat. 2969 (E)|
 Amm. 14.6.25|ortu/ortulus|ortu lucis|Friedrich Lindenbrog|1609|E2|marg.
 Amm. 14.7.12|-es|uocis|Henri de Valois|1636|Paris. lat. 5819 (H)|'Conjecturae nostrae hic aliquantum indulsimus'
 Amm. 14.10.12|-iorum|officiosus|Ludwig Tross|1818|T2|p. 32
 Amm. 14.10.13|absolimo s. at per est s.|absolutio semper aperta est <et> simplex|Madvig|1884|Vat. lat. 2969 (E)|
 Amm. 14.10.16|et c.|e crebris|Mommsen|1910|Vat. lat. 2969 (E)|apud Clark
+Amm. 14.11.1|exitus i.|exitii iam|Petrus Castellus|1517|Vat. lat. 1873 (V)|
 Amm. 14.11.21|exitus i.|exitii iam|J. Gronovius|1693|E2|
 Amm. 15.2.5|cog-|igitur|Friedrich Lindenbrog|1609|Vat. lat. 2969 (E)|
+Amm. 15.3.2|-ra/-rum|arborius|Henri de Valois|1636|Paris. lat. 5820 (T)|
+Amm. 15.3.9|rari s.|rapi sublimes|Biondo Flavio|1455–62|Paris. lat. 6120 (N)|
+Amm. 15.3.11|confes[...]|confessi|Biondo Flavio|1455–62|Vat. lat. 2969 (E)|
+Amm. 15.4.2|ut [....]gari|et nauigari|Henri de Valois|1636|Paris. lat. 5820 (T)|
 Amm. 16.12.39|p(e)and-|pendentis|Gustav Freytag|1874|PT|apud Gardthausen
 Amm. 17.5.13|incl-|inluserunt|Bentley|1878|Basil. S. Petri Ε 27 (P)|RhM p. 476
 Amm. 21.12.5|spect-|sperabatur|Bentley|1880|Vat. lat. 2969 (E)|RhM p. 340
