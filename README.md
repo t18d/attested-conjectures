@@ -280,6 +280,7 @@ Amm. 15.4.11|fulm-|fluminis|Petrus Castellus|1517|Paris. lat. 5819 (H)|
 Amm. 15.4.12|-ibus|dorsis|Friedrich Lindenbrog|1609|N2|
 Amm. 15.5.16|cogi-|agitabatur|Franz Eyssenhardt|1871|Vat. lat. 2969 (E)|'aus Berlin kamen die lüderlichen Ausgaben Eyßenharts und Lucian Müller'
 Amm. 15.6.6|-idius|malarichus|Mariangelo Accursio|1533|T2|
+Amm. 15.8.1|-u|contractum|Petrus Castellus|1517|W3|
 Amm. 15.8.17|arbitionem|arbet-|Erasmus|1518|Paris. lat. 5819 (H)|
 Amm. 15.8.21|-mantis|conclamatis|Friedrich Lindenbrog|1609|Paris. lat. 6120 (N)|
 Amm. 15.10.5|graues|del.|Biondo Flavio|1455–62|ED|
