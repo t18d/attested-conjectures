@@ -253,6 +253,7 @@ Amm. 14.2.6|adhuc|ad hoc|Mariangelo Accursio|1533|T2|
 Amm. 14.2.18|[...]terius|ulterius|Petrus Castellus|1517|D2|
 Amm. 14.3.2|cogitabat|agi-|Petrus Castellus|1517|Marc. 388 Bess. (W)|
 Amm. 14.4.1|-ci uitae/-ciui|rapacium|Biondo Flavio|1455–62|Vat. lat. 2969 (E)|
+Amm. 14.4.3|i. ad[.......]solutus|iamque absolutus|Henri de Valois|1636|Paris. lat. 5819 (H)|
 Amm. 14.5.8|-rup-|abrepto|Petrus Castellus|1517|T2|
 Amm. 14.6.2|geruntur|gereren-|Friedrich Lindenbrog|1609|Vat. lat. 2969 (E)|
 Amm. 14.6.3|-eretur ictura|surgeret uictura|Mariangelo Accursio|1533|Paris. lat. 5819 (H)|
@@ -294,6 +295,7 @@ Amm. 16.1.5|quō/quom … -dare|quoniam … praeclare|Petrus Castellus|1517|Pari
 Amm. 16.7.10|auita/ad uictam|adultam|Friedrich Lindenbrog|1609|Marc. 388 Bess. (W)|
 Amm. 16.7.10|-asset|superesset|Petrus Castellus|1517|H2|
 Amm. 16.12.1|ort-|oratario|Petrus Castellus|1517|Paris. lat. 5819 (H)|
+Amm. 16.12.28|-us|maximos|Petrus Castellus|1517|T2|
 Amm. 16.12.39|p(e)and-|pendentis|Gustav Freytag|1874|PT|apud Gardthausen
 Amm. 17.5.13|incl-|inluserunt|Bentley|1878|Basil. S. Petri Ε 27 (P)|RhM p. 476
 Amm. 21.12.5|spect-|sperabatur|Bentley|1880|Vat. lat. 2969 (E)|RhM p. 340
