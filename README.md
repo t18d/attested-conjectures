@@ -253,6 +253,7 @@ Amm. 14.10.12|-iorum|officiosus|Ludwig Tross|1818|T2|p. 32
 Amm. 14.10.13|absolimo s. at per est s.|absolutio semper aperta est <et> simplex|Madvig|1884|Vat. lat. 2969 (E)|
 Amm. 14.10.16|et c.|e crebris|Mommsen|1910|Vat. lat. 2969 (E)|apud Clark
 Amm. 14.11.21|exitus i.|exitii iam|J. Gronovius|1693|E2|
+Amm. 15.2.5|cog-|igitur|Friedrich Lindenbrog|1609|Vat. lat. 2969 (E)|
 Amm. 16.12.39|p(e)and-|pendentis|Gustav Freytag|1874|PT|apud Gardthausen
 Amm. 17.5.13|incl-|inluserunt|Bentley|1878|Basil. S. Petri Ε 27 (P)|RhM p. 476
 Amm. 21.12.5|spect-|sperabatur|Bentley|1880|Vat. lat. 2969 (E)|RhM p. 340
