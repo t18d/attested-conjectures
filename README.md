@@ -285,7 +285,9 @@ Amm. 15.8.9|nom-|numinis|Mariangelo Accursio|1533|T2|
 Amm. 15.8.17|arbitionem|arbet-|Erasmus|1518|Paris. lat. 5819 (H)|
 Amm. 15.8.21|-mantis|conclamatis|Friedrich Lindenbrog|1609|Paris. lat. 6120 (N)|
 Amm. 15.10.5|graues|del.|Biondo Flavio|1455–62|ED|
+Amm. 15.10.9|hic-|hisque|Henri de Valois|1636|Paris. lat. 5820 (T)|
 Amm. 15.11.14|n. clusa|narbonensi elusa|Friedrich Lindenbrog|1609|Marc. 388 Bess. (W)|
+Amm. 15.12.6|uinx-|iunxit|Petrus Castellus|1517|Marc. 388 Bess. (W)|
 Amm. 16.7.10|auita/ad uictam|adultam|Friedrich Lindenbrog|1609|Marc. 388 Bess. (W)|
 Amm. 16.12.1|ort-|oratario|Petrus Castellus|1517|Paris. lat. 5819 (H)|
 Amm. 16.12.39|p(e)and-|pendentis|Gustav Freytag|1874|PT|apud Gardthausen
