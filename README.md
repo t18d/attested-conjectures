@@ -307,6 +307,9 @@ Amm. 21.9.2|ads-/extensis|escensis|Bentley|1880|Vat. lat. 1873 (V)|
 Amm. 21.11.1|inspir-|insperatus|Mariangelo Accursio|1533|Marc. 388 Bess. (W)|
 Amm. 21.12.3|-monuit|remouit|Petrus Castellus|1517|Paris. lat. 6120 (N)|
 Amm. 21.12.5|spect-|sperabatur|Bentley|1880|Vat. lat. 2969 (E)|RhM p. 340
+Amm. 21.12.15|ad-/hab-|abundabant|Petrus Castellus|1517|Marc. 388 Bess. (W)|
+Amm. 21.12.18|conp-|computabatur|Petrus Castellus|1517|Marc. 388 Bess. (W)|
+Amm. 21.13.2|-em|tardante|Petrus Castellus|1517|N2|
 Amm. exc. Val.|idem|ibidem|Adrien de Valois|1681|Basil. S. Petri Ε 27 (P)|
 Anaximen. Rh. 1.13|ἢ ἄ.|ἢ ὑπ' ἄνθρώπων|Leonhard Spengel|1844|P.Hib. I 26|
 Anaximen. Rh. 1.15|τὸν τρόπον τοῦτον|τοῦτον τὸν τρόπον|Leonhard Spengel|1844|P.Hib. I 26|[τ]οῦ[το]ν τὸν [
