@@ -312,7 +312,6 @@ Amm. 21.12.18|conp-|computabatur|Petrus Castellus|1517|Marc. 388 Bess. (W)|
 Amm. 21.13.2|-em|tardante|Petrus Castellus|1517|N2|
 Amm. 22.6.1|dilect-|dilationem|Petrus Castellus|1517|Paris. lat. 6120 (N)|
 Amm. 22.7.3|-bant|frequentabat|Henri de Valois|1636|T1|
-Amm. 22.7.3|diuerso diuersique|-a quae|Henri de Valois|1636|N2|
 Amm. 22.9.4|-hac|antehoc|Bentley|1880|Vat. lat. 1873 (V)|
 Amm. 22.9.11|-itori/-ito|garrulo|Bentley|1880|Vat. lat. 2969 (E)|
 Amm. 22.15.15|-am/salam|solum|Victor Gardthausen|1874|N2|
