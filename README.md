@@ -159,7 +159,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (171), Bentley (105), Markland (80), Valckenaer (73), Madvig (63), Porson (63), Reiske (59), Beatus Rhenanus (59), Brunck (54) and Denys Lambin (54) (tied).</p>
+<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (171), Bentley (107), Markland (80), Valckenaer (73), Madvig (63), Porson (63), Reiske (59), Beatus Rhenanus (59), Brunck (54) and Denys Lambin (54) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -313,6 +313,8 @@ Amm. 21.13.2|-em|tardante|Petrus Castellus|1517|N2|
 Amm. 22.6.1|dilect-|dilationem|Petrus Castellus|1517|Paris. lat. 6120 (N)|
 Amm. 22.7.3|-bant|frequentabat|Henri de Valois|1636|T1|
 Amm. 22.7.3|diuerso diuersique|-a quae|Henri de Valois|1636|N2|
+Amm. 22.9.4|-hac|antehoc|Bentley|1880|Vat. lat. 1873 (V)|
+Amm. 22.9.11|-itori/-ito|garrulo|Bentley|1880|Vat. lat. 2969 (E)|
 Amm. exc. Val.|idem|ibidem|Adrien de Valois|1681|Basil. S. Petri Ε 27 (P)|
 Anaximen. Rh. 1.13|ἢ ἄ.|ἢ ὑπ' ἄνθρώπων|Leonhard Spengel|1844|P.Hib. I 26|
 Anaximen. Rh. 1.15|τὸν τρόπον τοῦτον|τοῦτον τὸν τρόπον|Leonhard Spengel|1844|P.Hib. I 26|[τ]οῦ[το]ν τὸν [
