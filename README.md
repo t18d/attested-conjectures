@@ -2729,7 +2729,7 @@ Porph. Antr. 8|ἔρχετ᾽|ἔρχεταί τ᾽|Rudolf Hercher|1858|Vat. gr.
 Priscian. Inst. 18.197|ὅσοι γὰρ/θεοῖς ἄρ'|θεοὶ γὰρ|Madvig|1846|VR|Philol. 1 (1846) 672
 Prob. vita Pers. l. 37|centies|centum|Casaubon|n.d.|Lond. mus. Brit. Reg. 15 B XIX|
 Prop. 1.6.9|meam|se iam|Nicolaus Heinsius|1742|recc.|
-Prop. 1.9.29|manus|malus|Franz Modius|1605|recc.|
+Prop. 1.9.29|manus|malus|Franciscus Modius|1584|recc.|p. 81
 Prop. 1.12.7|illo|ullo|Nicolaus Heinsius|1742|recc.|
 Prop. 1.20.6|Therodom-|Theiodamanteo|H. E. Butler|1905|Ambros. H 46 sup.|New
 Prop. 2.4.13|-o|subitum|Nicolaus Heinsius|1742|Casanat. 3227|
