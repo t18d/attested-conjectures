@@ -315,6 +315,9 @@ Amm. 22.7.3|-bant|frequentabat|Henri de Valois|1636|T1|
 Amm. 22.7.3|diuerso diuersique|-a quae|Henri de Valois|1636|N2|
 Amm. 22.9.4|-hac|antehoc|Bentley|1880|Vat. lat. 1873 (V)|
 Amm. 22.9.11|-itori/-ito|garrulo|Bentley|1880|Vat. lat. 2969 (E)|
+Amm. 22.15.15|-am/salam|solum|Victor Gardthausen|1874|N2|
+Amm. 22.15.15|mori-|morsibus|Petrus Castellus|1517|T2|
+Amm. 22.15.27|aconc-|acontias|Petrus Castellus|1517|Paris. lat. 5820 (T)|
 Amm. exc. Val.|idem|ibidem|Adrien de Valois|1681|Basil. S. Petri Ε 27 (P)|
 Anaximen. Rh. 1.13|ἢ ἄ.|ἢ ὑπ' ἄνθρώπων|Leonhard Spengel|1844|P.Hib. I 26|
 Anaximen. Rh. 1.15|τὸν τρόπον τοῦτον|τοῦτον τὸν τρόπον|Leonhard Spengel|1844|P.Hib. I 26|[τ]οῦ[το]ν τὸν [
