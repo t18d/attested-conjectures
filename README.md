@@ -330,6 +330,7 @@ Amm. 27.3.1|ads-|escenso|Bentley|1880|Vat. lat. 1873 (V)|e Gronovio?
 Amm. 27.4.6|-untur|claudunt|Mariangelo Accursio|1533|N2|
 Amm. 27.9.10|faciebat|factitabat|Friedrich Lindenbrog|1609|Marc. 388 Bess. (W)|
 Amm. 27.10.16|oppetiere/petere|periere|Michael Petschenig|1892|Paris. lat. 6120 (N)|Philol. 52
+Amm. 27.12.14|fict-|futurae|Mariangelo Accursio|1533|Marc. 388 Bess. (W)|
 Amm. exc. Val.|idem|ibidem|Adrien de Valois|1681|Basil. S. Petri Ε 27 (P)|
 Anaximen. Rh. 1.13|ἢ ἄ.|ἢ ὑπ' ἄνθρώπων|Leonhard Spengel|1844|P.Hib. I 26|
 Anaximen. Rh. 1.15|τὸν τρόπον τοῦτον|τοῦτον τὸν τρόπον|Leonhard Spengel|1844|P.Hib. I 26|[τ]οῦ[το]ν τὸν [
