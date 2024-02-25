@@ -310,6 +310,9 @@ Amm. 21.12.5|spect-|sperabatur|Bentley|1880|Vat. lat. 2969 (E)|RhM p. 340
 Amm. 21.12.15|ad-/hab-|abundabant|Petrus Castellus|1517|Marc. 388 Bess. (W)|
 Amm. 21.12.18|conp-|computabatur|Petrus Castellus|1517|Marc. 388 Bess. (W)|
 Amm. 21.13.2|-em|tardante|Petrus Castellus|1517|N2|
+Amm. 22.6.1|dilect-|dilationem|Petrus Castellus|1517|Paris. lat. 6120 (N)|
+Amm. 22.7.3|-bant|frequentabat|Henri de Valois|1636|T1|
+Amm. 22.7.3|diuerso diuersique|-a quae|Henri de Valois|1636|N2|
 Amm. exc. Val.|idem|ibidem|Adrien de Valois|1681|Basil. S. Petri Ε 27 (P)|
 Anaximen. Rh. 1.13|ἢ ἄ.|ἢ ὑπ' ἄνθρώπων|Leonhard Spengel|1844|P.Hib. I 26|
 Anaximen. Rh. 1.15|τὸν τρόπον τοῦτον|τοῦτον τὸν τρόπον|Leonhard Spengel|1844|P.Hib. I 26|[τ]οῦ[το]ν τὸν [
