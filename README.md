@@ -318,6 +318,11 @@ Amm. 26.1.7|pig-/ig-|cognorat|Petrus Castellus|1517|N2|
 Amm. 26.1.13|corrept-|correcta|Petrus Castellus|1517|Paris. lat. 5819 (H)|
 Amm. 26.3.4|inpunita|impunitas|Mariangelo Accursio|1533|N2|
 Amm. 26.6.16|frem-|fragmentis|Petrus Castellus|1517|Paris. lat. 5819 (H)|
+Amm. 26.8.6|cicic-|cyzicum|Erasmus|1518|N2|
+Amm. 26.8.7|bellis pontum|hellespontum|Mariangelo Accursio|1533|Paris. lat. 6120 (N)|
+Amm. 26.8.10|-fusus/-fisus|confossus|Petrus Castellus|1517|N2|
+Amm. 26.8.12|asc- n. nusquam/escensana usquam|escensa naui quam|Franz Eyssenhardt|1871|Vat. lat. 2969 (E)|
+Amm. 26.8.15|quos-|quodam|Erasmus|1518|Paris. lat. 6120 (N)|
 Amm. exc. Val.|idem|ibidem|Adrien de Valois|1681|Basil. S. Petri Ε 27 (P)|
 Anaximen. Rh. 1.13|ἢ ἄ.|ἢ ὑπ' ἄνθρώπων|Leonhard Spengel|1844|P.Hib. I 26|
 Anaximen. Rh. 1.15|τὸν τρόπον τοῦτον|τοῦτον τὸν τρόπον|Leonhard Spengel|1844|P.Hib. I 26|[τ]οῦ[το]ν τὸν [
