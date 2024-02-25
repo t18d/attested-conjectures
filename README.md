@@ -247,10 +247,8 @@ Alc. fr. 6.3|καὶ|ΚΕ’ΝΑ|J. F. A. Seidler|1829|P.Oxy. XV 1789|
 Alc. fr. 34|]ϲον|δεῦτέ μοι νᾶϲον|C. Gallavotti|1947|P.Mich. inv. 3498 + 3250b recto|δεῦτ̣[έ] μοι νᾶcον; Borges-Sampson (2012)
 Alc. fr. 343|τετυγ-|τετυχ[|Lobel|1927|P.Oxy. XXXV 2734|
 Amm. 14.1.3|conmis-|commisceri|Petrus Castellus|1517|Marc. 388 Bess. (W)|
-Amm. 14.1.3|odio/omo|omnino|Biondo Flavio|1455–62|Vat. lat. 2969 (E)|
 Amm. 14.2.18|[...]terius|ulterius|Petrus Castellus|1517|D2|
 Amm. 14.3.2|cogitabat|agi-|Petrus Castellus|1517|Marc. 388 Bess. (W)|
-Amm. 14.4.1|-ci uitae/-ciui|rapacium|Biondo Flavio|1455–62|Vat. lat. 2969 (E)|
 Amm. 14.5.8|-rup-|abrepto|Petrus Castellus|1517|T2|
 Amm. 14.6.11|-am|absentia|Henri de Valois|1636|T2|
 Amm. 14.6.12|-peris|suscipieris|Friedrich Lindenbrog|1609|Vat. lat. 2969 (E)|
@@ -267,7 +265,6 @@ Amm. 14.11.21|exitus i.|exitii iam|J. Gronovius|1693|E2|
 Amm. 15.2.5|cog-|igitur|Friedrich Lindenbrog|1609|Vat. lat. 2969 (E)|
 Amm. 15.3.2|-ra/-rum|arborius|Henri de Valois|1636|Paris. lat. 5820 (T)|
 Amm. 15.3.9|rari s.|rapi sublimes|Friedrich Lindenbrog|1609|Paris. lat. 6120 (N)|
-Amm. 15.3.11|confes[...]|confessi|Biondo Flavio|1455–62|Vat. lat. 2969 (E)|
 Amm. 15.4.1|indit-|indictum|Erasmus|1518|Marc. 388 Bess. (W)|
 Amm. 15.4.2|ut [....]gari|et nauigari|Henri de Valois|1636|Paris. lat. 5820 (T)|
 Amm. 15.4.3|i. ad[.......]solutus|iamque absolutus|Henri de Valois|1636|Paris. lat. 5819 (H)|
@@ -280,7 +277,6 @@ Amm. 15.8.1|-u|contractum|Petrus Castellus|1517|W3|
 Amm. 15.8.17|arbitionem|arbet-|Erasmus|1518|Paris. lat. 5819 (H)|
 Amm. 15.8.21|-mantis|conclamatis|Friedrich Lindenbrog|1609|Paris. lat. 6120 (N)|
 Amm. 15.9.8|dryarid-|druidae|Petrus Castellus|1517|Paris. lat. 6120 (N)|
-Amm. 15.10.5|graues|del.|Biondo Flavio|1455–62|ED|
 Amm. 15.10.9|hic-|hisque|Henri de Valois|1636|Paris. lat. 5820 (T)|
 Amm. 15.11.14|n. clusa|narbonensi elusa|Friedrich Lindenbrog|1609|Marc. 388 Bess. (W)|
 Amm. 15.12.6|uinx-|iunxit|Petrus Castellus|1517|Marc. 388 Bess. (W)|
