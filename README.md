@@ -2977,9 +2977,13 @@ Scrib. Larg. 201|actum|factum|Johannes Rhodius|1655|Casin. 69 (Ca)|
 Scrib. Larg. 206|-ibus|fronti|Johannes Rhodius|1655|Casin. 69 (Ca)|
 Scrib. Larg. 260|-am/-um|liquefacta|C. Lausdei|pre-2020|Casin. 69 (Ca)|
 Scrib. Larg. praef. 7|quae|qua|Johannes Rhodius|1655|Toledo 98.12 (T)|
-Sen. Ag. 127|tu-|timido|Bentley|1882|cod. Orator.|
+Sen. Ag. 127|tu-|timido|Bentley|1882|cod. Orator. (O)|
 Sen. Ag. 258|-a/-i|maritam|Nicolaus Heinsius|1742|Laur. 37.3|
+Sen. Ag. 264|in t.|toro|Girolamo Avanzi|1517|Ambros. D 276 inf. (M)|
 Sen. Ag. 915|times|metus|Lipsius|1621|Ambros. D 276 inf. (M)|apud Scriverium
+Sen. Herc. O. 145|feracas pias/fera caseta|fera Caspia|Jodocus Badius|1514|Bodl. Canon. Class. Lat. 93 (Ox.)|
+Sen. Herc. O. 542|-it|quatis|F. H. Bothe|1819|Eton. 110 (e)|
+Sen. Herc. O. 819|iussa|visa|Girolamo Avanzi|1517|cod. Orator. (O)|
 Sen. Herc. O. 825|vix|vis|F. H. Bothe|1819|Eton. 110 (e)|
 Sen. Herc. f. 604|quae i.|qui iussit|Lipsius|1798|cod. Mogunt.|apud Baden
 Sen. Herc. f. 823|ob-|aborta|H. Weber|1907|V et recc.|
@@ -2989,14 +2993,14 @@ Sen. Med. 256|quem/quippe te|quippe quem|Gronovius|1661|Ambros. G 82 sup. (R)|
 Sen. Med. 573|quod-|quique|Gronovius|1661|O1|
 Sen. Med. 677|effudit|effundit|Nicolaus Heinsius|1742|P.Mich. inv. 4969 fr. 36|
 Sen. Med. 1026|-i|sublimis|Hendrik Wagenvoort|1953|Qpc|Mnem.
-Sen. Oed. 50|crem-|tremat|Gronovius|1661|cod. Orator.|
+Sen. Oed. 50|crem-|tremat|Gronovius|1661|cod. Orator. (O)|
 Sen. Phaedr. 334|hac/h(a)ec|hic|Daniele Caetani|1493|cod. Pincianus (Delrio)|apud Bothe
 Sen. Phaedr. 567|dur-|dirus|Girolamo Avanzi|1517|OT|
 Sen. Phaedr. 883|-it|abnuis|Nicolaus Heinsius|1742|Camerac. B 55 (K)|
-Sen. Phoen. 358|d. a. patri|date arma matri|Gronovius|1661|cod. Orator.|
+Sen. Phoen. 358|d. a. patri|date arma matri|Gronovius|1661|cod. Orator. (O)|
 Sen. Thy. 585|aeternis|Aetnaeis|Girolamo Avanzi|1517|Eton. 110 (e)|ethneis e
 Sen. Thy. 777|rup-|raptum|Nicolaus Heinsius|1742|Laur. 37.6|
-Sen. Thy. 916|hoc, hoc|hoc haec|M. A. Delrio|Casin. 392 P (Q)||
+Sen. Thy. 916|hoc, hoc|hoc haec|M. A. Delrio|1619–20|Casin. 392 P (Q)|
 Sen. Thy. 1104|-repto|praecepto|Nicolaus Heinsius|1742|Kac|
 Sen. Tro. 463|-yti|inclita|Nicolaus Heinsius|1742|Paris. lat. 8260 (P)|
 Sen. Tro. 504|turris-/turpes-|tutasque|Leo|1876|Ambros. D 276 inf. (M)|Hermes
