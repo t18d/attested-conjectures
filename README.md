@@ -162,7 +162,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (173), Bentley (110), Markland (80), Valckenaer (73), Madvig (63), Porson (63), Reiske (59), Beatus Rhenanus (59), Brunck (54) and Denys Lambin (54) (tied).</p>
+<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (174), Bentley (111), Markland (80), Valckenaer (73), Madvig (63), Porson (63), Reiske (59), Beatus Rhenanus (59), Brunck (54) and Denys Lambin (54) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2977,6 +2977,7 @@ Scrib. Larg. 201|actum|factum|Johannes Rhodius|1655|Casin. 69 (Ca)|
 Scrib. Larg. 206|-ibus|fronti|Johannes Rhodius|1655|Casin. 69 (Ca)|
 Scrib. Larg. 260|-am/-um|liquefacta|C. Lausdei|pre-2020|Casin. 69 (Ca)|
 Scrib. Larg. praef. 7|quae|qua|Johannes Rhodius|1655|Toledo 98.12 (T)|
+Sen. Ag. 127|tu-|timido|Bentley|1882|cod. Orator.|
 Sen. Herc. O. 825|vix|vis|F. H. Bothe|1819|Eton. 110 (e)|
 Sen. Herc. f. 604|quae i.|qui iussit|Lipsius|1798|cod. Mogunt.|apud Baden
 Sen. Herc. f. 823|ob-|aborta|H. Weber|1907|V et recc.|
@@ -2986,6 +2987,10 @@ Sen. Med. 256|quem/quippe te|quippe quem|Gronovius|1661|Ambros. G 82 sup. (R)|
 Sen. Med. 573|quod-|quique|Gronovius|1661|O1|
 Sen. Med. 677|effudit|effundit|Nicolaus Heinsius|1742|P.Mich. inv. 4969 fr. 36|
 Sen. Med. 1026|-i|sublimis|Hendrik Wagenvoort|1953|Qpc|Mnem.
+Sen. Oed. 50|crem-|tremat|Gronovius|1661|cod. Orator.|
+Sen. Phaedr. 334|hac/h(a)ec|hic|Daniele Caetani|1493|cod. Pincianus (Delrio)|apud Bothe
+Sen. Phaedr. 567|dur-|dirus|Girolamo Avanzi|1517|OT|
+Sen. Phaedr. 883|-it|abnuis|Nicolaus Heinsius|1742|Camerac. B 55 (K)|
 Sen. Phoen. 358|d. a. patri|date arma matri|Gronovius|1661|cod. Orator.|
 Sen. Thy. 777|rup-|raptum|Nicolaus Heinsius|1742|Laur. 37.6|
 Sen. Tro. 463|-yti|inclita|Nicolaus Heinsius|1742|Paris. lat. 8260 (P)|
