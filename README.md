@@ -337,6 +337,8 @@ Amm. 28.2.12|-um (E)|corrumpentium|Mariangelo Accursio|1533|Marc. 388 Bess. (W)|
 Amm. 28.4.12|uit-|interioris|Mariangelo Accursio|1533|Paris. lat. 6120 (N)|
 Amm. 28.4.24|-nent/-net|obtineat|Mariangelo Accursio|1533|Paris. lat. 5821 (C)|
 Amm. 28.4.32|-oruntur|exploduntur|Mariangelo Accursio|1533|MN|
+Amm. 28.6.16|flactia-|flaccianum|Mariangelo Accursio|1533|Marc. 388 Bess. (W)|
+Amm. 28.6.18|-en|aristomenem|Mariangelo Accursio|1533|Marc. 388 Bess. (W)|
 Amm. exc. Val.|idem|ibidem|Adrien de Valois|1681|Basil. S. Petri Ε 27 (P)|
 Anaximen. Rh. 1.13|ἢ ἄ.|ἢ ὑπ' ἄνθρώπων|Leonhard Spengel|1844|P.Hib. I 26|
 Anaximen. Rh. 1.15|τὸν τρόπον τοῦτον|τοῦτον τὸν τρόπον|Leonhard Spengel|1844|P.Hib. I 26|[τ]οῦ[το]ν τὸν [
