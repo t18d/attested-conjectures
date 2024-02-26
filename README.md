@@ -3007,6 +3007,7 @@ Sen. Thy. 1104|-repto|praecepto|Nicolaus Heinsius|1742|Kac|
 Sen. Tro. 463|-yti|inclita|Nicolaus Heinsius|1742|Paris. lat. 8260 (P)|
 Sen. Tro. 504|turris-/turpes-|tutasque|Leo|1876|Ambros. D 276 inf. (M)|Hermes
 Sen. Tro. 629|-am|erutum|Bentley|1899|Mediol. Trivult. 809|
+Sen. apocol. 3.1|educ-|seducit|Gronovius|1658|Sangall. 569 (S)|
 Sen. dial. 5.14.6|praeciperet. quem|praeciperet ei quem|Friedrich Haase|1852|Laur. 76.32 (L)|
 Sen. dial. 5.19.5|adest|id est|Muretus|1585|Laur. 76.32 (L)|
 Sen. dial. 5.23.6|inignem p.|in igne posuit|Madvig|1871|Laur. 76.32 (L)|
