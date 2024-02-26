@@ -277,8 +277,7 @@ Amm. 15.8.17|arbitionem|arbet-|Erasmus|1518|Paris. lat. 5819 (H)|
 Amm. 15.8.21|-mantis|conclamatis|Friedrich Lindenbrog|1609|Paris. lat. 6120 (N)|
 Amm. 15.9.8|dryarid-|druidae|Petrus Castellus|1517|Paris. lat. 6120 (N)|
 Amm. 15.10.9|hic-|hisque|Henri de Valois|1636|Paris. lat. 5820 (T)|
-Amm. 15.11.14|n. clusa|narbonensi elusa|Friedrich Lindenbrog|1609|Marc. 388 Bess. (W)|
-Amm. 15.12.6|uinx-|iunxit|Petrus Castellus|1517|Marc. 388 Bess. (W)|
+Amm. 15.11.14|n. clusa|narbonensi elusa|Mariangelo Accursio|1533|Marc. 388 Bess. (W)|
 Amm. 16.1.1|fact-|fatorum|Petrus Castellus|1517|N2|
 Amm. 16.1.5|quō/quom … -dare|quoniam … praeclare|Petrus Castellus|1517|Paris. lat. 6120 (N)|
 Amm. 16.7.10|auita/ad uictam|adultam|Friedrich Lindenbrog|1609|Marc. 388 Bess. (W)|
