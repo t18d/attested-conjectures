@@ -2982,7 +2982,10 @@ Sen. Herc. f. 604|quae i.|qui iussit|Lipsius|1798|cod. Mogunt.|apud Baden
 Sen. Herc. f. 823|ob-|aborta|H. Weber|1907|V et recc.|
 Sen. Herc. f. 1032–4||choro attribuit|Leo|1878|Ambros. D 276 inf. (M)|
 Sen. Med. 132|ingest-/incest-|incertum|M. A. Delrio|1619–20|Vat. Regin. lat. 1500 (r)|
+Sen. Med. 256|quem/quippe te|quippe quem|Gronovius|1661|Ambros. G 82 sup. (R)|
+Sen. Med. 573|quod-|quique|Gronovius|1661|O1|
 Sen. Med. 677|effudit|effundit|Nicolaus Heinsius|1742|P.Mich. inv. 4969 fr. 36|
+Sen. Med. 1026|-i|sublimis|Hendrik Wagenvoort|1953|Qpc|Mnem.
 Sen. Phoen. 358|d. a. patri|date arma matri|Gronovius|1661|cod. Orator.|
 Sen. Thy. 777|rup-|raptum|Nicolaus Heinsius|1742|Laur. 37.6|
 Sen. Tro. 463|-yti|inclita|Nicolaus Heinsius|1742|Paris. lat. 8260 (P)|
