@@ -248,7 +248,6 @@ Alc. fr. 34|]ϲον|δεῦτέ μοι νᾶϲον|C. Gallavotti|1947|P.Mich. in
 Alc. fr. 343|τετυγ-|τετυχ[|Lobel|1927|P.Oxy. XXXV 2734|
 Amm. 14.1.3|conmis-|commisceri|Petrus Castellus|1517|Marc. 388 Bess. (W)|
 Amm. 14.2.18|[...]terius|ulterius|Petrus Castellus|1517|D2|
-Amm. 14.3.2|cogitabat|agi-|Petrus Castellus|1517|Marc. 388 Bess. (W)|
 Amm. 14.5.8|-rup-|abrepto|Petrus Castellus|1517|T2|
 Amm. 14.6.11|-am|absentia|Henri de Valois|1636|T2|
 Amm. 14.6.12|-peris|suscipieris|Friedrich Lindenbrog|1609|Vat. lat. 2969 (E)|
