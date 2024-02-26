@@ -22,6 +22,9 @@
         <li>Aeschines, <em>Orationes</em>, ed. Mervin R. Dilts (Stuttgart, 1997).</li>
         <li>Ammianus Marcellinus, <em>Rerum gestarum libri qui supersunt</em>, ed. V. Gardthausen (Leipzig, 1874–5).</li>
         <li>Ammianus Marcellinus, <em>Rerum gestarum libri qui supersunt</em>, ed. Charles U. Clark (Berlin, 1910–1915).</li>
+        <li>Ammien Marcellin, <em>Histoire</em>, i, ed. Édouard Galletier (Paris, 1968).</li>
+        <li>Ammien Marcellin, <em>Histoire</em>, v, ed. Marie-Anne Marié (Paris, 1984).</li>
+        <li>Ammien Marcellin, <em>Histoire</em>, iii, ed. Jacques Fontaine (Paris, 1996).</li>
         <li>Aristophanes, <em>Fabulae</em>, ed. N. G. Wilson, 2 vols (Oxford, 2007).</li>
         <li>Apollonius Rhodius, <em>Argonautica</em>, ed. Hermann Fränkel (Oxford, 1961).</li>
         <li>Asztalos, Monika, Tor Ivar Østmoe, et al., <em><a href="http://www.tekstlab.uio.no/horace/">Repertory of Conjectures on Horace</a></em>, University of Oslo, accessed 9 Feb. 2024.</li>
@@ -109,7 +112,7 @@
         <li>Oppianus Apameensis, <em>Cynegetica</em>, ed. Manolis Papathomopoulos (Munich, 2003).</li>
         <li>Ovidius Naso, P., <em>Fastorum libri sex</em>, ed. R. Merkel (Berlin, 1841).</li>
         <li>Ovidius Naso, P., <em>Amores, epistulae, medic. fac. fem., ars amat., remedia amoris</em>, ed. R. Ehwald (Leipzig, 1888).</li>
-        <li>Ovidius Naso, P., <em>Heroidas Vol. I</em>, ed. Remus Giomini (Rome, 1963).</li>
+        <li>Ovidius Naso, P., <em>Heroidas</em>, i, ed. Remus Giomini (Rome, 1963).</li>
         <li>Ovidius Naso, P., <em>Tristia</em>, ed. Georg Luck (Heidelberg, 1967).</li>
         <li>Ovidius Naso, P., <em>Fastorum libri sex</em>, ed. E. H. Alton, D. E. W. Wormell, E. Courtney (Munich, 1996).</li>
         <li>Ovidius Naso, P., <em>Metamorphoses</em>, ed. R. J. Tarrant (Oxford, 2004).</li>
