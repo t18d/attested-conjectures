@@ -36,6 +36,9 @@
         <li>Botley, Paul, <em>Richard ‘Dutch’ Thomson, c. 1569–1613</em> (Leiden, 2016), 105.</li>
         <li>Brink, C. O. (= K. O.), <em>Horace on Poetry</em> (Cambridge, 1971).</li>
         <li>Buecheler, Franz (ed.), <em>Petronii Saturae et liber Priapeorum</em> (Berlin, 1904).</li>
+        <li>Caesar, C. Iulius, <em>Commentarii belli civilis</em>, ed. Alfred Klotz (Leipzig, 1926).</li>
+        <li>Caesar, C. Iulius, <em>Commentarii belli Alexandrini, belli Africi, belli Hispaniensis</em>, ed. Alfred Klotz (Leipzig, 1927).</li>
+        <li>Caesar, C. Iulius, <em>Bellum Gallicum</em>, ed. Otto Seel (Leipzig, 1968).</li>
         <li>Callimachus, <em>Fragmenta</em>, ed. Rudolf Pfeiffer (Oxford, 1949).</li>
         <li>Callimachus, <em>Hymni et Epigrammata</em>, ed. Rudolf Pfeiffer (Oxford, 1953).</li>
         <li>Callimachus, <em>The Hymns</em>, ed. Susan A. Stephens (Oxford, 2015).</li>
