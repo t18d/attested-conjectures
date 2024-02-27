@@ -575,6 +575,7 @@ BGU 1074|Οὐήρῳ|Σευήρῳ|Viereck|n.d.|P.Oxy. XXVII 2476|
 Bacchyl. 17.53|μ[ε κουρ]α|με νυμ[φα|H. Jurenka|1898|P.Oxy. VIII 1091|
 Bacchyl. 17.62|βαθείας| ἐκ βαθείας|Blass|1898|P.Oxy. VIII 1091|
 Bacchyl. fr. 20B.11|αὐτὴ/αὐτὰς|αὐτίκα|Georg Kaibel|s.xix ex.|P.Oxy. XI 1361|αυτ̣ικ̣[.]
+Bell. Alex. 33.2|-i(s)|regum|Robert Estienne|1544|cod. Ashburn. (S)|
 Caes. Gall. 5.30.2|hi sapient|hi si sapient|Madvig|1873|recc.|
 Call. Ap. 2|οἷο δ'|οἷον|Valckenaer|1799|P.Oxy. XX 2258|
 Call. Ap. 7|μακράν|-ρην|Meineke|1861|P.Oxy. ined. A fr. 2 recto|
