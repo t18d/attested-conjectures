@@ -579,7 +579,7 @@ Bacchyl. 17.53|μ[ε κουρ]α|με νυμ[φα|H. Jurenka|1898|P.Oxy. VIII 10
 Bacchyl. 17.62|βαθείας| ἐκ βαθείας|Blass|1898|P.Oxy. VIII 1091|
 Bacchyl. fr. 20B.11|αὐτὴ/αὐτὰς|αὐτίκα|Georg Kaibel|s.xix ex.|P.Oxy. XI 1361|αυτ̣ικ̣[.]
 Bell. Alex. 33.2|-i(s)|regum|Robert Estienne|1544|Laur. Ashburn. 33 (S)|
-Caes. Gall. 5.30.2|hi sapient|hi si sapient|Madvig|1873|recc.|
+Caes. Gall. 5.30.2|hi sapient, si|hi si sapient, si|Madvig|1873|Vindob. 95 (V)|
 Caes. civ. 5.30.2|in sorte|in Syria|Robert Estienne|1544|Laur. Plut. 68.8 (W)|m. sec.
 Call. Ap. 2|οἷο δ'|οἷον|Valckenaer|1799|P.Oxy. XX 2258|
 Call. Ap. 7|μακράν|-ρην|Meineke|1861|P.Oxy. ined. A fr. 2 recto|
