@@ -168,7 +168,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (177), Bentley (111), Markland (80), Valckenaer (73), Madvig (63), Porson (63), Reiske (59), Beatus Rhenanus (59), Brunck (54), Denys Lambin (54) and P. Manutius (54) (tied).</p>
+<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (177), Bentley (111), Markland (80), Valckenaer (73), Madvig (64), Porson (63), Reiske (59), Beatus Rhenanus (59), Brunck (54), Denys Lambin (54) and P. Manutius (54) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -575,6 +575,7 @@ BGU 1074|Οὐήρῳ|Σευήρῳ|Viereck|n.d.|P.Oxy. XXVII 2476|
 Bacchyl. 17.53|μ[ε κουρ]α|με νυμ[φα|H. Jurenka|1898|P.Oxy. VIII 1091|
 Bacchyl. 17.62|βαθείας| ἐκ βαθείας|Blass|1898|P.Oxy. VIII 1091|
 Bacchyl. fr. 20B.11|αὐτὴ/αὐτὰς|αὐτίκα|Georg Kaibel|s.xix ex.|P.Oxy. XI 1361|αυτ̣ικ̣[.]
+Caes. Gall. 5.30.2|hi sapient|hi si sapient|Madvig|1873|recc.|
 Call. Ap. 2|οἷο δ'|οἷον|Valckenaer|1799|P.Oxy. XX 2258|
 Call. Ap. 7|μακράν|-ρην|Meineke|1861|P.Oxy. ined. A fr. 2 recto|
 Call. Ap. 8 schol. Ψ|-ρευομ-|καθιερωμένων|Meineke|1861|Ambros. 734 (e)|
