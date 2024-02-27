@@ -542,7 +542,7 @@ Archil. fr. 4.6|ἀλλά τε|ἀλλ᾽ ἄγε|Musurus|n.d.|P.Oxy. VI 854|
 Arist. fr. 57.12 Rose|οὔτε|ουδε|Meineke|1839–57|P.Oxy. IV 666|
 Arist. fr. 842.7 Page|τ᾽ ἀθάνατον/εἰς ἀ.|ἰσαθάνατον|Wilamowitz|n.d.|BKT I 25|Did. in D. col. 6.18 seqq.
 Aristarch.Trag. fr. 3|-νημα|σωφρόνισμα|Meineke|1839–57|Macar.|
-Ascon. Corn. 51|quis|quiuis|Poggio||Pistor. Forteg. A. 37 (S)|
+Ascon. Corn. 51|quis|quiuis|Poggio|1416|Pistor. Forteg. A. 37 (S)|
 Ascon. Corn. 54|-eat|apparet|Nicolaus Beraldus|1520|Harl. 2568 (ψ)|
 Ascon. Corn. 59|regund-|redigendis|Pighi||schol. Bob. ad S. Rosc. 30|
 Ascon. Mil. 26|erat|erant|J. G. Baiter||Pistor. Fabr. 319 (f)|
@@ -563,8 +563,8 @@ Ascon. Pis. 7|ut|in|Nicolaus Beraldus|1520|l2|
 Ascon. Pis. 9|t. clamiam|L. Lamiam|Jean Loys|1536|l2|
 Ascon. Pis. 12|esset et in|esset in|Jean Loys|1536|l2|
 Ascon. Pis. 14|eo etiam quae|eo et antiquae|P. Manutius||Pistor. Fabr. 319 (f)|
-Ascon. tog. cand. 75|-a|Catilinam|P. Manutius||Laur. (M)|
-Ascon. tog. cand. 78|poculo|populo|Poggio||Pistor. Forteg. A. 37 (S)|
+Ascon. tog. cand. 75|-a|Catilinam|P. Manutius||Laur. plut. 54.5 (M)|
+Ascon. tog. cand. 78|poculo|populo|Poggio|1416|Pistor. Forteg. A. 37 (S)|
 Ascon. tog. cand. 82|nam|natam|Orelli||Laur. L. 5 (b)|m. rec.
 Ath. 9.375E|νοθ-|νοτοῦντι|J. C. de Pauw|1745|Marc. 447 (A)|
 Ath. 11.490E|οὐρανός τε γῆ|οὐρανοστεγῆ|Benjamin Heath|1798|Marc. 447 (A)|apud Schweighäuser
