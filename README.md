@@ -554,7 +554,7 @@ Ascon. Mil. 33|-es|tale|Cobet||SP1|
 Ascon. Mil. 34|clod-|Claudiis|Karl Halm||Flor. Soc. Columb. 107 (a)|
 Ascon. Mil. 34|a c. ceteio|a C. Cetego|Jordan||Pistor. Fabr. 319 (f)|
 Ascon. Mil. 34|eorum|suorum|Jean Wagener|1860|Pistor. Fabr. 319 (f)|
-Ascon. Mil. 37|-is|factiones|Jean Loys|1536|l2|
+Ascon. Mil. 37|-is|factiones|Jean Loys|1536|Leid. BPL 222 (l)|m. sec.
 Ascon. Mil. 42|milonis|Milonianis|Nicolaus Beraldus|1520|l2|
 Ascon. Mil. 45|fuit|Rufus|J. G. Baiter||l2|
 Ascon. Mil. 49|repertus|repetitus|Madvig|1828|Pistor. Forteg. A. 37 (S)|p. 25
@@ -566,7 +566,7 @@ Ascon. Pis. 12|esset et in|esset in|Jean Loys|1536|l2|
 Ascon. Pis. 14|eo etiam quae|eo et antiquae|P. Manutius||Pistor. Fabr. 319 (f)|
 Ascon. tog. cand. 75|-a|Catilinam|P. Manutius||Laur. plut. 54.5 (M)|
 Ascon. tog. cand. 78|poculo|populo|Poggio|1416|Pistor. Forteg. A. 37 (S)|
-Ascon. tog. cand. 82|nam|natam|Orelli||Laur. L. 5 (b)|m. rec.
+Ascon. tog. cand. 82|nam|natam|Orelli||Laur. plut. 50.4 (b)|m. rec.
 Ath. 9.375E|νοθ-|νοτοῦντι|J. C. de Pauw|1745|Marc. 447 (A)|
 Ath. 11.490E|οὐρανός τε γῆ|οὐρανοστεγῆ|Benjamin Heath|1798|Marc. 447 (A)|apud Schweighäuser
 BGU 1074|Οὐήρῳ|Σευήρῳ|Viereck|n.d.|P.Oxy. XXVII 2476|
