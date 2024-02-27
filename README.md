@@ -27,6 +27,7 @@
         <li>Ammien Marcellin, <em>Histoire</em>, iii, ed. Jacques Fontaine (Paris, 1996).</li>
         <li>Aristophanes, <em>Fabulae</em>, ed. N. G. Wilson, 2 vols (Oxford, 2007).</li>
         <li>Apollonius Rhodius, <em>Argonautica</em>, ed. Hermann Fränkel (Oxford, 1961).</li>
+        <li>Asconius Pedianus, Q., <em>Orationum Ciceronis quinque enarratio</em>, ed. Albert Curtis Clark (Oxford, 1907).</li>
         <li>Asztalos, Monika, Tor Ivar Østmoe, et al., <em><a href="http://www.tekstlab.uio.no/horace/">Repertory of Conjectures on Horace</a></em>, University of Oslo, accessed 9 Feb. 2024.</li>
         <li>Battezzato, Luigi, 'Livineius' unpublished Euripidean marginalia', <em>Revue d'histoire des textes</em>, 30 (2000), 323–48.</li>
         <li>Billerbeck, Margarethe, and Mario Somazzi, <em>Repertorium der Konjekturen in den Seneca-Tragödien</em> (Leiden, 2009).</li>
