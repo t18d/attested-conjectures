@@ -551,7 +551,7 @@ Ascon. Mil. 28|elisi|visi|S. H. Rinkes|1861|f2|Mnem.
 Ascon. Mil. 30|uic-|Aricinos|P. Manutius||fp|
 Ascon. Mil. 32|idque ipse ipsum|idque ipsum|Jean Loys|1536|Harl. 2568 (ψ)|
 Ascon. Mil. 33|-es|tale|Cobet||SP1|
-Ascon. Mil. 34|clod-|Claudiis|Karl Halm||Flor. Soc. Columb. B. 7 (a)|
+Ascon. Mil. 34|clod-|Claudiis|Karl Halm||Flor. Soc. Columb. 107 (a)|
 Ascon. Mil. 34|a c. ceteio|a C. Cetego|Jordan||Pistor. Fabr. 319 (f)|
 Ascon. Mil. 34|eorum|suorum|Jean Wagener|1860|Pistor. Fabr. 319 (f)|
 Ascon. Mil. 37|-is|factiones|Jean Loys|1536|l2|
