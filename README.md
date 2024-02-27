@@ -546,25 +546,25 @@ Aristarch.Trag. fr. 3|-νημα|σωφρόνισμα|Meineke|1839–57|Macar.|
 Ascon. Corn. 51|quis|quiuis|Poggio|1416|Pistor. Forteg. A. 37 (S)|
 Ascon. Corn. 54|-eat|apparet|Nicolaus Beraldus|1520|Harl. 2568 (ψ)|
 Ascon. Corn. 59|regend-|redigendis|Stephanus Pighius|1615|schol. Bob. ad S. Rosc. 30|Ann. III p. 196
-Ascon. Mil. 26|erat|erant|J. G. Baiter|1856|Pistor. Fabr. 319 (f)|
+Ascon. Mil. 26|erat|erant|J. G. Baiter|1833|Pistor. Fabr. 319 (f)|
 Ascon. Mil. 28|elisi|visi|S. H. Rinkes|1861|f2|Mnem.
-Ascon. Mil. 30|uic-|Aricinos|P. Manutius||fp|
+Ascon. Mil. 30|uic-|Aricinos|P. Manutius|1563|fp|
 Ascon. Mil. 32|idque ipse ipsum|idque ipsum|Jean Loys|1536|Harl. 2568 (ψ)|
 Ascon. Mil. 33|-es|tale|Cobet|1862|SP1|Mnem.
-Ascon. Mil. 34|clod-|Claudiis|Karl Halm||Flor. Soc. Columb. 107 (a)|
+Ascon. Mil. 34|clod-|Claudiis|Karl Halm|1850|Flor. Soc. Columb. 107 (a)|
 Ascon. Mil. 34|a c. ceteio|a C. Cethego|C. A. Jordan|1851|Pistor. Fabr. 319 (f)|Jordan on Halm; suo Marte (pace Flambard)
 Ascon. Mil. 34|eorum|suorum|Jean Wagener|1860|Pistor. Fabr. 319 (f)|
 Ascon. Mil. 37|-is|factiones|Jean Loys|1536|Leid. BPL 222 (l)|m. sec.
 Ascon. Mil. 42|milonis|Milonianis|Nicolaus Beraldus|1520|l2|
-Ascon. Mil. 45|fuit|Rufus|J. G. Baiter|1856|l2|
+Ascon. Mil. 45|fuit|Rufus|J. G. Baiter|1833|l2|
 Ascon. Mil. 49|repertus|repetitus|Madvig|1828|Pistor. Forteg. A. 37 (S)|p. 25
 Ascon. Pis. 3|Cn. Pompeius|del.|Perizonius|1834|Pistor. Forteg. A. 37 (S)|apud Rau I p. 89
 Ascon. Pis. 7|tulerat|sustulerat|Jean Loys|1536|l2|
 Ascon. Pis. 7|ut|in|Nicolaus Beraldus|1520|l2|
 Ascon. Pis. 9|t. clamiam|L. Lamiam|Jean Loys|1536|l2|
 Ascon. Pis. 12|esset et in|esset in|Jean Loys|1536|l2|
-Ascon. Pis. 14|eo etiam quae|eo et antiquae|P. Manutius||Pistor. Fabr. 319 (f)|
-Ascon. tog. cand. 75|-a|Catilinam|P. Manutius||Laur. plut. 54.5 (M)|
+Ascon. Pis. 14|eo etiam quae|eo et antiquae|P. Manutius|1563|Pistor. Fabr. 319 (f)|
+Ascon. tog. cand. 75|-a|Catilinam|P. Manutius|1563|Laur. plut. 54.5 (M)|
 Ascon. tog. cand. 78|poculo|populo|Poggio|1416|Pistor. Forteg. A. 37 (S)|
 Ascon. tog. cand. 82|nam|natam|Orelli|1833|Laur. plut. 50.4 (b)|m. rec.
 Ath. 9.375E|νοθ-|νοτοῦντι|J. C. de Pauw|1745|Marc. 447 (A)|
