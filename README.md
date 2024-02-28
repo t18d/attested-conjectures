@@ -2329,6 +2329,11 @@ Men. fr. 602.18|λοιπόν|λυπηρόν|Wilamowitz|1876|P.Oxy. XLIX 3433|Her
 Men. fr. 644|ἀπολόμ-|ἀπωλλύμεϲθα|Theodor Kock|1880–8|Schol. V Ar. Av. 374|CAF
 Men.Rh. 343.18|οἳ|οἷον|Conrad Bursian|1882|Paris. gr. 2423 (Z)|
 Mosch. 4.89|αὐτόν|αυτις|Iunta|1516|P.Oxy. XLVII 3325|
+Nemes. ecl. 1.54|rur-|iuris|Hugolinus Martellius|1590|Neap. V A 8 (N)|
+Nemes. ecl. 2.22|purpureosque|purpureos quae|Marquard Gude|1731|Riccard. 724 (n)|apud Burmannum
+Nemes. ecl. 2.90|induc-|includere quae|Emil Baehrens||Laur. bibl. Aed. 203 (l)|apud Williams
+Nemes. ecl. 3.4|-as/lassat-|laxatus|J. H. Hoeufft|1807|Corsin. 43 F 5 (q)|p. 132; in marg.
+Nemes. ecl. 3.19|qui quando|qui comptus|Laurens van Santen||Palat. 1652 (g)|m. sec.
 Nep. Att. 17.1.3|om.|ipse|Dietsch|n.d.|cod. Leid. (L)|
 Non. p. 503|f. omnino|feruit animo|Franz Oehler|1844|Paris. lat. 7667 (P)|ad Varro Men. 498
 Nonn. Dion. 14.393|ἀκωκήν|κολώνην|Graefe|n.d.|P.Berol. inv. 10567|κορώνην
