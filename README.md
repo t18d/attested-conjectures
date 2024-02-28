@@ -2329,6 +2329,10 @@ Men. fr. 602.18|λοιπόν|λυπηρόν|Wilamowitz|1876|P.Oxy. XLIX 3433|Her
 Men. fr. 644|ἀπολόμ-|ἀπωλλύμεϲθα|Theodor Kock|1880–8|Schol. V Ar. Av. 374|CAF
 Men.Rh. 343.18|οἳ|οἷον|Conrad Bursian|1882|Paris. gr. 2423 (Z)|
 Mosch. 4.89|αὐτόν|αυτις|Iunta|1516|P.Oxy. XLVII 3325|
+Nemes. cyn. 139|-u|cursus|Jan van Vliet|1645–53|Paris. lat. 4839 (B)|
+Nemes. cyn. 145|iud-|indicio|Caspar von Barth|1613|Paris. lat. 4839 (B)|
+Nemes. cyn. 275|flum-|flamina|Jan van Vliet|1645–53|AC|
+Nemes. cyn. 275|flam-|flumina|Georg von Logau|1534|Paris. lat. 4839 (B)|
 Nemes. ecl. 1.54|rur-|iuris|Hugolinus Martellius|1590|Neap. V A 8 (N)|
 Nemes. ecl. 2.22|purpureosque|purpureos quae|Marquard Gude|1731|Riccard. 724 (n)|apud Burmannum
 Nemes. ecl. 2.90|induc-|includere quae|Emil Baehrens||Laur. bibl. Aed. 203 (l)|apud Williams
