@@ -2072,7 +2072,7 @@ Iust. 2.1.20|-a|ultimam|Thomas Hearne|1705|Vat. lat. 1860 (D)|
 Iust. 2.11.9|firm-|formaverat|Johannes Scheffer|1678|Vat. lat. 1860 (D)|
 Iust. 2.14.6|-is -ae|regali opulentia|Franciscus Asulanus|1522|Vat. lat. 1860 (D)|
 Iust. 4.3.5|n. idem|nuper|Franz Rühl|1886|Vat. lat. 1860 (D)|
-Iust. 7.5.7|scelerum|a s.|Sebisius||Vat. lat. 1860 (D)|
+Iust. 7.5.7|scelerum|a s.|Sebisius|1719|Vat. lat. 1860 (D)|apud Gronovium
 Iust. 44.5.3|-em -am/maiorem|maiore iniuria|Franz Rühl|1886|Vat. lat. 1860 (D)|
 Iuv. 1.67|-o|falsi|Markland|1717–28|PRV|
 Iuv. 1.70|-am|rubeta|G. H. Plathner|1637|PRV|
