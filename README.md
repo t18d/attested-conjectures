@@ -580,7 +580,12 @@ Avian. fab. 10.5|-stant|praeflant|Ellis|1887|Paris. lat. 13026 (P)|
 Avian. fab. 10.10|-tulit|dispulit|Lachmann|1845|Trev. 1093 (T)|
 Avian. fab. 11.6|hab-|agebat|Hendrik Cannegieter|1731|Guelf. Gud. 288 (Wt)|
 Avian. fab. 20.14|casi-|cassibus|Wilhelm Fröhner|1862|Guelf. Gud. 288 (Wt)|
+Avian. fab. 22.10|damn-|dona|Lachmann|1845|T1|
+Avian. fab. 29.7|aspiciens|aspexit|Hendrik Cannegieter|1731|Galean. O. 3.57 (G)|
+Avian. fab. 32.5|rec-|victor|Hendrik Cannegieter|1731|Harl. 4967 (B)|
 Avian. fab. 36.12|prope|popae|Hendrik Cannegieter|1731|KL|
+Avian. fab. 39.15|-us|ausis|Thomas Wopkens|1736|Harl. 4967 (B)|
+Avian. fab. 44.9|pigra nimis|pigranimis|Caspar von Barth|1624|CKT1V|
 BGU 1074|Οὐήρῳ|Σευήρῳ|Viereck|n.d.|P.Oxy. XXVII 2476|
 Bacchyl. 17.53|μ[ε κουρ]α|με νυμ[φα|H. Jurenka|1898|P.Oxy. VIII 1091|
 Bacchyl. 17.62|βαθείας| ἐκ βαθείας|Blass|1898|P.Oxy. VIII 1091|
