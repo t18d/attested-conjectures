@@ -173,7 +173,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (177), Bentley (111), Markland (80), Valckenaer (73), Madvig (64), Porson (63), Reiske (59), Beatus Rhenanus (59), Brunck (54), Denys Lambin (54) and P. Manutius (54) (tied).</p>
+<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (178), Bentley (111), Markland (80), Valckenaer (73), Madvig (64), Porson (63), Reiske (59), Beatus Rhenanus (59), Brunck (54), Denys Lambin (54) and P. Manutius (54) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -636,6 +636,7 @@ Call. fr. 384.26|-ϲομ-|θηϲαμενω|Hunt|1922|P.Oxy. ined.|]ηϲαμεν�
 Call. fr. 388.9|Φωκείων|Φωκαέων|Valckenaer|1799|P.Oxy. XV 1793|
 Call. fr. 407.92|ὀρνίθων|ὀρνέων|F. J. Bast|s.xviii/xix|Anon.Vat.|
 Call. fr. 721|ἔαϲιν|ἐωϲιν|Dindorf|1864|Theognost. cod. Barocc.|Thes.L.Gr. I/2 p. 9 C
+Calp. ecl. 7.3|iub-|sibila|Nicolaus Heinsius|1740|Brix. Quirin. C VII 1 (p)|
 Carm. conv. 906 Page|εἰ δὴ χρὴ|εἰ χρὴ|Johannes Schweighäuser|1798|Arist. Ath. c. 20 fin|
 Carm. conv. 906 Page|εἰ δὴ χρὴ|εἰ χρὴ|Porson|n.d.|Arist. Ath. 20 fin|
 Carm. conv. 907 Page|κύρησαν|ἔσαν|Erasmus|n.d.|Arist. Ath. 19.3|
