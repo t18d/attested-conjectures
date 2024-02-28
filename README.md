@@ -30,6 +30,7 @@
         <li>Asconius Pedianus, Q., <em>Orationum Ciceronis quinque enarratio</em>, ed. Albert Curtis Clark (Oxford, 1907).</li>
         <li>Asztalos, Monika, Tor Ivar Østmoe, et al., <em><a href="http://www.tekstlab.uio.no/horace/">Repertory of Conjectures on Horace</a></em>, University of Oslo, accessed 9 Feb. 2024.</li>
         <li>Ausonius, Decimus Magnus, <em>Burdigalensis opuscula</em>, ed. Rudolf Peiper (Leipzig, 1886).</li>
+        <li>Avianus, <em>Fabulae</em>, ed. Antonio Guaglianone (Turin, 1958).</li>
         <li>Battezzato, Luigi, 'Livineius' unpublished Euripidean marginalia', <em>Revue d'histoire des textes</em>, 30 (2000), 323–48.</li>
         <li>Billerbeck, Margarethe, and Mario Somazzi, <em>Repertorium der Konjekturen in den Seneca-Tragödien</em> (Leiden, 2009).</li>
         <li>Borges, Cassandra, and C. Michael Sampson, <em>New literary papyri from the Michigan collection: mythographic lyric and a catalogue of poetic first lines</em> (Ann Arbor, 2012), 20.</li>
