@@ -577,7 +577,10 @@ Ath. 11.490E|οὐρανός τε γῆ|οὐρανοστεγῆ|Benjamin Heath|
 Auson. 27.19a.12|-ae|gratiarum|Nicolaus Heinsius|1886|Flor. Bibl. Nat. Conv. Soppr. J. VI. 29 (M)|apud Peiper (Leid. 758. F. 11)
 Avian. fab. 6.1|olim-|limoque|I. N. Neveletus|1610|W1|p. 661 ('quod si tibi placet, mihi etiam nunc placet')
 Avian. fab. 10.5|-stant|praeflant|Ellis|1887|Paris. lat. 13026 (P)|
-Avian. fab. 11.6|hab-|agebat|Hendrik Cannegieter|1731|Wta|
+Avian. fab. 10.10|-tulit|dispulit|Lachmann|1845|Trev. 1093 (T)|
+Avian. fab. 11.6|hab-|agebat|Hendrik Cannegieter|1731|Guelf. Gud. 288 (Wt)|
+Avian. fab. 20.14|casi-|cassibus|Wilhelm Fröhner|1862|Guelf. Gud. 288 (Wt)|
+Avian. fab. 36.12|prope|popae|Hendrik Cannegieter|1731|KL|
 BGU 1074|Οὐήρῳ|Σευήρῳ|Viereck|n.d.|P.Oxy. XXVII 2476|
 Bacchyl. 17.53|μ[ε κουρ]α|με νυμ[φα|H. Jurenka|1898|P.Oxy. VIII 1091|
 Bacchyl. 17.62|βαθείας| ἐκ βαθείας|Blass|1898|P.Oxy. VIII 1091|
