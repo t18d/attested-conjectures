@@ -95,6 +95,7 @@
         <li>Homerus, <em>Odyssea</em>, ed. Martin L. West (Berlin, 2017).</li>
         <li>Horatius Flaccus, Q., <em>Opera</em>, i: <em>Carminum libri IIII, epodon liber, Carmen Saeculare</em>, ed. Otto Keller (Leipzig, 1899).</li>
         <li>Isocrates, <em>Opera omnia</em>, ed. Basil G. Mandilaras, 2 vols (Munich, 2003).</li>
+        <li>Iustinus, M. Iunianus, <em>Epitoma historiarum Philippicarum Pompei Trogi</em>, ed. Otto Seel (Stuttgart, 1985).</li>
         <li>Iuvenalis, D. Iunius, <em>Saturae sedecim</em>, ed. James Willis (Stuttgart, 1997).</li>
         <li>Kannicht, Richard (ed.), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, v: <em>Euripides</em> (Göttingen, 2004).</li>
         <li>Kassel, R., and C. Austin (eds), <em>Poetae comici Graeci (PCG)</em>, iv: <em>Aristophon — Crobylus</em> (Berlin, 1983).</li>
