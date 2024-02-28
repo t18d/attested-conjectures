@@ -43,6 +43,7 @@
         <li>Callimachus, <em>Fragmenta</em>, ed. Rudolf Pfeiffer (Oxford, 1949).</li>
         <li>Callimachus, <em>Hymni et Epigrammata</em>, ed. Rudolf Pfeiffer (Oxford, 1953).</li>
         <li>Callimachus, <em>The Hymns</em>, ed. Susan A. Stephens (Oxford, 2015).</li>
+        <li>Calpurnius Siculus, T., <em>Ecloga VII</em>, ed. Lucia di Salvo (Bologna, 1990).</li>
         <li>Chariton Aphrodisiensis, <em>De Callirhoe narrationes amatoriae</em>, ed. B. P. Reardon (Munich, 2004).</li>
         <li>Cicero, M. Tullius, <em>Orationes pro Sex. Roscio, de imperio Cn. Pompei, pro Cluentio, in Catilinam, pro Murena, pro Caelio</em>, ed. Albert Curtis Clark (Oxford, 1905).</li>
         <li>Cicero, M. Tullius, <em>Paradoxa stoicorum, Academicorum reliquiae cum Lucullo, Timaeus, De natura deorum, De divinatione, De fato</em>, ed. Otto Plasberg (Leipzig, 1908–11).</li>
@@ -118,6 +119,7 @@
         <li>Markus, D., and G. Schwendner, 'Seneca’s Medea in Egypt (663–704)', <em>ZPE</em>, 117 (1997), 73–84.</li>
         <li>Marshall, P. K., <em>The Manuscript Tradition of Cornelius Nepos</em> (Oxford, 1977), 43.</li>
         <li>Martialis, M. Valerius, <em>Epigrammaton libri</em>, ed. W. Heraeus and Jacob Borovskij (Leipzig, 1976).</li>
+        <li>Nemesianus, <em>Cynegetica</em>, ed. Rainer Jakobi (Berlin, 2014).</li>
         <li>Oppianus Apameensis, <em>Cynegetica</em>, ed. Manolis Papathomopoulos (Munich, 2003).</li>
         <li>Ovidius Naso, P., <em>Fastorum libri sex</em>, ed. R. Merkel (Berlin, 1841).</li>
         <li>Ovidius Naso, P., <em>Amores, epistulae, medic. fac. fem., ars amat., remedia amoris</em>, ed. R. Ehwald (Leipzig, 1888).</li>
@@ -162,6 +164,7 @@
         <li>Vergilius Maro, P., <em>Bucolica Georgica</em>, ed. Silvia Ottaviano and Gian Biagio Conte (Berlin, 2013).</li>
         <li>West, M. L. (ed.), <em>Iambi et elegi Graeci ante Alexandrum cantati</em>, 2 vols (Oxford, 1998).</li>
         <li>West, Martin L. (ed.), <em>Aeschyli tragoediae cum incerti poetae Prometheo</em> (Stuttgart, 1998).</li>
+        <li>Williams, Heather J. (ed.), <em>The Eclogues and Cynegetica of Nemesianus</em> (Leiden, 1986).</li>
         <li>Willis, William H., 'The Robinson-Cologne Papyrus of Achilles Tatius', <em>Greek, Roman and Byzantine Studies</em>, 31 (1990), 73–102.</li>
         <li>Wilson, N. G., <em>Herodotea: studies on the text of Herodotus</em> (Oxford, 2015), xii–xiii.</li>
         <li>Xénophon, <em>Économique</em>, ed. Pierre Chantraine (Paris, 1949).</li>
