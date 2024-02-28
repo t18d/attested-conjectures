@@ -637,7 +637,7 @@ Call. fr. 388.9|Φωκείων|Φωκαέων|Valckenaer|1799|P.Oxy. XV 1793|
 Call. fr. 407.92|ὀρνίθων|ὀρνέων|F. J. Bast|s.xviii/xix|Anon.Vat.|
 Call. fr. 721|ἔαϲιν|ἐωϲιν|Dindorf|1864|Theognost. cod. Barocc.|Thes.L.Gr. I/2 p. 9 C
 Calp. ecl. 7.3|iub-|sibila|Nicolaus Heinsius|1740|Brix. Quirin. C VII 1 (p)|
-Calp. ecl. 7.69|de-|discedentis|Lipsius|1613|Neap. V A 8 (N)|apud Barth p. 385; m. sec.
+Calp. ecl. 7.69|n. de-|nos discedentis|Lipsius|1613|Neap. V A 8 (N)|apud Barth p. 385; m. sec.
 Carm. conv. 906 Page|εἰ δὴ χρὴ|εἰ χρὴ|Johannes Schweighäuser|1798|Arist. Ath. c. 20 fin|
 Carm. conv. 906 Page|εἰ δὴ χρὴ|εἰ χρὴ|Porson|n.d.|Arist. Ath. 20 fin|
 Carm. conv. 907 Page|κύρησαν|ἔσαν|Erasmus|n.d.|Arist. Ath. 19.3|
