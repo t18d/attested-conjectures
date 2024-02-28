@@ -2333,7 +2333,7 @@ Nemes. ecl. 1.54|rur-|iuris|Hugolinus Martellius|1590|Neap. V A 8 (N)|
 Nemes. ecl. 2.22|purpureosque|purpureos quae|Marquard Gude|1731|Riccard. 724 (n)|apud Burmannum
 Nemes. ecl. 2.90|induc-|includere quae|Emil Baehrens||Laur. bibl. Aed. 203 (l)|apud Williams
 Nemes. ecl. 3.4|-as/lassat-|laxatus|J. H. Hoeufft|1807|Corsin. 43 F 5 (q)|p. 132; marg.
-Nemes. ecl. 3.19|qui quando|qui comptus|Laurens van Santen||Palat. 1652 (g)|m. sec.
+Nemes. ecl. 3.19|-as/quando|comptus|Laurens van Santen||Palat. 1652 (g)|m. sec.
 Nemes. ecl. 4.10|adlud-/allud-|ad ludere|Jakob Mähly|1868|lz|p. 117 ('per anastrophen')
 Nemes. ecl. 4.21|hoc/hec|hic|Emil Baehrens|1881|exc. Berol.|
 Nep. Att. 17.1.3|om.|ipse|Dietsch|n.d.|cod. Leid. (L)|
