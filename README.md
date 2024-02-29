@@ -1350,6 +1350,7 @@ Claud. 28.485|manum|manu|Caspar von Barth|1650|Antuerp. Μ 17.1 (A2)|p. 754
 Claud. 28.624|artes|acies|Theodor Poelman|1571|Antuerp. Μ 17.1 (A2)|
 Claud. 28.651|indu-|imbuit|Scaliger|1603|b1F3vl|
 Claud. 28.659|iste|ipse|Stephanus Claverius|1602|P10S3|
+Claud. Don. Aen. 9.585|mort-|inertem|Karl Hoppe|1891|Vat. lat. 1512 (V)|
 Claud. Gigant. 7|ὡς|ὣς|Hermann Köchly|1851|Laur. Conv. Soppr. 164 (F23)|Conjectaneorum epicorum fasc. I
 Claud. Gigant. 18|ῥιφθ-|ῥιφεῖσα|Hermann Köchly|1851|Laur. Conv. Soppr. 164 (F23)|
 Claud. Gigant. 19|γίνεται [...]|γίνετο πᾶσα|Hermann Köchly|1851|Laur. Conv. Soppr. 164 (F23)|
