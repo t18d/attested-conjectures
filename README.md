@@ -1953,6 +1953,8 @@ Fronto p. 171.9|limit-|multis|L. F. Heindorf|1816|teste Mai a. 1817|apud Niebuhr
 Fronto p. 252.10|om.|τις|Philipp Buttmann|1816|Mai a. 1817 et Naber|apud Niebuhr
 Fronto p. 252.11|μηδέπως ἐσωρακότων|μηδέπω σε ἑωρακότων|Philipp Buttmann|1816|Mai a. 1817 et Naber|apud Niebuhr
 Fronto p. 255.2|ταισο|ιλισον|Philipp Buttmann|1816|teste Brakman|apud Niebuhr
+Gell. 1.6.4|impugn-|impropugnatum|Christian Falster|1732|Palat. lat. 24 (A)|p. 221
+Gell. 6.17.10|obnoxie|obnoxiosae|Valens Acidalius|1607|Vat. lat. 3452 (V)|p. 480 ad Plaut. Stich.; -se V
 Harp. Α 19|-θίας|πυθέας|Ph. J. de Maussac|1614|Mediol. 26 (H)|
 Harp. Ε 103|ἐχει-|χειροτονεῖ|Bekker|1833|Arist. Ath.|
 Harp. Κ 5|ἢ ἐν ὁ.|ἣν ὁδῷ|P. J. de Maussac|1614|pl|
