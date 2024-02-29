@@ -1934,6 +1934,9 @@ Flor. epit. 2.13.2|-clus-|praeluserat|Jan Gruter|1597|R et Firm. I|
 Flor. epit. 2.13.33|exitum|exemplum|Johannes Freinsheim|1655|Duroc. 1327 (β)|ed. noviss. p. 350
 Flor. epit. 2.13.45|-at(us)|circumsonantem|Salmasius|1609|Vallic. R 33 (V)|
 Flor. epit. 2.13.80|(in) hic|et hic|Mommsen|1882|Class. Ravenn. 245 (R)|
+Frontin. aq. 7.5|senatu|senatu M.|Franz Bücheler|1858|α|senatū α
+Frontin. aq. 23.1|ordin-|origines|Fulvio Orsini|1583|Ambros. I.29 sup. (A)|apud Augustinum; marg.
+Frontin. aq. 24.3|est|non est|Giovanni Giocondo|1513–22|Ambros. I.29 sup. (A)|s.l.
 Frontin. strat. 1.1.6|omi-|commisso|Franz van Oudendorp|1731–79|Lond. Lamb. Tenison. 752 (T)|
 Frontin. strat. 2.1.5|rursus eduxit|r. suos e.|Adam Eussner|1871|Lond. Lamb. Tenison. 752 (T)|p. 86 ('Nach dem Sprachgebrauch des Autors, welcher educere mit einem Objecte verbindet')
 Frontin. strat. 2.5.34|pugn-|fuga|Franz van Oudendorp|1731–79|Lond. Lamb. Tenison. 752 (T)|
