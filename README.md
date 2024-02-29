@@ -85,6 +85,7 @@
         <li>Finglass, P. J. 'Editions of Sappho since the Renaissance', in <em>The Cambridge Companion to Sappho</em> (Cambridge, 2021), 247–59 at 255.</li>
         <li>Frontinus, Iulius, <em>Strategemata</em>, ed. Robert I. Ireland (Leipzig, 1990).</li>
         <li>Frontinus, <em>De aquaeductu urbis Romae</em>, ed. R. H. Rodgers (Cambridge, 2004).</li>
+        <li>Fronto, M. Cornelius, <em>Epistulae</em>, ed. Michael P. J. van den Hout (Leipzig, 1988).</li>  
         <li>Galán Vioque, Guillermo, 'Joseph Scaliger’s Notes on Quintus of Smyrna’s <em>Posthomerica</em>', <em>Greek, Roman and Byzantine Studies</em>, 55 (2015), 946–68.</li>
         <li>Gallavotti, Carlo (ed.), <em>Theocritus quique feruntur bucolici Graeci</em> (Rome, 1993).</li>
         <li>Gerber, Douglas E. '<a href="https://doi.org/10.5169/seals-660688">Emendations in the Odes of Pindar: An Historical Analysis</a>', <em>Entretiens Hardt</em>, 31 (1984), 1–25.</li>
