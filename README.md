@@ -68,6 +68,7 @@
         <li>Clark, Albert C., <em>Anecdota Oxoniensia</em>, x: <em>The Vetus Cluniacensis of Poggio</em> (Oxford, 1905).</li>
         <li>Clark, Albert C., <em>Anecdota Oxoniensia</em>, xi: <em>Inventa Italorum</em> (Oxford, 1909).</li>
         <li>Claudianus, Claudius, <em>Carmina</em>, ed. John Barrie Hall (Leipzig, 1985).</li>
+        <li>Claudius Donatus, Tiberius, <em>Ad Tiberium Claudium Maximum Donatianum filium suum interpretationes Vergilianae</em>, ii, ed. Heinrich Georges (Leipzig, 1906).</li>
         <li>Courtney, Edward, <em>The Fragmentary Latin Poets</em> (Oxford, 1993). ('obscura diligentia')</li>
         <li>Demosthenes, <em>Orationes</em>, ed. S. H. Butcher and W. Rennie, 3 vols (Oxford, 1903–31).</li>
         <li>Demosthenes, <em>Orationes</em>, ed. M. R. Dilts, 4 vols (Oxford, 2002–9).</li>
