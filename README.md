@@ -1941,6 +1941,7 @@ Frontin. strat. 2.9.1|circum-|interuenerat|Gronovius|1779|Lond. Lamb. Tenison. 7
 Frontin. strat. 2.13.5|in a. s.|non armis sed|Gottschalk Stewech|1585|ς|
 Frontin. strat. 3.8.1|-arant|existimabant|Andreas Dederich|1855|Cantab. coll. diu. Petri 252 (K)|
 Frontin. strat. 3.15.6|compelli|comportari|Franz van Oudendorp|1731–79|Lond. Lamb. Tenison. 752 (T)|
+Frontin. strat. 4.7.29|-e|armaret|Petrus Scriverius|1606–7|ς|
 Harp. Α 19|-θίας|πυθέας|Ph. J. de Maussac|1614|Mediol. 26 (H)|
 Harp. Ε 103|ἐχει-|χειροτονεῖ|Bekker|1833|Arist. Ath.|
 Harp. Κ 5|ἢ ἐν ὁ.|ἣν ὁδῷ|P. J. de Maussac|1614|pl|
