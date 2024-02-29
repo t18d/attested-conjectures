@@ -1936,6 +1936,11 @@ Flor. epit. 2.13.80|(in) hic|et hic|Mommsen|1882|Class. Ravenn. 245 (R)|
 Frontin. strat. 1.1.6|omi-|commisso|Franz van Oudendorp|1731–79|Lond. Lamb. Tenison. 752 (T)|
 Frontin. strat. 2.1.5|rursus eduxit|r. suos e.|Adam Eussner|1871|Lond. Lamb. Tenison. 752 (T)|p. 86 ('Nach dem Sprachgebrauch des Autors, welcher educere mit einem Objecte verbindet')
 Frontin. strat. 2.5.34|pugn-|fuga|Franz van Oudendorp|1731–79|Lond. Lamb. Tenison. 752 (T)|
+Frontin. strat. 2.6.4|germ-|Romani|Gottschalk Stewech|1585|ς|
+Frontin. strat. 2.9.1|circum-|interuenerat|Gronovius|1779|Lond. Lamb. Tenison. 752 (T)|apud van Oudendorp
+Frontin. strat. 2.13.5|in a. s.|non armis sed|Gottschalk Stewech|1585|ς|
+Frontin. strat. 3.8.1|-arant|existimabant|Andreas Dederich|1855|Cantab. coll. diu. Petri 252 (K)|
+Frontin. strat. 3.15.6|compelli|comportari|Franz van Oudendorp|1731–79|Lond. Lamb. Tenison. 752 (T)|
 Harp. Α 19|-θίας|πυθέας|Ph. J. de Maussac|1614|Mediol. 26 (H)|
 Harp. Ε 103|ἐχει-|χειροτονεῖ|Bekker|1833|Arist. Ath.|
 Harp. Κ 5|ἢ ἐν ὁ.|ἣν ὁδῷ|P. J. de Maussac|1614|pl|
