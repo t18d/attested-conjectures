@@ -1925,6 +1925,10 @@ Eur. fr. 912.2|φέρων|φέρω|Grotius|1626|P.Oxy. IX 1176|φερ[.]
 Eur. fr. 1063.2|ἄνδρ᾽ ἢ κτλ.|ἄνδρα χρὴ|Conrad Gesner|1543|Chor. 32.52|
 Eust. Il. 353.33|-ὸς|αἰσχρῶς|Guarinus Camers|s.xv/xvi|Laur. 59.2 et 3 (L)|
 Eust. Il. 1291.44|οὔ τοι|οὗτοι|Guarinus Camers|s.xv/xvi|Laur. 59.2 et 3 (L)|
+Flor. epit. 1.22.3|in causa(m)|causa|Otto Rossbach|1896|V E Cracov.|
+Flor. epit. 1.35.4|-e|caedit|Salmasius||(T)|
+Flor. epit. 2.9.13|hic|hinc|Otto Rossbach|1896|(F)|
+Flor. epit. 2.13.2|-clus-|praeluserat|Jan Gruter||R et Firm. I|
 Harp. Α 19|-θίας|πυθέας|Ph. J. de Maussac|1614|Mediol. 26 (H)|
 Harp. Ε 103|ἐχει-|χειροτονεῖ|Bekker|1833|Arist. Ath.|
 Harp. Κ 5|ἢ ἐν ὁ.|ἣν ὁδῷ|P. J. de Maussac|1614|pl|
