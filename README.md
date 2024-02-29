@@ -88,6 +88,7 @@
         <li>Fronto, M. Cornelius, <em>Epistulae</em>, ed. Michael P. J. van den Hout (Leipzig, 1988).</li>  
         <li>Galán Vioque, Guillermo, 'Joseph Scaliger’s Notes on Quintus of Smyrna’s <em>Posthomerica</em>', <em>Greek, Roman and Byzantine Studies</em>, 55 (2015), 946–68.</li>
         <li>Gallavotti, Carlo (ed.), <em>Theocritus quique feruntur bucolici Graeci</em> (Rome, 1993).</li>
+        <li>Gellius, A., <em>Noctium Atticarum libri XX</em>, ed. Martin Hertz (Berlin, 1883–5).</li>
         <li>Gerber, Douglas E. '<a href="https://doi.org/10.5169/seals-660688">Emendations in the Odes of Pindar: An Historical Analysis</a>', <em>Entretiens Hardt</em>, 31 (1984), 1–25.</li>
         <li>Grenfell, B. P., 'The Value of Papyri for the Textual Criticism of Extant Greek Authors', <em>The Journal of Hellenic Studies</em>, 39 (1919), 16–36.</li>
         <li>Hall, J. B., <em>Prolegomena to Claudian</em> (Oxford, 1986).</li>
