@@ -949,7 +949,7 @@ Cic. Lig. 5|t. est q. … si|tempus quod ... si|J. G. Baiter||Harl. 2682 (H)|
 Cic. Lig. 17|quis-|quicquam|Haupt||ah|
 Cic. Lig. 25|essetis|estis|Gasparo Garatoni||C1|
 Cic. Lig. 29|m. tuae|misericordiae|Tadeusz Zielinski|1904|β|
-Cic. Lig. 38|-em h. -o|salute hominibus danda|Müller||hσ|
+Cic. Lig. 38|-em h. -o|salute hominibus danda|C. F. W. Müller||hσ|
 Cic. Manil. 26|-i|confectis|Andrea Navagero|1534|Harl. 2682 (H)|
 Cic. Manil. 44|huius a.|auctoritas|Niccolò Angeli|1515|Harl. 2682 (H)|
 Cic. Manil. 54|umq-|inquam|Karl Halm|1854|Paris. 14749 (σ)|mg.
@@ -1957,7 +1957,8 @@ Gell. 1.6.4|impugn-|impropugnatum|Christian Falster|1732|Palat. lat. 24 (A)|p. 2
 Gell. 3.10.7|fet-|secus|Lipsius|1580|VP|
 Gell. 3.14.5|sicut|sicuti|Lachmann|1855|recc.|ad Lucr. 2.536
 Gell. 6.17.10|obnoxie|obnoxiosae|Valens Acidalius|1607|Vat. lat. 3452 (V)|p. 480 ad Plaut. Stich.; -se V
-Gell. 13.5.7|curant|quaerunt|Lucian Müller||Bonn. bibi. Vniu. S 218 (J)|
+Gell. 10.15.20|exuisse|exuit se|Caspar Schoppe|1706|Qpc|apud J. Gronovium p. 894
+Gell. 13.5.7|curant|quaerunt|Lucian Müller|1885|Bonn. bibi. Vniu. S 218 (J)|apud Hertz
 Harp. Α 19|-θίας|πυθέας|Ph. J. de Maussac|1614|Mediol. 26 (H)|
 Harp. Ε 103|ἐχει-|χειροτονεῖ|Bekker|1833|Arist. Ath.|
 Harp. Κ 5|ἢ ἐν ὁ.|ἣν ὁδῷ|P. J. de Maussac|1614|pl|
