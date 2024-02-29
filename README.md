@@ -1926,11 +1926,11 @@ Eur. fr. 1063.2|ἄνδρ᾽ ἢ κτλ.|ἄνδρα χρὴ|Conrad Gesner|1543|
 Eust. Il. 353.33|-ὸς|αἰσχρῶς|Guarinus Camers|s.xv/xvi|Laur. 59.2 et 3 (L)|
 Eust. Il. 1291.44|οὔ τοι|οὗτοι|Guarinus Camers|s.xv/xvi|Laur. 59.2 et 3 (L)|
 Flor. epit. 1.22.3|in causa(m)|causa|Otto Rossbach|1896|V E Cracov.|
-Flor. epit. 1.35.4|-e|caedit|Salmasius||Ticin. Ald. 228 (T)|
+Flor. epit. 1.35.4|-e|caedit|Salmasius|1609|Ticin. Ald. 228 (T)|
 Flor. epit. 2.9.13|hic|hinc|Otto Rossbach|1896|Vallic. B 2 (F)|
-Flor. epit. 2.13.2|-clus-|praeluserat|Jan Gruter||R et Firm. I|
-Flor. epit. 2.13.33|exitum|exemplum|Freinshemius||Duroc. 1327 (β)|
-Flor. epit. 2.13.45|-at(us)|circumsonantem|Salmasius||Vallic. R 33 (V)|
+Flor. epit. 2.13.2|-clus-|praeluserat|Jan Gruter|1597|R et Firm. I|
+Flor. epit. 2.13.33|exitum|exemplum|Johannes Freinsheim|1655|Duroc. 1327 (β)|ed. noviss. p. 350
+Flor. epit. 2.13.45|-at(us)|circumsonantem|Salmasius|1609|Vallic. R 33 (V)|
 Flor. epit. 2.13.80|(in) hic|et hic|Mommsen|1882|Class. Ravenn. 245 (R)|
 Harp. Α 19|-θίας|πυθέας|Ph. J. de Maussac|1614|Mediol. 26 (H)|
 Harp. Ε 103|ἐχει-|χειροτονεῖ|Bekker|1833|Arist. Ath.|
