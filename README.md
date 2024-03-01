@@ -118,6 +118,9 @@
         <li>Kiss, Dániel, <em><a href="http://www.catullusonline.org/">Catullus Online: An Online Repertory of Conjectures on Catullus</a></em>, accessed 13 Feb. 2024.</li>
         <li>Krans-Plaisier, Jan, '<a href="http://vuntblog.blogspot.com/2023/12/amsterdam-database-conjectures-with.html">Amsterdam Database: Conjectures with Attestation</a>', the Amsterdam NT Weblog (2 Dec. 2023), accessed 14 Dec. 2023.</li>
         <li>La Penna, Antonio, and Rodolfo Funari (eds), <em>C. Sallusti Crispi Historiae</em>, i: <em>Fragmenta 1.1–146</em> (Berlin, 2015).</li>
+        <li>Livius, Titus, <em>Ab urbe condita</em>, i, ed. Robert Seymour Conway and Charles Flamstead Walters (Oxford, 1914).</li>
+        <li>Livius, Titus, <em>Ab urbe condita</em>, ii, ed. Charles Flamstead Walters and Robert Seymour Conway (Oxford, 1919).</li>
+        <li>Livius, Titus, <em>Ab urbe condita</em>, v, ed. Alexander Hugh McDonald (Oxford, 1965).</li>
         <li>Lucanus, M. Annaeus, <em>Belli civilis libri decem</em>, ed. A. E. Housman (Oxford, 1927).</li>
         <li>Luck, Georg (ed.), <em>Albii Tibulli aliorumque carmina</em> (Stuttgart, 1998).</li>
         <li>Lycurgus, <em>Oratio in Leocratem</em>, ed. Nicos C. Conomis (Leipzig, 1970).</li>
