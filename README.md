@@ -186,7 +186,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (178), Bentley (111), Markland (80), Valckenaer (73), Madvig (72), Porson (63), Beatus Rhenanus (60), Reiske (59), Brunck (54), Denys Lambin (54) and P. Manutius (54) (tied).</p>
+<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (178), Bentley (111), Markland (80), Valckenaer (73), Madvig (73), Porson (63), Beatus Rhenanus (60), Reiske (59), Brunck (54), Denys Lambin (54) and P. Manutius (54) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2245,7 +2245,7 @@ Just. Edict. 13.24 p. 792.11|ἐπιβάλλοντα|τὸν ἐ.|Zachariae von 
 Liv. 1 praef. 5|-et|possit|Madvig|1861|Vat. 3329 (R)|m. sec.
 Liv. 1.16.8|-es|fidei|Gronovius|1664|Einsiedl. 348 (E)|
 Liv. 1.36.7|t. a.|alterum tantum|Madvig|1579|R2 (teste M. Müller)|p. 78
-Liv. 2.31.6|ubi|ibi|Tanaquil Faber|1738|frag. Haverk. (M. Müller)|apud Drakenborch
+Liv. 2.31.6|ubi|ibi|Tanaquil Faber|1738|fragm. Haverk.|apud Drakenborch
 Liv. 2.46.3|-is|ordines|Gronovius|1664|Vat. 3329 (Rn)|m. sec.
 Liv. 2.47.11|-iit|redit|Madvig|1861|Laur. S. Marci 326 (D)|m. sec.
 Liv. 3.5.10|-is|caedes|Madvig|1861|Upsal. Univ. C 908 (U)|
@@ -2254,6 +2254,7 @@ Liv. 3.54.12|-es|progenie|Beatus Rhenanus||dett. unus (Conway)|
 Liv. 3.67.6|est v.|et venenum|Madvig|1861|Veron. Bibl. Capit. XL 38 (V)|
 Liv. 4.3.15|fiat|fiet|Madvig|1861|dett. duo|
 Liv. 4.4.11|nec e.|ne eodem|Madvig|1861|Upsal. Univ. C 908 (U)|
+Liv. 4.37.9|quo r.|quo res|Madvig|1861|fragm. Haverk.|m. sec.
 Liv. 6.9.6|in uolscis|in Volscos|Perizonius||Bodl. Auct. T. 1. 24 (O)|
 Liv. 6.9.9|non tanta|non tam a|Heerwagen||Harl. 2493 (A)|m. sec.
 Liv. 6.13.7|hominum|omnium|Oskar Siesbye||Bamb. Class. 34 (B)|apud Madvig
