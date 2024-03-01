@@ -2243,7 +2243,7 @@ Liv. 3.54.12|-es|progenie|Beatus Rhenanus||dett. unus (Conway)|
 Liv. 6.9.6|in uolscis|in Volscos|Perizonius||Bodl. Auct. T. 1. 24 (O)|
 Liv. 6.9.9|non tanta|non tam a|Heerwagen||Harl. 2493 (A)|m. sec.
 Liv. 6.13.7|hominum|omnium|Siesbye||Bamb. Class. 34 (B)|
-Liv. 31.35.3|quo|cui|H. J. Müller||dett.|
+Liv. 31.35.3|quo|cui|H. J. Müller|1883|α|
 Luc. Ocyp. 57|ἔτειλα/ἔτιλα/ἔστειλα|ἔτεινα|K. G. Jacobitz|s.xix med.|P.Oxy. XXXI 2532|
 Lucan. 2.13|-ent|habet|Gottlieb Kortte|1726|ZM|
 Lucan. 2.556|en|in|Nicolaus Heinsius|1742|Brux. bibl. Burgund. 5330—32 (G)|
