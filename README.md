@@ -186,7 +186,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (178), Bentley (111), Markland (80), Valckenaer (73), Madvig (66), Porson (63), Beatus Rhenanus (60), Reiske (59), Brunck (54), Denys Lambin (54) and P. Manutius (54) (tied).</p>
+<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (178), Bentley (111), Markland (80), Valckenaer (73), Madvig (67), Porson (63), Beatus Rhenanus (60), Reiske (59), Brunck (54), Denys Lambin (54) and P. Manutius (54) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1286,7 +1286,7 @@ Claud. 18.25|quantum|quonam|Nicolaus Heinsius|1760|C1λ|apud Burmannum p. 828
 Claud. 18.111|corr-|horruerat|Pieter Burman I|1760|O7ac|
 Claud. 18.141|ri-|nisu|Nicolaus Heinsius|1760|Rac|apud Burmannum
 Claud. 18.156|thalamis/stabulis|tabulis|Nicolaus Heinsius|1650|Lond. Burn. 166 (L11)|
-Claud. 18.172|-unt/ent|possint|Nicolaus Heinsius|1760|Laur. S. Marco 250 (F2)|apud Burmannum p. 832; s.l.
+Claud. 18.172|-unt/ent|possint|Nicolaus Heinsius|1760|Laur. S. Marci 250 (F2)|apud Burmannum p. 832; s.l.
 Claud. 18.231|-or|mirer|Nicolaus Heinsius|1665|flor. Gall.|
 Claud. 18.248|argei|argeia|Nicolaus Heinsius|1760|Montepess. 330 (μ)|apud Burmannum
 Claud. 18.250|syri-|asiae|Johannes Schrader|1871|Ppc2Rvl|apud Haupt; an P2pcRvl?
@@ -2219,7 +2219,7 @@ Iuv. 12.69|aus-|astris|J. Jessen|1900|Paris. 8071 (F)|Philol. 59
 Iuv. 12.86|praes-|restat|François Guyet|1614|GU|
 Iuv. 12.88|-unt|accipient|François Guyet|1614|Lond. BM add. 15600 (Z)|
 Iuv. 12.93|nec|neu|Johannes Schrader|1801|FHLOZ|apud Rupertium
-Iuv. 12.93|nec|ne|Lachmann|1850|Laur. S. Marco 234|
+Iuv. 12.93|nec|ne|Lachmann|1850|Laur. S. Marci 234|
 Iuv. 13.5|omnes|homines|Ribbeck|1859|Urb. 661 (U)|
 Iuv. 13.28|nona|non|J. G. Heinecke|1804|GFK1|
 Iuv. 13.58|tam|tum|Jahn|1868|P2|
@@ -2247,6 +2247,7 @@ Liv. 1.16.8|-es|fidei|Gronovius|1664|Einsiedl. 348 (E)|
 Liv. 2.31.6|ubi|ibi|Tanaquil Faber|1738|frag. Haverk. (M. Müller)|apud Drakenborch
 Liv. 2.46.3|-is|ordines|Gronovius|1664|Vat. 3329 (Rn)|m. sec.
 Liv. 2.47.11|-iit|redit|Madvig|1861|Laur. S. Marci 326 (D)|m. sec.
+Liv. 3.5.10|-is|caedes|Madvig|1861|Upsal. Univ. C 908 (U)|
 Liv. 3.54.12|-es|progenie|Beatus Rhenanus||dett. unus (Conway)|
 Liv. 6.9.6|in uolscis|in Volscos|Perizonius||Bodl. Auct. T. 1. 24 (O)|
 Liv. 6.9.9|non tanta|non tam a|Heerwagen||Harl. 2493 (A)|m. sec.
