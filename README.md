@@ -65,7 +65,7 @@
         <li>Cicero, M. Tullius, <em>Oraliones in L. Catilinam quattuor</em>, ed. Tadeusz Maslowski (Munich, 2003).</li>
         <li>Cicero, M. Tullius, <em>De finibus bonorum et malorum</em>, ed. Claudio Moreschini (Munich, 2005).</li>
         <li>Citti, V., and R. Dawe, 'Congetture ad Eschilo dalle edizioni cinquecentine', <em>Lexis</em>, 22 (2004), 249–60.</li>
-        <li>Clark, Albert C., <em>Anecdota Oxoniensia</em>, x: <em>The Vetus Cluniacensis of Poggio</em> (Oxford, 1905).</li>
+        <li>Clark, Albert C., <em>Anecdota Oxoniensia</em>, x: <em>The Vetus Cluniacensis of Poggio</em> (Oxford, 1905). ('A. C. Clark's finest work')</li>
         <li>Clark, Albert C., <em>Anecdota Oxoniensia</em>, xi: <em>Inventa Italorum</em> (Oxford, 1909).</li>
         <li>Claudianus, Claudius, <em>Carmina</em>, ed. John Barrie Hall (Leipzig, 1985).</li>
         <li>Claudius Donatus, Tiberius, <em>Ad Tiberium Claudium Maximum Donatianum filium suum interpretationes Vergilianae</em>, ii, ed. Heinrich Georges (Leipzig, 1906).</li>
