@@ -2249,6 +2249,7 @@ Liv. 2.31.6|ubi|ibi|Tanaquil Faber|1738|fragm. Haverk.|apud Drakenborch
 Liv. 2.46.3|-is|ordines|Gronovius|1664|Vat. 3329 (Rn)|m. sec.
 Liv. 2.47.11|-iit|redit|Madvig|1861|Laur. S. Marci 326 (D)|m. sec.
 Liv. 3.5.10|-is|caedes|Madvig|1861|Upsal. Univ. C 908 (U)|
+Liv. 3.33.3|Romul-|Romilius|Carlo Sigonio|1556|Laur. S. Marci 326 (D)|p. 82
 Liv. 3.48.4|si quod|si quid|Madvig|1861|dett.|
 Liv. 3.54.12|-es|progenie|Beatus Rhenanus||dett. unus (Conway)|
 Liv. 3.67.6|est v.|et venenum|Madvig|1861|Veron. Bibl. Capit. XL 38 (V)|
@@ -2259,6 +2260,7 @@ Liv. 6.9.6|in uolscis|in Volscos|Perizonius||Bodl. Auct. T. 1. 24 (O)|
 Liv. 6.9.9|non tanta|non tam a|Heerwagen||Harl. 2493 (A)|m. sec.
 Liv. 6.13.7|hominum|omnium|Oskar Siesbye||Bamb. Class. 34 (B)|apud Madvig
 Liv. 9.16.4|-que(re)ntur/-quuntur|exsequentes|Gronovius|1664|Lov. 4 et dett. alter (Walters)|
+Liv. 10.46.10|Troilium|Trossulum|Carlo Sigonio|1566|unus cod. rec. (M. Müller)|p. 33
 Liv. 31.35.3|quo|cui|H. J. Müller|1883|α|
 Luc. Ocyp. 57|ἔτειλα/ἔτιλα/ἔστειλα|ἔτεινα|K. G. Jacobitz|s.xix med.|P.Oxy. XXXI 2532|
 Lucan. 2.13|-ent|habet|Gottlieb Kortte|1726|ZM|
