@@ -2468,8 +2468,11 @@ Nemes. ecl. 4.10|adlud-/allud-|ad ludere|Jacob Mähly|1868|lz|p. 117 ('per anast
 Nemes. ecl. 4.21|hoc/hec|hic|Emil Baehrens|1881|exc. Berol.|
 Nep. Att. 17.1|om.|ipse|Rudolph Dietsch|1850|cod. Leid. B. P. L. 2011 (L)|
 Nep. Milt. 5.3|nona partis summa|non apertissima|C. L. Roth|1841|Leid. B. P. L. 19|
+Nep. Milt. 8.3|c(h)ersonesso|in chersoneso|Alfred Fleckeisen|1890|Bodl. Canon. lat. 159|
 Nep. Them. 5.3|haec|h. est|Karl Halm|1871|ς perpauci|
 Nep. Them. 6.1|is-|iisque|Johannes Scheffer|1727|Vat. Chig. H. V. 160|per litt. N. Heinsio
+Nep. Them. 9.4|ea|te|Alfred Fleckeisen|1890|Bodl. Canon. lat. 159|
+Nep. Them. 10.1|se|del.|Karl Halm|1871|ς aliquot|
 Nep. Thras. 4.1|-inis|oleagineis|Alfred Fleckeisen|1890|Ambros. O 2 sup.|
 Non. p. 503|f. omnino|feruit animo|Franz Oehler|1844|Paris. lat. 7667 (P)|ad Varro Men. 498
 Nonn. Dion. 14.393|ἀκωκήν|κολώνην|Graefe|n.d.|P.Berol. inv. 10567|κορώνην
