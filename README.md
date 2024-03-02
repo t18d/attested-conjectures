@@ -2399,7 +2399,13 @@ Mart. Cap. 6.686|-ia|Lycaoniae|Grotius|1599|Harl. 2685 (A)|apud errata; -ie A
 Mart. Cap. 6.697|trucioris soni|truci oris sono|Salmasius|1777|Leid. 88|Exx. Plinn. II
 Mart. Cap. 7.739|omnium natura|hominum nat.|Bentley|1881|Leid. 36|RhM
 Mart. Cap. 7.757|(maiori maior|maiori|maior) (autem|aut)|maiori maior autem aut|Adolf Dick|1925|C2|
+Mart. Cap. 7.779|u. s. -avit/-averit|uterque se multiplicarit|Adolf Dick|1925|Harl. 2685 (A)|
+Mart. Cap. 7.792|-ietur|metitur|F. J. Petersen|1871|AE1|
+Mart. Cap. 8.814|occu-|oculatur|Grotius|1599|L2|
 Mart. Cap. 8.850|-ibus|errori|James Willis|1966|Harl. 2685 (A)|Helikon
+Mart. Cap. 8.871|om.|facere|Salmasius|1777|C2|Exx. Plinn. I
+Mart. Cap. 8.881|offend-|ostendit|U. F. Kopp|1836|Harl. 2685 (A)|
+Mart. Cap. 8.883|ortum at ut in luciferum|ortum matutinum Lucifer|Franz Eyssenhardt|1866|F2|
 Men. Asp. 173|τ’ εμου|τ̣ι̣ μ̣[ου|E. W. Handley|1969|P.Oxy. LXI 4094|ZPE 4 (1969) 162
 Men. Asp. 194|δ’ ειμαι vel δειμαι|δει με|Parsons|1969|P.Oxy. LXI 4094|ZPE 4 (1969) 163
 Men. Asp. 194|δ’ ειμαι vel δειμαι|δ’ ει με|Kassel|1969|P.Oxy. LXI 4094|ZPE 4 (1969) 163
