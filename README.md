@@ -2371,6 +2371,8 @@ Marcellin. Vit. Thuc. 44|ὀλίγον|καὶ ὀ.|Thomas Arnold|1848|Paris. su
 Marcellin. Vit. Thuc. 52|τῇ παλαιᾷ|del.|E. F. Poppo|1843|Ck Vm|
 Mart. 1.109.20|ipsa|issa|Richard Thomson|1618|cod. Weidner. Modii|apud Scriverium
 Mart. 11.81.4|uter-|utrique|Nicolaus Heinsius||Arondell. Mus. Brit. 136 (Q)|
+Mart. Cap. 1.7|Aniae|Vranie|Grotius|1599|Paris. lat. 8670 (D)|
+Mart. Cap. 4.400|(pro) ibi fit/ibi sit/(ibi fit) si|sit|F. J. Petersen|1871|Paris. lat. 8669 (C)|
 Men. Asp. 173|τ’ εμου|τ̣ι̣ μ̣[ου|E. W. Handley|1969|P.Oxy. LXI 4094|ZPE 4 (1969) 162
 Men. Asp. 194|δ’ ειμαι vel δειμαι|δει με|Parsons|1969|P.Oxy. LXI 4094|ZPE 4 (1969) 163
 Men. Asp. 194|δ’ ειμαι vel δειμαι|δ’ ει με|Kassel|1969|P.Oxy. LXI 4094|ZPE 4 (1969) 163
