@@ -190,7 +190,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (178), Bentley (115), Markland (80), Madvig (74), Valckenaer (73), Porson (63), Beatus Rhenanus (60), Reiske (59) and Denys Lambin (57).</p>
+<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (178), Bentley (115), Markland (80), Madvig (74), Valckenaer (73), Porson (63), Beatus Rhenanus (60), Reiske (59) and Denys Lambin (58).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2474,11 +2474,13 @@ Nep. Milt. 5.3|nona partis summa|non apertissima|C. L. Roth|1841|Leid. B. P. L. 
 Nep. Milt. 8.3|c(h)ersonesso|in chersoneso|Alfred Fleckeisen|1890|Bodl. Canon. lat. 159|
 Nep. Paus. 2.4|se a.|te adiuuante|Bernhard Lupus|1876|ς aliquot|
 Nep. Phoc. 2.4|Atheniensium|A. portui|Denys Lambin|1569|Vratisl. Rehdig. 51|
+Nep. Phoc. 3.3|hoc|huc|Denys Lambin|1569|Vat. lat. 5262|marg.
 Nep. Them. 5.3|haec|h. est|Karl Halm|1871|ς perpauci|
 Nep. Them. 6.1|is-|iisque|Johannes Scheffer|1727|Vat. Chig. H. V. 160|per litt. N. Heinsio
 Nep. Them. 9.4|ea|te|Alfred Fleckeisen|1890|Bodl. Canon. lat. 159|
 Nep. Them. 10.1|se|del.|Karl Halm|1871|ς aliquot|
 Nep. Thras. 4.1|-inis|oleagineis|Alfred Fleckeisen|1890|Ambros. O 2 sup.|
+Nep. reg. 1.3|generis|gentis|Fr. Richter|1858|Vat. Barb. lat. 42|
 Non. p. 503|f. omnino|feruit animo|Franz Oehler|1844|Paris. lat. 7667 (P)|ad Varro Men. 498
 Nonn. Dion. 14.393|ἀκωκήν|κολώνην|Graefe|n.d.|P.Berol. inv. 10567|κορώνην
 Nonn. Dion. 14.398|πολυσταφύλῳ|φιλοσταφύλῳ|Graefe|n.d.|P.Berol. inv. 10567|
