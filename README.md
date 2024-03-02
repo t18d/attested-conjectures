@@ -190,7 +190,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (178), Bentley (115), Markland (80), Madvig (74), Valckenaer (73), Porson (63), Beatus Rhenanus (60), Reiske (59), Brunck (54), Denys Lambin (54) and P. Manutius (54) (tied).</p>
+<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (178), Bentley (115), Markland (80), Madvig (74), Valckenaer (73), Porson (63), Beatus Rhenanus (60), Reiske (59) and Denys Lambin (57).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2467,8 +2467,13 @@ Nemes. ecl. 3.19|-as/quando|comptus|Laurens van Santen||Palat. 1652 (g)|m. sec.
 Nemes. ecl. 4.10|adlud-/allud-|ad ludere|Jacob Mähly|1868|lz|p. 117 ('per anastrophen')
 Nemes. ecl. 4.21|hoc/hec|hic|Emil Baehrens|1881|exc. Berol.|
 Nep. Att. 17.1|om.|ipse|Rudolph Dietsch|1850|cod. Leid. B. P. L. 2011 (L)|
+Nep. Dat. 11.1|est|esset|Karl Halm|1871|Baltimore W 388|
+Nep. Dion 1.4|tene-/tege-|leniebat|Denys Lambin|1569|Flor. XXIII.28|
+Nep. Dion 5.2|-us|tyrannis|Denys Lambin|1569|Monac. lat. 433|
 Nep. Milt. 5.3|nona partis summa|non apertissima|C. L. Roth|1841|Leid. B. P. L. 19|
 Nep. Milt. 8.3|c(h)ersonesso|in chersoneso|Alfred Fleckeisen|1890|Bodl. Canon. lat. 159|
+Nep. Paus. 2.4|se a.|te adiuuante|Bernhard Lupus|1876|ς aliquot|
+Nep. Phoc. 2.4|Atheniensium|A. portui|Denys Lambin|1569|Vratisl. Rehdig. 51|
 Nep. Them. 5.3|haec|h. est|Karl Halm|1871|ς perpauci|
 Nep. Them. 6.1|is-|iisque|Johannes Scheffer|1727|Vat. Chig. H. V. 160|per litt. N. Heinsio
 Nep. Them. 9.4|ea|te|Alfred Fleckeisen|1890|Bodl. Canon. lat. 159|
