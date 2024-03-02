@@ -2260,7 +2260,7 @@ Liv. 4.3.15|fiat|fiet|Madvig|1861|dett. duo|
 Liv. 4.4.11|nec e.|ne eodem|Madvig|1861|Upsal. Univ. C 908 (U)|
 Liv. 4.37.9|quo r.|quo res|Madvig|1861|fragm. Haverk.|m. sec.
 Liv. 6.9.6|in uolscis|in Volscos|Ant. Perizonius|s.xvii|Bodl. Auct. T. 1. 24 (O)|apud Ruperti ('in ora Livii sibi')
-Liv. 6.9.9|non tanta|non tam a|Heerwagen||Harl. 2493 (A)|m. sec.
+Liv. 6.9.9|non tanta|non tam a|H. W. Heerwagen|1844|Harl. 2493 (A)|Heerwagen on Alschefski; m. sec.
 Liv. 6.13.7|hominum|omnium|Oskar Siesbye|1875|Bamb. Class. 34 (B)|apud Madvig
 Liv. 9.16.4|-que(re)ntur/-quuntur|exsequentes|Gronovius|1664|Holkh. Lovel. 4 et dett. alter (Walters)|
 Liv. 10.46.10|Troilium|Trossulum|Carlo Sigonio|1566|unus cod. rec. (M. Müller)|p. 33
