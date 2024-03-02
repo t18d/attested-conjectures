@@ -178,6 +178,7 @@
         <li>West, M. L. (ed.), <em>Iambi et elegi Graeci ante Alexandrum cantati</em>, 2 vols (Oxford, 1998).</li>
         <li>West, Martin L. (ed.), <em>Aeschyli tragoediae cum incerti poetae Prometheo</em> (Stuttgart, 1998).</li>
         <li>Williams, Heather J. (ed.), <em>The Eclogues and Cynegetica of Nemesianus</em> (Leiden, 1986).</li>
+        <li>Willis, James (ed.), <em>Martianus Capella</em> (Leipzig, 1983).</li>
         <li>Willis, William H., 'The Robinson-Cologne Papyrus of Achilles Tatius', <em>Greek, Roman and Byzantine Studies</em>, 31 (1990), 73–102.</li>
         <li>Wilson, N. G., <em>Herodotea: studies on the text of Herodotus</em> (Oxford, 2015), xii–xiii.</li>
         <li>Xénophon, <em>Économique</em>, ed. Pierre Chantraine (Paris, 1949).</li>
