@@ -2467,6 +2467,9 @@ Nemes. ecl. 3.19|-as/quando|comptus|Laurens van Santen||Palat. 1652 (g)|m. sec.
 Nemes. ecl. 4.10|adlud-/allud-|ad ludere|Jacob Mähly|1868|lz|p. 117 ('per anastrophen')
 Nemes. ecl. 4.21|hoc/hec|hic|Emil Baehrens|1881|exc. Berol.|
 Nep. Att. 17.1.3|om.|ipse|Dietsch|n.d.|cod. Leid. (L)|
+Nep. Them. 5.3|haec|h. est|Karl Halm|1871|ς perpauci|
+Nep. Them. 6.1|is-|iisque|Johannes Scheffer|1727|Vat. Chig. H. V. 160|per litt. N. Heinsio
+Nep. Thras. 4.1|-inis|oleagineis|Alfred Fleckeisen|1890|Ambros. O 2 sup.|
 Non. p. 503|f. omnino|feruit animo|Franz Oehler|1844|Paris. lat. 7667 (P)|ad Varro Men. 498
 Nonn. Dion. 14.393|ἀκωκήν|κολώνην|Graefe|n.d.|P.Berol. inv. 10567|κορώνην
 Nonn. Dion. 14.398|πολυσταφύλῳ|φιλοσταφύλῳ|Graefe|n.d.|P.Berol. inv. 10567|
