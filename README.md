@@ -2466,7 +2466,8 @@ Nemes. ecl. 3.4|-as/lassat-|laxatus|J. H. Hoeufft|1807|Corsin. 43 F 5 (q)|p. 132
 Nemes. ecl. 3.19|-as/quando|comptus|Laurens van Santen||Palat. 1652 (g)|m. sec.
 Nemes. ecl. 4.10|adlud-/allud-|ad ludere|Jacob Mähly|1868|lz|p. 117 ('per anastrophen')
 Nemes. ecl. 4.21|hoc/hec|hic|Emil Baehrens|1881|exc. Berol.|
-Nep. Att. 17.1.3|om.|ipse|Dietsch|n.d.|cod. Leid. (L)|
+Nep. Att. 17.1|om.|ipse|Rudolph Dietsch|1850|cod. Leid. B. P. L. 2011 (L)|
+Nep. Milt. 5.3|nona partis summa|non apertissima|C. L. Roth|1841|Leid. B. P. L. 19|
 Nep. Them. 5.3|haec|h. est|Karl Halm|1871|ς perpauci|
 Nep. Them. 6.1|is-|iisque|Johannes Scheffer|1727|Vat. Chig. H. V. 160|per litt. N. Heinsio
 Nep. Thras. 4.1|-inis|oleagineis|Alfred Fleckeisen|1890|Ambros. O 2 sup.|
