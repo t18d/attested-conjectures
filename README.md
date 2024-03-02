@@ -189,7 +189,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (178), Bentley (113), Markland (80), Madvig (74), Valckenaer (73), Porson (63), Beatus Rhenanus (60), Reiske (59), Brunck (54), Denys Lambin (54) and P. Manutius (54) (tied).</p>
+<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (178), Bentley (114), Markland (80), Madvig (74), Valckenaer (73), Porson (63), Beatus Rhenanus (60), Reiske (59), Brunck (54), Denys Lambin (54) and P. Manutius (54) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2384,6 +2384,11 @@ Mart. Cap. 4.400|(pro) ibi fit/ibi sit/(ibi fit) si|sit|F. J. Petersen|1871|Pari
 Mart. Cap. 4.416|-est|potes|Bentley|1881|M2C2|RhM
 Mart. Cap. 5.425|Bellaque composcens/della c.|Deliacos poscens|Bentley|1881|B mg.|RhM
 Mart. Cap. 5.436|-to|aliquando|Karl Halm|1863|Petrop. publ. bibl. class. lat. F. V. 10 (P)|
+Mart. Cap. 5.475|quod d.|quo dubium|Grotius|1599|Paris. lat. 8671 (M)|v.l.
+Mart. Cap. 5.540|oratio|orationi|Adolf Dick|1925|Vesont. bibl. munic. 594 (E)|m. sec.
+Mart. Cap. 5.566|qui|quae|Karl Halm|1863|E2|
+Mart. Cap. 6.581|versis|variis|Grotius|1599|E2P2|
+Mart. Cap. 6.599|sibi a.|sive ante|Bentley|1881|AG|RhM
 Mart. Cap. 8.850|-ibus|errori|James Willis|1966|Harl. 2685 (A)|Helikon
 Men. Asp. 173|τ’ εμου|τ̣ι̣ μ̣[ου|E. W. Handley|1969|P.Oxy. LXI 4094|ZPE 4 (1969) 162
 Men. Asp. 194|δ’ ειμαι vel δειμαι|δει με|Parsons|1969|P.Oxy. LXI 4094|ZPE 4 (1969) 163
