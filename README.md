@@ -2468,7 +2468,7 @@ Nemes. ecl. 3.19|-as/quando|comptus|Laurens van Santen||Palat. 1652 (g)|m. sec.
 Nemes. ecl. 4.10|adlud-/allud-|ad ludere|Jacob Mähly|1868|lz|p. 117 ('per anastrophen')
 Nemes. ecl. 4.21|hoc/hec|hic|Emil Baehrens|1881|exc. Berol.|
 Nep. Att. 12.5|fuit|est|Karl Halm|1871|Vat. lat. 3412|
-Nep. Att. 17.1|om.|ipse|Rudolph Dietsch|1850|cod. Leid. B. P. L. 2011 (L)|
+Nep. Att. 17.1|om.|ipse|Rudolph Dietsch|1850|Leid. B. P. L. 2011 (L)|
 Nep. Dat. 11.1|est|esset|Karl Halm|1871|Baltimore W 388|
 Nep. Dion 1.4|tene-/tege-|leniebat|Denys Lambin|1569|Flor. XXIII.28|
 Nep. Dion 5.2|-us|tyrannis|Denys Lambin|1569|Monac. lat. 433|
