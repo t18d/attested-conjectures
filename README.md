@@ -2372,7 +2372,13 @@ Marcellin. Vit. Thuc. 52|τῇ παλαιᾷ|del.|E. F. Poppo|1843|Ck Vm|
 Mart. 1.109.20|ipsa|issa|Richard Thomson|1618|cod. Weidner. Modii|apud Scriverium
 Mart. 11.81.4|uter-|utrique|Nicolaus Heinsius||Arondell. Mus. Brit. 136 (Q)|
 Mart. Cap. 1.7|Aniae|Vranie|Grotius|1599|Paris. lat. 8670 (D)|
+Mart. Cap. 1.9|de morte|demere|Grotius|1599|D1|
+Mart. Cap. 1.25|sec-|pectus|U. F. Kopp|1836|Brux. bibl. reg. 9565–9566 (G)|
+Mart. Cap. 2.100|-am|sociandum|Franz Eyssenhardt|1866|Leid. bibl. univ. 87 (L)|m. pr.
+Mart. Cap. 2.114|-acii|umbrati|Grotius|1599|Bamb. Msc. class. 39 (B)|m. sec.
+Mart. Cap. 2.116|ditione|Dione|Grotius|1599|G in ras.|
 Mart. Cap. 4.400|(pro) ibi fit/ibi sit/(ibi fit) si|sit|F. J. Petersen|1871|Paris. lat. 8669 (C)|
+Mart. Cap. 8.850|-ibus|errori|James Willis|1966|Harl. 2685 (A)|Helikon
 Men. Asp. 173|τ’ εμου|τ̣ι̣ μ̣[ου|E. W. Handley|1969|P.Oxy. LXI 4094|ZPE 4 (1969) 162
 Men. Asp. 194|δ’ ειμαι vel δειμαι|δει με|Parsons|1969|P.Oxy. LXI 4094|ZPE 4 (1969) 163
 Men. Asp. 194|δ’ ειμαι vel δειμαι|δ’ ει με|Kassel|1969|P.Oxy. LXI 4094|ZPE 4 (1969) 163
