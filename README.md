@@ -189,7 +189,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (178), Bentley (111), Markland (80), Madvig (74), Valckenaer (73), Porson (63), Beatus Rhenanus (60), Reiske (59), Brunck (54), Denys Lambin (54) and P. Manutius (54) (tied).</p>
+<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (178), Bentley (112), Markland (80), Madvig (74), Valckenaer (73), Porson (63), Beatus Rhenanus (60), Reiske (59), Brunck (54), Denys Lambin (54) and P. Manutius (54) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2377,7 +2377,11 @@ Mart. Cap. 1.25|sec-|pectus|U. F. Kopp|1836|Brux. bibl. reg. 9565–9566 (G)|
 Mart. Cap. 2.100|-am|sociandum|Franz Eyssenhardt|1866|Leid. bibl. univ. 87 (L)|m. pr.
 Mart. Cap. 2.114|-acii|umbrati|Grotius|1599|Bamb. Msc. class. 39 (B)|m. sec.
 Mart. Cap. 2.116|ditione|Dione|Grotius|1599|G in ras.|
+Mart. Cap. 2.187|hac p.|a principio|Grotius|1599|Bodl. Laud. lat. 118 (F)|m. pr.
+Mart. Cap. 3.227|-ri|declinare|Franz Eyssenhardt|1866|MP1|
+Mart. Cap. 4.346|iuventutis|iuvenilia|Grotius|1599|Paris. lat. 8671 (M)|m. sec.
 Mart. Cap. 4.400|(pro) ibi fit/ibi sit/(ibi fit) si|sit|F. J. Petersen|1871|Paris. lat. 8669 (C)|
+Mart. Cap. 4.416|-est|potes|Bentley|1881|M2C2|
 Mart. Cap. 8.850|-ibus|errori|James Willis|1966|Harl. 2685 (A)|Helikon
 Men. Asp. 173|τ’ εμου|τ̣ι̣ μ̣[ου|E. W. Handley|1969|P.Oxy. LXI 4094|ZPE 4 (1969) 162
 Men. Asp. 194|δ’ ειμαι vel δειμαι|δει με|Parsons|1969|P.Oxy. LXI 4094|ZPE 4 (1969) 163
