@@ -137,6 +137,7 @@
         <li>Oppianus Apameensis, <em>Cynegetica</em>, ed. Manolis Papathomopoulos (Munich, 2003).</li>
         <li>Ovidius Naso, P., <em>Fastorum libri sex</em>, ed. R. Merkel (Berlin, 1841).</li>
         <li>Ovidius Naso, P., <em>Amores, epistulae, medic. fac. fem., ars amat., remedia amoris</em>, ed. R. Ehwald (Leipzig, 1888).</li>
+        <li>Ovidius Naso, P., <em>Tristium libri quinque, Ibis, ex Ponto libri quattuor, Halieutica fragmenta</em>, ed. S. G. Owen (Oxford, 1915).</li>
         <li>Ovidius Naso, P., <em>Heroidas</em>, i, ed. Remus Giomini (Rome, 1963).</li>
         <li>Ovidius Naso, P., <em>Tristia</em>, ed. Georg Luck (Heidelberg, 1967).</li>
         <li>Ovidius Naso, P., <em>Fastorum libri sex</em>, ed. E. H. Alton, D. E. W. Wormell, E. Courtney (Munich, 1996).</li>
