@@ -192,7 +192,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (178), Bentley (116), Markland (80), Madvig (74), Valckenaer (73), Porson (63), Beatus Rhenanus (60), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (217), Nicolaus Heinsius (179), Bentley (116), Markland (80), Madvig (74), Valckenaer (73), Porson (63), Beatus Rhenanus (60), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2506,6 +2506,8 @@ Opp. C. 4.208|ἐρυϲϲάμενοι|ερειϲάμεν[οι|Johannes Pierson|1
 Opp. C. 4.322|δε-|λεξάμενοι|J. G. Schneider|1776|Vindob. phil. gr. 135 (L)|
 Orac. Sib. 516–517|516, 517|517, 516|Geffcken|n.d.|P.Flor. 398|
 Ov. Pont. 1.1.63|manifest-|mansuetior|Bentley|1905|Hafn. Gl. Kgl. S.2013 4ᵗᵒ (ka)|
+Ov. Pont. 1.3.86|Quae|Quod|P. H. Damsté|1918|Ambros. G 37 sup. (a)|
+Ov. Pont. 1.4.35|l. u.|uastum ligno|Nicolaus Heinsius||flor. Gallici (φ)|
 Ov. Pont. 2.5.68|cal-|color|Rudolf Merkel|1837|Bodl. Canon. Class. Lat. 1 (o)|p. 373
 Ov. am. 1.2.14|pressi|prensi|Markland|1728|B2f|ad Stat. silv. 1.2.45
 Ov. am. 1.6.8|di-|derigit|Housman|n.d.|Hamilt. 471 (Y)|
