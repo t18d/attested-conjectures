@@ -2475,13 +2475,13 @@ Nep. Dion 1.4|tene-/tege-|leniebat|Denys Lambin|1569|Flor. XXIII.28|
 Nep. Dion 5.2|-us|tyrannis|Denys Lambin|1569|Monac. lat. 433|
 Nep. Hann. 11.3|-ebatur|reperiebat|Denys Lambin|1569|Bonon. 2050|
 Nep. Milt. 5.3|nona partis summa|non apertissima|C. L. Roth|1841|Leid. B. P. L. 19|
-Nep. Milt. 8.3|c(h)ersonesso|in chersoneso|Alfred Fleckeisen|1890|Bodl. Canon. lat. 159|
+Nep. Milt. 8.3|c(h)ersonesso|in chersoneso|Alfred Fleckeisen|1890|Bodl. Canon. Lat. 159|
 Nep. Paus. 2.4|se a.|te adiuuante|Bernhard Lupus|1876|ς aliquot|
 Nep. Phoc. 2.4|Atheniensium|A. portui|Denys Lambin|1569|Vratisl. Rehdig. 51|
 Nep. Phoc. 3.3|hoc|huc|Denys Lambin|1569|Vat. lat. 5262|marg.
 Nep. Them. 5.3|haec|h. est|Karl Halm|1871|ς perpauci|
 Nep. Them. 6.1|is-|iisque|Johannes Scheffer|1727|Vat. Chig. H. V. 160|per litt. N. Heinsio
-Nep. Them. 9.4|ea|te|Alfred Fleckeisen|1890|Bodl. Canon. lat. 159|
+Nep. Them. 9.4|ea|te|Alfred Fleckeisen|1890|Bodl. Canon. Lat. 159|
 Nep. Them. 10.1|se|del.|Karl Halm|1871|ς aliquot|
 Nep. Thras. 4.1|-inis|oleagineis|Alfred Fleckeisen|1890|Ambros. O 2 sup.|
 Nep. reg. 1.3|generis|gentis|Friedrich Richter|1858|Vat. Barb. lat. 42|Richter on C. W. Nauck
@@ -2505,7 +2505,7 @@ Opp. C. 4.199|ἴκ-|εἴκελος|Andreas Schott|s.xvi/xvii|P.Oxy. LXXXI 5278
 Opp. C. 4.208|ἐρυϲϲάμενοι|ερειϲάμεν[οι|Johannes Pierson|1752|P.Oxy. LXXXI 5278|Verisimilium libri duo (1752) 174
 Opp. C. 4.322|δε-|λεξάμενοι|J. G. Schneider|1776|Vindob. phil. gr. 135 (L)|
 Orac. Sib. 516–517|516, 517|517, 516|Geffcken|n.d.|P.Flor. 398|
-Ov. Pont. 2.5.68|cal-|color|Rudolf Merkel|1837|Bodl. Canon. class. lat. 1 (o)|p. 373
+Ov. Pont. 2.5.68|cal-|color|Rudolf Merkel|1837|Bodl. Canon. Class. Lat. 1 (o)|p. 373
 Ov. am. 1.2.14|pressi|prensi|Markland|1728|B2f|ad Stat. silv. 1.2.45
 Ov. am. 1.6.8|di-|derigit|Housman|n.d.|Hamilt. 471 (Y)|
 Ov. am. 1.7.46|nec|et|Bentley|n.d.|Barb. lat. 26 (V)|
