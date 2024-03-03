@@ -192,7 +192,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (218), Nicolaus Heinsius (184), Bentley (116), Markland (80), Madvig (74), Valckenaer (73), Porson (63), Beatus Rhenanus (60), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (218), Nicolaus Heinsius (185), Bentley (117), Markland (80), Madvig (74), Valckenaer (73), Porson (63), Beatus Rhenanus (60), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2515,6 +2515,9 @@ Ov. Pont. 2.2.120|uires|partes|Nicolaus Heinsius|1661|Ambros. G 37 sup. (a)|
 Ov. Pont. 2.2.121|patria|a p.|Nicolaus Heinsius|1661|Lips. Bibl. Munic. Rep. I 7 (l)|
 Ov. Pont. 2.3.37|abic-|abigi|Nicolaus Heinsius|1652|BC|'vel contra fidem membranarum'
 Ov. Pont. 2.4.17|-i/-e|amicâ|Nicolaus Heinsius|1661|Berol. Hamilt. 371 (bl)|
+Ov. Pont. 2.5.1|-lan-/-lin-|salono|Nicolaus Heinsius|1727|Monac. c.l.m. 19476 (C)|apud Burmannum
+Ov. Pont. 2.5.15|quoque|quodque|Hugo Magnus|1920|bl k wa wc +|PhW
+Ov. Pont. 2.5.67|gest-|gustata|Bentley|1905|Hamburg. Bibl. Univ. scrin. 52 F (A)|
 Ov. Pont. 2.5.68|cal-|color|Rudolf Merkel|1837|Bodl. Canon. Class. Lat. 1 (o)|p. 373
 Ov. am. 1.2.14|pressi|prensi|Markland|1728|B2f|ad Stat. silv. 1.2.45
 Ov. am. 1.6.8|di-|derigit|Housman|n.d.|Hamilt. 471 (Y)|
