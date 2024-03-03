@@ -140,6 +140,7 @@
         <li>Ovidius Naso, P., <em>Tristium libri quinque, Ibis, ex Ponto libri quattuor, Halieutica fragmenta</em>, ed. S. G. Owen (Oxford, 1915).</li>
         <li>Ovidius Naso, P., <em>Heroidas</em>, i, ed. Remus Giomini (Rome, 1963).</li>
         <li>Ovidius Naso, P., <em>Tristia</em>, ed. Georg Luck (Heidelberg, 1967).</li>
+        <li>Ovidius Naso, P., <em>Ex Ponto libri quattuor</em>, ed. J. A. Richmond (Leipzig, 1990).</li>
         <li>Ovidius Naso, P., <em>Fastorum libri sex</em>, ed. E. H. Alton, D. E. W. Wormell, E. Courtney (Munich, 1996).</li>
         <li>Ovidius Naso, P., <em>Metamorphoses</em>, ed. R. J. Tarrant (Oxford, 2004).</li>
         <li>Ovidius Naso, P., <em>Carmina amatoria</em>, ed. Antonio Ramírez de Verger (Munich, 2006).</li>
