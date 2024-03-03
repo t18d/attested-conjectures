@@ -2507,7 +2507,8 @@ Opp. C. 4.322|δε-|λεξάμενοι|J. G. Schneider|1776|Vindob. phil. gr. 13
 Orac. Sib. 516–517|516, 517|517, 516|Geffcken|n.d.|P.Flor. 398|
 Ov. Pont. 1.1.63|manifest-|mansuetior|Bentley|1905|Hafn. Gl. Kgl. S.2013 4ᵗᵒ (ka)|
 Ov. Pont. 1.3.86|Quae|Quod|P. H. Damsté|1918|Ambros. G 37 sup. (a)|
-Ov. Pont. 1.4.35|l. u.|uastum ligno|Nicolaus Heinsius||flor. Gallici (φ)|
+Ov. Pont. 1.4.35|l. u.|uastum ligno|Nicolaus Heinsius|1652|flor. Gallici (φ)|
+Ov. Pont. 1.6.23|sint|sunt|Rudolf Ehwald|1896|Marc. lat. XII. 54 (wc)|p. 69
 Ov. Pont. 2.5.68|cal-|color|Rudolf Merkel|1837|Bodl. Canon. Class. Lat. 1 (o)|p. 373
 Ov. am. 1.2.14|pressi|prensi|Markland|1728|B2f|ad Stat. silv. 1.2.45
 Ov. am. 1.6.8|di-|derigit|Housman|n.d.|Hamilt. 471 (Y)|
