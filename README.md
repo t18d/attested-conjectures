@@ -192,7 +192,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (220), Nicolaus Heinsius (187), Bentley (119), Markland (80), Madvig (74), Valckenaer (73), Porson (63), Beatus Rhenanus (60), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (220), Nicolaus Heinsius (188), Bentley (119), Markland (80), Madvig (74), Valckenaer (73), Porson (63), Beatus Rhenanus (60), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2529,6 +2529,10 @@ Ov. Pont. 3.9.32|collig-|corrigere|Bentley|1905|B C le bl|
 Ov. Pont. 4.1.11|alii|aliud|Scaliger|1629|Paris. lat. 8239 (pp)|apud D. Heinsium
 Ov. Pont. 4.2.9|-a|falerno|Justus Zinzerling|1610|e bl bh d n|
 Ov. Pont. 4.4.34|erit|erunt|Nicolaus Heinsius|1661|Monac. c.l.m. 384 (B)|
+Ov. Pont. 4.6.5|acta est|acta|Housman|1903|l wa|ad Manil. 3.596
+Ov. Pont. 4.6.49|-um|adem(p)to|Nicolaus Heinsius|1652|Basile. F.IV.6 (ba)|
+Ov. Pont. 4.7.15|-itis|Tendisti|Rudolf Merkel|1853|Laur. Plut. 36.32 (m)|
+Ov. Pont. 4.7.17|-is|plenus|Rudolf Ehwald|1896|e bl bh m o|p. 84
 Ov. am. 1.2.14|pressi|prensi|Markland|1728|B2f|ad Stat. silv. 1.2.45
 Ov. am. 1.6.8|di-|derigit|Housman|n.d.|Hamilt. 471 (Y)|
 Ov. am. 1.7.46|nec n.|et nimium|Bentley|1905|Barb. lat. 26 (V)|
