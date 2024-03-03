@@ -192,7 +192,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (218), Nicolaus Heinsius (185), Bentley (117), Markland (80), Madvig (74), Valckenaer (73), Porson (63), Beatus Rhenanus (60), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (219), Nicolaus Heinsius (186), Bentley (118), Markland (80), Madvig (74), Valckenaer (73), Porson (63), Beatus Rhenanus (60), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2520,6 +2520,9 @@ Ov. Pont. 2.5.15|quoque|quodque|Hugo Magnus|1920|bl k wa wc +|PhW
 Ov. Pont. 2.5.67|gest-|gustata|Bentley|1905|Hamburg. Bibl. Univ. scrin. 52 F (A)|
 Ov. Pont. 2.5.68|cal-|color|Rudolf Merkel|1837|Bodl. Canon. Class. Lat. 1 (o)|p. 373
 Ov. Pont. 2.7.24|-es|potest|Adolf Rothmaler|1871|le bl s|
+Ov. Pont. 2.7.55|quae|quis|Nicolaus Heinsius|1661|Vat. Barb. lat. 3292 (vh)|
+Ov. Pont. 3.3.14|Fulua|Fulcra|Scaliger|1661|Bodl. Rawl. G 109 (ol)|apud Heinsium
+Ov. Pont. 3.6.34|Qui|Quin|Bentley|1905|Lent. Bibl. Stud. 79 (le)|
 Ov. am. 1.2.14|pressi|prensi|Markland|1728|B2f|ad Stat. silv. 1.2.45
 Ov. am. 1.6.8|di-|derigit|Housman|n.d.|Hamilt. 471 (Y)|
 Ov. am. 1.7.46|nec n.|et nimium|Bentley|1905|Barb. lat. 26 (V)|
