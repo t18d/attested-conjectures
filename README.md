@@ -2533,6 +2533,8 @@ Ov. Pont. 4.6.5|acta est|acta|Housman|1903|l wa|ad Manil. 3.596
 Ov. Pont. 4.6.49|-um|adem(p)to|Nicolaus Heinsius|1652|Basile. F.IV.6 (ba)|
 Ov. Pont. 4.7.15|-itis|Tendisti|Rudolf Merkel|1853|Laur. Plut. 36.32 (m)|
 Ov. Pont. 4.7.17|-is|plenus|Rudolf Ehwald|1896|e bl bh m o|p. 84
+Ov. Pont. 4.7.23|-ue|manune|Th. Roeper|1868|B C|apud Korn
+Ov. Pont. 4.9.8|iusso|iusto|John Jortin|1731|Turon. 879 (t)|I p. 227
 Ov. am. 1.2.14|pressi|prensi|Markland|1728|B2f|ad Stat. silv. 1.2.45
 Ov. am. 1.6.8|di-|derigit|Housman|n.d.|Hamilt. 471 (Y)|
 Ov. am. 1.7.46|nec n.|et nimium|Bentley|1905|Barb. lat. 26 (V)|
