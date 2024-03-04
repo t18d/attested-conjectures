@@ -2719,6 +2719,7 @@ Paneg. 9.20.2|-cunt|deuinciunt|Johannes Livineius|1599|Caroliruh. 457|
 Paneg. 10.7.5|opti-|opimam|Johannes Livineius|1599|H2|
 Paneg. 10.8.5|-am|certi|Emil Baehrens|1874|H2|
 Paneg. 10.14.3|-em|consuetudine|Emil Baehrens|1874|H2|
+Paneg. 11.2.4|auxilii|anxios|Johannes Livineius|1599|ς (Galletier)|
 Paneg. 12.2.2|mut-/met-|motu|Emil Baehrens|1874|H2|
 Paneg. 12.16.3|ann-|armorum|Franz Eyssenhardt|1867|W2|p. 21
 Pers. 5.90|uetauit|uetabit|C. F. Heinrich|1844|Reg. 1562|
