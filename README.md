@@ -2705,6 +2705,8 @@ Paneg. 2.3.7|i. a s.|illos sacris|Valens Acidalius|1607|H2|
 Paneg. 2.10.2|-a l.|quanto laude|Valens Acidalius|1607|Brux. 10026–32 (c)|m. sec.
 Paneg. 2.10.3|pens(a)e manibus|pensa manibus|W. A. Baehrens|1910|Vat. 1775 (W)|diss. p. 75; m. sec.
 Paneg. 2.19.3|opes|spes|Franz Eyssenhardt|1867|H2|p. 7
+Paneg. 3.27.1|-int|mutauerunt|Wolfgang Jaeger|1779|P2 (teste Galletier)|
+Paneg. 3.28.4|affat-|afflatibus|Emil Baehrens|1874|P2 (Galletier)|
 Paneg. 4.5.4|-ant|fuerint|Valens Acidalius|1607|H2|
 Paneg. 4.10.3|adu-|auersatur|Johannes Livineius|1599|H2|
 Paneg. 4.11.2|natura aff-|natura fert|Franciscus Puteolanus|1482|H2|
