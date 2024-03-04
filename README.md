@@ -2703,8 +2703,10 @@ P.Oxy. II 266.15|[ἀν]αζυγήν|[δι]α-|Edgar-Hunt|1932|P.Oxy. XLIX 3491|
 Paneg. 2.2.2|et certe|at certe|Valens Acidalius|1607|Harl. 2480 (H)|m. sec.
 Paneg. 2.3.7|i. a s.|illos sacris|Valens Acidalius|1607|H2|
 Paneg. 2.10.2|-a l.|quanto laude|Valens Acidalius|1607|Brux. 10026–32 (c)|m. sec.
-Paneg. 2.10.3|pens(a)e manibus|pensa manibus|W. A. Baehrens|1910|Vat. 1775 (w)|diss. p. 75; m. sec.
+Paneg. 2.10.3|pens(a)e manibus|pensa manibus|W. A. Baehrens|1910|Vat. 1775 (W)|diss. p. 75; m. sec.
 Paneg. 2.19.3|opes|spes|Franz Eyssenhardt|1867|H2|p. 7
+Paneg. 5.2.2|coram|etiam|Valens Acidalius|1607|W2|
+Paneg. 5.6.5|-em et/-e|uoraginum|W. A. Baehrens|1925|W2|
 Paneg. 9.15.2|a dominis|ad omnes|Franciscus Puteolanus|1482|H2|
 Paneg. 9.19.3|monit-|motus|Emil Baehrens|1874|H2|
 Paneg. 9.20.1|-a|dedicato|Valens Acidalius|1607|H2c2|
