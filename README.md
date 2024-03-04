@@ -2700,7 +2700,10 @@ Ov. trist. 5.8.30|roganda|petenda|Tanaquil Faber|1674|Berol. Diez. 20 (Bl)|
 Ov. trist. 5.10.12|sunt-|stantque|Housman|1890|LtLu|CR 4 (1890) 340–2
 Ov. trist. 5.10.12|dura|longa|J. Ph. d'Orville|1732–51|D2Ma|
 P.Oxy. II 266.15|[ἀν]αζυγήν|[δι]α-|Edgar-Hunt|1932|P.Oxy. XLIX 3491|Sel.Pap. I 7.15
-Paneg. 10.7.5|opti-|opimam|Johannes Livineius|1599|Harl. 2480 (H)|m. sec.
+Paneg. 2.2.2|et certe|at certe|Valens Acidalius|1607|Harl. 2480 (H)|m. sec.
+Paneg. 2.3.7|i. a s.|illos sacris|Valens Acidalius|1607|H2|
+Paneg. 2.10.2|-a l.|quanto laude|Valens Acidalius|1607|Brux. 10026–32 (c)|m. sec.
+Paneg. 10.7.5|opti-|opimam|Johannes Livineius|1599|H2|
 Paneg. 10.8.5|-am|certi|Emil Baehrens|1874|H2|
 Paneg. 10.14.3|-em|consuetudine|Emil Baehrens|1874|H2|
 Pers. 5.90|uetauit|uetabit|C. F. Heinrich|1844|Reg. 1562|
