@@ -1207,7 +1207,6 @@ Cic. part. 62|in|del.|Thomas Stangl|1886|CI|Philol.
 Cic. prov. 47|si|del.|Gustav Sorof|1875|GEb|
 Claud. 1.9|anni-|amniadae|Julius Koch|1893|Erlang. 626 (e2)|
 Claud. 1.198|græca/grata|graia|Nicolaus Heinsius|1650|Vindob. 3246 (V4)|
-Claud. 3.40|torua-|totaque|Johannes Camers|1510|Leid. Β. P. L. 131 (J7)|v.l.
 Claud. 3.48|quo|cur|Goodyear|1985|Paris. lat. 7936 (P14)|apud Hall
 Claud. 3.131|fata-/fera-|furiale|Theodor Birt|1892|Lond. Bibl. Brit. Add. 6042 (L3)|v.l.
 Claud. 3.154|leuaui/litaui|uocaui|Ludwig Jeep|1876|Bonon. 2221 (b1)|m. sec.
@@ -1232,20 +1231,17 @@ Claud. 6.3|germ-|tegmine|Scaliger|1760|exc. Gyr.|apud Burmannum
 Claud. 7.4|auge-|lucescat|Nicolaus Heinsius|1760|Bodl. Auct. F.2.16 (O3)|apud Burmannum
 Claud. 7.89|fat-|fastis|Ludwig Jeep|1876|L11ac|
 Claud. 7.118|-runt carmina|mouere cacumina|Gilbert Wakefield|s.xviii ex.|Paris. lat. 18552 (P)|apud Hall; v.l.
-Claud. 7.157|dil-|dirige|Johannes Camers|1510|K6acF14vl|
 Claud. 8.34|-it|obsistat|Nicolaus Heinsius|1650|Bodl. Lat. class. e 47 (O4)|'vel sine libris lego'
 Claud. 8.38|q. di(c)tat|ditat quos|Theodor Birt|1892|F17ac|
 Claud. 8.84|uul-|cultus|Nicolaus Heinsius|1760|Paris. lat. 7936 (P14)|apud Burmannum
 Claud. 8.97|-os|purpureo|Johannes Schrader|1871|Paris. lat. 8082 (P2)|apud Haupt
 Claud. 8.101|sui|sibi|Johannes Camers|1510|Lond. Burn. 166 (L11)|
 Claud. 8.250|dum|cum|Ludwig Jeep|1876|A2F20O7|
-Claud. 8.330|protect-|proiectaque|Johannes Camers|1510|P2vlLW2pc|
 Claud. 8.330|praetect-|praetentaque|Scaliger|1603|Atrebat. 438 (θ)|v.l.
 Claud. 8.438|sirtibus|syrtidos|Ludwig Jeep|1876|Crac. 71 (g)|
 Claud. 8.488|anim-|armisque|Nicolaus Heinsius|1760|Paris. lat. 18551 (P10)|apud Burmannum
 Claud. 8.540|-tum|contra|G. L. König|1808|Leid. 294 (J3)|v.l.
 Claud. 8.634|-eat|debuit|T. W. Paul|1866|R3Γ1pc|p. 10
-Claud. 9.7|-e fontes|nectaris amnes|Johannes Camers|1510|P4p4|
 Claud. 10.88|-is|smaragdi|J. M. Gesner|1759|F3W2pcθvl|BWV 1075
 Claud. 10.97|dilapsus|delatus|Nicolaus Heinsius|1760|Parm. Palat. 2504 (Z)|apud Burmannum
 Claud. 10.126|soluit|sistit|G. L. König|1808|P2vlζac|
@@ -1262,7 +1258,6 @@ Claud. 15.218|saciar-/sancir-|sociarent|Nicolaus Heinsius|1760|Vat. lat. 2808 (R
 Claud. 15.245|fouere/fauere|uenere|Pieter Burman I|1760|Lond. Harl. 2753 (L4)|
 Claud. 15.247|-et|petissent|Theodor Birt|1892|F19P10|
 Claud. 15.277|-it|respuat|Nicolaus Heinsius|1650|Lond. Bibl. Brit. Add. 6042 (L3)|
-Claud. 15.294|etiam num|iam tunc|Johannes Camers|1510|Lond. Eger. 2627 (L1)|
 Claud. 15.294|etiamnum|etiamtum|Ludwig Jeep|1876|CpcJ6|
 Claud. 15.301|et|sed|Johannes Camers|1510|Yalensis Marst. 45|
 Claud. 15.381|auferet/aff-|ac feret|Scaliger|1760|Rvl (Birt)|apud Burmannum
@@ -1361,7 +1356,6 @@ Claud. 28.291|hic|haec|Scaliger|1603|J3pc|
 Claud. 28.312|-it|desinet|Mommsen|1892|J3acP10|apud Birt
 Claud. 28.356|-di|moranti|Nicolaus Heinsius|1760|F17ac|apud Burmannum
 Claud. 28.365|nom-|numine|J. M. Gesner|1759|Guelf. Helmaest. 538 (W2)|
-Claud. 28.387|suis|tuis|Johannes Camers|1510|Laur. 33.4 (F3)|
 Claud. 28.485|manum|manu|Caspar von Barth|1650|Antuerp. Μ 17.1 (A2)|p. 754
 Claud. 28.624|artes|acies|Theodor Poelman|1571|Antuerp. Μ 17.1 (A2)|
 Claud. 28.651|indu-|imbuit|Scaliger|1603|b1F3vl|
@@ -1390,7 +1384,7 @@ Claud. carm. min. 17.42|-auit|dicabit|Nicolaus Heinsius|1650|Veron. 163 (Δ)|
 Claud. carm. min. 20.5|uario|uano|Nicolaus Heinsius|1665|Matrit. 10082 (ζ)|
 Claud. carm. min. 22.17|-is|famuli|Scaliger|1603|Ambros. S 66 sup. (K4)|
 Claud. carm. min. 25.101|populis-/peplū-|peplisque|Ludwig Jeep|1876|Laur. 33.4 (F3)|
-Claud. carm. min. 26.49|leuis|leues/lenes|Johannes Camers|1510|gJ3O3/C1|
+Claud. carm. min. 26.49|leuis|lenes|Johannes Camers|1510|gJ3O3/C1|
 Claud. carm. min. 26.51|plen-|planas|Nicolaus Heinsius|1650|W1pc|'vel contra libros'
 Claud. carm. min. 27.10|saeu-|scaeua|Nicolaus Heinsius|1760|Marc. XII. 11 (T2)|apud Burmannum p. 981
 Claud. carm. min. 27.27|nam-|iamque|Nicolaus Heinsius|1665|Parm. Palat. 2504 (Z)|
