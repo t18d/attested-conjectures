@@ -2510,13 +2510,13 @@ Ov. Ib. 133(41)|eva-|vanescere|Nicolaus Heinsius|1661|Bodl. Auct. F. 4. 24 (O2)|
 Ov. Ib. 627|age-/habe-|alebat|Housman|1905|Neap. bibl. Borb. CCLX (N)|m. pr.
 Ov. Pont. 1.1.63|manifest-|mansuetior|Bentley|1905|Hafn. Gl. Kgl. S.2013 4ᵗᵒ (ka)|
 Ov. Pont. 1.3.86|Quae|Quod|P. H. Damsté|1918|Ambros. G 37 sup. (a)|
-Ov. Pont. 1.4.35|l. u.|uastum ligno|Nicolaus Heinsius|1652|flor. Gallici (φ)|
+Ov. Pont. 1.4.35|l. u.|uastum ligno|Nicolaus Heinsius|1661|flor. Gallici (φ)|
 Ov. Pont. 1.6.23|sint|sunt|Rudolf Ehwald|1896|Marc. lat. XII. 54 (wc)|p. 69
 Ov. Pont. 2.1.34|quo|quae|Scaliger|1622|Lent. Bibl. Stud. 79 (le)|p. 292
 Ov. Pont. 2.2.5|si|quod|Nicolaus Heinsius|1727|Monac. c.l.m. 19476 (C)|apud Burmannum
 Ov. Pont. 2.2.120|uires|partes|Nicolaus Heinsius|1661|Ambros. G 37 sup. (a)|
 Ov. Pont. 2.2.121|patria|a p.|Nicolaus Heinsius|1661|Lips. Bibl. Munic. Rep. I 7 (l)|
-Ov. Pont. 2.3.37|abic-|abigi|Nicolaus Heinsius|1652|BC|'vel contra fidem membranarum'
+Ov. Pont. 2.3.37|abic-|abigi|Nicolaus Heinsius|1661|BC|'vel contra fidem membranarum'
 Ov. Pont. 2.4.17|-i/-e|amicâ|Nicolaus Heinsius|1661|Berol. Hamilt. 371 (bl)|
 Ov. Pont. 2.5.1|-lan-/-lin-|salono|Nicolaus Heinsius|1727|Monac. c.l.m. 19476 (C)|apud Burmannum
 Ov. Pont. 2.5.15|quoque|quodque|Hugo Magnus|1920|bl k wa wc +|PhW
