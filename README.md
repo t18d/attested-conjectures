@@ -193,7 +193,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (221), Nicolaus Heinsius (190), Bentley (119), Markland (80), Madvig (74), Valckenaer (73), Porson (63), Beatus Rhenanus (60), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (221), Nicolaus Heinsius (191), Bentley (119), Markland (80), Madvig (74), Valckenaer (73), Porson (63), Beatus Rhenanus (60), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2506,6 +2506,8 @@ Opp. C. 4.199|ἴκ-|εἴκελος|Andreas Schott|s.xvi/xvii|P.Oxy. LXXXI 5278
 Opp. C. 4.208|ἐρυϲϲάμενοι|ερειϲάμεν[οι|Johannes Pierson|1752|P.Oxy. LXXXI 5278|Verisimilium libri duo (1752) 174
 Opp. C. 4.322|δε-|λεξάμενοι|J. G. Schneider|1776|Vindob. phil. gr. 135 (L)|
 Orac. Sib. 516–517|516, 517|517, 516|Geffcken|n.d.|P.Flor. 398|
+Ov. Ib. 133(41)|eva-|vanescere|Nicolaus Heinsius|1661|Bodl. Auct. F. 4. 24 (O2)|
+Ov. Ib. 627|age-/habe-|alebat|Housman|1905|Neap. bibl. Borb. CCLX (N)|m. pr.
 Ov. Pont. 1.1.63|manifest-|mansuetior|Bentley|1905|Hafn. Gl. Kgl. S.2013 4ᵗᵒ (ka)|
 Ov. Pont. 1.3.86|Quae|Quod|P. H. Damsté|1918|Ambros. G 37 sup. (a)|
 Ov. Pont. 1.4.35|l. u.|uastum ligno|Nicolaus Heinsius|1652|flor. Gallici (φ)|
