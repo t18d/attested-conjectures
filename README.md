@@ -2707,6 +2707,7 @@ Paneg. 2.10.3|pens(a)e manibus|pensa manibus|W. A. Baehrens|1910|Vat. 1775 (W)|d
 Paneg. 2.19.3|opes|spes|Franz Eyssenhardt|1867|H2|p. 7
 Paneg. 5.2.2|coram|etiam|Valens Acidalius|1607|W2|
 Paneg. 5.6.5|-em et/-e|uoraginum|W. A. Baehrens|1925|W2|
+Paneg. 5.14.5|Brib-|Bibracte|Johannes Cuspinian|1513|Paris. 8556 (P)|
 Paneg. 9.15.2|a dominis|ad omnes|Franciscus Puteolanus|1482|H2|
 Paneg. 9.19.3|monit-|motus|Emil Baehrens|1874|H2|
 Paneg. 9.20.1|-a|dedicato|Valens Acidalius|1607|H2c2|
@@ -2714,6 +2715,8 @@ Paneg. 9.20.2|-cunt|deuinciunt|Johannes Livineius|1599|Caroliruh. 457|
 Paneg. 10.7.5|opti-|opimam|Johannes Livineius|1599|H2|
 Paneg. 10.8.5|-am|certi|Emil Baehrens|1874|H2|
 Paneg. 10.14.3|-em|consuetudine|Emil Baehrens|1874|H2|
+Paneg. 12.2.2|mut-/met-|motu|Emil Baehrens|1874|H2|
+Paneg. 12.16.3|ann-|armorum|Franz Eyssenhardt|1867|W2|p. 21
 Pers. 5.90|uetauit|uetabit|C. F. Heinrich|1844|Reg. 1562|
 Pers. 5.123|-i|satyrum|Casaubon|n.d.|αVX|
 Phaedr. 1.19.1|-es|hominis|Pierre Pithou|1596|ρ D Wχ|
