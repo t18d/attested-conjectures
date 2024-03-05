@@ -147,6 +147,7 @@
         <li>Ovidius Naso, P., <em>Carmina amatoria</em>, ed. Antonio Ramírez de Verger (Munich, 2006).</li>
         <li>Page, D. L. (ed.), <em>Poetae melici Graeci</em> (Oxford, 1967).</li>
         <li>Persius Flaccus, A., and D. Iunius Iuvenalis, <em>Saturae</em>, ed. W. V. Clausen (Oxford, 1966).</li>
+        <li>Petronius Arbiter, <em>Satirarum reliquiae</em>, ed. Franz Bücheler (Berlin, 1862).</li>
         <li>Photius, <em>Patriarchae lexicon</em>, ed. Christos Theodoridis, 3 vols (Berlin, 1982–2013).</li>
         <li>Plato, <em>Gorgias</em>, ed. E. R. Dodds (Oxford, 1959).</li>
         <li>Plinius Secundus, C., <em>Naturalis historia: libri XXXVII</em>, ed. Karl Mayhoff (Munich, 1892–1909).</li>
