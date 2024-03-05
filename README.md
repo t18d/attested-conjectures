@@ -2728,6 +2728,8 @@ Paneg. 12.2.2|mut-/met-|motu|Emil Baehrens|1874|H2|
 Paneg. 12.16.3|ann-|armorum|Franz Eyssenhardt|1867|W2|p. 21
 Pers. 5.90|uetauit|uetabit|C. F. Heinrich|1844|Reg. 1562|
 Pers. 5.123|-i|satyrum|Casaubon|n.d.|αVX|
+Petron. 64.2|-crime|plocame|Thomas Reinesius|1666|Paris. lat. 7989 (H)|p. 93
+Petron. 76.11|tantumque|tantum quod|Pieter Burman I|1709|Paris. lat. 7989 (H)|
 Phaedr. 1.19.1|-es|hominis|Pierre Pithou|1596|ρ D Wχ|
 Phaedr. 2.8.21|b. n.|nuper boues|Pierre Pithou|1596|ρ N|
 Phaedr. 2.9.2|-uulum|seruum|Pierre Pithou|1596|Vat. lat. 5190 (M)|
