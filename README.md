@@ -202,7 +202,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (191), Bentley (119), Markland (80), Madvig (74), Valckenaer (73), Porson (63), Beatus Rhenanus (60), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (191), Bentley (120), Markland (80), Madvig (74), Valckenaer (73), Porson (63), Beatus Rhenanus (60), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3051,6 +3051,8 @@ Prop. 4.3.8|-us|munito|Filippo Beroaldo I|1486|Berol. lat. 500|
 Prop. 4.5.76|hunc|hanc|Marcus Antonius Pocchus|1502|recc.|
 Prop. 4.5.77|c(a)edito|caedite|Johannes Livineius|1621|recc.|
 Prop. 4.8.28|-it|uolui|Filippo Beroaldo I|1486|recc.|
+Publil. sent. C 39|e. o.|oportet esse|Johann v. G. Frölich|1872|Turic. C 78 (T)|apud Meyer
+Publil. sent. E 5|-at|superest|Bentley|1726|κ et cod. Gryphisw.|
 Q.S. 1.33|om.|ἕποντο|Scaliger|n.d.|Y|
 Q.S. 1.71|πόλ-|πτόλεμον|Scaliger|n.d.|Y|
 Q.S. 1.77|ἠὲ|ἢ|Scaliger|n.d.|Y|
