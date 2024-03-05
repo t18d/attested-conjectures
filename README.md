@@ -2703,11 +2703,11 @@ P.Oxy. II 266.15|[ἀν]αζυγήν|[δι]α-|Edgar-Hunt|1932|P.Oxy. XLIX 3491|
 Paneg. 2.12.2|-a|obliti|Johannes Livineius|1599|dett. (Galletier)|
 Paneg. 3.27.1|-int|mutauerunt|Wolfgang Jaeger|1779|P2 (teste Galletier)|
 Paneg. 3.28.4|affat-|afflatibus|Emil Baehrens|1874|P2 (Galletier)|
-Paneg. 4.5.4|-ant|fuerint|Valens Acidalius|1607|H2|
+Paneg. 4.5.4|-ant|fuerint|Valens Acidalius|1607|Harl. 2480 (H)|m. sec.
 Paneg. 4.10.3|adu-|auersatur|Johannes Livineius|1599|H2|
 Paneg. 4.11.2|natura aff-|natura fert|Franciscus Puteolanus|1482|H2|
 Paneg. 4.38.4|an non|annonae|Valens Acidalius|1607|W2c2|
-Paneg. 5.2.2|coram|etiam|Valens Acidalius|1607|W2|
+Paneg. 5.2.2|coram|etiam|Valens Acidalius|1607|Vat. 1775 (W)|m. sec.
 Paneg. 5.6.5|-em et/-e|uoraginum|W. A. Baehrens|1925|W2|
 Paneg. 5.14.5|Brib-|Bibracte|Johannes Cuspinian|1513|Paris. 8556 (P)|
 Paneg. 9.15.2|a dominis|ad omnes|Franciscus Puteolanus|1482|H2|
@@ -2717,11 +2717,11 @@ Paneg. 9.20.2|-cunt|deuinciunt|Johannes Livineius|1599|Caroliruh. 457|
 Paneg. 10.7.5|opti-|opimam|Johannes Livineius|1599|H2|
 Paneg. 10.8.5|-am|certi|Emil Baehrens|1874|H2|
 Paneg. 10.14.3|-em|consuetudine|Emil Baehrens|1874|H2|
-Paneg. 11.2.2|et certe|at certe|Valens Acidalius|1607|Harl. 2480 (H)|m. sec.
+Paneg. 11.2.2|et certe|at certe|Valens Acidalius|1607|H2|
 Paneg. 11.2.4|auxilii|anxios|Johannes Livineius|1599|ς (Galletier)|
 Paneg. 11.3.7|i. a s.|illos sacris|Valens Acidalius|1607|H2|
 Paneg. 11.10.2|-a l.|quanto laude|Valens Acidalius|1607|Brux. 10026–32 (c)|m. sec.
-Paneg. 11.10.3|pens(a)e manibus|pensa manibus|W. A. Baehrens|1910|Vat. 1775 (W)|diss. p. 75; m. sec.
+Paneg. 11.10.3|pens(a)e manibus|pensa manibus|W. A. Baehrens|1910|W2|diss. p. 75
 Paneg. 11.19.3|opes|spes|Franz Eyssenhardt|1867|H2|p. 7
 Paneg. 12.2.2|mut-/met-|motu|Emil Baehrens|1874|H2|
 Paneg. 12.16.3|ann-|armorum|Franz Eyssenhardt|1867|W2|p. 21
