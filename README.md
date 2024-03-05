@@ -2977,7 +2977,9 @@ Plb. 11.16.5|προειρημένον|τὸ π.|Causabon|1609|P.Berol. inv. 9570
 Plb. 11.16.6|τὴν δυσχρήστην|τὸ -τον|Causabon|1609|P.Berol. inv. 9570 = APF 1:388–95|
 Plb. 11.16.6|διαβάλλει|-βαλεῖ|Scaliger|s.xvi/xvii|P.Berol. inv. 9570 = APF 1:388–95|
 Plb. 11.16.7|ἐμπορεία|ἐν πορείᾳ|Johannes Schweighäuser|1795|P.Ryl. 60|
-Plb. 28.2.4|om.|ϲυνεχωρηϲεν|Friedrich Otto Hultsch|1889|P.Oxy. LXXXI 5267|ϲ]υνεχωρηϲ[ε
+Plb. 28.2.4|om.|ϲυνεχωρηϲεν|F. O. Hultsch|1889|P.Oxy. LXXXI 5267|ϲ]υνεχωρηϲ[ε
+Plin. epist. 8.5.3|aduoc-|auocamenta|Guillaume Budé|c.1508|Laur. Plut. 47.36 (M)|
+Plin. epist. 8.6.10|c. n. r.|cui in nulla re|Guillaume Budé|c.1508|Laur. Plut. 47.36 (M)|
 Plin. nat. 1.XI|-mum. etiam in cera|minimum. aestatis|Julius Sillig|1851|cod. Moneus (M)|
 Plin. nat. 2.160|cuncta|capita|Johannes Caesarius|1524|E3|
 Plin. nat. 11.24|euauatis|euitatis|Jacques Daléchamps|1587|Flor. Ricc. 488 (R)|
