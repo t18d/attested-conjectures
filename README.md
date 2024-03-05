@@ -3019,9 +3019,9 @@ Poll. 10.63|κατάχυτλον/-χύτου|-χύτλου|Salmasius|s.xvii in.|
 Poll. 10.74|δανείζειν|διανίζειν|Henrik van Herwerden|1882|Paris. gr. 2646 (F)|Mnem. 10 (1882) 74
 Polyzel. fr. 2|ἔν-|εὔυδρον|Meineke|1839–57|Phot. ε 986|
 Porph. Antr. 8|ἔρχετ᾽|ἔρχεταί τ᾽|Rudolf Hercher|1858|Vat. gr. 325 (V)|
-Priap. 37.9|par|pars|Gronovius||cod. Grisselii (G)|
-Priap. 42.2|facta|facili|Scaliger||Voss. unus Burmanni|
-Priap. 50.6|-tris|noster|Nicolaus Heinsius||Vat. lat. 2876 (Y)|
+Priap. 37.9|par|pars|Gonsalius de Salas|1629|cod. Grisselii (G)|p. 207
+Priap. 42.2|facta|facili|Scaliger|1773|Voss. unus Burmanni|apud Burmannum
+Priap. 50.6|-tris|noster|Nicolaus Heinsius|1773|Vat. lat. 2876 (Y)|
 Priscian. Inst. 18.197|ὅσοι γὰρ/θεοῖς ἄρ'|θεοὶ γὰρ|Madvig|1846|VR|Philol. 1 (1846) 672
 Prob. vita Pers. l. 37|centies|centum|Casaubon|n.d.|Lond. mus. Brit. Reg. 15 B XIX|
 Prop. 1.6.9|meam|se iam|Nicolaus Heinsius|1742|recc.|
