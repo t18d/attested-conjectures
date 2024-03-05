@@ -155,6 +155,8 @@
         <li>Plautus, T. Maccus, <em>Comoediae</em>, ii/v, ed. Georg Goetz and Gustav Loewe (Leipzig, 1884).</li>
         <li>Plautus, <em>Comoediae</em>, ii, ed. Friedrich Leo (Berlin, 1906).</li>
         <li>Plinius Secundus, C., <em>Naturalis historia: libri XXXVII</em>, ed. Karl Mayhoff (Munich, 1892–1909).</li>
+        <li>Plinius Caecilius Secundus, C., <em>Epistularum libri decem</em>, ed. R. A. B. Mynors (Oxford, 1963).</li>
+        <li>Pline le Jeune, <em>Lettres</em>, iii, ed. Anne-Marie Guillemin (Paris, 1967).</li>
         <li>Propertius, Sextus, <em>Elegiarum libri IV</em>, ed. Paolo Fedeli (Munich, 1994).</li>
         <li>Quintus de Smyrne, <em>La Suite d'Homère</em>, ed. Francis Vian, 2 vols (Paris, 1963–6).</li>
         <li>Radt, Stefan (ed.), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, iii: <em>Aeschylus</em> (Göttingen, 1985).</li>
