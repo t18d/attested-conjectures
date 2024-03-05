@@ -728,7 +728,7 @@ Catull. 68a.29|-facit|tepefecit|H. A. J. Munro|1878|12 73 40|
 Catull. 68a.40|-o|ultra|Moriz Schmidt|1880|23 58|
 Catull. 68b.41|q. fallius|quam manlius|J. K. Newman|1990|44 86|
 Catull. 68b.63|uelut|ueluti|Adolf Kiessling|1877|Pat. Bibl. capit. C 77 (76)|
-Catull. 68b.75|-a|incepto|Johann von G. Fröhlich|1849|Urb. lat. 812 (106)|
+Catull. 68b.75|-a|incepto|Johann v. G. Fröhlich|1849|Urb. lat. 812 (106)|
 Catull. 68b.118|domitum|ind-|Isaac Voss|1684|Brux. Bibl. Roy. IV.711 (10a)|
 Catull. 68b.128|quamquam|quam quae|Isaac Voss|1684|26 15|
 Catull. 68b.141|equum|fas|Léon Herrmann|1957|Urb. lat. 812 (106)|
@@ -3051,7 +3051,7 @@ Prop. 4.3.8|-us|munito|Filippo Beroaldo I|1486|Berol. lat. 500|
 Prop. 4.5.76|hunc|hanc|Marcus Antonius Pocchus|1502|recc.|
 Prop. 4.5.77|c(a)edito|caedite|Johannes Livineius|1621|recc.|
 Prop. 4.8.28|-it|uolui|Filippo Beroaldo I|1486|recc.|
-Publil. sent. C 39|e. o.|oportet esse|Johann v. G. Frölich|1872|Turic. C 78 (T)|apud Meyer
+Publil. sent. C 39|e. o.|oportet esse|Johann v. G. Fröhlich|1872|Turic. C 78 (T)|apud Meyer
 Publil. sent. E 5|-at|superest|Bentley|1726|κ et cod. Gryphisw.|
 Q.S. 1.33|om.|ἕποντο|Scaliger|n.d.|Y|
 Q.S. 1.71|πόλ-|πτόλεμον|Scaliger|n.d.|Y|
@@ -3604,7 +3604,7 @@ Soph. El. 187|τοκ-|τεκέων|Meineke|n.d.|Vindob. phil. gr. 281|
 Soph. El. 219|τὰ δὲ|τάδε|John Jackson|1955|pD|
 Soph. El. 305|μου|μοι|Thomas Magister|n.d.|Ambros. E. 1035 sup. (Wa)|
 Soph. El. 436|-θα|ἔνθεν|Meineke|n.d.|t|
-Soph. El. 483|om.|σ'|Johann von G. Fröhlich|1815|Ambros. E. 1035 sup. (Wa)|
+Soph. El. 483|om.|σ'|Johann v. G. Fröhlich|1815|Ambros. E. 1035 sup. (Wa)|
 Soph. El. 492|ἐπέβα|-αν|Frederick H. M. Blaydes|n.d.|Vat. gr. 2291 (R)|
 Soph. El. 496|ἡμῖν|ὑμῖν|Purgold|n.d.|pt|
 Soph. El. 513|τις|τι|Hermann|n.d.|Vat. gr. 2291 (R)|
@@ -3667,7 +3667,7 @@ Soph. OC 1345|σθένω|θέλω|Markland|s.xviii med.|r|
 Soph. OC 1492|-αν|ἄκρον|Vauvilliers|n.d.|Qγρ|
 Soph. OC 1515|στρέψαντα|στράψαντα|Reiske|1743|Laur. 31.10 (K)|
 Soph. OC 1596|κἀπὸ|κἀπὶ|Willem Canter|1579|Laur. 31.10 (K)|
-Soph. OC 1619|βίοτον/βίωτον|τοῦ βίου|Johann von G. Fröhlich|n.d.|Sud. s.v. τητᾶσθαι|
+Soph. OC 1619|βίοτον/βίωτον|τοῦ βίου|Johann v. G. Fröhlich|n.d.|Sud. s.v. τητᾶσθαι|
 Soph. OC 1682|φαινόμεναι|φερόμεναι|Hermann|n.d.|t|
 Soph. OC 1728|ἔγωγε|ἐγώ|Nauck|n.d.|Palat. gr. 287 (Zo)|
 Soph. OC 1735|ποῖ|πῇ|Karl Halm|n.d.|Laur. 31.10 (K)|
@@ -3852,7 +3852,7 @@ Tac. Agr. 20.3|et t.|tanta|Beatus Rhenanus|1533|Hersfeld. (H)|
 Tac. Agr. 25.1|-is -us|hostili exercitu|Beatus Rhenanus|1533|Hm|
 Tac. Agr. 25.3|-asse|oppugnare|Beatus Rhenanus|1533|Hersfeld. (H)|
 Tac. Agr. 26.2|intulisse|ut tulisse|Franciscus Puteolanus|1475|Hersfeld. (H)|
-Tac. Agr. 27.2|om.|se victos|Johann von G. Fröhlich|1827|Hersfeld. (H)|
+Tac. Agr. 27.2|om.|se victos|Johann v. G. Fröhlich|1827|Hersfeld. (H)|
 Tac. Agr. 28.1|-is|immixti|Franciscus Puteolanus|1475|Hersfeld. (H)|
 Tac. Agr. 32.2|circum t.|trepidos|C. A. Heumann|1712|Hersfeld. (H)|
 Tac. Agr. 34.3|imputare|inputari|Franciscus Puteolanus|1475|Hersfeld. (H)|
