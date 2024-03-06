@@ -3256,6 +3256,9 @@ Querol. 5.3|a. c.|atque e contrario|Konrad Rittershausen|1595|Hamburg. Scrin. 18
 Querol. 5.20|non g.|ingrati|S. C. Klinkhamer|1829|Hamburg. Scrin. 185 (H)|
 Querol. 8.23|similem esse|simile est esse|Pierre Pithou|1564|Hamburg. Scrin. 185 (H)|apud Daniel
 Querol. 10.11|Nus-|Numquam|Rudolf Peiper|1875|Hamburg. Scrin. 185 (H)|
+Querol. 12.4|et|es|Paul Thomas|1921|Hamburg. Scrin. 185 (H)|Mnem.
+Querol. 22.9|u. hae p.|ut tecta pateant|Gisbert Koen|1767|Hamburg. Scrin. 185 (H)|
+Querol. 32.11|eligunt|eliciunt|H. F. Cannegieter|1829|Hamburg. Scrin. 185 (H)|apud Klinkhamer
 Sall. hist. fr. 1.107 M|acc[]as|accitas|Gerlach|1856|Vindob. L 117 (Funari)|
 Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Bergk|1835|FP|κωϋ κεθέλουσα F: κ’ ώυ κ’ ἐθέλοις P
 Sapph. fr. 44A.5|ἀεί|ἄϊ|H. L. Ahrens|1839–43|P.Sapph.Obbink|
