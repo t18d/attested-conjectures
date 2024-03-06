@@ -3283,6 +3283,10 @@ Quint. inst. 4.5.8|quod/quid|quo|Madvig|1873|Paris. lat. 14146 (E)|
 Quint. inst. 4.5.14|-uit|putabit|G. L. Spalding|1803|Iul. Vict. rhet. p. 418|
 Quint. inst. 5.6.2|-it|adiciet|G. L. Spalding|1803|Iul. Vict. rhet. p. 405–6|
 Quint. inst. 5.7.11|laqueo sed|laqueos et|A. G. Gernhard|1830|Bodl. D'Orv. 13|p. 576
+Quint. inst. 5.7.35|-em|diuinationis|Raphael Regius|1493|Iul. Vict. rhet. p. 407|
+Quint. inst. 5.7.35|-em|diuinationum|Ragnar Törnebladh|1860|Paris. lat. 7719 (D)|
+Quint. inst. 5.10.22|est|et|Ferdinand Meister|1865|Paris. lat. 7723 (P)|
+Quint. inst. 5.10.99|et illis/in illis in illis|et in illis|Friedrich Emlein|1907|Laur. Plut. 46.9|
 Sall. hist. fr. 1.107 M|acc[]as|accitas|Gerlach|1856|Vindob. L 117 (Funari)|
 Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Bergk|1835|FP|κωϋ κεθέλουσα F: κ’ ώυ κ’ ἐθέλοις P
 Sapph. fr. 44A.5|ἀεί|ἄϊ|H. L. Ahrens|1839–43|P.Sapph.Obbink|
