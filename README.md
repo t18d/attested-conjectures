@@ -3280,6 +3280,9 @@ Quint. inst. 2.17.2|etiam/ea|eam|Karl Halm|1868–9|Bodl. D'Orv. 13|
 Quint. inst. 3.6.38|-iecit|subicit|G. L. Spalding|1798|Cantab. Ioann. 91 (J)|
 Quint. inst. 4.3.12|ut|uel|G. L. Spalding|1803|Ps. Cassiod. rhet. 16|
 Quint. inst. 4.5.8|quod/quid|quo|Madvig|1873|Paris. lat. 14146 (E)|
+Quint. inst. 4.5.14|-uit|putabit|G. L. Spalding|1803|Iul. Vict. rhet. p. 418|
+Quint. inst. 5.6.2|-it|adiciet|G. L. Spalding|1803|Iul. Vict. rhet. p. 405–6|
+Quint. inst. 5.7.11|laqueo sed|laqueos et|A. G. Gernhard|1830|Bodl. D'Orv. 13|p. 576
 Sall. hist. fr. 1.107 M|acc[]as|accitas|Gerlach|1856|Vindob. L 117 (Funari)|
 Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Bergk|1835|FP|κωϋ κεθέλουσα F: κ’ ώυ κ’ ἐθέλοις P
 Sapph. fr. 44A.5|ἀεί|ἄϊ|H. L. Ahrens|1839–43|P.Sapph.Obbink|
