@@ -3275,7 +3275,10 @@ Querol. 59.15 Peiper|illius|unius|Pierre Daniel|1564|HSA|
 Querol. 59.21|ab-|subdidisti|Harald Hagendahl|1941|Hamburg. Scrin. 185 (H)|
 Querol. 60.1 Peiper|-ari|criminali|Pierre Daniel|1564|Hamburg. Scrin. 185 (H)|
 Querol. 60.25|-em|tales|S. C. Klinkhamer|1829|Hamburg. Scrin. 185 (H)|
-Quint. decl. 247.8|at|ac|Paul von Winterfeld|1895|Montepess. H 126 (A)|
+Quint. decl. 247.8|at|ac|Paul von Winterfeld|1895|Montepess. H 126 (A)|p. 30
+Quint. decl. 248.13|cum i. a.|tum in alterum|Erwin Rohde|1884|Leid. Voss. misc. 7 (L)|apud Ritter
+Quint. decl. 252.12|prors-|profusus|Constantin Ritter|1884|Leid. Voss. misc. 7 (L)|
+Quint. decl. 253.4|ciuium|uirium|Constantin Ritter|1884|Palat. lat. 1558 (D)|s.l.
 Quint. inst. 1.4.14|ipsa alteri|alteri|Ferdinand Meister|1876|Lond. Burn. 243|Philol.
 Quint. inst. 2.12.1|plerum-|plerosque|Petrus Francius|1720|Paris. lat. 14146 (E)|apud Burmannum
 Quint. inst. 2.17.2|etiam/ea|eam|Karl Halm|1868–9|Bodl. D'Orv. 13|
