@@ -204,7 +204,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (191), Bentley (120), Markland (80), Madvig (74), Valckenaer (73), Porson (63), Beatus Rhenanus (60), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (191), Bentley (120), Markland (80), Madvig (75), Valckenaer (73), Porson (63), Beatus Rhenanus (60), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3276,6 +3276,10 @@ Querol. 60.1 Peiper|-ari|criminali|Pierre Daniel|1564|Hamburg. Scrin. 185 (H)|
 Querol. 60.25|-em|tales|S. C. Klinkhamer|1829|Hamburg. Scrin. 185 (H)|
 Quint. inst. 1.4.14|ipsa alteri|alteri|Ferdinand Meister|1876|Lond. Burn. 243|Philol.
 Quint. inst. 2.12.1|plerum-|plerosque|Petrus Francius|1720|Paris. lat. 14146 (E)|apud Burmannum
+Quint. inst. 2.17.2|etiam/ea|eam|Karl Halm|1868–9|Bodl. D'Orv. 13|
+Quint. inst. 3.6.38|-iecit|subicit|G. L. Spalding|1798|Cantab. Ioann. 91 (J)|
+Quint. inst. 4.3.12|ut|uel|G. L. Spalding|1803|Ps. Cassiod. rhet. 16|
+Quint. inst. 4.5.8|quod/quid|quo|Madvig|1873|Paris. lat. 14146 (E)|
 Sall. hist. fr. 1.107 M|acc[]as|accitas|Gerlach|1856|Vindob. L 117 (Funari)|
 Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Bergk|1835|FP|κωϋ κεθέλουσα F: κ’ ώυ κ’ ἐθέλοις P
 Sapph. fr. 44A.5|ἀεί|ἄϊ|H. L. Ahrens|1839–43|P.Sapph.Obbink|
