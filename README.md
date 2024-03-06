@@ -3284,6 +3284,9 @@ Quint. decl. 259.7|-i(a)e|innocentia|Gronovius|1665|Vat. Chig. H VIII 261 (C)|
 Quint. decl. 259.7|fec-|effecit|Lennart Håkanson|1984|Vat. Chig. H VIII 261 (C)|apud Winterbottom
 Quint. decl. 259.8|quid/quo|quod|Johannes Schultingh|1720|Vat. Chig. H VIII 261 (C)|apud Burmannum
 Quint. decl. 259.9|emin-|imminentis|Gronovius|1665|Vat. Chig. H VIII 261 (C)|
+Quint. decl. 259.22|-e/-i/-em|putares|Constantin Ritter|1884|Palat. lat. 1558 (D)|
+Quint. decl. 259.24|perit-|petiturum|Constantin Ritter|1884|Vat. Chig. H VIII 261 (C)|
+Quint. decl. 260.2|existimandum|existimo dandum|Pierre Ayrault|1563|Palat. lat. 1558 (D)|jurisconsulte
 Quint. inst. 1.4.14|ipsa alteri|alteri|Ferdinand Meister|1876|Lond. Burn. 243|Philol.
 Quint. inst. 2.12.1|plerum-|plerosque|Petrus Francius|1720|Paris. lat. 14146 (E)|apud Burmannum
 Quint. inst. 2.17.2|etiam/ea|eam|Karl Halm|1868–9|Bodl. D'Orv. 13|
