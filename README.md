@@ -3294,6 +3294,10 @@ Quint. decl. 260.32|-atum|cupiditatibus|Erwin Rohde|1884|D2|apud Ritter
 Quint. decl. 261.2|-eat|debet|Erwin Rohde|1884|Monac. lat. 309 (B)|apud Ritter
 Quint. decl. 264.10|non|ne|Constantin Ritter|1884|CD|
 Quint. decl. 265.10|ego ita|ego|Erwin Rohde|1884|ACD2|apud Ritter
+Quint. decl. 266.4|patiente|an p.|Pierre Ayrault|1563|Palat. lat. 1558 (D)|
+Quint. decl. 270.14|accid-|accedit|Johannes Schultingh|1720|Dsl vel D2|apud Burmannum
+Quint. decl. 272.7|cui|cuius|Gronovius|1665|Palat. lat. 1558 (D)|s.l.
+Quint. decl. 272.8|-am|illa|Erwin Rohde|1884|Vat. Chig. H VIII 261 (C)|apud Ritter
 Quint. inst. 1.4.14|ipsa alteri|alteri|Ferdinand Meister|1876|Lond. Burn. 243|Philol.
 Quint. inst. 2.12.1|plerum-|plerosque|Petrus Francius|1720|Paris. lat. 14146 (E)|apud Burmannum
 Quint. inst. 2.17.2|etiam/ea|eam|Karl Halm|1868–9|Bodl. D'Orv. 13|
