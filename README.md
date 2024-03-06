@@ -3251,6 +3251,8 @@ Q.S. 14.36|περιτρ-|περιγρύζουσι|Scaliger|n.d.|Hc|
 Q.S. 14.60|ἐσβολ|ῇσι|ἐπεσβολίῃσι|Lorenz Rhodomann|1604|PRpc|
 Q.S. 14.205|ὅτε|ὅτι|Lorenz Rhodomann|1604|PHc|ὄτι Scal.?
 Q.S. 14.582|ἐγκεφάλοιο|Ἐγκελάδοιο|Lorenz Rhodomann|1604|Hc|
+Querol. 4.20|om.|prologus|Léon Herrmann|1937|Hamburg. Scrin. 185 (H)|
+Querol. 5.3|a. c.|atque e contrario|Rittershuys|1595|Hamburg. Scrin. 185 (H)|
 Sall. hist. fr. 1.107 M|acc[]as|accitas|Gerlach|1856|Vindob. L 117 (Funari)|
 Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Bergk|1835|FP|κωϋ κεθέλουσα F: κ’ ώυ κ’ ἐθέλοις P
 Sapph. fr. 44A.5|ἀεί|ἄϊ|H. L. Ahrens|1839–43|P.Sapph.Obbink|
