@@ -3275,6 +3275,7 @@ Querol. 59.15 Peiper|illius|unius|Pierre Daniel|1564|HSA|
 Querol. 59.21|ab-|subdidisti|Harald Hagendahl|1941|Hamburg. Scrin. 185 (H)|
 Querol. 60.1 Peiper|-ari|criminali|Pierre Daniel|1564|Hamburg. Scrin. 185 (H)|
 Querol. 60.25|-em|tales|S. C. Klinkhamer|1829|Hamburg. Scrin. 185 (H)|
+Quint. decl. 247.8|at|ac|Paul von Winterfeld|1895|Montepess. H 126 (A)|
 Quint. inst. 1.4.14|ipsa alteri|alteri|Ferdinand Meister|1876|Lond. Burn. 243|Philol.
 Quint. inst. 2.12.1|plerum-|plerosque|Petrus Francius|1720|Paris. lat. 14146 (E)|apud Burmannum
 Quint. inst. 2.17.2|etiam/ea|eam|Karl Halm|1868–9|Bodl. D'Orv. 13|
@@ -4090,7 +4091,7 @@ Tac. ann. 16.30.1|proconsul|-latum|Claude Chifflet|n.d.|L1V65|
 Tac. ann. 16.32.2|h. et|honesti|Gabriele Faerno|1595|Leid. BPL 16 Β (L)|apud Ursinum
 Tac. ann. 16.35.2|conuersis|obuersus|Valens Acidalius|1607|Bodl. 34472 (B72)|
 Tac. dial. 12.5|-is|concedes|Valens Acidalius|1607|Borg. lat. 413|
-Tac. dial. 37.6|fuit|fuerit|Nissen||Borg. lat. 413|
+Tac. dial. 37.6|fuit|fuerit|D. A. F. Nissen|1842|Borg. lat. 413|Zeitschr. f. Altert. col. 515
 Tac. hist. 1.15.4|blanditie|blanditiae et|Johannes Freudenberg|1909|Leid. BPL 16 Β (L)|apud Fisher
 Tac. hist. 1.16.1|-et|possit|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 1.25.2|-i|commune|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
