@@ -3288,6 +3288,12 @@ Quint. decl. 259.9|emin-|imminentis|Gronovius|1665|Vat. Chig. H VIII 261 (C)|
 Quint. decl. 259.22|-e/-i/-em|putares|Constantin Ritter|1884|Palat. lat. 1558 (D)|
 Quint. decl. 259.24|perit-|petiturum|Constantin Ritter|1884|Vat. Chig. H VIII 261 (C)|
 Quint. decl. 260.2|existimandum|existimo dandum|Pierre Ayrault|1563|Palat. lat. 1558 (D)|jurisconsulte
+Quint. decl. 260.11|-a/-ando|alioqui(n)|Gronovius|1665|Palat. lat. 1558 (D)|s.l.
+Quint. decl. 260.24|at|ac|Pierre Ayrault|1563|AC|
+Quint. decl. 260.32|-atum|cupiditatibus|Erwin Rohde|1884|D2|apud Ritter
+Quint. decl. 261.2|-eat|debet|Erwin Rohde|1884|Monac. lat. 309 (B)|apud Ritter
+Quint. decl. 264.10|non|ne|Constantin Ritter|1884|CD|
+Quint. decl. 265.10|ego ita|ego|Erwin Rohde|1884|ACD2|apud Ritter
 Quint. inst. 1.4.14|ipsa alteri|alteri|Ferdinand Meister|1876|Lond. Burn. 243|Philol.
 Quint. inst. 2.12.1|plerum-|plerosque|Petrus Francius|1720|Paris. lat. 14146 (E)|apud Burmannum
 Quint. inst. 2.17.2|etiam/ea|eam|Karl Halm|1868–9|Bodl. D'Orv. 13|
