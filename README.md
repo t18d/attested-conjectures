@@ -204,7 +204,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (191), Bentley (120), Markland (80), Madvig (75), Valckenaer (73), Porson (63), Beatus Rhenanus (60), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (191), Bentley (120), Markland (80), Madvig (75), Valckenaer (73), Porson (63), Beatus Rhenanus (61), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3913,6 +3913,8 @@ Tac. Agr. 41.2|Mis-|Moesia|Lipsius|1574|Aesinas lat. 8 (E)|
 Tac. Agr. 42.2|-i|proconsulare|Bletterius|1771|Aesinas lat. 8 (E)|apud Brotier
 Tac. Agr. 43.3|-ant|constabat|Beatus Rhenanus|1533|Aesinas lat. 8 (E)|
 Tac. Agr. 45.1|(iam) tum|etiam tum|Gronovius|1685|Aesinas lat. 8 (E)|
+Tac. Germ. 2.1|adu-|auersus|Valens Acidalius|1607|Paris. n.a. 1108 (p)|
+Tac. Germ. 2.2|-risque|conditoremque|Beatus Rhenanus|1519|Vindob. s.n. 2960 (W)|
 Tac. ann. 11.2.2|-eret|respondit|J. A. Ernesti|1752|Laur. 63.24 (L24)|
 Tac. ann. 11.3.1|-i|consultante|J. A. Ernesti|1752|Harl. 2764 (H)|
 Tac. ann. 11.4.2|-um|interpretatam|K. Sirker|1867|Vat. lat. 2965 (V65)|
