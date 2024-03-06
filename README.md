@@ -3919,6 +3919,7 @@ Tac. Germ. 2.2|-risque|conditoremque|Beatus Rhenanus|1519|Vindob. s.n. 2960 (W)|
 Tac. Germ. 6.1|-ae|galea|Beatus Rhenanus|1519|Arundel. 277|
 Tac. Germ. 11.2|-ceps|principes|Perizonius|1793|Harvard. L25|apud Ernesti
 Tac. Germ. 16.3|-is|loci|Valens Acidalius|1607|cod. Baltimor.|
+Tac. Germ. 20.3|tanto m.|quanto maior|Karl Halm|1850–1|Urb. lat. 412|
 Tac. ann. 11.2.2|-eret|respondit|J. A. Ernesti|1752|Laur. 63.24 (L24)|
 Tac. ann. 11.3.1|-i|consultante|J. A. Ernesti|1752|Harl. 2764 (H)|
 Tac. ann. 11.4.2|-um|interpretatam|K. Sirker|1867|Vat. lat. 2965 (V65)|
@@ -4088,6 +4089,8 @@ Tac. ann. 16.28.2|-e|ageret|Madvig|1873|Leid. BPL 16 Β (L)|
 Tac. ann. 16.30.1|proconsul|-latum|Claude Chifflet|n.d.|L1V65|
 Tac. ann. 16.32.2|h. et|honesti|Gabriele Faerno|1595|Leid. BPL 16 Β (L)|apud Ursinum
 Tac. ann. 16.35.2|conuersis|obuersus|Valens Acidalius|1607|Bodl. 34472 (B72)|
+Tac. dial. 12.5|-is|concedes|Valens Acidalius|1607|Borg. lat. 413|
+Tac. dial. 37.6|fuit|fuerit|Nissen||Borg. lat. 413|
 Tac. hist. 1.15.4|blanditie|blanditiae et|Johannes Freudenberg|1909|Leid. BPL 16 Β (L)|apud Fisher
 Tac. hist. 1.16.1|-et|possit|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
 Tac. hist. 1.25.2|-i|commune|Beatus Rhenanus|1533|Leid. BPL 16 Β (L)|
