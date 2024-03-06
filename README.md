@@ -180,6 +180,7 @@
         <li>Sommerstein, Alan H., 'The history of the text of Aristophanes', in <em>Brill's Companion to the Study of Greek Comedy</em> (Leiden, 2010), 399–422 at 412n69.</li>
         <li>Sophocles, <em>Fabulae</em>, ed. H. Lloyd-Jones and N. G. Wilson (Oxford, 1990).</li>
         <li>Sophocles, <em>Tragoediae</em>, ed. R. D. Dawe (Leipzig, 1996).</li>
+        <li>Tacitus, Cornelius, <em>Opera minora</em>, ed. M. Winterbottom and R. M. Ogilvie (Oxford, 1975).</li>
         <li>Tacitus, Cornelius, <em>Ab excessu divi Augusti libri XI–XVI</em>, ed. Kenneth Wellesley (Leipzig, 1986).</li>
         <li>Tacitus, Cornelius, <em>Historiarum libri</em>, ed. Kenneth Wellesley (Leipzig, 1989).</li>
         <li>Tacitus, P. Cornelius, <em>Agricola</em>, ed. Josef Delz and J. von Ungern-Sternberg (Berlin, 2010).</li>
