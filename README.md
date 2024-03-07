@@ -3075,6 +3075,11 @@ Ps. Quint. decl. 8.22|-rum|conditorium|Johannes Schultingh|1720|Vat. Ottob. 1207
 Ps. Quint. decl. 9.21|-os|inclusus|Georg Lehnert|1905|Paris. lat. 1618 (π)|
 Ps. Quint. decl. 10.11|rict-|risus|T. J. van Almeloveen|1720|Audomar. 663 (A)|apud Burmannum
 Ps. Quint. decl. 12.8|et|at|Johannes Schultingh|1720|Dpc|apud Burmannum
+Ps. Quint. decl. 12.17|sper-|spirare|Hugo Dessauer|1898|Apc|
+Ps. Quint. decl. 12.27|-et|cadit|Pieter Burman I|1720|Paris. lat. 1618 (π)|
+Ps. Quint. decl. 13.3|gress-|egressus|Gronovius|1720|Paris. lat. 15103 (E)|apud Burmannum
+Ps. Quint. decl. 13.6|et|id|Johannes Schultingh|1720|Audomar. 663 (A)|apud Burmannum
+Ps. Quint. decl. 14.2|adfl-|et affluentes|Winterbottom|1980|πA|
 Publil. sent. C 39|e. o.|oportet esse|Johann v. G. Fröhlich|1872|Turic. C 78 (T)|apud Meyer
 Publil. sent. E 5|-at|superest|Bentley|1726|κ et cod. Gryphisw.|
 Publil. sent. E 21|Sine|Etiam sine|Orelli|1832|Veron. Capit. 168 (O)|ed. alt.
