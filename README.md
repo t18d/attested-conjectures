@@ -3327,6 +3327,11 @@ Quint. decl. 321.27|qualemque|qualemcunque|Gronovius|1665|Palat. lat. 1558 (D)|
 Quint. decl. 322.2|nu-|ullum|Gronovius|1665|Palat. lat. 1558 (D)|
 Quint. decl. 322.5|-es|occideris|Erwin Rohde|1884|Palat. lat. 1558 (D)|apud Ritter
 Quint. decl. 323.9|tale|tale est|Constantin Ritter|1884|D2|
+Quint. decl. 323.14|destina-|dedicationem|Pierre Ayrault|1563|Palat. lat. 1558 (D)|s.l.
+Quint. decl. 326.3|-um|nuntio|Pierre Pithou|1580|Palat. lat. 1558 (D)|s.l.
+Quint. decl. 327.3|graue. sit graue. sit|graue sit|Pierre Ayrault|1563|Palat. lat. 1558 (D)|
+Quint. decl. 328.2|patre|fratre|Pierre Ayrault|1563|Palat. lat. 1558 (D)|
+Quint. decl. 328.7|-ate|citare|Pierre Ayrault|1563|Palat. lat. 1558 (D)|s.l.
 Quint. inst. 1.4.14|ipsa alteri|alteri|Ferdinand Meister|1876|Lond. Burn. 243|Philol.
 Quint. inst. 2.12.1|plerum-|plerosque|Petrus Francius|1720|Paris. lat. 14146 (E)|apud Burmannum
 Quint. inst. 2.17.2|etiam/ea|eam|Karl Halm|1868–9|Bodl. D'Orv. 13|
