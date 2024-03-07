@@ -3313,7 +3313,12 @@ Quint. decl. 308.1|ciuitatis|c. et|Pierre Ayrault|1563|Palat. lat. 1558 (D)|
 Quint. decl. 308.9|-rima|plura|Erwin Rohde|1884|Palat. lat. 1558 (D)|apud Ritter
 Quint. decl. 308.13|nec|ne|Constantin Ritter|1884|Palat. lat. 1558 (D)|
 Quint. decl. 309.2|suppl-|simpliciter|Gronovius|1665|CD|
-Quint. decl. 310.1|-cium|iudicum|Latino Latini||Palat. lat. 1558 (D)|s.l.
+Quint. decl. 310.1|-cium|iudicum|Latino Latini|1677|Palat. lat. 1558 (D)|s.l.
+Quint. decl. 312.3|-atis|cupiditas|Johannes Schultingh|1720|Palat. lat. 1558 (D)|apud Burmannum; s.l.
+Quint. decl. 313.1|paen-|pœnitentia|Pierre Pithou|1580|D2|penitencia D2
+Quint. decl. 313.10|inimicus|iniquus|Gronovius|1665|Palat. lat. 1558 (D)|s.l.
+Quint. decl. 315.9|nos|os|Ulrich Obrecht|1698|Palat. lat. 1558 (D)|jurisconsulte
+Quint. decl. 316.1|quod|quo|Erwin Rohde|1884|CD|apud Ritter
 Quint. inst. 1.4.14|ipsa alteri|alteri|Ferdinand Meister|1876|Lond. Burn. 243|Philol.
 Quint. inst. 2.12.1|plerum-|plerosque|Petrus Francius|1720|Paris. lat. 14146 (E)|apud Burmannum
 Quint. inst. 2.17.2|etiam/ea|eam|Karl Halm|1868–9|Bodl. D'Orv. 13|
