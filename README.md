@@ -2035,6 +2035,7 @@ Hes. Th. 93|οἷά τε|τοίη|Guiet|n.d.|P.Achm. 3|
 Hes. Th. 656|ὅτι|ὅ τοι|Hermann|n.d.|P.Ryl. 54|
 Hes. Th. 768|habent|del.|F. A. Wolf|1783|P.Oxy. XXXII 2648|= Od. 10.534; 11.47
 Hippon. fr. 103.11|πασπάλιν φαγὼν|πασ]πα[λ]ηφάγον|Johannes Pierson|n.d.|P.Oxy. XVIII 2175|
+Hist. Aug. Avid. 1.5|adfecti-|adfectationem|Novák|1896|Σ|
 Hom. Il. 1.107|τα κάκ' ἐστὶ φίλα|φ[ιλ]ο̣ν̣ εστι κακ[α|Naber|1877|P.Ryl. III 539|
 Hom. Il. 2.3|-α|φρένας|Heyne|1802|2s V|
 Hom. Il. 5.667|ἀμφιέποντες|αμ]φις έποιτ[ες|T. S. Brandreth|1841|P.Oxy. IV 759|
