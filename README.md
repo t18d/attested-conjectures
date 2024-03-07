@@ -72,6 +72,7 @@
         <li>Courtney, Edward, <em>The Fragmentary Latin Poets</em> (Oxford, 1993). ('obscura diligentia')</li>
         <li>Demosthenes, <em>Orationes</em>, ed. S. H. Butcher and W. Rennie, 3 vols (Oxford, 1903–31).</li>
         <li>Demosthenes, <em>Orationes</em>, ed. M. R. Dilts, 4 vols (Oxford, 2002–9).</li>
+        <li>Dietsch, Rudolf (ed.), <em>Gai Sallusti Crispi quae supersunt</em>, i (Leipzig, 1859).</li>
         <li>Diggle, James, 'Apologies to Bothe (and Others)', in <em>Euripidea: collected essays</em> (Oxford, 1994), 518–23.</li>
         <li>Dinarchus, <em>Orationes cum fragmentis</em>, ed. Nicos C. Conomis (Leipzig, 1975).</li>
         <li>Driver, G. R., 'Hebrew Scrolls', <em>The Journal of Theological Studies</em>, 2 (1951), 17–30.</li>
