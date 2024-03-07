@@ -3305,6 +3305,15 @@ Quint. decl. 277.8|-eret|educaret|Pierre Ayrault|1563|CD2|
 Quint. decl. 289.6|me|me non|Pierre Pithou|1580|Palat. lat. 1558 (D)|
 Quint. decl. 292.6|fact-|fatum|Pierre Pithou|1580|Palat. lat. 1558 (D)|s.l.
 Quint. decl. 294.7|-am apertae|summa parte|Pierre Ayrault|1563|Palat. lat. 1558 (D)|s.l.
+Quint. decl. 295.3|hoc|hic|Erwin Rohde|1884|Palat. lat. 1558 (D)|apud Ritter
+Quint. decl. 299.2|pelag-|epilogi|Sölve Wahlén|1930|Palat. lat. 1558 (D)|
+Quint. decl. 301.2|NARRATIO|DECLAMATIO|Pierre Ayrault|1563|Palat. lat. 1558 (D)|-cio D
+Quint. decl. 306.7|-fic-|effecit|Pierre Ayrault|1563|Vat. Chig. H VIII 261 (C)|
+Quint. decl. 308.1|ciuitatis|c. et|Pierre Ayrault|1563|Palat. lat. 1558 (D)|
+Quint. decl. 308.9|-rima|plura|Erwin Rohde|1884|Palat. lat. 1558 (D)|apud Ritter
+Quint. decl. 308.13|nec|ne|Constantin Ritter|1884|Palat. lat. 1558 (D)|
+Quint. decl. 309.2|suppl-|simpliciter|Gronovius|1665|CD|
+Quint. decl. 310.1|-cium|iudicum|Latino Latini||Palat. lat. 1558 (D)|s.l.
 Quint. inst. 1.4.14|ipsa alteri|alteri|Ferdinand Meister|1876|Lond. Burn. 243|Philol.
 Quint. inst. 2.12.1|plerum-|plerosque|Petrus Francius|1720|Paris. lat. 14146 (E)|apud Burmannum
 Quint. inst. 2.17.2|etiam/ea|eam|Karl Halm|1868–9|Bodl. D'Orv. 13|
