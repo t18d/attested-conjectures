@@ -3404,6 +3404,7 @@ Quint. inst. 5.14.33|lato|elato|Ferdinand Meister|1856|Iul. Vict. rhet. p. 421|
 Quint. inst. 6.1.7|-es -entur|moris uidetur|Ferdinand Meister|1853|Bodl. D'Orv. 13|
 Quint. inst. 6.2.32|insequitur|hinc sequetur|G. L. Spalding|1803|epit. Patricii|
 Quint. inst. 6.3.110|u. esse|urbana ex serio|G. L. Spalding|1803|Vat. lat. 1762|
+Sall. Iug. 12.3|suam|sua|Jan Gruter|1607|Monac. lat. 19479 et 4559|
 Sall. hist. fr. 1.107 M|acc[]as|accitas|Gerlach|1856|Vindob. L 117 (Funari)|
 Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Bergk|1835|FP|κωϋ κεθέλουσα F: κ’ ώυ κ’ ἐθέλοις P
 Sapph. fr. 44A.5|ἀεί|ἄϊ|H. L. Ahrens|1839–43|P.Sapph.Obbink|
