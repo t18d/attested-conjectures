@@ -92,6 +92,7 @@
         <li>Gellius, A., <em>Noctium Atticarum libri XX</em>, ed. Martin Hertz (Berlin, 1883–5).</li>
         <li>Gerber, Douglas E. '<a href="https://doi.org/10.5169/seals-660688">Emendations in the Odes of Pindar: An Historical Analysis</a>', <em>Entretiens Hardt</em>, 31 (1984), 1–25.</li>
         <li>Grenfell, B. P., 'The Value of Papyri for the Textual Criticism of Extant Greek Authors', <em>The Journal of Hellenic Studies</em>, 39 (1919), 16–36.</li>
+        <li>Håkanson, Lennart (ed.), <em>Declamationes XIX maiores Quintiliano falso ascriptae</em> (Stuttgart, 1982).</li>
         <li>Hall, J. B., <em>Prolegomena to Claudian</em> (Oxford, 1986).</li>
         <li>Havet, Louis, <em>Manuel de critique verbale appliquée aux textes latins</em> (Paris, 1911).</li>
         <li>Harpocration, <em>Lexeis of the Ten Orators</em>, ed. John J. Keaney (Amsterdam, 1991).</li>
