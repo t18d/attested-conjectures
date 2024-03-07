@@ -210,7 +210,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (192), Bentley (120), Markland (80), Madvig (76), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (192), Bentley (120), Markland (80), Madvig (77), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2035,8 +2035,12 @@ Hes. Th. 93|οἷά τε|τοίη|Guiet|n.d.|P.Achm. 3|
 Hes. Th. 656|ὅτι|ὅ τοι|Hermann|n.d.|P.Ryl. 54|
 Hes. Th. 768|habent|del.|F. A. Wolf|1783|P.Oxy. XXXII 2648|= Od. 10.534; 11.47
 Hippon. fr. 103.11|πασπάλιν φαγὼν|πασ]πα[λ]ηφάγον|Johannes Pierson|n.d.|P.Oxy. XVIII 2175|
+Hist. Aug. Alex. 8.5|-erat|dicat|Emil Baehrens|1871|Σ|
 Hist. Aug. Avid. 1.5|adfecti-|adfectationem|Robert Novák|1896|Σ|
+Hist. Aug. Carac. 7.3–4|inseruit. at|inseruiat|Henri Jordan|1864|Σ|
+Hist. Aug. Carac. 8.6|nol-|uoluerit|Madvig|1873|Σ|
 Hist. Aug. Comm. 5.8|m. n. inposuit uxoris|matris nomen imposuit. uxorem|J. M. Heer|1901|Σ|
+Hist. Aug. Heliog. 26.8|cuiusce m./eiusce m.|huiusce modi|Karl Lessing|1901–6|Paris. lat. 5807 (R)|
 Hist. Aug. Pert. 7.9|quidem|quidam|Henri Jordan|1864|A Ch|
 Hist. Aug. Pert. 11.9|ti-|tumorem|Salmasius|1620|Ch V|
 Hom. Il. 1.107|τα κάκ' ἐστὶ φίλα|φ[ιλ]ο̣ν̣ εστι κακ[α|Naber|1877|P.Ryl. III 539|
