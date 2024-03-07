@@ -3056,6 +3056,10 @@ Prop. 4.3.8|-us|munito|Filippo Beroaldo I|1486|Berol. lat. 500|
 Prop. 4.5.76|hunc|hanc|Marcus Antonius Pocchus|1502|recc.|
 Prop. 4.5.77|c(a)edito|caedite|Johannes Livineius|1621|recc.|
 Prop. 4.8.28|-it|uolui|Filippo Beroaldo I|1486|recc.|
+Ps. Qvint. decl. 1.1|quae|quo|J. J. Wiles|1922|Paris. lat. 7800 (C)|m. sec.
+Ps. Qvint. decl. 1.11|-em|luce|Rudolf Helm|1955|Montepess. H 226 (M)|
+Ps. Qvint. decl. 1.13|-um|occisurus|Winterbottom|1980|M2|
+Ps. Qvint. decl. 2.23|cand-|cadentia|Erwin Rohde||Sorbon. 629 (S)|apud Ritter
 Publil. sent. C 39|e. o.|oportet esse|Johann v. G. Fröhlich|1872|Turic. C 78 (T)|apud Meyer
 Publil. sent. E 5|-at|superest|Bentley|1726|κ et cod. Gryphisw.|
 Publil. sent. E 21|Sine|Etiam sine|Orelli|1832|Veron. Capit. 168 (O)|ed. alt.
