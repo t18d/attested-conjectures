@@ -1096,7 +1096,7 @@ Cic. S. Rosc. 30|-etur|optet|Filippo Beroaldo I|1499|ς|
 Cic. S. Rosc. 30|supplicium parricidarum|del.|François Hotman|1554|ς|
 Cic. S. Rosc. 30|quoniam quidem suscepi|del.|J. F. Heusinger|1835|Bodl. Canon. 226 (c)|apud Büchner
 Cic. S. Rosc. 44|-e|attenta|Andrea Navagero|1519|ς|
-Cic. S. Rosc. 56|tamen non|tamen|R. Novák|1887|c2k|
+Cic. S. Rosc. 56|tamen non|tamen|Robert Novák|1887|c2k|
 Cic. S. Rosc. 62|id maxime|maxime|Jodocus Badius|1527|c2k|
 Cic. S. Rosc. 72|t. e.|est tam|Denys Lambin|1566|Laur. 48.25 (χ)|
 Cic. S. Rosc. 74|hi|ii|Karl Halm|1854|ως|
@@ -2035,7 +2035,7 @@ Hes. Th. 93|οἷά τε|τοίη|Guiet|n.d.|P.Achm. 3|
 Hes. Th. 656|ὅτι|ὅ τοι|Hermann|n.d.|P.Ryl. 54|
 Hes. Th. 768|habent|del.|F. A. Wolf|1783|P.Oxy. XXXII 2648|= Od. 10.534; 11.47
 Hippon. fr. 103.11|πασπάλιν φαγὼν|πασ]πα[λ]ηφάγον|Johannes Pierson|n.d.|P.Oxy. XVIII 2175|
-Hist. Aug. Avid. 1.5|adfecti-|adfectationem|Novák|1896|Σ|
+Hist. Aug. Avid. 1.5|adfecti-|adfectationem|Robert Novák|1896|Σ|
 Hom. Il. 1.107|τα κάκ' ἐστὶ φίλα|φ[ιλ]ο̣ν̣ εστι κακ[α|Naber|1877|P.Ryl. III 539|
 Hom. Il. 2.3|-α|φρένας|Heyne|1802|2s V|
 Hom. Il. 5.667|ἀμφιέποντες|αμ]φις έποιτ[ες|T. S. Brandreth|1841|P.Oxy. IV 759|
