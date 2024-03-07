@@ -197,6 +197,7 @@
         <li>Willis, James (ed.), <em>Martianus Capella</em> (Leipzig, 1983).</li>
         <li>Willis, William H., 'The Robinson-Cologne Papyrus of Achilles Tatius', <em>Greek, Roman and Byzantine Studies</em>, 31 (1990), 73–102.</li>
         <li>Wilson, N. G., <em>Herodotea: studies on the text of Herodotus</em> (Oxford, 2015), xii–xiii.</li>
+        <li>Winterbottom, Michael (ed.), <em>The Minor Declamations Ascribed to Quintilian</em> (Berlin, 1984).</li>
         <li>Xénophon, <em>Économique</em>, ed. Pierre Chantraine (Paris, 1949).</li>
         <li>Xenophon Ephesius, <em>De Anthia et Habrocome Ephesiacorum libri V</em>, ed. James N. O'Sullivan (Munich, 2005).</li>
     </ul>
