@@ -208,7 +208,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (191), Bentley (120), Markland (80), Madvig (75), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (192), Bentley (120), Markland (80), Madvig (76), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2093,7 +2093,7 @@ Hor. carm. 1.15.36|Iliacas|Pergameas|Peter van Os|1500|pauci codd. (Peerlkamp)|
 Hor. carm. 1.20.5|ca-|clare|Denys Lambin|1561|cod. Reg. Soc. Bentleii|
 Hor. carm. 1.20.10|tu|tum|Ludwig Doederlein|1837|schol. sat. 2.2.48|
 Hor. carm. 1.31.3|-ae|optimas|Markland|1728|cod. Torrentii|ad Stat. silv. 4.6.65 ('ubi minus concinne vulgo legitur optimae')
-Hor. carm. 1.31.15|-unt|pascant|Tanaquil Faber|1671|cod. Reg. Soc. Bentleii|
+Hor. carm. 1.31.15|-unt|pascant|Tanaquillus Faber|1671|cod. Reg. Soc. Bentleii|
 Hor. carm. 2.11.19|-guet|restinguit|F. H. Bothe|1820|Reg. lat. 1703 (R)|
 Hor. carm. 2.14.27|-o|superbus|Caspar von Barth|1624|corr. Vat. A (Fea)|
 Hor. carm. 3.8.26|parce|parte|Matthaeus Bonfinis|1518|v et cod. Battel. Bentleii|
@@ -2261,7 +2261,7 @@ Just. Edict. 13.24 p. 792.11|ἐπιβάλλοντα|τὸν ἐ.|Zachariae von 
 Liv. 1 praef. 5|-et|possit|Madvig|1861|Vat. 3329 (R)|m. sec.
 Liv. 1.16.8|-es|fidei|Gronovius|1664|Einsiedl. 348 (E)|
 Liv. 1.36.7|t. a.|alterum tantum|Madvig|1579|R2 (teste M. Müller)|p. 78
-Liv. 2.31.6|ubi|ibi|Tanaquil Faber|1738|fragm. Haverk.|apud Drakenborch
+Liv. 2.31.6|ubi|ibi|Tanaquillus Faber|1738|fragm. Haverk.|apud Drakenborch
 Liv. 2.46.3|-is|ordines|Gronovius|1664|Vat. 3329 (Rn)|m. sec.
 Liv. 2.47.11|-iit|redit|Madvig|1861|Laur. S. Marci 326 (D)|m. sec.
 Liv. 3.5.10|-is|caedes|Madvig|1861|Upsal. Univ. C 908 (U)|
@@ -2678,7 +2678,7 @@ Ov. trist. 1.3.100|perii-|potuisse|Petrus Francius|n.d.|Paris. 8239 (E)|
 Ov. trist. 1.5.53|esset|aere|Daniel Heinsius|1629|codd. Heinsii et Bersmanni|
 Ov. trist. 1.8.7|-am|negabant|S. G. Owen|1889|Lond. Mus. Brit. Add. 18384 (Ln)|
 Ov. trist. 1.8.35|aequoreos|Aeolios|Johannes Schrader|1776|cod. Rottendorp.|
-Ov. trist. 1.8.45|non|nunc|Tanaquil Faber|1674|MAtV|'qui faisoit autant gloire de sa pauvreté que de sa profession'
+Ov. trist. 1.8.45|non|nunc|Tanaquillus Faber|1674|MAtV|'qui faisoit autant gloire de sa pauvreté que de sa profession'
 Ov. trist. 1.9.27|-ae|Orestis|Rudolf Ehwald|1884|Florileg. Paris. 8465|
 Ov. trist. 1.9.40|pro sensu|processu|Pieter Burman I|1727|Laur. Marc. 223 (M)|
 Ov. trist. 1.10.24|-liquit|relegit|Jacob Micyllus|1543–9|Bodl. B. N. Rawl. 107 (Od)|
@@ -2689,7 +2689,7 @@ Ov. trist. 2.79|ne … quae te|de … cum te|Rudolf Merkel|1837|Va2|edited from 
 Ov. trist. 2.296|viro|vir|Bentley|1722–3|Laur. Marc. 223 (M)|per litt. ad Burmann
 Ov. trist. 2.345|-via|lascivas|Pieter Burman I|1727|Lond. Bibl. Brit. Add. 49368 (H)|
 Ov. trist. 2.363|vino|Baccho|Nicolaus Heinsius|1661|Goth. membr. II. 122 (D)|
-Ov. trist. 2.498|victi|ficti|Tanaquil Faber|1674|Eton. B. k. 6.18 (Et)|
+Ov. trist. 2.498|victi|ficti|Tanaquillus Faber|1674|Eton. B. k. 6.18 (Et)|
 Ov. trist. 2.542|irrequietus|irreprehensus|Alexander Riese|1874|GuH2|
 Ov. trist. 3.3.13|-tremis|externis|J. Ph. d'Orville|1732–51|AHQ|
 Ov. trist. 3.3.82|tuis|suis|Nicolaus Heinsius|1661|Bern. 478 (Be)|
@@ -2707,11 +2707,11 @@ Ov. trist. 5.1.79|-os|istuc|Rudolf Merkel|1837|Go2|
 Ov. trist. 5.2.21|-rbi|acervo|Nicolaus Heinsius|1661|Turon. 879 (T)|
 Ov. trist. 5.4.14|dol-|docenda|Pieter Burman I|1727|M pars rec.|
 Ov. trist. 5.5.3|-at|egerit|Nicolaus Heinsius|1661|Haun. Gl. Kgl. S. 2013 (Go)|
-Ov. trist. 5.6.35|labo-|malorum|Tanaquil Faber|1674|GBnDLo|
+Ov. trist. 5.6.35|labo-|malorum|Tanaquillus Faber|1674|GBnDLo|
 Ov. trist. 5.7.17|mor-|Martis|Nicolaus Heinsius|1661|D2|
 Ov. trist. 5.7b.25||(incipit)|Nicolaus Heinsius|1661|Berol. lat. oct. 67 (Bn)|
 Ov. trist. 5.8.17|manet|nitet|Petrus Francius|n.d.|Floril. Paris. 17903|
-Ov. trist. 5.8.30|roganda|petenda|Tanaquil Faber|1674|Berol. Diez. 20 (Bl)|
+Ov. trist. 5.8.30|roganda|petenda|Tanaquillus Faber|1674|Berol. Diez. 20 (Bl)|
 Ov. trist. 5.10.12|sunt-|stantque|Housman|1890|LtLu|CR 4 (1890) 340–2
 Ov. trist. 5.10.12|dura|longa|J. Ph. d'Orville|1732–51|D2Ma|
 P.Oxy. II 266.15|[ἀν]αζυγήν|[δι]α-|Edgar-Hunt|1932|P.Oxy. XLIX 3491|Sel.Pap. I 7.15
@@ -3451,7 +3451,8 @@ Sen. Tro. 463|-yti|inclita|Nicolaus Heinsius|1742|Paris. lat. 8260 (P)|
 Sen. Tro. 504|turris-/turpes-|tutasque|Leo|1876|Ambros. D 276 inf. (M)|Hermes
 Sen. Tro. 629|-am|erutum|Bentley|1899|Mediol. Trivult. 809|
 Sen. apocol. 3.1|educ-|seducit|Gronovius|1658|Sangall. 569 (S)|
-Sen. contr. 9.3.12|cestissimus/certissimum ius|cestii simius|Tanaquil Faber||Antuerp. 411 (A)|m. al.
+Sen. contr. 9.3.12|cestissimus/certissimum ius|cestii simius|Andreas Schott|1603|Antuerp. 411 (A)|m. al.
+Sen. contr. 10 praef. 15|dicendis eam p.|dicendi sectam putat|Madvig|1872|M teste Müller|apud Kiessling
 Sen. contr. exc. 8.5|sine|nisi|Gronovius|1649|cod. Mutin.|
 Sen. dial. 5.14.6|praeciperet. quem|praeciperet ei quem|Friedrich Haase|1852|Laur. 76.32 (L)|
 Sen. dial. 5.19.5|adest|id est|Muretus|1585|Laur. 76.32 (L)|
@@ -3644,6 +3645,7 @@ Sen. nat. 7.20.2|-que r.|qu(a)e repentinum|Jan Gruter|1594|ZU|
 Sen. nat. 7.20.3|si ced-|secedentis|Fortunatus|1522|Escor. N.III.16 (f)|
 Sen. nat. 7.30.5|mundus|etas|M. C. Gertz|1884|ZL2|
 Sen. nat. 7.32.1|philosophum|-phiam|Fortunatus|1522|Monac. Clm 11049 (U)|
+Sen. suas. 7.8|usus|suus|Nicolaus Heinsius|1678|Brux. 9144 (D)|ad Vell. p. 59; m. sec.
 Sil. 2.531|-as|palmam|J. B. Lefebvre|1781|FAXZ|
 Sil. 6.707|-is|tusci|Blass|1890|Harl. 4863|apud Bauer
 Sil. 9.639|-ue|Hannibalemne|Bentley|1811|Laur. Aed. 196 (F)|Class. Jour. 3
