@@ -3492,6 +3492,7 @@ Sen. dial. 11.1.1|-int|fecerunt|C. F. W. Müller|1865–6|D H V|
 Sen. epist. 48.6|sci-|inscientia|Lipsius|1605|P2|
 Sen. epist. 52.5|-abunt|lassarunt|Lipsius|1605|Vat. 2207 (Chatelain)|
 Sen. epist. 54.2|egere/agere|egerere|E. Chatelain|1877|Marc. 270|s.l.
+Sen. epist. 68.13|disputa-|dispumauit|Nonius Pincianus|1536|Laur. Plut. 7640 (L)|m. sec.
 Sen. epist. 72.7|dat fortuna|dant fortunae|C. R. Fickert|1842|V/V2|
 Sen. epist. 75.7|quando quae/quandoque|quando tam|P. Hauck|1910|Quirin. B.II.6 (Q)|
 Sen. epist. 83.26|villa-|vitiatur|Haupt|n.d.|Paris. lat. 8539 (b)|
