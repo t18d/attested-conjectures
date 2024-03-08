@@ -211,7 +211,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (192), Bentley (120), Markland (80), Madvig (77), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (192), Bentley (120), Markland (80), Madvig (78), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3494,10 +3494,11 @@ Sen. epist. 75.7|quando quae/quandoque|quando tam|P. Hauck|1910|Quirin. B.II.6 (
 Sen. epist. 83.26|villa-|vitiatur|Haupt|n.d.|Paris. lat. 8539 (b)|
 Sen. epist. 90.38|redacti|redegit|Franz Buecheler|1878|cod. Velz.|
 Sen. epist. 90.39|-ens/-eris|pelles|Friedrich Haase|1853|cod. Velz.|
-Sen. epist. 92.1|perfert|refert|Madvig|n.d.|cod. Velz.|
+Sen. epist. 92.1|se perfert|se refert|Madvig|1873|cod. Velz.|
 Sen. epist. 92.7|sonis|solis|Franz Buecheler|1878|cod. Velz.|
+Sen. epist. 95.48|-cium g.|beneficum gratis|Madvig|1884|WXpc|
 Sen. epist. 95.66|eam demum|eandem vim|Erasmus|1515|WX (ψ)|
-Sen. epist. 109.4|facit quoque|facitque|Madvig|n.d.|cod. Velz.|
+Sen. epist. 109.4|facit quoque|facitque|Madvig|1873|cod. Velz.|
 Sen. epist. 109.10|partes sui|pares suis|Nonius Pincianus|1536|rec.|
 Sen. epist. 124.21|illum|et illud|Johannes Schweighäuser|1809|cod. Harlei. 2659|
 Sen. nat. 1 praef. 3|dim-|deminutio|Muretus|1585|Genev. lat. 77 (Z)|
