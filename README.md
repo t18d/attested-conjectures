@@ -1337,7 +1337,7 @@ Claud. 21.282|fre-|premerent|Nicolaus Heinsius|1760|F2pc|apud Burmannum p. 866
 Claud. 22.3|rogan-|rigentes|Eduard Arens|1894|Bodl. Auct. F.2.16 (O3)|v.l.
 Claud. 22.99|-at|fuerit|Nicolaus Heinsius|1650|Lond. Burn. 167 (L)|p. 145 'vel contra libros'
 Claud. 22.146|par-|prauo|Nicolaus Heinsius|1760|Antuerp. Μ 185 (A3)|apud Burmannum p. 873
-Claud. 22.171|-ferat|praeferre|Franz Buecheler|1892|F17pc|apud Birt
+Claud. 22.171|-ferat|praeferre|Franz Bücheler|1892|F17pc|apud Birt
 Claud. 22.196|causas|caulas|Caspar von Barth|1612|Ambros. S 66 sup. (K4)|
 Claud. 22.335|tex-|traxit|Nicolaus Heinsius|1760|Lond. Burn. 166 (L11)|apud Burmannum
 Claud. 22.336|hic|his|Nicolaus Heinsius|1665|n1q|'si liceat per codices antiquos'
@@ -2201,14 +2201,14 @@ Iuv. 6.77|que|ue|Adrien de Valois|1810|Urb. 661 (U)|apud Achaintre
 Iuv. 6.120|sed|sic|Ribbeck|1859|Bodl. Canon. Class. Lat. 41 (O)|
 Iuv. 6.122|pap-|capillis|Charles de Valois|1810|Urb. 661 (U)|apud Achaintre
 Iuv. 6.153|cum/quo|quom|C. F. Hermann|1854|Lond. mus. Brit. Add. 12002|
-Iuv. 6.167|-sinam|uenustinam|Franz Buecheler|1886|Reg. 2029 et Valent. 410|
+Iuv. 6.167|-sinam|uenustinam|Franz Bücheler|1886|Reg. 2029 et Valent. 410|
 Iuv. 6.248|su-|rudibus|Lipsius|1675|P R F schol.|
 Iuv. 6.295|istros|istos|Nogarola|1602|KU|apud Janum Parrhasium
 Iuv. 6.363|rediuiuus|recidiuus|Gaspar Schopp|1596|Norimberg. 6.19|
 Iuv. 6.392|pert-|protulit|L. Dorleans|1622|Laur. 34.42 (K)|
 Iuv. 6.455|-at|castiget|Ribbeck|1859|Ottob. 1471|
 Iuv. 6.491|-o|humeros|Markland|1717–28|AK2|umeros AK2
-Iuv. 6.561|-o/-a|longe|Franz Buecheler|1886|Bodl. Canon. Class. Lat. 41 (O)|
+Iuv. 6.561|-o/-a|longe|Franz Bücheler|1886|Bodl. Canon. Class. Lat. 41 (O)|
 Iuv. 6.628|-et|vetat|Markland|1717–28|Urb. 661 (U)|
 Iuv. 6.660|-et|praegustarit|Markland|1717–28|Monac. 14466|
 Iuv. 7.12|-eon|alcithoen|Janus Rutgersius|1618|GO|
@@ -2243,7 +2243,7 @@ Iuv. 10.304|uiros|uiro|Jahn|1851|Guelf. Gud. 53|
 Iuv. 11.4|convictus|conventus|Caspar von Barth|1624|Urb. 661 (U)|
 Iuv. 11.6|ardens/-nti(s)|ardent|Nicolas Rigault|1613|Rom. Casan. 1627|
 Iuv. 11.14|-unt|quaerit|Markland|1717–28|schol. Lucan.|
-Iuv. 11.57|nec|tibi|Franz Buecheler|1886|O2|
+Iuv. 11.57|nec|tibi|Franz Bücheler|1886|O2|
 Iuv. 11.158|opp-|apposito|Nicolaus Heinsius|1652|recc.|ad Ov. her. 7.100
 Iuv. 11.178|-ant|faciunt|Charles de Valois|1810|Laur. 34.42 (K)|apud Achaintre
 Iuv. 11.191|-is|illic|Markland|1717–28|GU|
@@ -2272,7 +2272,7 @@ Iuv. 15.105|illo-|ipsorum|Andreas Weidner|1889|Urb. 661 (U)|
 Iuv. 15.124|britones|bistones|Johannes Schrader|1761|O1U|
 Iuv. 15.125|-que|sauromataeve|Markland|1717–28|Φ|
 Iuv. 15.134|causam dicentis|casum lugentis|Gilbert Wakefield|1790|recc.|
-Iuv. 15.145|capien-|pariendisque|Franz Buecheler|1886|OU|
+Iuv. 15.145|capien-|pariendisque|Franz Bücheler|1886|OU|
 Iuv. 16.13|Bardai-|barbaricus|A. W. Cramer|1823|Dres. 155|
 Iuv. 16.24|caligatos|caligas tot|Thomas Dempster|1610|recc.|
 Iuv. 16.24|caligatos|caligas tot|Josias Mercier|1650|recc.|apud Pricaeum
@@ -3492,7 +3492,7 @@ Sen. epist. 54.2|egere/agere|egerere|E. Chatelain|1877|Marc. 270|s.l.
 Sen. epist. 72.7|dat fortuna|dant fortunae|C. R. Fickert|1842|V/V2|
 Sen. epist. 75.7|quando quae/quandoque|quando tam|P. Hauck|1910|Quirin. B.II.6 (Q)|
 Sen. epist. 83.26|villa-|vitiatur|Haupt|n.d.|Paris. lat. 8539 (b)|
-Sen. epist. 90.38|redacti|redegit|Franz Buecheler|1878|cod. Uelc.|
+Sen. epist. 90.38|redacti|redegit|Franz Bücheler|1878|cod. Uelc.|
 Sen. epist. 90.39|-ens/-eris|pelles|Friedrich Haase|1853|cod. Uelc.|
 Sen. epist. 92.1|se perfert|se refert|Madvig|1873|cod. Uelc.|
 Sen. epist. 92.7|sonis|solis|Franz Bücheler|1878|cod. Uelc.|
