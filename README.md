@@ -2036,6 +2036,9 @@ Hes. Th. 656|ὅτι|ὅ τοι|Hermann|n.d.|P.Ryl. 54|
 Hes. Th. 768|habent|del.|F. A. Wolf|1783|P.Oxy. XXXII 2648|= Od. 10.534; 11.47
 Hippon. fr. 103.11|πασπάλιν φαγὼν|πασ]πα[λ]ηφάγον|Johannes Pierson|n.d.|P.Oxy. XVIII 2175|
 Hist. Aug. Alex. 8.5|-erat|dicat|Emil Baehrens|1871|Σ|
+Hist. Aug. Alex. 10.5|aurelio|Vario|Otto Hirschfeld|1913|Σ|
+Hist. Aug. Alex. 51.4|-ae|summe|Michael Petschenig|1879|P Σ|p. 406
+Hist. Aug. Aur. 25.3|-e|plenissima|Franz Eyssenhardt|1864|Σ|
 Hist. Aug. Avid. 1.5|adfecti-|adfectationem|Robert Novák|1896|Σ|
 Hist. Aug. Carac. 7.3–4|inseruit. at|inseruiat|Henri Jordan|1864|Σ|
 Hist. Aug. Carac. 8.6|nol-|uoluerit|Madvig|1873|Σ|
@@ -2043,6 +2046,8 @@ Hist. Aug. Comm. 5.8|m. n. inposuit uxoris|matris nomen imposuit. uxorem|J. M. H
 Hist. Aug. Heliog. 26.8|cuiusce m./eiusce m.|huiusce modi|Karl Lessing|1901–6|Paris. lat. 5807 (R)|
 Hist. Aug. Pert. 7.9|quidem|quidam|Henri Jordan|1864|A Ch|
 Hist. Aug. Pert. 11.9|ti-|tumorem|Salmasius|1620|Ch V|
+Hist. Aug. Prob. 1.5|-petit-|expeditus|Franz Eyssenhardt|1864|Σ|
+Hist. Aug. quatt. tyr. 9.1|-am -em|magna potestate|Michael Petschenig|1894|Σ|Philol. p. 355
 Hom. Il. 1.107|τα κάκ' ἐστὶ φίλα|φ[ιλ]ο̣ν̣ εστι κακ[α|Naber|1877|P.Ryl. III 539|
 Hom. Il. 2.3|-α|φρένας|Heyne|1802|2s V|
 Hom. Il. 5.667|ἀμφιέποντες|αμ]φις έποιτ[ες|T. S. Brandreth|1841|P.Oxy. IV 759|
