@@ -3517,7 +3517,10 @@ Sen. epist. 95.27|co(n)guntur|congeruntur|Georg Windhaus|1879|Quirin. A. IV. 4 (
 Sen. epist. 95.31|-rent|luerentur|Friedrich Haase|1853|cod. Rehdig. I (Fickert)|m. al.
 Sen. epist. 95.48|-cium g.|beneficum gratis|Madvig|1884|WXpc|
 Sen. epist. 95.66|eam demum|eandem vim|Erasmus|1515|WX (ψ)|
+Sen. epist. 98.11|-didi-|perdimus|Muretus||Patav. bibl. Univ. 913|
+Sen. epist. 101.10|-abit|aptauit|Henri Estienne||Q1ψ|
 Sen. epist. 104.9|-as/-atus|iudicabis|Bartsch||cod. Uelc.|
+Sen. epist. 106.6|et a.|ut auaritia|Georg Windhaus|1879|ψ|
 Sen. epist. 108.21|crudel-|credulitatis|Lipsius|1605|recc.|
 Sen. epist. 109.4|facit quoque|facitque|Madvig|1873|cod. Uelc.|
 Sen. epist. 109.10|partes sui|pares suis|Nonius Pincianus|1536|recc.|
