@@ -3511,6 +3511,7 @@ Sen. epist. 90.38|redacti|redegit|Franz Bücheler|1878|cod. Uelc.|
 Sen. epist. 90.39|-ens/-eris|pelles|Friedrich Haase|1853|cod. Uelc.|
 Sen. epist. 92.1|se perfert|se refert|Madvig|1873|cod. Uelc.|
 Sen. epist. 92.7|sonis|solis|Franz Bücheler|1878|cod. Uelc.|
+Sen. epist. 94.59|etantanto/e(que) tanto|et in tanto|Johannes Schweighäuser|1809|Patav. bibl. Univ. 852 (π)|
 Sen. epist. 95.16|putrescentium|p. dentium|H. A. Koch||rec.|
 Sen. epist. 95.48|-cium g.|beneficum gratis|Madvig|1884|WXpc|
 Sen. epist. 95.66|eam demum|eandem vim|Erasmus|1515|WX (ψ)|
