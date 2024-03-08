@@ -3112,6 +3112,7 @@ Ps. Quint. decl. 17.12|ita|ista|Richard Reitzenstein|1909|Dac|
 Ps. Quint. decl. 17.16|fat-|facto|Pieter Burman I|1720|Montepess. H 226 (M)|
 Ps. Quint. decl. 18.15|exut-|exustos|Johannes Schultingh|1720|Paris. lat. 7802 (D)|apud Burmannum
 Ps. Quint. decl. 19.8|-es|vide|Johannes Schultingh|1720|Bamb. M IV 13 (B)|apud Burmannum; m. pr.
+Ps. Sol. Pont. 10|candidit/-us|canduit|Emil Baehrens|1879|E|
 Publil. sent. C 39|e. o.|oportet esse|Johann v. G. Fröhlich|1872|Turic. C 78 (T)|apud Meyer
 Publil. sent. E 5|-at|superest|Bentley|1726|κ et cod. Gryphisw.|
 Publil. sent. E 21|Sine|Etiam sine|Orelli|1832|Veron. Capit. 168 (O)|ed. alt.
@@ -3716,6 +3717,7 @@ Sil. 17.56|pro-|praegressos|Nicolaus Heinsius|1717|ω|apud Drakenborch
 Simon. fr. 20.9|νηπίοισι|νή]πιοι|Joachim Camerarius|1551|P.Oxy. LIX 3965|
 Simon. fr. 20.10|βιότου|βιότοι'|Joachim Camerarius|1551|P.Oxy. LIX 3965|
 Simon. fr. 25.5|χεέτω|χείτω|M. L. West|1989|P.Oxy. LXXXI 5261|
+Sol. 22.7|dudum non t./dum non t.|dumnon(i)i tenent|Salmasius|1689|RCN 24|p. 175
 Soph. Aj. 98|ὥστ'|ὡς|Elmsley|n.d.|Paris. suppl. gr. 109 (Q)|
 Soph. Aj. 135|-άλου|ἀγχίαλον|F. H. Bothe|n.d.|Laur. 32.40 (H)|
 Soph. Aj. 146|λοιπή|κοινή|Henrik van Herwerden|1866|Gγρ|ad OT 591
