@@ -3480,8 +3480,8 @@ Sen. contr. exc. 8.5|sine|nisi|Gronovius|1649|cod. Mutin.|
 Sen. dial. 5.14.6|praeciperet. quem|praeciperet ei quem|Friedrich Haase|1852|Laur. 76.32 (L)|
 Sen. dial. 5.19.5|adest|id est|Muretus|1585|Laur. 76.32 (L)|
 Sen. dial. 5.23.6|inignem p.|in igne posuit|Madvig|1871|Laur. 76.32 (L)|
-Sen. dial. 5.33.3|-parandum|computandum|Nonius Pincianus|1536|Laur. 76.32 (L)|
-Sen. dial. 6.5.4|conuertistite|conuertis te|Nonius Pincianus|1536|Laur. 76.41 (F)|
+Sen. dial. 5.33.3|-parandum|computandum|Fernandus Pincianus|1536|Laur. 76.32 (L)|
+Sen. dial. 6.5.4|conuertistite|conuertis te|Fernandus Pincianus|1536|Laur. 76.41 (F)|
 Sen. dial. 6.9.4|-us|perituras|Bentley|1899|dett.|apud Hedicke
 Sen. dial. 6.12.1|in misso|in amisso|H. A. Koch|1875|Laur. 76.41 (F)|
 Sen. dial. 6.12.6|male illo|malo illae|C. R. Fickert|1845|Laur. 76.41 (F)|
@@ -3498,8 +3498,8 @@ Sen. epist. 52.5|-abunt|lassarunt|Lipsius|1605|Vat. lat. 2207 (Chatelain)|
 Sen. epist. 54.2|egere/agere|egerere|E. Chatelain|1877|Marc. 270|s.l.
 Sen. epist. 61.3|ui|ut|Wilhelm Gemoll|1886|L2|p. 12
 Sen. epist. 66.15|in utramque|in utraque|Friedrich Haase|1853|QU|
-Sen. epist. 68.13|disputa-|dispumauit|Nonius Pincianus|1536|Laur. Plut. 7640 (L)|m. sec.
-Sen. epist. 70.18|-iget|exegit|Nonius Pincianus|1536|Paris. lat. 8540 (p)|
+Sen. epist. 68.13|disputa-|dispumauit|Fernandus Pincianus|1536|Laur. Plut. 7640 (L)|m. sec.
+Sen. epist. 70.18|-iget|exegit|Fernandus Pincianus|1536|Paris. lat. 8540 (p)|
 Sen. epist. 71.21|om.|iacere … malum est|Wolters||Quirin. B. II. 6 (Q)|
 Sen. epist. 72.7|dat fortuna|dant fortunae|C. R. Fickert|1842|V/V2|
 Sen. epist. 75.7|quando quae/quandoque|quando tam|P. Hauck|1910|Quirin. B. II. 6 (Q)|
@@ -3523,16 +3523,16 @@ Sen. epist. 104.9|-as/-atus|iudicabis|Julius Bartsch|1869|cod. Uelc.|RhM
 Sen. epist. 106.6|et a.|ut auaritia|Georg Windhaus|1879|ψ|
 Sen. epist. 108.21|crudel-|credulitatis|Lipsius|1605|recc.|
 Sen. epist. 109.4|facit quoque|facitque|Madvig|1873|cod. Uelc.|
-Sen. epist. 109.10|partes sui|pares suis|Nonius Pincianus|1536|recc.|
+Sen. epist. 109.10|partes sui|pares suis|Fernandus Pincianus|1536|recc.|
 Sen. epist. 109.18|haec/hanc|hoc|Jan Gruter|1594|Harl. 2659|
 Sen. epist. 116.6|receda-|reducamus|M. C. Gertz|1884|cod. Uelc.|Mélanges Graux p. 378
 Sen. epist. 120.10|n. d. et|non deesse ei|Johannes Schweighäuser|1809|Quirin. A. IV. 4 (q)|
 Sen. epist. 120.19|qua-|(a)equalitas|Gronovius|1649|cod. Uelc.|p. 243
 Sen. epist. 120.19|uerus/uero/uer(a)e|ueri|Gronovius|1649|cod. Uelc.|p. 243
 Sen. epist. 121.8|niti|n. et|Johannes Schweighäuser|1809|Quirin. A. IV. 4 (q)|
-Sen. epist. 122.18|recto|retro|Nonius Pincianus|1536|Quirin. A. IV. 4 (q)|
+Sen. epist. 122.18|recto|retro|Fernandus Pincianus|1536|Quirin. A. IV. 4 (q)|
 Sen. epist. 123.1|quod i. n.|quam indignandum nihil|Nonius Pincianus|1536|Patav. bibl. Univ. 913|
-Sen. epist. 123.5|-iam/-ia|molesta|Nonius Pincianus|1536|Quirin. A. IV. 4 (q)|et ψ?
+Sen. epist. 123.5|-iam/-ia|molesta|Fernandus Pincianus|1536|Quirin. A. IV. 4 (q)|et ψ?
 Sen. epist. 124.5|deret/daret|debet|Otto Rossbach|1888|Vat. lat. 2201|p. 161
 Sen. epist. 124.20|e. aliquando b.|erit aliquod bonum|Julius Bartsch|1869|Harl. 2659|RhM
 Sen. epist. 124.21|illum|et illud|Johannes Schweighäuser|1809|Harl. 2659|
@@ -3543,7 +3543,7 @@ Sen. nat. 1.1.10|defuissent|defeci-|Madvig|1873|H1|
 Sen. nat. 1.2.6|nec|ne|M. C. Gertz|1874|P1υ|
 Sen. nat. 1.3.10|om.|ex|W. Gemoll|1890|Genev. lat. 77 (Z)|
 Sen. nat. 1.4.4|prior|propior|Erasmus|1515|Marc. lat. Z.268 (W)|
-Sen. nat. 1.5.14|aduersus|ad uerum|Nonius Pincianus|1536|ZL2|
+Sen. nat. 1.5.14|aduersus|ad uerum|Fernandus Pincianus|1536|ZL2|
 Sen. nat. 1.13.2|natur(a)e solis|natura solide|B. Larisch|1874|TCam.DX|
 Sen. nat. 1.13.2|percussu|rep-|W. Kroll|1907|W2|apud Gercke
 Sen. nat. 1.14.3|percussu|rep-|Alfred Gercke|1907|recc.|
@@ -3557,9 +3557,9 @@ Sen. nat. 2.12.3|dist-|destillare|Franz Skutsch|1907|Escor. O.III.2 (R)|apud Ger
 Sen. nat. 2.21.2|nisi ex (eo quod)|nisi ex eo|Madvig|1873|Montepess. 116 (G)|
 Sen. nat. 2.21.2|nisi ex (eo quod)|nisi ex igne|Günther|1907|Genev. lat. 77 (Z)|apud Gercke
 Sen. nat. 2.22.3|ne hoc|nec hoc|Madvig|1873|ζ|
-Sen. nat. 2.24.1|deinde|de igne|Nonius Pincianus|1536|D2TX|
+Sen. nat. 2.24.1|deinde|de igne|Fernandus Pincianus|1536|D2TX|
 Sen. nat. 2.24.3|-eres|permittes|C. R. Fickert|1845|δFP|
-Sen. nat. 2.26.5|uerter-|urerentur|Nonius Pincianus|1536|E2|
+Sen. nat. 2.26.5|uerter-|urerentur|Fernandus Pincianus|1536|E2|
 Sen. nat. 2.26.7|quod/que|ut|Madvig|1873|ζ|
 Sen. nat. 2.32.4|sed non/si|si non|Alfred Gercke|1907|recc.|
 Sen. nat. 2.34.4|quidem/om.|quid|L. Castiglioni|1921|W2|
@@ -3581,7 +3581,7 @@ Sen. nat. 2.59.5|corrig-|confligitur|Haupt|1876|recc.|
 Sen. nat. 3 praef. 3|post meridianas horas|postmeridianis horis|Erasmus|1515|Genev. lat. 77 (Z)|
 Sen. nat. 3 praef. 9|inueniri|iniri|Muretus|1585|Genev. lat. 77 (Z)|
 Sen. nat. 3 praef. 10|uid-|uicisse|G. Müller|1886|f et recc.|
-Sen. nat. 3.1.1|elis(i)us|eleus|Nonius Pincianus|1536|Bamb. M.IV.16 (B)|
+Sen. nat. 3.1.1|elis(i)us|eleus|Fernandus Pincianus|1536|Bamb. M.IV.16 (B)|
 Sen. nat. 3.2.3|fluuia|pluuia|I. Opsopoeus|1587|Cam.DET|v.l.
 Sen. nat. 3.3|-ant|seruat|Fortunatus|1522|δ|
 Sen. nat. 3.6.1|-cipit|concepit|Franz Skutsch|1907|W2 et recc.|apud Gercke
@@ -3589,7 +3589,7 @@ Sen. nat. 3.10.2|sunt|sint|H. J. Müller|1876|Genev. lat. 77 (Z)|
 Sen. nat. 3.10.3|quia|quod|Fortunatus|1522|Bamb. M.IV.16 (B)|
 Sen. nat. 3.11.3|uocant/uocent|euocent|Fortunatus|1522|recc.|
 Sen. nat. 3.11.5|uiros|riuos|I. Opsopoeus|1587|υ|
-Sen. nat. 3.11.6|acta|apta|Nonius Pincianus|1536|Bamb. M.IV.16 (B)|
+Sen. nat. 3.11.6|acta|apta|Fernandus Pincianus|1536|Bamb. M.IV.16 (B)|
 Sen. nat. 3.11.6|autem|amnem|Gronovius|1658|Genev. lat. 77 (Z)|
 Sen. nat. 3.14.2|-em|aera|Friedrich Haase|1852|Genev. lat. 77 (Z)|
 Sen. nat. 3.15.3|-e/natura|matura|Fortunatus|1522|Palat. lat. 1579 (V)|
@@ -3604,9 +3604,9 @@ Sen. nat. 3.22|hoc/hic|hec|C. R. Fickert|1845|Monac. Clm 11049 (U)|
 Sen. nat. 3.24.3|euaporatio|e uaporario|Gronovius|1649|recc.|
 Sen. nat. 3.24.4|introeuntes|nitro euntes|M. C. Gertz|1884|Hυ|
 Sen. nat. 3.25.2|nec|ne|M. C. Gertz|1874|Genev. lat. 77 (Z)|
-Sen. nat. 3.25.9|-us|lacu|Nonius Pincianus|1536|Genev. lat. 77 (Z)|
+Sen. nat. 3.25.9|-us|lacu|Fernandus Pincianus|1536|Genev. lat. 77 (Z)|
 Sen. nat. 3.25.11|siue|seu|Franz Skutsch|1907|Genev. lat. 77 (Z)|apud Gercke
-Sen. nat. 3.26.2|-atur|reuerberato|Nonius Pincianus|1536|Monac. Clm 11049 (U)|
+Sen. nat. 3.26.2|-atur|reuerberato|Fernandus Pincianus|1536|Monac. Clm 11049 (U)|
 Sen. nat. 3.26.3|-to|secretos|L. Castiglioni|1921|Escor. N.III.16 (f)|
 Sen. nat. 3.26.5|-e|mari|Franz Skutsch|1907|Genev. lat. 77 (Z)|apud Gercke
 Sen. nat. 3.26.6|fundat|-it|Alfred Gercke|1907|Marc. lat. Z.268 (W)|
@@ -3618,8 +3618,8 @@ Sen. nat. 3.27.5|-et|sustinent|Madvig|1873|F1|
 Sen. nat. 3.27.7|ingruunt|-uerunt|O. Waldaestel|1888|Paris. lat. 6386 (T)|
 Sen. nat. 3.27.7|reuol-|resolutis|Gronovius|1658|Genev. lat. 77 (Z)|
 Sen. nat. 3.27.11|-reptum|diremptum|Erasmus|1515|Paris. lat. 6386 (T)|
-Sen. nat. 3.27.14|aut|an|W. Gemoll|1890|Paris. lat. 6386 (T)|
-Sen. nat. 3.28.6|maximisque|maximis|W. Gemoll|1890|π|
+Sen. nat. 3.27.14|aut|an|Wilhelm Gemoll|1890|Paris. lat. 6386 (T)|
+Sen. nat. 3.28.6|maximisque|maximis|Wilhelm Gemoll|1890|π|
 Sen. nat. 3.29.1|-ant|profundantur|Franz Skutsch|1907|recc.|apud Gercke
 Sen. nat. 3.29.1|bellum|belum|Fortunatus|1522|Cam.2D|
 Sen. nat. 3.29.3|-to|liniamenta|Fortunatus|1522|Genev. lat. 77 (Z)|
@@ -3627,14 +3627,14 @@ Sen. nat. 3.29.5|-eriue|abolerique|L. Castiglioni|1922|Cambrai 939 (Cam.)|
 Sen. nat. 3.29.6|-us|impetu|Erasmus|1515|W2|
 Sen. nat. 3.29.7|curr-|decurrent|L. Castiglioni|1921|Genev. lat. 77 (Z)|
 Sen. nat. 3.30.3|auar- aut|aut auaritia|H. Mueck|1890|L2|
-Sen. nat. 4 praef. 2|si modo|modo (prius)|Nonius Pincianus|1536|Zγ|
+Sen. nat. 4 praef. 2|si modo|modo (prius)|Fernandus Pincianus|1536|Zγ|
 Sen. nat. 4 praef. 4|quisque|patet q.|W. H. Alexander|1948|Genev. lat. 77 (Z)|
 Sen. nat. 4 praef. 4|fortasse — petitur|del.|Leo|1907|ZU|apud Gercke
 Sen. nat. 4 praef. 5|fieris|ferieris|P. Oltramare|1929|D2X|
 Sen. nat. 4 praef. 5|uilleium|uitellium|Lipsius|1605|ZL2|ad Tac. Ann. 6.32
 Sen. nat. 4 praef. 7|-a -e|incertam fidem|Erasmus|1515|ZW|
 Sen. nat. 4 praef. 9|aliam|alienam|Muretus|1585|Genev. lat. 77 (Z)|
-Sen. nat. 4 praef. 10|talia|alia|Nonius Pincianus|1536|D1 et recc.|
+Sen. nat. 4 praef. 10|talia|alia|Fernandus Pincianus|1536|D1 et recc.|
 Sen. nat. 4 praef. 10|suscip-|suspicere|Erasmus|1515|Genev. lat. 77 (Z)|
 Sen. nat. 4 praef. 13|-rit|dixeris|Fortunatus|1522|W2|
 Sen. nat. 4 praef. 16|-uit|examinaui|H. C. Michaelis|1854|recc.|
@@ -3647,7 +3647,7 @@ Sen. nat. 4.2.1|-it|posset|C. F. W. Müller|1866|Genev. lat. 77 (Z)|
 Sen. nat. 4.2.4|-que|del.|Friedrich Haase|1852|Leid. B.P.L. 199 (O)|
 Sen. nat. 4.2.5|leui|leni|Erasmus|1529|Genev. lat. 77 (Z)|
 Sen. nat. 4.2.5|ubi in|ubi|Fortunatus|1522|Genev. lat. 77 (Z)|
-Sen. nat. 4.2.7|hoc|hac|Nonius Pincianus|1536|Genev. lat. 77 (Z)|
+Sen. nat. 4.2.7|hoc|hac|Fernandus Pincianus|1536|Genev. lat. 77 (Z)|
 Sen. nat. 4.2.10|nimiumque|minimumque|Fortunatus|1522|ZθW|
 Sen. nat. 4.2.12|et aliud/aqu(a)e|atque aliud|Erasmus|1515|Genev. lat. 77 (Z)|
 Sen. nat. 4.2.18|est|del.|Franz Skutsch|1907|ρ|apud Gercke
@@ -3681,9 +3681,9 @@ Sen. nat. 6.7.5|quo|quod|Muretus|1585|ZW1|
 Sen. nat. 6.8.3|a|e|Madvig|1873|Genev. lat. 77 (Z)|
 Sen. nat. 6.8.3|illos|ipsos|C. R. Fickert|1845|Genev. lat. 77 (Z)|
 Sen. nat. 6.8.4|aquis herbae s.|herbis aque sunt|Franz Skutsch|1907|Montepess. 445 (S)|ap. Gercke
-Sen. nat. 6.11|diffund-|diffindit|Nonius Pincianus|1536|Berol. lat. oct. 9 (E)|
+Sen. nat. 6.11|diffund-|diffindit|Fernandus Pincianus|1536|Berol. lat. oct. 9 (E)|
 Sen. nat. 6.11|fuit|fuerit|Franz Skutsch|1907|BVRU|ap. Gercke
-Sen. nat. 6.14.4|intercidit|interscindit|Nonius Pincianus|1536|cod. Anicianus|
+Sen. nat. 6.14.4|intercidit|interscindit|Fernandus Pincianus|1536|cod. Anicianus|
 Sen. nat. 6.18.6|-it -us|effici spiritu|Muretus|1585|Genev. lat. 77 (Z)|
 Sen. nat. 6.21.1|nec|ne|M. C. Gertz|1874|Genev. lat. 77 (Z)|
 Sen. nat. 6.21.2|-i|alternis|H. C. Michaelis|1854|Genev. lat. 77 (Z)|
