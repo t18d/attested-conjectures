@@ -3562,7 +3562,7 @@ Sen. nat. 2.24.3|-eres|permittes|C. R. Fickert|1845|δFP|
 Sen. nat. 2.26.5|uerter-|urerentur|Fernandus Pincianus|1536|E2|
 Sen. nat. 2.26.7|quod/que|ut|Madvig|1873|ζ|
 Sen. nat. 2.32.4|sed non/si|si non|Alfred Gercke|1907|recc.|
-Sen. nat. 2.34.4|quidem/om.|quid|L. Castiglioni|1921|W2|
+Sen. nat. 2.34.4|quidem/om.|quid|Luigi Castiglioni|1921|W2|
 Sen. nat. 2.35.2|nec|ne|M. C. Gertz|1874|ZW|
 Sen. nat. 2.40.1|-mo|primum|B. Axelson|1933|Escor. N.III.16 (f)|
 Sen. nat. 2.42.3|iud-|indicauerunt|Erasmus|1515|Bamb. M.IV.16 (B)|
@@ -3607,7 +3607,7 @@ Sen. nat. 3.25.2|nec|ne|M. C. Gertz|1874|Genev. lat. 77 (Z)|
 Sen. nat. 3.25.9|-us|lacu|Fernandus Pincianus|1536|Genev. lat. 77 (Z)|
 Sen. nat. 3.25.11|siue|seu|Franz Skutsch|1907|Genev. lat. 77 (Z)|apud Gercke
 Sen. nat. 3.26.2|-atur|reuerberato|Fernandus Pincianus|1536|Monac. Clm 11049 (U)|
-Sen. nat. 3.26.3|-to|secretos|L. Castiglioni|1921|Escor. N.III.16 (f)|
+Sen. nat. 3.26.3|-to|secretos|Luigi Castiglioni|1921|Escor. N.III.16 (f)|
 Sen. nat. 3.26.5|-e|mari|Franz Skutsch|1907|Genev. lat. 77 (Z)|apud Gercke
 Sen. nat. 3.26.6|fundat|-it|Alfred Gercke|1907|Marc. lat. Z.268 (W)|
 Sen. nat. 3.26.8|inibi/nubi|ubi|L. Fromondus|1632|WCam.DET|
@@ -3623,9 +3623,9 @@ Sen. nat. 3.28.6|maximisque|maximis|Wilhelm Gemoll|1890|π|
 Sen. nat. 3.29.1|-ant|profundantur|Franz Skutsch|1907|recc.|apud Gercke
 Sen. nat. 3.29.1|bellum|belum|Fortunatus|1522|Cam.2D|
 Sen. nat. 3.29.3|-to|liniamenta|Fortunatus|1522|Genev. lat. 77 (Z)|
-Sen. nat. 3.29.5|-eriue|abolerique|L. Castiglioni|1922|Cambrai 939 (Cam.)|
+Sen. nat. 3.29.5|-eriue|abolerique|Luigi Castiglioni|1922|Cambrai 939 (Cam.)|
 Sen. nat. 3.29.6|-us|impetu|Erasmus|1515|W2|
-Sen. nat. 3.29.7|curr-|decurrent|L. Castiglioni|1921|Genev. lat. 77 (Z)|
+Sen. nat. 3.29.7|curr-|decurrent|Luigi Castiglioni|1921|Genev. lat. 77 (Z)|
 Sen. nat. 3.30.3|auar- aut|aut auaritia|H. Mueck|1890|L2|
 Sen. nat. 4 praef. 2|si modo|modo (prius)|Fernandus Pincianus|1536|Zγ|
 Sen. nat. 4 praef. 4|quisque|patet q.|W. H. Alexander|1948|Genev. lat. 77 (Z)|
@@ -3691,9 +3691,9 @@ Sen. nat. 6.21.2|-itur|sequetur|Alfred Gercke|1907|Cambrai 939 (Cam.)|
 Sen. nat. 6.22.1|terram|tecta|M. C. Gertz|1874|ZL2|
 Sen. nat. 6.27.2|est|del.|Alfred Gercke|1907|Leid. Voss. lat. F.69 (L)|
 Sen. nat. 6.27.2|est|del.|O. Rossbach|1907|Leid. Voss. lat. F.69 (L)|apud Gercke
-Sen. nat. 6.28.2|terras c.|terra se continet|L. Castiglioni|1922|Genev. lat. 77 (Z)|
+Sen. nat. 6.28.2|terras c.|terra se continet|Luigi Castiglioni|1922|Genev. lat. 77 (Z)|
 Sen. nat. 6.28.2|-tis|conditus|Friedrich Haase|1852|W1G|
-Sen. nat. 6.31.3|itemque|iterumque|L. Castiglioni|1929|ZL2|apud Oltramare
+Sen. nat. 6.31.3|itemque|iterumque|Luigi Castiglioni|1929|ZL2|apud Oltramare
 Sen. nat. 7.2.3|om.|nos|Lipsius|1632|Genev. lat. 77 (Z)|teste Fromondo
 Sen. nat. 7.11.3|dem-|dimissos|C. R. Fickert|1845|Leid. B.P.L. 199 (O)|
 Sen. nat. 7.14.1|-ercere|exerere|Franz Skutsch|1907|Bpc|ap. Gercke
