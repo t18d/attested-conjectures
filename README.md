@@ -3513,6 +3513,8 @@ Sen. epist. 92.1|se perfert|se refert|Madvig|1873|cod. Uelc.|
 Sen. epist. 92.7|sonis|solis|Franz Bücheler|1878|cod. Uelc.|
 Sen. epist. 94.59|etantanto/e(que) tanto|et in tanto|Johannes Schweighäuser|1809|Patav. bibl. Univ. 852 (π)|
 Sen. epist. 95.16|putrescentium|p. dentium|H. A. Koch||rec.|
+Sen. epist. 95.27|co(n)guntur|congeruntur|Georg Windhaus|1879|Quirin. A. IV. 4 (q)|p. 15
+Sen. epist. 95.31|-rent|luerentur|Friedrich Haase|1853|cod. Rehdig. I (Fickert)|m. al.
 Sen. epist. 95.48|-cium g.|beneficum gratis|Madvig|1884|WXpc|
 Sen. epist. 95.66|eam demum|eandem vim|Erasmus|1515|WX (ψ)|
 Sen. epist. 104.9|-as/-atus|iudicabis|Bartsch||cod. Uelc.|
