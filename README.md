@@ -175,6 +175,7 @@
         <li>Seneca, L. Annaeus, <em>Dialogorum libri XII</em>, ed. Emil Hermes (Leipzig, 1905).</li>
         <li>Seneca, L. Annaeus, <em>Ad Lucilium epistularum moralium quae supersunt</em>, ed. Otto Hense (Leipzig, 1914).</li>
         <li>Seneca, L. Annaeus, <em>Divi Claudii Apotheosis per saturam quae Apocolocyntosis vulgo dicitur</em>, ed. Otto Rossbach (Bonn, 1926).</li>
+        <li>Sénèque, <em>Dialogues</em>, ii, ed. A. Bourgery (Paris, 1923).</li>
         <li>Sénèque, <em>Lettres à Lucilius</em>, iv, ed. François Préchac (Paris, 1962).</li>
         <li>Seneca, Lucio Anneo, <em>Tragedie</em>, ed. Giancarlo Giardina (Turin, 1987).</li>
         <li>Seneca, L. Annaeus, <em>Naturalium quaestionum libri</em>, ed. Harry M. Hine (Stuttgart, 1996).</li>
