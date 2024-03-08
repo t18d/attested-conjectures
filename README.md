@@ -170,6 +170,7 @@
         <li>Reeve, M. D., 'Tricipitinus's Son', <em>Zeitschrift für Papyrologie und Epigraphik</em>, 22 (1976), 21–31.</li>
         <li>Reeve, M. D., 'Acidalius on Manilius', <em>The Classical Quarterly</em>, 41/1 (1991), 226–39.</li>
         <li>Reynolds, L. D. (ed.), <em>Texts and Transmission: A Survey of the Latin Classics</em> (Oxford, 1983).</li>
+        <li>Rossbach, Otto, <em>De Senecae philosophi librorum recensione et emendatione</em> (Breslau, 1888).</li>
         <li>Sappho and Alcaeus, <em>Fragmenta</em>, ed. Eva-Maria Voigt (Amsterdam, 1971).</li>
         <li>Seneca Maior, L. Annaeus, <em>Oratorum et rhetorum sententiae, divisiones, colores</em>, ed. Lennart Håkanson (Leipzig, 1989).</li>
         <li>Seneca, L. Annaeus, <em>Dialogorum libri XII</em>, ed. Emil Hermes (Leipzig, 1905).</li>
