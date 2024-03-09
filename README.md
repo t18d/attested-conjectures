@@ -216,7 +216,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (190), Bentley (120), Markland (80), Madvig (79), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (193), Bentley (120), Madvig (80), Markland (80), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2701,7 +2701,12 @@ Ov. trist. 1.2.78|non mihi|nunc, mihi|Daniel Heinsius|1629|Turon. 879 (T)|
 Ov. trist. 1.2.90|mori|mei|Nicolaus Heinsius|1661|Bodl. Canon. Lat. I (O)|
 Ov. trist. 1.3.5|disc-|decedere|Gilbert Wakefield|1797|FacOb|ad Lucr. 5.1103
 Ov. trist. 1.3.43|pros-|adstrata|Nicolaus Heinsius|1661|GBnRe|
+Ov. trist. 1.3.45|adu-|auersos|Nicolaus Heinsius|1661|Vat. Ottob. lat. 1469 (Ob)|
+Ov. trist. 1.3.99|mor-|mali|Madvig|1873|Vat. lat. 2787 (Vb)|
+Ov. trist. 1.3.100|perii-/uolui-/posui-|ualuisse|Nicolaus Heinsius|1661|Haun. Gl. Kgl. S. 2013 (Go)|v.l.
 Ov. trist. 1.5.53|esset|aere|Daniel Heinsius|1629|codd. Heinsii et Bersmanni|
+Ov. trist. 1.6.1|c. l.|clario est lyde|S. G. Owen|1889|Harl. 2699 (Lo)|
+Ov. trist. 1.7.5|-a|dissimulas|Nicolaus Heinsius|1661|Vat. lat. 2787 (Vb)|
 Ov. trist. 1.8.7|-am|negabant|S. G. Owen|1889|BlLn|
 Ov. trist. 1.8.35|aequoreos|Aeolios|Johannes Schrader|1776|Guelf. Gud. lat. 192 (G)|m. sec.
 Ov. trist. 1.8.45|non|nunc|Tanaquillus Faber|1659|LuMOb|p. 77
