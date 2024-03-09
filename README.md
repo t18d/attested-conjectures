@@ -216,7 +216,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (189), Bentley (120), Markland (80), Madvig (79), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (190), Bentley (120), Markland (80), Madvig (79), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2693,6 +2693,9 @@ Ov. rem. 804|experi-|expediere|Nicolaus Heinsius|1658|Paris. lat. 8245 (P6)|
 Ov. trist. 1.1.14|-at|sentiet|Jacobus Roverius|n.d.|BDFT|
 Ov. trist. 1.1.17|-i|illic|Justus Zinzerling|1610|O2|
 Ov. trist. 1.1.43|ab-|obest|Petrus Francius|1727|Repc|apud Burmannum; 'in ora exemplaris quo usus est' (Merkel)
+Ov. trist. 1.1.59|-as|uenies|Nicolaus Heinsius|1661|Berol. lat. oct. 67 (Bn)|p. 226
+Ov. trist. 1.1.96|&|ut|Petrus Francius|1727|Pal. lat. 910 (P)|apud Burmannum
+Ov. trist. 1.1.121|namque ea|nam quae|Georg Luck|1959|Haun. Gl. Kgl. S. 2014 (F)|Philol.; p. c.
 Ov. trist. 1.2.63|prome-|commerui|Nicolaus Heinsius|1661|Lond. Mus. Brit. Add. 18384 (Ln)|
 Ov. trist. 1.2.78|non mihi|nunc, mihi|Daniel Heinsius|1629|Turon. 879 (T)|
 Ov. trist. 1.2.90|mori|mei|Nicolaus Heinsius|1661|Bodl. Canon. Lat. I (O)|
