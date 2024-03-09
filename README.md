@@ -216,7 +216,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (197), Bentley (121), Madvig (80), Markland (80), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (199), Bentley (122), Madvig (80), Markland (80), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2723,15 +2723,19 @@ Ov. trist. 2.16|icta|ista|Nicolaus Heinsius|1661|Paris. lat. 7993 (Pu)|
 Ov. trist. 2.21|-et|leniat|Bentley|1889|BBnLd|apud Owen (in ora Heinsii)
 Ov. trist. 2.66|multa|certa|A. S. Wilkins|1889|Zulich. (Z)|apud Owen
 Ov. trist. 2.69|-is|Iovi|Georgius Merula|1489|Harl. 2699 (Lo)|a. c.
-Ov. trist. 2.79|ne … quae te|de … cum te|Rudolf Merkel|1837|Va2|edited from prison
+Ov. trist. 2.79|ne … quae te etc.|de … cum te|Rudolf Merkel|1837|Va2|editing from prison
 Ov. trist. 2.87|qua-|quosque|Rudolf Ehwald|1884|Bodl. Canon. Lat. I (O)|'collato Florentiae codice Marciano'
 Ov. trist. 2.138|parca-|paucaque|Daniel Heinsius|1629|Leid. B. P. L. 177 (K)|
 Ov. trist. 2.175|tui|tui ’s|Alois Goldbacher|1904|Bern. 478 (Be)|Wien. Stud.
 Ov. trist. 2.251|ec-|numquid|Petrus Francius|1837|BlBe|apud Merkel
 Ov. trist. 2.281|q. multis/multi q.|multis quam|Alexander Riese|1874|Bern. 478 (Be)|
 Ov. trist. 2.296|viro|vir|Bentley|1722–3|Laur. Marc. 223 (M)|per litt. ad Burmann; a. c.
+Ov. trist. 2.333|-es|gigantas|Nicolaus Heinsius|1661|Bern. 405 (Br)|in textu
 Ov. trist. 2.345|-via|lascivas|Pieter Burman I|1727|HP|
 Ov. trist. 2.363|vino|Baccho|Nicolaus Heinsius|1661|Goth. membr. II. 122 (D)|
+Ov. trist. 2.395|-em|Oresten|Nicolaus Heinsius|1661|Vat. Ottob. lat. 1469 (Ob)|in textu
+Ov. trist. 2.419|text-/mixt-|iuncta|Francesco Vivona|1899|Paris. lat. 8255 (Re)|p. xxiv
+Ov. trist. 2.429|nec|non|Bentley|1889|Harl. 2699 (Lo)|apud Owen (in ora Burmanni)
 Ov. trist. 2.498|victi|ficti|Tanaquillus Faber|1659|eEt|p. 15 ('Sed hæc satis, ὦ φιλότης; alias plura.')
 Ov. trist. 2.542|irrequietus|irreprehensus|Alexander Riese|1874|Guelf. extr. 76.3 (Gu)|
 Ov. trist. 3.3.13|-tremis|externis|J. Ph. d'Orville|1732–51|AFHLuQObFf|
