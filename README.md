@@ -216,7 +216,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (197), Bentley (122), Madvig (80), Markland (80), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (197), Bentley (123), Madvig (80), Markland (80), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2728,6 +2728,9 @@ Ov. trist. 2.87|qua-|quosque|Rudolf Ehwald|1884|Bodl. Canon. Lat. I (O)|'collato
 Ov. trist. 2.109|mal-|meus|Bentley|1905|EVb|
 Ov. trist. 2.138|parca-|paucaque|Daniel Heinsius|1629|Leid. B. P. L. 177 (K)|
 Ov. trist. 2.175|tui|tui ’s|Alois Goldbacher|1904|Bern. 478 (Be)|Wien. Stud.
+Ov. trist. 2.251|ec-|numquid|Petrus Francius|1837|BlBe|apud Merkel
+Ov. trist. 2.281|q. multis/multi q.|multis quam|Alexander Riese|1874|Bern. 478 (Be)|
+Ov. trist. 2.285|in hac|in hoc|Bentley|1905|AGHLuMPV|
 Ov. trist. 2.296|viro|vir|Bentley|1722–3|Laur. Marc. 223 (M)|per litt. ad Burmann; a. c.
 Ov. trist. 2.345|-via|lascivas|Pieter Burman I|1727|HP|
 Ov. trist. 2.363|vino|Baccho|Nicolaus Heinsius|1661|Goth. membr. II. 122 (D)|
