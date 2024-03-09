@@ -2117,7 +2117,7 @@ Hor. carm. 1.15.36|Iliacas|Pergameas|Peter van Os|1500|pauci codd. (Peerlkamp)|
 Hor. carm. 1.20.5|ca-|clare|Denys Lambin|1561|cod. Reg. Soc. Bentleii|
 Hor. carm. 1.20.10|tu|tum|Ludwig Doederlein|1837|schol. sat. 2.2.48|
 Hor. carm. 1.31.3|-ae|optimas|Markland|1728|cod. Torrentii|ad Stat. silv. 4.6.65 ('ubi minus concinne vulgo legitur optimae')
-Hor. carm. 1.31.15|-unt|pascant|Tanaquillus Faber|1671|cod. Reg. Soc. Bentleii|
+Hor. carm. 1.31.15|-unt|pascant|Tanaquillus Faber|1671|cod. Reg. Soc. Bentleii|'qui faisoit autant gloire de sa pauvreté que de sa profession'
 Hor. carm. 2.11.19|-guet|restinguit|F. H. Bothe|1820|Reg. lat. 1703 (R)|
 Hor. carm. 2.14.27|-o|superbus|Caspar von Barth|1624|corr. Vat. A (Fea)|
 Hor. carm. 3.8.26|parce|parte|Matthaeus Bonfinis|1518|v et cod. Battel. Bentleii|
@@ -2701,7 +2701,7 @@ Ov. trist. 1.3.43|pros-|adstrata|Nicolaus Heinsius|1661|GBnRe|
 Ov. trist. 1.5.53|esset|aere|Daniel Heinsius|1629|codd. Heinsii et Bersmanni|
 Ov. trist. 1.8.7|-am|negabant|S. G. Owen|1889|BlLn|
 Ov. trist. 1.8.35|aequoreos|Aeolios|Johannes Schrader|1776|Guelf. Gud. lat. 192 (G)|m. sec.
-Ov. trist. 1.8.45|non|nunc|Tanaquillus Faber|1659|LuMOb|p. 77; 'qui faisoit autant gloire de sa pauvreté que de sa profession'
+Ov. trist. 1.8.45|non|nunc|Tanaquillus Faber|1659|LuMOb|p. 77
 Ov. trist. 1.9.27|-ae|Orestis|Rudolf Ehwald|1884|Paris. lat. 8465|
 Ov. trist. 1.9.40|pro sensu|processu|Pieter Burman I|1727|Laur. Marc. 223 (M)|
 Ov. trist. 1.10.24|-liquit|relegit|Jacob Micyllus|1543–9|Bodl. B. N. Rawl. 107 (Od)|
