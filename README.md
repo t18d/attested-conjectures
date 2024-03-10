@@ -2718,14 +2718,14 @@ Ov. trist. 1.11.7|quod|quid|William Willymott|1705|Vat. lat. 2787 (Vb)|
 Ov. trist. 1.11.42|minas|manus|Nicolaus Heinsius|1661|Berol. lat. oct. 67 (Bn)|
 Ov. trist. 2.21|-et|leniat|Bentley|1889|BBnLd|apud Owen (in ora Heinsii)
 Ov. trist. 2.66|multa|certa|A. S. Wilkins|1889|Zulich. (Z)|apud Owen
-Ov. trist. 2.69|-is|Iovi|Georgius Merula|1489|Harl. 2699 (Lo)|a.c.
+Ov. trist. 2.69|-is|Iovi|Georgius Merula|1489|Loac|
 Ov. trist. 2.79|ne … quae te etc.|de … cum te|Rudolf Merkel|1837|Va2|editing from prison
 Ov. trist. 2.87|qua-|quosque|Rudolf Ehwald|1884|Bodl. Canon. Lat. I (O)|'collato Florentiae codice Marciano'
 Ov. trist. 2.138|parca-|paucaque|Daniel Heinsius|1629|Leid. B. P. L. 177 (K)|
 Ov. trist. 2.175|tui|tui ’s|Alois Goldbacher|1904|Bern. 478 (Be)|Wien. Stud.
 Ov. trist. 2.251|ec-|numquid|Petrus Francius|1837|BlBe|apud Merkel
 Ov. trist. 2.281|q. multis/multi q.|multis quam|Alexander Riese|1874|Bern. 478 (Be)|
-Ov. trist. 2.296|viro|vir|Bentley|1722–3|Laur. Marc. 223 (M)|per litt. ad Burmann; a.c.
+Ov. trist. 2.296|viro|vir|Bentley|1722–3|Mac|per litt. ad Burmann
 Ov. trist. 2.345|-via|lascivas|Pieter Burman I|1727|HP|
 Ov. trist. 2.363|vino|Baccho|Nicolaus Heinsius|1661|Goth. membr. II. 122 (D)|
 Ov. trist. 2.395|-em|Oresten|Nicolaus Heinsius|1661|Vat. Ottob. lat. 1469 (Ob)|in textu
@@ -2777,12 +2777,14 @@ Ov. trist. 5.3.24|dec-|discolor|Daniel Heinsius|1629|DEDiFf|p. 405
 Ov. trist. 5.3.43|-es|releua|Nicolaus Heinsius|1661|Bern. 478 (Be)|
 Ov. trist. 5.3.55|-or|uenerer|E. J. Kenney|1967|Goth. membr. II. 122 (D)|apud Luck; v.l.
 Ov. trist. 5.4.14|dol-|docenda|Pieter Burman I|1727|Vat. Ottob. lat. 1469 (Ob)|
-Ov. trist. 5.5.3|-at|egerit|Nicolaus Heinsius|1661|Bern. 478 (Be)|a.c.
+Ov. trist. 5.5.3|-at|egerit|Nicolaus Heinsius|1661|Beac|
 Ov. trist. 5.6.35|labo-|malorum|Tanaquillus Faber|1659|BDFGOb|p. 230
 Ov. trist. 5.7.17|mor-|Martis|Nicolaus Heinsius|1661|Goth. membr. II. 122 (D)|v.l.
-Ov. trist. 5.7b.25||(incipit)|Nicolaus Heinsius|1661|Berol. lat. oct. 67 (Bn)|
+Ov. trist. 5.7.24|& t.|ut tamen|Daniel Heinsius|1629|Paris. lat. 8254 (R)|p. 406
+Ov. trist. 5.7.25||(incipit)|Nicolaus Heinsius|1727|Berol. lat. oct. 67 (Bn)|apud Burmannum
 Ov. trist. 5.8.17|manet|nitet|Petrus Francius|1837|Paris. lat. 7647 et 17903|apud Merkel
-Ov. trist. 5.8.30|roganda|petenda|Tanaquillus Faber|1659|Berol. Diez. 20 (Bl)|pp. 230–1
+Ov. trist. 5.8.30|r. petam|roganda putat|P. T. Verpoorten|1712|Bern. 478 (Be)|v.l.
+Ov. trist. 5.9.25|q. e. iam|se quamuis est|Andrea Navagero|1515–16|Berol. Diez. Β. Santen. 1 (B)|
 Ov. trist. 5.10.12|sunt-|stantque|Housman|1890|LtLu|CR 4 (1890) 340–2
 Ov. trist. 5.10.12|dura|longa|J. Ph. d'Orville|1732–51|Goth. membr. II. 122 (D)|v.l.
 P.Oxy. II 266.15|[ἀν]αζυγήν|[δι]α-|Edgar-Hunt|1932|P.Oxy. XLIX 3491|Sel.Pap. I 7.15
