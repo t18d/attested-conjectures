@@ -216,7 +216,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (200), Bentley (125), Madvig (80), Markland (80), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (196), Bentley (125), Madvig (80), Markland (80), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2721,12 +2721,10 @@ Ov. trist. 2.66|multa|certa|A. S. Wilkins|1889|Zulich. (Z)|apud Owen
 Ov. trist. 2.69|-is|Iovi|Georgius Merula|1489|Harl. 2699 (Lo)|a.c.
 Ov. trist. 2.79|ne … quae te etc.|de … cum te|Rudolf Merkel|1837|Va2|editing from prison
 Ov. trist. 2.87|qua-|quosque|Rudolf Ehwald|1884|Bodl. Canon. Lat. I (O)|'collato Florentiae codice Marciano'
-Ov. trist. 2.138|parca-|paucaque|Daniel Heinsius|1629|Leid. B. P. L. 177 (K)|
 Ov. trist. 2.175|tui|tui ’s|Alois Goldbacher|1904|Bern. 478 (Be)|Wien. Stud.
 Ov. trist. 2.251|ec-|numquid|Petrus Francius|1837|BlBe|apud Merkel
 Ov. trist. 2.281|q. multis/multi q.|multis quam|Alexander Riese|1874|Bern. 478 (Be)|
 Ov. trist. 2.296|viro|vir|Bentley|1722–3|Laur. Marc. 223 (M)|per litt. ad Burmann; a.c.
-Ov. trist. 2.333|-es|gigantas|Nicolaus Heinsius|1661|Bern. 405 (Br)|in textu
 Ov. trist. 2.345|-via|lascivas|Pieter Burman I|1727|HP|
 Ov. trist. 2.363|vino|Baccho|Nicolaus Heinsius|1661|Goth. membr. II. 122 (D)|
 Ov. trist. 2.395|-em|Oresten|Nicolaus Heinsius|1661|Vat. Ottob. lat. 1469 (Ob)|in textu
@@ -2744,7 +2742,6 @@ Ov. trist. 3.1.32|sator|stator|Poliziano|1661|Bodl. Douce 146 (O6)|apud Heinsium
 Ov. trist. 3.3.13|-tremis|externis|J. Ph. d'Orville|1732–51|AFHLuQObFf|
 Ov. trist. 3.3.21|s. i. -am -aque|si iam deficiat supresso|Nicolaus Heinsius|1661|Paris. Genouef. 2408 (C)|s.l. + p.c.
 Ov. trist. 3.3.57|quod|quà|Albertinus Mussatus|1636|Edinb. NLS Adu. Ms 18.2.9 (e)|p. 95
-Ov. trist. 3.3.82|tuis|suis|Nicolaus Heinsius|1661|Bern. 405 (Br)|
 Ov. trist. 3.5.3|ni|nec|Bentley|1889|Laur. Marc. 223 (M)|apud Owen (in ora Burmanni)
 Ov. trist. 3.5.40|praeclari-|Darîique|Nicolaus Heinsius|1661|Vat. Ottob. lat. 1469 (Ob)|
 Ov. trist. 3.5.46|erat|habet|J. B. Hall|1990|GomgPsvl|Euphros.
@@ -2753,11 +2750,9 @@ Ov. trist. 3.6.7|ca-|raris|Nicolaus Heinsius|1661|Divion. 497 (Di)|
 Ov. trist. 3.6.16|b. -unt|bonae claudent|Rudolf Ehwald|1884|Vat. Ottob. lat. 1469 (Ob)|
 Ov. trist. 3.7.27|exem-|extemplo|Nicolaus Heinsius|1661|Vat. Ottob. lat. 1469 (Ob)|
 Ov. trist. 3.7.27|quia|quo|Nicolaus Heinsius|1661|Turon. 879 (T)|
-Ov. trist. 3.7.32|sacr-|castra|Nicolaus Heinsius|1661|Bern. 405 (Br)|v.l.
 Ov. trist. 3.7.41|quod-|cuicumque|Nicolaus Heinsius|1661|Laur. Plut. 36.33 (Lr)|
 Ov. trist. 3.10.40|summ-|firma|J. B. Hall|1988|Paris. lat. 15143 (Ps)|Euphros.
 Ov. trist. 3.10.50|sed|et|Nicolaus Heinsius|1661|Paris. lat. 8239 (E)|
-Ov. trist. 3.11.1|si quis es|quisquis es|Nicolaus Heinsius|1661|Bern. 405 (Br)|
 Ov. trist. 4.1.19|pet-|tenentem|Lachmann|1855|Vat. Chis. lat. Η VI 205 (Vd)|ad Lucr. 5.396
 Ov. trist. 4.1.90|accip-|excipiat|Petrus Francius|1727|Paris. lat. 8239 (E)|apud Burmannum
 Ov. trist. 4.2.23|uers-|mœstos|Nicolaus Heinsius|1661|Paris. lat. 15143 (Ps)|v.l.
