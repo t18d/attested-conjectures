@@ -2736,6 +2736,7 @@ Ov. trist. 2.363|vino|Baccho|Nicolaus Heinsius|1661|Goth. membr. II. 122 (D)|
 Ov. trist. 2.395|-em|Oresten|Nicolaus Heinsius|1661|Vat. Ottob. lat. 1469 (Ob)|in textu
 Ov. trist. 2.419|text-/mixt-|iuncta|Francesco Vivona|1899|Paris. lat. 8255 (Re)|p. xxiv
 Ov. trist. 2.429|nec|non|Bentley|1889|Harl. 2699 (Lo)|apud Owen (in ora Burmanni)
+Ov. trist. 2.437|e. q. l.|et quorum in libris|Petrus Francius|1837|CD|apud Merkel
 Ov. trist. 2.498|victi|ficti|Tanaquillus Faber|1659|eEt|p. 15 ('Sed hæc satis, ὦ φιλότης; alias plura.')
 Ov. trist. 2.542|irrequietus|irreprehensus|Alexander Riese|1874|Guelf. extr. 76.3 (Gu)|
 Ov. trist. 3.3.13|-tremis|externis|J. Ph. d'Orville|1732–51|AFHLuQObFf|
