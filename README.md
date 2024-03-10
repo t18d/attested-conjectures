@@ -2761,7 +2761,11 @@ Ov. trist. 4.4.47|-at|uiuam|Bentley|1889|Antuerp. Plant. lat. D. 68 (Mo)|apud Ow
 Ov. trist. 4.4.79|-is|sermonum|Rudolf Ehwald|1884|Mac|
 Ov. trist. 4.4.85|atque|aque|S. G. Owen|1889|frag. Trevir. (Tr)|
 Ov. trist. 4.6.48|-a|male|Nicolaus Heinsius|1661|Vat. lat. 2787 (Vb)|
-Ov. trist. 4.8.43|-is/-os|Delphi|Scaliger|n.d.|ABOb|
+Ov. trist. 4.7.12|-eis|anguinis|Isaac Voss|1691|Marc. 223 (Ma)|p. 215; m. rec.
+Ov. trist. 4.8.6|me/cum|iam|Alexander Riese|1874|Turon. 880 (Tu)|a.c.
+Ov. trist. 4.8.43|-is/-os|Delphi|Scaliger|1661|ABOb|apud Heinsium ('in ora codicis sui')
+Ov. trist. 4.9.7|-o|nostri|Petrus Francius|1727|G2Psvl|apud Burmannum
+Ov. trist. 4.10.21|tent-/carpis|captas|Pieter Burman I|1727|Bern. 478 (Be)|v.l.
 Ov. trist. 5.1.79|-o/-ic/-os|istuc|Rudolf Merkel|1837|Go2|
 Ov. trist. 5.2.21|-rbi|acervo|Nicolaus Heinsius|1661|Turon. 879 (T)|
 Ov. trist. 5.4.14|dol-|docenda|Pieter Burman I|1727|Vat. Ottob. lat. 1469 (Ob)|
