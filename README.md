@@ -216,7 +216,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (193), Bentley (126), Madvig (80), Markland (80), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (194), Bentley (126), Madvig (80), Markland (80), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2583,7 +2583,7 @@ Ov. am. 1.8.84|-e u. -e/-a u. -a|illa uel ille|J. Willis|1972|Lond. Bibl. Brit. 
 Ov. am. 2.1.33|-es|facie|Nicolaus Heinsius|1658|Rom. Casan. 3227 (Ca2)|
 Ov. am. 2.2.37|-es|obiciens|Nicolaus Heinsius|1658|Bodl. Auct. F. I. 17|
 Ov. am. 2.6.28|fiant/fient|fiunt|G. Némethy|1922|Turon. 879 (T)|
-Ov. am. 2.7.25|quae e.|quod erat|Kenney|1958|y|
+Ov. am. 2.7.25|quae e.|quod erat|E. J. Kenney|1958|y|
 Ov. am. 2.10.33|-undo|arando|Nicolaus Heinsius|1658|Hamilt. 471 (Y)|
 Ov. am. 2.11.9|quid|quam|G. Némethy|1922|Francof. Barth. 110 (F)|
 Ov. am. 2.13.17|dedit|sedit|Nicolaus Heinsius|1658|Lent. 329 (Le)|
@@ -2603,7 +2603,7 @@ Ov. ars 1.126|pudor|timor|Bentley|1905|RYS2L²|
 Ov. ars 1.133|-ia|sollemni|Madvig|1873|Hamilt. 471 (Y)|
 Ov. ars 1.225|facit|facito|Nicolaus Heinsius|1658|y|
 Ov. ars 1.303|quod|quo|Nicolaus Heinsius|1658|y|
-Ov. ars 1.490|quam|qua|Kenney|1959|FT²|
+Ov. ars 1.490|quam|qua|E. J. Kenney|1959|FT²|
 Ov. ars 1.558|rege|reget|Rudolf Merkel|1852|y|
 Ov. ars 1.581|-es/-as|bibis|C. Marchesi|1918|Bodl. Canon. Class. Lat. 18 (O6)|
 Ov. ars 1.730|multi|uultu|Nicolaus Heinsius|1658|Tolet. 102–14 (To2)|
@@ -2766,12 +2766,16 @@ Ov. trist. 4.8.6|me/cum|iam|Alexander Riese|1874|Turon. 880 (Tu)|a.c.
 Ov. trist. 4.8.43|-is/-os|Delphi|Scaliger|1661|ABOb|apud Heinsium ('in ora codicis sui')
 Ov. trist. 4.9.7|-o|nostri|Petrus Francius|1727|G2Psvl|apud Burmannum
 Ov. trist. 4.10.21|tent-/carpis|captas|Pieter Burman I|1727|Bern. 478 (Be)|v.l.
-Ov. trist. 4.10.30|et|set|Alexander Riese|1874|Paris. Genouef. 2408 (C)|
+Ov. trist. 4.10.30|et|set|Alexander Riese|1874|Paris. Genovef. 2408 (C)|
 Ov. trist. 5.1.78|quo-|quaque|E. J. Kenney|1967|Harl. 2699 (Lo)|apud Luck
 Ov. trist. 5.1.79|-o/-ic/-os|istuc|Rudolf Merkel|1837|Go2|
 Ov. trist. 5.2.21|acerbi/acerui|aceruo|Nicolaus Heinsius|1661|Turon. 879 (T)|
 Ov. trist. 5.2.59|-que haec|quae|Bartholomaeus Merula|1499|Laur. 91 sup. 25 (Lu)|
 Ov. trist. 5.2.67|lingua|turba|Johannes Schrader|1837|Harl. 2699 (Lo)|apud Merkel
+Ov. trist. 5.3.20|quo|quae|J. B. Hall|1988|Paris. Bibl. Univ. 1170 (P6)|Euphros.
+Ov. trist. 5.3.24|dec-|discolor|Daniel Heinsius|1629|DEDiFf|p. 405
+Ov. trist. 5.3.43|-es|releua|Nicolaus Heinsius|1661|Bern. 478 (Be)|
+Ov. trist. 5.3.55|-or|uenerer|E. J. Kenney|1967|Goth. membr. II. 122 (D)|apud Luck; v.l.
 Ov. trist. 5.4.14|dol-|docenda|Pieter Burman I|1727|Vat. Ottob. lat. 1469 (Ob)|
 Ov. trist. 5.5.3|-at|egerit|Nicolaus Heinsius|1661|Bern. 478 (Be)|a.c.
 Ov. trist. 5.6.35|labo-|malorum|Tanaquillus Faber|1659|BDFGOb|p. 230
