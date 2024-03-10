@@ -244,8 +244,8 @@ Aesch. PV 691–3|δείματ'|del.|Hermann|1852|Ambros. gr. G 56 (D)|
 Aesch. Sept. 322|Ἀΐδαι|ἄϊδι|Turnebus|1552|Monac. gr. 565 (Uc)|
 Aesch. Supp. 44|-αις|ἐπιπνοίας|Francesco Robortello|1552|schol. vetus (Σ)|
 Aesch. Supp. 79|ηβαι|ἥβαν|C. G. Schütz|1794|schol. vetus (Σ)|
-Aesch. Supp. 459|-εῖ|καλή|Turnebus|1552|Bonon. Bibl. Univ. 2271 (Mb)|a. c.
-Aesch. Supp. 570|τὰν|τὰ|Hermann|1852|Guelf. Gud. gr. 4° 88 (Mc)|a. c.
+Aesch. Supp. 459|-εῖ|καλή|Turnebus|1552|Bonon. Bibl. Univ. 2271 (Mb)|a.c.
+Aesch. Supp. 570|τὰν|τὰ|Hermann|1852|Guelf. Gud. gr. 4° 88 (Mc)|a.c.
 Aesch. T 1.5|-ουϲ|Ἀριϲτοφάνει|Bergk|1883|BXc|Hermes 18 (1883) 483
 Aesch. T 56b.2|καταθ-|καθέϲειϲ|Casaubon|1600|Marc. gr. 468 (V)|Animadv. 260, 24 sq.
 Aesch. fr. 191.2|μέγα πῇ δ'|μέγαν ἠδ᾽|Isaac Voss|1629|Anon. B|
@@ -1556,7 +1556,7 @@ Dem. 52.19|ἤ|εἴ|Denys Lambin|1570|Ambros. D 112 sup. (D)|
 Dem. 52.29|-λειφ-|ἀπαληλιφέναι|Bekker|1823|Ambros. D 112 sup. (D)|
 Dem. 54.28|λε-|ληχθῆναι|Hieronymus Wolf|1604|Monac. gr. 485 (A)|?
 Dem. 57.15|εἴεσαν/εἴησαν|ἤεσαν|G. H. Schaefer|1827|Marc. gr. 416 (F)|
-Dem. 57.67|ταῦτά|ταὐτά|Denys Lambin|1570|Dac|Lambin p. c.
+Dem. 57.67|ταῦτά|ταὐτά|Denys Lambin|1570|Dac|Lambin p.c.
 Dem. 58.10|-ῆκεν|προσήκει|Thalheim|n.d.|Ambros. D 112 sup. (D)|
 Dem. 59.40|ἀήτης|αἰήτης|Reiske|1774–5|Coislin. 339 (v)|
 Dem. 59.43|ἡμᾶς|ὑμᾶς|G. H. Schaefer|1827|Ambros. D 112 sup. (D)|
@@ -2074,7 +2074,7 @@ Hom. Il. 23.198|ὠκέα δ'|ὦκα δὲ|Bentley|1730s|P.Grenf. II 4|
 Hom. Il. 23.535|δ᾽ ἐν ᾿Αργείοις|δ]᾽ εν Αχαιοισιν|Nauck|1877|BKT V/I 5|
 Hom. Il. 24.192|κεχάνδει|κεχ]όνδει|August Fick|1886|P.Lond.Lit. 27|
 Hom. Od. 1.23|-ας|Αἰθίοπες|Bentley|1894|Str. 6.30 etc.|J. Phil. 22
-Hom. Od. 1.70|ὅου|ὅο|Philipp Buttmann|n.d.|Heidelb. Palat. gr. 45 (P)|a. c.
+Hom. Od. 1.70|ὅου|ὅο|Philipp Buttmann|n.d.|Heidelb. Palat. gr. 45 (P)|a.c.
 Hom. Od. 1.112|προτίθεντο, ἰδὲ|τ', ἠδὲ|Bentley|1894|CR10 (Leaf)|
 Hom. Od. 2.247|ἑὸν|(δώμαθ’) ἑὰ|Bentley|1894|Vat. 1627 (R7)|
 Hom. Od. 4.775|-ας|πάντες|Bentley|1894|Vindob. phil. gr. 56 (Y)|
@@ -2695,7 +2695,7 @@ Ov. trist. 1.1.17|-i|illic|Justus Zinzerling|1610|O2|
 Ov. trist. 1.1.43|ab-|obest|Petrus Francius|1727|Repc|apud Burmannum; 'in ora exemplaris quo usus est' (Merkel)
 Ov. trist. 1.1.59|-as|uenies|Nicolaus Heinsius|1661|Berol. lat. oct. 67 (Bn)|p. 226
 Ov. trist. 1.1.96|&|ut|Petrus Francius|1727|Pal. lat. 910 (P)|apud Burmannum
-Ov. trist. 1.1.121|namque ea|nam quae|Georg Luck|1959|Haun. Gl. Kgl. S. 2014 (F)|Philol.; p. c.
+Ov. trist. 1.1.121|namque ea|nam quae|Georg Luck|1959|Haun. Gl. Kgl. S. 2014 (F)|Philol.; p.c.
 Ov. trist. 1.2.63|prome-|commerui|Nicolaus Heinsius|1661|Lond. Mus. Brit. Add. 18384 (Ln)|
 Ov. trist. 1.2.78|non mihi|nunc, mihi|Daniel Heinsius|1629|Turon. 879 (T)|
 Ov. trist. 1.2.90|mori|mei|Nicolaus Heinsius|1661|Bodl. Canon. Lat. I (O)|
@@ -2722,14 +2722,14 @@ Ov. trist. 1.11.42|minas|manus|Nicolaus Heinsius|1661|Berol. lat. oct. 67 (Bn)|
 Ov. trist. 2.16|icta|ista|Nicolaus Heinsius|1661|Paris. lat. 7993 (Pu)|
 Ov. trist. 2.21|-et|leniat|Bentley|1889|BBnLd|apud Owen (in ora Heinsii)
 Ov. trist. 2.66|multa|certa|A. S. Wilkins|1889|Zulich. (Z)|apud Owen
-Ov. trist. 2.69|-is|Iovi|Georgius Merula|1489|Harl. 2699 (Lo)|a. c.
+Ov. trist. 2.69|-is|Iovi|Georgius Merula|1489|Harl. 2699 (Lo)|a.c.
 Ov. trist. 2.79|ne … quae te etc.|de … cum te|Rudolf Merkel|1837|Va2|editing from prison
 Ov. trist. 2.87|qua-|quosque|Rudolf Ehwald|1884|Bodl. Canon. Lat. I (O)|'collato Florentiae codice Marciano'
 Ov. trist. 2.138|parca-|paucaque|Daniel Heinsius|1629|Leid. B. P. L. 177 (K)|
 Ov. trist. 2.175|tui|tui ’s|Alois Goldbacher|1904|Bern. 478 (Be)|Wien. Stud.
 Ov. trist. 2.251|ec-|numquid|Petrus Francius|1837|BlBe|apud Merkel
 Ov. trist. 2.281|q. multis/multi q.|multis quam|Alexander Riese|1874|Bern. 478 (Be)|
-Ov. trist. 2.296|viro|vir|Bentley|1722–3|Laur. Marc. 223 (M)|per litt. ad Burmann; a. c.
+Ov. trist. 2.296|viro|vir|Bentley|1722–3|Laur. Marc. 223 (M)|per litt. ad Burmann; a.c.
 Ov. trist. 2.333|-es|gigantas|Nicolaus Heinsius|1661|Bern. 405 (Br)|in textu
 Ov. trist. 2.345|-via|lascivas|Pieter Burman I|1727|HP|
 Ov. trist. 2.363|vino|Baccho|Nicolaus Heinsius|1661|Goth. membr. II. 122 (D)|
@@ -2760,7 +2760,7 @@ Ov. trist. 5.1.76|-io/-ii|ingeniis|Nicolaus Heinsius|1661|Guelf. Gud. lat. 192 (
 Ov. trist. 5.1.79|-o/-ic/-os|istuc|Rudolf Merkel|1837|Go2|
 Ov. trist. 5.2.21|-rbi|acervo|Nicolaus Heinsius|1661|Turon. 879 (T)|
 Ov. trist. 5.4.14|dol-|docenda|Pieter Burman I|1727|Vat. Ottob. lat. 1469 (Ob)|
-Ov. trist. 5.5.3|-at|egerit|Nicolaus Heinsius|1661|Bern. 478 (Be)|a. c.
+Ov. trist. 5.5.3|-at|egerit|Nicolaus Heinsius|1661|Bern. 478 (Be)|a.c.
 Ov. trist. 5.6.35|labo-|malorum|Tanaquillus Faber|1659|BDFGOb|p. 230
 Ov. trist. 5.7.17|mor-|Martis|Nicolaus Heinsius|1661|Goth. membr. II. 122 (D)|v.l.
 Ov. trist. 5.7b.25||(incipit)|Nicolaus Heinsius|1661|Berol. lat. oct. 67 (Bn)|
@@ -3832,7 +3832,7 @@ Soph. Ant. 851|οὔτ ̓ ἐν|οὔτε|Erfurdt|1802–25|Urb. gr. 141 (S)|
 Soph. Ant. 859|οἶκτον|οἶτον|Brunck|1786|Kpc|
 Soph. Ant. 938|πατρογενεῖς|προγενεῖς|Valckenaer|pre-1775|Laur. 32. 9 (L)|
 Soph. Ant. 989|-ες|βλέποντε|Moriz Schmidt|1871–80|LpcKa|
-Soph. Ant. 1035|δ ̓|del.|Brunck|1786|Laur. 31.1|a. c.
+Soph. Ant. 1035|δ ̓|del.|Brunck|1786|Laur. 31.1|a.c.
 Soph. Ant. 1069|κατῴκ-|κατοικίσας|Henrik van Herwerden|n.d.|Laur. 31.10 (K)|
 Soph. Ant. 1081|-γνι-|καθήγισαν|Burton|n.d.|VacZc|
 Soph. Ant. 1089|-ωτέραν|ἡσυχαιτέραν|G. H. Schaefer|n.d.|Zg et Laur. 31.1|
