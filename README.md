@@ -216,7 +216,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (202), Bentley (125), Madvig (80), Markland (80), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (200), Bentley (125), Madvig (80), Markland (80), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2710,14 +2710,12 @@ Ov. trist. 1.8.35|aequoreos|Aeolios|Johannes Schrader|1776|Guelf. Gud. lat. 192 
 Ov. trist. 1.8.45|non|nunc|Tanaquillus Faber|1659|LuMOb|p. 77
 Ov. trist. 1.9.27|-ae|Orestis|Rudolf Ehwald|1884|Paris. lat. 8465|
 Ov. trist. 1.9.40|pro sensu|processu|Pieter Burman I|1727|Laur. Marc. 223 (M)|
-Ov. trist. 1.9.65|amici … c.|amicam … causam|Nicolaus Heinsius|1661|Francof. Barth. 110 (Ff)|
 Ov. trist. 1.10.24|-liquit|relegit|Jacob Micyllus|1543–9|Bodl. B. N. Rawl. 107 (Od)|
 Ov. trist. 1.10.29|inque|inde|Petrus Francius|1837|codd. Burmanni et Bersmanni|apud Merkel
 Ov. trist. 1.10.49|-amus|petantur|Nicolaus Heinsius|1661|Vat. Ottob. lat. 1469 (Ob)|
 Ov. trist. 1.11.3|-o|gelidus|William Willymott|1705|Vat. lat. 2787 (Vb)|
 Ov. trist. 1.11.7|quod|quid|William Willymott|1705|Vat. lat. 2787 (Vb)|
 Ov. trist. 1.11.42|minas|manus|Nicolaus Heinsius|1661|Berol. lat. oct. 67 (Bn)|
-Ov. trist. 2.16|icta|ista|Nicolaus Heinsius|1661|Paris. lat. 7993 (Pu)|
 Ov. trist. 2.21|-et|leniat|Bentley|1889|BBnLd|apud Owen (in ora Heinsii)
 Ov. trist. 2.66|multa|certa|A. S. Wilkins|1889|Zulich. (Z)|apud Owen
 Ov. trist. 2.69|-is|Iovi|Georgius Merula|1489|Harl. 2699 (Lo)|a.c.
