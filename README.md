@@ -216,7 +216,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (200), Bentley (124), Madvig (80), Markland (80), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (204), Bentley (124), Madvig (80), Markland (80), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2755,6 +2755,10 @@ Ov. trist. 3.5.46|erat|habet|J. B. Hall|1990|GomgPsvl|Euphros.
 Ov. trist. 3.5.55|hoc|hos|Alexander Riese|1874|Paris. lat. 15143 (Ps)|
 Ov. trist. 3.6.7|ca-|raris|Nicolaus Heinsius|1661|Divion. 497 (Di)|
 Ov. trist. 3.6.16|b. -unt|bonae claudent|Rudolf Ehwald|1884|Vat. Ottob. lat. 1469 (Ob)|
+Ov. trist. 3.7.27|exem-|extemplo|Nicolaus Heinsius|1661|Vat. Ottob. lat. 1469 (Ob)|
+Ov. trist. 3.7.27|quia|quo|Nicolaus Heinsius|1661|Turon. 879 (T)|
+Ov. trist. 3.7.32|sacr-|castra|Nicolaus Heinsius|1661|Bern. 405 (Br)|v.l.
+Ov. trist. 3.7.41|quod-|cuicumque|Nicolaus Heinsius|1661|Laur. Plut. 36.33 (Lr)|
 Ov. trist. 3.11.1|si quis es|quisquis|Nicolaus Heinsius|1661|Bern. 405 (Br)|
 Ov. trist. 4.3.77|iacet|vacet|Nicolaus Heinsius|1661|Haun. Gl. Kgl. S. 2013 (Go)|
 Ov. trist. 4.4.85|atque|aque|S. G. Owen|1889|Fragm. Trevir. (Tr)|
