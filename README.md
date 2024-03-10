@@ -216,7 +216,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (207), Bentley (125), Madvig (80), Markland (80), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (202), Bentley (125), Madvig (80), Markland (80), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2700,7 +2700,6 @@ Ov. trist. 1.2.63|prome-|commerui|Nicolaus Heinsius|1661|Lond. Mus. Brit. Add. 1
 Ov. trist. 1.2.78|non mihi|nunc, mihi|Daniel Heinsius|1629|Turon. 879 (T)|
 Ov. trist. 1.2.90|mori|mei|Nicolaus Heinsius|1661|Bodl. Canon. Lat. I (O)|
 Ov. trist. 1.3.5|disc-|decedere|Gilbert Wakefield|1797|FacOb|ad Lucr. 5.1103
-Ov. trist. 1.3.43|pros-|adstrata|Nicolaus Heinsius|1661|GBnRe|
 Ov. trist. 1.3.45|adu-|auersos|Nicolaus Heinsius|1661|Vat. Ottob. lat. 1469 (Ob)|
 Ov. trist. 1.3.99|mor-|mali|Madvig|1873|Vat. lat. 2787 (Vb)|
 Ov. trist. 1.5.53|esset|aere|Daniel Heinsius|1629|codd. Heinsii et Bersmanni|
@@ -2763,16 +2762,12 @@ Ov. trist. 3.10.50|sed|et|Nicolaus Heinsius|1661|Paris. lat. 8239 (E)|
 Ov. trist. 3.11.1|si quis es|quisquis es|Nicolaus Heinsius|1661|Bern. 405 (Br)|
 Ov. trist. 4.1.19|pet-|tenentem|Lachmann|1855|Vat. Chis. lat. Η VI 205 (Vd)|ad Lucr. 5.396
 Ov. trist. 4.1.90|accip-|excipiat|Petrus Francius|1727|Paris. lat. 8239 (E)|apud Burmannum
-Ov. trist. 4.2.13|et|dent|Nicolaus Heinsius|1661|GH|s.l.
-Ov. trist. 4.2.18|paru-|rara|Nicolaus Heinsius|1661|Paris. lat. 8255 (Re)|v.l.
 Ov. trist. 4.2.23|uers-|mœstos|Nicolaus Heinsius|1661|Paris. lat. 15143 (Ps)|v.l.
 Ov. trist. 4.2.30|ist-|illo|R. G. Mayer|1995|Bern. 405 (Br)|apud Hall
 Ov. trist. 4.2.61–2|-it … -it|deducet … sinet|Bentley|1889|Berol. lat. oct. 67 (Bn)|apud Owen (in ora Burmanni)
 Ov. trist. 4.2.73|-et|ueniat|Nicolaus Heinsius|1661|BLn|
 Ov. trist. 4.4.85|atque|aque|S. G. Owen|1889|Fragm. Trevir. (Tr)|
-Ov. trist. 4.7.17|-es|Gigantas|Nicolaus Heinsius|1661|G2Obpc|
 Ov. trist. 4.8.43|-is/-os|Delphi|Scaliger|n.d.|ABOb|
-Ov. trist. 5.1.76|-io/-ii|ingeniis|Nicolaus Heinsius|1661|Guelf. Gud. lat. 192 (G)|
 Ov. trist. 5.1.79|-o/-ic/-os|istuc|Rudolf Merkel|1837|Go2|
 Ov. trist. 5.2.21|-rbi|acervo|Nicolaus Heinsius|1661|Turon. 879 (T)|
 Ov. trist. 5.4.14|dol-|docenda|Pieter Burman I|1727|Vat. Ottob. lat. 1469 (Ob)|
