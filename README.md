@@ -2786,7 +2786,9 @@ Ov. trist. 5.8.17|manet|nitet|Petrus Francius|1837|Paris. lat. 7647 et 17903|apu
 Ov. trist. 5.8.30|r. petam|roganda putat|P. T. Verpoorten|1712|Bern. 478 (Be)|v.l.
 Ov. trist. 5.9.25|q. e. iam|se quamuis est|Andrea Navagero|1515–16|Berol. Diez. Β. Santen. 1 (B)|
 Ov. trist. 5.10.12|sunt-|stantque|Housman|1890|LtLu|CR 4 (1890) 340–2
-Ov. trist. 5.10.12|dura|longa|J. Ph. d'Orville|1732–51|Goth. membr. II. 122 (D)|v.l.
+Ov. trist. 5.10.12|dura|longa|J. Ph. d'Orville|1889|Goth. membr. II. 122 (D)|apud Owen; v.l.
+Ov. trist. 5.10.41|si quid/siquidem|sceleris|Laurens van Santen|1837|Haun. Gl. Kgl. S. 2014 (F)|apud Merkel
+Ov. trist. 5.13.6|sed q.|ut quod|Johannes Schrader|1837|Haun. Gl. Kgl. S. 2014 (F)|apud Merkel
 P.Oxy. II 266.15|[ἀν]αζυγήν|[δι]α-|Edgar-Hunt|1932|P.Oxy. XLIX 3491|Sel.Pap. I 7.15
 Paneg. 2.12.2|-a|obliti|Johannes Livineius|1599|dett. (Galletier)|
 Paneg. 3.27.1|-int|mutauerunt|Wolfgang Jaeger|1779|P2 (teste Galletier)|
