@@ -216,7 +216,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (199), Bentley (122), Madvig (80), Markland (80), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (199), Bentley (124), Madvig (80), Markland (80), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2690,7 +2690,7 @@ Ov. rem. 521|ubi sapientia|ubi si patientia|Madvig|1873|Hamilt. 471 (Y)|
 Ov. rem. 537|et f.|i fruere|Nicolaus Heinsius|1658|Eton. 150 (E)|
 Ov. rem. 704|utque facis|tuque favens|Goold|1965|Paris. lat. 7994 (P4)|
 Ov. rem. 804|experi-|expediere|Nicolaus Heinsius|1658|Paris. lat. 8245 (P6)|
-Ov. trist. 1.1.14|-at|sentiet|Jacobus Roverius|n.d.|BDFT|
+Ov. trist. 1.1.14|-at|sentiet|Jacobus Roverus|1837|BDFT|apud Merkel ('ante Heinsium')
 Ov. trist. 1.1.17|-i|illic|Justus Zinzerling|1610|O2|
 Ov. trist. 1.1.43|ab-|obest|Petrus Francius|1727|Repc|apud Burmannum; 'in ora exemplaris quo usus est' (Merkel)
 Ov. trist. 1.1.59|-as|uenies|Nicolaus Heinsius|1661|Berol. lat. oct. 67 (Bn)|p. 226
@@ -2737,8 +2737,13 @@ Ov. trist. 2.395|-em|Oresten|Nicolaus Heinsius|1661|Vat. Ottob. lat. 1469 (Ob)|i
 Ov. trist. 2.419|text-/mixt-|iuncta|Francesco Vivona|1899|Paris. lat. 8255 (Re)|p. xxiv
 Ov. trist. 2.429|nec|non|Bentley|1889|Harl. 2699 (Lo)|apud Owen (in ora Burmanni)
 Ov. trist. 2.437|e. q. l.|et quorum in libris|Petrus Francius|1837|CD|apud Merkel
+Ov. trist. 2.472|est|erat|Bentley|1889|Lond. Bibl. Brit. Add. 21169 (Ld)|apud Owen (in ora Heinsii, Burmanni)
+Ov. trist. 2.487|fusc-|fucandi|Jacobus Roverus|1727|GV|apud Burmannum
+Ov. trist. 2.495|-um|unus|Bentley|1889|Mac|apud Owen p. 229 (in ora Heinsii)
 Ov. trist. 2.498|victi|ficti|Tanaquillus Faber|1659|eEt|p. 15 ('Sed hæc satis, ὦ φιλότης; alias plura.')
 Ov. trist. 2.542|irrequietus|irreprehensus|Alexander Riese|1874|Guelf. extr. 76.3 (Gu)|
+Ov. trist. 2.551|scrip-|coeptum|Pieter Burman I|1727|exc. Vossii|
+Ov. trist. 2.567|-i|scriptis|Tanaquillus Faber|1659|LuMOb|p. 99 ('Et hæc quidem hactenus, Suauissime Chevræe; nam me plura scribere parantem opprimit tabellarius.')
 Ov. trist. 3.3.13|-tremis|externis|J. Ph. d'Orville|1732–51|AFHLuQObFf|
 Ov. trist. 3.3.82|tuis|suis|Nicolaus Heinsius|1661|Bern. 405 (Br)|
 Ov. trist. 3.5.3|ni|nec|Bentley|1889|Laur. Marc. 223 (M)|apud Owen (in ora Burmanni)
