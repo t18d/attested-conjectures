@@ -216,7 +216,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (196), Bentley (125), Madvig (80), Markland (80), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (222), Nicolaus Heinsius (195), Bentley (125), Madvig (80), Markland (80), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2740,7 +2740,6 @@ Ov. trist. 2.551|scrip-|coeptum|Pieter Burman I|1727|exc. Vossii|
 Ov. trist. 2.567|-i|scriptis|Tanaquillus Faber|1659|Laur. Marc. 223 (M)|p. 99 ('Et hæc quidem hactenus, Suauissime Chevræe; nam me plura scribere parantem opprimit tabellarius.')
 Ov. trist. 3.1.32|sator|stator|Poliziano|1661|Bodl. Douce 146 (O6)|apud Heinsium ('in ora sui exemplaris'); p.c.
 Ov. trist. 3.3.13|-tremis|externis|J. Ph. d'Orville|1732–51|AFHLuQObFf|
-Ov. trist. 3.3.21|s. i. -am -aque|si iam deficiat supresso|Nicolaus Heinsius|1661|Paris. Genouef. 2408 (C)|s.l. + p.c.
 Ov. trist. 3.3.57|quod|quà|Albertinus Mussatus|1636|Edinb. NLS Adu. Ms 18.2.9 (e)|p. 95
 Ov. trist. 3.5.3|ni|nec|Bentley|1889|Laur. Marc. 223 (M)|apud Owen (in ora Burmanni)
 Ov. trist. 3.5.40|praeclari-|Darîique|Nicolaus Heinsius|1661|Vat. Ottob. lat. 1469 (Ob)|
