@@ -4102,6 +4102,12 @@ Stat. Theb. 1.511|ult-|interioris|Johannes Schrader|1876|S J5 Z3pc Z6ul+|apud Ha
 Stat. Theb. 1.532|-aque … -e|taciteque … auri|Bernhard Deipser|1881|Bodl. Lincoln. 130 (n)|
 Stat. Theb. 1.532|-aque … -e|tacitaeque … auri|Alfred Klotz|1908|S3 U13pc|
 Stat. Theb. 1.544|aure-|perseus|Bentley|1876|R T|apud Haupt; s.l.
+Stat. Theb. 1.634|quis|quid|Gronovius|1653|Vat. lat. 3278 (Z19)|
+Stat. Theb. 1.653|len-|l(a)eue|Gronovius|1653|J4 s+|
+Stat. Theb. 1.659|di-|demitte|Gronovius|1653|O3 S2 U10+|
+Stat. Theb. 1.692|et|sed|Gronovius|1653|U5pc Z2|
+Stat. Theb. 2.2|pigr-|nigrae|Hendrik Frieseman|1786|Harl. 2665 (U1)|p. 215
+Stat. Theb. 2.102|non|nunc|Caspar von Barth|1664|Qpc E S4+|
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
 Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839–57|Paris. gr. 3012|
