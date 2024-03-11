@@ -670,7 +670,7 @@ Call. fr. 115.12|γυνή|ἔτραφεν|David Ruhnken|1761|P.Oxy. XVII 2080|
 Call. fr. 178.16|λεύχης|λέσχης|Henri Estienne|1566|P.Oxy. XI 1362|
 Call. fr. 178.33|ναυτιλίῃσιν ἥν|]λίης εἰ νῆιν|Nauck|s.xix ex.|P.Oxy. XI 1362|?
 Call. fr. 191.10|χάλκεον|Παγχαῖον|Bentley|1697|P.Oxy. XI 1363|
-Call. fr. 191.42|-ους|παρθένοις|Hemsterhuys|n.d.|P.Oxy. VII 1011|
+Call. fr. 191.42|-ους|παρθένοις|Hemsterhuis|n.d.|P.Oxy. VII 1011|
 Call. fr. 197.1|ὅπερ Φεραῖοϲ αἰνείων-|-αῖοϲαινίωνθὲοϲ|Wilamowitz|1905|P.Oxy. XVIII 2171|Herm. 40 p. 158
 Call. fr. 265|ἡληλ- κτλ.|εἰληλούθειν|Schneider|1870|Sud. codd. AGITVM|
 Call. fr. 272|Δεκελ-|δ᾽ ἐκλειόθεν|Bentley|1697|Et.Gen.|
@@ -2853,7 +2853,7 @@ Philo Ebr. 11|om.|τοῦ|Richter|n.d.|P.Oxy. IX 1173|[τ]ο̣υ
 Philo Ebr. 221|ἐπειδάν|ἐπειδάν δ'|Wendland|1897|P.Oxy. IX 1173|
 Philo Ebr. 221|οἰνηρεύσεις|οινηρυσει[ς|Turnebus|n.d.|P.Oxy. IX 1173|
 Philo Ebr. 222|μαρμάζει|μαιμᾷ|Mangey|n.d.|P.Oxy. IX 1173|μαιμαῑ
-Philox.Gramm. 129.6|Νικωχάρι/Νικοχάρις|Νικοχάρης|Hemsterhuys|s.xviii in.|D R|
+Philox.Gramm. 129.6|Νικωχάρι/Νικοχάρις|Νικοχάρης|Hemsterhuis|s.xviii in.|D R|
 Philox.Gramm. 505.3|ἴσθι|εἰς θι|Friedrich Sylburg|s.xvi ex.|Marc. 304 (B)|
 Phot. α 151|ἀγενὲς|ἀγεννὲς|Jan van Leeuwen|1907|cod. Zavord. 95 (z)|Mnem. 35 (1907) 253
 Phot. α 163|οἵους|ἰοῦσ'|David Ruhnken|n.d.|schol. Eur.|
@@ -4150,7 +4150,7 @@ Stat. Theb. 3.583|recuru-|recurant|Bentley|1876|Gvl P|apud Haupt
 Stat. Theb. 3.648|-um|illi|Lachmann|1884|Harl. 2665 (U1)|apud Kohlmann
 Stat. Theb. 3.705|causae|castae|Jan Bernaerts|1595|P S4 U4ac U8+|
 Stat. Theb. 4.45|mide|Midea|Gevartius|1616|Laur. Plut. 38.5 (M3)|m. rec.
-Stat. Theb. 4.52|Hel-|elisson|Hemsterhuys||Gvl P|
+Stat. Theb. 4.52|Hel-|elisson|Hemsterhuis|1744|Gvl P|ad schol. Ar. Plut. 586
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
 Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839–57|Paris. gr. 3012|
@@ -4497,7 +4497,7 @@ Theoc. 15.51|-νοίμ-|γενώμεθα|G. H Schaefer|n.d.|P.Ant. III 207 (Pa)|
 Theoc. 15.59|ἄμμιν|ἁμὶν|H. L. Ahrens|1855|P.Ant. III 207 (Pa)|
 Theoc. 15.98|σπέρχιν/πέρχην|πέρυσιν|Reiske|s.xviii ex.|P.Oxy. XIII 1618 (Pu) et P.Ant. III 207 (Pa)|πέρυ]σιν
 Theoc. 15.100|-λασας|ἐφίλησας|H. L. Ahrens|1855|P.Ant. III 207 (Pa)|
-Theoc. 15.105|φοροῖσαι κτλ.|φέροισαι|Hemsterhuys|n.d.|P.Ant. III 207 (Pa)|
+Theoc. 15.105|φοροῖσαι κτλ.|φέροισαι|Hemsterhuis|n.d.|P.Ant. III 207 (Pa)|
 Theoc. 15.145|-ώτερον|σοφώτατον|J. A. Hartung|n.d.|P.Ant. III 207 (Pa)|]τον
 Theoc. 17.74|-οῖο/-οῖου|αἰδοῖοι|Casaubon|n.d.|P.Ant. III 207 (Pa)|
 Theoc. 18.25|τ. οὐδ ̓ ἄν τις|τᾶν οὐδ ̓ ἅτις|H. L. Ahrens|1855|P.Oxy. L 3552 (Op)|
@@ -4826,8 +4826,8 @@ X.Eph. 1.12.1|δὲ|δὲ καὶ|D. K. Zagoiannes|1897|Laur. Conv. Soppr. 627 (
 X.Eph. 2.6.4|ἕξεται|ἄξεται|F. L. Abresch|1739–45|Laur. Conv. Soppr. 627 (F)|
 X.Eph. 3.4.4|καὶ ἄρα καὶ|καὶ γάρ καὶ|Cobet|1856|Laur. Conv. Soppr. 627 (F)|apud Hirschig
 X.Eph. 3.5.4|μου|μοι|Naber|1873–7|Laur. Conv. Soppr. 627 (F)|
-X.Eph. 4.2.7|δέχ-|ἔρχεται|Hemsterhuys|1733–5|Laur. Conv. Soppr. 627 (F)|
-X.Eph. 4.2.8|-τίθ-|ἐπετέθειτο|Hemsterhuys|1733–5|Laur. Conv. Soppr. 627 (F)|
+X.Eph. 4.2.7|δέχ-|ἔρχεται|Hemsterhuis|1733–5|Laur. Conv. Soppr. 627 (F)|
+X.Eph. 4.2.8|-τίθ-|ἐπετέθειτο|Hemsterhuis|1733–5|Laur. Conv. Soppr. 627 (F)|
 X.Eph. 5.4.7|οὐδὲ/ἂν δὲ|μηδὲ|Franz Passow|1833|Laur. Conv. Soppr. 627 (F)|
 X.Eph. 5.9.8|εἶπε|εἰπέ|F. L. Abresch|1739–45|Laur. Conv. Soppr. 627 (F)|tacite
 Xen. Oec. 4.6|φύλακας|φυλακάς|Cobet|s.xix ex.|Laur. 55.21 (G)|
