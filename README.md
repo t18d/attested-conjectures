@@ -217,7 +217,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (198), Bentley (127), Madvig (82), Markland (80), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (199), Bentley (127), Madvig (82), Markland (80), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3032,7 +3032,7 @@ Pl.Com. fr. 30|μόγις/μόσις|μόλις|Ottomar Bachmann|1878|Ar. Αν. 
 Plaut. Bacch. 489|egone illam|e. ut. i.|Pylades|n.d.|Ambros. G 82 sup. (A)|
 Plaut. Bacch. 499|-e|impono|Georgius Merula|n.d.|Ambros. G 82 sup. (A)|
 Plaut. Bacch. 500|immitiorem|inimiciorem|Denys Lambin|n.d.|Ambros. G 82 sup. (A)|
-Plaut. Bacch. 519 a–c|habet|del.|François Guyet|n.d.|Ambros. G 82 sup. (A)|
+Plaut. Bacch. 519 a–c|habet|del.|François Guyet|1658|Ambros. G 82 sup. (A)|
 Plaut. Bacch. 529|-atur|remoretur|Bentley|n.d.|Ambros. G 82 sup. (A)|
 Plaut. Bacch. 535|tollam|cont-|Joachim Camerarius|1552|Ambros. G 82 sup. (A)|
 Plaut. Bacch. 671–2|672, 671|671, 672|Joachim Camerarius|1552|Ambros. G 82 sup. (A)|
@@ -4115,6 +4115,11 @@ Stat. Theb. 2.251|lim-|lumine|Gevartius|1616|G U2ac U13 U15+|
 Stat. Theb. 2.252|urb|orbes|Madvig|1873|Bamb. class. 47 (B)|a.c.
 Stat. Theb. 2.269|haec|hoc|Johannes Schrader|1876|E S3|apud Haupt
 Stat. Theb. 2.277|cing-|pingit|François Guyet|1658|Paris. lat. 10317 (Q)|apud Marollium; a.c.
+Stat. Theb. 2.295|laud-|clade|Caspar von Barth|1664|Vat. Barb. lat. 74 (Z2)|a.c.
+Stat. Theb. 2.320|-a|curis|Nicolaus Heinsius|1884|Gvl P M4 U2ac U13ac+|apud Kohlmann
+Stat. Theb. 2.322|-o|consilii|Pieter Burman I|1884|P J4 M3 O5+|apud Kohlmann
+Stat. Theb. 2.343|-a|amate|Johannes Schrader|1876|C K|apud Haupt
+Stat. Theb. 2.359|di-|demittere|F. A. Menke|1884|D G S|apud Kohlmann
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
 Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839–57|Paris. gr. 3012|
@@ -4720,7 +4725,7 @@ Tib. 2.1.34|ades|avis|Scaliger|1577–1607|Monac. Clm 14.486 (M)|
 Tib. 2.1.89|ful-|furvis|Nicolaus Heinsius|1708|GH|apud Broukhusium
 Tib. 2.2.10|-it|annuet|Nicolaus Heinsius|1708|exc. Lipsii (Broukh.)|apud Broukhusium
 Tib. 2.2.15|un-|Indis|Lucas Fruytier|1584|fV2|
-Tib. 2.2.17|utinam|viden ut|François Guyet|n.d.|Leid. Voss. lat. 0.81|
+Tib. 2.2.17|utinam|viden ut|François Guyet|1708|Leid. Voss. lat. 0.81|ap. Heinsium ap. Broukhusium
 Tib. 2.3.78|-am … -am|in laxa … toga|Nicolaus Heinsius|1708|cod. Huschkii|apud Broukhusium
 Tib. 2.4.36|at(t)ulit|addidit|Janus Dousa I|1592|cod. Dres.|
 Tib. 2.5.20|cap-|raptos|Scaliger|1577–1607|Ebor. Heinsii (Y)|
