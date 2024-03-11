@@ -217,7 +217,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (202), Bentley (129), Madvig (84), Markland (81), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (202), Bentley (129), Madvig (84), Markland (82), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4165,7 +4165,11 @@ Stat. Theb. 4.586|di-/me m-|demissus|Ken Dowden|1983|Palat. lat. 1689 (Z)|apud H
 Stat. Theb. 4.655|-am/icaria|uuifera|Philipp Kohlmann|1884|G M4ac|
 Stat. Theb. 4.665|-em … -i|solis … ferrum|Madvig|1873|Paris. lat. 8054 (S2)|s.l.
 Stat. Theb. 4.724|horr-|arida|Gilbert Wakefield|1813|U1vl Z11+|ad Lucr. 3.930
-Stat. Theb. 4.776|limite/limine/lumine|sidere|Hendrik Frieseman|1786|p. 224|
+Stat. Theb. 4.776|limite/limine/lumine|sidere|Hendrik Frieseman|1786|U3 Y|p. 224
+Stat. Theb. 4.826|-is|ioui|Jan Bernaerts|1595|J6 M4 U2+|
+Stat. Theb. 4.827|dur-|clara|Markland|1728|Gvl U6vl|ad silv. p. 253
+Stat. Theb. 4.829|inc(o)epta|in c(o)epta|Johannes Schrader|1876|Gpc F3ac t U4|apud Haupt
+Stat. Theb. 5.30|artis|atris|Otto Müller|1870|K3 U4 Z9+|
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
 Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839–57|Paris. gr. 3012|
