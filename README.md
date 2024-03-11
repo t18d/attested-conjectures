@@ -217,7 +217,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (202), Bentley (129), Madvig (84), Markland (82), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (204), Bentley (130), Madvig (84), Markland (82), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4170,6 +4170,13 @@ Stat. Theb. 4.826|-is|ioui|Jan Bernaerts|1595|J6 M4 U2+|
 Stat. Theb. 4.827|dur-|clara|Markland|1728|Gvl U6vl|ad silv. p. 253
 Stat. Theb. 4.829|inc(o)epta|in c(o)epta|Johannes Schrader|1876|Gpc F3ac t U4|apud Haupt
 Stat. Theb. 5.30|artis|atris|Otto Müller|1870|K3 U4 Z9+|
+Stat. Theb. 5.103|aus-|orsa|Bentley|1876|Z Z16|apud Haupt
+Stat. Theb. 5.140|-it|agi|Nicolaus Heinsius|1884|O2 U5 U12pc+|apud Kohlmann
+Stat. Theb. 5.269|di-|destrinxerat|Nicolaus Heinsius|1884|B P d U2pc+|apud Kohlmann
+Stat. Theb. 5.308|excisa-|excussaque|H. W. Garrod|1906|Bodl. Rawl. G 114 (O3)|
+Stat. Theb. 5.316|ign-|crinibus|Lachmann|1884|J1 S2 U2+|apud Kohlmann
+Stat. Theb. 5.350|-us|portas|Caspar von Barth|1664|J1 S2+|
+Stat. Theb. 5.373|puppem-|pubemque|Heinrich Köstlin|1876|Monac. 6396 (F)|Philol.
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
 Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839–57|Paris. gr. 3012|
