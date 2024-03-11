@@ -4114,7 +4114,7 @@ Stat. Theb. 2.250|-is|patri|Nicolaus Heinsius|1884|P d U12|apud Kohlmann
 Stat. Theb. 2.251|lim-|lumine|Gevartius|1616|G U2ac U13 U15+|
 Stat. Theb. 2.252|urb|orbes|Madvig|1873|Bamb. class. 47 (B)|a.c.
 Stat. Theb. 2.269|haec|hoc|Johannes Schrader|1876|E S3|apud Haupt
-Stat. Theb. 2.277|cing-|pingit|Franciscus Guietus|1658|Paris. lat. 10317 (Q)|apud Marollium; a.c.
+Stat. Theb. 2.277|cing-|pingit|François Guyet|1658|Paris. lat. 10317 (Q)|apud Marollium; a.c.
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
 Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839–57|Paris. gr. 3012|
