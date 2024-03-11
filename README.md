@@ -587,8 +587,8 @@ Ar. Vesp. 1424|πράγμ-|τραύματος|Reiske|n.d.|Paris. gr. 2715 (B)|
 Ar. fr. 135|-ειψεν/ἡμεῖς|ἤμει|Bekker|1829|Phot. Szac|
 Ar. fr. 471|καὶ τῶν βελέκκων|βελέκκων|Theodor Kock|1880|P.Oxy. XV 1801|CAF I
 Arat. Phaen. 736|ἰοῦσα|ἄγουσα|Philipp Buttmann|1826|BKT V/I 7503 + 7804|
-Arat. Phaen. 750|ἐμπλήσει|ἐμπλήσσει|J. H. Voss|1824|BKT V/I 7503 + 7804|
-Arat. Phaen. 870|φαίνονται|φαίνωνται|J. H. Voss|1824|BKT V/I 7503 + 7804|
+Arat. Phaen. 750|ἐμπλήσει|ἐμπλήσσει|J. H. Voß|1824|BKT V/I 7503 + 7804|
+Arat. Phaen. 870|φαίνονται|φαίνωνται|J. H. Voß|1824|BKT V/I 7503 + 7804|
 Archil. fr. 4.6|ἀλλά τε|ἀλλ᾽ ἄγε|Musurus|n.d.|P.Oxy. VI 854|
 Arist. fr. 57.12 Rose|οὔτε|ουδε|Meineke|1839–57|P.Oxy. IV 666|
 Arist. fr. 842.7 Page|τ᾽ ἀθάνατον/εἰς ἀ.|ἰσαθάνατον|Wilamowitz|n.d.|BKT I 25|Did. in D. col. 6.18 seqq.
@@ -1349,7 +1349,7 @@ Claud. 22.335|tex-|traxit|Nicolaus Heinsius|1760|Lond. Burn. 166 (L11)|apud Burm
 Claud. 22.336|hic|his|Nicolaus Heinsius|1665|n1q|'si liceat per codices antiquos'
 Claud. 22.370|spati-|speciosa|Pieter Burman I|1760|Paris. lat. 18552 (P)|s.l.
 Claud. 22.371|-um|cruentam|Gronovius|1637|Ambros. S 66 sup. (K4)|Diatribe p. 333
-Claud. 22.450|-at r./r. -ant|stabant rutuli|Gaspar Gevartius|1650|W1θac|apud Heinsium
+Claud. 22.450|-at r./r. -ant|stabant rutuli|Gevartius|1650|W1θac|apud Heinsium
 Claud. 23.23|quint-|quinos|Scaliger|1603|P10pc|
 Claud. 24.200|cing-|stringas|Nicolaus Heinsius|1665|Paris. lat. 7936 (P14)|
 Claud. 24.235|quas|quot|Nicolaus Heinsius|1665|ς unus (Birt)|
@@ -2092,7 +2092,7 @@ Hom. Od. 8.435|τ. ἵστασαν|στῆσαν τρίποδ’|K. H. F. Grasho
 Hom. Od. 9.138|εἰσόκε ναυτέων|-κεν αὖτε|Bentley|1894|d q|
 Hom. Od. 9.393|-ρου γε κ.|σιδήροιο κράτος|Nauck|1874|Venet. cl. ix num. 29 (U8)|
 Hom. Od. 10.10|αὐλῆ(ι)|αὐδῆι|G. W. Nitzsch|1826–40|P.Oxy. XLIX 3441|αυδη[]
-Hom. Od. 10.19|δῶκε δέ μοι ἐκδ-|δῶκέ μοι ἐκδείρας|J. H. Voss|1838|P. Oxy. XLIX 3441|
+Hom. Od. 10.19|δῶκε δέ μοι ἐκδ-|δῶκέ μοι ἐκδείρας|J. H. Voß|1838|P. Oxy. XLIX 3441|
 Hom. Od. 10.385|λύσασθ’|λῦσαί θ’|Philipp Buttmann|n.d.|Sext. Math. 1.295|
 Hom. Od. 11.393|ἔτ’ ἦν|εην|Nauck|1874|P. CtYBR inv. 5128|
 Hom. Od. 11.580|ἥλκησε|ἕλκυσσε|Nauck|1874|d|
@@ -4090,6 +4090,8 @@ Stat. Theb. 1.213|fat-|facta|Pieter Burman I|1884|S2 U5ac+|apud Kohlmann
 Stat. Theb. 1.268|quo|a quo|Madvig|1873|Bodl. Rawl. G 114 (O3)|a s.l.
 Stat. Theb. 1.279|consist-|considere|Nicolaus Heinsius|1884|Bodl. Doruill. 327 (A)|apud Kohlmann; m. sec.
 Stat. Theb. 1.284|-u|motus|Gevartius|1616|Paris. lat. 8051 (P)|a.c.
+Stat. Theb. 1.291|et|atque|Pieter Burman I|1884|F2pc U11+|apud Kohlmann
+Stat. Theb. 1.291|uerum|uerbum|Petrus Scriverius|1884|Sangall. 865 (s)|apud Kohlmann; v.l.
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
 Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839–57|Paris. gr. 3012|
