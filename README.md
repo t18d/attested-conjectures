@@ -4082,7 +4082,6 @@ Sor. Gyn. 2–3|Ζήνωνα ... Ἀριστοτέλην τὸν Ἐπικούρ
 St.Byz. Δ 40|δειδείχ-/δεδείχ-|δειδέχαται|Bentley|1693|RVΠ|
 Stat. Theb. 1.10|-os|tyriis|Gronovius|1653|J3 U13 U14|
 Stat. Theb. 1.18|spe-|spirare|Nicolaus Heinsius|1780|Gpc P U4ac|apud Burmannum
-Stat. Theb. 1.22|tu-|teque|Gronovius|1653|Pac Spc|
 Stat. Theb. 1.130|-is|regni|Scaliger|1884|Dac Tpc J5|apud Kohlmann (Gott. 8. cod. philol. 146)
 Stat. Theb. 1.158|-u … -o|porta … hibera|Jan Gruter|1851|‘uetus codex’ Heinsii|
 Stat. Theb. 1.202|uult-|nutu|Nicolaus Heinsius|1884|Paris. lat. 8054 (S2)|apud Kohlmann
