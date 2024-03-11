@@ -4141,6 +4141,9 @@ Stat. Theb. 3.214|-uat|acerbat|Jan Bernaerts|1595|D J1 S2+|
 Stat. Theb. 3.230|ac|hac|Markland|1728|D J1 S2+|ad silv. p. 291
 Stat. Theb. 3.257|-o|abactas|Friedrich Lindenbrog|1600|Paris. lat. 8051 (P)|
 Stat. Theb. 3.381|per-|praetemptat|Gevartius|1616|O3 S2+|
+Stat. Theb. 3.426|uari-|uanos|François Guyet|1658|Gvl P|apud de Marolles
+Stat. Theb. 3.445|gent-|mentibus|Gilbert Wakefield|1813|K K2|ad Lucr. 3.881
+Stat. Theb. 3.528|hac|has|Lachmann|1884|Paris. lat. 8051 (P)|apud Kohlmann
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
 Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839–57|Paris. gr. 3012|
