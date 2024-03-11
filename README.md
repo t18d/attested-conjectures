@@ -217,7 +217,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (201), Bentley (128), Madvig (83), Markland (81), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (202), Bentley (129), Madvig (83), Markland (81), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4155,6 +4155,12 @@ Stat. Theb. 4.56|-is|mycenes|Gronovius|1653|F3 N|
 Stat. Theb. 4.149|neque|nec|Otto Müller|1870|O3 S2|
 Stat. Theb. 4.254|duces|deas|John Jortin|1731|J1 J3 S3sl|
 Stat. Theb. 4.279|-isue/-isque|conubiiue|Otto Müller|1870|O3 U2|
+Stat. Theb. 4.464|-inem|sanguen|Gilbert Wakefield|2007|Gvl P U4|apud Hall
+Stat. Theb. 4.492|press-|prensat|Jan Bernaerts|1595|J5 J6 U1+|
+Stat. Theb. 4.501|-os/-ae|diuas|Otto Müller|1870|Qac O5|
+Stat. Theb. 4.528|-ique|dominisque|Nicolaus Heinsius|1742|Paris. n.a. lat. 1627 (T)|p. 113 ('nec adjuvant scripti codices'); p.c.
+Stat. Theb. 4.537|-o|uulgata|Bentley|1876|Bac P Q Sac|apud Haupt
+Stat. Theb. 4.566|adop-|adaperta|Gevartius|1616|S2pc U5|
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
 Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839–57|Paris. gr. 3012|
