@@ -217,7 +217,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (197), Bentley (126), Madvig (81), Markland (80), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (197), Bentley (127), Madvig (81), Markland (80), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4099,6 +4099,9 @@ Stat. Theb. 1.365|e m.|de montibus|Bernhard Deipser|1881|Bpc Fac|
 Stat. Theb. 1.371|neque|nec|Otto Müller|1861|M2 S3 Z|p. 13
 Stat. Theb. 1.454|haec|hic|Jan Bernaerts|1595|Laur. Plut. 38.5 (M3)|m. rec.
 Stat. Theb. 1.511|ult-|interioris|Johannes Schrader|1876|S J5 Z3pc Z6ul+|apud Haupt
+Stat. Theb. 1.532|-aque … -e|taciteque … auri|Bernhard Deipser|1881|Bodl. Lincoln. 130 (n)|
+Stat. Theb. 1.532|-aque … -e|tacitaeque … auri|Alfred Klotz|1908|S3 U13pc|
+Stat. Theb. 1.544|aure-|perseus|Bentley|1876|R T|apud Haupt; s.l.
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
 Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839–57|Paris. gr. 3012|
