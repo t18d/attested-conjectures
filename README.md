@@ -4150,7 +4150,11 @@ Stat. Theb. 3.583|recuru-|recurant|Bentley|1876|Gvl P|apud Haupt
 Stat. Theb. 3.648|-um|illi|Lachmann|1884|Harl. 2665 (U1)|apud Kohlmann
 Stat. Theb. 3.705|causae|castae|Jan Bernaerts|1595|P S4 U4ac U8+|
 Stat. Theb. 4.45|mide|Midea|Gevartius|1616|Laur. Plut. 38.5 (M3)|m. rec.
-Stat. Theb. 4.52|Hel-|elisson|Hemsterhuis|1744|Gvl P|ad schol. Ar. Plut. 586
+Stat. Theb. 4.52|hel-|elisson|Hemsterhuis|1744|Gvl P|ad schol. Ar. Plut. 586
+Stat. Theb. 4.56|-is|mycenes|Gronovius|1653|F3 N|
+Stat. Theb. 4.149|neque|nec|Otto Müller|1870|O3 S2|
+Stat. Theb. 4.254|duces|deas|John Jortin|1731|J1 J3 S3sl|
+Stat. Theb. 4.279|-isue/-isque|conubiiue|Otto Müller|1870|O3 U2|
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
 Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839–57|Paris. gr. 3012|
@@ -4497,7 +4501,7 @@ Theoc. 15.51|-νοίμ-|γενώμεθα|G. H Schaefer|n.d.|P.Ant. III 207 (Pa)|
 Theoc. 15.59|ἄμμιν|ἁμὶν|H. L. Ahrens|1855|P.Ant. III 207 (Pa)|
 Theoc. 15.98|σπέρχιν/πέρχην|πέρυσιν|Reiske|s.xviii ex.|P.Oxy. XIII 1618 (Pu) et P.Ant. III 207 (Pa)|πέρυ]σιν
 Theoc. 15.100|-λασας|ἐφίλησας|H. L. Ahrens|1855|P.Ant. III 207 (Pa)|
-Theoc. 15.105|φοροῖσαι κτλ.|φέροισαι|Hemsterhuis|n.d.|P.Ant. III 207 (Pa)|
+Theoc. 15.105|φοροῖσαι|φέροισαι|Hemsterhuis|1773|P.Ant. III 207 (Pa)|apud Valckenaer
 Theoc. 15.145|-ώτερον|σοφώτατον|J. A. Hartung|n.d.|P.Ant. III 207 (Pa)|]τον
 Theoc. 17.74|-οῖο/-οῖου|αἰδοῖοι|Casaubon|n.d.|P.Ant. III 207 (Pa)|
 Theoc. 18.25|τ. οὐδ ̓ ἄν τις|τᾶν οὐδ ̓ ἅτις|H. L. Ahrens|1855|P.Oxy. L 3552 (Op)|
