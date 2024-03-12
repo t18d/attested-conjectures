@@ -4081,7 +4081,7 @@ Sor. Gyn. 2–3|τῆς αἱρέσεως|τῶν περὶ τ. α.|Rose|n.d.|PS
 Sor. Gyn. 2–3|Ζήνωνα ... Ἀριστοτέλην τὸν Ἐπικούριον|Ἀ. ... Ζ. τ. Ἐ.|Ermerins|n.d.|PSI II 117|
 St.Byz. Δ 40|δειδείχ-/δεδείχ-|δειδέχαται|Bentley|1693|RVΠ|
 Stat. Theb. 1.10|-os|tyriis|Gronovius|1653|J3 U13 U14|
-Stat. Theb. 1.18|spe-|spirare|Nicolaus Heinsius|1780|Gpc P U4ac|apud Burmannum
+Stat. Theb. 1.18|spe-|spirare|Nicolaus Heinsius|1780|Gpc P U4ac|ap. Burm. ad Prop. 2.12.53
 Stat. Theb. 1.130|-is|regni|Scaliger|1884|Dac Tpc J5|apud Kohlmann (Gott. 8. cod. philol. 146)
 Stat. Theb. 1.158|-u … -o|porta … hibera|Jan Gruter|1851|‘uetus codex’ Heinsii|
 Stat. Theb. 1.202|uult-|nutu|Nicolaus Heinsius|1884|Paris. lat. 8054 (S2)|apud Kohlmann
@@ -4192,6 +4192,9 @@ Stat. Theb. 6.526|effoss-|effusae|Caspar von Barth|1664|G P M4 Z15pc|
 Stat. Theb. 6.534|-i|monstris|Jan Bernaerts|1595|G P d M4|
 Stat. Theb. 6.613|ost-|obtenditur|Gronovius|1653|Bamb. class. 47 (B)|
 Stat. Theb. 6.659|abr-|arreptum|Nicolaus Heinsius|1870|O b J4 Z2+|apud Müller
+Stat. Theb. 6.699|creat-|crete|Johannes Schrader|1876|U4 Z2|apud Haupt
+Stat. Theb. 6.720|-at|ferebant|Gronovius|1653|Guelf. Helm. 319b (K3)|p.c.
+Stat. Theb. 6.830|-es|pale|Gronovius|1653|J5ac S3pc|
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
 Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839–57|Paris. gr. 3012|
