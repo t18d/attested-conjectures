@@ -217,7 +217,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (203), Bentley (132), Madvig (84), Markland (84), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59), Denys Lambin (59) and Gronovius (59) (tied).</p>
+<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (203), Bentley (133), Madvig (84), Markland (84), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59), Denys Lambin (59) and Gronovius (59) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4212,6 +4212,11 @@ Stat. Theb. 8.566|phaler-|pharetras|Johannes Schrader|1876|t Z3vl|apud Haupt
 Stat. Theb. 8.619|-ara-/enarr-|adnarrant|Philipp Kohlmann|1884|G Z2 Z19|
 Stat. Theb. 8.667|t. h./t. totidemque|totidem t. heia|Philipp Kohlmann|1884|Q S2|
 Stat. Theb. 9.6|uirtut-|feritate|François Guyet|1658|Harl. 2665 (U1)|apud de Marolles
+Stat. Theb. 9.7|retr-|alio|Friedrich Dübner|1837|gvl et cod. Vratisl. Queckii|
+Stat. Theb. 9.18|ten-|terens|Beaupré Bell|1906|G N U2|apud Garrod
+Stat. Theb. 9.21|luc-|laude|Beaupré Bell|1906|G Hvl Ovl P M4 U4 U6+|apud Garrod
+Stat. Theb. 9.216|neu|ne|Heinrich Köstlin|1884|Dvl gac M3 S3|apud Kohlmann
+Stat. Theb. 9.258|et est f./set f.|et e fluuio|Bentley|1876|P U1pc Z12+|apud Haupt
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
 Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839–57|Paris. gr. 3012|
