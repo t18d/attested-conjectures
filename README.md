@@ -4222,6 +4222,9 @@ Stat. Theb. 9.523|a. conflata/a. cum flata|alte cum elata|Jan Bernaerts|1595|G P
 Stat. Theb. 9.676|nec se|sua nec|Johannes Schrader|1876|Z19+|apud Haupt
 Stat. Theb. 9.683|-as|coepta|Philipp Kohlmann|1884|O Z2|
 Stat. Theb. 9.727|fulu-|furua|Grotius|1884|Bern. 156 (b)|apud Kohlmann
+Stat. Theb. 9.796|-ique|turpemque|Émeric Crucé|1620|O Z2 Z11|apud Berlincourt (2011)
+Stat. Theb. 9.876|-ant|patebunt|Jan Bernaerts|1595|P U16|
+Stat. Theb. 9.907|crinem/munus|crimen|Albert Imhof|1889|Brux. 5337 (G)|v.l.
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
 Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839–57|Paris. gr. 3012|
