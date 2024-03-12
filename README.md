@@ -4153,7 +4153,6 @@ Stat. Theb. 4.149|neque|nec|Otto Müller|1870|O3 S2|
 Stat. Theb. 4.254|duces|deas|John Jortin|1731|J1 J3 S3sl|
 Stat. Theb. 4.279|-isue/-isque|conubiiue|Otto Müller|1870|O3 U2|
 Stat. Theb. 4.464|-inem|sanguen|Gilbert Wakefield|2007|Gvl P U4|apud Hall
-Stat. Theb. 4.492|press-|prensat|Jan Bernaerts|1595|J5 J6 U1+|
 Stat. Theb. 4.501|-os/-ae|diuas|Otto Müller|1870|Qac O5|
 Stat. Theb. 4.528|-ique|dominisque|Nicolaus Heinsius|1742|Paris. n.a. lat. 1627 (T)|p. 113 ('nec adjuvant scripti codices'); p.c.
 Stat. Theb. 4.537|-o|uulgata|Bentley|1876|Bac P Q Sac|apud Haupt
@@ -4183,6 +4182,7 @@ Stat. Theb. 5.615|-os|Argo|Gronovius|1653|Vat. Ottob. lat. 1977 (Z6)|p.c.
 Stat. Theb. 5.637|uertit-|uoluitur|W. S. Watt|2000|Rsl Tsl U5 Z6|CQ
 Stat. Theb. 5.731|-us|prior|Gilbert Wakefield|2007|J1 J4+|apud Hall
 Stat. Theb. 6.13|uter-|utrimque|Lachmann|1815|Lond. Bibl. Brit. Reg. 15 A XXIX (U2)|Kl. Schr. II p. 50
+Stat. Theb. 6.229|pell-|uellunt|Gronovius|1653|Vat. Barb. lat. 74 (Z2)|
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
 Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839–57|Paris. gr. 3012|
