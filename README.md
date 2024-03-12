@@ -4127,7 +4127,6 @@ Stat. Theb. 2.501|-endi|latenti|Lachmann|1884|Mac Qac F O3|apud Kohlmann
 Stat. Theb. 2.509|-i|trementes|John Jortin|1731|Spc J3 O2+|I p. 91
 Stat. Theb. 2.593|-it|inuolui|Gronovius|1653|F3 Z19|
 Stat. Theb. 2.619|-a … -a|nodosae … clauae|Michel de Marolles|1658|Z19ac|
-Stat. Theb. 2.630|argu-|arcuerim|Jan Bernaerts|1595|Fvl F3pc Kpc+|
 Stat. Theb. 2.645|-terrebat|proturbabat|John Jortin|1731|Bmg Rsl Tsl|I p. 93
 Stat. Theb. 2.668|ast|at|Jan Bernaerts|1595|J4 J5 S2+|
 Stat. Theb. 3.4|parat-|patrati|Lachmann|1884|Bpc|apud Kohlmann
@@ -4137,7 +4136,6 @@ Stat. Theb. 3.185|neque|nec|Otto Müller|1861|F2 S3|p. 12
 Stat. Theb. 3.185|l(a)ed-|lenit|Otto Müller|1863|Qpc U4vl|RhM
 Stat. Theb. 3.188|hic|hi|John Jortin|1731|S2 Z2+|
 Stat. Theb. 3.196|senes|-que|Caspar von Barth|1664|P d J5 Z3|
-Stat. Theb. 3.214|-uat|acerbat|Jan Bernaerts|1595|D J1 S2+|
 Stat. Theb. 3.230|ac|hac|Markland|1728|D J1 S2+|ad silv. p. 291
 Stat. Theb. 3.257|-o|abactas|Friedrich Lindenbrog|1600|Paris. lat. 8051 (P)|
 Stat. Theb. 3.381|per-|prætentat|Gevartius|1616|O3 S2+|
@@ -4148,7 +4146,6 @@ Stat. Theb. 3.539|-is|solus|E. H. Alton|1923|Bodl. Rawl. G 114 (O3)|CQ
 Stat. Theb. 3.564|-ati|scrutari|Nicolaus Heinsius|1884|P M2vl|apud Kohlmann
 Stat. Theb. 3.583|recuru-|recurant|Bentley|1876|Gvl P|apud Haupt
 Stat. Theb. 3.648|-um|illi|Lachmann|1884|Harl. 2665 (U1)|apud Kohlmann
-Stat. Theb. 3.705|causae|castae|Jan Bernaerts|1595|P S4 U4ac U8+|
 Stat. Theb. 4.45|mide|Midea|Gevartius|1616|Laur. Plut. 38.5 (M3)|m. rec.
 Stat. Theb. 4.52|hel-|elisson|Hemsterhuis|1744|Gvl P|ad schol. Ar. Plut. 586
 Stat. Theb. 4.56|-is|mycenes|Gronovius|1653|F3 N|
