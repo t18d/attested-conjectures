@@ -217,7 +217,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (202), Bentley (130), Madvig (84), Markland (84), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (203), Bentley (131), Madvig (84), Markland (84), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4192,6 +4192,12 @@ Stat. Theb. 6.659|abr-|arreptum|Nicolaus Heinsius|1870|O b J4 Z2+|apud Müller
 Stat. Theb. 6.699|creat-|crete|Johannes Schrader|1876|U4 Z2|apud Haupt
 Stat. Theb. 6.720|-at|ferebant|Gronovius|1653|Guelf. Helm. 319b (K3)|p.c.
 Stat. Theb. 6.830|-es|pale|Gronovius|1653|J5ac S3pc|
+Stat. Theb. 7.83|-esque/-ens|resides|C. E. Sandström|1878|Dac Ppc|p. 53
+Stat. Theb. 7.123|ni|num|H. A. Koch|1865|Vat. lat. 3278 (Z19)|
+Stat. Theb. 7.312|num-|nusquam|Nicolaus Heinsius|1742|Paris. lat. 8052 (S3)|p. 341
+Stat. Theb. 7.393|-as|perspicua|Michel de Marolles|1658|Rpc Z2|
+Stat. Theb. 7.414|-os|arcades|Gronovius|1653|J3 Kpc n|
+Stat. Theb. 7.490|heu quis|ecquis|Bentley|1876|Bpc G P bpc d Z15pc|apud Haupt
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
 Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839–57|Paris. gr. 3012|
