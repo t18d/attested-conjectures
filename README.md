@@ -4184,7 +4184,7 @@ Stat. Theb. 6.229|pell-|uellunt|Gronovius|1653|Vat. Barb. lat. 74 (Z2)|
 Stat. Theb. 6.243|effect-|effictus|Antoine Sucquet|1595|Z15 Z19|apud Bernaerts p. 124
 Stat. Theb. 6.351|-at|erant|Markland|1728|Vat. Barb. lat. 74 (Z2)|ad silv. p. 262
 Stat. Theb. 6.513|quis|qui|Markland|2007|Qac|apud Hall
-Stat. Theb. 6.526|effoss-|effusae|Caspar von Barth|1664|G P M4 Z15pc|
+Stat. Theb. 6.526|effoss-|effusae|Caspar von Barth|1664|G P M4|
 Stat. Theb. 6.534|-i|monstris|Jan Bernaerts|1595|G P d M4|
 Stat. Theb. 6.613|ost-|obtenditur|Gronovius|1653|Bamb. class. 47 (B)|
 Stat. Theb. 6.659|abr-|arreptum|Nicolaus Heinsius|1870|O b J4 Z2+|apud Müller
@@ -4219,6 +4219,9 @@ Stat. Theb. 9.216|neu|ne|Heinrich Köstlin|1884|M3 S3|apud Kohlmann
 Stat. Theb. 9.258|et est f./set f.|et e fluuio|Bentley|1876|P Z12+|apud Haupt
 Stat. Theb. 9.350|flum-|flamina|Gilbert Wakefield|2007|Pac|apud Hall
 Stat. Theb. 9.523|a. conflata/a. cum flata|alte cum elata|Jan Bernaerts|1595|G P K3 S2+|
+Stat. Theb. 9.676|nec se|sua nec|Johannes Schrader|1876|Z19+|apud Haupt
+Stat. Theb. 9.683|-as|coepta|Philipp Kohlmann|1884|O Z2|
+Stat. Theb. 9.727|fulu-|furua|Grotius|1884|Bern. 156 (b)|apud Kohlmann
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
 Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839–57|Paris. gr. 3012|
