@@ -217,7 +217,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (203), Bentley (132), Madvig (84), Markland (84), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59).</p>
+<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (203), Bentley (132), Madvig (84), Markland (84), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59), Denys Lambin (59) and Gronovius (59) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4203,6 +4203,11 @@ Stat. Theb. 8.39|-em|nocentum|Albert Imhof|1889|D U6 Z6vl|
 Stat. Theb. 8.152|nam|iam|C. E. Sandström|1878|Paris. lat. 8052 (S3)|p. 54
 Stat. Theb. 8.257|tot-|tuta|Haupt|1876|Rpc E s+|p. 642
 Stat. Theb. 8.268|maris s.|mari secura|W. S. Watt|1984|Tac|BICS
+Stat. Theb. 8.416|-a|fundae|Gronovius|1653|Harl. 5296 (U14)|
+Stat. Theb. 8.493|uictis|-que|Haupt|1869|Laur. Plut. 38.4 (M2)|Herm.; p.c.
+Stat. Theb. 8.515|excind-/exced-|excidere|Philipp Kohlmann|1884|Sac F Z19+|
+Stat. Theb. 8.531|-a|aegro|Emil Baehrens|1884|R O3 Z2|apud Kohlmann
+Stat. Theb. 8.557|cui|quin|Grotius|1884|Paris. lat. 8051 (P)|apud Kohlmann
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
 Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839–57|Paris. gr. 3012|
