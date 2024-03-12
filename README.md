@@ -4184,6 +4184,8 @@ Stat. Theb. 5.535|-a|primae|Nicolaus Heinsius|1884|M2 S2|apud Kohlmann
 Stat. Theb. 5.574|pereg-|peredit|Lachmann|1884|Lond. Bibl. Brit. Reg. 15 A XXI (U3)|apud Kohlmann
 Stat. Theb. 5.615|-os|Argo|Gronovius|1653|Vat. Ottob. lat. 1977 (Z6)|p.c.
 Stat. Theb. 5.637|uertit-|uoluitur|W. S. Watt|2000|Rsl Tsl U5 Z6|CQ
+Stat. Theb. 5.731|-us|prior|Gilbert Wakefield|2007|J1 J4+|apud Hall
+Stat. Theb. 6.13|uter-|utrimque|Lachmann|1815|Lond. Bibl. Brit. Reg. 15 A XXIX (U2)|Kl. Schr. II p. 50
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
 Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839–57|Paris. gr. 3012|
