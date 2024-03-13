@@ -217,7 +217,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (203), Bentley (133), Markland (85), Madvig (84), Valckenaer (74), Porson (63), Beatus Rhenanus (62), Gronovius (60), Reiske (59) and Denys Lambin (59) (tied).</p>
+<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (203), Bentley (133), Markland (85), Madvig (84), Valckenaer (74), Porson (63), Gronovius (62), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4245,6 +4245,13 @@ Stat. Theb. 11.568|et a.|an adhuc|Postgate|1904|G O P s|apud Wilkins
 Stat. Theb. 11.618|-rept-|praeceptaque|Johannes Veenhusen|1671|S S2 S4|
 Stat. Theb. 11.629|cast- … A.|cauta … Antigone|Markland|1728|Paris. lat. 8051 (P)|ad silv. p. 290; marg.
 Stat. Theb. 12.209|lab-|tabente|Grotius|1884|P Z19|apud Kohlmann
+Stat. Theb. 12.226|-a|uesane|Gronovius|1653|J1ac Lac|
+Stat. Theb. 12.241|comites s. f.|comitis solacia flammae|François Guyet|1658|G O P U1 Z2+|apud de Marolles
+Stat. Theb. 12.283|arm-|aruorum|D. R. S. Bailey|2000|Laur. Plut. 38.6 (M)|HSCP; a.c.
+Stat. Theb. 12.308|di-|demitte|Gronovius|1653|M4 n O5+|
+Stat. Theb. 12.352|tim-|teneri|François Guyet|1658|O6 U11 Z19+|apud de Marolles
+Stat. Theb. 12.355|imm-/am-|admisso|Jean de Peyrarède|1658|O d|apud de Marolles
+Stat. Theb. 12.718|at|an|C. E. Sandström|1878|Monac. 19481 (F3)|p. 60; v.l.
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
 Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839–57|Paris. gr. 3012|
