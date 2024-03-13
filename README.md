@@ -4234,6 +4234,10 @@ Stat. Theb. 10.688|utrim-|utrique|Gronovius|1653|C E K+|
 Stat. Theb. 10.711|haec p.|hîc pietas|Franciscus Modius|1584|Paris. lat. 8054 (S2)|p. 240
 Stat. Theb. 10.788|-o|solutos|Jean de Peyrarède|1884|Bodl. Doruill. 327 (A)|apud Kohlmann
 Stat. Theb. 10.916|uict-/uictum|uinctam|Jean de Peyrarède|1884|Dertus. 148 (d)|apud Kohlmann
+Stat. Theb. 11.89|mea sacra|me s.|Johannes Schrader|1876|P d Z2|apud Haupt
+Stat. Theb. 11.153|-fossi in s.|perfusus sanguine|Housman|1904|Cantab. D. Iohann. Evang. D 12 (D)|apud Wilkins; v.l.
+Stat. Theb. 11.167|-e|exigo|Albert Imhof|1889|S S3|
+Stat. Theb. 11.188|nec e./non|neque enim|D. E. Hill|1983|S3 s|
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
 Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839–57|Paris. gr. 3012|
