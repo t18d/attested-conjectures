@@ -217,7 +217,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (203), Bentley (133), Madvig (84), Markland (84), Valckenaer (74), Porson (63), Beatus Rhenanus (62), Gronovius (60), Reiske (59) and Denys Lambin (59) (tied).</p>
+<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (203), Bentley (133), Markland (85), Madvig (84), Valckenaer (74), Porson (63), Beatus Rhenanus (62), Gronovius (60), Reiske (59) and Denys Lambin (59) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4238,6 +4238,13 @@ Stat. Theb. 11.89|mea sacra|me s.|Johannes Schrader|1876|P d Z2|apud Haupt
 Stat. Theb. 11.153|-fossi in s.|perfusus sanguine|Housman|1904|Cantab. D. Iohann. Evang. D 12 (D)|apud Wilkins; v.l.
 Stat. Theb. 11.167|-e|exigo|Albert Imhof|1889|S S3|
 Stat. Theb. 11.188|nec e./non|neque enim|D. E. Hill|1983|S3 s|
+Stat. Theb. 11.366|-us|poscimur|Johannes Schrader|1876|S E n Z3+|apud Haupt
+Stat. Theb. 11.521|mutant-|miscentque|D. A. Slater|1906|Hsl S5sl|apud Garrod
+Stat. Theb. 11.532|prem-/trem-|fremunt|Alfred Klotz|1908|O Z2|
+Stat. Theb. 11.568|et a.|an adhuc|Postgate|1904|G O P s|apud Wilkins
+Stat. Theb. 11.618|-rept-|praeceptaque|Johannes Veenhusen|1671|S S2 S4|
+Stat. Theb. 11.629|cast- … A.|cauta … Antigone|Markland|1728|Paris. lat. 8051 (P)|ad silv. p. 290; marg.
+Stat. Theb. 12.209|lab-|tabente|Grotius|1884|P Z19|apud Kohlmann
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
 Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839–57|Paris. gr. 3012|
