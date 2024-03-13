@@ -217,7 +217,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (205), Bentley (133), Markland (85), Madvig (84), Valckenaer (74), Gronovius (65), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59) (tied).</p>
+<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (205), Bentley (133), Markland (85), Madvig (84), Valckenaer (74), Gronovius (66), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4106,6 +4106,12 @@ Stat. Ach. 1.724|haec/hoc|nec|H. W. Garrod|1906|Z4+|
 Stat. Ach. 1.733|-is|ithaces|O. A. W. Dilke|1954|tpc|
 Stat. Ach. 1.753|iur-|ire|Johannes Schrader|1876|Qpc|apud Haupt
 Stat. Ach. 1.828|entea|enthea|Emil Baehrens|1884|Cantab. Petr. 215 (h)|apud Kohlmann
+Stat. Ach. 2.21|et iam|iamque|Gronovius|1653|Wigorn. F 147 (w)|
+Stat. Ach. 2.50|ora|ida|Johannes Schrader|1876|P Z14|apud Haupt
+Stat. Ach. 2.71|h. etiam|haec & non|Franciscus Modius|1584|L S3|
+Stat. Ach. 2.93|his|hos|Émeric Crucé|1620|r Z4|
+Stat. Ach. 2.96|rest-|reptantibus|Jan Gruter|1851|E P G|
+Stat. Ach. 2.112|-o|equos|Caspar von Barth|1664|P V|
 Stat. Theb. 1.10|-os|tyriis|Gronovius|1653|J3 U13 U14|
 Stat. Theb. 1.130|-is|regni|Scaliger|1884|Cantab. S. Trin. 0.9.12 (J5)|apud Kohlmann
 Stat. Theb. 1.158|-u … -o|porta … hibera|Jan Gruter|1851|‘uetus codex’ Heinsii|
