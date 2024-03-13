@@ -32,6 +32,7 @@
         <li>Ausonius, Decimus Magnus, <em>Burdigalensis opuscula</em>, ed. Rudolf Peiper (Leipzig, 1886).</li>
         <li>Avianus, <em>Fabulae</em>, ed. Antonio Guaglianone (Turin, 1958).</li>
         <li>Battezzato, Luigi, 'Livineius' unpublished Euripidean marginalia', <em>Revue d'histoire des textes</em>, 30 (2000), 323–48.</li>
+        <li>Berlincourt, Valéry, 'Emericus Cruceus’ Conjectures on the <em>Thebaid</em> and the <em>Achilleid</em> (1620). A Supplement to the New Edition of Statius’ Epics', <em>Mnemosyne</em>, 64 (2011), 285–94.</li>
         <li>Billerbeck, Margarethe, and Mario Somazzi, <em>Repertorium der Konjekturen in den Seneca-Tragödien</em> (Leiden, 2009).</li>
         <li>Borges, Cassandra, and C. Michael Sampson, <em>New literary papyri from the Michigan collection: mythographic lyric and a catalogue of poetic first lines</em> (Ann Arbor, 2012), 20.</li>
         <li>Botley, Paul, <em>Richard ‘Dutch’ Thomson, c. 1569–1613</em> (Leiden, 2016), 105.</li>
@@ -190,6 +191,7 @@
         <li>Sommerstein, Alan H., 'The history of the text of Aristophanes', in <em>Brill's Companion to the Study of Greek Comedy</em> (Leiden, 2010), 399–422 at 412n69.</li>
         <li>Sophocles, <em>Fabulae</em>, ed. H. Lloyd-Jones and N. G. Wilson (Oxford, 1990).</li>
         <li>Sophocles, <em>Tragoediae</em>, ed. R. D. Dawe (Leipzig, 1996).</li>
+        <li>Statius, P. Papinius, <em>Thebaid and Achilleid</em>, i, ed. J. B. Hall, A. L. Ritchie and M. J. Edwards (Newcastle, 2007).</li>
         <li>Tacitus, Cornelius, <em>Opera minora</em>, ed. M. Winterbottom and R. M. Ogilvie (Oxford, 1975).</li>
         <li>Tacitus, Cornelius, <em>Ab excessu divi Augusti libri XI–XVI</em>, ed. Kenneth Wellesley (Leipzig, 1986).</li>
         <li>Tacitus, Cornelius, <em>Historiarum libri</em>, ed. Kenneth Wellesley (Leipzig, 1989).</li>
