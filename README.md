@@ -217,7 +217,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (203), Bentley (133), Madvig (84), Markland (84), Valckenaer (73), Porson (63), Beatus Rhenanus (62), Reiske (59), Denys Lambin (59) and Gronovius (59) (tied).</p>
+<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (203), Bentley (133), Madvig (84), Markland (84), Valckenaer (74), Porson (63), Beatus Rhenanus (62), Gronovius (60), Reiske (59) and Denys Lambin (59) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2239,7 +2239,7 @@ Iuv. 8.61|pulvis|cursus|Petrus Scriverius|1705|A2|an heir
 Iuv. 8.62|corythae|coryphaei|C. S. Schurzfleisch|1717|G U2 schol.|
 Iuv. 8.78|-at|desideret|R. Beer|1885|FGHU|
 Iuv. 8.195|pone|poni|Jo. Sterke|1793|Montepess. bibl. med. 125 (P)|Acta Lit. Soc. Rheno-Traj. p. 174
-Iuv. 8.223|quid|quod|Johannes Peyraredus|1658|Urb. 342 man. 2|
+Iuv. 8.223|quid|quod|Jean de Peyrarède|1658|Urb. 342 man. 2|
 Iuv. 8.229|tu|seu|Jahn|1851|recc.|ed. 1
 Iuv. 9.17|torret|torquet|Gilbert Wakefield|1796|recc.|
 Iuv. 9.55|-os|lassas|Haupt|1851|GU|apud Jahn ed. pr.
@@ -4129,10 +4129,10 @@ Stat. Theb. 2.645|-terrebat|proturbabat|John Jortin|1731|Bmg Rsl Tsl|I p. 93
 Stat. Theb. 2.668|ast|at|Jan Bernaerts|1595|J4 J5 S2+|
 Stat. Theb. 3.4|parat-|patrati|Lachmann|1884|Bpc|apud Kohlmann
 Stat. Theb. 3.138|dir-|dura|Lachmann|1884|Paris. lat. 13046 (S)|apud Kohlmann
-Stat. Theb. 3.180|ru-|fuit|John Jortin|1731|P F M3 O3+|
+Stat. Theb. 3.180|ru-|fuit|John Jortin|1731|P F M3 O3+|I p. 97
 Stat. Theb. 3.185|neque|nec|Otto Müller|1861|F2 S3|p. 12
 Stat. Theb. 3.185|l(a)ed-|lenit|Otto Müller|1863|Qpc U4vl|RhM
-Stat. Theb. 3.188|hic|hi|John Jortin|1731|S2 Z2+|
+Stat. Theb. 3.188|hic|hi|John Jortin|1731|S2 Z2+|p. 98
 Stat. Theb. 3.196|senes|-que|Caspar von Barth|1664|P d J5 Z3|
 Stat. Theb. 3.214|-uat|acerbat|Jan Bernaerts|1595|D J1 S2+|p. 82
 Stat. Theb. 3.230|ac|hac|Markland|1728|D J1 S2+|ad silv. p. 291
@@ -4148,7 +4148,7 @@ Stat. Theb. 4.45|mide|Midea|Gevartius|1616|Laur. Plut. 38.5 (M3)|m. rec.
 Stat. Theb. 4.52|hel-|elisson|Hemsterhuis|1744|Paris. lat. 8051 (P)|ad schol. Ar. Plut. 586
 Stat. Theb. 4.56|-is|mycenes|Gronovius|1653|F3 N|
 Stat. Theb. 4.149|neque|nec|Otto Müller|1870|O3 S2|
-Stat. Theb. 4.254|duces|deas|John Jortin|1731|J1 J3|
+Stat. Theb. 4.254|duces|deas|John Jortin|1731|J1 J3|p. 106
 Stat. Theb. 4.279|-isue/-isque|conubiiue|Otto Müller|1870|O3 U2|
 Stat. Theb. 4.464|-inem|sanguen|Gilbert Wakefield|2007|P U4|apud Hall
 Stat. Theb. 4.492|press-|prensat|Jan Bernaerts|1595|J5 J6 U1+|p. 99
@@ -4225,6 +4225,15 @@ Stat. Theb. 9.727|fulu-|furua|Grotius|1884|Bern. 156 (b)|apud Kohlmann
 Stat. Theb. 9.796|-ique|turpemque|Émeric Crucé|1620|O Z2 Z11|apud Berlincourt (2011)
 Stat. Theb. 9.876|-ant|patebunt|Jan Bernaerts|1595|P U16|
 Stat. Theb. 9.907|crinem/munus|crimen|Albert Imhof|1889|Brux. 5337 (G)|v.l.
+Stat. Theb. 10.145|laxa-|lassato|F. A. Menke|1884|Edinb. Adv. MS. 18.5.12 (E)|apud Kohlmann
+Stat. Theb. 10.335|-unt/-ent|recedant|John Jortin|1731|d U4|I p. 190
+Stat. Theb. 10.486|om-|numina|F. A. Menke|1884|Vat. Barb. lat. 74 (Z2)|apud Kohlmann
+Stat. Theb. 10.611|limit-|limine|Valckenaer|1884|Genav. Colon. lat. 154 (N)|apud Kohlmann
+Stat. Theb. 10.688|-que|steterunt|F. A. Menke|1884|Mac|apud Kohlmann
+Stat. Theb. 10.688|utrim-|utrique|Gronovius|1653|C E K+|
+Stat. Theb. 10.711|haec p.|hîc pietas|Franciscus Modius|1584|Paris. lat. 8054 (S2)|p. 240
+Stat. Theb. 10.788|-o|solutos|Jean de Peyrarède|1884|Bodl. Doruill. 327 (A)|apud Kohlmann
+Stat. Theb. 10.916|uict-/uictum|uinctam|Jean de Peyrarède|1884|Dertus. 148 (d)|apud Kohlmann
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
 Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839–57|Paris. gr. 3012|
