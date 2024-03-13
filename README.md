@@ -4127,6 +4127,7 @@ Stat. Theb. 1.339|auar-|amaris|Friedrich Lindenbrog|1600|F Z9|
 Stat. Theb. 1.365|-ur|miratus|Johannes Schrader|1876|D M P|apud Haupt
 Stat. Theb. 1.365|e m.|de montibus|Bernhard Deipser|1881|Bpc Fac|
 Stat. Theb. 1.371|neque|nec|Otto Müller|1861|M2 S3 Z|p. 13
+Stat. Theb. 1.440|in usque|inisse|Émeric Crucé|1620|Palat. sec. Gruteri|
 Stat. Theb. 1.454|haec|hic|Jan Bernaerts|1595|Laur. Plut. 38.5 (M3)|m. rec.
 Stat. Theb. 1.511|ult-|interioris|Johannes Schrader|1876|S J5+|apud Haupt
 Stat. Theb. 1.532|-aque … -e|taciteque … auri|Bernhard Deipser|1881|Bodl. Lincoln. 130 (n)|
@@ -4257,6 +4258,7 @@ Stat. Theb. 9.727|fulu-|furua|Grotius|1884|Bern. 156 (b)|apud Kohlmann
 Stat. Theb. 9.796|-ique|turpemque|Émeric Crucé|1620|O Z2 Z11|apud Berlincourt (2011)
 Stat. Theb. 9.876|-ant|patebunt|Jan Bernaerts|1595|P U16|
 Stat. Theb. 9.907|crinem/munus|crimen|Albert Imhof|1889|Brux. 5337 (G)|v.l.
+Stat. Theb. 10.16|nec|ne|Émeric Crucé|1620|B D G H M O P Q R S T|
 Stat. Theb. 10.145|laxa-|lassato|F. A. Menke|1884|Edinb. Adv. MS. 18.5.12 (E)|apud Kohlmann
 Stat. Theb. 10.335|-unt/-ent|recedant|John Jortin|1731|d U4|I p. 190
 Stat. Theb. 10.486|om-|numina|F. A. Menke|1884|Vat. Barb. lat. 74 (Z2)|apud Kohlmann
@@ -4276,6 +4278,7 @@ Stat. Theb. 11.532|prem-/trem-|fremunt|Alfred Klotz|1908|O Z2|
 Stat. Theb. 11.568|et a.|an adhuc|Postgate|1904|G O P s|apud Wilkins
 Stat. Theb. 11.618|-rept-|praeceptaque|Johannes Veenhusen|1671|S S2 S4|
 Stat. Theb. 11.629|cast- … A.|cauta … Antigone|Markland|1728|Paris. lat. 8051 (P)|ad silv. p. 290; m. rec.
+Stat. Theb. 12.59|exule|exul|Émeric Crucé|1620|O6 U11 Z2+|
 Stat. Theb. 12.209|lab-|tabente|Grotius|1884|P Z19|apud Kohlmann
 Stat. Theb. 12.226|-a|uesane|Gronovius|1653|J1ac Lac|
 Stat. Theb. 12.241|comites s. f.|comitis solacia flammae|François Guyet|1658|G O P U1 Z2+|apud de Marolles
