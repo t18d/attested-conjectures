@@ -217,7 +217,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (204), Bentley (133), Markland (85), Madvig (84), Valckenaer (74), Porson (63), Gronovius (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59) (tied).</p>
+<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (204), Bentley (133), Markland (85), Madvig (84), Valckenaer (74), Gronovius (64), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4092,6 +4092,10 @@ Stat. Ach. 1.249|-at|uersa|Jan Bernaerts|1595|Paris. lat. 8051 (P)|
 Stat. Ach. 1.265|has/hae|hac|Postgate|1904|Paris. lat. 8084 (U)|apud Wilkins
 Stat. Ach. 1.325|cogit-|cogique|Nicolaus Heinsius|1884|b m s+|apud Kohlmann
 Stat. Ach. 1.356|sexum-|sexuque|C. E. Sandström|1878|B C E P Q U|p. 39
+Stat. Ach. 1.415|-ee|nemea|Alfred Klotz|1926|Monac. clm 14557 (R)|
+Stat. Ach. 1.481|-strux-|praestrinxerit|Gustav Queck|1854|Bern. 156 (B)|a.c.
+Stat. Ach. 1.499|prem-|fremantque|Emil Baehrens|1884|E R|apud Kohlmann
+Stat. Ach. 1.505||mitis|Gronovius|1653|B A|
 Stat. Theb. 1.10|-os|tyriis|Gronovius|1653|J3 U13 U14|
 Stat. Theb. 1.130|-is|regni|Scaliger|1884|Cantab. S. Trin. 0.9.12 (J5)|apud Kohlmann
 Stat. Theb. 1.158|-u … -o|porta … hibera|Jan Gruter|1851|‘uetus codex’ Heinsii|
