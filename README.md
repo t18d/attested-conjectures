@@ -217,7 +217,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (203), Bentley (133), Markland (85), Madvig (84), Valckenaer (74), Porson (63), Gronovius (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59) (tied).</p>
+<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (204), Bentley (133), Markland (85), Madvig (84), Valckenaer (74), Porson (63), Gronovius (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4083,7 +4083,15 @@ St.Byz. Δ 40|δειδείχ-/δεδείχ-|δειδέχαται|Bentley|1693|RV
 Stat. Ach. 1.3|-um|multa|Otto Müller|1882|Paris. lat. 10317 (Q)|p. 13; a.c.
 Stat. Ach. 1.60|-a|caudae|Heinrich Weytingh|1806|Bodl. Auct. F. 2.14 (s)|ad Homer. lat. p. 34
 Stat. Ach. 1.71|-que|nostrumue|Gustav Queck|1854|Monac. clm 14557 (R)|
-Stat. Ach. 1.91|-dideris|crederis|F. A. Menke|1814|P R|p. 20
+Stat. Ach. 1.91|-dideris|crederis|F. A. Menke|1814|P R schol.|p. 20
+Stat. Ach. 1.102|-ios|spercheos|F. A. Menke|1814|H V+|p. 16
+Stat. Ach. 1.156|argoos|argiuos|Emil Baehrens|1884|R d n|apud Kohlmann
+Stat. Ach. 1.201|p. sed. s.|proxima nec studiis|Emil Baehrens|1877|Bodl. Canon. Class. Lat. 72 (T)|Bursians Jahresb. p. 53
+Stat. Ach. 1.228|pect-|corpore|Gilbert Wakefield|1813|Vat. Barb. lat. 41 (Z13)|ad Lucr. 1.39 ('nec male suo tempore, sed omnium membrorum resolutioni vix apte satis')
+Stat. Ach. 1.249|-at|uersa|Jan Bernaerts|1595|Paris. lat. 8051 (P)|
+Stat. Ach. 1.265|has/hae|hac|Postgate|1904|Paris. lat. 8084 (U)|apud Wilkins
+Stat. Ach. 1.325|cogit-|cogique|Nicolaus Heinsius|1884|b m s+|apud Kohlmann
+Stat. Ach. 1.356|sexum-|sexuque|C. E. Sandström|1878|B C E P Q U|p. 39
 Stat. Theb. 1.10|-os|tyriis|Gronovius|1653|J3 U13 U14|
 Stat. Theb. 1.130|-is|regni|Scaliger|1884|Cantab. S. Trin. 0.9.12 (J5)|apud Kohlmann
 Stat. Theb. 1.158|-u … -o|porta … hibera|Jan Gruter|1851|‘uetus codex’ Heinsii|
