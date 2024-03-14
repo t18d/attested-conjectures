@@ -220,7 +220,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (209), Bentley (133), Markland (86), Madvig (84), Valckenaer (74), Gronovius (66), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59) (tied).</p>
+<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (210), Bentley (133), Markland (86), Madvig (84), Valckenaer (74), Gronovius (67), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4958,9 +4958,13 @@ Tiberian. carm. 2.6|quo|qua|Emil Baehrens|1881|Paris. lat. 7972 (T)|
 Val. Fl. 1.58|-ur|hortatus|Pieter Burman I|1724|Lac1|
 Val. Fl. 1.342|-am|uideo|Giovan Battista Pio|1519|Chis Bon|
 Val. Fl. 1.721|nepot-|penates|Lorenzo Balbo|1524|codd. Itali (M. Piccart)|
+Val. Fl. 1.735|ap-|operti|Turnebus|1564–73|HaE|§22.28
+Val. Fl. 1.742|act-|Aea|Gronovius||HaE1|ad Liv. 27.47
 Val. Fl. 1.840|lenis|leuibus|Nicolaus Heinsius|1702|Neap. Bibl. Nat. IV. E. 38 (E)|
 Val. Fl. 2.191|festina-|infestaque|Markland|1723|Neap. Bibl. Nat. IV. E. 38 (E)|p. 19
+Val. Fl. 2.399|imbueratque|induere atque|A. G. Parrasio|1904|E Ha|apud Giarrantano
 Val. Fl. 3.67|astr-|antra|Pomponius Laetus|1519|cod. Harlesii (Ha)|apud Pium
+Val. Fl. 3.128|-um|Thamyrim|Nicolaus Heinsius|1702|codd. Itali (Courtney)|
 Val. Fl. 3.320|Micd-|Mygdonis|Aegidius Maserius|1517–19|codd. Itali (Courtney)|
 Val. Fl. 3.670|ast eg.|en egomet|Nicolaus Heinsius|1702|EHa|
 Val. Fl. 4.4|sub|se|Gerardus Vossius|1724|M2|apud Burmannum; m. sec.
