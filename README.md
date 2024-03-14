@@ -4955,6 +4955,9 @@ Tib. 4.11.5|quid|si|Francesco Pucci|1502|G2V2|
 Tib. 4.13.5|-es|possis|Nicolaus Heinsius|1708|Berol. Diez R. Sant. 21 (E)|apud Broukhusium
 Tib. 4.13.15|haec tibi/haec per|per tibi|Nicolaus Heinsius|1658|exc. Pocchi et Petrei|ad Ov. am. 3.2.61
 Tiberian. carm. 2.6|quo|qua|Emil Baehrens|1881|Paris. lat. 7972 (T)|
+Val. Fl. 1.58|-ur|hortatus|Pieter Burman I|1724|Lac1|
+Val. Fl. 1.342|-am|uideo|Giovan Battista Pio|1519|Chis Bon|
+Val. Fl. 1.721|nepot-|penates|Lorenzo Balbo|1524|codd. Itali (M. Piccart)|
 Verg. Aen. 1.646|-i|caro|Emil Baehrens|1887|P.Ryl. III 478|τιμίῳ
 Verg. Aen. 4.423|-as|noris|Emil Baehrens|1887|P.Colt Nessana 2.1|Jahrb. kl. Phil. 135 (1887) 817
 Verg. Aen. 4.471|-us|agitatur|W. Klouček|1886|Paris. lat. 7906 (p)|
