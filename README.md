@@ -4853,11 +4853,11 @@ Thuc. 7.65.2|ἂν|del.|Henrik van Herwerden|1880|P.Oxy. XI 1376|
 Thuc. 7.67.1|τὸ|τοῦ|K. W. Krüger|1860|Kac|
 Thuc. 7.68.1|καὶ τ.|τὸ|Reiske|1761|Al Nf|Anim. p. 67
 Thuc. 7.73.3|οὐκέτι|οὐκ|K. W. Krüger|1860|P.Oxy. XI 1376|
-Thuc. 7.87.6|δὴ τὸ|τὸ δὴ|Meineke|1869|Basil. E-III-4 (J)|Hermes 3 (1869) 361
+Thuc. 7.87.6|δὴ τὸ|τὸ δὴ|Meineke|1869|Basile. E-III-4 (J)|Hermes 3 (1869) 361
 Thuc. 8.10.3|ἑπτὰ|ἐς ἑπτὰ|Anton Westermann|1839|P.Oxy. X 1247|Zeit. f. d. Alterthumsw. (1839) 890 sq.
 Thuc. 8.10.3|Πειραιὸν|Σπείραιον|K. O. Müller|1844|P.Oxy. X 1247|Dorier p. 420
 Thuc. 8.15.1|ἔλυσαν … καὶ ἐ.|λύσαντες … ἐψηφίσαντο|Cobet|1858|J1|NL p. 375
-Thuc. 8.37.2|τῶν|alt. τοὺς|Joachim Camerarius|1540|Basil. E-III-4 (J)|
+Thuc. 8.37.2|τῶν|alt. τοὺς|Joachim Camerarius|1540|Basile. E-III-4 (J)|
 Thuc. 8.44.1|-ῷ|πεζῶν|Johannes Classen|1878|Vat. Urb. gr. 92 (Ud)|
 Thuc. 8.46.1|αὐτοῦ|αὐτῷ|Duker-Wasse|1731|J2|
 Thuc. 8.53.3|-σαιμεν|ποιήσομεν|Bekker|1832|Ba1 J2|
@@ -4991,6 +4991,7 @@ Val. Fl. 7.648|sicco|Siculo|M. A. Sabellicus|1502|Laur. Plut. 39.36 (A)|m. pr.
 Val. Fl. 8.80|iub-|iuuet|R. H. Schele|†1662|cod. Harlesii (Ha)|per litt. ad Heinsio ap. Burmanni Sylloges 2.748
 Val. Fl. 8.208|-flex-|defleta|Giovan Battista Pio|1519|Vat. Regin. 1831 (R)|
 Val. Fl. 8.348|crin-|cernes|Nicolaus Heinsius|1702|codd. Itali (Courtney)|
+Vell. 2.59.4|-um|erudiendam|David Ruhnken|1779|Basile. AN II 38 (A)|
 Vell. 2.110.3|addi-|abdito|Michael Vascosanus|1538|Basile. AN II 38 (A)|
 Vell. 2.112.3|etiam|aciem|Beatus Rhenanus|1521|BA|
 Vell. 2.112.4|antea|at ea|Beatus Rhenanus|1521|cod. Murbac. teste Burerio (B)|
