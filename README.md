@@ -347,7 +347,7 @@ Amm. 16.7.10|-asset|superesset|Petrus Castellus|1517|H2|
 Amm. 16.12.1|ort-|oratario|Petrus Castellus|1517|Paris. lat. 5819 (H)|
 Amm. 16.12.28|-us|maximos|Petrus Castellus|1517|T2|
 Amm. 16.12.39|p(e)and-|pendentis|Gustav Freytag|1874|PT|apud Gardthausen
-Amm. 17.5.13|incl-|inluserunt|Bentley|1878|Basil. S. Petri Ε 27 (P)|RhM p. 476
+Amm. 17.5.13|incl-|inluserunt|Bentley|1878|Rom. Basil. S. Petri Ε 27 (P)|RhM p. 476
 Amm. 20.4.8|adiectum quod e.|adiectumque est|Mariangelo Accursio|1533|W2|
 Amm. 20.5.1|tot-|tutius|Henri de Valois|1636|T2|
 Amm. 20.6.6|infirmium|-ma|Bentley|1880|T2|RhM p. 339
@@ -399,7 +399,7 @@ Amm. 28.4.24|-nent/-net|obtineat|Mariangelo Accursio|1533|Paris. lat. 5821 (C)|
 Amm. 28.4.32|-oruntur|exploduntur|Mariangelo Accursio|1533|MN|
 Amm. 28.6.16|flactia-|flaccianum|Mariangelo Accursio|1533|Marc. 388 Bess. (W)|
 Amm. 28.6.18|-en|aristomenem|Mariangelo Accursio|1533|Marc. 388 Bess. (W)|
-Amm. exc. Val.|idem|ibidem|Adrien de Valois|1681|Basil. S. Petri Ε 27 (P)|
+Amm. exc. Val.|idem|ibidem|Adrien de Valois|1681|Rom. Basil. S. Petri Ε 27 (P)|
 Anaximen. Rh. 1.13|ἢ ἄ.|ἢ ὑπ' ἄνθρώπων|Leonhard Spengel|1844|P.Hib. I 26|
 Anaximen. Rh. 1.15|τὸν τρόπον τοῦτον|τοῦτον τὸν τρόπον|Leonhard Spengel|1844|P.Hib. I 26|[τ]οῦ[το]ν τὸν [
 Anaximen. Rh. 2.3|περιττῶς|τριττῶς|Bekker|1831|P.Hib. I 26|
