@@ -221,7 +221,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (211), Bentley (133), Markland (86), Madvig (84), Valckenaer (74), Gronovius (67), Beatus Rhenanus (64), Porson (63), Reiske (59) and Denys Lambin (59) (tied).</p>
+<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (211), Bentley (133), Markland (86), Madvig (84), Valckenaer (74), Gronovius (67), Beatus Rhenanus (65), Porson (63), Reiske (59) and Denys Lambin (59) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4991,6 +4991,9 @@ Val. Fl. 7.648|sicco|Siculo|M. A. Sabellicus|1502|Laur. Plut. 39.36 (A)|m. pr.
 Val. Fl. 8.80|iub-|iuuet|R. H. Schele|†1662|cod. Harlesii (Ha)|per litt. ad Heinsio ap. Burmanni Sylloges 2.748
 Val. Fl. 8.208|-flex-|defleta|Giovan Battista Pio|1519|Vat. Regin. 1831 (R)|
 Val. Fl. 8.348|crin-|cernes|Nicolaus Heinsius|1702|codd. Itali (Courtney)|
+Vell. 2.4.1|sed|set a|Aldus|1571|Basile. AN II 38 (A)|
+Vell. 2.15.1|c. i. m. in u. I.|universa Italia cum id malum|Claude Dupuy|1608|Basile. AN II 38 (A)|
+Vell. 2.51.1|uirebatur|ut rebatur|Beatus Rhenanus|1521|Basile. AN II 38 (A)|s.l.
 Vell. 2.59.4|-um|erudiendam|David Ruhnken|1779|Basile. AN II 38 (A)|
 Vell. 2.110.3|addi-|abdito|Michael Vascosanus|1538|Basile. AN II 38 (A)|
 Vell. 2.112.3|etiam|aciem|Beatus Rhenanus|1521|BA|
