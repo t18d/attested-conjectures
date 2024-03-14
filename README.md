@@ -4995,7 +4995,7 @@ Val. Fl. 8.80|iub-|iuuet|R. H. Schele|†1662|cod. Harlesii (Ha)|per litt. ad He
 Val. Fl. 8.208|-flex-|defleta|Giovan Battista Pio|1519|Vat. Regin. 1831 (R)|
 Val. Fl. 8.348|crin-|cernes|Nicolaus Heinsius|1702|codd. Itali (Courtney)|
 Vell. 2.4.1|sed|set a|Aldus|1571|Basile. AN II 38 (A)|
-Vell. 2.15.1|c. i. m. in u. I.|universa Italia cum id malum|Claude Dupuy|1608|Basile. AN II 38 (A)|
+Vell. 2.15.1|c. i. m. in u. I.|universa Italia cum id malum|Claude Dupuy|1608|Basile. AN II 38 (A)|'hoc certe contenti esse poteramus, nisi Manutius ultra typographum criticus existimari ambitiose dum cupit, insuperhabitis quæ a Puteano acceperat, sua nobis venditare maluisset'
 Vell. 2.51.1|uirebatur|ut rebatur|Beatus Rhenanus|1521|Basile. AN II 38 (A)|s.l.
 Vell. 2.59.4|-um|erudiendam|David Ruhnken|1779|Basile. AN II 38 (A)|
 Vell. 2.110.3|addi-|abdito|Michael Vascosanus|1538|Basile. AN II 38 (A)|
