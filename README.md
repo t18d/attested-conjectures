@@ -201,6 +201,7 @@
         <li>Thomson, D. F. S. (ed.), <em>Catullus</em> (Toronto, 1998).</li>
         <li>Thucydides, <em>Historiae</em>, ed. Giovan Battista Alberti, 3 vols (Rome, 1972–2000).</li>
         <li>Tov, Emanuel, <em>Textual Criticism of the Hebrew Bible</em> (Minneapolis, 2012), 329.</li>
+        <li>Valerius Flaccus, C., <em>Argonauticon libri octo</em>, ed. Edward Courtney (Leipzig, 1970).</li>
         <li>Vergilius Maro, P., <em>Opera</em>, ed. Mario Geymonat (Rome, 2008).</li>
         <li>Vergilius Maro, P., <em>Aeneis</em>, ed. Gian Biagio Conte (Berlin, 2009).</li>
         <li>Vergilius Maro, P., <em>Bucolica Georgica</em>, ed. Silvia Ottaviano and Gian Biagio Conte (Berlin, 2013).</li>
