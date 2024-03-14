@@ -220,7 +220,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (210), Bentley (133), Markland (86), Madvig (84), Valckenaer (74), Gronovius (67), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59) (tied).</p>
+<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (211), Bentley (133), Markland (86), Madvig (84), Valckenaer (74), Gronovius (67), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4966,6 +4966,9 @@ Val. Fl. 2.399|imbueratque|induere atque|A. G. Parrasio|1904|E Ha|apud Giarranta
 Val. Fl. 3.67|astr-|antra|Pomponius Laetus|1519|cod. Harlesii (Ha)|apud Pium
 Val. Fl. 3.128|-um|Thamyrim|Nicolaus Heinsius|1702|codd. Itali (Courtney)|
 Val. Fl. 3.320|Micd-|Mygdonis|Aegidius Maserius|1517–19|codd. Itali (Courtney)|
+Val. Fl. 3.320|per|ter|J. B. Egnatius|1502?|codd. Itali (Courtney)|ch. 19
+Val. Fl. 3.392|saeua|laeua|Nicolaus Heinsius|1680|codd. Itali (Courtney)|'corrigatur meo periculo' (1702)
+Val. Fl. 3.412|-ere|adhibe|V. Slothouwer|1801|codd. Itali (Courtney)|
 Val. Fl. 3.670|ast eg.|en egomet|Nicolaus Heinsius|1702|EHa|
 Val. Fl. 4.4|sub|se|Gerardus Vossius|1724|M2|apud Burmannum; m. sec.
 Val. Fl. 4.158|reg-|gerens|Giovan Battista Pio|1519|Monac. lat. 802 (M)|m. rec.
