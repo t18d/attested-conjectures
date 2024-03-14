@@ -1160,7 +1160,7 @@ Cic. div. 1.130|ut enim|etenim|P. Manutius|1541|codd. Cantabr. et Reg. (Davies)|
 Cic. div. 2.72|silentium|si silentium|Denys Lambin|1565–6|Erlang. 618|
 Cic. div. 2.109|esse (alterum)|del.|Marsus|1509|codd. Cantabr. et Reg. (Davies)|
 Cic. div. 2.111|primi(s) versus|primis versuum|Jean Dorat|s.xvi med.|codd. dett. (Moser)|
-Cic. div. 2.145|-unt|viderint|Franz Skutsch|1912|Marc. lat. 257 (F)|Glotta p. 367; Schwanengesang
+Cic. div. 2.145|-unt|viderint|Franz Skutsch|†1912|Marc. lat. 257 (F)|Glotta p. 367 (Schwanengesang)
 Cic. div. in Caec. 46|-em … -em|more … religione|Gronovius|n.d.|P.Ryl. III 477|m1
 Cic. dom. 39|infirma sunt|infirmas|Madvig|1873|P1|
 Cic. dom. 40|te|tibi|G. Lahmeyer|1866|Bern. 254 (t)|Philol.
@@ -4987,7 +4987,7 @@ Val. Fl. 6.594|prec-|prior|M. A. Sabellicus|1502|Vat. Regin. 1831 (R)|
 Val. Fl. 6.633|inuera gens|imber agens|M. A. Sabellicus|1502|Vat. Regin. 1831 (R)|
 Val. Fl. 7.486|natae-|natique|Karl Schenkl|1871|T2 Ott|
 Val. Fl. 7.648|sicco|Siculo|M. A. Sabellicus|1502|Laur. Plut. 39.36 (A)|m. pr.
-Val. Fl. 8.80|iub-|iuuet|R. H. Schele|1662|cod. Harlesii (Ha)|per litt. ad Heinsio ap. Burmanni Sylloges 2.748; †1662
+Val. Fl. 8.80|iub-|iuuet|R. H. Schele|†1662|cod. Harlesii (Ha)|per litt. ad Heinsio ap. Burmanni Sylloges 2.748
 Val. Fl. 8.208|-flex-|defleta|Giovan Battista Pio|1519|Vat. Regin. 1831 (R)|
 Val. Fl. 8.348|crin-|cernes|Nicolaus Heinsius|1702|codd. Itali (Courtney)|
 Verg. Aen. 1.646|-i|caro|Emil Baehrens|1887|P.Ryl. III 478|τιμίῳ
