@@ -220,7 +220,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (208), Bentley (133), Markland (86), Madvig (84), Valckenaer (74), Gronovius (66), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59) (tied).</p>
+<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (209), Bentley (133), Markland (86), Madvig (84), Valckenaer (74), Gronovius (66), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4976,6 +4976,9 @@ Val. Fl. 6.573|-it|fugat|Giovan Battista Pio|1519|codd. Itali (Courtney)|
 Val. Fl. 6.594|prec-|prior|M. A. Sabellicus|1502|Vat. Regin. 1831 (R)|
 Val. Fl. 6.633|inuera gens|imber agens|M. A. Sabellicus|1502|Vat. Regin. 1831 (R)|
 Val. Fl. 7.486|natae-|natique|Karl Schenkl|1871|T2 Ott|
+Val. Fl. 7.648|sicco|Siculo|M. A. Sabellicus|1502|Laur. Plut. 39.36 (A)|m. pr.
+Val. Fl. 8.208|-flex-|defleta|Giovan Battista Pio|1519|Vat. Regin. 1831 (R)|
+Val. Fl. 8.348|crin-|cernes|Nicolaus Heinsius|1702|codd. Itali (Courtney)|
 Verg. Aen. 1.646|-i|caro|Emil Baehrens|1887|P.Ryl. III 478|τιμίῳ
 Verg. Aen. 4.423|-as|noris|Emil Baehrens|1887|P.Colt Nessana 2.1|Jahrb. kl. Phil. 135 (1887) 817
 Verg. Aen. 4.471|-us|agitatur|W. Klouček|1886|Paris. lat. 7906 (p)|
