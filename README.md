@@ -202,6 +202,9 @@
         <li>Thucydides, <em>Historiae</em>, ed. Giovan Battista Alberti, 3 vols (Rome, 1972–2000).</li>
         <li>Tov, Emanuel, <em>Textual Criticism of the Hebrew Bible</em> (Minneapolis, 2012), 329.</li>
         <li>Valerius Flaccus, C., <em>Argonauticon libri octo</em>, ed. Edward Courtney (Leipzig, 1970).</li>
+        <li>Velleius Paterculus, C., <em>Ex historiae Romanae libris duobus quae supersunt</em>, ed. Karl Halm (Leipzig, 1876).</li>
+        <li>Velleius Paterculus, <em>The Tiberian Narrative (2.94–131)</em>, ed. A. J. Woodman (Cambridge, 1977).</li>
+        <li>Velleius Paterculus, <em>The Caesarian and Augustan Narrative (2.41–93)</em>, ed. A. J. Woodman (Cambridge, 1983).</li>
         <li>Vergilius Maro, P., <em>Opera</em>, ed. Mario Geymonat (Rome, 2008).</li>
         <li>Vergilius Maro, P., <em>Aeneis</em>, ed. Gian Biagio Conte (Berlin, 2009).</li>
         <li>Vergilius Maro, P., <em>Bucolica Georgica</em>, ed. Silvia Ottaviano and Gian Biagio Conte (Berlin, 2013).</li>
