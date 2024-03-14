@@ -220,7 +220,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (205), Bentley (133), Markland (85), Madvig (84), Valckenaer (74), Gronovius (66), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59) (tied).</p>
+<p>The top 10 critics are Scaliger (223), Nicolaus Heinsius (206), Bentley (133), Markland (86), Madvig (84), Valckenaer (74), Gronovius (66), Porson (63), Beatus Rhenanus (62), Reiske (59) and Denys Lambin (59) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4958,6 +4958,9 @@ Tiberian. carm. 2.6|quo|qua|Emil Baehrens|1881|Paris. lat. 7972 (T)|
 Val. Fl. 1.58|-ur|hortatus|Pieter Burman I|1724|Lac1|
 Val. Fl. 1.342|-am|uideo|Giovan Battista Pio|1519|Chis Bon|
 Val. Fl. 1.721|nepot-|penates|Lorenzo Balbo|1524|codd. Itali (M. Piccart)|
+Val. Fl. 1.840|lenis|leuibus|Nicolaus Heinsius|1702|Neap. Bibl. Nat. IV. E. 38 (E)|
+Val. Fl. 2.191|festina-|infestaque|Markland|1723|Neap. Bibl. Nat. IV. E. 38 (E)|p. 19
+Val. Fl. 3.67|astr-|antra|Pomponius Laetus|1519|cod. Harlesii (Ha)|apud Pium
 Verg. Aen. 1.646|-i|caro|Emil Baehrens|1887|P.Ryl. III 478|τιμίῳ
 Verg. Aen. 4.423|-as|noris|Emil Baehrens|1887|P.Colt Nessana 2.1|Jahrb. kl. Phil. 135 (1887) 817
 Verg. Aen. 4.471|-us|agitatur|W. Klouček|1886|Paris. lat. 7906 (p)|
