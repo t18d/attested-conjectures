@@ -4971,6 +4971,11 @@ Val. Fl. 4.614|limin-|limite|Giovan Battista Pio|1519|Vat. Regin. 1831 (R)|p.c.
 Val. Fl. 5.464|-is|patres|Giovan Battista Pio|1519|codd. Itali (Courtney)|
 Val. Fl. 6.373|-auimus|bellabimus|Giovan Battista Pio|1519|codd. Itali (Courtney)|
 Val. Fl. 6.441|adfla-|adfatus|J. B. Bury|1900|Laur. Medic. 3936 (H)|marg.
+Val. Fl. 6.473|labent-|labantibus|M. A. Sabellicus|1502|Vat. Regin. 1831 (R)|
+Val. Fl. 6.573|-it|fugat|Giovan Battista Pio|1519|codd. Itali (Courtney)|
+Val. Fl. 6.594|prec-|prior|M. A. Sabellicus|1502|Vat. Regin. 1831 (R)|
+Val. Fl. 6.633|inuera gens|imber agens|M. A. Sabellicus|1502|Vat. Regin. 1831 (R)|
+Val. Fl. 7.486|natae-|natique|Karl Schenkl|1871|T2 Ott|
 Verg. Aen. 1.646|-i|caro|Emil Baehrens|1887|P.Ryl. III 478|τιμίῳ
 Verg. Aen. 4.423|-as|noris|Emil Baehrens|1887|P.Colt Nessana 2.1|Jahrb. kl. Phil. 135 (1887) 817
 Verg. Aen. 4.471|-us|agitatur|W. Klouček|1886|Paris. lat. 7906 (p)|
