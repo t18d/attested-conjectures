@@ -225,7 +225,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (225), Nicolaus Heinsius (211), Bentley (133), Markland (86), Madvig (84), Valckenaer (74), Gronovius (67), Beatus Rhenanus (65), Porson (63), Reiske (59) and Denys Lambin (59) (tied).</p>
+<p>The top 10 critics are Scaliger (225), Nicolaus Heinsius (212), Bentley (133), Markland (86), Madvig (84), Valckenaer (74), Gronovius (67), Beatus Rhenanus (65), Porson (63), Reiske (59) and Denys Lambin (59) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1238,6 +1238,8 @@ Cic. p. red. ad Quir. 3|quantum incolumitate|quam tum incolumes|François Hotman
 Cic. parad. 39|spes|spe|Bentley||Vindob. 189 (V)|
 Cic. part. 62|in|del.|Thomas Stangl|1886|CI|Philol.
 Cic. prov. 47|si|del.|Gustav Sorof|1875|GEb|
+Ciris 350|-e mi(c)hi|uenientem ignem|Haupt|1858|Steiermärk. Landesarchiv 1814 (G)|
+Ciris 450|labesc-|liuescunt|Nicolaus Heinsius|1789|Steiermärk. Landesarchiv 1814 (G)|apud Heyne
 Claud. 1.9|anni-|amniadae|Julius Koch|1893|Erlang. 626 (e2)|
 Claud. 1.198|græca/grata|graia|Nicolaus Heinsius|1650|Vindob. 3246 (V4)|
 Claud. 3.48|quo|cur|Goodyear|1985|Paris. lat. 7936 (P14)|apud Hall
