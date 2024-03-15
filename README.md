@@ -224,7 +224,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (224), Nicolaus Heinsius (211), Bentley (133), Markland (86), Madvig (84), Valckenaer (74), Gronovius (67), Beatus Rhenanus (65), Porson (63), Reiske (59) and Denys Lambin (59) (tied).</p>
+<p>The top 10 critics are Scaliger (225), Nicolaus Heinsius (211), Bentley (133), Markland (86), Madvig (84), Valckenaer (74), Gronovius (67), Beatus Rhenanus (65), Porson (63), Reiske (59) and Denys Lambin (59) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -5016,6 +5016,7 @@ Verg. Aen. 4.471|-us|agitatur|W. Klouček|1886|Paris. lat. 7906 (p)|
 Verg. Aen. 6.57|di-|derexti|Ribbeck|s.xix ex.|Neap. Vind. lat. 6 (n)|
 Verg. Aen. 10.237|horrentis|ardentis|Johannes Schrader|pre-1767|Pγ (corr. γ1)|
 Verg. catal. 5.3|seliquit arquitique|selique tarquitique|Ellis|1907|Ambros. O 74 sup. (q)|
+Verg. catal. 10.9|attond-|attodisse|Scaliger|1573|Brux. 10675–6 (B)|
 Verg. ecl. 4.23|fundent|fundet|A. Y. Campbell|1938|Montepess. H 253 (x)|CR 52 (1938) 54–56
 Verg. ecl. 6.33|exordia|ex omnia|P. H. Peerlkamp|1861|Palat. lat. 1631 (P)|
 Verg. georg. 1.418|vias|vices|Markland|1728|γ|ad Stat. silv. 5.2.162
