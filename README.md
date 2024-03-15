@@ -459,6 +459,7 @@ Apul. Plat. 2.20 p. 248|fuer-|ferunt|Gottschalk Stewech|1587|Harl. 3969 (H)|
 Apul. Socr. 7 p. 136|nav-|avem|Friedrich Lindenbrog|1617|Harl. 3969 (H)|ad Verg. catal. p. 319
 Apul. Socr. 9 p. 140|temperanda|t. est|Josias Mercier|1625|AOCH|
 Apul. flor. 4 p. 111|grocc-|crocire|Julien Fleury|1688|Vat. Regin. lat. 1572 (R)|
+Apul. mund. 6 p. 300|-os|dextrum|Petrus Colvius|1588|B2V2|
 Ar. Ach. 46|οὔ|οὐκ|Odoard Biset|1570|Paris. gr. 2715 (B)|
 Ar. Ach. 60|πρυτανεύσητε|-εύητε|Meineke|n.d.|P.Oxy. LXVI 4510|
 Ar. Ach. 68|ἐτρυχόμεσθα|-μεθα|Bentley|s.xviii in.|Bodl. Holkh. Gr. 88 (L)|apud Burges, Classical Journal xi, xii, xiii
