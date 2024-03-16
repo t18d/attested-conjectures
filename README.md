@@ -162,6 +162,7 @@
         <li>Platon, <em>Théétète</em>, ed. Auguste Diès (Paris, 1924).</li>
         <li>Platon, <em>Le Sophiste</em>, ed. Auguste Diès (Paris, 1925).</li>
         <li>Plato, <em>Gorgias</em>, ed. E. R. Dodds (Oxford, 1959).</li>
+        <li>Platon, <em>Gorgias — Ménon</em>, ed. Alfred Croiset (Paris, 1965).</li>
         <li>Platon, <em>Parménide</em>, ed. Auguste Diès (Paris, 1965).</li>
         <li>Platon, <em>Philèbe</em>, ed. Auguste Diès (Paris, 1966).</li>
         <li>Platon, <em>Phèdre</em>, ed. Claudio Moreschini (Paris, 1985).</li>
