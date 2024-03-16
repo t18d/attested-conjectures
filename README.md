@@ -159,6 +159,7 @@
         <li>Persius Flaccus, A., and D. Iunius Iuvenalis, <em>Saturae</em>, ed. W. V. Clausen (Oxford, 1966).</li>
         <li>Petronius Arbiter, <em>Satirarum reliquiae</em>, ed. Franz Bücheler (Berlin, 1862).</li>
         <li>Photius, <em>Patriarchae lexicon</em>, ed. Christos Theodoridis, 3 vols (Berlin, 1982–2013).</li>
+        <li>Plato, <em>Opera</em>, iii, ed. John Burnet (Oxford, 1903).</li>
         <li>Platon, <em>Théétète</em>, ed. Auguste Diès (Paris, 1924).</li>
         <li>Platon, <em>Le Sophiste</em>, ed. Auguste Diès (Paris, 1925).</li>
         <li>Plato, <em>Gorgias</em>, ed. E. R. Dodds (Oxford, 1959).</li>
