@@ -3055,18 +3055,19 @@ Pl. Grg. 520e|-εύειν|συμβουλεύσειν|Cobet||Vindob. suppl. phil.
 Pl. Phd. 82e|τῳ δεδέσθαι|τοῦ δεδέσθαι|L. F. Heindorf|1810|P.Lond.Lit. 145 (inv. 488)|
 Pl. Phdr. 228b|πάνυ τις|πάνυ τι|Martin Schanz|1875|P.Oxy. VII 1016|
 Pl. Phdr. 229d|δὲ|δὴ|J. C. Vollgraff|1909|Ath. 5.220F (Marc. 447)|Mnem.
-Pl. Phdr. 239a|τῶν|τοῖς|L. F. Heindorf|1802–10|P.Oxy. VII 1017|
+Pl. Phdr. 239a|τῶν|τοῖς|L. F. Heindorf|1802|P.Oxy. VII 1017|
 Pl. Phdr. 251a|μὴ δεδιείη|μὴ ἐδεδίει|Cobet|1858|P.Oxy. VII 1017|p. 467
 Pl. Phdr. 251e|ὠδίν-|ὀδυνῶν|Charles Badham|1851|Marc. gr. 186|
 Pl. Phdr. 257e|γράφουσι|γράψωσι|L. F. Heindorf|1798|Herm. in Phdr.|Spec. coni. p. 13
 Pl. Phdr. 264a|διανεῖν|διανύειν|Henri Estienne|1578|Bodl. Clark. 39 (b)|m. rec.
-Pl. Phdr. 274a|οἷός (γε)|οἷός τε|L. F. Heindorf|1802–10|Paris. gr. 1813|
+Pl. Phdr. 274a|οἷός (γε)|οἷός τε|L. F. Heindorf|1802|Paris. gr. 1813|
 Pl. Phlb. 26d|-ων|ἀπειργασμένην|Henry Jackson|1897|Vindob. 54 suppl. philos. gr. 7 (W)|Journ. of Phil.
 Pl. Phlb. 33c|-ψώ-|ἐπισκεψόμεθα|Bekker|1826|Vindob. 54 suppl. philos. gr. 7 (W)|
 Pl. Phlb. 47d|γενο-|γιγνομένη|Charles Badham|1855–78|Vindob. 54 suppl. philos. gr. 7 (W)|
 Pl. Phlb. 51c|μου|που|Charles Badham|1855–78|W2|
 Pl. Phlb. 52a|-θεισῶν|ΠΛΗΡΩΘΕΙΣΙΝ|C. G. Schütz|1830|W2|p. 144
 Pl. Phlb. 64e|-πεφορη-|ξυμπεφυρμένη|K. J. Liebhold|1880|Vindob. 54 suppl. philos. gr. 7 (W)|Fleck. Jahrb.
+Pl. Prm. 145a|τοῦ|του|Schleiermacher||Vindob. 21 (Y)|
 Pl. R. 547c|τό|[τω]ι|Burnet|n.d.|P.Oxy. XV 1808|
 Pl. Smp. 202a|καὶ|del.|Stallbaum|n.d.|P.Oxy. VI 843|
 Pl. Smp. 206c|τῷ|del.|Charles Badham|n.d.|P.Oxy. VI 843|
