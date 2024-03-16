@@ -3055,6 +3055,9 @@ Pl. Crit. 48e|πείσαι κτλ.|πείσας|Philipp Buttmann|1830|Vat. gr. 2
 Pl. Grg. 473b|Polo|ἴσως Socrati tribuunt|van Prinsterer||BF|
 Pl. Grg. 498b|-ον|μόνοι|R. B. Hirschig|1856|Vindob. suppl. phil. gr. 39 (F)|
 Pl. Grg. 520e|-εύειν|συμβουλεύσειν|Cobet||Vindob. suppl. phil. gr. 39 (F)|
+Pl. Men. 82c|ἐν|ἦν|F. A. Wolf||Vindob. 55 (F)|
+Pl. Men. 95b|ε. ἢ|εἶναι καὶ|F. A. Wolf||Vindob. 55 (F)|
+Pl. Men. 99a|ἐπιγίγ.|ἔτι γίγνεται|Schleiermacher||Vindob. 55 (F)|
 Pl. Phd. 82e|τῳ δεδέσθαι|τοῦ δεδέσθαι|L. F. Heindorf|1810|P.Lond.Lit. 145 (inv. 488)|
 Pl. Phdr. 228b|πάνυ τις|πάνυ τι|Martin Schanz|1875|P.Oxy. VII 1016|
 Pl. Phdr. 229d|δὲ|δὴ|J. C. Vollgraff|1909|Ath. 5.220F (Marc. 447)|Mnem.
