@@ -160,6 +160,7 @@
         <li>Petronius Arbiter, <em>Satirarum reliquiae</em>, ed. Franz Bücheler (Berlin, 1862).</li>
         <li>Photius, <em>Patriarchae lexicon</em>, ed. Christos Theodoridis, 3 vols (Berlin, 1982–2013).</li>
         <li>Plato, <em>Gorgias</em>, ed. E. R. Dodds (Oxford, 1959).</li>
+        <li>Platon, <em>Phèdre</em>, ed. Claudio Moreschini (Paris, 1985).</li>
         <li>Plautus, T. Maccus, <em>Comoediae</em>, ii/iv, ed. Georg Goetz (Leipzig, 1883).</li>
         <li>Plautus, T. Maccus, <em>Comoediae</em>, i/i, ed. Fritz Schöll (Leipzig, 1884).</li>
         <li>Plautus, T. Maccus, <em>Comoediae</em>, ii/v, ed. Georg Goetz and Gustav Loewe (Leipzig, 1884).</li>
