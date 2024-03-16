@@ -3077,10 +3077,10 @@ Pl. Phlb. 64e|-πεφορη-|ξυμπεφυρμένη|K. J. Liebhold|1880|Vindob
 Pl. Prm. 145a|κ. τοῦ ἓ. ὁ.|κᾄν του ἓν ὁτιοῦν|Schleiermacher|1805|Vindob. 21 (Y)|
 Pl. Prt. 356c|ἴσαι|αἱ ἴσαι|L. F. Heindorf|1802–10|P.Oxy. XIII 1624|
 Pl. R. 547c|τό|[τω]ι|Burnet|n.d.|P.Oxy. XV 1808|
-Pl. Smp. 202a|καὶ|del.|Stallbaum|n.d.|P.Oxy. VI 843|
-Pl. Smp. 206c|τῷ|del.|Charles Badham|n.d.|P.Oxy. VI 843|
+Pl. Smp. 202a|καὶ|del.|Gottfried Stallbaum|1827|P.Oxy. VI 843|
+Pl. Smp. 206c|τῷ|del.|Charles Badham|1866|P.Oxy. VI 843|
 Pl. Smp. 208b|μετέχειν|μετέχει|Henri Estienne|1578|P.Oxy. VI 843|
-Pl. Smp. 209a|κυεῖν|τεκεῖν|Hug|n.d.|P.Oxy. VI 843|
+Pl. Smp. 209a|κυεῖν|τεκεῖν|Arnold Hug|1876|P.Oxy. VI 843|'=γεννῆσαι zu 206B'
 Pl. Smp. 209b|ἐπιθυμεῖ|επιθυμη|Henri Estienne|1578|P.Oxy. V 843|
 Pl. Sph. 237d|τοῦτο ῥ.|τοῦτο τὸ ῥῆμα|L. F. Heindorf|1809|Vindon. 21 (Y)|
 Pl. Tht. 152b|αἰσθάνεσθαί ἐστιν|αἰσθάνεταί|Gottfried Faehse||BKT II|
