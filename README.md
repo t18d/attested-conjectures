@@ -3051,7 +3051,6 @@ Pi. O. 6.77|ὄροις|ὄρος|Zacharias Callierges|1515|P.Oxy. XIII 1614|
 Pi. P. 3.166 schol.|ἐν κῷ|ἐν Ἴκῳ|Brodaeus|n.d.|DEGQ|Epigr. Gr. 1549 p. 372
 Pi. P. 6.14|-οι/-ος|τυπτόμενον|Dawes|n.d.|P.Oxy. LXXV 5039|
 Pi. Pae. 9.4|ἰσχὺν πτανὸν (ἀν)δράσιν|ἰσχύν τ'ἀνδράσι(ν)|Blass|n.d.|P.Oxy. V 841|
-Pl. 356c|ἴσαι|αἱ ἴσαι|L. F. Heindorf|1802–10|P.Oxy. VII 1016|
 Pl. Chrm. 173b|(μὴ) ὑγιέσιν|η υ̣γιεϲ̣[ιν|L. F. Heindorf|1802–10|P.Oxy. LXXVI 5082|
 Pl. Crit. 48e|πείσαι κτλ.|πείσας|Philipp Buttmann|1830|Vat. gr. 225 (V)|
 Pl. Grg. 473b|Polo|ἴσως Socrati tribuunt|van Prinsterer||BF|
@@ -3076,6 +3075,7 @@ Pl. Phlb. 51c|μου|που|Charles Badham|1855–78|W2|
 Pl. Phlb. 52a|-θεισῶν|ΠΛΗΡΩΘΕΙΣΙΝ|C. G. Schütz|1830|W2|p. 144
 Pl. Phlb. 64e|-πεφορη-|ξυμπεφυρμένη|K. J. Liebhold|1880|Vindob. 54 suppl. philos. gr. 7 (W)|Fleck. Jahrb.
 Pl. Prm. 145a|κ. τοῦ ἓ. ὁ.|κᾄν του ἓν ὁτιοῦν|Schleiermacher|1805|Vindob. 21 (Y)|
+Pl. Prt. 356c|ἴσαι|αἱ ἴσαι|L. F. Heindorf|1802–10|P.Oxy. XIII 1624|
 Pl. R. 547c|τό|[τω]ι|Burnet|n.d.|P.Oxy. XV 1808|
 Pl. Smp. 202a|καὶ|del.|Stallbaum|n.d.|P.Oxy. VI 843|
 Pl. Smp. 206c|τῷ|del.|Charles Badham|n.d.|P.Oxy. VI 843|
