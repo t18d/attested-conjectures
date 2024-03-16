@@ -162,6 +162,7 @@
         <li>Plato, <em>Opera</em>, iii, ed. John Burnet (Oxford, 1903).</li>
         <li>Platon, <em>Théétète</em>, ed. Auguste Diès (Paris, 1924).</li>
         <li>Platon, <em>Le Sophiste</em>, ed. Auguste Diès (Paris, 1925).</li>
+        <li>Platon, <em>Les Lois (livres VII–X)</em>, ed. Auguste Diès (Paris, 1956).</li>
         <li>Plato, <em>Gorgias</em>, ed. E. R. Dodds (Oxford, 1959).</li>
         <li>Platon, <em>Timée — Critias</em>, ed. Albert Rivaud (Paris, 1963).</li>
         <li>Platon, <em>Gorgias — Ménon</em>, ed. Alfred Croiset (Paris, 1965).</li>
