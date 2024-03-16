@@ -626,6 +626,11 @@ Arist. Po. 1447b9|om.|ἀνώνυμος|Bernays|1857–80|Σ|
 Arist. Po. 1447b16|μουσι-|φυσικόν|Daniel Heinsius|1611–43|Σ|
 Arist. Po. 1448a16|αὐτῇ δὲ τῇ|τῇ αὐτῇ δὲ|Petrus Victorius|1560|Paris. arab. 2346|
 Arist. Po. 1448a34|χωνίδ-|Χιωνίδου|Francesco Robortello|1548|Σ|
+Arist. Po. 1453b34|τὸν μ.|τὸ μέλλοντα|Theodorus Rentius|1569|Σ|
+Arist. Po. 1454b1|μύθου|ἤθους|Friedrich Ueberweg|1869|Σ|
+Arist. Po. 1455a4|χλοη-|χοηφόροις|Petrus Victorius|1560|BΣ|
+Arist. Po. 1455b17|om.|οὐ|Bonaventura Vulcanius|1792|Σ|apud Burgess
+Arist. Po. 1456a28|λοιπ-|πολλοῖς|Theodor Gomperz||Σ|
 Arist. fr. 57.12 Rose|οὔτε|ουδε|Meineke|1839–57|P.Oxy. IV 666|
 Arist. fr. 842.7 Page|τ᾽ ἀθάνατον/εἰς ἀ.|ἰσαθάνατον|Wilamowitz|n.d.|BKT I 25|Did. in D. col. 6.18 seqq.
 Aristarch.Trag. fr. 3|-νημα|σωφρόνισμα|Meineke|1839–57|Macar.|
