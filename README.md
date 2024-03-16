@@ -622,6 +622,10 @@ Arat. Phaen. 736|ἰοῦσα|ἄγουσα|Philipp Buttmann|1826|BKT V/I 7503 +
 Arat. Phaen. 750|ἐμπλήσει|ἐμπλήσσει|J. H. Voß|1824|BKT V/I 7503 + 7804|
 Arat. Phaen. 870|φαίνονται|φαίνωνται|J. H. Voß|1824|BKT V/I 7503 + 7804|
 Archil. fr. 4.6|ἀλλά τε|ἀλλ᾽ ἄγε|Musurus|n.d.|P.Oxy. VI 854|
+Arist. Po. 1447b9|om.|ἀνώνυμος|Bernays|1857–80|Σ|
+Arist. Po. 1447b16|μουσι-|φυσικόν|Daniel Heinsius|1611–43|Σ|
+Arist. Po. 1448a16|αὐτῇ δὲ τῇ|τῇ αὐτῇ δὲ|Petrus Victorius|1560|Paris. arab. 2346|
+Arist. Po. 1448a34|χωνίδ-|Χιωνίδου|Francesco Robortello|1548|Σ|
 Arist. fr. 57.12 Rose|οὔτε|ουδε|Meineke|1839–57|P.Oxy. IV 666|
 Arist. fr. 842.7 Page|τ᾽ ἀθάνατον/εἰς ἀ.|ἰσαθάνατον|Wilamowitz|n.d.|BKT I 25|Did. in D. col. 6.18 seqq.
 Aristarch.Trag. fr. 3|-νημα|σωφρόνισμα|Meineke|1839–57|Macar.|
