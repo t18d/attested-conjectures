@@ -3059,12 +3059,14 @@ Pl. Grg. 498b|-ον|μόνοι|R. B. Hirschig|1856|Vindob. 55. suppl. phil. gr. 
 Pl. Grg. 514a|θῶ-|φῶμεν|Madvig||Vindob. 55. suppl. phil. gr. 39 (F)|
 Pl. Grg. 520e|-εύειν|συμβουλεύσειν|Cobet||Vindob. 55. suppl. phil. gr. 39 (F)|
 Pl. Grg. 522c|ἐν|ἓν|Adamantios Korais||Vindob. 55. suppl. phil. gr. 39 (F)|
+Pl. Hp.Ma. 304a|κνίσματα|κνήσματά|Cobet||Vindob. 55. suppl. phil. gr. 39 (F)|
 Pl. La. 197e|δὲ|δὴ|Martin Schanz||P.Oxy. II 228|
 Pl. Men. 81b|-ὰν|ψυχὰς|Böckh||Vindob. 54. suppl. phil. gr. 7 (W)|
 Pl. Men. 82c|ἐν|ἦν|F. A. Wolf||Vindob. 55. suppl. phil. gr. 39 (F)|
 Pl. Men. 95b|ε. ἢ|εἶναι καὶ|F. A. Wolf||Vindob. 55. suppl. phil. gr. 39 (F)|
 Pl. Men. 96e|-ειν|διαφεύγει|Madvig||Vindob. 55. suppl. phil. gr. 39 (F)|
 Pl. Men. 99a|ἐπιγίγ.|ἔτι γίγνεται|Schleiermacher||Vindob. 55. suppl. phil. gr. 39 (F)|
+Pl. Mx. 244d|ο. πολλῶν|οὐδὲ παλαιῶν|Gottleber||Vindob. 55. suppl. phil. gr. 39 (F)|
 Pl. Phd. 82e|τῳ δεδέσθαι|τοῦ δεδέσθαι|L. F. Heindorf|1810|P.Lond.Lit. 145 (inv. 488)|
 Pl. Phdr. 228b|πάνυ τις|πάνυ τι|Martin Schanz|1875|P.Oxy. VII 1016|
 Pl. Phdr. 229d|δὲ|δὴ|J. C. Vollgraff|1909|Ath. 5.220F (Marc. 447)|Mnem.
@@ -3091,7 +3093,7 @@ Pl. Smp. 209b|ἐπιθυμεῖ|επιθυμη|Henri Estienne|1578|P.Oxy. V 843
 Pl. Sph. 237d|τοῦτο ῥ.|τοῦτο τὸ ῥῆμα|L. F. Heindorf|1809|Vindob. 21 (Y)|
 Pl. Tht. 152b|αἰσθάνεσθαί ἐστιν|αἰσθάνεταί|Gottfried Faehse||BKT II|
 Pl. Tht. 205e|-θόμεθα|πεισόμεθα|Herbert Richards|1911|YW|p. 177 ('if we are to follow')
-Pl. Ti. 60d|-μενῷ|ἀπομονουμένω|C. E. Ch. Schneider|1846|Vindob. 54 suppl. gr. 7 (W)|
+Pl. Ti. 60d|-μενῷ|ἀπομονουμένω|C. E. Ch. Schneider|1846|Vindob. 54. suppl. phil. gr. 7 (W)|
 Pl.Com. fr. 30|μόγις/μόσις|μόλις|Ottomar Bachmann|1878|Ar. Αν. 798 schol. Lh|
 Plaut. Bacch. 489|egone illam|e. ut. i.|Pylades|n.d.|Ambros. G 82 sup. (A)|
 Plaut. Bacch. 499|-e|impono|Georgius Merula|n.d.|Ambros. G 82 sup. (A)|
