@@ -235,7 +235,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (225), Nicolaus Heinsius (212), Bentley (133), Markland (86), Madvig (84), Valckenaer (74), Gronovius (67), Beatus Rhenanus (65), Porson (63), Reiske (59) and Denys Lambin (59) (tied).</p>
+<p>The top 10 critics are Scaliger (225), Nicolaus Heinsius (212), Bentley (133), Madvig (86), Markland (86), Valckenaer (74), Gronovius (67), Beatus Rhenanus (65), Porson (63), Reiske (59) and Denys Lambin (59) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3054,11 +3054,17 @@ Pi. Pae. 9.4|ἰσχὺν πτανὸν (ἀν)δράσιν|ἰσχύν τ'ἀν
 Pl. Chrm. 173b|(μὴ) ὑγιέσιν|η υ̣γιεϲ̣[ιν|L. F. Heindorf|1802–10|P.Oxy. LXXVI 5082|
 Pl. Crit. 48e|πείσαι κτλ.|πείσας|Philipp Buttmann|1830|Vat. gr. 225 (V)|
 Pl. Grg. 473b|Polo|ἴσως Socrati tribuunt|van Prinsterer||BF|
-Pl. Grg. 498b|-ον|μόνοι|R. B. Hirschig|1856|Vindob. suppl. phil. gr. 39 (F)|
-Pl. Grg. 520e|-εύειν|συμβουλεύσειν|Cobet||Vindob. suppl. phil. gr. 39 (F)|
-Pl. Men. 82c|ἐν|ἦν|F. A. Wolf||Vindob. 55 (F)|
-Pl. Men. 95b|ε. ἢ|εἶναι καὶ|F. A. Wolf||Vindob. 55 (F)|
-Pl. Men. 99a|ἐπιγίγ.|ἔτι γίγνεται|Schleiermacher||Vindob. 55 (F)|
+Pl. Grg. 486a|διαπρέπ-|διατρέπεις|Grotius||Vindob. 55. suppl. phil. gr. 39 (F)|
+Pl. Grg. 498b|-ον|μόνοι|R. B. Hirschig|1856|Vindob. 55. suppl. phil. gr. 39 (F)|
+Pl. Grg. 514a|θῶ-|φῶμεν|Madvig||Vindob. 55. suppl. phil. gr. 39 (F)|
+Pl. Grg. 520e|-εύειν|συμβουλεύσειν|Cobet||Vindob. 55. suppl. phil. gr. 39 (F)|
+Pl. Grg. 522c|ἐν|ἓν|Adamantios Korais||Vindob. 55. suppl. phil. gr. 39 (F)|
+Pl. La. 197e|δὲ|δὴ|Martin Schanz||P.Oxy. II 228|
+Pl. Men. 81b|-ὰν|ψυχὰς|Böckh||Vindob. 54. suppl. phil. gr. 7 (W)|
+Pl. Men. 82c|ἐν|ἦν|F. A. Wolf||Vindob. 55. suppl. phil. gr. 39 (F)|
+Pl. Men. 95b|ε. ἢ|εἶναι καὶ|F. A. Wolf||Vindob. 55. suppl. phil. gr. 39 (F)|
+Pl. Men. 96e|-ειν|διαφεύγει|Madvig||Vindob. 55. suppl. phil. gr. 39 (F)|
+Pl. Men. 99a|ἐπιγίγ.|ἔτι γίγνεται|Schleiermacher||Vindob. 55. suppl. phil. gr. 39 (F)|
 Pl. Phd. 82e|τῳ δεδέσθαι|τοῦ δεδέσθαι|L. F. Heindorf|1810|P.Lond.Lit. 145 (inv. 488)|
 Pl. Phdr. 228b|πάνυ τις|πάνυ τι|Martin Schanz|1875|P.Oxy. VII 1016|
 Pl. Phdr. 229d|δὲ|δὴ|J. C. Vollgraff|1909|Ath. 5.220F (Marc. 447)|Mnem.
@@ -3068,12 +3074,12 @@ Pl. Phdr. 251e|ὠδίν-|ὀδυνῶν|Charles Badham|1851|Marc. gr. 186|
 Pl. Phdr. 257e|γράφουσι|γράψωσι|L. F. Heindorf|1798|Herm. in Phdr.|Spec. coni. p. 13
 Pl. Phdr. 264a|διανεῖν|διανύειν|Henri Estienne|1578|Bodl. Clark. 39 (b)|m. rec.
 Pl. Phdr. 274a|οἷός (γε)|οἷός τε|L. F. Heindorf|1802|Paris. gr. 1813|
-Pl. Phlb. 26d|-ων|ἀπειργασμένην|Henry Jackson|1897|Vindob. 54 suppl. philos. gr. 7 (W)|Journ. of Phil.
-Pl. Phlb. 33c|-ψώ-|ἐπισκεψόμεθα|Bekker|1826|Vindob. 54 suppl. philos. gr. 7 (W)|
-Pl. Phlb. 47d|γενο-|γιγνομένη|Charles Badham|1855–78|Vindob. 54 suppl. philos. gr. 7 (W)|
+Pl. Phlb. 26d|-ων|ἀπειργασμένην|Henry Jackson|1897|Vindob. 54. suppl. phil. gr. 7 (W)|Journ. of Phil.
+Pl. Phlb. 33c|-ψώ-|ἐπισκεψόμεθα|Bekker|1826|Vindob. 54. suppl. phil. gr. 7 (W)|
+Pl. Phlb. 47d|γενο-|γιγνομένη|Charles Badham|1855–78|Vindob. 54. suppl. phil. gr. 7 (W)|
 Pl. Phlb. 51c|μου|που|Charles Badham|1855–78|W2|
 Pl. Phlb. 52a|-θεισῶν|ΠΛΗΡΩΘΕΙΣΙΝ|C. G. Schütz|1830|W2|p. 144
-Pl. Phlb. 64e|-πεφορη-|ξυμπεφυρμένη|K. J. Liebhold|1880|Vindob. 54 suppl. philos. gr. 7 (W)|Fleck. Jahrb.
+Pl. Phlb. 64e|-πεφορη-|ξυμπεφυρμένη|K. J. Liebhold|1880|Vindob. 54. suppl. phil. gr. 7 (W)|Fleck. Jahrb.
 Pl. Prm. 145a|κ. τοῦ ἓ. ὁ.|κᾄν του ἓν ὁτιοῦν|Schleiermacher|1805|Vindob. 21 (Y)|
 Pl. Prt. 356c|ἴσαι|αἱ ἴσαι|L. F. Heindorf|1802–10|P.Oxy. XIII 1624|
 Pl. R. 547c|τό|[τω]ι|Burnet|n.d.|P.Oxy. XV 1808|
@@ -3082,7 +3088,7 @@ Pl. Smp. 206c|τῷ|del.|Charles Badham|1866|P.Oxy. VI 843|
 Pl. Smp. 208b|μετέχειν|μετέχει|Henri Estienne|1578|P.Oxy. VI 843|
 Pl. Smp. 209a|κυεῖν|τεκεῖν|Arnold Hug|1876|P.Oxy. VI 843|'=γεννῆσαι zu 206B'
 Pl. Smp. 209b|ἐπιθυμεῖ|επιθυμη|Henri Estienne|1578|P.Oxy. V 843|
-Pl. Sph. 237d|τοῦτο ῥ.|τοῦτο τὸ ῥῆμα|L. F. Heindorf|1809|Vindon. 21 (Y)|
+Pl. Sph. 237d|τοῦτο ῥ.|τοῦτο τὸ ῥῆμα|L. F. Heindorf|1809|Vindob. 21 (Y)|
 Pl. Tht. 152b|αἰσθάνεσθαί ἐστιν|αἰσθάνεταί|Gottfried Faehse||BKT II|
 Pl. Tht. 205e|-θόμεθα|πεισόμεθα|Herbert Richards|1911|YW|p. 177 ('if we are to follow')
 Pl. Ti. 60d|-μενῷ|ἀπομονουμένω|C. E. Ch. Schneider|1846|Vindob. 54 suppl. gr. 7 (W)|
