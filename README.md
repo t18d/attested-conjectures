@@ -3061,8 +3061,10 @@ Pl. Grg. 514a|θῶ-|φῶμεν|Madvig||Vindob. 55. suppl. phil. gr. 39 (F)|
 Pl. Grg. 520e|-εύειν|συμβουλεύσειν|Cobet||Vindob. 55. suppl. phil. gr. 39 (F)|
 Pl. Grg. 522c|ἐν|ἓν|Adamantios Korais||Vindob. 55. suppl. phil. gr. 39 (F)|
 Pl. Hp.Ma. 304a|κνίσματα|κνήσματά|Cobet||Vindob. 55. suppl. phil. gr. 39 (F)|
-Pl. La. 197e|δὲ|δὴ|Martin Schanz||P.Oxy. II 228|
-Pl. Men. 81b|-ὰν|ψυχὰς|Böckh||Vindob. 54. suppl. phil. gr. 7 (W)|
+Pl. La. 197e|δὲ|δὴ|Martin Schanz|1883|P.Oxy. II 228|
+Pl. Lg. 832a|om.|ἡ|Apelt||Laur. Plut. 80.17 (L)|
+Pl. Lg. 894c|τήν τε|τὴν δὲ|Henri Estienne|1578|Ricc. 67|
+Pl. Men. 81b|-ὰν|ψυχὰς|Böckh||Vindob. 54. suppl. phil. gr. 7 (W)|'August Boeckh unterschrieb selbst mit »Böckh«, die Familie und die Fachtradition bevorzugen »Boeckh«.'
 Pl. Men. 82c|ἐν|ἦν|F. A. Wolf||Vindob. 55. suppl. phil. gr. 39 (F)|
 Pl. Men. 95b|ε. ἢ|εἶναι καὶ|F. A. Wolf||Vindob. 55. suppl. phil. gr. 39 (F)|
 Pl. Men. 96e|-ειν|διαφεύγει|Madvig||Vindob. 55. suppl. phil. gr. 39 (F)|
