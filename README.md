@@ -1869,9 +1869,9 @@ Eur. Ph. 136|-τας|αὐτοκασιγνήτᾳ|Reiske|1754|P.Lond.Lit. 75|p. 
 Eur. Ph. 188|Ἀμυμωνίοις|τ᾽ ἀμυμ-|F. A. Paley|1879|RfP2|
 Eur. Ph. 207|-θην|κατενάσθη|Styan Thirlby|1726|Athos Dionysiou 334 (Ad)|ad 237 ap. King
 Eur. Ph. 226|ἰὼ|ω|Willem Canter|1571|P.Oxy. IX 1177|
-Eur. Ph. 228|-είων κτλ.|βακχεῖον|Adolf Kirchhoff|n.d.|Vindob. phil. gr. 119 (Rw)|
-Eur. Ph. 252|σχῆμα|σῆμα|Heimsoeth|1865|G et Aaγρ|
-Eur. Ph. 297|ἀναπ-|ἀμπέτασον|Hermann|n.d.|Vat. gr. 909 (V)|
+Eur. Ph. 228|-είων κτλ.|βακχεῖον|Adolf Kirchhoff|1855|Vindob. phil. gr. 119 (Rw)|
+Eur. Ph. 252|σχῆμα|σῆμα|Friedrich Heimsoeth|1865|G et Aaγρ|p. 256
+Eur. Ph. 297|ἀναπ-|ἀμπέτασον|August Seidler|1812|Vat. gr. 909 (V)|p. 253
 Eur. Ph. 308-9|χαίτας|-ταις|Brodaeus|n.d.|P.Vindob. inv. G 29769|
 Eur. Ph. 325|δ'|τ'|Gilbert Wakefield|n.d.|Laur. Conv. Soppr. 172 (P)|
 Eur. Ph. 341|τάδε|τᾶιδε|Valckenaer|n.d.|manus Triclinii|
