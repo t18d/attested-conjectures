@@ -1929,8 +1929,7 @@ Eur. Ph. 1211|σεσωσμ-|σεσωμένους|Wecklein|1881|Ambros. C 44 sup.
 Eur. Ph. 1215|γε|τι|Porson|1799|Ambros. C 44 sup. (Aa)|
 Eur. Ph. 1223|δ᾽ ὑπῆρξ᾽|ὑπῆρξ᾽|E. Fraenkel|1963|Vat. Palat. gr. 343 (Vr)|
 Eur. Ph. 1226|-ῇς/-εῖς|ἀριστῆς|Dindorf|1830|Matrit. 4677 (Mt)|
-Eur. Ph. 1279|Antigonae|Iocastae|John Jackson|1955|Cantab. Nn. 3.14 (Z)|
-Eur. Ph. 1279|Antigonae|Iocastae|Kassel|n.d.|Cantab. Nn. 3.14 (Z)|
+Eur. Ph. 1279|Antigonae|Iocastae|John Jackson|1941|Cantab. Nn. 3.14 (Z)|CQ
 Eur. Ph. 1322|κρέον ἔ. δ.|κρέων ἔ. δ.|Brunck|n.d.|Ambros. L 39 sup. (G)|
 Eur. Ph. 1338|-οις|ἄλλο|Valckenaer|1755|B3/4Sa|
 Eur. Ph. 1344 nota|om.|Ἄγγ.|J. A. Hartung|n.d.|Cantab. Nn. 3.14 (Z)|
