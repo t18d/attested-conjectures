@@ -1776,17 +1776,17 @@ Eur. Or. 293|δ'|θ'|Markland|n.d.|Harl. 5725 (U)|
 Eur. Or. 294|ἀνακαλύπτ', ὦ|ἀνακαλύπτου|Valckenaer|1749|B2 et Tt1/2|
 Eur. Or. 323|φόνον|φόνου|Frederick H. M. Blaydes|n.d.|B et ZdZurs|
 Eur. Or. 329|απόφατιν|ἄπο φάτιν|Valckenaer|1749|RS et Prc|
-Eur. Or. 381|μηνύσω|μηνύω|Nicolaus Wecklein|n.d.|Escor. gr. X.1.13 (gE)|
+Eur. Or. 381|μηνύσω|μηνύω|Wecklein|n.d.|Escor. gr. X.1.13 (gE)|
 Eur. Or. 383|-ου|ἀφύλλους|Reiske|n.d.|V2s et Σv|
 Eur. Or. 406|om.|γ'|Adolf Kirchhoff|n.d.|SaZcZm|
-Eur. Or. 473|σεσωσμ-|σεσωμένος|Nicolaus Wecklein|n.d.|Athos Dionysiou 334 (Ad)|
+Eur. Or. 473|σεσωσμ-|σεσωμένος|Wecklein|n.d.|Athos Dionysiou 334 (Ad)|
 Eur. Or. 545|σε|γε|Samuel Musgrave|n.d.|Z et γρPrS|
 Eur. Or. 671|ἐμῶν κακῶν|ἐγὼ κακῶν|Porson|n.d.|ZcgE|
 Eur. Or. 680 nota|Ἠλ.|Χο.|Willem Canter|1571|Z et Xa|
 Eur. Or. 694|μὲν γὰρ τὰ|γὰρ τὰ|Joshua Barnes|n.d.|KS et gE|
 Eur. Or. 695|τάδε|τόδε|King|n.d.|Vat. gr. 1135 (R)|
 Eur. Or. 698|-τι|ἐντείνοντα|Elmsley|n.d.|sRf1Rw1|
-Eur. Or. 698|ἐντεί-|ἐκτείνοντι|Nicolaus Wecklein|n.d.|Vindob. phil. gr. 119 (Rw)|
+Eur. Or. 698|ἐντεί-|ἐκτείνοντι|Wecklein|n.d.|Vindob. phil. gr. 119 (Rw)|
 Eur. Or. 701|θέλεις|-οις|G. H. Schaefer|n.d.|Athos Vatopediou 671 (At)|
 Eur. Or. 703|κτῆμα|χρῆμα|Henrik van Herwerden|n.d.|Barberin. gr. 4 (gB)|
 Eur. Or. 729|ἤ|ἧι|Battier|n.d.|Laur. 31.10 (O)|ἧ O
@@ -1806,7 +1806,7 @@ Eur. Or. 911|χρὴ|δεῖ|Sybel|n.d.|Hier. 36 (H)|
 Eur. Or. 929|εὐνίδ-|εὔνιδας|Hermann|n.d.|Athos Vatopediou 671 (At)|
 Eur. Or. 946|-ουμένους|πετρούμενος|Elmsley|n.d.|HMCKRS et V2sPrγρ|
 Eur. Or. 966b|κάρα|κάρᾳ|Charles Willink|1986|GZm|
-Eur. Or. 976|ἰὼ ἰὼ|ἰὼ|Nicolaus Wecklein|n.d.|Cremon. 130 (Cr)|
+Eur. Or. 976|ἰὼ ἰὼ|ἰὼ|Wecklein|n.d.|Cremon. 130 (Cr)|
 Eur. Or. 993|-μοσι|λευκοκύμοσιν|King|n.d.|Paris. suppl. gr. 393 (An)|
 Eur. Or. 1000|Ἀτρέως|Ἀτρέος|Porson|n.d.|SPr1s|
 Eur. Or. 1002|ἀελ- κτλ.|αλιου|Porson|n.d.|P.Oxy. LX 4014|
@@ -1815,7 +1815,7 @@ Eur. Or. 1035|δ᾽ ἢ|δὴ|Elmsley|n.d.|Zm1γρ|
 Eur. Or. 1037|νῦν|νυν|Scaliger|n.d.|Tc|
 Eur. Or. 1047|με τήξεις|μ᾽ ἔτηξας|F. H. Bothe|1825|Zd1c|
 Eur. Or. 1092|λέχος|λ. γ'|Johannes Livineius|1581–2|Laur. Conv. Soppr. 66 (K)|
-Eur. Or. 1114|ὥσθ᾽|ὡς|Nicolaus Wecklein|n.d.|Escor. gr. X.1.13 (gE)|
+Eur. Or. 1114|ὥσθ᾽|ὡς|Wecklein|n.d.|Escor. gr. X.1.13 (gE)|
 Eur. Or. 1148|σπάσω μέλαν|σπασώμεθα|Adolf Kirchhoff|n.d.|γρCPr|
 Eur. Or. 1156|τι|τοι|Charles Willink|1986|MnS1s|
 Eur. Or. 1165|-ώσωμεν|ἀνταναλώσω μὲν|Willem Canter|1571|A et V2/3|
@@ -1855,7 +1855,7 @@ Eur. Or. 1656|-τῶι|αὐτὸν|F. A. Paley|n.d.|V2/3s|
 Eur. Or. arg. 19|-ην|ὀρέστη(ι)|Brunck|n.d.|BOAGZc|
 Eur. Or. arg. 21|-ῆσαι|συνοικίσαι|Brunck|n.d.|RfSa|
 Eur. Or. arg. 34|καὶ κ. ὑπὸ μ.|ὑπὸ μανίας καὶ κείμενος|Nauck|n.d.|Laur. Conv. Soppr. 66 (K)|
-Eur. Or. arg. 38|om.|οὕτω|Nicolaus Wecklein|n.d.|Athos Dionysiou 334 (Ad)|
+Eur. Or. arg. 38|om.|οὕτω|Wecklein|n.d.|Athos Dionysiou 334 (Ad)|
 Eur. Ph. 21|-χεῖον|βακχείαν|Hans von Arnim|1882|Marc. gr. 468 (F)|
 Eur. Ph. 26|-σον|μέσων|Reiske|1754|P.Oxy. XLVII 3321 etc.|p. 9
 Eur. Ph. 52|habent|del.|Bergk|1835|P.Oxy. XLVII 3322|ZfA col. 965
@@ -1906,17 +1906,17 @@ Eur. Ph. 833|ἕστακ'|-ακεν|Hermann|1840|manus Triclinii|
 Eur. Ph. 865|κληί-|κλήισας|Joshua Barnes|1694|Gs|
 Eur. Ph. 873|ὑπεκδ-|ὑπερδραμούμενοι|A. J. Zakas|1891|RAa|
 Eur. Ph. 907|νῦν|νυν|Porson|1799|TzZb|
-Eur. Ph. 927|δή με|δῆτα|Nicolaus Wecklein|1881|ZbZc|
+Eur. Ph. 927|δή με|δῆτα|Wecklein|1881|ZbZc|
 Eur. Ph. 1014|ἀπαλλάξω|-ξων|Scaliger|1694|Laur. 32.33 (Rf)|apud Barnes
 Eur. Ph. 1021|-γᾷ|ἁρπαγά|Samuel Musgrave|1778|Cremon. 130 (Cr)|III suppl.
 Eur. Ph. 1023a|μειξοπάρθενος|-πάρθενον|Valckenaer|1755|Ambros. C 44 sup. (Aa)|haud male = 悪くない = Valckenaer
 Eur. Ph. 1040|ἰαχά|ἀχά|Samuel Musgrave|1778|P.Oxy. II 224|αχαι
 Eur. Ph. 1041|πόλεως|πόλεος|Samuel Musgrave|1778|P.Oxy. II 224|
-Eur. Ph. 1043b|-αις|πυθίοις|Nicolaus Wecklein|1901|Cantab. Nn. 3.14 (Z)|
+Eur. Ph. 1043b|-αις|πυθίοις|Wecklein|1901|Cantab. Nn. 3.14 (Z)|
 Eur. Ph. 1065|ἐπέϲϲ-|ἐπέϲυτο|Samuel Musgrave|1778|AtMtZmZu|
 Eur. Ph. 1077|τόδ'|τοῦδ'|Markland|1822|Laur. 32.33 (Rf)|CJ
 Eur. Ph. 1086|ἀργείων|αργειον|Théobald Fix|1843|P.Berol. inv. 11868|
-Eur. Ph. 1086|σεσωσμ-|σεσωμενης|Nicolaus Wecklein|1881|P.Berol. inv. 11868|
+Eur. Ph. 1086|σεσωσμ-|σεσωμενης|Wecklein|1881|P.Berol. inv. 11868|
 Eur. Ph. 1104|-ίταις|νηίσταις|Robert Unger|1839|T.Vindob. inv. G HT 6|
 Eur. Ph. 1130|σιδηρονώτοις|-του|Valckenaer|1755|T.Vindob. inv. G HT 6|
 Eur. Ph. 1132|βίαι|βάθρων|Adolf Kirchhoff|1855|T.Vindob. inv. G HT 6|
@@ -1925,10 +1925,10 @@ Eur. Ph. 1149 schol.|-ϲτρέψαι|ἀναϲτέψαι|Joshua Barnes|1694|Vat.
 Eur. Ph. 1170|δ' (prius)|τ'|Johannes Lenting|1821|F1c|p. 21
 Eur. Ph. 1186|ἑλ-|εἱλίσσετ᾽|Benjamin Heath|1762|Cantab. Nn. 3.14 (Z)|
 Eur. Ph. 1194|τ' (prius)|δ'|Frederick H. M. Blaydes|1901|ZSa|
-Eur. Ph. 1211|σεσωσμ-|σεσωμένους|Nicolaus Wecklein|n.d.|Ambros. C 44 sup. (Aa)|
-Eur. Ph. 1215|γε|τι|Porson|n.d.|Ambros. C 44 sup. (Aa)|
-Eur. Ph. 1223|δ᾽ ὑπῆρξ᾽|ὑπῆρξ᾽|Fraenkel|n.d.|Vat. Palat. gr. 343 (Vr)|
-Eur. Ph. 1226|-ῇς/-εῖς|ἀριστῆς|Dindorf|n.d.|Matrit. 4677 (Mt)|
+Eur. Ph. 1211|σεσωσμ-|σεσωμένους|Wecklein|1881|Ambros. C 44 sup. (Aa)|
+Eur. Ph. 1215|γε|τι|Porson|1799|Ambros. C 44 sup. (Aa)|
+Eur. Ph. 1223|δ᾽ ὑπῆρξ᾽|ὑπῆρξ᾽|E. Fraenkel|1963|Vat. Palat. gr. 343 (Vr)|
+Eur. Ph. 1226|-ῇς/-εῖς|ἀριστῆς|Dindorf|1830|Matrit. 4677 (Mt)|
 Eur. Ph. 1279|Antigonae|Iocastae|John Jackson|1955|Cantab. Nn. 3.14 (Z)|
 Eur. Ph. 1279|Antigonae|Iocastae|Kassel|n.d.|Cantab. Nn. 3.14 (Z)|
 Eur. Ph. 1322|κρέον ἔ. δ.|κρέων ἔ. δ.|Brunck|n.d.|Ambros. L 39 sup. (G)|
@@ -1964,7 +1964,7 @@ Eur. Ph. 1722|ἔχων|del.|Hermann|n.d.|P.Strasb. inv. WG 307|
 Eur. Ph. 1723|-ᾶς|φυγὰς|Hermann|n.d.|RZ|
 Eur. Ph. 1753|ὧι|ἐν ὧι|Scaliger|n.d.|Ambros. L 39 sup. (G)|
 Eur. Ph. 1759|-ω|ἔγνων|Samuel Musgrave|n.d.|VG|
-Eur. Ph. (a) 7|ὑπὸ|ὑπὲρ|Nicolaus Wecklein|n.d.|Cremon. 130 (Cr)|
+Eur. Ph. (a) 7|ὑπὸ|ὑπὲρ|Wecklein|n.d.|Cremon. 130 (Cr)|
 Eur. Ph. (a) 8|-ξάμ-|παραταξόμενος|G. H. Schaefer|n.d.|P.Oxy. XXXI 2544|
 Eur. Ph. (a) 10-11|ἐβούλετο|ἐβουλεύετο|Adolf Kirchhoff|August|Marc. gr. 468 (F)|
 Eur. Ph. (a) 10-11|ἀπέσφαξε(ν)|ἀποσφάξαι|Valckenaer|1755|PrRf|
@@ -3911,7 +3911,7 @@ Soph. Ant. 202|ἄγ-|ἔχειν|Alexandros Pallis|1885|Laur. 31.10 (K)|
 Soph. Ant. 211|Κρέον vel Κρέων|ποεῖν|F. J. Martin|n.d.|Laur. 31.10 (K)|marg.
 Soph. Ant. 218|τοῦτ ̓|τοῦδ ̓|Brunck|1786|Uac|
 Soph. Ant. 287|νόμ-|δόμους|Henrik van Herwerden|n.d.|Vat. gr. 57 (Zh)|
-Soph. Ant. 314|-ωσμέ-|σεσωμένους|Nicolaus Wecklein|n.d.|Marc. gr. 470 (Ta)|
+Soph. Ant. 314|-ωσμέ-|σεσωμένους|Wecklein|n.d.|Marc. gr. 470 (Ta)|
 Soph. Ant. 342|κουφονέων|κουφονόων|Johannes Pierson|s.xviii med.|Λac et S|
 Soph. Ant. 365|σοφόν|δεινόν|Heimsoeth|1865|t|
 Soph. Ant. 384|om.|ἡ|Markland|s.xviii med.|Palat. gr. 287 (Zo)|
@@ -3946,7 +3946,7 @@ Soph. Ant. 1081|-γνι-|καθήγισαν|Burton|n.d.|VacZc|
 Soph. Ant. 1089|-ωτέραν|ἡσυχαιτέραν|G. H. Schaefer|n.d.|Zg et Laur. 31.1|
 Soph. Ant. 1098|λαβ-/λακ-|λαχεῖν|Heimsoeth|1865|Paris. gr. 2884 (Ζf)|
 Soph. Ant. 1196|ἑσπ-|εἱπόμην|Frederick H. M. Blaydes|n.d.|Vat. gr. 2291 (R)|
-Soph. Ant. 1236|μέσσον/μέσον/ἐς|ἐν|Nicolaus Wecklein|n.d.|SZot|
+Soph. Ant. 1236|μέσσον/μέσον/ἐς|ἐν|Wecklein|n.d.|SZot|
 Soph. Ant. 1237|παρθένῳ|-ον|Brunck|1786–9|Paris. gr. 2884 (Ζf)|
 Soph. Ant. 1238|ἐκβάλλει|ἐμβάλλει|Markland|s.xviii med.|Berol. Phillips 1588|
 Soph. Ant. 1289|νέον λόγον|νέον|J. F. A. Seidler|n.d.|codd. recc. Tricliniani (teste Dawe)|
