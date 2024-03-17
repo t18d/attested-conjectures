@@ -1874,22 +1874,22 @@ Eur. Ph. 252|σχῆμα|σῆμα|Friedrich Heimsoeth|1865|G et Aaγρ|p. 256
 Eur. Ph. 297|ἀναπ-|ἀμπέτασον|August Seidler|1812|Vat. gr. 909 (V)|p. 253
 Eur. Ph. 308-9|χαίτας|-ταις|Jean Brodeau|1551|P.Vindob. inv. G 29769|ed. Hervag. tertia
 Eur. Ph. 325|δ'|τ'|Gilbert Wakefield|1801|Laur. Conv. Soppr. 172 (P)|Crit. Rev. (Wakefield on Porson)
-Eur. Ph. 341|τάδε|τᾶιδε|Valckenaer|n.d.|manus Triclinii|
-Eur. Ph. 361|δὲ τάρβους|δ᾽ ἐτάρβης᾽|Hermann|n.d.|Vindob. phil. gr. 119 (Rw)|
-Eur. Ph. 363|-εος|ἄστεως|Dindorf|n.d.|Fauor. de exil. 7.2|
-Eur. Ph. 378|-νες|τλήμονος|Markland|n.d.|manus Triclinii s.l.|
-Eur. Ph. 381|φῦναί|-σαί|Hermann|n.d.|fere FcRwZu|
+Eur. Ph. 341|τάδε|τᾶιδε|Valckenaer|1755|manus Triclinii|
+Eur. Ph. 361|δὲ τάρβους|δ᾽ ἐτάρβης᾽|Hermann|1840|Vindob. phil. gr. 119 (Rw)|
+Eur. Ph. 363|-εος|ἄστεως|Dindorf|1825|Favor. de exil. 7.2|
+Eur. Ph. 378|-νες|τλήμονος|Markland|1758|manus Triclinii s.l.|apud Burton p. LXVII
+Eur. Ph. 381|φῦναί|-σαί|Hermann|1840|fere FcRwZu|
 Eur. Ph. 386|ταῦτ᾽|ταὔτ᾽|F. H. Bothe|1825|fere AS|
-Eur. Ph. 403|τις δυστυχῆι|τι δυστυχῆις|Elmsley|n.d.|Σ anon.|
-Eur. Ph. 420|θηρσὶ|θηρσὶν|Valckenaer|n.d.|AC|
-Eur. Ph. 436|habent|del.|Nauck|n.d.|P.Oxy. LX 4012|
-Eur. Ph. 437|με καὶ σὲ|σ]ε κὰμε̣[ |Elmsley|n.d.|P.Oxy. LX 4012|
-Eur. Ph. 483|ἐμῶν|ἐμὸν|Grotius|n.d.|Arund. 540 (Za)|
+Eur. Ph. 403|τις δυστυχῆι|τι δυστυχῆις|Elmsley|1811|Σ anon.|Edinb. Rev.
+Eur. Ph. 420|θηρσὶ|θηρσὶν|Valckenaer|1755|AC|
+Eur. Ph. 436|habent|del.|Nauck|1871|P.Oxy. LX 4012|
+Eur. Ph. 437|με καὶ σὲ|σ]ε κὰμε̣[ |Elmsley|1821|P.Oxy. LX 4012|ad Soph. ΟΤ 376
+Eur. Ph. 483|ἐμῶν|ἐμὸν|Grotius|1630|Arund. 540 (Za)|
 Eur. Ph. 487|αὖθις|αὖθις αὖ|Willem Canter|1571|TzZb|
-Eur. Ph. 499|ταὐτὸ|ταὐτὸν|Elmsley|n.d.|Sa et Sext. Emp. hyp. Pyrrh. 1. 86|
-Eur. Ph. 548|ἀπονεῖμαι|-νέμων|Markland|n.d.|Paris. gr. 2712 (A)|
-Eur. Ph. 563/616|ὄψει|ο]ψη|Murray|n.d.|P.Oxy. XLIV 3153|
-Eur. Ph. 572|δή/δορός|διί|Adolf Kirchhoff|n.d.|Rw s.l. et Σs|
+Eur. Ph. 499|ταὐτὸ|ταὐτὸν|Elmsley|1813|Sa et Sext. Emp. hyp. Pyrrh. 1. 86|CJ
+Eur. Ph. 548|ἀπονεῖμαι|-νέμων|Markland|1758|Paris. gr. 2712 (A)|apud Burton p. LXVIII
+Eur. Ph. 563/616|ὄψει|ο]ψη|Gilbert Murray|1909|P.Oxy. XLIV 3153|
+Eur. Ph. 572|δή/δορός|διί|Adolf Kirchhoff|1855|Rw s.l. et Σs|
 Eur. Ph. 578|ὑπεκδ-|ὑπερδράμηι|Willem Canter|1571|P et Aa|
 Eur. Ph. 584|δυοῖν|δύο|Conradt|n.d.|Escor. gr. X.1.13 (gE)|
 Eur. Ph. 596|-κας|βέβηκεν|Benjamin Heath|n.d.|P.Berol. inv. 17018 + 21218|
