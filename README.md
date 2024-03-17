@@ -1893,7 +1893,7 @@ Eur. Ph. 572|δή/δορός|διί|Adolf Kirchhoff|1855|Rw s.l. et Σs|
 Eur. Ph. 578|ὑπεκδ-|ὑπερδράμηι|Willem Canter|1571|P et Aa|
 Eur. Ph. 584|δυοῖν|δύο|Carl Conradt|1895|Escor. gr. X.1.13 (gE)|NJPP p. 315
 Eur. Ph. 596|-κας|βέβηκεν|Benjamin Heath|1762|P.Berol. inv. 17018 + 21218|
-Eur. Ph. 600|κομπὸς κτλ.|κομψὸς|Markland|n.d.|γρΣv|
+Eur. Ph. 600|κομπὸς κτλ.|κομψὸς|Markland|1822|γρΣv|CJ
 Eur. Ph. 636|-ην|πολυνείκη|Elmsley|n.d.|Ambros. C 44 sup. (Aa)|
 Eur. Ph. 663|ὤλεσε(ν)|ὄλεσε|Bergk|n.d.|Salam. 31 (S)|
 Eur. Ph. 663|ὤλεσε(ν)|ὄλεσε|Hermann|n.d.|Salam. 31 (S)|
