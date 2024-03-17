@@ -499,7 +499,7 @@ Ar. Av. 463|-χεῖσθαι/-χεῖσθε|κατάκεισθε|Bentley|s.xviii
 Ar. Av. 494a schol.|μᾶτερ/μάτερ|μάτηρ|Elmsley|1821|M9Lh|
 Ar. Av. 520|ὤμνυέ τ'/ὠμνύετ|ὤμνυ τ'|Bentley|s.xviii in.|Marc. gr. 475 (G)|
 Ar. Av. 575|Ἶριν|Ἔρην|Bentley|s.xviii in.|Ambros. L 39 sup. (M)|
-Ar. Av. 576|-ψει|πέμπει|Tyrwhitt|1822|anon. Parisinus|
+Ar. Av. 576|-ψει|πέμπει|Thomas Tyrwhitt|1822|anon. Parisinus|
 Ar. Av. 689|τοῖσιν|alterum τοῖς|Charles Daubuz|1710|Paris. gr. 2715 (B)|
 Ar. Av. 765 schol.|-φω|ἀναγράφει|Bentley|s.xviii in.|cod. Ambr. M|
 Ar. Av. 880 schol.|ὑμ-|ἡμῖν|Meineke|1839–57|cod. Ambr. M|
@@ -1729,7 +1729,7 @@ Eur. IT 618|τήνδε|τῆσδε|F. H. Bothe|n.d.|P.Hib. I 24|
 Eur. Ion 1428|ἢ|ἣ|Brodaeus|n.d.|Laur. 32.3 (L)|
 Eur. Med. 12|πολιτῶν|πολίταις|Joshua Barnes|n.d.|V3|
 Eur. Med. 140|ὁ|τὸν|Samuel Musgrave|1778|HE|
-Eur. Med. 159|εὐνέταν|εὐνάταν|Tyrwhitt|n.d.|Es|
+Eur. Med. 159|εὐνέταν|εὐνάταν|Thomas Tyrwhitt|1822|Es|
 Eur. Med. 189|-μαθ-|ὁρμηθῆ(ι)|Brunck|n.d.|Athos Iviron 209 (E)|
 Eur. Med. 246|-κα|ἥλικας|Porson|n.d.|Haun. 417 (Hn)|
 Eur. Med. 261|-κη(ι)|δίκην|Elmsley|n.d.|CDE|
@@ -1856,8 +1856,8 @@ Eur. Or. arg. 19|-ην|ὀρέστη(ι)|Brunck|n.d.|BOAGZc|
 Eur. Or. arg. 21|-ῆσαι|συνοικίσαι|Brunck|n.d.|RfSa|
 Eur. Or. arg. 34|καὶ κ. ὑπὸ μ.|ὑπὸ μανίας καὶ κείμενος|Nauck|n.d.|Laur. Conv. Soppr. 66 (K)|
 Eur. Or. arg. 38|om.|οὕτω|Wecklein|n.d.|Athos Dionysiou 334 (Ad)|
-Eur. Ph. 21|-χεῖον|βακχείαν|Arnim|n.d.|Marc. gr. 468 (F)|
-Eur. Ph. 26|-σον|μέσων|Reiske|n.d.|P.Oxy. XLVII 3321 etc.|
+Eur. Ph. 21|-χεῖον|βακχείαν|Hans von Arnim|1882|Marc. gr. 468 (F)|
+Eur. Ph. 26|-σον|μέσων|Reiske|1772|P.Oxy. XLVII 3321 etc.|apud Schütz
 Eur. Ph. 52|habent|del.|Bergk|n.d.|P.Oxy. XLVII 3322|
 Eur. Ph. 61|εἰς|ε̣ς|Valckenaer|n.d.|P.Oxy. XLVII 3322|
 Eur. Ph. 76|-ην|πολυνείκη|Elmsley|n.d.|Athos Vatopediou 671 (At)|
@@ -1910,8 +1910,7 @@ Eur. Ph. 873|ὑπεκδ-|ὑπερδραμούμενοι|Zakas|n.d.|RAa|
 Eur. Ph. 907|νῦν|νυν|Porson|n.d.|TzZb|
 Eur. Ph. 927|δή με|δῆτα|Wecklein|n.d.|ZbZc|
 Eur. Ph. 1014|ἀπαλλάξω|-ξων|Scaliger|n.d.|Laur. 32.33 (Rf)|
-Eur. Ph. 1021|-γᾶ(ι)|ἁρπαγά|Tyrwhitt|n.d.|Cremon. 130 (Cr)|
-Eur. Ph. 1021|-γᾶ(ι)|ἁρπαγά|Samuel Musgrave|n.d.|Cremon. 130 (Cr)|
+Eur. Ph. 1021|-γᾷ|ἁρπαγά|Samuel Musgrave|1778|Cremon. 130 (Cr)|III suppl.
 Eur. Ph. 1023a|μειξοπάρθενος|-πάρθενον|Valckenaer|n.d.|Ambros. C 44 sup. (Aa)|haud male = 悪くない = Valckenaer
 Eur. Ph. 1040|ἰαχά|ἀχά|Samuel Musgrave|1778|P.Oxy. II 224|αχαι
 Eur. Ph. 1041|πόλεως|πόλεος|Samuel Musgrave|1778|P.Oxy. II 224|
