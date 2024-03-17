@@ -237,7 +237,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (225), Nicolaus Heinsius (212), Bentley (133), Madvig (86), Markland (86), Valckenaer (74), Gronovius (67), Beatus Rhenanus (65), Porson (63), Reiske (59) and Denys Lambin (59) (tied).</p>
+<p>The top 10 critics are Scaliger (225), Nicolaus Heinsius (212), Bentley (133), Madvig (86), Markland (85), Valckenaer (74), Gronovius (67), Beatus Rhenanus (65), Porson (63), Reiske (59) and Denys Lambin (59) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1857,18 +1857,17 @@ Eur. Or. arg. 21|-ῆσαι|συνοικίσαι|Brunck|n.d.|RfSa|
 Eur. Or. arg. 34|καὶ κ. ὑπὸ μ.|ὑπὸ μανίας καὶ κείμενος|Nauck|n.d.|Laur. Conv. Soppr. 66 (K)|
 Eur. Or. arg. 38|om.|οὕτω|Wecklein|n.d.|Athos Dionysiou 334 (Ad)|
 Eur. Ph. 21|-χεῖον|βακχείαν|Hans von Arnim|1882|Marc. gr. 468 (F)|
-Eur. Ph. 26|-σον|μέσων|Reiske|1772|P.Oxy. XLVII 3321 etc.|apud Schütz
-Eur. Ph. 52|habent|del.|Bergk|n.d.|P.Oxy. XLVII 3322|
-Eur. Ph. 61|εἰς|ε̣ς|Valckenaer|n.d.|P.Oxy. XLVII 3322|
-Eur. Ph. 76|-ην|πολυνείκη|Elmsley|n.d.|Athos Vatopediou 671 (At)|
-Eur. Ph. 86|-τὸν|βροτῶν|Markland|n.d.|Ambros. F 74 sup. (Ab)|teste Burges, ClJ 25 (1822) 342
-Eur. Ph. 86|-τὸν|βροτῶν|Valckenaer|n.d.|Ambros. F 74 sup. (Ab)|coll. Rh. 106
+Eur. Ph. 26|-σον|μέσων|Reiske|1754|P.Oxy. XLVII 3321 etc.|p. 9
+Eur. Ph. 52|habent|del.|Bergk|1835|P.Oxy. XLVII 3322|ZfA col. 965
+Eur. Ph. 61|εἰς|ε̣ς|Valckenaer|1755|P.Oxy. XLVII 3322|
+Eur. Ph. 76|-ην|πολυνείκη|Elmsley|1812|Athos Vatopediou 671 (At)|QuRev
+Eur. Ph. 86–7|βροτὸν τὸν|βροτῶν τ.|Valckenaer|1755|Ambros. F 74 sup. (Ab)|coll. Rh. 106
 Eur. Ph. 103|νῦν|νυν|F. H. Bothe|1823|Vat. gr. 51 (Zb)|
 Eur. Ph. 115|-νέοις|λαϊνέοισιν|F. H. Bothe|1803|Σ Thom. S. Ai. 596|
 Eur. Ph. 134 schol.|εἰμὶ|εἶμι|Bentley|1693|Taur. B IV 13|
-Eur. Ph. 136|-τας|αὐτοκασιγνήται|Reiske|n.d.|P.Lond.Lit. 75|
+Eur. Ph. 136|-τας|αὐτοκασιγνήτᾳ|Reiske|1754|P.Lond.Lit. 75|p. 9
 Eur. Ph. 188|Ἀμυμωνίοις|τ᾽ ἀμυμ-|F. A. Paley|1879|RfP2|
-Eur. Ph. 207|-θην|κατενάσθη|Thirlby|n.d.|Athos Dionysiou 334 (Ad)|
+Eur. Ph. 207|-θην|κατενάσθη|Styan Thirlby|1726|Athos Dionysiou 334 (Ad)|ad 237 ap. King
 Eur. Ph. 226|ἰὼ|ω|Willem Canter|1571|P.Oxy. IX 1177|
 Eur. Ph. 228|-είων κτλ.|βακχεῖον|Adolf Kirchhoff|n.d.|Vindob. phil. gr. 119 (Rw)|
 Eur. Ph. 252|σχῆμα|σῆμα|Heimsoeth|1865|G et Aaγρ|
