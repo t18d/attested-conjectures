@@ -623,7 +623,7 @@ Arat. Phaen. 750|ἐμπλήσει|ἐμπλήσσει|J. H. Voß|1824|BKT V/I 7
 Arat. Phaen. 870|φαίνονται|φαίνωνται|J. H. Voß|1824|BKT V/I 7503 + 7804|
 Archil. fr. 4.6|ἀλλά τε|ἀλλ᾽ ἄγε|Musurus|n.d.|P.Oxy. VI 854|
 Arist. Po. 1447b9|om.|ἀνώνυμος|Bernays|1857–80|Σ|
-Arist. Po. 1447b16|μουσι-|φυσικόν|Daniel Heinsius|1611–43|Σ|
+Arist. Po. 1447b16|μουσι-|φυσικόν|Daniel Heinsius|1611|Σ|p. 71
 Arist. Po. 1448a16|αὐτῇ δὲ τῇ|τῇ αὐτῇ δὲ|Petrus Victorius|1560|Paris. arab. 2346|
 Arist. Po. 1448a34|χωνίδ-|Χιωνίδου|Francesco Robortello|1548|Σ|
 Arist. Po. 1453b34|τὸν μ.|τὸ μέλλοντα|Theodorus Rentius|1569|Σ|
@@ -637,6 +637,20 @@ Arist. Po. 1456b21|ὄ. ῥ. ἄ.|ἄρθρον ὄνομα ῥῆμα|Leonhard 
 Arist. Po. 1456b26|om.|τὸ|F. W. Reiz|1786|Σ|
 Arist. Po. 1457a3|-ὸν|αὑτὴν|Thomas Tyrwhitt|1794|Will. of Moerb.|
 Arist. Po. 1457a13|θεοδώρῳ τὸ δῶρον|θεόδωρος τὸ δωρος|Franz Ritter|1839|Σ|
+Arist. Po. 1457a33|-ος|ὀνόματι|Leonhard Spengel|1868|Σ|p. 332
+Arist. Po. 1457b2–3|ὑφ-|ἀφῃρημένον|Leonhard Spengel|1868|Σ|p. 332
+Arist. Po. 1458a29|πυρίχαλκον|πυρὶ χαλκὸν|Francesco Robortello|1548|Σ|
+Arist. Po. 1460a5|διαιρεῖσθαι|αἱρεῖσθαι|Hermann Bonitz|1862|Will. et Σ|
+Arist. Po. 1460b23|ἀ.|εἰ ἀδύνατα|Johannes Vahlen|1867|Paris. gr. 2038|
+Arist. Po. 1460b36|ἔτ. ὥ. ξενοφάνη|εἰ ἔτυχεν ὥσπερ Ξενοφάνει|Johannes Vahlen|1867|Ricc. 46 (B)|
+Arist. Po. 1461a16|τὸ δὲ|τὰ δὲ|Leonhard Spengel|1868|Σ|p. 341
+Arist. Po. 1461a31|γε κατὰ|γε καὶ κατὰ|Daniel Heinsius|1611|Σ|
+Arist. Po. 1461a34–5|ὡδὶ ἢ ὡς|ὡδὶ ἢ ὡδί ὡς|Johannes Vahlen|1874|Ricc. 46 (B)|
+Arist. Po. 1461b6–7|-λ-|κεφαλλῆνες|Thomas Tyrwhitt|1794|Paris. gr. 2038|
+Arist. Po. 1461b8|διαμάρτημα|δι’ ἁμάρτημα|Vincenzo Maggi|1550|Will. et Σ|
+Arist. Po. 1461b15–16|ὑπεναντία ὡς|ὑπεναντίως|Thomas Twining|1789|Σ|
+Arist. Po. 1461b21| ̓Ο. τοῦ Μ.| ̓Ορέστῃ τῇ τοῦ Μενελάου|Johannes Vahlen|1874|Σ|
+Arist. Po. 1462a3|om.|οἳ|Petrus Victorius|1560|Σ|
 Arist. fr. 57.12 Rose|οὔτε|ουδε|Meineke|1839–57|P.Oxy. IV 666|
 Arist. fr. 842.7 Page|τ᾽ ἀθάνατον/εἰς ἀ.|ἰσαθάνατον|Wilamowitz|n.d.|BKT I 25|Did. in D. col. 6.18 seqq.
 Aristarch.Trag. fr. 3|-νημα|σωφρόνισμα|Meineke|1839–57|Macar.|
@@ -2515,7 +2529,7 @@ Men. Epit. 432|deest|προϲεδόκων|Edward Capps|1910|P.Oxy. LX 4022|πρ�
 Men. Epit. 440|ἡμ[]ην|ἡμ[έραν τρίτ]ην|Maurice Croiset|1908|P.Oxy. LX 4022|
 Men. Epit. 795|πλείονα οἶδεν˙ πλείονα κακουργεῖ˙ αἰσχύνεται|πλείονα πανουργεῖ˙ πλείον’ οἶδ’˙ αἰσχύνεται|P. P. Dobree|s.xviii/xix|P.Oxy. L 3532 + 3533|Adv. II p. 284
 Men. Epit. 897|συγγν[..]ης [..]ρος|συγγν[ώμ]ης [μέ]ρος|Jan van Leeuwen|1908|P.Oxy. X 1236|
-Men. Her. fr. 2.2|δὲ δεῖ|δεῖ|Guil. Morelius|1553|P.Bour. 1|
+Men. Her. fr. 2.2|δὲ δεῖ|δεῖ|Guillaume Morel|1553|P.Bour. 1|
 Men. Kol. 50|νῦν|νυνί|Grotius|s.xvii in.|P.Oxy. III 409|Eust.1833.58.; G. apud Clericum
 Men. Kon. fr. 1.2|ἴδηις|ειδηις|Meineke|1839–51|P.Berol. inv. 21312 b. c + P.Schub. 27|Men. et Phil. p. 103
 Men. Mis. 51–2|ὕοντα πολλῶι|ϋοντα πολλω|Porson|s.xviii/xix|P.Oxy. XLVIII 3368|ap. Dobree Adv. II p. 285
