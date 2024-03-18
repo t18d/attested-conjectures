@@ -635,6 +635,8 @@ Arist. Po. 1456a34|ἢ|καὶ|Hermann|1802|Σ|
 Arist. Po. 1456b8|φανοῖτο|φαίνοιτο|Charles Bigg|1883|Ricc. 46 (B)|Journ. of Phil. ('See Goodwin §26')
 Arist. Po. 1456b21|ὄ. ῥ. ἄ.|ἄρθρον ὄνομα ῥῆμα|Leonhard Spengel|1868|Σ|p. 328
 Arist. Po. 1456b26|om.|τὸ|F. W. Reiz|1786|Σ|
+Arist. Po. 1457a3|-ὸν|αὑτὴν|Thomas Tyrwhitt|1794|Will. of Moerb.|
+Arist. Po. 1457a13|θεοδώρῳ τὸ δῶρον|θεόδωρος τὸ δωρος|Franz Ritter|1839|Σ|
 Arist. fr. 57.12 Rose|οὔτε|ουδε|Meineke|1839–57|P.Oxy. IV 666|
 Arist. fr. 842.7 Page|τ᾽ ἀθάνατον/εἰς ἀ.|ἰσαθάνατον|Wilamowitz|n.d.|BKT I 25|Did. in D. col. 6.18 seqq.
 Aristarch.Trag. fr. 3|-νημα|σωφρόνισμα|Meineke|1839–57|Macar.|
