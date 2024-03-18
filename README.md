@@ -1957,13 +1957,13 @@ Eur. Ph. 1694|γεραιᾶς|-ᾶι|Valckenaer|1755|Athos Vatopediou 671 (At)|-
 Eur. Ph. 1710|χεῖρα|χέρα|Hermann|1816|manus Triclinii|p. 761
 Eur. Ph. 1722|ἔχων|del.|Hermann|1816|P.Strasb. inv. WG 307|p. 762
 Eur. Ph. 1723|-ᾶς|φυγὰς|Hermann|1816|RZ|p. 762
-Eur. Ph. 1753|ὧι|ἐν ὧι|Scaliger|n.d.|Ambros. L 39 sup. (G)|
-Eur. Ph. 1759|-ω|ἔγνων|Samuel Musgrave|n.d.|VG|
-Eur. Ph. (a) 7|ὑπὸ|ὑπὲρ|Wecklein|n.d.|Cremon. 130 (Cr)|
-Eur. Ph. (a) 8|-ξάμ-|παραταξόμενος|G. H. Schaefer|n.d.|P.Oxy. XXXI 2544|
-Eur. Ph. (a) 10-11|ἐβούλετο|ἐβουλεύετο|Adolf Kirchhoff|August|Marc. gr. 468 (F)|
+Eur. Ph. 1753|ὧι|ἐν ὧι|Scaliger|1974|Ambros. L 39 sup. (G)|CQ
+Eur. Ph. 1759|-ω|ἔγνων|Samuel Musgrave|1788|VG|p. 237
+Eur. Ph. (a) 7|ὑπὸ|ὑπὲρ|Wecklein|1894|Cremon. 130 (Cr)|
+Eur. Ph. (a) 8|-ξάμ-|παραταξόμενος|G. H. Schaefer|1824|P.Oxy. XXXI 2544|apud Porson
+Eur. Ph. (a) 10-11|ἐβούλετο|ἐβουλεύετο|Adolf Kirchhoff|1855|Marc. gr. 468 (F)|
 Eur. Ph. (a) 10-11|ἀπέσφαξε(ν)|ἀποσφάξαι|Valckenaer|1755|PrRf|
-Eur. Ph. (a) 20|λογοποιήσας|λόγον ποιήσας|F. H. Bothe||Ambros. L 39 sup. (G)|
+Eur. Ph. (a) 20|λογοποιήσας|λόγον ποιήσας|F. H. Bothe|1825|Ambros. L 39 sup. (G)|
 Eur. Rh. 63|ἦν|η|Cobet|n.d.|P.Achm. 4|
 Eur. Rh. 78|πῦρ αἴθειν/πυραίθειν|πύρ᾽ αἴθειν|Reiske|n.d.|P.Achm. 4|
 Eur. Rh. 108|σὲ … τοὺς δὲ|σοὶ … τοῖς δὲ|Henri Estienne|n.d.|fere Chr. Pat. 2370|
