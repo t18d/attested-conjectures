@@ -237,7 +237,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (225), Nicolaus Heinsius (212), Bentley (133), Madvig (86), Markland (84), Valckenaer (74), Gronovius (67), Beatus Rhenanus (65), Porson (63), Reiske (59) and Denys Lambin (59) (tied).</p>
+<p>The top 10 critics are Scaliger (225), Nicolaus Heinsius (212), Bentley (133), Madvig (86), Markland (83), Valckenaer (74), Gronovius (67), Beatus Rhenanus (65), Porson (63), Reiske (59) and Denys Lambin (59) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1948,16 +1948,15 @@ Eur. Ph. 1520–1|ἀεὶ|αἰεὶ|August Seidler|1812|Cremon. 130 (Cr)|p. 33
 Eur. Ph. 1522–3|-οισι(ν)|λειβομένοισιν|F. H. Bothe|1803|P.Strasb. inv. WG 307|
 Eur. Ph. 1522–3|ἰαχήσω|del.|George Burges|1807|P.Strasb. inv. WG 307|ad Tr. p. 144
 Eur. Ph. 1524|-οῖσιν|σπαραγμοῖς|Johannes Gregoropulos|1503|WZ|
-Eur. Ph. 1537–8|δ. δύστανον|δεμνίοις δύστανος|Valckenaer|n.d.|Laur. 32.2 (L)|
+Eur. Ph. 1537–8|δ. δύστανον|δεμνίοις δύστανος|Valckenaer|1755|Laur. 32.2 (L)|
 Eur. Ph. 1562|γ'|δ'|John Jackson|1955|Laur. 32.33 (Rf)|
-Eur. Ph. 1562|δ'|τ'|Dindorf|n.d.|Laur. 32.33 (Rf)|
-Eur. Ph. 1626|δὲ|τε|Markland|n.d.|Haun. 3549 (Zc)|
+Eur. Ph. 1608|δ'|τ'|Elmsley|1811–13|Laur. 32.33 (Rf)|
 Eur. Ph. 1626|δὲ|τε|Valckenaer|1755|Haun. 3549 (Zc)|
 Eur. Ph. 1682|λίπε|λεῖπε|Valckenaer|1755|OV|
 Eur. Ph. 1694|γεραιᾶς|-ᾶι|Valckenaer|1755|Athos Vatopediou 671 (At)|-ᾶ At
-Eur. Ph. 1710|χεῖρα|χέρα|Hermann|n.d.|manus Triclinii|
-Eur. Ph. 1722|ἔχων|del.|Hermann|n.d.|P.Strasb. inv. WG 307|
-Eur. Ph. 1723|-ᾶς|φυγὰς|Hermann|n.d.|RZ|
+Eur. Ph. 1710|χεῖρα|χέρα|Hermann|1816|manus Triclinii|p. 761
+Eur. Ph. 1722|ἔχων|del.|Hermann|1816|P.Strasb. inv. WG 307|p. 762
+Eur. Ph. 1723|-ᾶς|φυγὰς|Hermann|1816|RZ|p. 762
 Eur. Ph. 1753|ὧι|ἐν ὧι|Scaliger|n.d.|Ambros. L 39 sup. (G)|
 Eur. Ph. 1759|-ω|ἔγνων|Samuel Musgrave|n.d.|VG|
 Eur. Ph. (a) 7|ὑπὸ|ὑπὲρ|Wecklein|n.d.|Cremon. 130 (Cr)|
