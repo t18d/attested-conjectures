@@ -1722,7 +1722,7 @@ Eur. Hec. 1176|τε|τὸν|Nauck|n.d.|Laur. 32.3 (L)|
 Eur. Hec. 1215|-νῶι|καπνὸς|Willem Canter|1571|Kγρ|
 Eur. Hel. 135|οὔ πω vel ἦ που|οὔ που|P. P. Dobree|s.xviii/xix|Laur. 32.3 (L)|
 Eur. Hel. 634|χεῖρας|χέρας|Elmsley|n.d.|P.Oxy. XXII 2336|
-Eur. Heracl. 837|-ῃ|μάχη|Elmsley|n.d.|Laur. 32.3 (L)|
+Eur. Heracl. 837|-ῃ|μάχη|Elmsley|1813|Laur. 32.3 (L)|
 Eur. Hipp. 71–2|ὄπαρθένων ἄρτεμι|ὄλυμπον|Nauck|n.d.|Laur. 31.10 (O)|
 Eur. Hipp. 364|σὰν|σᾶν|Elmsley|n.d.|Paris. gr. 2713 (B)|
 Eur. Hipp. 378|κάκιον|κακίον'|Henrik van Herwerden|n.d.|cod. Oxon. Cyrilli Alex.|Exerc. crit. (1862) 135
@@ -1981,11 +1981,11 @@ Eur. Ph. (a) 8|-ξάμ-|παραταξόμενος|G. H. Schaefer|1824|P.Oxy. XX
 Eur. Ph. (a) 10-11|ἐβούλετο|ἐβουλεύετο|Adolf Kirchhoff|1855|Marc. gr. 468 (F)|
 Eur. Ph. (a) 10-11|ἀπέσφαξε(ν)|ἀποσφάξαι|Valckenaer|1755|PrRf|
 Eur. Ph. (a) 20|λογοποιήσας|λόγον ποιήσας|F. H. Bothe|1825|Ambros. L 39 sup. (G)|
-Eur. Rh. 63|ἦν|η|Cobet|n.d.|P.Achm. 4|
-Eur. Rh. 78|πῦρ αἴθειν/πυραίθειν|πύρ᾽ αἴθειν|Reiske|n.d.|P.Achm. 4|
-Eur. Rh. 108|σὲ … τοὺς δὲ|σοὶ … τοῖς δὲ|Henri Estienne|n.d.|fere Chr. Pat. 2370|
-Eur. Rh. 131|μετατιθ-|μεταθέμενος|Samuel Musgrave|n.d.|Haun. 417 (Hn)|
-Eur. Rh. 325|-ταις|κυνηγέτης|Elmsley|n.d.|Escor. gr. X.1.13 (gE)|
+Eur. Rh. 63|ἦν|η|Cobet|n.d.|P.Achm. 4|VL p. 593
+Eur. Rh. 78|πῦρ αἴθειν/πυραίθειν|πύρ᾽ αἴθειν|Reiske|1753|P.Achm. 4|
+Eur. Rh. 108|σὲ … τοὺς δὲ|σοὶ … τοῖς δὲ|Henri Estienne|1602|fere Chr. Pat. 2370|
+Eur. Rh. 131|μετατιθ-|μεταθέμενος|Samuel Musgrave|1778|Haun. 417 (Hn)|
+Eur. Rh. 325|-ταις|κυνηγέτης|Elmsley|1813|Escor. gr. X.1.13 (gE)|ad Heracl. 694
 Eur. Rh. 398|-ων|πολεμίωι|F. H. Bothe|1826|Va1s|
 Eur. Rh. 429|πορθμεύσων/-εύσας|-εῦσαι|Johannes Gregoropulos|1503|Harl. 5743 (Q)|
 Eur. Rh. 482|νῦν|νυν|Scaliger|n.d.|Athos Vatopediou 36 (gV)|
