@@ -4388,6 +4388,8 @@ Stat. Theb. 12.355|imm-/am-|admisso|Jean de Peyrarède|1658|O d|apud de Marolles
 Stat. Theb. 12.718|at|an|C. E. Sandström|1878|Monac. 19481 (F3)|p. 60; v.l.
 Stat. Theb. 12.729|tac-|iacent|Emil Baehrens|1884|Paris. lat. 10317 (Q)|apud Kohlmann; m. sec.
 Stat. Theb. 12.733|-ios|edonos|Gronovius|1653|Brux. 5337 (G)|v.l.
+Stob. 1 coroll. 3|μούσαν/-σίαν|μουσικάν|A. H. L. Heeren|1792|Neap. III D 15 (F)|
+Stob. 1 coroll. 6|προαγεῖν/προσαγαγεῖν|προαγαγεῖν|Meineke|1860|Neap. III D 15 (F)|
 Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985|
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
 Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839–57|Paris. gr. 3012|
