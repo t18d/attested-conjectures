@@ -28,6 +28,7 @@
         <li>Apuleius Platonicus Madaurensis, <em>De philosophia libri</em>, ed. Paul Thomas (Stuttgart, 1970).</li>
         <li>Apuleius Platonicus Madaurensis, <em>De philosophia libri</em>, ed. C. Moreschini (Stuttgart, 1991).</li>
         <li>Aristophanes, <em>Fabulae</em>, ed. N. G. Wilson, 2 vols (Oxford, 2007).</li>
+        <li>Aristotle, <em>Poetics</em>, ed. Leonardo Tarán and Dimitri Gutas (Leiden, 2012).</li>
         <li>Apollonius Rhodius, <em>Argonautica</em>, ed. Hermann Fränkel (Oxford, 1961).</li>
         <li>Asconius Pedianus, Q., <em>Orationum Ciceronis quinque enarratio</em>, ed. Albert Curtis Clark (Oxford, 1907).</li>
         <li>Asztalos, Monika, Tor Ivar Østmoe, et al., <em><a href="http://www.tekstlab.uio.no/horace/">Repertory of Conjectures on Horace</a></em>, University of Oslo, accessed 9 Feb. 2024.</li>
