@@ -238,7 +238,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (225), Nicolaus Heinsius (212), Bentley (133), Madvig (86), Markland (83), Valckenaer (74), Gronovius (67), Beatus Rhenanus (65), Porson (63), Reiske (59) and Denys Lambin (59) (tied).</p>
+<p>The top 10 critics are Scaliger (225), Nicolaus Heinsius (212), Bentley (133), Madvig (86), Markland (83), Valckenaer (75), Gronovius (67), Beatus Rhenanus (65), Porson (63), Reiske (59) and Denys Lambin (59) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4396,16 +4396,18 @@ Stob. 2.7.20|ᾧ|ὧν|C. F. Sehrwald|1859|P2|apud Meurer
 Stob. 2.7.20|ὅμ-|ὅλως|Hermann Rassow|1858|P2 in marg.|p. 27
 Stob. 2.31.128|-θεστέρων|ἀξιομαθητοτέρων|L. Dindorf|1831–56|Laur. Plut. 8.22 (L)|TGL s.v.
 Stob. 3.1.117|δεινα|δειλία|Gaisford|1850|Brux. misc. 11360 (Br)|
-Stob. 3.1.151|ἀπειθεῖν|πείθειν|Hieronymus Wolf||Paris. gr 1168|
-Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escur. LXXXX II Σ 14  (Dindorf)|
+Stob. 3.1.151|ἀπειθεῖν|πείθειν|Hieronymus Wolf||Paris. gr. 1168|
+Stob. 3.1.195|-τῆσαι|καταρτίσαι|Conrad Gesner|1549|Paris. gr. 1984 (A)|
+Stob. 3.2.15|Τεννε/Τημε|Τημένῳ|Valckenaer|1767|duo codd. Schowiani|Diatribe p. 15
+Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escor. LXXXX II Σ 14  (Dindorf)|
 Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839–57|Paris. gr. 3012|
 Stob. 3.34.2|λέγε|λέγ᾽ εὖ|Valckenaer|1767|Laur. Plut. 8.22 (L)|
 Stob. 3.34.2|φέροι|φέρει|Cobet|1878|Laur. Plut. 8.22 (L)|L 3.13
-Stob. 4.20.46|χερσὶ(ν)|χεροῖν|Scaliger|1623|B (teste Brunck/Gaisford)|apud Grotium
-Stob. 4.20.46|ποτ᾽ ἐνίους|ποταινίους|Scaliger|1623|B (teste Gaisford)|apud Grotium
+Stob. 4.20.46|χερσὶ(ν)|χεροῖν|Scaliger|1623|B teste Brunck/Gaisford|apud Grotium
+Stob. 4.20.46|ποτ᾽ ἐνίους|ποταινίους|Scaliger|1623|B teste Gaisford|apud Grotium
 Stob. 4.21.20|-ειν|ἔχων|August Matthiae|1829|exc. Stob. Escor. X-1-13|
 Stob. 4.21.20|εἴην|εἴη|Valckenaer|1767|exc. Stob. Escor. X-1-13|'ut Pelopis fortasse sit votum, vel alterius, de filio loquentis'
-Stob. 4.39.15|λώϊστον δὲ ζ.|λῷστον δὲ τὸ ζῆν|Johannes Pierson|1759|B (teste Brunck/Gaisford)|
+Stob. 4.39.15|λώϊστον δὲ ζ.|λῷστον δὲ τὸ ζῆν|Johannes Pierson|1759|B teste Brunck/Gaisford|
 Str. 8.5.6|πολέμοις|-μιοις|Theodorus Agallianus|1446|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.5.6|-ϲ(ιν) ἅρμαϲι|μυρίοιϲι νάμαϲι(ν)|Casaubon|1621|Vat. gr. 2306 + 2061 A (P)|μυριοιϲιν ναμαϲιν
 Str. 8.5.6|-οτάτην|εὐβοτωτάτην|Casaubon|1621|Vat. gr. 2306 + 2061 A (P)|
