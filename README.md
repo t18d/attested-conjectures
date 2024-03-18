@@ -321,7 +321,7 @@ Aeschin. 3.196|om.|τὰ|Andreas Weidner|1872|P.Hamb. II 165|
 Aeschin. 3.230|-σεσθε|ἀποψηφίσαισθε|Henri Estienne|1575|Barb. gr. 159 (B)|
 Aeschin. 3.239|ἐξειρ-|ἐξηργάσατο|Blass|1896|P.Köln VI 254|
 Aeschin. 3.243|μοῖραν|μόραν|Hieronymus Wolf|1572|Barb. gr. 159 (B)|
-Alc. fr. 6.3|καὶ|ΚΕ’ΝΑ|J. F. A. Seidler|1829|P.Oxy. XV 1789|
+Alc. fr. 6.3|καὶ|ΚΕ’ΝΑ|August Seidler|1829|P.Oxy. XV 1789|
 Alc. fr. 34|]ϲον|δεῦτέ μοι νᾶϲον|C. Gallavotti|1947|P.Mich. inv. 3498 + 3250b recto|δεῦτ̣[έ] μοι νᾶcον; Borges-Sampson (2012)
 Alc. fr. 343|τετυγ-|τετυχ[|Lobel|1927|P.Oxy. XXXV 2734|
 Amm. 14.1.3|conmis-|commisceri|Petrus Castellus|1517|Marc. 388 Bess. (W)|
@@ -1876,7 +1876,7 @@ Eur. Ph. 308-9|χαίτας|-ταις|Jean Brodeau|1551|P.Vindob. inv. G 29769|e
 Eur. Ph. 325|δ'|τ'|Gilbert Wakefield|1801|Laur. Conv. Soppr. 172 (P)|Crit. Rev. (Wakefield on Porson)
 Eur. Ph. 341|τάδε|τᾶιδε|Valckenaer|1755|manus Triclinii|
 Eur. Ph. 361|δὲ τάρβους|δ᾽ ἐτάρβης᾽|Hermann|1840|Vindob. phil. gr. 119 (Rw)|
-Eur. Ph. 363|-εος|ἄστεως|Dindorf|1825|Favor. de exil. 7.2|
+Eur. Ph. 363|-εος|ἄστεως|L. Dindorf|1825|Favor. de exil. 7.2|
 Eur. Ph. 378|-νες|τλήμονος|Markland|1758|manus Triclinii s.l.|apud Burton p. LXVII
 Eur. Ph. 381|φῦναί|-σαί|Hermann|1840|fere FcRwZu|
 Eur. Ph. 386|ταῦτ᾽|ταὔτ᾽|F. H. Bothe|1825|fere AS|
@@ -1946,7 +1946,7 @@ Eur. Ph. 1502|τάδε σώματα|τάδ᾽ αἵματα|Samuel Musgrave|1788
 Eur. Ph. 1508|πάτερ|del.|Hermann|1840|P.Strasb. inv. WG 307|
 Eur. Ph. 1520–1|ἀεὶ|αἰεὶ|August Seidler|1812|Cremon. 130 (Cr)|p. 337
 Eur. Ph. 1522–3|-οισι(ν)|λειβομένοισιν|F. H. Bothe|1803|P.Strasb. inv. WG 307|
-Eur. Ph. 1522–3|ἰαχήσω|del.|Burges|n.d.|P.Strasb. inv. WG 307|
+Eur. Ph. 1522–3|ἰαχήσω|del.|George Burges|1809|P.Strasb. inv. WG 307|
 Eur. Ph. 1522–3|ἰαχήσω|del.|Dindorf|n.d.|P.Strasb. inv. WG 307|
 Eur. Ph. 1524|-οῖσιν|σπαραγμοῖς|Johannes Gregoropulos|1503|WZ|
 Eur. Ph. 1537–8|δ. δύστανον|δεμνίοις δύστανος|Valckenaer|n.d.|Laur. 32.2 (L)|
