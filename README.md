@@ -1988,10 +1988,10 @@ Eur. Rh. 131|μετατιθ-|μεταθέμενος|Samuel Musgrave|1778|Haun. 4
 Eur. Rh. 325|-ταις|κυνηγέτης|Elmsley|1813|Escor. gr. X.1.13 (gE)|ad Heracl. 694
 Eur. Rh. 398|-ων|πολεμίωι|F. H. Bothe|1826|Va1s|
 Eur. Rh. 429|πορθμεύσων/-εύσας|-εῦσαι|Johannes Gregoropulos|1503|Harl. 5743 (Q)|
-Eur. Rh. 482|νῦν|νυν|Scaliger|n.d.|Athos Vatopediou 36 (gV)|
-Eur. Rh. 685|ἴστω|ἵστω|Aemilius Portus|n.d.|Σl|
-Eur. Rh. 694|χεῖρα|χέρα|Samuel Musgrave|n.d.|Haun. 417 (Hn)|
-Eur. Rh. 855|-ᾶ(ι)|μηχαναὶ|Samuel Musgrave|n.d.|Et.Gen. B|
+Eur. Rh. 482|νῦν|νυν|Scaliger|1694|Athos Vatopediou 36 (gV)|apud Barnes
+Eur. Rh. 685|ἴστω|ἵστω|Aemilius Portus|1599|Σl|
+Eur. Rh. 694|χεῖρα|χέρα|Samuel Musgrave|1778|Haun. 417 (Hn)|
+Eur. Rh. 855|-ᾶ(ι)|μηχαναὶ|Samuel Musgrave|1778|Et.Gen. B|
 Eur. Rh. 883|ἄγει/ἄγοι|ἀνάγει|Benjamin Heath|n.d.|Ambros. F 205 inf. (Af)|
 Eur. Rh. (a) 8|ἀπ-|ὑπέστρεφον|Schwartz|n.d.|Palat. gr. 98 (Va)|
 Eur. Supp. 1150|-ῶν|δαναϊδᾶν|Elmsley|n.d.|Triclinii emendatio 1|
