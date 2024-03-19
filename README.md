@@ -4423,6 +4423,9 @@ Stob. 3.33.16|τῶν|τοῖς|Wyttenbach|1800|Vindob. philos. et philol. gr. 6
 Stob. 3.34.2|λέγε|λέγ᾽ εὖ|Valckenaer|1767|Laur. Plut. 8.22 (L)|Diatr. p. 256
 Stob. 3.34.2|-οι|φέρει|Cobet|1878|Laur. Plut. 8.22 (L)|Coll. crit. p. 203
 Stob. 3.40.9|κ. ἄξιός|κἂν ἀξιοῖς|Conrad Gesner|1543|Apc|
+Stob. 4.1.95|ἐπεύχ-|ἐπέχεσθαι|Conrad Gesner|1543|MA|
+Stob. 4.5.78|ἔλεγε τὸν ἄ.|ἔλεγεν ἄρχοντα|Nauck|1894|Brux. misc. 11360 (Br)|apud Hense
+Stob. 4.8.32|τῶν|τὸν|Conrad Gesner|1543|Paris. gr. 1984 (A)|
 Stob. 4.20.46|χερσὶ(ν)|χεροῖν|Scaliger|1623|B teste Brunck/Gaisford|apud Grotium
 Stob. 4.20.46|ποτ᾽ ἐνίους|ποταινίους|Scaliger|1623|B teste Gaisford|apud Grotium
 Stob. 4.21.20|-ειν|ἔχων|August Matthiae|1829|exc. Stob. Escor. X-1-13|
