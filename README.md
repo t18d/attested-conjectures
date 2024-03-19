@@ -207,6 +207,7 @@
         <li>Sophocles, <em>Fabulae</em>, ed. H. Lloyd-Jones and N. G. Wilson (Oxford, 1990).</li>
         <li>Sophocles, <em>Tragoediae</em>, ed. R. D. Dawe (Leipzig, 1996).</li>
         <li>Statius, P. Papinius, <em>Thebaid and Achilleid</em>, i, ed. J. B. Hall, A. L. Ritchie and M. J. Edwards (Newcastle, 2007).</li>
+        <li>Stobaeus, Ioannes, <em>Anthologium</em>, ed. Curt Wachsmuth and Otto Hense, 5 vols (Berlin, 1884–1912).</li>
         <li>Tacitus, Cornelius, <em>Opera minora</em>, ed. M. Winterbottom and R. M. Ogilvie (Oxford, 1975).</li>
         <li>Tacitus, Cornelius, <em>Ab excessu divi Augusti libri XI–XVI</em>, ed. Kenneth Wellesley (Leipzig, 1986).</li>
         <li>Tacitus, Cornelius, <em>Historiarum libri</em>, ed. Kenneth Wellesley (Leipzig, 1989).</li>
