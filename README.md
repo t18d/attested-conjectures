@@ -4422,7 +4422,7 @@ Stob. 3.33.13|-αι|ποιεῖσθε|Meineke|1857|SM|addendum ap. vol. IV
 Stob. 3.33.16|τῶν|τοῖς|Wyttenbach|1800|Vindob. philos. et philol. gr. 67 (S)|
 Stob. 3.34.2|λέγε|λέγ᾽ εὖ|Valckenaer|1767|Laur. Plut. 8.22 (L)|Diatr. p. 256
 Stob. 3.34.2|-οι|φέρει|Cobet|1878|Laur. Plut. 8.22 (L)|Coll. crit. p. 203
-Stob. 3.40.9||κἂν ἀξιοῖς|Conrad Gesner|1543|Apc|
+Stob. 3.40.9|κ. ἄξιός|κἂν ἀξιοῖς|Conrad Gesner|1543|Apc|
 Stob. 4.20.46|χερσὶ(ν)|χεροῖν|Scaliger|1623|B teste Brunck/Gaisford|apud Grotium
 Stob. 4.20.46|ποτ᾽ ἐνίους|ποταινίους|Scaliger|1623|B teste Gaisford|apud Grotium
 Stob. 4.21.20|-ειν|ἔχων|August Matthiae|1829|exc. Stob. Escor. X-1-13|
