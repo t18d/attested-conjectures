@@ -4407,11 +4407,14 @@ Stob. 3.1.209|τῆς -ης|τὴν σκέπην|J. V. Peerlkamp|1822|MdABr|p. x
 Stob. 3.1.209|-ος|θάλπους|J. V. Peerlkamp|1822|MdABr|
 Stob. 3.1.209|-α|περιττεύουσαν|J. D. Lorenz|1828|Paris. gr. 1984 (A)|apud Jacobs
 Stob. 3.1.209|χρήσ-|χρίσεις|Conrad Gesner|1549|Brux. misc. 11360 (Br)|
+Stob. 3.2.7|-ῆ|αὐτοῖς|Nauck|1894|Brux. misc. 11360 (Br)|apud Hense
 Stob. 3.2.15|Τεννε/Τημε|Τημένῳ|Valckenaer|1767|duo codd. Schowiani|Diatribe p. 15
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escor. LXXXX II Σ 14 (Md)|
 Stob. 3.3.50|διδόντ-|δώσοντας|Nauck|1894|Epicur. Sent.Vat.|apud Hense
+Stob. 3.4.12|δ. φοίτασις|δόμοις φοιτάσεις|Conrad Gesner|1549|Paris. gr. 1984 (A)|
 Stob. 3.5.45|πολὺ|πολλὴ|Conrad Gesner|1549|LABr|
 Stob. 3.10.68|-πίῃ|Αἰσωπηίῃ|Meineke|1855|Brux. misc. 11360 (Br)|-πείῃ Br
+Stob. 3.16.15|ἀπο-|ἀπεστερέαται|G. H. Schaefer|1811|Vindob. philos. et philol. gr. 67 (S)|ad Greg.Cor. p. 485
 Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke||Paris. gr. 3012|
 Stob. 3.34.2|λέγε|λέγ᾽ εὖ|Valckenaer|1767|Laur. Plut. 8.22 (L)|
 Stob. 3.34.2|φέροι|φέρει|Cobet|1878|Laur. Plut. 8.22 (L)|L 3.13
