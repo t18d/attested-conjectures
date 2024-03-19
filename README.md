@@ -238,7 +238,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (225), Nicolaus Heinsius (212), Bentley (134), Madvig (86), Markland (83), Valckenaer (75), Gronovius (67), Beatus Rhenanus (65), Porson (63), Reiske (59) and Denys Lambin (59) (tied).</p>
+<p>The top 10 critics are Scaliger (226), Nicolaus Heinsius (212), Bentley (134), Madvig (86), Markland (83), Valckenaer (75), Gronovius (67), Beatus Rhenanus (65), Porson (63), Reiske (59) and Denys Lambin (59) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4423,6 +4423,7 @@ Stob. 3.33.16|τῶν|τοῖς|Wyttenbach|1800|Vindob. philos. et philol. gr. 6
 Stob. 3.34.2|λέγε|λέγ᾽ εὖ|Valckenaer|1767|Laur. Plut. 8.22 (L)|Diatr. p. 256
 Stob. 3.34.2|-οι|φέρει|Cobet|1878|Laur. Plut. 8.22 (L)|Coll. crit. p. 203
 Stob. 3.40.9|κ. ἄξιός|κἂν ἀξιοῖς|Conrad Gesner|1543|Apc|
+Stob. 4.1.9|-εθα|ηὐχόμεσθα|Conrad Gesner|1543|S teste Mekler|
 Stob. 4.1.95|ἐπεύχ-|ἐπέχεσθαι|Conrad Gesner|1543|MA|
 Stob. 4.2.23|προσθ-|προθεὶς|Johannes Löwenklau|1569|Escor. LXXXX II Σ 14 (M)|
 Stob. 4.5.78|ἔλεγε τὸν ἄ.|ἔλεγεν ἄρχοντα|Nauck|1909|Brux. misc. 11360 (Br)|apud Hense
@@ -4442,8 +4443,11 @@ Stob. 4.29.11|τέκνων|κενῶν|Conrad Gesner|1543|P.Berol. 5514|
 Stob. 4.31.22|νόμιζ' αὐτὸν|νόμιζε σαυτὸν|Conrad Gesner|1543|Paris. gr. 1984 (A)|
 Stob. 4.31.86|-αις/κακουμένους|καμουμένους|Friedrich Dübner|1855|SM|
 Stob. 4.31.112|κρείττω|κρεῖττον|Meineke|1856|Macar.|
+Stob. 4.36.32|κινή-|κνήσαις|Wyttenbach|1777|Vindob. philos. et philol. gr. 67 (S)|p. 50
 Stob. 4.37.18|-ες|πάντων|Meineke|1856|Orib. Ec. 9.11|
 Stob. 4.39.15|λώϊστον δὲ ζ.|λῷστον δὲ τὸ ζῆν|Johannes Pierson|1759|B teste Brunck/Gaisford|
+Stob. 4.50.13|-λάβειν|ἀπολαύειν|Scaliger|1847|Vindob. philos. et philol. gr. 67 (S)|apud Meineke
+Stob. gnom. Theoct. 7|-ότης|ἠλιθιότητος|Conrad Gesner|1543|Vindob. philos. et philol. gr. 67 (S)|
 Str. 8.5.6|πολέμοις|-μιοις|Theodorus Agallianus|1446|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.5.6|-ϲ(ιν) ἅρμαϲι|μυρίοιϲι νάμαϲι(ν)|Casaubon|1621|Vat. gr. 2306 + 2061 A (P)|μυριοιϲιν ναμαϲιν
 Str. 8.5.6|-οτάτην|εὐβοτωτάτην|Casaubon|1621|Vat. gr. 2306 + 2061 A (P)|
