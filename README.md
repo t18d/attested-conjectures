@@ -4428,15 +4428,15 @@ Stob. 4.2.23|προσθ-|προθεὶς|Johannes Löwenklau|1569|Escor. LXXXX I
 Stob. 4.5.78|ἔλεγε τὸν ἄ.|ἔλεγεν ἄρχοντα|Nauck|1894|Brux. misc. 11360 (Br)|apud Hense
 Stob. 4.8.32|τῶν|τὸν|Conrad Gesner|1543|Paris. gr. 1984 (A)|
 Stob. 4.15.18|τούτων|τοῦτον|Meineke|1855|Vindob. philos. et philol. gr. 67 (S)|
-Stob. 4.20.46|χερσὶ(ν)|χεροῖν|Scaliger|1623|B teste Brunck/Gaisford|apud Grotium
-Stob. 4.20.46|ποτ᾽ ἐνίους|ποταινίους|Scaliger|1623|B teste Gaisford|apud Grotium
-Stob. 4.21.20|-ειν|ἔχων|August Matthiae|1829|exc. Stob. Escor. X-1-13|
-Stob. 4.21.20|εἴην|εἴη|Valckenaer|1767|exc. Stob. Escor. X-1-13|'ut Pelopis fortasse sit votum, vel alterius, de filio loquentis'
+Stob. 4.20.46|χερσὶ(ν)|χεροῖν|Scaliger|1623|B teste Brunck/Gaisford|ap. Grotium Dict. poet. p. 263
+Stob. 4.20.46|ποτ᾽ ἐνίους|ποταινίους|Scaliger|1623|B teste Brunck/Gaisford|ap. Grotium
+Stob. 4.21.20|-ειν|ἔχων|August Matthiae|1829|Escor. X-1-13|
+Stob. 4.21.20|εἴην|εἴη|Valckenaer|1767|Escor. X-1-13|'ut Pelopis fortasse sit votum, vel alterius, de filio loquentis'
 Stob. 4.22.108|ὁ γ. μ.|γαμβροῦ ὁ μὲν|Nauck|1894|Paris. gr. 1168 et Flor. Ariston|apud Hense
 Stob. 4.23.26|-ασά τ᾽|ἐμπλήσασ᾽|Bentley|1710|Chor.|
 Stob. 4.23.61|τε|τᾷ|Orelli|1821|Paris. gr. 1984 (A)|p. 726
 Stob. 4.23.65|τί δαὶ|τί δὲ|Meineke|1856|Paris. gr. 1984 (A)|
-Stob. 4.27.20|τῶν|τοῖς|Needham||Laur. Plut. 8.22 (L)|
+Stob. 4.27.20|τῶν|τοῖς|Peter Needham|1709|Laur. Plut. 8.22 (L)|
 Stob. 4.39.15|λώϊστον δὲ ζ.|λῷστον δὲ τὸ ζῆν|Johannes Pierson|1759|B teste Brunck/Gaisford|
 Str. 8.5.6|πολέμοις|-μιοις|Theodorus Agallianus|1446|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.5.6|-ϲ(ιν) ἅρμαϲι|μυρίοιϲι νάμαϲι(ν)|Casaubon|1621|Vat. gr. 2306 + 2061 A (P)|μυριοιϲιν ναμαϲιν
