@@ -238,7 +238,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (225), Nicolaus Heinsius (212), Bentley (133), Madvig (86), Markland (83), Valckenaer (75), Gronovius (67), Beatus Rhenanus (65), Porson (63), Reiske (59) and Denys Lambin (59) (tied).</p>
+<p>The top 10 critics are Scaliger (225), Nicolaus Heinsius (212), Bentley (134), Madvig (86), Markland (83), Valckenaer (75), Gronovius (67), Beatus Rhenanus (65), Porson (63), Reiske (59) and Denys Lambin (59) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4430,6 +4430,10 @@ Stob. 4.20.46|χερσὶ(ν)|χεροῖν|Scaliger|1623|B teste Brunck/Gaisfor
 Stob. 4.20.46|ποτ᾽ ἐνίους|ποταινίους|Scaliger|1623|B teste Gaisford|apud Grotium
 Stob. 4.21.20|-ειν|ἔχων|August Matthiae|1829|exc. Stob. Escor. X-1-13|
 Stob. 4.21.20|εἴην|εἴη|Valckenaer|1767|exc. Stob. Escor. X-1-13|'ut Pelopis fortasse sit votum, vel alterius, de filio loquentis'
+Stob. 4.22.108|ὁ γ. μ.|γαμβροῦ ὁ μὲν|Nauck|1894|Paris. gr. 1168 et Flor. Ariston|apud Hense
+Stob. 4.23.26|-ασά τ᾽|ἐμπλήσασ᾽|Bentley|1710|Chor.|
+Stob. 4.23.61|τὲ|τᾷ|Orelli||Paris. gr. 1984 (A)|
+Stob. 4.23.65|τί δαὶ|τί δὲ|Meineke|1856|Paris. gr. 1984 (A)|
 Stob. 4.39.15|λώϊστον δὲ ζ.|λῷστον δὲ τὸ ζῆν|Johannes Pierson|1759|B teste Brunck/Gaisford|
 Str. 8.5.6|πολέμοις|-μιοις|Theodorus Agallianus|1446|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.5.6|-ϲ(ιν) ἅρμαϲι|μυρίοιϲι νάμαϲι(ν)|Casaubon|1621|Vat. gr. 2306 + 2061 A (P)|μυριοιϲιν ναμαϲιν
