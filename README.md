@@ -4415,7 +4415,10 @@ Stob. 3.4.12|δ. φοίτασις|δόμοις φοιτάσεις|Conrad Gesner|
 Stob. 3.5.45|πολὺ|πολλὴ|Conrad Gesner|1549|LABr|
 Stob. 3.10.68|-πίῃ|Αἰσωπηίῃ|Meineke|1855|Brux. misc. 11360 (Br)|-πείῃ Br
 Stob. 3.16.15|ἀπο-|ἀπεστερέαται|G. H. Schaefer|1811|Vindob. philos. et philol. gr. 67 (S)|ad Greg.Cor. p. 485
-Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke||Paris. gr. 3012|
+Stob. 3.17.42|τῆς τοιαύτης εἶναι|τῆς μὴ τοιαύτης· εἶναι δὲ|Gaisford|1850|Brux. misc. 11360 (Br)|
+Stob. 3.29.12|-ον|ἔργου|Meineke|1855|SM|
+Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1894|Paris. gr. 3012|apud Hense
+Stob. 3.33.13|-αι|ποιεῖσθε|Meineke|1857|SM|addendum ap. vol. IV
 Stob. 3.34.2|λέγε|λέγ᾽ εὖ|Valckenaer|1767|Laur. Plut. 8.22 (L)|
 Stob. 3.34.2|φέροι|φέρει|Cobet|1878|Laur. Plut. 8.22 (L)|L 3.13
 Stob. 4.20.46|χερσὶ(ν)|χεροῖν|Scaliger|1623|B teste Brunck/Gaisford|apud Grotium
