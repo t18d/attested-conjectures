@@ -2549,7 +2549,7 @@ Men. fr. 248|τε|δὲ|Meineke|1839–51|Schol. R Soph. OC 1375|FCG
 Men. fr. 412.2|εἰς τὴν ἕκτην (ἐπὶ δέκα)|ἕκτην ἐπὶ δέκα|Porson|s.xviii/xix|Ph.Bybl. 87|Misc. p. 253
 Men. fr. 602.2|γε|τε|G. H. Schaefer|1817|P.Oxy. XLIX 3433|ad Brunck ΗΘΙΚΗ ΠΟΙΗϹΙϹ (1817) p. 264
 Men. fr. 602.5|ἐψευϲμένοϲ|ϲ' ἐψευϲμένοϲ|Grotius|1626|P.Oxy. XLIX 3433|Exc. p. 755
-Men. fr. 602.11|οἶκτον|ὄγκον|Friedrich Duebner|1938|P.Oxy. XLIX 3433|Menandri et Philemonis Fragmenta p. 54
+Men. fr. 602.11|οἶκτον|ὄγκον|Friedrich Dübner|1860|P.Oxy. XLIX 3433|Men. et Phil. Fragm. p. 54
 Men. fr. 602.18|λοιπόν|λυπηρόν|Wilamowitz|1876|P.Oxy. XLIX 3433|Herm. 11 (1876) 504
 Men. fr. 644|ἀπολόμ-|ἀπωλλύμεϲθα|Theodor Kock|1880–8|Schol. V Ar. Av. 374|CAF
 Men.Rh. 343.18|οἳ|οἷον|Conrad Bursian|1882|Paris. gr. 2423 (Z)|
@@ -4440,7 +4440,9 @@ Stob. 4.27.20|τῶν|τοῖς|Peter Needham|1709|Laur. Plut. 8.22 (L)|
 Stob. 4.29.11|ὅπως|ὅτῳ|Nauck|1912|P.Berol. 5514|apud Hense
 Stob. 4.29.11|τέκνων|κενῶν|Conrad Gesner|1543|P.Berol. 5514|
 Stob. 4.31.22|νόμιζ' αὐτὸν|νόμιζε σαυτὸν|Conrad Gesner|1543|Paris. gr. 1984 (A)|
-Stob. 4.31.86|-αις|καμουμένους|Friedrich Duebner||SM|
+Stob. 4.31.86|-αις/κακουμένους|καμουμένους|Friedrich Dübner|1855|SM|
+Stob. 4.31.112|κρείττω|κρεῖττον|Meineke|1856|Macar.|
+Stob. 4.37.18|-ες|πάντων|Meineke|1856|Orib. Ec. 9.11|
 Stob. 4.39.15|λώϊστον δὲ ζ.|λῷστον δὲ τὸ ζῆν|Johannes Pierson|1759|B teste Brunck/Gaisford|
 Str. 8.5.6|πολέμοις|-μιοις|Theodorus Agallianus|1446|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.5.6|-ϲ(ιν) ἅρμαϲι|μυρίοιϲι νάμαϲι(ν)|Casaubon|1621|Vat. gr. 2306 + 2061 A (P)|μυριοιϲιν ναμαϲιν
