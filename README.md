@@ -4396,11 +4396,14 @@ Stob. 2.7.20|ᾧ|ὧν|C. F. Sehrwald|1859|P2|apud Meurer
 Stob. 2.7.20|ὅμ-|ὅλως|Hermann Rassow|1858|P2 in marg.|p. 27
 Stob. 2.31.128|-θεστέρων|ἀξιομαθητοτέρων|L. Dindorf|1831–56|Laur. Plut. 8.22 (L)|TGL s.v.
 Stob. 3.1.117|δεινα|δειλία|Gaisford|1850|Brux. misc. 11360 (Br)|
-Stob. 3.1.151|ἀπειθεῖν|πείθειν|Hieronymus Wolf||Paris. gr. 1168|
+Stob. 3.1.151|ἀπειθεῖν|πείθειν|Hieronymus Wolf|1563|Paris. gr. 1168|ad Epict. Fr.
 Stob. 3.1.195|-τῆσαι|καταρτίσαι|Conrad Gesner|1549|Paris. gr. 1984 (A)|
 Stob. 3.2.15|Τεννε/Τημε|Τημένῳ|Valckenaer|1767|duo codd. Schowiani|Diatribe p. 15
-Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escor. LXXXX II Σ 14  (Dindorf)|
-Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1839–57|Paris. gr. 3012|
+Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escor. LXXXX II Σ 14 (Md)|
+Stob. 3.3.50|διδόντ-|δώσοντας|Nauck|1894|Epicur. Sent.Vat.|apud Hense
+Stob. 3.5.45|πολὺ|πολλὴ|Conrad Gesner|1549|LABr|
+Stob. 3.10.68|-πίῃ|Αἰσωπηίῃ|Meineke|1855|Brux. misc. 11360 (Br)|-πείῃ Br
+Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke||Paris. gr. 3012|
 Stob. 3.34.2|λέγε|λέγ᾽ εὖ|Valckenaer|1767|Laur. Plut. 8.22 (L)|
 Stob. 3.34.2|φέροι|φέρει|Cobet|1878|Laur. Plut. 8.22 (L)|L 3.13
 Stob. 4.20.46|χερσὶ(ν)|χεροῖν|Scaliger|1623|B teste Brunck/Gaisford|apud Grotium
