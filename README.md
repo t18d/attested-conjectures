@@ -4405,6 +4405,8 @@ Stob. 3.1.195|-τῆσαι|καταρτίσαι|Conrad Gesner|1549|Paris. gr. 19
 Stob. 3.1.206|-αν|εὐπραξία|Cobet|1858|Escor. LXXXX II Σ 14 (Md)|Nov. lect. p. 701
 Stob. 3.1.209|τῆς -ης|τὴν σκέπην|J. V. Peerlkamp|1822|MdABr|p. xvii
 Stob. 3.1.209|-ος|θάλπους|J. V. Peerlkamp|1822|MdABr|
+Stob. 3.1.209|-α|περιττεύουσαν|J. D. Lorenz|1828|Paris. gr. 1984 (A)|apud Jacobs
+Stob. 3.1.209|χρήσ-|χρίσεις|Conrad Gesner|1549|Brux. misc. 11360 (Br)|
 Stob. 3.2.15|Τεννε/Τημε|Τημένῳ|Valckenaer|1767|duo codd. Schowiani|Diatribe p. 15
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escor. LXXXX II Σ 14 (Md)|
 Stob. 3.3.50|διδόντ-|δώσοντας|Nauck|1894|Epicur. Sent.Vat.|apud Hense
