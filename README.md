@@ -4395,6 +4395,9 @@ Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985 (B)|
 Stob. 2.7.20|ᾧ|ὧν|C. F. Sehrwald|1859|P2|apud Meurer
 Stob. 2.7.20|ὅμ-|ὅλως|Hermann Rassow|1858|P2 in marg.|p. 27
 Stob. 2.31.128|-θεστέρων|ἀξιομαθητοτέρων|L. Dindorf|1831–56|Laur. Plut. 8.22 (L)|TGL s.v.
+Stob. 3.1.97|ψυχῆς|τύχης|Conrad Gesner|1549|Brux. misc. 11360 (Br)|
+Stob. 3.1.108|οὐ μετρίαν|ἀμετρίαν|Conrad Gesner|1549|MdA|
+Stob. 3.1.114|-πληθ-|παμπλαθέας|Meineke|1855|Paris. gr. 1984 (A)|
 Stob. 3.1.117|δεινα|δειλία|Gaisford|1850|Brux. misc. 11360 (Br)|
 Stob. 3.1.151|ἀπειθεῖν|πείθειν|Hieronymus Wolf|1563|Paris. gr. 1168|ad Epict. Fr.
 Stob. 3.1.195|-τῆσαι|καταρτίσαι|Conrad Gesner|1549|Paris. gr. 1984 (A)|
