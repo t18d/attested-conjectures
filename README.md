@@ -5174,6 +5174,10 @@ X.Eph. 5.4.7|οὐδὲ/ἂν δὲ|μηδὲ|Franz Passow|1833|Laur. Conv. Sopp
 X.Eph. 5.9.8|εἶπε|εἰπέ|F. L. Abresch|1739–45|Laur. Conv. Soppr. 627 (F)|tacite
 Xen. HG 2.3.49|-ατώτατα|ἔσχατα|Cobet|1862|DacV|
 Xen. HG 5.3.4|διώξαντες|διώκοντες|J. J. Hartman|1887|Leid. Periz. F6 (F)|a.c.
+Xen. HG 6.4.27|εἴ που|εἴ ποι|F. H. Bothe|1823|Paris. gr. 1642 (D)|
+Xen. HG 7.1.46|μέντοι|μέν τι|G. H. Schaefer|1811|Ambros. gr. 785 (M)|
+Xen. HG 7.4.13|ἀντιστρατευομένων|ἀντεστρατευμένων|L. Dindorf|1850|F p. ras.|
+Xen. HG 7.5.18|-λήψοι|καταλείψοι|Guillaume Budé||F2|
 Xen. Oec. 4.6|φύλακας|φυλακάς|Cobet|s.xix ex.|Laur. 55.21 (G)|
 Xen. Oec. 4.6|καὶ|del.|J. G. Schneider|1805|Ambros. A-157-sup. (Q)|
 Xen. Oec. 5.4|ἀγαθὰ|τἀγαθὰ|Cobet|s.xix ex.|Marc. 511 (V)|
