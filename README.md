@@ -3656,11 +3656,11 @@ Sen. epist. 66.15|in utramque|in utraque|Friedrich Haase|1853|QU|
 Sen. epist. 68.13|disputa-|dispumauit|Fernandus Pincianus|1536|Laur. Plut. 7640 (L)|m. sec.
 Sen. epist. 70.18|-iget|exegit|Fernandus Pincianus|1536|Paris. lat. 8540 (p)|
 Sen. epist. 71.17|et|ut|Erasmus|1515|Quirin. A. IV. 4 (q)|
-Sen. epist. 71.21|om.|iacere … malum est|Wolters||Quirin. B. II. 6 (Q)|
+Sen. epist. 71.21|torqueri|iacere|Paul Wolters|1881|Quirin. B. II. 6 (Q)|
 Sen. epist. 72.7|dat fortuna|dant fortunae|C. R. Fickert|1842|V/V2|
 Sen. epist. 75.7|quando quae/quandoque|quando tam|P. Hauck|1910|Quirin. B. II. 6 (Q)|
-Sen. epist. 83.26|villa-|vitiatur|Haupt||Paris. lat. 8539 (b)|
-Sen. epist. 83.26|radios|rabidos|Haupt||Quirin. A. IV. 4 (q)|
+Sen. epist. 83.26|villa-|vitiatur|Haupt|1866|Paris. lat. 8539 (b)|p. 15
+Sen. epist. 83.26|radios|rabidos|Haupt|1866|Quirin. A. IV. 4 (q)|p. 15
 Sen. epist. 87.13|hic r.|his respondebimus|H. A. Koch||Quirin. B. II. 6 (Q)|
 Sen. epist. 88.29|-et|habeo|Lipsius|1605|Quirin. A. IV. 4 (q)|s.l.
 Sen. epist. 90.38|redacti|redegit|Franz Bücheler|1878|cod. Uelc.|
