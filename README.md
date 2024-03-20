@@ -240,7 +240,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (226), Nicolaus Heinsius (212), Bentley (134), Madvig (87), Markland (85), Valckenaer (75), Gronovius (67), Beatus Rhenanus (65), Porson (63), Reiske (59) and Denys Lambin (59) (tied).</p>
+<p>The top 10 critics are Scaliger (226), Nicolaus Heinsius (212), Bentley (134), Madvig (87), Markland (85), Valckenaer (75), Gronovius (67), Beatus Rhenanus (65), Porson (63) and Thomas Mangey (62).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2920,6 +2920,12 @@ Philo Abr. 78|ἀντι-|ἀναβλέψασα|Thomas Mangey|1742|BEK Armen.|
 Philo Abr. 91|ἀπορ-|ἀφορίας|Thomas Mangey|1742|BEK Armen.|
 Philo Abr. 179|φασὶ|φήσουσι|Thomas Mangey|1742|vers. Armen.|
 Philo Decal. 39|ἑνί, ὅτε|ἐνίοτε|Thomas Mangey|1742|Laur. Plut. 85.10 (F)|
+Philo Decal. 123|-ει|διδάσκειν|Thomas Mangey|1742|Palat. gr. 248 (G)|
+Philo Decal. 126|κ. τῆς γ.|καὶ τὸν τῆς γυναικός|Thomas Mangey|1742|vers. Armen.|
+Philo Decal. 129|ἐπ-|ὑποικουρημένων|Thomas Mangey|1742|F Armen.|
+Philo Decal. 133|ἀνώ-|ἁγιώτερον|Thomas Mangey|1742|vers. Armen.|
+Philo Decal. 162|προσ-|προκαλούμενοι|Thomas Mangey|1742|vers. Armen.|
+Philo Decal. 174|-ην|ἐνδεχομένων|Thomas Mangey|1742|vers. Armen.|
 Philo Det. 158|ἀρρήτ-|ἀρρήκτων|Markland|1742|UF|apud Mangey
 Philo Ebr. 11|τῆς|τὴν|Turnebus|1552|P.Oxy. IX 1173|
 Philo Ebr. 11|om.|τοῦ|Richter||P.Oxy. IX 1173|[τ]ο̣υ
@@ -2950,7 +2956,7 @@ Philo Leg. 2.30|-ὸς|αὐτὰς|Thomas Mangey|1742|vers. Armen.|
 Philo Leg. 2.38|δὴ|δὲ|Thomas Mangey|1742|vers. Armen.|
 Philo Leg. 2.47|θνητῷ|θ. γένει|Thomas Mangey|1742|vers. Armen.|
 Philo Leg. 2.57|καιν-|κενῆς|Thomas Mangey|1742|M Armen.|
-Philo Mos. 1.30|μ. κατα.|μεγάλα καὶ καταλαζονευόμενοι|Thomas Mangey|1742|Palat. gr. 248 (G)|a.c.
+Philo Mos. 1.30|μ. κατα.|μεγάλα καὶ καταλαζονευόμενοι|Thomas Mangey|1742|Gac|
 Philo Mos. 1.55|-δοκήσαντα|προσδοκηθέντα|Thomas Mangey|1742|V2OK2|
 Philo Mos. 1.68|om.|τις|Thomas Mangey|1742|Venet. gr. 40 (H)|
 Philo Mos. 1.95|-εργείας|ἐναργείας|Thomas Mangey|1742|Paris. gr. 435 (C)|m. sec.
