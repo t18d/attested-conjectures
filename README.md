@@ -2932,6 +2932,12 @@ Philo Her. 118|ἀνωμολογῆσθαι|ἀνομολογεῖσθαι|Thoma
 Philo Her. 185|-αις|νουθεσίας|Turnebus|1552|Monac. gr. 459 (A)|
 Philo Her. 254|-μεν|ἀπολαύσομαι|Thomas Mangey|1742|ABP2|
 Philo Her. 283|-ρητική|κυκλοφορική|Thomas Mangey|1742|ABG|
+Philo Jos. 10|συναντ-|συνδιαιτήσεως|Thomas Mangey|1742|Laur. Conv. Soppr. 59 (K)|
+Philo Jos. 28|γράμμ-|πράγματι|Thomas Mangey|1742|Laur. Plut. 85.10 (F)|
+Philo Jos. 32|προξένων|πράξεων|Thomas Mangey|1742|Laur. Conv. Soppr. 59 (K)|
+Philo Jos. 66|ἅπαντα/ἄραντα/ἔρωτα|δρᾶν τὰ|Thomas Mangey|1742|Laur. Conv. Soppr. 59 (K)|
+Philo Jos. 102|-ους|εὐρώστως|Thomas Mangey|1742|Monac. gr. 459 (A)|
+Philo Jos. 120|περι-|προερχομένου|Thomas Mangey|1742|V2O|
 Philo Leg. 1.65|-ηται|πεποίωται|Thomas Mangey|1742|vers. Armen.|
 Philo Leg. 1.104|-ος|σώματι|Thomas Mangey|1742|vers. Armen.|
 Philo Leg. 2.6|-εως|τρόπις|Diels|1896|vers. Armen.|apud Cohn
