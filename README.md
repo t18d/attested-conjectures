@@ -2945,6 +2945,10 @@ Philo Somn. 1.82|ὧν|ᾧ|Thomas Mangey|1742|Palat. gr. 248 (G)|ante ras.
 Philo Somn. 1.104|-ον|ὅλου|Thomas Mangey|1742|FP|
 Philo Somn. 1.107|αἰσχρ-|γλισχρολογίας|Thomas Mangey|1742|MAP2|
 Philo Somn. 1.125|-ὴν|κεφαλῆς|Thomas Mangey|1742|Monac. gr. 459 (A)|
+Philo Somn. 1.131|ἐφ-|ἀφικομένη|Thomas Mangey|1742|MA|p. 735
+Philo Somn. 1.167|φασί|φησί|Thomas Mangey|1742|MAG|
+Philo Somn. 1.202|-κρι-|ἀνακραθεῖσαι|Thomas Mangey|1742|Vat. gr. 379|m. sec.
+Philo Somn. 2.88|ἀπ-|ἐπάγουσιν|Thomas Mangey|1742|Monac. gr. 459 (A)|
 Philox.Gramm. 129.6|Νικόχαρις|Νικοχάρης|Hemsterhuis|1744|D R|ad schol. Ar. Plut. 179 ('ego Bentleium audire malui')
 Philox.Gramm. 505.3|ἴσθι|εἰς θι|Friedrich Sylburg|s.xvi ex.|Marc. 304 (B)|
 Phot. α 151|ἀγενὲς|ἀγεννὲς|Jan van Leeuwen|1907|cod. Zavord. 95 (z)|Mnem. 35 (1907) 253
