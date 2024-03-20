@@ -240,7 +240,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (226), Nicolaus Heinsius (212), Bentley (134), Madvig (87), Markland (85), Thomas Mangey (81), Valckenaer (75), Gronovius (67), Beatus Rhenanus (65) and Porson (63).</p>
+<p>The top 10 critics are Scaliger (226), Nicolaus Heinsius (212), Bentley (134), Madvig (87), Markland (85), Thomas Mangey (83), Valckenaer (75), Gronovius (67), Beatus Rhenanus (65) and Porson (63).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3003,6 +3003,9 @@ Philo Spec. 1.319|μυστικῶν πραγμάτων|μυθικών πλασμ
 Philo Spec. 1.322|-ων|ἀμυθήτους|Thomas Mangey|1742|vers. Armen.|
 Philo Spec. 1.329|ἴδμ-|εὐδαίμονα|Thomas Mangey|1742|R Armen.|
 Philo Spec. 1.332|-αῖον|ἀναγκαιότατον|Thomas Mangey|1742|vers. Armen.|
+Philo Spec. 1.341|-εύειν|ἐπαληθεύοντες|Thomas Mangey|1742|R Armen.|
+Philo Spec. 1.345|ἄθλι-|ἄθεοι|Thomas Mangey|1742|R Armen.|
+Philo Spec. 2.44||μήτε ἀνταδικεῖν||Vat. gr. 316 (R)||
 Philox.Gramm. 129.6|Νικόχαρις|Νικοχάρης|Hemsterhuis|1744|D R|ad schol. Ar. Plut. 179 ('ego Bentleium audire malui')
 Philox.Gramm. 505.3|ἴσθι|εἰς θι|Friedrich Sylburg|s.xvi ex.|Marc. 304 (B)|
 Phot. α 151|ἀγενὲς|ἀγεννὲς|Jan van Leeuwen|1907|cod. Zavord. 95 (z)|Mnem. 35 (1907) 253
