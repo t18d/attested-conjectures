@@ -2092,8 +2092,6 @@ Hdt. 8.75.3|οὐτέτι|οὔτ' ἔτι|G. H. Schaefer|n.d.|Vat. gr. 2369 (D)
 Hdt. 8.112.2|λέγων|λ. δὲ|Reiske||Estensis gr. 221 (M)|
 Hdt. 9.43.2|-ων|Μουσαίου|Bekker|1833|Vat. gr. 2369 (D)|
 Hdt. 9.66.2|-μένως|κατηρτισμένους|Henrik van Herwerden||Vac|
-Herm. Sim. 2.17|<καὶ> εὐχαριστεῖ|εὐχαριστῶν|Tischendorf|n.d.|P.Oxy. IX 1172|
-Herm. Sim. 2.28|συνιει|συνηκεν|Tischendorf|n.d.|P.Oxy. IX 1172|
 Herm. Sim. 8.54|λοιπόν|αὐτόν|Hilgenfeld|n.d.|P.Oxy. XIII 1599|
 Hes. Op. 263|-λεῖς/-λῆες|βασιλῆς|G. H. Schaefer|s.xviii/xix|P.Oxy. VIII 1090|
 Hes. Op. 264|δικῶν|δικέων|Adolf Kirchhoff|1889|P.Oxy. VIII 1090|
