@@ -2635,7 +2635,7 @@ Ov. Pont. 4.7.15|-itis|Tendisti|Rudolf Merkel|1853|Laur. Plut. 36.32 (m)|
 Ov. Pont. 4.7.17|-is|plenus|Rudolf Ehwald|1896|e bl bh m o|p. 84
 Ov. Pont. 4.7.23|-ue|manune|Th. Roeper|1868|B C|apud Korn
 Ov. Pont. 4.9.8|iusso|iusto|John Jortin|1731|Turon. 879 (t)|I p. 227
-Ov. Pont. 4.12.3|namque/ast|aut|J. J. Hartmann|1910|B C|Mnem.
+Ov. Pont. 4.12.3|namque/ast|aut|J. J. Hartman|1910|B C|Mnem.
 Ov. Pont. 4.12.11|et|at|W. A. Camps|1954|Lent. Bibl. Stud. 79 (le)|CR
 Ov. Pont. 4.13.49|monumenta|momenta|Scaliger|1629|Vat. Barb. lat. 1595 (va)|apud D. Heinsium p. 410
 Ov. Pont. 4.16.30|-is|leui|Nicolaus Heinsius|1661|Lond. Add. Mss. 49368 (h)|
@@ -5172,6 +5172,8 @@ X.Eph. 4.2.7|δέχ-|ἔρχεται|Hemsterhuis|1733–5|Laur. Conv. Soppr. 627
 X.Eph. 4.2.8|-τίθ-|ἐπετέθειτο|Hemsterhuis|1733–5|Laur. Conv. Soppr. 627 (F)|
 X.Eph. 5.4.7|οὐδὲ/ἂν δὲ|μηδὲ|Franz Passow|1833|Laur. Conv. Soppr. 627 (F)|
 X.Eph. 5.9.8|εἶπε|εἰπέ|F. L. Abresch|1739–45|Laur. Conv. Soppr. 627 (F)|tacite
+Xen. HG 2.3.49|-ατώτατα|ἔσχατα|Cobet|1862|DacV|
+Xen. HG 5.3.4|διώξαντες|διώκοντες|J. J. Hartman|1887|Leid. Periz. F6 (F)|a.c.
 Xen. Oec. 4.6|φύλακας|φυλακάς|Cobet|s.xix ex.|Laur. 55.21 (G)|
 Xen. Oec. 4.6|καὶ|del.|J. G. Schneider|1805|Ambros. A-157-sup. (Q)|
 Xen. Oec. 5.4|ἀγαθὰ|τἀγαθὰ|Cobet|s.xix ex.|Marc. 511 (V)|
