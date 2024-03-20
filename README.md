@@ -240,7 +240,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (226), Nicolaus Heinsius (212), Bentley (134), Madvig (87), Markland (85), Valckenaer (75), Gronovius (67), Beatus Rhenanus (65), Porson (63) and Thomas Mangey (62).</p>
+<p>The top 10 critics are Scaliger (226), Nicolaus Heinsius (212), Bentley (134), Madvig (87), Markland (85), Valckenaer (75), Thomas Mangey (68), Gronovius (67), Beatus Rhenanus (65) and Porson (63).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2984,6 +2984,12 @@ Philo Somn. 1.131|ἐφ-|ἀφικομένη|Thomas Mangey|1742|MA|p. 735
 Philo Somn. 1.167|φασί|φησί|Thomas Mangey|1742|MAG|
 Philo Somn. 1.202|-κρι-|ἀνακραθεῖσαι|Thomas Mangey|1742|Vat. gr. 379|m. sec.
 Philo Somn. 2.88|ἀπ-|ἐπάγουσιν|Thomas Mangey|1742|Monac. gr. 459 (A)|
+Philo Spec. 1.52|ἐρω-|ἑνωτικῆς|Thomas Mangey|1742|RMF|
+Philo Spec. 1.57|-ου|ἐπαγγελλομένη|Thomas Mangey|1742|RMF|
+Philo Spec. 1.64|ἀληθ-/ἀκένως|ἀκλινῶς|Thomas Mangey|1742|RAH|
+Philo Spec. 1.67|ἱ. εἶν. μ.|ἱερὸν ἓν εἶναι μόνον|Thomas Mangey|1742|RF|
+Philo Spec. 1.105|δὲ|γὰρ|Thomas Mangey|1742|vers. Armen.|
+Philo Spec. 1.107|-ου|γάμων|Thomas Mangey|1742|RF|
 Philox.Gramm. 129.6|Νικόχαρις|Νικοχάρης|Hemsterhuis|1744|D R|ad schol. Ar. Plut. 179 ('ego Bentleium audire malui')
 Philox.Gramm. 505.3|ἴσθι|εἰς θι|Friedrich Sylburg|s.xvi ex.|Marc. 304 (B)|
 Phot. α 151|ἀγενὲς|ἀγεννὲς|Jan van Leeuwen|1907|cod. Zavord. 95 (z)|Mnem. 35 (1907) 253
