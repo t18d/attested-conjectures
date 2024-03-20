@@ -2911,6 +2911,14 @@ Phaedr. 5.25.25|-ent|prouocet|Pierre Pithou|1596|VNi|
 Pherecr. fr. 80|ὁ βλὰξ|ὀκλὰξ|Bekker|1814|Phot. α 387|
 Pherecr. fr. 166|ἃ|ἅ σε|Martin Runkel|1829|Phot. α 816|p. 70
 Pherecr. fr. 181|-ίαν|Ἀδώνι'|Scaliger|s.xvi/xvii|Phot. α 400|apud Cant. ms. ΙΙ p. 23
+Philo Abr. 35|εὖ νενικ-|ἐκνενικηκότα|Thomas Mangey|1742|Laur. Conv. Soppr. 59 (K)|
+Philo Abr. 60|πραγμ-|γραμμάτων|Thomas Mangey|1742|vers. Armen.|
+Philo Abr. 60|-ῷ|αὐτὸ|Thomas Mangey|1742|vers. Armen.|
+Philo Abr. 62|πληχθ-|πεισθεὶς|Thomas Mangey|1742|vers. Armen.|
+Philo Abr. 70|τις|τοι|Thomas Mangey|1742|Laur. Conv. Soppr. 59 (K)|
+Philo Abr. 78|ἀντι-|ἀναβλέψασα|Thomas Mangey|1742|BEK Armen.|
+Philo Abr. 91|ἀπορ-|ἀφορίας|Thomas Mangey|1742|BEK Armen.|
+Philo Abr. 179|φασὶ|φήσουσι|Thomas Mangey|1742|vers. Armen.|
 Philo Det. 158|ἀρρήτ-|ἀρρήκτων|Markland|1742|UF|apud Mangey
 Philo Ebr. 11|τῆς|τὴν|Turnebus|1552|P.Oxy. IX 1173|
 Philo Ebr. 11|om.|τοῦ|Richter||P.Oxy. IX 1173|[τ]ο̣υ
@@ -2932,7 +2940,7 @@ Philo Leg. 2.30|νοῦ|τοῦ νοῦ|Diels|1896|vers. Armen.|apud Cohn
 Philo Leg. 2.30|-ὸς|αὐτὰς|Thomas Mangey|1742|vers. Armen.|
 Philo Leg. 2.38|δὴ|δὲ|Thomas Mangey|1742|vers. Armen.|
 Philo Leg. 2.47|θνητῷ|θ. γένει|Thomas Mangey|1742|vers. Armen.|
-Philo Leg. 2.57|καιν-|κενῆς|Thomas Mangey|1742|M et vers. Armen.|
+Philo Leg. 2.57|καιν-|κενῆς|Thomas Mangey|1742|M Armen.|
 Philo Opif. 139|τοῦτον|τούτου|Markland|1742|Sacr. Parall. (D)|apud Mangey
 Philo Post. 37|ἔστι|ἔτι|Constantin von Tischendorf|1868|Vat. gr. 381 (U)|
 Philo Post. 37|εἰ δὲ|εἴ γε|Constantin von Tischendorf|1868|Vat. gr. 381 (U)|
