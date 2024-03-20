@@ -240,7 +240,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (226), Nicolaus Heinsius (212), Bentley (134), Madvig (87), Markland (85), Valckenaer (75), Thomas Mangey (68), Gronovius (67), Beatus Rhenanus (65) and Porson (63).</p>
+<p>The top 10 critics are Scaliger (226), Nicolaus Heinsius (212), Bentley (134), Madvig (87), Markland (85), Thomas Mangey (81), Valckenaer (75), Gronovius (67), Beatus Rhenanus (65) and Porson (63).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2990,6 +2990,19 @@ Philo Spec. 1.64|ἀληθ-/ἀκένως|ἀκλινῶς|Thomas Mangey|1742|RA
 Philo Spec. 1.67|ἱ. εἶν. μ.|ἱερὸν ἓν εἶναι μόνον|Thomas Mangey|1742|RF|
 Philo Spec. 1.105|δὲ|γὰρ|Thomas Mangey|1742|vers. Armen.|
 Philo Spec. 1.107|-ου|γάμων|Thomas Mangey|1742|RF|
+Philo Spec. 1.127|ἑτέραν|ἕτερον|Thomas Mangey|1742|Laur. Plut. 85.10 (F)|
+Philo Spec. 1.167|ὑπαιτ-|ἀνυπαιτίου|Thomas Mangey|1742|RF|
+Philo Spec. 1.228|τοῦ εἴδους|τὸ εἶδος|Thomas Mangey|1742|RA|
+Philo Spec. 1.243|τούτους|τοὺς|Thomas Mangey|1742|Laur. Plut. 85.10 (F)|
+Philo Spec. 1.295|τῆς ἀρετῆς|τῆς ἄλλης ἀ.|Thomas Mangey|1742|vers. Armen.|
+Philo Spec. 1.304|ἀποσχοινίζ-|ἀπαυχενίζοντες|Thomas Mangey|1742|R Armen.|
+Philo Spec. 1.314|-ῆς|σπουδὴν|Thomas Mangey|1742|Vat. gr. 316 (R)|
+Philo Spec. 1.318|ἐπιβουλευόμ-|ἐπιμελούμενος|Thomas Mangey|1742|R Armen.|
+Philo Spec. 1.319|ἐργάζ-|ὀργιάζεσθαι|Thomas Mangey|1742|vers. Armen.|
+Philo Spec. 1.319|μυστικῶν πραγμάτων|μυθικών πλασμάτων|Thomas Mangey|1742|vers. Armen.|
+Philo Spec. 1.322|-ων|ἀμυθήτους|Thomas Mangey|1742|vers. Armen.|
+Philo Spec. 1.329|ἴδμ-|εὐδαίμονα|Thomas Mangey|1742|R Armen.|
+Philo Spec. 1.332|-αῖον|ἀναγκαιότατον|Thomas Mangey|1742|vers. Armen.|
 Philox.Gramm. 129.6|Νικόχαρις|Νικοχάρης|Hemsterhuis|1744|D R|ad schol. Ar. Plut. 179 ('ego Bentleium audire malui')
 Philox.Gramm. 505.3|ἴσθι|εἰς θι|Friedrich Sylburg|s.xvi ex.|Marc. 304 (B)|
 Phot. α 151|ἀγενὲς|ἀγεννὲς|Jan van Leeuwen|1907|cod. Zavord. 95 (z)|Mnem. 35 (1907) 253
