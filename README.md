@@ -241,7 +241,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (226), Nicolaus Heinsius (212), Bentley (134), Thomas Mangey (131), Madvig (87), Markland (85), Valckenaer (75), Gronovius (67), Beatus Rhenanus (65) and Porson (63).</p>
+<p>The top 10 critics are Scaliger (226), Nicolaus Heinsius (212), Thomas Mangey (138), Bentley (134), Madvig (87), Markland (85), Valckenaer (75), Gronovius (67), Beatus Rhenanus (65) and Porson (63).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2973,6 +2973,13 @@ Philo Leg. 2.30|-ὸς|αὐτὰς|Thomas Mangey|1742|vers. Armen.|
 Philo Leg. 2.38|δὴ|δὲ|Thomas Mangey|1742|vers. Armen.|
 Philo Leg. 2.47|θνητῷ|θ. γένει|Thomas Mangey|1742|vers. Armen.|
 Philo Leg. 2.57|καιν-|κενῆς|Thomas Mangey|1742|M Armen.|
+Philo Legat. 2|ἀφαν-|ἀπλανοῦς|Thomas Mangey|1742|Bonon. gr. 3568 (O)|
+Philo Legat. 8|συμφων-|συμφρονήσαντος|Thomas Mangey|1742|CGOMAH|
+Philo Legat. 28|-ων|συγκληρονόμῳ|Thomas Mangey|1742|Monac. gr. 459 (A)|
+Philo Legat. 28|-ῳ|δικαίων|Thomas Mangey|1742|MA|
+Philo Legat. 48|-σεισι|πρόεισι|Thomas Mangey|1742|MA|
+Philo Legat. 124|σορ-|σωρούς|Thomas Mangey|1742|GA|
+Philo Legat. 136|κατ ̓ αὐτ-|καθ ̓ αὑτὸν|Thomas Mangey|1742|Monac. gr. 459 (A)|
 Philo Mos. 1.30|μ. κατα.|μεγάλα καὶ καταλαζονευόμενοι|Thomas Mangey|1742|Gac|
 Philo Mos. 1.55|-δοκήσαντα|προσδοκηθέντα|Thomas Mangey|1742|V2OK2|
 Philo Mos. 1.68|om.|τις|Thomas Mangey|1742|Venet. gr. 40 (H)|
