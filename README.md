@@ -241,7 +241,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (226), Nicolaus Heinsius (212), Bentley (134), Thomas Mangey (118), Madvig (87), Markland (85), Valckenaer (75), Gronovius (67), Beatus Rhenanus (65) and Porson (63).</p>
+<p>The top 10 critics are Scaliger (226), Nicolaus Heinsius (212), Bentley (134), Thomas Mangey (121), Madvig (87), Markland (85), Valckenaer (75), Gronovius (67), Beatus Rhenanus (65) and Porson (63).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2920,6 +2920,11 @@ Philo Abr. 70|τις|τοι|Thomas Mangey|1742|Laur. Conv. Soppr. 59 (K)|
 Philo Abr. 78|ἀντι-|ἀναβλέψασα|Thomas Mangey|1742|BEK Armen.|
 Philo Abr. 91|ἀπορ-|ἀφορίας|Thomas Mangey|1742|BEK Armen.|
 Philo Abr. 179|φασὶ|φήσουσι|Thomas Mangey|1742|vers. Armen.|
+Philo Aet. 2|-ῥιψ-|ἀπεῤῥυψάμεθα|Thomas Mangey|1742|Petropol. XX Aa 1 (P)|
+Philo Aet. 5|-εῖσθαι|ἐξαπολέσθαι|Diels|1903|Vat. gr. 381 (U)|
+Philo Aet. 5|χέρει-|χερείον'|Meineke|1839|Vat. gr. 381 (U)|p. 68
+Philo Contempl. 53|περιϊχ-|περιλιχνεύουσι|Thomas Mangey|1742|vers. Armen.|
+Philo Contempl. 82|τῶν ἱερῶν|τῶν ἱερέων|Thomas Mangey|1742|vers. Armen.|
 Philo Decal. 39|ἑνί, ὅτε|ἐνίοτε|Thomas Mangey|1742|Laur. Plut. 85.10 (F)|
 Philo Decal. 123|-ει|διδάσκειν|Thomas Mangey|1742|Palat. gr. 248 (G)|
 Philo Decal. 126|κ. τῆς γ.|καὶ τὸν τῆς γυναικός|Thomas Mangey|1742|vers. Armen.|
