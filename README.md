@@ -240,7 +240,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (226), Nicolaus Heinsius (212), Bentley (134), Thomas Mangey (98), Madvig (87), Markland (85), Valckenaer (75), Gronovius (67), Beatus Rhenanus (65) and Porson (63).</p>
+<p>The top 10 critics are Scaliger (226), Nicolaus Heinsius (212), Bentley (134), Thomas Mangey (111), Madvig (87), Markland (85), Valckenaer (75), Gronovius (67), Beatus Rhenanus (65) and Porson (63).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2974,6 +2974,8 @@ Philo Post. 37|εἰ δὲ|εἴ γε|Constantin von Tischendorf|1868|Vat. gr. 3
 Philo Post. 45|οἶκος|οἰκεῖος|Thomas Mangey|1742|Vat. gr. 381 (U)|
 Philo Post. 46|μὲν|μὴν|Thomas Mangey|1742|Vat. gr. 381 (U)|
 Philo Post. 84|ἂν ἀπεῖναι|ἀναπτῆναι|Thomas Mangey|1742|Paris. gr. 1630 (R)|
+Philo Praem. 92|-εῖν|ἀσπονδεὶ|Thomas Mangey|1742|Laur. Plut. 85.10 (F)|
+Philo Praem. 107|εὐδοκ-|εὐδικίας|Thomas Mangey|1742|Venet. gr. 40 (H)|
 Philo Sacr. 77|-ος|εἰωθότες|Thomas Mangey|1742|Petropol. XX Aa 1 (P)|
 Philo Sacr. 125|ἐνδειξ-|ἐνδεξαμένοις|Thomas Mangey|1742|Paris. Suppl. gr. 1120|
 Philo Somn. 1.82|ὧν|ᾧ|Thomas Mangey|1742|G ante ras.|
@@ -3021,6 +3023,17 @@ Philo Spec. 4.17|ἀνδράποδα καπ-|ἀνδραποδοκαπήλοις
 Philo Spec. 4.33|ἄψευ-|ἄψαυστον|Thomas Mangey|1742|Laur. Plut. 10.20 (M)|
 Philo Spec. 4.121|πρῶνας|προαγῶνας|Thomas Mangey|1742|Laur. Plut. 10.20 (M)|
 Philo Spec. 4.134|συνέχῃ|συνηχῆ|Thomas Mangey|1742|Laur. Plut. 10.20 (M)|
+Philo Spec. 4.136|-ληφ-|παραλειφθῆναι|Thomas Mangey|1742|Laur. Plut. 10.20 (M)|
+Philo Spec. 4.140|καὶ|κἂν|Thomas Mangey|1742|Laur. Plut. 10.20 (M)|
+Philo Spec. 4.142|προσθέντας|πρόσθεν τῶν|Thomas Mangey|1742|Laur. Plut. 10.20 (M)|
+Philo Spec. 4.142|ἀλλήλ-|ἄλλων|Thomas Mangey|1742|Laur. Plut. 10.20 (M)|
+Philo Spec. 4.147|ἦς|ἣν|Thomas Mangey|1742|Laur. Plut. 10.20 (M)|
+Philo Spec. 4.169|-ίδα|ἡγεμονίαν|Thomas Mangey|1742|SMF2|
+Philo Spec. 4.208|συμφυό-|συγχεόμενα|Thomas Mangey|1742|Laur. Plut. 10.20 (M)|
+Philo Virt. 15|-ούμεναι|ἡγουμένους|Thomas Mangey|1742|B2KMV2OF|
+Philo Virt. 56|τὸ -ον/τῶν -ων|τοῦ ἀναγκαιοτάτου|Thomas Mangey|1742|Monac. gr. 459 (A)|
+Philo Virt. 76|-τέου|ὀστρέου|Thomas Mangey|1742|SG2|
+Philo Virt. 208|ὄντ-|οὕτως|Thomas Mangey|1742|FG2HP|
 Philox.Gramm. 129.6|Νικόχαρις|Νικοχάρης|Hemsterhuis|1744|D R|ad schol. Ar. Plut. 179 ('ego Bentleium audire malui')
 Philox.Gramm. 505.3|ἴσθι|εἰς θι|Friedrich Sylburg|s.xvi ex.|Marc. 304 (B)|
 Phot. α 151|ἀγενὲς|ἀγεννὲς|Jan van Leeuwen|1907|cod. Zavord. 95 (z)|Mnem. 35 (1907) 253
