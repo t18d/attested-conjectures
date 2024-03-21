@@ -240,7 +240,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (226), Nicolaus Heinsius (212), Bentley (134), Madvig (87), Markland (85), Thomas Mangey (85), Valckenaer (75), Gronovius (67), Beatus Rhenanus (65) and Porson (63).</p>
+<p>The top 10 critics are Scaliger (226), Nicolaus Heinsius (212), Bentley (134), Thomas Mangey (93), Madvig (87), Markland (85), Valckenaer (75), Gronovius (67), Beatus Rhenanus (65) and Porson (63).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3008,6 +3008,14 @@ Philo Spec. 1.345|ἄθλι-|ἄθεοι|Thomas Mangey|1742|R Armen.|
 Philo Spec. 2.44|μήτ ̓ ἀνδικεῖν|μήτε ἀνταδικεῖν|David Hoeschel|1742|Vat. gr. 316 (R)|apud Mangey
 Philo Spec. 2.158|-α … -εως|ἐλπίδος … ὑπομνήσιν|Thomas Mangey|1742|Nicet.Heracl.|
 Philo Spec. 2.175|-βεβιωκ-|ὑποβεβηκότων|Thomas Mangey|1742|Nicet.Heracl. Coisl. 201|
+Philo Spec. 3.5|-εύοντα|συνημερεύσοντα|Thomas Mangey|1742|Laur. Plut. 85.10 (F)|
+Philo Spec. 3.14|τοὺς μ.|τοῦ μὲν|Thomas Mangey|1742|F Armen.|
+Philo Spec. 3.28|-ὰ|ἀδελφαὶ|Thomas Mangey|1742|Barber. IV 56|
+Philo Spec. 3.43|καὶ|καὶ τῶν|Thomas Mangey|1742|Laur. Plut. 85.10 (F)|
+Philo Spec. 3.47|ἀνομοίοις γένεσι|ἀνομοιογενέσι|Thomas Mangey|1742|SF|
+Philo Spec. 3.68|σε|γ'|Thomas Mangey|1742|Bodl. Arch. Seld. B. 19 (S)|
+Philo Spec. 3.69|-ᾳ|δυναστείαν|Thomas Mangey|1742|Bodl. Arch. Seld. B. 19 (S)|
+Philo Spec. 3.102|om.|κατὰ|Thomas Mangey|1742|SF|
 Philox.Gramm. 129.6|Νικόχαρις|Νικοχάρης|Hemsterhuis|1744|D R|ad schol. Ar. Plut. 179 ('ego Bentleium audire malui')
 Philox.Gramm. 505.3|ἴσθι|εἰς θι|Friedrich Sylburg|s.xvi ex.|Marc. 304 (B)|
 Phot. α 151|ἀγενὲς|ἀγεννὲς|Jan van Leeuwen|1907|cod. Zavord. 95 (z)|Mnem. 35 (1907) 253
