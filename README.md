@@ -240,7 +240,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (226), Nicolaus Heinsius (212), Bentley (134), Thomas Mangey (93), Madvig (87), Markland (85), Valckenaer (75), Gronovius (67), Beatus Rhenanus (65) and Porson (63).</p>
+<p>The top 10 critics are Scaliger (226), Nicolaus Heinsius (212), Bentley (134), Thomas Mangey (98), Madvig (87), Markland (85), Valckenaer (75), Gronovius (67), Beatus Rhenanus (65) and Porson (63).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3016,6 +3016,11 @@ Philo Spec. 3.47|ἀνομοίοις γένεσι|ἀνομοιογενέσι|Th
 Philo Spec. 3.68|σε|γ'|Thomas Mangey|1742|Bodl. Arch. Seld. B. 19 (S)|
 Philo Spec. 3.69|-ᾳ|δυναστείαν|Thomas Mangey|1742|Bodl. Arch. Seld. B. 19 (S)|
 Philo Spec. 3.102|om.|κατὰ|Thomas Mangey|1742|SF|
+Philo Spec. 3.198|μείζ-|μείονα|Thomas Mangey|1742|Laur. Plut. 85.10 (F)|p. 686 ('Minutiora')
+Philo Spec. 4.17|ἀνδράποδα καπ-|ἀνδραποδοκαπήλοις|Thomas Mangey|1742|Nicet.Heracl.|
+Philo Spec. 4.33|ἄψευ-|ἄψαυστον|Thomas Mangey|1742|Laur. Plut. 10.20 (M)|
+Philo Spec. 4.121|πρῶνας|προαγῶνας|Thomas Mangey|1742|Laur. Plut. 10.20 (M)|
+Philo Spec. 4.134|συνέχῃ|συνηχῆ|Thomas Mangey|1742|Laur. Plut. 10.20 (M)|
 Philox.Gramm. 129.6|Νικόχαρις|Νικοχάρης|Hemsterhuis|1744|D R|ad schol. Ar. Plut. 179 ('ego Bentleium audire malui')
 Philox.Gramm. 505.3|ἴσθι|εἰς θι|Friedrich Sylburg|s.xvi ex.|Marc. 304 (B)|
 Phot. α 151|ἀγενὲς|ἀγεννὲς|Jan van Leeuwen|1907|cod. Zavord. 95 (z)|Mnem. 35 (1907) 253
