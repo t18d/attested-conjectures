@@ -1559,9 +1559,11 @@ Culex 407|Pinus|Picris|Bembo|1530|Paris. lat. 8069 (T)|m. sec.
 Cypr. F 1|θέτιδος|Θέμιδος|Heyne|1803|P.Oxy. LVI 3829|
 D.H. 1.48.2|-λεῖ|κύκλῳ|Reiske|1775|Urb. 105 (B)|
 D.H. Comp. 9|πλεῖον/πλείων|πλέον|Dindorf|1832–60|Laur. 59.15 (F)|
+D.L. 1.22|Νείλεῳ ἐκπεσόντι Φ.|Ν. ἐκπεσὼν τῆς Φοινίκης|Casaubon|1583|Vat. gr. 96 (Φ)|
+D.L. 1.34|ἀστρολόγον|-ων|Reiske|1889|Palpc Plan|Herm.
+D.L. 1.53|-τροπῶ|ἐπιτρέπω|Casaubon|1583|Neap. Burbon. III Β 28 (D)|
 D.L. 2.18|Εὐριπίδης|-δας|Cobet|1850|Laur. 69.13 (F)|
 D.L. 3.17|σαφάσαιμι/σαφὲς ἅμι|σάφα ἴσαμι|H. L. Ahrens|1843|Neap. III B 29 (B)|σαφαισαμι
-D.L. 3.56|-ϲαν|ϲυνεπλήρωϲεν|Usener|1870|Laur. 69.13 (F) et Paris. gr. 1759 (P)|RhM; -σαν BPF teste Dorandi
 D.L. 5.7|εἰς ἀθάνατον/τ’ ἀ-|ἰσαθάνατον|Bergk|1853|Didym.|
 D.L. 6.87|ἵν’ ἐγκρατὴς ἦ|ἵν’ ἐγκρατήση|Meineke|1857|B2|
 D.S. 9.10.4|ἐᾷ τὰ γρ.|ἐᾷ με γρ.|Dindorf|s.xix med.|Vat. teste Herwerden|
