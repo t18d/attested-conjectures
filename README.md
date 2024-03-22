@@ -4975,6 +4975,12 @@ Theon Rhetor 66.22|σελίνου|Σειληνοῦ|C. E. Finckh|1834|vers. Arme
 Theon Rhetor 67.2|δεῖ -ειν|δὴ ἁρμόττοι|C. E. Finckh|1834|vers. Armen.|
 Theon Rhetor 67.15|om.|περὶ|Daniel Heinsius|1626|vers. Armen.|
 Theon Rhetor 68.2|om.|γενέσθαι|Joachim Camerarius|1541|vers. Armen.|
+Theon Rhetor 68.4|μόσχ-|μοιχοῦ|J. G. Scheffer|1670|vers. Armen.|
+Theon Rhetor 68.6|-γόρου|Ἀρισταγόρας|Christian Walz|1832|vers. Armen.|
+Theon Rhetor 68.11|ὡς τὰ|τὰ|J. G. Scheffer|1670|vers. Armen.|
+Theon Rhetor 68.33|-ίω|Καλλίᾳ|Christian Walz|1832|vers. Armen.|
+Theon Rhetor 69.31|μ. δὲ|μᾶλλον|Leonhard Spengel|1854|vers. Armen.|
+Theon Rhetor 69.32|Εὔφρονος|Ἐφόρου|J. G. Scheffer|1670|vers. Armen.|
 Theopomp.Com. fr. 73|om.|ὃς|F. J. Bast|1811|Phot. α 632|ap. Schaefer, Greg. Cor. p. 511
 Thuc. 1.2.6|μετοικίας ἐς|μετοικεσίας|F. W. Ullrich|1862|γρH2|Beitr. z. Erkl. p. 174
 Thuc. 1.4|καθήρει|ἐκάθηρε|Cobet|1873|Aristid.|V.L. p. 149
