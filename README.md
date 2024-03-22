@@ -4987,7 +4987,7 @@ Theon Rhetor 72.29|om.|δὲ|Daniel Heinsius|1626|vers. Armen.|
 Theon Rhetor 72.31|ὅτι|ὅτου|Joachim Camerarius|1541|vers. Armen.|
 Theon Rhetor 73.17|αἰόλ-|Ἡσίοδος|Joachim Camerarius|1541|vers. Armen.|
 Theon Rhetor 73.19|κ. δ. κ. Κ. καὶ Κ.|καὶ δὴ καὶ Κόννις ὁ Κίλιξ|J. G. Scheffer|1670|vers. Armen.|
-Theon Rhetor 73.23|ἀλκαινὸν|᾿Αλκαϊκὸν|Petrus Victorius|1997|Sard.|apud Patillon
+Theon Rhetor 73.23|ἀλκαινὸν|᾿Αλκαϊκὸν|Petrus Victorius|1834|Sard.|apud Finckh
 Theon Rhetor 74.24|om.|ὡς|C. E. Finckh|1834|vers. Armen.|
 Theon Rhetor 74.28|αὐτοῦ|αὑτῶν|C. E. Finckh|1834|vers. Armen.|
 Theon Rhetor 76.15|ὅπερ|ὥσπερ|C. E. Finckh|1834|vers. Armen.|
@@ -4998,7 +4998,7 @@ Theon Rhetor 77.8|τ. τόπον ἢ χ.|τὸν χρόνον|C. E. Finckh|1834|
 Theon Rhetor 77.11|om.|δ᾽|C. E. Finckh|1834|vers. Armen.|
 Theon Rhetor 78.9|α. ἢ μ. κ. π.|καὶ αὐξήσεσιν ἢ μειώσεσιν καὶ παρεκβάσεσι|Daniel Heinsius|1626|vers. Armen.|
 Theon Rhetor 79.21|κάλλιστα|μάλιστα|Leonhard Spengel|1854|vers. Armen.|
-Theon Rhetor 80.17|καὶ τὰ θ.|κατὰ θέρη|Petrus Victorius|1997|vers. Armen.|apud Patillon
+Theon Rhetor 80.17|καὶ τὰ θ.|κατὰ θέρη|Petrus Victorius|1834|vers. Armen.|apud Finckh
 Theon Rhetor 80.22|κ. τ. κ. τ. καιροῦ|καὶ τρίτου καὶ τετάρτου|Leonhard Spengel|1854|vers. Armen.|
 Theon Rhetor 81.25|κεῖν-|κλεινὸν|Christian Walz|1832|vers. Armen.|
 Theon Rhetor 82.20|κ. δ. ἄ.|ἢ καὶ δι᾽ ἄγνοιαν|Joachim Camerarius|1541|vers. Armen.|
@@ -5041,6 +5041,7 @@ Theon Rhetor 105.12|ὅσον|οἷον|Daniel Heinsius|1626|vers. Armen.|
 Theon Rhetor 105.22|ἐὰν|ἂν|Leonhard Spengel|1854|vers. Armen.|
 Theon Rhetor 108.33|ν. ἢ π. σ. ἀ.|νομοθετῶν ἢ ποιητῶν ἢ σοφῶν ἀνδρῶν|C. E. Finckh|1834|vers. Armen.|
 Theon Rhetor 118.22|α. δ. κατὰ τ.|αἱ δὲ καὶ τρόπων|C. E. Finckh|1834|vers. Armen.|
+Theon Rhetor 119.4|μὲν γὰρ καὶ νὺξ|ἡ μὲν γὰρ νὺξ|C. E. Finckh|1834|vers. Armen.|
 Theopomp.Com. fr. 73|om.|ὃς|F. J. Bast|1811|Phot. α 632|ap. Schaefer, Greg. Cor. p. 511
 Thuc. 1.2.6|μετοικίας ἐς|μετοικεσίας|F. W. Ullrich|1862|γρH2|Beitr. z. Erkl. p. 174
 Thuc. 1.4|καθήρει|ἐκάθηρε|Cobet|1873|Aristid.|V.L. p. 149
