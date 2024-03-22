@@ -3050,7 +3050,7 @@ Philo Spec. 1.341|-εύειν|ἐπαληθεύοντες|Thomas Mangey|1742|R A
 Philo Spec. 1.345|ἄθλι-|ἄθεοι|Thomas Mangey|1742|R Armen.|
 Philo Spec. 2.44|μήτ ̓ ἀνδικεῖν|μήτε ἀνταδικεῖν|David Hoeschel|1742|Vat. gr. 316 (R)|apud Mangey
 Philo Spec. 2.158|-α … -εως|ἐλπίδος … ὑπομνήσιν|Thomas Mangey|1742|Nicet.Heracl.|
-Philo Spec. 2.175|-βεβιωκ-|ὑποβεβηκότων|Thomas Mangey|1742|Nicet.Heracl. Coisl. 201|
+Philo Spec. 2.175|-βεβιωκ-|ὑποβεβηκότων|Thomas Mangey|1742|Coisl. 201 (Nicet.Heracl.)|
 Philo Spec. 3.5|-εύοντα|συνημερεύσοντα|Thomas Mangey|1742|Laur. Plut. 85.10 (F)|
 Philo Spec. 3.14|τοὺς μ.|τοῦ μὲν|Thomas Mangey|1742|F Armen.|
 Philo Spec. 3.28|-ὰ|ἀδελφαὶ|Thomas Mangey|1742|Barber. IV 56|
@@ -5040,8 +5040,16 @@ Theon Rhetor 104.34|-νυμεν|δεικνύωμεν|Leonhard Spengel|1854|vers.
 Theon Rhetor 105.12|ὅσον|οἷον|Daniel Heinsius|1626|vers. Armen.|
 Theon Rhetor 105.22|ἐὰν|ἂν|Leonhard Spengel|1854|vers. Armen.|
 Theon Rhetor 108.33|ν. ἢ π. σ. ἀ.|νομοθετῶν ἢ ποιητῶν ἢ σοφῶν ἀνδρῶν|C. E. Finckh|1834|vers. Armen.|
+Theon Rhetor 110.8|κ. τ. ἀ.|καὶ αἱ τούτοις ἀκολουθοῦσαι|Leonhard Spengel|1854|vers. Armen.|
+Theon Rhetor 116.19|-δίδομεν|ἀποδιδῶμεν|Christian Walz|1832|Armen. et Sard.|
+Theon Rhetor 116.20|τρόπ-|τόπῳ|C. E. Finckh|1834|vers. Armen.|
+Theon Rhetor 116.24|om.|ἢ ἀποτρέπομεν|Leonhard Spengel|1854|Vindob. phil. gr. 130 (Sard.)|
+Theon Rhetor 117.14|ε. κατὰ β.|εἰ καὶ κατὰ βραχὺ|C. E. Finckh|1834|vers. Armen.|
+Theon Rhetor 118.6|θ. χρῆσθαι|θέσεις|C. E. Finckh|1834|vers. Armen.|
 Theon Rhetor 118.22|α. δ. κατὰ τ.|αἱ δὲ καὶ τρόπων|C. E. Finckh|1834|vers. Armen.|
 Theon Rhetor 119.4|μὲν γὰρ καὶ νὺξ|ἡ μὲν γὰρ νὺξ|C. E. Finckh|1834|vers. Armen.|
+Theon Rhetor 119.6–7|τῶν -μένων|τῷ προειρημένῳ|C. E. Finckh|1834|vers. Armen.|
+Theon Rhetor 120.7|λευκότεραί|λευκόπτεροί|C. E. Finckh|1834|vers. Armen.|
 Theopomp.Com. fr. 73|om.|ὃς|F. J. Bast|1811|Phot. α 632|ap. Schaefer, Greg. Cor. p. 511
 Thuc. 1.2.6|μετοικίας ἐς|μετοικεσίας|F. W. Ullrich|1862|γρH2|Beitr. z. Erkl. p. 174
 Thuc. 1.4|καθήρει|ἐκάθηρε|Cobet|1873|Aristid.|V.L. p. 149
