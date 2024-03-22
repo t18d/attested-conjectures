@@ -5023,9 +5023,17 @@ Theon Rhetor 91.20|ἐκτεθραμμένος|εὐτεθραμ-|G. A. Hirschig
 Theon Rhetor 91.24|πρόκ-|πρόσκειται|Joachim Camerarius|1541|vers. Armen.|
 Theon Rhetor 91.29|ἑαυτῷ|ἐν ἑ.|Christian Walz|1832|vers. Armen.|
 Theon Rhetor 91.32|τέων|αὐτέων|Christian Walz|1832|vers. Armen.|
+Theon Rhetor 92.12|τοσ-|τοιοῦτος|Daniel Heinsius|1626|vers. Armen.|
+Theon Rhetor 92.16|προσ-|προθέντα|Christian Walz|1832|vers. Armen.|
+Theon Rhetor 92.18|παρὰ Μ. τῇ Χ. ἐ.|παρὰ Μενάνδρῳ ἐν τῇ Χρηστῇ ἐπικλήρῳ|Joachim Camerarius|1541|vers. Armen.|
+Theon Rhetor 92.19|om.|πάντων|Petrus Victorius|1997|vers. Armen.|apud Patillon
+Theon Rhetor 92.22|λαβ-|λαλεῖν|Petrus Victorius|1997|vers. Armen.|apud Patillon
+Theon Rhetor 92.27|-οῦ|μικρὸν|C. E. Finckh|1834|vers. Armen.|
+Theon Rhetor 93.13|τρόπ-|τόπων|Daniel Heinsius|1626|vers. Armen.|
+Theon Rhetor 95.12|τῶν περὶ Π.|περὶ τῶν Πελειάδων|C. E. Finckh|1834|vers. Armen.|
+Theon Rhetor 96.9|ὑ. τ. αὐτοῦ ἵ.|ὑπὸ τῶν αὑτοῦ ἵπτων|C. E. Finckh|1834|Sard.|
 Theon Rhetor 96.22|-μονεύματα|ἀπομνημόνευμα|J. G. Scheffer|1670|vers. Armen.|
 Theon Rhetor 98.2|ἐπ-|ἀπήρκει|C. E. Finckh|1834|vers. Armen.|
-Theon Rhetor 98.5|ποία|ποσταία|Joachim Camerarius|1541|Armen., Dox., Max. Pl., et An. D.|
 Theon Rhetor 99.18|ἀντί-|μετάληψιν|J. H. Lederlin|1834|Armen. et Dox.|apud Finckh
 Theon Rhetor 101.13|π. ἕ. κ. δύο πρ. δύο κ. πλείους πρ. πλείους|πρὸς ἕνα καὶ πρὸς δύο καὶ πρὸς πλείους|C. E. Finckh|1834|vers. Armen.|
 Theon Rhetor 104.34|-νυμεν|δεικνύωμεν|Leonhard Spengel|1854|vers. Armen.|
