@@ -5006,6 +5006,14 @@ Theon Rhetor 85.3|ἰδοὺ|ἰδίου|Petrus Victorius|1997|vers. Armen.|apud
 Theon Rhetor 85.5|τὸ τ. Θ.|τοὺς Θηβαίους|Leonhard Spengel|1854|vers. Armen.|
 Theon Rhetor 85.6|τὸ μὴ α.|τὸ μὲν αἰσθανομένους|Leonhard Spengel|1854|vers. Armen.|
 Theon Rhetor 85.16|πολλοὺς τ. Θ.|τῶν Θηβαίων|C. E. Finckh|1834|vers. Armen.|
+Theon Rhetor 87.8|ἐ. τούτοις λ.|ἐν πρώτοις λήξαι|C. E. Finckh|1834|vers. Armen.|
+Theon Rhetor 87.19|ἀπαγ-|προσαγορεύοντες|J. H. Lederlin|1834|vers. Armen.|apud Finckh
+Theon Rhetor 87.20|προσ-|ὑποτιθέμενοι|C. E. Finckh|1834|vers. Armen.|
+Theon Rhetor 87.21|ἐ. γὰρ|ἐνδέχεται|C. E. Finckh|1834|vers. Armen.|
+Theon Rhetor 87.22|εἰσφ-|ἐκφέρειν|C. E. Finckh|1834|vers. Armen.|
+Theon Rhetor 88.8|π. ἦσαν|πλείους|Leonhard Spengel|1854|vers. Armen.|
+Theon Rhetor 88.28|εἶτα ε.|εἰσῆλθον|Leonhard Spengel|1854|vers. Armen.|
+Theon Rhetor 88.30|-ήσομαι|διηγησόμεθα|Daniel Heinsius|1626|vers. Armen.|
 Theon Rhetor 96.22|-μονεύματα|ἀπομνημόνευμα|J. G. Scheffer|1670|vers. Armen.|
 Theon Rhetor 98.2|ἐπ-|ἀπήρκει|C. E. Finckh|1834|vers. Armen.|
 Theon Rhetor 98.5|ποία|ποσταία|Joachim Camerarius|1541|Armen., Dox., Max. Pl., et An. D.|
