@@ -4970,6 +4970,11 @@ Theon Rhetor 60.8|μὴ μ.|μικρὸν|C. E. Finckh|1834|vers. Armen.|
 Theon Rhetor 64.3|ταῦτα|ταὐτὰ|Daniel Heinsius|1626|vers. Armen.|
 Theon Rhetor 64.18|μὴ δὲ|μὴ δεῖ|Joachim Camerarius|1541|vers. Armen.|
 Theon Rhetor 64.24|-μένῳ|διατεθρυλημένα|Joachim Camerarius|1541|vers. Armen.|
+Theon Rhetor 64.25|ἐργασ-|ἐξεργασίας|Joachim Camerarius|1541|vers. Armen.|
+Theon Rhetor 66.22|σελίνου|Σειληνοῦ|C. E. Finckh|1834|vers. Armen.|
+Theon Rhetor 67.2|δεῖ -ειν|δὴ ἁρμόττοι|C. E. Finckh|1834|vers. Armen.|
+Theon Rhetor 67.15|om.|περὶ|Daniel Heinsius|1626|vers. Armen.|
+Theon Rhetor 68.2|om.|γενέσθαι|Joachim Camerarius|1541|vers. Armen.|
 Theopomp.Com. fr. 73|om.|ὃς|F. J. Bast|1811|Phot. α 632|ap. Schaefer, Greg. Cor. p. 511
 Thuc. 1.2.6|μετοικίας ἐς|μετοικεσίας|F. W. Ullrich|1862|γρH2|Beitr. z. Erkl. p. 174
 Thuc. 1.4|καθήρει|ἐκάθηρε|Cobet|1873|Aristid.|V.L. p. 149
