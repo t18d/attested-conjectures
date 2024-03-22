@@ -5071,6 +5071,9 @@ Theon Rhetor 129.13|περιττὴν π.|περὶ τὴν προφοράν|C. 
 Theon Rhetor 129.14|ἡ π. τ. ὄ., ἡ δὲ|ἡ δὲ περὶ τὸ ὄνομα, ἡ δὲ|C. E. Finckh|1834|vers. Armen.|
 Theon Rhetor 130.6|φησι|φήσῃ|Leonhard Spengel|1854|vers. Armen.|
 Theon Rhetor 130.10|-ναται|δύνηται|Leonhard Spengel|1854|vers. Armen.|
+Theon Rhetor 130.13|-ω|ἔστι|Joachim Camerarius|1541|vers. Armen.|
+Theon Rhetor 130.26|εἴ τις|οἷον εἴ τις|Daniel Heinsius|1626|vers. Armen.|
+Theon Rhetor 130.35|ἄν-/εὔν-|ἄγνοιαν|C. E. Finckh|1834|vers. Armen.|
 Theopomp.Com. fr. 73|om.|ὃς|F. J. Bast|1811|Phot. α 632|ap. Schaefer, Greg. Cor. p. 511
 Thuc. 1.2.6|μετοικίας ἐς|μετοικεσίας|F. W. Ullrich|1862|γρH2|Beitr. z. Erkl. p. 174
 Thuc. 1.4|καθήρει|ἐκάθηρε|Cobet|1873|Aristid.|V.L. p. 149
