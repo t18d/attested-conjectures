@@ -4577,7 +4577,7 @@ Stob. 3.1.209|χρήσ-|χρίσεις|Conrad Gesner|1549|Brux. misc. 11360 (Br)
 Stob. 3.2.7|-ῆ|αὐτοῖς|Nauck|1894|Brux. misc. 11360 (Br)|apud Hense
 Stob. 3.2.15|Τεννε/Τημε|Τημένῳ|Valckenaer|1767|duo codd. Schowiani|Diatribe p. 15
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escor. LXXXX II Σ 14 (Md)|
-Stob. 3.3.50|διδόντ-|δώσοντας|Nauck|1894|Epicur. Sent.Vat.|apud Hense
+Stob. 3.3.50|διδόντ-|δώσοντας|Nauck|1894|Gnomol.Vat|apud Hense
 Stob. 3.4.12|δ. φοίτασις|δόμοις φοιτάσεις|Conrad Gesner|1549|Paris. gr. 1984 (A)|
 Stob. 3.5.45|πολὺ|πολλὴ|Conrad Gesner|1549|LABr|
 Stob. 3.10.68|-πίῃ|Αἰσωπηίῃ|Meineke|1855|Brux. misc. 11360 (Br)|-πείῃ Br
