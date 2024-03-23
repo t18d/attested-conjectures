@@ -80,6 +80,7 @@
         <li>Dietsch, Rudolf (ed.), <em>Gai Sallusti Crispi quae supersunt</em>, i (Leipzig, 1859).</li>
         <li>Diggle, James, 'Apologies to Bothe (and Others)', in <em>Euripidea: collected essays</em> (Oxford, 1994), 518–23.</li>
         <li>Dinarchus, <em>Orationes cum fragmentis</em>, ed. Nicos C. Conomis (Leipzig, 1975).</li>
+        <li>Diogenes Laertius, <em>Lives of Eminent Philosophers</em>, ed. Tiziano Dorandi (Cambridge, 2013).</li>
         <li>Driver, G. R., 'Hebrew Scrolls', <em>The Journal of Theological Studies</em>, 2 (1951), 17–30.</li>
         <li>El-Maghrabi, M. G., and C. Römer (eds), <em>Texts from the "Archive" of Socrates, the Tax Collector, and Other Contexts at Karanis (P. Cair. Mich. II)</em> (Berlin, 2015), 48.</li>
         <li>Eschilo, <em>Agamennone</em>, ed. Enrico Medda (Rome, 2017).</li>
