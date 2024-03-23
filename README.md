@@ -244,7 +244,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (227), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (134), Madvig (88), Markland (85), Valckenaer (75), Gronovius (67), Beatus Rhenanus (65) and Porson (63).</p>
+<p>The top 10 critics are Scaliger (227), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (134), Madvig (88), Markland (85), Valckenaer (75), Gronovius (67), Beatus Rhenanus (65) and Reiske (64).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1591,7 +1591,14 @@ D.L. 6.52|-ας … -ας|γυναῖκα … ἀπηγχονισμένην|Herb
 D.L. 6.54|-ποτε|μηδέπω|Gilles Ménage|1663|ΔΠ|
 D.L. 6.63|ἐνάριζ’|ἐράνιζ’|Henri Estienne|1593|Vat. gr. 96 (Φ)|praef. p. 12
 D.L. 6.66|τῆ -α|τὴν ἑταίραν|Herbert Richards|1904|PpcΦ|CR
+D.L. 6.75|ἐπ’ -ὸν|ἐπ’ αὐτῶ|Reiske|1889|Palat. gr. 93 (Ψ)|Herm. ('post eum')
 D.L. 6.87|ἵν’ ἐγκρατὴς ἦ|ἵν’ ἐγκρατήση|Meineke|1857|B2|
+D.L. 7.86|τὸ κ. λ.|τῷ κατὰ λόγον|Otto Heine|1869|rec.|JClPh
+D.L. 7.123|προσποιουμένη|-ης|Joachim Kühn|1692|Vat. gr. 96 (Φ)|
+D.L. 7.149|νόμ-|ὅλων|Reiske|1889|Sud. ε 142|Herm.
+D.L. 7.152|πάχους|-έος|Reiske|1889|Sud. κ 1996|Herm.
+D.L. 7.177|-άσειν|δοξάζει|Reiske|1889|Sud. ε 177 (praeter cod. A)|Herm.
+D.L. 8.13|τοῦ Ἀ.|τὸν Ἀπόλλωνος|Gilles Ménage|1663|Vat. gr. 96 (Φ)|
 D.S. 9.10.4|ἐᾷ τὰ γρ.|ἐᾷ με γρ.|Dindorf|s.xix med.|Vat. teste Herwerden|
 D.T. schol. p. 471.35|Ἀντιφ-|Ἰοφῶντος|J. A. Cramer|1837|Vat. gr. 14 (C)|
 Dem. 1.14|τις ἂν εἴποι κτλ.|del.|Cobet|s.xix med.|P.Oxy. LXII 4310|
