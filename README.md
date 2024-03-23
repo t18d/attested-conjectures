@@ -244,7 +244,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (226), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (134), Madvig (87), Markland (85), Valckenaer (75), Gronovius (67), Beatus Rhenanus (65) and Porson (63).</p>
+<p>The top 10 critics are Scaliger (227), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (134), Madvig (87), Markland (85), Valckenaer (75), Gronovius (67), Beatus Rhenanus (65) and Porson (63).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1567,6 +1567,8 @@ D.L. 1.68|ἕκτ-|πέμπτην|Casaubon|1583|F3|
 D.L. 1.81|κ. -ὸν|κατεσοβαρεύετο αὐτοῦ|Joachim Kühn|1692|Vat. gr. 96 (Φ)|
 D.L. 1.81|-ρικα|γαύρηκα|Gilles Ménage|1663|B2|
 D.L. 1.116|ψάμμου|σάμου|Casaubon|1583||
+D.L. 1.118|αὐ- δισκῆσαι|αὑτὸν δισκεῦσαι|Scaliger|1663|Vat. gr. 96 (Φ)|apud Ménage
+D.L. 1.118|-ίστων|βελτιόνων|Walther Kranz|1934–7|Vat. gr. 990|
 D.L. 2.18|Εὐριπίδης|-δας|Cobet|1850|Laur. Plut. 69.13 (F)|
 D.L. 3.17|σαφάσαιμι/σαφὲς ἅμι|σάφα ἴσαμι|H. L. Ahrens|1843|Neap. III B 29 (B)|σαφαισαμι
 D.L. 5.7|εἰς ἀθάνατον/τ’ ἀ-|ἰσαθάνατον|Bergk|1853|Didym.|
