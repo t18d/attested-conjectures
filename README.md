@@ -244,7 +244,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (227), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (134), Madvig (88), Markland (85), Valckenaer (75), Gronovius (67), Reiske (65) and Beatus Rhenanus (65).</p>
+<p>The top 10 critics are Scaliger (227), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (134), Madvig (88), Markland (85), Valckenaer (75), Gronovius (67), Reiske (66) and Beatus Rhenanus (65).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1602,7 +1602,13 @@ D.L. 8.13|τοῦ Ἀ.|τὸν Ἀπόλλωνος|Gilles Ménage|1663|Vat. gr. 
 D.L. 8.39|καταληφθῆναι|-λειφθῆναι|Eduard Schwartz|1903|rec.|RE
 D.L. 9.2|ὅκως ὑπὲρ|ὅκωσπερ|Meineke|1842|rec.|
 D.L. 9.32|ἀφίστασθαι|ὑφ-|Reiske|1889|Φh|Herm.
-D.L. 9.32|ἐπέκρυσ-|ἐπέκκρισιν|W. A. Heidel|1913|Φh|
+D.L. 9.32|ἐπέκρυσ-|ἐπέκκρισιν|W. A. Heidel|1912|Arsenii Violetum|apud Diels
+D.L. 9.42|π. τ.|τῆς περὶ|Casaubon|1583|rec.|
+D.L. 9.43|δοκεῖ|ἐδόκει|Herbert Richards|1904|Vat. gr. 96 (Φ)|CR
+D.L. 9.66|καθάροι|ἐκάθαιρεν|Gilles Ménage|1663|Φh|
+D.L. 9.69|ἀνθρώπων|ἀπάνθρωπον|Casaubon|1583|rec.|
+D.L. 9.79|κ. ε.|καὶ αἱ εὐλαὶ|Reiske|1889|Sud. π 3216|Herm.
+D.L. 9.89|τὸ ἀ.|τοῦ ἀπορροίας|Ignazio Rossi|1788|Φh|
 D.S. 9.10.4|ἐᾷ τὰ γρ.|ἐᾷ με γρ.|Dindorf|s.xix med.|Vat. teste Herwerden|
 D.T. schol. p. 471.35|Ἀντιφ-|Ἰοφῶντος|J. A. Cramer|1837|Vat. gr. 14 (C)|
 Dem. 1.14|τις ἂν εἴποι κτλ.|del.|Cobet|s.xix med.|P.Oxy. LXII 4310|
