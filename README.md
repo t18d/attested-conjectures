@@ -244,7 +244,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (227), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (134), Madvig (88), Markland (85), Valckenaer (75), Gronovius (67), Beatus Rhenanus (65) and Reiske (64).</p>
+<p>The top 10 critics are Scaliger (227), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (134), Madvig (88), Markland (85), Valckenaer (75), Gronovius (67), Reiske (65) and Beatus Rhenanus (65).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1599,6 +1599,10 @@ D.L. 7.149|νόμ-|ὅλων|Reiske|1889|Sud. ε 142|Herm.
 D.L. 7.152|πάχους|-έος|Reiske|1889|Sud. κ 1996|Herm.
 D.L. 7.177|-άσειν|δοξάζει|Reiske|1889|Sud. ε 177 (praeter cod. A)|Herm.
 D.L. 8.13|τοῦ Ἀ.|τὸν Ἀπόλλωνος|Gilles Ménage|1663|Vat. gr. 96 (Φ)|
+D.L. 8.39|καταληφθῆναι|-λειφθῆναι|Eduard Schwartz|1903|rec.|RE
+D.L. 9.2|ὅκως ὑπὲρ|ὅκωσπερ|Meineke|1842|rec.|
+D.L. 9.32|ἀφίστασθαι|ὑφ-|Reiske|1889|Φh|Herm.
+D.L. 9.32|ἐπέκρυσ-|ἐπέκκρισιν|W. A. Heidel|1913|Φh|
 D.S. 9.10.4|ἐᾷ τὰ γρ.|ἐᾷ με γρ.|Dindorf|s.xix med.|Vat. teste Herwerden|
 D.T. schol. p. 471.35|Ἀντιφ-|Ἰοφῶντος|J. A. Cramer|1837|Vat. gr. 14 (C)|
 Dem. 1.14|τις ἂν εἴποι κτλ.|del.|Cobet|s.xix med.|P.Oxy. LXII 4310|
@@ -2582,7 +2586,7 @@ Men. Phasm. 73|-ϲθαι ἀν|ε]π̣ιϲημ̣[αιν]εϲθεαν|Bentley|pos
 Men. Pk. 46|θ’ εαυτων|θ αυτων|W. G. Headlam|1908|P.Heid. G 219 + 239 h|
 Men. Pk. 46|θ’ εαυτων|θ αυτων|W. G. Headlam|1908|P.Heid. G 219 + 239 h|
 Men. Pk. 46|θ’ εαυτων|θ αυτων|Jan van Leeuwen|1908|P.Heid. G 219 + 239 h|
-Men. Pk. 290|αλλ’ εις οικον τιν|εἰς δ’ οἶκόν τιν’|E. Schwartz|1929|P.Oxy. LXXIX 5200|Herm. 64 (1929) 10 n. 2
+Men. Pk. 290|αλλ’ εις οικον τιν|εἰς δ’ οἶκόν τιν’|Eduard Schwartz|1929|P.Oxy. LXXIX 5200|Herm.
 Men. Sam. 280|τουτον|τουτονϊ|Jan van Leeuwen|1908|P.Bodm. XXV et Pap. Barcin. inv. 45|
 Men. Sam. 588|μικρο̄|μικρα|Leo|1907|P.Bodm. XXV et Pap. Barcin. inv. 45|NGG (1907) 315–41
 Men. fr. 158.2|ἀρπάγην|ἀρπαγήν|Valckenaer|1739|Ph.Bybl. 28|Animad. p. 23
