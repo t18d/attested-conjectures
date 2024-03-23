@@ -244,7 +244,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (227), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (134), Madvig (88), Markland (85), Valckenaer (75), Gronovius (67), Reiske (66) and Beatus Rhenanus (65).</p>
+<p>The top 10 critics are Scaliger (227), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (134), Madvig (88), Markland (85), Valckenaer (75), Reiske (67), Gronovius (67) and Beatus Rhenanus (65).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1609,6 +1609,15 @@ D.L. 9.66|καθάροι|ἐκάθαιρεν|Gilles Ménage|1663|Φh|
 D.L. 9.69|ἀνθρώπων|ἀπάνθρωπον|Casaubon|1583|rec.|
 D.L. 9.79|κ. ε.|καὶ αἱ εὐλαὶ|Reiske|1889|Sud. π 3216|Herm.
 D.L. 9.89|τὸ ἀ.|τοῦ ἀπορροίας|Ignazio Rossi|1788|Φh|
+D.L. 9.106|μηδὲν ε. … τ. δ. μ. ε.|τὰ μὲν εἶναι … τὰ δὲ μὴ εἶναι|Reiske|1889|Vat. gr. 96 (Φ)|Herm.
+D.L. 9.107|ὅτι φ.|ὅτε φαίνεται|Jonathan Barnes|1992|Vat. gr. 96 (Φ)|
+D.L. 10.5|λεοντίαν|Λεόντιον|Casaubon|1583|rec.|
+D.L. 10.25|Ἐπιστολικά περὶ Ἐ. ε. κ. δ.|Ἐπιστολικά, Περὶ Ἐ. ε. κ. δ.|Bernays|1866|Neap. III B 29 (B)|
+D.L. 10.26|φιλονεικεῖ|ἐφιλονείκει|Casaubon|1593|Φh|apud Stephanum
+D.L. 10.31|ἀδυνατεῖ|δύναταί|Pierre Gassendi|1649|Vat. gr. 96 (Φ)|
+D.L. 10.32|-γένεια|ὁμογενὴς|Pierre Gassendi|1649|Vat. gr. 96 (Φ)|
+D.L. 10.32|εἴρη-|ἤρτηται|Tommaso Aldobrandini|1594|Vat. gr. 96 (Φ)|
+D.L. 10.36|καὶ ἐπ’ ἐκεῖνα συνεχῶς|καὶ ἐ. ἐ. καὶ σ.|Walter Arndt|1913|rec.|
 D.S. 9.10.4|ἐᾷ τὰ γρ.|ἐᾷ με γρ.|Dindorf|s.xix med.|Vat. teste Herwerden|
 D.T. schol. p. 471.35|Ἀντιφ-|Ἰοφῶντος|J. A. Cramer|1837|Vat. gr. 14 (C)|
 Dem. 1.14|τις ἂν εἴποι κτλ.|del.|Cobet|s.xix med.|P.Oxy. LXII 4310|
