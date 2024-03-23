@@ -1736,7 +1736,7 @@ Diph. fr. 69|-ην/-ον|εὑρημένη|Scaliger|n.d.|Et.Sym. et Synag.|
 EM 229.44|καλεῖται|Καλλίμαχος|Alfons Hecker|1849|Et.Gen. B|Philol. 4, 478
 Epich. fr. 97|]ότως|και εοικοτως|Blass|1889|P.Oxy. XXV 2429|Jb. cl. Ph. 139 (1889) 261
 Epict. Diatr. 4.1.136|om.|εἰ|Hieronymus Wolf|1560|P.Cair.Mich. II 11|vel πότερον Wolf
-Epicur. Sent.Vat. 51|||Hartel||P.Berol. 16369|
+Epicur. Sent.Vat. 51|-ει|ἔθη|Wilhelm von Hartel|1888|P.Berol. 16369|apud Wotke
 Eub. fr. 39|δ' ἐπέσεσθε κτλ.|δὲ πεύσεσθ'|Meineke|1839–57|Et.Sym.|
 Eub. fr. 46|-λικὰ|σικελὰ|Bentley|1708|Poll. F|epist. ad Hemst. I p. 284 Wordsw.
 Eup. fr. 99.42|τ. π.|πέττειν τινὰ|Casaubon|1621|P.Cair. 43227|πέττειν τι[
