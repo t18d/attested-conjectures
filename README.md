@@ -1626,6 +1626,12 @@ D.L. 10.65|-θησία|ἀναισθητεῖ(ν)|J. G. Schneider|1813|Vat. gr. 
 D.L. 10.65|ταύτ-|αὕτη|Marcus Meibom|1692|Vat. gr. 96 (Φ)|Musiktheoretiker
 D.L. 10.72|διαλέκτους ὡς βελτίους|-ου ὡ. β.|Joachim Kühn|1692|P1|
 D.L. 10.83|-α|ὅσοι|Pierre Gassendi|1649|rec.|
+D.L. 10.110|τὰ μ. τὰ δὲ|τὰ μέρη. τὸ δὲ|Pierre Gassendi|1649|rec.|
+D.L. 10.119|καὶ -εὶς|κἂν πηρωθῆ|Herbert Richards|1904|Vat. gr. 96 (Φ)|CR
+D.L. 10.126|τὸ σιτίον οὐ τὸ πλεῖον|σ. ο. τ. π.|Usener|1887|Vat. gr. 96 (Φ)|
+D.L. 10.131|τὰς τῶν ἐν ἀπολ.|τὰς ἐν ἀπολαύσει|Ignazio Rossi|1788|Vat. gr. 96 (Φ)|
+D.L. 10.142|εἰσπλη-|ἐκπληρουμένοις|Usener|1887|Diog.Oen. fr. 33 mg inf. S.|
+D.L. 10.151|ἀπὸ|ἐπὶ|Gilles Ménage|1663|Sent.Vat. 6|
 D.S. 9.10.4|ἐᾷ τὰ γρ.|ἐᾷ με γρ.|Dindorf|s.xix med.|Vat. teste Herwerden|
 D.T. schol. p. 471.35|Ἀντιφ-|Ἰοφῶντος|J. A. Cramer|1837|Vat. gr. 14 (C)|
 Dem. 1.14|τις ἂν εἴποι κτλ.|del.|Cobet|s.xix med.|P.Oxy. LXII 4310|
