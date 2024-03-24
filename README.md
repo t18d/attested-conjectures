@@ -1571,6 +1571,8 @@ D.C. fr. 23.3|προσχαρ-|προχωρῆσαι|Bekker|1849|Vat. gr. 73|
 D.C. fr. 25.4|πολλὰ|πολλοὶ πολλὰ|Bekker|1849|Vat. gr. 73|
 D.C. fr. 37.13.2|-τητο|ἐκεκράτυντο|Reiske|1752|Laur. Plut. 70.8 (L)|apud Reimarum
 D.C. fr. 37.55.1|-ουμένου|συναιρομένου|F. W. Sturz|1825|Laur. Plut. 70.8 (L)|
+D.C. fr. 38.50.3|-σκοπ-|ἐπικοπῆς|Wilhelm Xylander|1588|Laur. Plut. 70.8 (L)|
+D.C. fr. 39.55.4|τοῖς τε|τοῖς τότε|F. W. Sturz|1814|Laur. Plut. 70.8 (L)|p. 12
 D.H. 1.48.2|-λεῖ|κύκλῳ|Reiske|1775|Urb. 105 (B)|
 D.H. Comp. 9|πλεῖον/πλείων|πλέον|Dindorf|1832–60|Laur. Plut. 59.15 (F)|
 D.L. 1.22|Νείλεῳ ἐκπεσόντι Φ.|Ν. ἐκπεσὼν τῆς Φοινίκης|Casaubon|1583|Vat. gr. 96 (Φ)|
