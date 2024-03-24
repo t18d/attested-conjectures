@@ -249,7 +249,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (134), Madvig (88), Markland (85), Valckenaer (75), Bekker (75), Reiske (68) and Gronovius (67).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (134), Madvig (88), Markland (85), Valckenaer (75), Bekker (75), Reiske (71) and Gronovius (67).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1568,6 +1568,9 @@ D.C. 38.50.3|-σκοπ-|ἐπικοπῆς|Wilhelm Xylander|1588|Laur. Plut. 70.
 D.C. 39.15.1|-ὼν|βαλὸν|Bekker|1849|Laur. Plut. 70.8 (L)|
 D.C. 39.51.1|τ. πρὸ τ. ἠ.|τὰ πρὸς τῆς ἠπείρου|Bekker|1849|Laur. Plut. 70.8 (L)|
 D.C. 39.55.4|τοῖς τε|τοῖς τότε|F. W. Sturz|1814|Laur. Plut. 70.8 (L)|p. 12
+D.C. 40.64.1|τ. ἐ. αὑτ- π.|τὴν ἐσθῆτα αὐτοῦ περιρρῆξαι|Reiske|1757|Laur. Plut. 70.8 (L)|p. 72
+D.C. 44.2.4|αὐτήν|α. τε|Reiske|1757|Laur. Plut. 70.8 (L)|p. 89
+D.C. 46.34.2|-αντες|δόξοντες|Reiske|1757|Laur. Plut. 70.8 (L)|p. 99
 D.C. fr. 5.3|-δημ-|ἔκδηλον|Bekker|1849|Vat. gr. 73|
 D.C. fr. 5.6|δι᾿ ἃς μάχεσθε, προαποκτείνετε|δ. ἃ. μ., -ατε|Bekker|1849|Vat. gr. 73|
 D.C. fr. 5.7|αὐτοῖς|αὐταὶ τοῖς|Bekker|1849|Vat. gr. 73|
