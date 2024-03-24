@@ -181,6 +181,7 @@
         <li>Plinius Secundus, C., <em>Naturalis historia: libri XXXVII</em>, ed. Karl Mayhoff (Munich, 1892–1909).</li>
         <li>Plinius Caecilius Secundus, C., <em>Epistularum libri decem</em>, ed. R. A. B. Mynors (Oxford, 1963).</li>
         <li>Pline le Jeune, <em>Lettres</em>, iii, ed. Anne-Marie Guillemin (Paris, 1967).</li>
+        <li>Polybe, <em>Histoires livres VII–VIII et XI</em>, ed. Raymond Weil (Paris, 1982).</li>
         <li>Polybe, <em>Histoires livre XI</em>, ed. Raymond Weil (Paris, 1990).</li>
         <li>Propertius, Sextus, <em>Elegiarum libri IV</em>, ed. Paolo Fedeli (Munich, 1994).</li>
         <li>Publilius Syrus Mimus, <em>Sententiae</em>, ed. Otto Friedrich (Berlin, 1880).</li>
