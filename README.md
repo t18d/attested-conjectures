@@ -249,7 +249,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (134), Madvig (88), Markland (85), Valckenaer (75), Bekker (69), Reiske (68) and Gronovius (67).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (134), Madvig (88), Markland (85), Valckenaer (75), Bekker (73), Reiske (68) and Gronovius (67).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1614,6 +1614,10 @@ D.C. fr. 57.2|-αντας|κατορθώσοντας|Bekker|1849|Vat. gr. 73|
 D.C. fr. 57.4|ἐπειδή τοῦθ'|ἐ. τε τ.|Bekker|1849|Vat. gr. 73|
 D.C. fr. 57.4|κατάρχ-|καὶ ἄρχειν|Bekker|1849|Vat. gr. 73|
 D.C. fr. 57.6a|-ᾶται|τολμᾷ|Bekker|1849|Vat. gr. 73|
+D.C. fr. 57.6b|ἐστὶν ᾿Ι.|ἐς τὴν ᾿Ιταλίαν|Bekker|1849|Vat. gr. 73|
+D.C. fr. 57.11|α. δὲ ὀ. καὶ|α. τὲ ὀ. καὶ|Bekker|1849|Vat. gr. 73|
+D.C. fr. 57.22|τ. ἄ. ἐκ μ. π.|τῶν ἄλλων τῶν ἐκ μ. προλεγομένων|Bekker|1849|Vat. gr. 73|
+D.C. fr. 57.22|π. τέ τ. ἔσται μ. ἂν α. ἀποτροπὴ μ.|π. τέ τ. ἔσται καὶ μ. ἂν α. ἀποτροπὴ μήτ᾽|Bekker|1849|Vat. gr. 73|
 D.H. 1.48.2|-λεῖ|κύκλῳ|Reiske|1775|Urb. 105 (B)|
 D.H. Comp. 9|πλεῖον/πλείων|πλέον|Dindorf|1832–60|Laur. Plut. 59.15 (F)|
 D.L. 1.22|Νείλεῳ ἐκπεσόντι Φ.|Ν. ἐκπεσὼν τῆς Φοινίκης|Casaubon|1583|Vat. gr. 96 (Φ)|
