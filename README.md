@@ -3432,6 +3432,7 @@ Priap. 50.6|-tris|noster|Nicolaus Heinsius|1773|Vat. lat. 2876 (Y)|apud Burmannu
 Priap. 83.43|arrig-/dirig-/rig-/erigit|erigat|Emil Baehrens|1878|Rehdiger. 125 (r)|
 Priscian. Inst. 18.197|ὅσοι γὰρ/θεοῖς ἄρ'|θεοὶ γὰρ|Madvig|1846|VR|Philol. 1 (1846) 672
 Prob. vita Pers. l. 37|centies|centum|Casaubon|n.d.|Lond. mus. Brit. Reg. 15 B XIX|
+ProdRhod 1.38|ξυνεδέθ-|ξυνεσχέθησαν|Isidor Hilberg|1877|UL|
 Prop. 1.6.9|meam|se iam|Nicolaus Heinsius|1742|recc.|
 Prop. 1.9.29|manus|malus|Franciscus Modius|1584|recc.|p. 81
 Prop. 1.12.7|illo|ullo|Nicolaus Heinsius|1742|recc.|
