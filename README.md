@@ -48,6 +48,7 @@
         <li>Callimachus, <em>Hymni et Epigrammata</em>, ed. Rudolf Pfeiffer (Oxford, 1953).</li>
         <li>Callimachus, <em>The Hymns</em>, ed. Susan A. Stephens (Oxford, 2015).</li>
         <li>Calpurnius Siculus, T., <em>Ecloga VII</em>, ed. Lucia di Salvo (Bologna, 1990).</li>
+        <li>Cassius Dio Cocceianus, <em>Historiarum Romanarum quae supersunt</em>, ed. Ursul Philip Boissevain (Berlin, 1895–1901).</li>
         <li>Cato, M. Porcus, <em>De agri cultura liber</em>, ed. Heinrich Keil (Leipzig, 1884).</li>
         <li>Chariton Aphrodisiensis, <em>De Callirhoe narrationes amatoriae</em>, ed. B. P. Reardon (Munich, 2004).</li>
         <li>Cicero, M. Tullius, <em>Orationes pro Sex. Roscio, de imperio Cn. Pompei, pro Cluentio, in Catilinam, pro Murena, pro Caelio</em>, ed. Albert Curtis Clark (Oxford, 1905).</li>
