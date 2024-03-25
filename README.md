@@ -250,7 +250,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (135), Madvig (88), Markland (85), Valckenaer (75), Reiske (75), Bekker (75) and Gronovius (67).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (135), Madvig (88), Markland (85), Reiske (78), Valckenaer (75), Bekker (75) and Gronovius (67).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1636,6 +1636,9 @@ D.H. Comp. 2.6|κατανοοῦντι|κατὰ γοῦν|Reiske|1775|Laur. Plu
 D.H. Comp. 6.1|τε πῶς καὶ|τε καὶ|Reiske|1775|Laur. Plut. 59.15 (F)|
 D.H. Comp. 9.8|πλεῖ-|πλέον|Dindorf|1860|Laur. Plut. 59.15 (F)|ad Soph. fr. 754 (774 Radt)
 D.H. Comp. 11.23|συμμετριάζ-|συμμετρία σώζουσα|Reiske|1775|FPM|
+D.H. Comp. 18.26|-ατο|ἐπίμπρα|Reiske|1775|Laur. Plut. 59.15 (F)|
+D.H. Comp. 24.7|τῶν ἁπάντων|τὸν ἀπ' αὐτῶν|Reiske|1775|Laur. Plut. 59.15 (F)|
+D.H. Comp. 25.43|τοῖς … -οις|τοὺς … ἀπείρους|Reiske|1775|Paris. gr. 2918 (E)|
 D.L. 1.22|Νείλεῳ ἐκπεσόντι Φ.|Ν. ἐκπεσὼν τῆς Φοινίκης|Casaubon|1583|Vat. gr. 96 (Φ)|
 D.L. 1.34|ἀστρολόγον|-ων|Reiske|1889|Palpc Plan|Herm.
 D.L. 1.53|-τροπῶ|ἐπιτρέπω|Casaubon|1583|Neap. III Β 28 (D)|
