@@ -1843,7 +1843,7 @@ Eur. Alc. 1037|ἀτιμάζων|ἀτίζων|Scaliger|n.d.|Harl. 5743 (Q)|
 Eur. Alc. 1092|ὅπουπερ ἔστι|ὅτου πάρεστι|Andreas Weidner|1883|Harl. 5743 (Q)|ὅπου πάρεστι Q
 Eur. Alc. 1112|-μοις|δόμους|Monk|n.d.|Marc. gr. IX 10|
 Eur. Andr. 7|habent|del.|Valckenaer|n.d.|P.Oxy. III 449|
-Eur. Andr. 404|δῆτ᾽ ἐμοὶ|δῆτά μοι|Radermacher|n.d.|lΣy et Σy|
+Eur. Andr. 404|δῆτ᾽ ἐμοὶ|δῆτά μοι|Ludwig Radermacher|1891|lΣy et Σy|p. 12
 Eur. Andr. 814|μέγ᾽ ἀλγεῖ|μεταλγεῖ|Nauck|n.d.|γρΣv et iΣhb|
 Eur. Andr. 832|-λοις|πέπλους|Reiske|n.d.|Laur. 31.10 (O)|
 Eur. Andr. 962|φόβω(ι)|φόνωι|Lenting|n.d.|Hier. τάφου 36 (H)|
