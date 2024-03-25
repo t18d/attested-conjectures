@@ -250,7 +250,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (135), Madvig (88), Markland (85), Reiske (81), Valckenaer (75), Bekker (75) and Gronovius (67).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (135), Madvig (88), Markland (85), Reiske (82), Valckenaer (75), Bekker (75) and Gronovius (67).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1631,6 +1631,7 @@ D.C. fr. 57.22|τ. ἄ. ἐκ μ. π.|τῶν ἄλλων τῶν ἐκ μ. πρ
 D.C. fr. 57.22|π. τέ τ. ἔσται μ. ἂν α. ἀποτροπὴ μ.|π. τέ τ. ἔσται καὶ μ. ἂν α. ἀποτροπὴ μήτ᾽|Bekker|1849|Vat. gr. 73|
 D.C. fr. 57.25|-κελον|ἀπερίσκεπτον|F. W. Sturz|1825|Vat. gr. 73|
 D.C. fr. 58.2|-οῦσθαι|ἐκτρυχώσειν|L. Dindorf|1864|Vat. gr. 73|corrigendum
+D.H. 1.6.5|-ους|φιλοθέωρος|Reiske|1774|Chis. 58 (A)|
 D.H. 1.48.2|-λεῖ|κύκλῳ|Reiske|1775|Urb. 105 (B)|
 D.H. Comp. 2.6|κατανοοῦντι|κατὰ γοῦν|Reiske|1775|Laur. Plut. 59.15 (F)|
 D.H. Comp. 6.1|τε πῶς καὶ|τε καὶ|Reiske|1775|Laur. Plut. 59.15 (F)|
