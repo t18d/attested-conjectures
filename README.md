@@ -1634,11 +1634,11 @@ D.C. fr. 58.2|-οῦσθαι|ἐκτρυχώσειν|L. Dindorf|1864|Vat. gr. 73
 D.H. 1.6.3|-οῖς|αὐτῆς|Reiske|1774|Chis. 58 (A)|
 D.H. 1.6.5|-ους|φιλοθέωρος|Reiske|1774|Chis. 58 (A)|
 D.H. 1.48.2|-λεῖ|κύκλῳ|Reiske|1774|Urb. 105 (B)|
-D.H. 1.61.4|αὐτῶ|αὑτῷ|Hermann Sauppe|1861|Urb. 105 (Bb)|Eph. Gott.
+D.H. 1.61.4|αὐτῶ|αὑτῷ|Hermann Sauppe|1861|Urb. 105 (Bb)|Eph. Gott.; m. sec.
 D.H. 1.62.1|βατί-|βάτειαν|Hermann Sauppe|1861|Chis. 58 (A)|
-D.H. 1.65.3|προειδ-|προιδομένου|Friedrich Sylburg|1586|Urb. 105 (Ba)|
-D.H. 2.45.4|-ωσι|συνάξουσι|Cobet|1854|Urb. 105 (Ba)|Var. lect. p. 97
-D.H. 3.4.2|-εις|κατάμεμψις|Reiske|1774|Urb. 105 (Bb)|
+D.H. 1.65.3|προειδ-|προιδομένου|Friedrich Sylburg|1586|Urb. 105 (Ba)|m. pr.
+D.H. 2.45.4|-ωσι|συνάξουσι|Cobet|1854|Urb. 105 (Ba)|Var. lect. p. 97; m. pr.
+D.H. 3.4.2|-εις|κατάμεμψις|Reiske|1774|Urb. 105 (Bb)|m. sec.
 D.H. 3.23.7|-ων|εὕρισκον|Reiske|1774|ABb|
 D.H. Comp. 2.6|κατανοοῦντι|κατὰ γοῦν|Reiske|1775|Laur. Plut. 59.15 (F)|
 D.H. Comp. 6.1|τε πῶς καὶ|τε καὶ|Reiske|1775|Laur. Plut. 59.15 (F)|
