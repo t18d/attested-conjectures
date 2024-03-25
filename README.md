@@ -250,7 +250,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (135), Madvig (88), Markland (85), Reiske (83), Valckenaer (75), Bekker (75) and Gronovius (67).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (135), Madvig (88), Reiske (85), Markland (85), Valckenaer (75), Bekker (75) and Gronovius (67).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1634,6 +1634,12 @@ D.C. fr. 58.2|-οῦσθαι|ἐκτρυχώσειν|L. Dindorf|1864|Vat. gr. 73
 D.H. 1.6.3|-οῖς|αὐτῆς|Reiske|1774|Chis. 58 (A)|
 D.H. 1.6.5|-ους|φιλοθέωρος|Reiske|1774|Chis. 58 (A)|
 D.H. 1.48.2|-λεῖ|κύκλῳ|Reiske|1774|Urb. 105 (B)|
+D.H. 1.61.4|αὐτῶ|αὑτῷ|Hermann Sauppe|1861|Urb. 105 (Bb)|Eph. Gott.
+D.H. 1.62.1|βατί-|βάτειαν|Hermann Sauppe|1861|Chis. 58 (A)|
+D.H. 1.65.3|προειδ-|προιδομένου|Friedrich Sylburg|1586|Urb. 105 (Ba)|
+D.H. 2.45.4|-ωσι|συνάξουσι|Cobet|1854|Urb. 105 (Ba)|Var. lect. p. 97
+D.H. 3.4.2|-εις|κατάμεμψις|Reiske|1774|Urb. 105 (Bb)|
+D.H. 3.23.7|-ων|εὕρισκον|Reiske|1774|ABb|
 D.H. Comp. 2.6|κατανοοῦντι|κατὰ γοῦν|Reiske|1775|Laur. Plut. 59.15 (F)|
 D.H. Comp. 6.1|τε πῶς καὶ|τε καὶ|Reiske|1775|Laur. Plut. 59.15 (F)|
 D.H. Comp. 9.8|πλεῖ-|πλέον|Dindorf|1860|Laur. Plut. 59.15 (F)|ad Soph. fr. 754 (774 Radt)
