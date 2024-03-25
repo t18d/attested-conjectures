@@ -250,7 +250,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (135), Madvig (88), Markland (85), Reiske (79), Valckenaer (75), Bekker (75) and Gronovius (67).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (135), Madvig (88), Markland (85), Reiske (80), Valckenaer (75), Bekker (75) and Gronovius (67).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1641,6 +1641,7 @@ D.H. Comp. 24.7|τῶν ἁπάντων|τὸν ἀπ' αὐτῶν|Reiske|1775|
 D.H. Comp. 25.43|τοῖς … -οις|τοὺς … ἀπείρους|Reiske|1775|Paris. gr. 2918 (E)|
 D.H. Dem. 4.5|ἐγκαλλωπιζ-|ἐγκολπιζομένην|Friedrich Sylburg|1586|Ambros. D 119 sup. (A)|
 D.H. Dem. 5.4|κάλλιον εἰπεῖν|καλλιεπεῖν|Friedrich Sylburg|1586|AIV|
+D.H. Dem. 24.11|om.|οὔτε διδαχῆς|Reiske|1777|AB|
 D.H. Isoc. 9.7|αὐτοὺς|οὐ τοὺς|Reiske|1775|Laur. Plut. 59.15 (F)|
 D.H. Isoc. 13.2|καιν-|κενότητος|Henri Estienne|1575|TB|
 D.H. Lys. 9.5|τάξ-|λέξεως|John Taylor|1766|Laur. Plut. 59.15 (F)|apud Holwell; m. pr.
