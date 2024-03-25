@@ -250,7 +250,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (134), Madvig (88), Markland (85), Valckenaer (75), Bekker (75), Reiske (74) and Gronovius (67).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (135), Madvig (88), Markland (85), Valckenaer (75), Reiske (75), Bekker (75) and Gronovius (67).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -1635,6 +1635,7 @@ D.H. 1.48.2|-λεῖ|κύκλῳ|Reiske|1775|Urb. 105 (B)|
 D.H. Comp. 2.6|κατανοοῦντι|κατὰ γοῦν|Reiske|1775|Laur. Plut. 59.15 (F)|
 D.H. Comp. 6.1|τε πῶς καὶ|τε καὶ|Reiske|1775|Laur. Plut. 59.15 (F)|
 D.H. Comp. 9.8|πλεῖ-|πλέον|Dindorf|1860|Laur. Plut. 59.15 (F)|ad Soph. fr. 754 (774 Radt)
+D.H. Comp. 11.23|συμμετριάζ-|συμμετρία σώζουσα|Reiske|1775|FPM|
 D.L. 1.22|Νείλεῳ ἐκπεσόντι Φ.|Ν. ἐκπεσὼν τῆς Φοινίκης|Casaubon|1583|Vat. gr. 96 (Φ)|
 D.L. 1.34|ἀστρολόγον|-ων|Reiske|1889|Palpc Plan|Herm.
 D.L. 1.53|-τροπῶ|ἐπιτρέπω|Casaubon|1583|Neap. III Β 28 (D)|
@@ -2276,8 +2277,9 @@ Hist. Aug. quatt. tyr. 9.1|-am -em|magna potestate|Michael Petschenig|1894|Σ|Ph
 Hist. Aug. quatt. tyr. 12.4|dicass&|ditasset|Johann Oberdick|1873|Σ|Zeitschr. Österr. Gymn. 24 p. 807
 Hom. Il. 1.107|τα κάκ' ἐστὶ φίλα|φ[ιλ]ο̣ν̣ εστι κακ[α|Naber|1877|P.Ryl. III 539|
 Hom. Il. 2.3|-α|φρένας|Heyne|1802|2s V|
+Hom. Il. 2.210|-ωι|μεγάλα|Bentley|1885|D.H. Comp. 16.1 (cod. F)|J. Phil.
 Hom. Il. 5.667|ἀμφιέποντες|αμ]φις έποιτ[ες|T. S. Brandreth|1841|P.Oxy. IV 759|
-Hom. Il. 6.90|ὅς|ο|Bentley|1885|P.Tebt. 899|J. Phil. 13 (1885) 122–63
+Hom. Il. 6.90|ὅς|ο|Bentley|1885|P.Tebt. 899|J. Phil.
 Hom. Il. 6.493|πᾶσιν ἐμοὶ δὲ μάλιστα τοὶ Ἰλίῳ|πασι μαλιστα δ εμοι τοι Ιλιωι|C. A. J. Hoffmann|s.xix med.|P.Oxy. III 445|
 Hom. Il. 9.570|πρόχ-|πρόγνυ|Albert Thumb|1913|Bodl. Auct. T.2.7 (R)|apud Brugmann-Thumb; s.l.
 Hom. Il. 12.449|εἰσ'· ὃ δέ μιν ῥέα|ει[σιν ο δε]ρρεα|Nauck|1877|P.Lond.Lit. 251 + P.Harr. I 36|
@@ -2287,7 +2289,7 @@ Hom. Il. 16.389|τῶν|τοῦ|Walter Leaf|1888|recc.|
 Hom. Il. 17.89|ἀσβέστωι|ἀσβέτωι|A. Ludwich|1916|P.Berol. inv. 16007|Rh. Mus. 71 (1916) 211
 Hom. Il. 17.435|-κει|ἑστήκηι|Hermann|1813|P.Ross.Georg. I 4|Serm. Hom. diss. II
 Hom. Il. 18.144|υἱεῖ|υἱέ ̓|Alois Rzach|1887|recc.|
-Hom. Il. 23.198|ὠκέα δ'|ὦκα δὲ|Bentley|1730s|P.Grenf. II 4|
+Hom. Il. 23.198|ὠκέα δ'|ὦκα δὲ|Bentley|1885|P.Grenf. II 4|J. Phil.
 Hom. Il. 23.535|δ᾽ ἐν ᾿Αργείοις|δ]᾽ εν Αχαιοισιν|Nauck|1877|BKT V/I 5|
 Hom. Il. 24.192|κεχάνδει|κεχ]όνδει|August Fick|1886|P.Lond.Lit. 27|
 Hom. Od. 1.23|-ας|Αἰθίοπες|Bentley|1894|Str. 6.30 etc.|J. Phil. 22
