@@ -4803,7 +4803,11 @@ Str. 2.1.1|ἀπ- ε.|ἐπ᾽ εὐθείας|Casaubon|1620|Vat. gr. 482 (E)|
 Str. 2.1.11|ἐνέρ-|ἐνάργεια|Wilhelm Xylander|1571|AE|
 Str. 2.1.15|-τεια|προάστια|Benedikt Niese|1878|Paris. gr. 1397 (A)|
 Str. 2.1.18|καυκασίῳ|Καυκάσῳ|Adamantios Korais|1815|Vat. gr. 482 (E)|
-Str. 2.1.29|-ον|ὅσων|Adamantios Korais|1815|ACac|
+Str. 2.1.29|χ. ὅσον ἦ.|χιλίων ὅσων ἦν|Adamantios Korais|1815|ACac|
+Str. 2.1.29|τοσούτων σ. ὅσον|τοσούτων σταδίων ὅσων|Adamantios Korais|1815|Paris. gr. 1397 (A)|
+Str. 2.1.35|τ. τ. χ. κράσιν|τὴν τῶν χλιµάτων χρίσιν|Salmasius|1629|Paris. gr. 1397 (A)|s.l.
+Str. 2.2.2|-αν|οὖσιν|Wilhelm Xylander|1571|Vat. gr. 482 (E)|
+Str. 2.2.3|περιοίκους|περισκίους|Wilhelm Xylander|1571|Vat. gr. 482 (E)|
 Str. 2.5.11|κρεῖττον|κρείττων|Jacobus Palmerius|1668|Vat. gr. 482 (E)|
 Str. 2.5.19|ἑπτὰ σταδίοις|ἑπταστάδιος|Gemistos Plethon|s.xiv/xv|Vat. gr. 482 (E)|
 Str. 2.5.21|σαρδω-|Σαρωνικὸν|Gemistos Plethon|s.xiv/xv|Vat. gr. 482 (E)|
