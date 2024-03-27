@@ -4805,10 +4805,12 @@ Str. 7.7.1|ἐπαγομ-|ἐπαγαγομένου|Gemistos Plethon|s.xiv/xv|Pa
 Str. 7.7.8|᾽Η. δ᾽ ε. κ. ᾿Α. κ. οἱ ὑ.|᾽Ηπειρῶται δ᾽ εἰσὶ καὶ οἱ ᾿Αμφίλοχοι καὶ οἱ ὑπερκείμενοι|Gemistos Plethon|s.xiv/xv|Vat. gr. 482 (E)|
 Str. 7.7.9|τ. Π. π.|αἱ τοῦ Πηνειοῦ πηγαί|Gemistos Plethon|s.xiv/xv|EX|
 Str. 8.3.32|ἐξη-|ἐξελείφθη|Adamantios Korais|1815–19|Paris. gr. 1397 (A)|a.c.
-Str. 8.5.6|πολέμοις|-μιοις|Theodorus Agallianus|1446|Vat. gr. 2306 + 2061 A (P)|
+Str. 8.4.8|ὁ φαληρεὺς|ὁ Φάριος|Petrus Victorius|1553|Vat. gr. 2306 + 2061 A (P)|
+Str. 8.4.8|ὁ καὶ κ. καὶ ἀ.|καὶ κατέσκαψαν Ῥωμαῖοι καὶ ἀνέστησαν|Janus Lascaris|s.xv/xvi|Vat. gr. 2306 + 2061 A (P)|
+Str. 8.5.6|πολέμοις|πολεμίοις|Theodorus Agallianus|1446|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.5.6|-ϲ(ιν) ἅρμαϲι|μυρίοιϲι νάμαϲι(ν)|Casaubon|1620|Vat. gr. 2306 + 2061 A (P)|μυριοιϲιν ναμαϲιν
-Str. 8.5.6|-οτάτην|εὐβοτωτάτην|Casaubon|1620|Vat. gr. 2306 + 2061 A (P)|
-Str. 8.5.6|ποιμέϲιν|ποίμναιϲιν|Valckenaer|1755|Vat. gr. 2306 + 2061 A (P)|Phoen. p.90
+Str. 8.5.6|ποιμέϲιν|ποίμναιϲιν|Valckenaer|1755|Vat. gr. 2306 + 2061 A (P)|Phoen. p. 90
+Str. 8.5.6|-οτάτην|εὐβοτωτάτην|Gemistos Plethon|s.xiv/xv|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.6.16|Οἰνώνης|Οἰνόης|Alessandro Politi|1730–5|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.7.5|Φαρ(ι)εῖς|Φαραιεῖς|Gustav Kramer|1844|Vat. gr. 2306 + 2061 A (P)|
 Str. 9.1.6|-δον/-μαλ κτλ.|ὅμαυλον|Dindorf|1832–60|EAs|
