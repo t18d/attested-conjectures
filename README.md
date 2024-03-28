@@ -4835,8 +4835,14 @@ Str. 2.5.19|ἑπτὰ σταδίοις|ἑπταστάδιος|Gemistos Plethon
 Str. 2.5.20|π. δὲ τ. μὲν μ.|πλάτος δὲ τὸ μέγιστον|Gemistos Plethon|s.xiv/xv|Vat. gr. 482 (E)|
 Str. 2.5.20|καὶ Κ. καὶ Λ.|καὶ ἡ Κ. καὶ αἱ Λ.|Gemistos Plethon|s.xiv/xv|P.Oxy. LXV 4459 (Π4)|
 Str. 2.5.20|κηρυκ-|Κυρικτικὴ|Gustav Kramer|1844|P.Oxy. LXV 4459 (Π4)|
+Str. 2.5.20|πλεόντων τ.|πλέον τῶν τετρακισχιλίων|G. G. Bredow|1812|Vat. gr. 482 (E)|
 Str. 2.5.21|σαρδω-|Σαρωνικὸν|Gemistos Plethon|s.xiv/xv|Vat. gr. 482 (E)|
+Str. 2.5.23|εἰς Π.|εἰς τὸν Πόντον|Hermann Kallenberg|1890|Vat. gr. 482 (E)|Philol.
+Str. 2.5.25|ἡ … καὶ τοῦ Ν. προχοαί|ἡ … καὶ αἱ τοῦ Ν. προχοαί|Adamantios Korais|1815|Vat. gr. 482 (E)|
+Str. 2.5.26|καὶ ἃ τὴν φύσιν ἀνήμερα|κ. τ. φ. ἀ.|Adamantios Korais|1815|Vat. gr. 482 (E)|
+Str. 2.5.26|πολλοῖς τούς τε|τούς τε|Adamantios Korais|1815|Vat. gr. 482 (E)|
 Str. 2.5.26|ἐξ ἀ. β.|αἱ ἐξ ἀλλήλων βλάβαι|Maximus Planudes|s.xiii/xiv|Vat. gr. 482 (E)|
+Str. 2.5.31|τιβαρη-|Τιβαρανικῶν|Adamantios Korais|1815|Vat. gr. 482 (E)|s.l.
 Str. 3.5.7|π. ἀ.|πάλιν δ᾽ ἀναχωρεῖ|Adamantios Korais|1815|Palat. gr. 398 (X)|s.l.
 Str. 4.1.3|καὶ τ. δ᾽ ἐ.|τοῦτο δ᾽ ἐστὶν|C. G. Groskurd|1831|Vat. gr. 482 (E)|
 Str. 6.3.6|τοῦ ἐλάφου|τῆς ἐ.|Maximus Planudes|s.xiii/xiv|Eust.|
