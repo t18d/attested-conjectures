@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (135), Madvig (88), Reiske (85), Markland (85), Adamantios Korais (85), Valckenaer (75) and Bekker (75).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (135), Madvig (88), Adamantios Korais (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4857,7 +4857,7 @@ Str. 3.4.3|τ. -ης|τῶν ταύτῃ|Wilhelm Xylander|1571|Bpc|
 Str. 3.4.13|οὐδ᾽ αὐταὶ|οὐδ᾽ αὗται|Adamantios Korais|1815|Paris. gr. 1397 (A)|
 Str. 3.4.15|Ἴβηρες|οἱ Ἴβηρες|J. P. Siebenkees|1796|Athous Vatop. 655 (B)|
 Str. 3.4.17|ἀλη-|ἀηθείᾳ|Casaubon|1620|Xpc|
-Str. 3.4.20|π. νοίγ-|πόλις Νοῖγα|Meineke|1852–3|Athous Vatop. 655 (B)|
+Str. 3.4.20|π. νοίγ-|πόλις Νοῖγα|Meineke|1852|Athous Vatop. 655 (B)|
 Str. 3.5.1|καὶ Φ. τε|καὶ Φιλητᾶς δὲ|Adamantios Korais|1815|Paris. gr. 1393 (C)|
 Str. 3.5.7|ἐκχεῖ|ἔχει|Casaubon|1620|Palat. gr. 398 (X)|
 Str. 3.5.7|π. ἀ.|πάλιν δ᾽ ἀναχωρεῖ|Adamantios Korais|1815|Palat. gr. 398 (X)|s.l.
@@ -4875,10 +4875,10 @@ Str. 4.4.3/6|λείγηρ-|Λίγειρος|Meineke|1852|Palat. gr. 398 (X)|Vind
 Str. 4.4.5|-βόροις|προσβόρροις|Adamantios Korais|1815|Cac|
 Str. 4.5.3|πλημμυρίδων|πληµυ-|Wolfgang Aly|1968–72|Eust. R|
 Str. 4.6.1|ν. ἐπὶ τὸ|νῦν ἔτι τὸ|Casaubon|1620|Vat. gr. 482 (E)|
-Str. 4.6.2|λιγυστινοί τε|Λιγυστῖνοί τε|Meineke|1852–3|Vat. gr. 482 (E)|
+Str. 4.6.2|λιγυστινοί τε|Λιγυστῖνοί τε|Meineke|1852|Vat. gr. 482 (E)|
 Str. 4.6.3|οἱ δ' ὕ. κελτοὶ λίγυας|οἱ δ' ὕστερον Κελτολίγυας|Wilhelm Xylander|1571|Vat. gr. 482 (E)|
 Str. 4.6.5|ὅρους τοὺς τῆς Ἰταλίας|ὅ. τῆς Ἰ.|Adamantios Korais|1815|Athous Vatop. 655 (B)|
-Str. 4.6.6|ταυρινοί τε|Ταυρῖνοί τε|Meineke|1852–3|Aac|
+Str. 4.6.6|ταυρινοί τε|Ταυρῖνοί τε|Meineke|1852|Aac|
 Str. 5.1.3|-λιπόντα|ἀπολείποντα|Adamantios Korais|1815|Vat. gr. 482 (E)|
 Str. 5.1.8|οὐκετία|οὐικεντία|Philipp Clüver|1624|Eton. 141 (n)|p.c.
 Str. 5.1.9|ἀκαυστ-|ἀκαυτηριάστων|Casaubon|1620|Apc|
@@ -4892,6 +4892,14 @@ Str. 6.1.7|ἐπεὶ λοκρῶν|Λοκρῶν|Adamantios Korais|1815|Vat. gr
 Str. 6.1.11|μ. δ. ταῦτα|μετὰ δὲ ταύτας|Gustav Kramer|1844|Vat. gr. 482 (E)|
 Str. 6.1.12|-ηντο|ὥρμητο|Adamantios Korais|1815|Palat. gr. 398 (X)|
 Str. 6.1.12|-λειφθ-|ἀποληφθέντα|Hemsterhuis|1744|Palat. gr. 398 (X)|in Ar. Plut.
+Str. 6.2.1|τ. Κ. κ. τ. σ. καὶ τ. Ῥ.|τὴν Καῖνυν καὶ τὴν στυλίδα τὴν Ῥηγίνων|Philipp Clüver|1624|Epc|
+Str. 6.2.1|τῆς Π.|τοῦ Παχύνου|Casaubon|1620|Paris. gr. 1393 (C)|
+Str. 6.2.4|οἰκῆσ-|οἰκίσαι|Casaubon|1620|AC|
+Str. 6.2.4|-μεῖναι|συμμείναι|Adamantios Korais|1815|Vat. gr. 482 (E)|
+Str. 6.2.4|ἐκεῖνο|ἐκεῖ|Adamantios Korais|1815|Vat. gr. 482 (E)|
+Str. 6.2.6|πλάτ-|πλατέσιν|Meineke|1852|Paris. gr. 1393 (C)|
+Str. 6.2.8|ἐ. ποτὲ|ἐπιλειπούσης|Adamantios Korais|1815|Palat. gr. 398 (X)|
+Str. 6.2.9|τιμαί-|Τιμαύου|Wilhelm Xylander|1571|Paris. gr. 1393 (C)|
 Str. 6.3.6|τοῦ ἐλάφου|τῆς ἐ.|Maximus Planudes|s.xiii/xiv|Eust.|
 Str. 6.3.9|εὐδιν-|εὐδιεινὴ|Jacobus Palmerius|1668|Paris. gr. 1393 (C)|
 Str. 7.3.17|πλεύ-|ἀναπλεύσαντι|Anton Miller|1874|Palat. gr. 398 (X)|
@@ -4909,7 +4917,7 @@ Str. 8.5.6|-οτάτην|εὐβοτωτάτην|Gemistos Plethon|s.xiv/xv|Vat. 
 Str. 8.6.16|Οἰνώνης|Οἰνόης|Alessandro Politi|1730–5|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.6.24|καὶ Πλαταιὰς καὶ Τανάγρας|κ. Π. κ. -αν|Gemistos Plethon|s.xiv/xv|Eust. et exc. Urb.|
 Str. 8.6.24|πρασω-|Παρασωπίους|Gemistos Plethon|s.xiv/xv|Eust.|
-Str. 8.7.2|-ει|ἑστήκοι|Meineke|1852–3|Bv|
+Str. 8.7.2|-ει|ἑστήκοι|Meineke|1853|Bv|
 Str. 8.7.5|Φαρ(ι)εῖς|Φαραιεῖς|Gustav Kramer|1847|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.7.5|στρατεί-|στρατιᾶς|Gemistos Plethon|s.xiv/xv|Ppc|
 Str. 9.1.6|-δον/-μαλ κτλ.|ὅμαυλον|Dindorf|1832–60|EAs|
