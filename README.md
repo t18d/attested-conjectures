@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (135), Madvig (88), Reiske (85), Markland (85), Adamantios Korais (76), Valckenaer (75) and Bekker (75).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (135), Madvig (88), Reiske (85), Markland (85), Adamantios Korais (78), Valckenaer (75) and Bekker (75).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4870,7 +4870,14 @@ Str. 4.1.12|οἱ τεκτοσάγες|οἱ Τεκτόσαγες|Meineke|1852|V
 Str. 4.3.2|ῥέων ῥεῖ|ῥεῖ|Casaubon|1620|BE|
 Str. 4.4.1|-εις|ἁλύσει|Adamantios Korais|1815|Cac|
 Str. 4.4.2|ὅ. … -ονται|ὅταν … ἐκβάλλωνται|Adamantios Korais|1815|Cpc|
-Str. 4.4.3|λείγηρ-|Λίγειρος|Meineke|1852|Palat. gr. 398 (X)|Vindiciarum
+Str. 4.4.3/6|λείγηρ-|Λίγειρος|Meineke|1852|Palat. gr. 398 (X)|Vindiciarum
+Str. 4.4.5|-βόροις|προσβόρροις|Adamantios Korais|1815|Cac|
+Str. 4.5.3|πλημμυρίδων|πληµυ-|Wolfgang Aly|1968–72|Eust. R|
+Str. 4.6.1|ν. ἐπὶ τὸ|νῦν ἔτι τὸ|Casaubon|1620|Vat. gr. 482 (E)|
+Str. 4.6.2|λιγυστινοί τε|Λιγυστῖνοί τε|Meineke|1852–3|Vat. gr. 482 (E)|
+Str. 4.6.3|οἱ δ' ὕ. κελτοὶ λίγυας|οἱ δ' ὕστερον Κελτολίγυας|Wilhelm Xylander|1571|Vat. gr. 482 (E)|
+Str. 4.6.5|ὅρους τοὺς τῆς Ἰταλίας|ὅ. τῆς Ἰ.|Adamantios Korais|1815|Athous Vatop. 655 (B)|
+Str. 4.6.6|ταυρινοί τε|Ταυρῖνοί τε|Meineke|1852–3|Aac|
 Str. 6.3.6|τοῦ ἐλάφου|τῆς ἐ.|Maximus Planudes|s.xiii/xiv|Eust.|
 Str. 6.3.9|εὐδιν-|εὐδιεινὴ|Jacobus Palmerius|1668|Paris. gr. 1393 (C)|
 Str. 7.3.17|πλεύ-|ἀναπλεύσαντι|Anton Miller|1874|Palat. gr. 398 (X)|
