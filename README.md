@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (135), Madvig (88), Reiske (85), Markland (85), Adamantios Korais (78), Valckenaer (75) and Bekker (75).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (135), Madvig (88), Reiske (85), Markland (85), Adamantios Korais (79), Valckenaer (75) and Bekker (75).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4858,6 +4858,7 @@ Str. 3.4.13|οὐδ᾽ αὐταὶ|οὐδ᾽ αὗται|Adamantios Korais|181
 Str. 3.4.15|Ἴβηρες|οἱ Ἴβηρες|J. P. Siebenkees|1796|Athous Vatop. 655 (B)|
 Str. 3.4.17|ἀλη-|ἀηθείᾳ|Casaubon|1620|Xpc|
 Str. 3.4.20|π. νοίγ-|πόλις Νοῖγα|Meineke|1852–3|Athous Vatop. 655 (B)|
+Str. 3.5.1|καὶ Φ. τε|καὶ Φιλητᾶς δὲ|Adamantios Korais|1815|Paris. gr. 1393 (C)|
 Str. 3.5.7|ἐκχεῖ|ἔχει|Casaubon|1620|Palat. gr. 398 (X)|
 Str. 3.5.7|π. ἀ.|πάλιν δ᾽ ἀναχωρεῖ|Adamantios Korais|1815|Palat. gr. 398 (X)|s.l.
 Str. 4.1.3|καὶ τ. δ᾽ ἐ.|τοῦτο δ᾽ ἐστὶν|C. G. Groskurd|1831|Vat. gr. 482 (E)|
@@ -4893,7 +4894,11 @@ Str. 8.5.6|-ϲ(ιν) ἅρμαϲι|μυρίοιϲι νάμαϲι(ν)|Casaubon|16
 Str. 8.5.6|ποιμέϲιν|ποίμναιϲιν|Valckenaer|1755|Vat. gr. 2306 + 2061 A (P)|Phoen. p. 90
 Str. 8.5.6|-οτάτην|εὐβοτωτάτην|Gemistos Plethon|s.xiv/xv|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.6.16|Οἰνώνης|Οἰνόης|Alessandro Politi|1730–5|Vat. gr. 2306 + 2061 A (P)|
+Str. 8.6.24|καὶ Πλαταιὰς καὶ Τανάγρας|κ. Π. κ. -αν|Gemistos Plethon|s.xiv/xv|Eust. et exc. Urb.|
+Str. 8.6.24|πρασω-|Παρασωπίους|Gemistos Plethon|s.xiv/xv|Eust.|
+Str. 8.7.2|-ει|ἑστήκοι|Meineke|1852–3|Bv|
 Str. 8.7.5|Φαρ(ι)εῖς|Φαραιεῖς|Gustav Kramer|1847|Vat. gr. 2306 + 2061 A (P)|
+Str. 8.7.5|στρατεί-|στρατιᾶς|Gemistos Plethon|s.xiv/xv|Ppc|
 Str. 9.1.6|-δον/-μαλ κτλ.|ὅμαυλον|Dindorf|1832–60|EAs|
 Str. 9.2.35|οὔτε|οὐδὲ|Adamantios Korais|1805|P.Petr. I 3|ουδ
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
