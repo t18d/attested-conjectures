@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (135), Madvig (88), Adamantios Korais (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (135), Adamantios Korais (90), Madvig (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4900,6 +4900,12 @@ Str. 6.2.4|ἐκεῖνο|ἐκεῖ|Adamantios Korais|1815|Vat. gr. 482 (E)|
 Str. 6.2.6|πλάτ-|πλατέσιν|Meineke|1852|Paris. gr. 1393 (C)|
 Str. 6.2.8|ἐ. ποτὲ|ἐπιλειπούσης|Adamantios Korais|1815|Palat. gr. 398 (X)|
 Str. 6.2.9|τιμαί-|Τιμαύου|Wilhelm Xylander|1571|Paris. gr. 1393 (C)|
+Str. 6.2.10|ὁ-|ὀμιχλώδη|F. O. Hultsch|1888|ABEX|in Plb.
+Str. 6.2.10|τ. ἐ.|τὸν ἐσόμενον ἄνεμον|Casaubon|1620|Palat. gr. 398 (X)|
+Str. 6.2.11|ἔ. δ. κ. αὐτὴ δ.|ἔστι δὲ καὶ αὕτη διάπυρος|Adamantios Korais|1815|Paris. gr. 1397 (A)|
+Str. 6.3.2|παρθενεῖαι|Παρθενίαι|Adamantios Korais|1815|Palat. gr. 398 (X)|
+Str. 6.3.5|τ. ἰαπυγί-|τῶν Ἰαπύγων|Gottfried Bernhardy|1828|Palat. gr. 398 (X)|
+Str. 6.3.5|τ. Λ. ἀνταίρων|τὸ Λακίνιον ἀνταῖρον|Wilhelm Xylander|1571|Vat. gr. 482 (E)|
 Str. 6.3.6|τοῦ ἐλάφου|τῆς ἐ.|Maximus Planudes|s.xiii/xiv|Eust.|
 Str. 6.3.9|εὐδιν-|εὐδιεινὴ|Jacobus Palmerius|1668|Paris. gr. 1393 (C)|
 Str. 7.3.17|πλεύ-|ἀναπλεύσαντι|Anton Miller|1874|Palat. gr. 398 (X)|
