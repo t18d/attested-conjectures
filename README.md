@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (135), Madvig (88), Reiske (85), Markland (85), Valckenaer (75), Bekker (75) and Adamantios Korais (71).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (135), Madvig (88), Reiske (85), Markland (85), Valckenaer (75), Bekker (75) and Adamantios Korais (72).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4861,6 +4861,8 @@ Str. 3.4.20|π. νοίγ-|πόλις Νοῖγα|Meineke|1852–3|Athous Vatop. 
 Str. 3.5.7|ἐκχεῖ|ἔχει|Casaubon|1620|Palat. gr. 398 (X)|
 Str. 3.5.7|π. ἀ.|πάλιν δ᾽ ἀναχωρεῖ|Adamantios Korais|1815|Palat. gr. 398 (X)|s.l.
 Str. 4.1.3|καὶ τ. δ᾽ ἐ.|τοῦτο δ᾽ ἐστὶν|C. G. Groskurd|1831|Vat. gr. 482 (E)|
+Str. 4.1.4|αὐτῇ/αὐτὴ|αὕτη|C. G. Groskurd|1831|Paris. gr. 1393 (C)|
+Str. 4.1.6|κ. δ᾽ αὐτὸ|καλοῦσι δ᾽ αὐτὸν|Adamantios Korais|1815|Vat. gr. 482 (E)|
 Str. 6.3.6|τοῦ ἐλάφου|τῆς ἐ.|Maximus Planudes|s.xiii/xiv|Eust.|
 Str. 6.3.9|εὐδιν-|εὐδιεινὴ|Jacobus Palmerius|1668|Paris. gr. 1393 (C)|
 Str. 7.3.17|πλεύ-|ἀναπλεύσαντι|Anton Miller|1874|Palat. gr. 398 (X)|
