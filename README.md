@@ -4856,6 +4856,9 @@ Str. 3.4.3|κ. αὐτή|καὶ αὕτη|Adamantios Korais|1815|Paris. gr. 139
 Str. 3.4.3|τ. -ης|τῶν ταύτῃ|Wilhelm Xylander|1571|Bpc|
 Str. 3.4.13|οὐδ᾽ αὐταὶ|οὐδ᾽ αὗται|Adamantios Korais|1815|Paris. gr. 1397 (A)|
 Str. 3.4.15|Ἴβηρες|οἱ Ἴβηρες|J. P. Siebenkees|1796|Athous Vatop. 655 (B)|
+Str. 3.4.17|ἀλη-|ἀηθείᾳ|Casaubon|1620|Xpc|
+Str. 3.4.20|π. νοίγ-|πόλις Νοῖγα|Meineke|1852–3|Athous Vatop. 655 (B)|
+Str. 3.5.7|ἐκχεῖ|ἔχει|Casaubon|1620|Palat. gr. 398 (X)|
 Str. 3.5.7|π. ἀ.|πάλιν δ᾽ ἀναχωρεῖ|Adamantios Korais|1815|Palat. gr. 398 (X)|s.l.
 Str. 4.1.3|καὶ τ. δ᾽ ἐ.|τοῦτο δ᾽ ἐστὶν|C. G. Groskurd|1831|Vat. gr. 482 (E)|
 Str. 6.3.6|τοῦ ἐλάφου|τῆς ἐ.|Maximus Planudes|s.xiii/xiv|Eust.|
