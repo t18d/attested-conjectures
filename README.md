@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (135), Madvig (88), Reiske (85), Markland (85), Adamantios Korais (79), Valckenaer (75) and Bekker (75).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (135), Madvig (88), Reiske (85), Markland (85), Adamantios Korais (82), Valckenaer (75) and Bekker (75).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4879,6 +4879,13 @@ Str. 4.6.2|λιγυστινοί τε|Λιγυστῖνοί τε|Meineke|1852–3
 Str. 4.6.3|οἱ δ' ὕ. κελτοὶ λίγυας|οἱ δ' ὕστερον Κελτολίγυας|Wilhelm Xylander|1571|Vat. gr. 482 (E)|
 Str. 4.6.5|ὅρους τοὺς τῆς Ἰταλίας|ὅ. τῆς Ἰ.|Adamantios Korais|1815|Athous Vatop. 655 (B)|
 Str. 4.6.6|ταυρινοί τε|Ταυρῖνοί τε|Meineke|1852–3|Aac|
+Str. 5.1.3|-λιπόντα|ἀπολείποντα|Adamantios Korais|1815|Vat. gr. 482 (E)|
+Str. 5.1.8|οὐκετία|οὐικεντία|Philipp Clüver|1624|Eton. 141 (n)|p.c.
+Str. 5.1.9|ἀκαυστ-|ἀκαυτηριάστων|Casaubon|1620|Apc|
+Str. 5.2.4|ἕξ ἐγέν-|ἐξεγένοντο|Adamantios Korais|1815|Paris. gr. 1397 (A)|
+Str. 5.3.2|-ονται|μυθεύεται|Leonhard Spengel|1845|Palat. gr. 398 (X)|
+Str. 5.4.2|-ις|πόλεις|Adamantios Korais|1815|Ambros. G 93 sup. (v)|
+Str. 5.4.5|λῃστ-|χρηστήριον|Wilhelm Xylander|1571|Vat. gr. 482 (E)|marg.
 Str. 6.3.6|τοῦ ἐλάφου|τῆς ἐ.|Maximus Planudes|s.xiii/xiv|Eust.|
 Str. 6.3.9|εὐδιν-|εὐδιεινὴ|Jacobus Palmerius|1668|Paris. gr. 1393 (C)|
 Str. 7.3.17|πλεύ-|ἀναπλεύσαντι|Anton Miller|1874|Palat. gr. 398 (X)|
