@@ -4829,7 +4829,12 @@ Str. 2.5.11|κρεῖττον|κρείττων|Jacobus Palmerius|1668|Vat. gr. 4
 Str. 2.5.14|ἡ -ης π.|ἡ ταύτῃ παραλία|Casaubon|1620|Vat. gr. 482 (E)|
 Str. 2.5.15|τὰ ἑ. -εινται|τὰ ἑσπέρια ἀντίκειται|Casaubon|1620|Vat. gr. 482 (E)|
 Str. 2.5.18|-ου|μηκυνομένη|Wilhelm Xylander|1571|E et exc. Psell.|
+Str. 2.5.18|π. τε|ποθοῦμέν δὲ|Adamantios Korais|1815|Vat. gr. 482 (E)|
+Str. 2.5.19|περι-|παραπλεύσαντι|Adamantios Korais|1815|E et exc. Syn.|
 Str. 2.5.19|ἑπτὰ σταδίοις|ἑπταστάδιος|Gemistos Plethon|s.xiv/xv|Vat. gr. 482 (E)|
+Str. 2.5.20|π. δὲ τ. μὲν μ.|πλάτος δὲ τὸ μέγιστον|Gemistos Plethon|s.xiv/xv|Vat. gr. 482 (E)|
+Str. 2.5.20|καὶ Κ. καὶ Λ.|καὶ ἡ Κ. καὶ αἱ Λ.|Gemistos Plethon|s.xiv/xv|P.Oxy. LXV 4459 (Π4)|
+Str. 2.5.20|κηρυκ-|Κυρικτικὴ|Gustav Kramer|1844|P.Oxy. LXV 4459 (Π4)|
 Str. 2.5.21|σαρδω-|Σαρωνικὸν|Gemistos Plethon|s.xiv/xv|Vat. gr. 482 (E)|
 Str. 2.5.26|ἐξ ἀ. β.|αἱ ἐξ ἀλλήλων βλάβαι|Maximus Planudes|s.xiii/xiv|Vat. gr. 482 (E)|
 Str. 3.5.7|π. ἀ.|πάλιν δ᾽ ἀναχωρεῖ|Adamantios Korais|1815|Palat. gr. 398 (X)|s.l.
@@ -4849,7 +4854,7 @@ Str. 8.5.6|-ϲ(ιν) ἅρμαϲι|μυρίοιϲι νάμαϲι(ν)|Casaubon|16
 Str. 8.5.6|ποιμέϲιν|ποίμναιϲιν|Valckenaer|1755|Vat. gr. 2306 + 2061 A (P)|Phoen. p. 90
 Str. 8.5.6|-οτάτην|εὐβοτωτάτην|Gemistos Plethon|s.xiv/xv|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.6.16|Οἰνώνης|Οἰνόης|Alessandro Politi|1730–5|Vat. gr. 2306 + 2061 A (P)|
-Str. 8.7.5|Φαρ(ι)εῖς|Φαραιεῖς|Gustav Kramer|1844|Vat. gr. 2306 + 2061 A (P)|
+Str. 8.7.5|Φαρ(ι)εῖς|Φαραιεῖς|Gustav Kramer|1847|Vat. gr. 2306 + 2061 A (P)|
 Str. 9.1.6|-δον/-μαλ κτλ.|ὅμαυλον|Dindorf|1832–60|EAs|
 Str. 9.2.35|οὔτε|οὐδὲ|Adamantios Korais|1805|P.Petr. I 3|ουδ
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
