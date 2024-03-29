@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (135), Adamantios Korais (96), Madvig (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (135), Adamantios Korais (97), Madvig (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4932,7 +4932,6 @@ Str. 8.1.3|ταῦτα δ.|τὰ δύο|Meineke|1852|Paris. gr. 1393 (C)|Vindici
 Str. 8.3.7|ἡ ... ἧς οὐδέν|ᾗ … οὐδέν|A. J. Penzel|1775|Bv|
 Str. 8.3.32|ἐξη-|ἐξελείφθη|Adamantios Korais|1817|Paris. gr. 1397 (A)|a.c.
 Str. 8.4.4|Θαλάμους τοὺς νῦν Β. καλουμένους|-ας τ. ν. Β. κ.|Adamantios Korais|1817|Vat. gr. 2306 + 2061 A (P)|
-Str. 8.4.5|π. μ. Κ. κ. φηρ-|περὶ μὲν Καρδαμύλης καὶ Φαρῶν|Gustav Kramer|1847|P teste Aly|
 Str. 8.4.5|πέλανν-|Πέλλανα|Gustav Kramer|1847|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.4.5|τ. μ. -ης … ἧς|τὴν μεταξὺ ᾿Ασίνην … ἧς|L.-G. de Bréquigny|1763|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.4.8|ὁ φαληρεὺς|ὁ Φάριος|Petrus Victorius|1553|Vat. gr. 2306 + 2061 A (P)|
@@ -4940,13 +4939,23 @@ Str. 8.4.8|ὁ καὶ κ. καὶ ἀ.|καὶ κατέσκαψαν Ῥωμα�
 Str. 8.4.10|ἀφιδναίων|᾿Αφιδναῖον|Gustav Kramer|1847|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.5.2|-θίου|Γυθείου|Meineke|1853|A3|
 Str. 8.5.4|τῷ προδόντι|Φιλονόμῳ τῷ π.|Felix Jacoby|1926|Eust. 294.37–9|
+Str. 8.5.4|λαϊμενωι|Λαῒ μὲν ὡς|Gustav Kramer|1847|Vat. gr. 2306 + 2061 A (P)|
+Str. 8.5.5|ὑπερεβάλλοντο|-βάλοντο|Adamantios Korais|1817|Paris. gr. 1397 (A)|
+Str. 8.5.5|deest|οἰκίας ἐν ᾧ καὶ|Eduard Meyer|1892|Vat. gr. 2306 + 2061 A (P)|p. 235
 Str. 8.5.6|πολέμοις|πολεμίοις|Theodorus Agallianus|1446|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.5.6|-ϲ(ιν) ἅρμαϲι|μυρίοιϲι νάμαϲι(ν)|Casaubon|1620|Vat. gr. 2306 + 2061 A (P)|μυριοιϲιν ναμαϲιν
-Str. 8.5.6|ποιμέϲιν|ποίμναιϲιν|Valckenaer|1755|Vat. gr. 2306 + 2061 A (P)|Phoen. p. 90
+Str. 8.5.6|ποιμέϲιν|ποίμναιϲιν|Valckenaer|1755|Vat. gr. 2306 + 2061 A (P)|ad Phoen. p. 90
 Str. 8.5.6|-οτάτην|εὐβοτωτάτην|Gemistos Plethon|s.xiv/xv|Vat. gr. 2306 + 2061 A (P)|
+Str. 8.5.6|γαίης Λακαίνης|-ας Λ.|Meineke|1853|Vat. gr. 2306 + 2061 A (P)|
+Str. 8.6.8|τ. ἔ. εἰπεῖν τ.|τὸ ἔπος ἐκπεσεῖν τοῦτο|Meineke|1852|Vat. gr. 2306 + 2061 A (P)|Vindiciarum
+Str. 8.6.10|ἡγεμονίας οὔσας|ἡγεμονευούσας|Gemistos Plethon|s.xiv/xv|Vat. gr. 2306 + 2061 A (P)|
+Str. 8.6.10|αἰγαλ-|Αἰγιαλέων|Wilhelm Xylander|1571|Apc|
+Str. 8.6.14|........ον|περὶ τούτων|Gustav Kramer|1847|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.6.16|Οἰνώνης|Οἰνόης|Alessandro Politi|1730–5|Vat. gr. 2306 + 2061 A (P)|
+Str. 8.6.21|Φωκίδος … Βοιωτίδος … Μεγαρίδος|Φ. … -ίας … Μ.|Meineke|1852|PX|Vindiciarum
 Str. 8.6.24|καὶ Πλαταιὰς καὶ Τανάγρας|κ. Π. κ. -αν|Gemistos Plethon|s.xiv/xv|Eust. et exc. Urb.|
-Str. 8.6.24|πρασω-|Παρασωπίους|Gemistos Plethon|s.xiv/xv|Eust.|
+Str. 8.6.24|πρασω-|Παρασωπίους|Gemistos Plethon|s.xiv/xv|Eust. Il. 291.23–7|
+Str. 8.7.2|ἐκεῖ|ἐκείνῳ|Gemistos Plethon|s.xiv/xv|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.7.2|-ει|ἑστήκοι|Meineke|1853|Bv|
 Str. 8.7.5|Φαρ(ι)εῖς|Φαραιεῖς|Gustav Kramer|1847|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.7.5|στρατεί-|στρατιᾶς|Gemistos Plethon|s.xiv/xv|Ppc|
