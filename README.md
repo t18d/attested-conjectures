@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (135), Adamantios Korais (93), Madvig (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (144), Bentley (135), Adamantios Korais (96), Madvig (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4922,9 +4922,16 @@ Str. 7.6.1|φθινό-|Φινόπολις|Gemistos Plethon|s.xiv/xv|Cpc|
 Str. 7.6.2|πλοῦν|πλοῦτον|Casaubon|1620|Paris. gr. 1393 (C)|
 Str. 7.6.2|ἐπεὶ δ᾽ ἡ π.|ἐπειδὴ πόλις|Adamantios Korais|1817|Aac|
 Str. 7.7.1|ἐπαγομ-|ἐπαγαγομένου|Gemistos Plethon|s.xiv/xv|Palat. gr. 398 (X)|
+Str. 7.7.1|Δρυόπων τε καὶ Καυκώνων καὶ Πελασγῶν|Δ. δὲ κ. Κ. κ. Π.|Adamantios Korais|1817|Palat. gr. 398 (X)|
+Str. 7.7.2|σίδ-|Ἴδην|Casaubon|1620|Vat. gr. 482 (E)|
 Str. 7.7.8|᾽Η. δ᾽ ε. κ. ᾿Α. κ. οἱ ὑ.|᾽Ηπειρῶται δ᾽ εἰσὶ καὶ οἱ ᾿Αμφίλοχοι καὶ οἱ ὑπερκείμενοι|Gemistos Plethon|s.xiv/xv|Vat. gr. 482 (E)|
+Str. 7.7.8|λύγκιστ-|Λύγκον|Casaubon|1620|St.Byz. 420.3|
 Str. 7.7.9|τ. Π. π.|αἱ τοῦ Πηνειοῦ πηγαί|Gemistos Plethon|s.xiv/xv|EX|
+Str. 7.7.9|ἀλαλκο-|᾿Αλκομεναὶ|Adamantios Korais|1817|Athous Vatop. 655 (B)|
+Str. 8.1.3|ταῦτα δ.|τὰ δύο|Meineke|1852|Paris. gr. 1393 (C)|Vindiciarum
+Str. 8.3.7|ἡ ... ἧς οὐδέν|ᾗ … οὐδέν|A. J. Penzel|1775|Bv|
 Str. 8.3.32|ἐξη-|ἐξελείφθη|Adamantios Korais|1817|Paris. gr. 1397 (A)|a.c.
+Str. 8.4.4|Θαλάμους τοὺς νῦν Β. καλουμένους|-ας τ. ν. Β. κ.|Adamantios Korais|1817|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.4.8|ὁ φαληρεὺς|ὁ Φάριος|Petrus Victorius|1553|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.4.8|ὁ καὶ κ. καὶ ἀ.|καὶ κατέσκαψαν Ῥωμαῖοι καὶ ἀνέστησαν|Janus Lascaris|s.xv/xvi|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.5.6|πολέμοις|πολεμίοις|Theodorus Agallianus|1446|Vat. gr. 2306 + 2061 A (P)|
