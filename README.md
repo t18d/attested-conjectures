@@ -4932,8 +4932,14 @@ Str. 8.1.3|ταῦτα δ.|τὰ δύο|Meineke|1852|Paris. gr. 1393 (C)|Vindici
 Str. 8.3.7|ἡ ... ἧς οὐδέν|ᾗ … οὐδέν|A. J. Penzel|1775|Bv|
 Str. 8.3.32|ἐξη-|ἐξελείφθη|Adamantios Korais|1817|Paris. gr. 1397 (A)|a.c.
 Str. 8.4.4|Θαλάμους τοὺς νῦν Β. καλουμένους|-ας τ. ν. Β. κ.|Adamantios Korais|1817|Vat. gr. 2306 + 2061 A (P)|
+Str. 8.4.5|π. μ. Κ. κ. φηρ-|περὶ μὲν Καρδαμύλης καὶ Φαρῶν|Gustav Kramer|1847|P teste Aly|
+Str. 8.4.5|πέλανν-|Πέλλανα|Gustav Kramer|1847|Vat. gr. 2306 + 2061 A (P)|
+Str. 8.4.5|τ. μ. -ης … ἧς|τὴν μεταξὺ ᾿Ασίνην … ἧς|L.-G. de Bréquigny|1763|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.4.8|ὁ φαληρεὺς|ὁ Φάριος|Petrus Victorius|1553|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.4.8|ὁ καὶ κ. καὶ ἀ.|καὶ κατέσκαψαν Ῥωμαῖοι καὶ ἀνέστησαν|Janus Lascaris|s.xv/xvi|Vat. gr. 2306 + 2061 A (P)|
+Str. 8.4.10|ἀφιδναίων|᾿Αφιδναῖον|Gustav Kramer|1847|Vat. gr. 2306 + 2061 A (P)|
+Str. 8.5.2|-θίου|Γυθείου|Meineke|1853|A3|
+Str. 8.5.4|τῷ προδόντι|Φιλονόμῳ τῷ π.|Felix Jacoby|1926|Eust. 294.37–9|
 Str. 8.5.6|πολέμοις|πολεμίοις|Theodorus Agallianus|1446|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.5.6|-ϲ(ιν) ἅρμαϲι|μυρίοιϲι νάμαϲι(ν)|Casaubon|1620|Vat. gr. 2306 + 2061 A (P)|μυριοιϲιν ναμαϲιν
 Str. 8.5.6|ποιμέϲιν|ποίμναιϲιν|Valckenaer|1755|Vat. gr. 2306 + 2061 A (P)|Phoen. p. 90
