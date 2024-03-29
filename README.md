@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Bentley (135), Adamantios Korais (99), Madvig (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Bentley (135), Adamantios Korais (100), Madvig (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4981,8 +4981,12 @@ Str. 9.2.27|ὠκάλαι|Ὠκαλέα|Adamantios Korais|1817|Vat. gr. 2306 + 2
 Str. 9.2.29|πολε[|πολεμάδοκε|Friedrich Neue|1829|Vat. gr. 2306 + 2061 A (P)|Jahrb. f. wissen. Krit. (Neue on Matthiae)
 Str. 9.2.31|γ. Ἐ.|αἱ γὰρ Ἐλευθεραὶ|Gustav Kramer|1847|Vat. gr. 2306 + 2061 A (P)|
 Str. 9.2.31|]ίπτει|ὑποπίπτει|C. G. Groskurd|1831|Vat. gr. 2306 + 2061 A (P)|
-Str. 9.2.31|ὄνιον|᾿Αόνιον|La Porte||Vat. gr. 2306 + 2061 A (P)|
-Str. 9.2.35|οὔτε|οὐδὲ|Adamantios Korais|1817|P.Petr. I 3|ουδ
+Str. 9.2.31|ὄνιον|᾿Αόνιον|Gabriel de la Porte|1814|Vat. gr. 2306 + 2061 A (P)|
+Str. 9.2.34|τ. μ. κ.|τοῦ μαντείου τοῦ κατὰ|Gemistos Plethon|s.xiv/xv|Vat. gr. 2306 + 2061 A (P)|
+Str. 9.2.35|μήδ-|Μίδειαν|Marcus Hopper|1549|P et Eust.|
+Str. 9.2.35|οὔτε|οὐδὲ|Adamantios Korais|1817|P.Petr. I 3 et Π2|ουδ
+Str. 9.2.36|γεγενῆ-|γεγεννῆσθαι|Adamantios Korais|1817|Bvpc|
+Str. 9.2.40|-χρηματί-|πολυχρηματήσαντάς|J. G. Schneider|1798|Bv|
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
