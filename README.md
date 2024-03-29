@@ -4957,8 +4957,13 @@ Str. 8.6.24|καὶ Πλαταιὰς καὶ Τανάγρας|κ. Π. κ. -αν
 Str. 8.6.24|πρασω-|Παρασωπίους|Gemistos Plethon|s.xiv/xv|Eust. Il. 291.23–7|
 Str. 8.7.2|ἐκεῖ|ἐκείνῳ|Gemistos Plethon|s.xiv/xv|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.7.2|-ει|ἑστήκοι|Meineke|1853|Bv|
-Str. 8.7.5|Φαρ(ι)εῖς|Φαραιεῖς|Gustav Kramer|1847|Vat. gr. 2306 + 2061 A (P)|
+Str. 8.7.3|-ους|ἀξίως|Thomas Tyrwhitt|1783|A2|
+Str. 8.7.5|τ. δ. πόλιν ἔ. Α.|τὴν δὲ χώραν ἔχουσιν Αἰγιεῖς|Gemistos Plethon|s.xiv/xv|Vat. gr. 2306 + 2061 A (P)|
+Str. 8.7.5|ὠλένη|᾽Ωλένου|Casaubon|1620|Vat. gr. 2306 + 2061 A (P)|
+Str. 8.7.5|Φαρ(ι)εῖς|Φαραιεῖς|Gustav Kramer|1847|Pac|
 Str. 8.7.5|στρατεί-|στρατιᾶς|Gemistos Plethon|s.xiv/xv|Ppc|
+Str. 8.8.2|τ. ἀλαίας Ἀ.|τῆς ᾿Αλέας Ἀθηνᾶς|Wilhelm Xylander|1571|Vat. gr. 2306 + 2061 A (P)|'Aleae'
+Str. 8.8.4|περὶ Σ.|παρὰ Στύμφαλον|Meineke|1852|Paris. gr. 1397 (A)|Vindiciarum
 Str. 9.1.6|-δον/-μαλ κτλ.|ὅμαυλον|Dindorf|1832–60|EAs|
 Str. 9.2.35|οὔτε|οὐδὲ|Adamantios Korais|1817|P.Petr. I 3|ουδ
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
