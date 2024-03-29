@@ -4978,7 +4978,10 @@ Str. 9.2.11|Ταναγραϊκῆς|-γρικῆς|C. H. Tzschucke|1801|Vat. gr.
 Str. 9.2.20|οὐ γὰρ|οὐ γὰρ ἂν|Wilamowitz||Eust. Il. 267.17–20|Kl. Schr. iv p. 563
 Str. 9.2.26|ὠκάλαι|Ὠκαλέα|Wilhelm Xylander|1571|Vat. gr. 2306 + 2061 A (P)|
 Str. 9.2.27|ὠκάλαι|Ὠκαλέα|Adamantios Korais|1817|Vat. gr. 2306 + 2061 A (P)|
-Str. 9.2.29|πολε[|πολεμάδοκε|Friedrich Neue||Vat. gr. 2306 + 2061 A (P)|
+Str. 9.2.29|πολε[|πολεμάδοκε|Friedrich Neue|1829|Vat. gr. 2306 + 2061 A (P)|Jahrb. f. wissen. Krit. (Neue on Matthiae)
+Str. 9.2.31|γ. Ἐ.|αἱ γὰρ Ἐλευθεραὶ|Gustav Kramer|1847|Vat. gr. 2306 + 2061 A (P)|
+Str. 9.2.31|]ίπτει|ὑποπίπτει|C. G. Groskurd|1831|Vat. gr. 2306 + 2061 A (P)|
+Str. 9.2.31|ὄνιον|᾿Αόνιον|La Porte||Vat. gr. 2306 + 2061 A (P)|
 Str. 9.2.35|οὔτε|οὐδὲ|Adamantios Korais|1817|P.Petr. I 3|ουδ
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
