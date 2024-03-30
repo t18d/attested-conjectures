@@ -4987,6 +4987,8 @@ Str. 9.2.35|μήδ-|Μίδειαν|Marcus Hopper|1549|P et Eust.|
 Str. 9.2.35|οὔτε|οὐδὲ|Adamantios Korais|1817|P.Petr. I 3 et Π2|ουδ
 Str. 9.2.36|γεγενῆ-|γεγεννῆσθαι|Adamantios Korais|1817|Bvpc|
 Str. 9.2.40|-χρηματί-|πολυχρηματήσαντάς|J. G. Schneider|1798|Bv|
+Str. 9.3.1|-ομεν|λέγωμεν|Casaubon|1620|Bv|
+Str. 9.3.10|τὸ ἰ.|τῷ ἰαμβίζειν|Johan Luzac|1825|Vat. gr. 482 (E)|apud van Santen
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
