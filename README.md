@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Beza (25), Naber (18), Markland (18), Michelsen (15), Owen (14), Blass (13), Holwerda (10), Erasmus (10), Thomas Mangey (10), Patricius Junius (8) and Westcott-Hort (8) (tied).</p>
+<p>The top 10 biblical critics are Beza (25), Naber (18), Markland (18), Michelsen (15), Owen (14), Blass (13), Holwerda (10), Erasmus (10), Thomas Mangey (10), Patricius Junius (8) and Westcott-Hort (8) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
