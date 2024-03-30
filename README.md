@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Bentley (135), Adamantios Korais (101), Madvig (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Bentley (135), Adamantios Korais (102), Madvig (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4951,7 +4951,7 @@ Str. 8.6.8|τ. ἔ. εἰπεῖν τ.|τὸ ἔπος ἐκπεσεῖν το�
 Str. 8.6.10|ἡγεμονίας οὔσας|ἡγεμονευούσας|Gemistos Plethon|s.xiv/xv|Vat. gr. 2306 + 2061 A (P)|
 Str. 8.6.10|αἰγαλ-|Αἰγιαλέων|Wilhelm Xylander|1571|Apc|
 Str. 8.6.14|........ον|περὶ τούτων|Gustav Kramer|1847|Vat. gr. 2306 + 2061 A (P)|
-Str. 8.6.16|Οἰνώνης|Οἰνόης|Alessandro Politi|1730–5|Vat. gr. 2306 + 2061 A (P)|
+Str. 8.6.16|Οἰνώνης|Οἰνόης|Alessandro Politi|1732|Vat. gr. 2306 + 2061 A (P)|p. 604
 Str. 8.6.21|Φωκίδος … Βοιωτίδος … Μεγαρίδος|Φ. … -ίας … Μ.|Meineke|1852|PX|Vindiciarum
 Str. 8.6.24|καὶ Πλαταιὰς καὶ Τανάγρας|κ. Π. κ. -αν|Gemistos Plethon|s.xiv/xv|Eust. et exc. Urb.|
 Str. 8.6.24|πρασω-|Παρασωπίους|Gemistos Plethon|s.xiv/xv|Eust. Il. 291.23–7|
@@ -4996,6 +4996,11 @@ Str. 9.5.5|ἔσεσθ-/ἕπετ|ἕπεσθαι|Gemistos Plethon|s.xiv/xv|Vat.
 Str. 9.5.5|τό τε Ἄ.|τό τε γὰρ Ἄργος|Gemistos Plethon|s.xiv/xv|Vat. gr. 2306 + 2061 A (P)|
 Str. 9.5.5|π. … -λονίκην|πόλιν … Θετταλικὴν|Gemistos Plethon|s.xiv/xv|Vat. gr. 2306 + 2061 A (P)|
 Str. 9.5.8|-χινίαν|Τραχῖνα|Elmsley|1812|Bv|ad Eur. Heracl. 194
+Str. 9.5.19|-ὴν|αὐτοὶ|Adamantios Korais|1817|ABv|W?
+Str. 9.5.21|-ον|τοιοῦτο|Meineke|1853|Paris. gr. 1397 (A)|
+Str. 9.5.22|-αῖς|Φεραὶ|Alessandro Politi|1732|Paris. gr. 1397 (A)|p. 773
+Str. 10.1.4|τεθρ- ὄ.|Τελεθρίῳ ὄρει|Wilhelm Xylander|1571|Marc. gr. XI 6 (D)|s.l.
+Str. 10.2.4|-κινθον|᾿Αράκυνθον|Wilhelm Xylander|1571|exc. Urb. 29r I|
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
