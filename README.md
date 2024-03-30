@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Bentley (135), Adamantios Korais (100), Madvig (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Bentley (135), Adamantios Korais (101), Madvig (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4989,6 +4989,13 @@ Str. 9.2.36|γεγενῆ-|γεγεννῆσθαι|Adamantios Korais|1817|Bvpc|
 Str. 9.2.40|-χρηματί-|πολυχρηματήσαντάς|J. G. Schneider|1798|Bv|
 Str. 9.3.1|-ομεν|λέγωμεν|Casaubon|1620|Bv|
 Str. 9.3.10|τὸ ἰ.|τῷ ἰαμβίζειν|Johan Luzac|1825|Vat. gr. 482 (E)|apud van Santen
+Str. 9.4.2|κεύθεινομ|εὐθυνόμων|Adamantios Korais|1817|Paris. gr. 1397 (A)|
+Str. 9.5.3|φαρσαλίου|Φαρσάλου|Gustav Kramer|1847|Vat. gr. 2306 + 2061 A (P)|φαρ[..]λου
+Str. 9.5.5|τρα-|Τρηχῖν᾽|Gemistos Plethon|s.xiv/xv|Vat. gr. 2306 + 2061 A (P)|
+Str. 9.5.5|ἔσεσθ-/ἕπετ|ἕπεσθαι|Gemistos Plethon|s.xiv/xv|Vat. gr. 2306 + 2061 A (P)|
+Str. 9.5.5|τό τε Ἄ.|τό τε γὰρ Ἄργος|Gemistos Plethon|s.xiv/xv|Vat. gr. 2306 + 2061 A (P)|
+Str. 9.5.5|π. … -λονίκην|πόλιν … Θετταλικὴν|Gemistos Plethon|s.xiv/xv|Vat. gr. 2306 + 2061 A (P)|
+Str. 9.5.8|-χινίαν|Τραχῖνα|Elmsley|1812|Bv|ad Eur. Heracl. 194
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
