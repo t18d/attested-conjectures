@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Bentley (135), Adamantios Korais (105), Madvig (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Bentley (135), Adamantios Korais (107), Madvig (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -5011,6 +5011,13 @@ Str. 10.3.8|ἡ δ᾽ ἐ.|ὅτι δ᾽ ἡ ἐνόπλιος|Adamantios Korais
 Str. 10.3.11|τὸ νέον … ὄ. ὑ.|τὸ νέοι … ὄντες ὑπουργεῖν|Maximus Planudes|s.xiii/xiv|Vat. gr. 482 (E)|
 Str. 10.3.12|-ους ὡ.|ἑτέρως ὡς|Adamantios Korais|1817|Vat. gr. 2306 + 2061 A (P)|
 Str. 10.4.11|ὀγδοήκοντα σ.|ὀκτὼ σταδίους|Casaubon|1620|Vat. gr. 2306 + 2061 A (P)|
+Str. 10.4.12|πράσ-|Πραίσιοι|C. H. Tzschucke|1801|Vat. gr. 2306 + 2061 A (P)|
+Str. 10.4.13|τῆς ταύτης δὲ θαλάττης|τ. -ῃ δ. θ.|Wilhelm Xylander|1571|Marc. gr. XI 6 (D)|
+Str. 10.4.15|τὸ δὲ|τοτὲ δὲ|Meineke|1852|Vat. gr. 2306 + 2061 A (P)|Vindiciarum
+Str. 10.4.15|δ. ἀ. π. -ῶν|δέκα ἀφαιρεῖσθαι πόλεις αὐτόν|Adamantios Korais|1817|Vat. gr. 2306 + 2061 A (P)|
+Str. 10.4.20|σιδηρῶν|ἀσιδήρων|Thomas Tyrwhitt|1783|Vat. gr. 2306 + 2061 A (P)|
+Str. 10.4.21|παρὰ τ.|παρῇ τιμωρεῖν|Adamantios Korais|1817|Vat. gr. 2306 + 2061 A (P)|
+Str. 10.5.1|ε. ἕκαστ- ἀ. ν.|εἰς ἑκατὸν ἀπέχει νησίδιον|Casaubon|1620|Vat. gr. 2306 + 2061 A (P)|
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
