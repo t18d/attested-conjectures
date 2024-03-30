@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Bentley (135), Adamantios Korais (111), Madvig (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Bentley (135), Adamantios Korais (112), Madvig (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -5034,6 +5034,9 @@ Str. 11.2.19|Κ. … ε. δὲ|Καυκάσια μὲν … εὐδαίμονα 
 Str. 11.3.1|˙ καὶ οἰκεῖται … τε καὶ|˙ κατοικεῖται … τ. κ.|Meineke|1853|Vat. gr. 2306 + 2061 A (P)|
 Str. 11.3.2|᾿Αραγῶνα κάτω τοῦ|᾿Α. ἐκ τοῦ|Adamantios Korais|1817|Palat. gr. 398 (X)|
 Str. 11.4.3|ἄ. δὲ ἄ.|ἄσκαφοι δ᾽ αἱ ἄμπελοι|Adamantios Korais|1817|Vat. gr. 2306 + 2061 A (P)|δ[.]ι
+Str. 11.4.4|τῆς ᾿Ιβήρων στρατιᾶς|τ. ᾿Ι. -άν|Lefebvre de Villebrune|1807|Vat. gr. 2306 + 2061 A (P)|apud Falconer
+Str. 11.4.5|δισμυρίους καὶ δισχιλίους|μυρί- κ. δ.|Casaubon|1620|Vat. gr. 2306 + 2061 A (P)|
+Str. 11.5.5|οἱ δὲ|οἵ γε|Adamantios Korais|1817|Vat. gr. 2306 + 2061 A (P)|
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
