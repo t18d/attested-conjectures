@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Bentley (135), Adamantios Korais (107), Madvig (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Bentley (135), Adamantios Korais (109), Madvig (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -5023,7 +5023,12 @@ Str. 10.5.2|οὐ φ.|φορητά|Porson|1821|Vat. gr. 2306 + 2061 A (P)|ad Eur
 Str. 10.5.2|πρυμνῶν … χ.|πρέμνων … χθονίων|J. G. Schneider|1776|Vat. gr. 2306 + 2061 A (P)|Carm. Pindar.
 Str. 10.5.8|Βάβι-|Βάβυος|Gerardus Vossius|1624|Marc. gr. XI 6 (D)|
 Str. 11.2.8|καλεῖται δ᾽ οὗτος ὁ στενωπὸς|κ. δ᾽ οὕτως ὁ σ.|Wilhelm Xylander|1571|Vat. gr. 2306 + 2061 A (P)|
-Str. 11.2.8||σταδίων διειργόμενον πορθμῷ|Casaubon|1620|Vat. gr. 2306 + 2061 A (P)|
+Str. 11.2.8|σταδίων διειργομένων/-ῳ πορθμῷ|σ. -ον π.|Casaubon|1620|Vat. gr. 2306 + 2061 A (P)|
+Str. 11.2.11|-γιπτίας/-γιπίας|Γοργιππίας|Wilhelm Xylander|1571|Vat. gr. 2306 + 2061 A (P)|
+Str. 11.2.13|ζυγίων|Ζυγῶν|Adamantios Korais|1817|Vat. gr. 2306 + 2061 A (P)|
+Str. 11.2.14|τοῦ Κριοῦ μετώπῳ|τῷ Κ. μ..|Meineke|1852|Vat. gr. 2306 + 2061 A (P)|Vindiciarum
+Str. 11.2.17|τῶν πλησίων ὀρῶν|τ. -ον ὀ.|Adamantios Korais|1817|Marc. gr. XI 6 (D)|
+Str. 11.2.18|ῥιοχάρης/ῥεῖ ὁ χάρις|ῥεῖ ὁ Χάρης|Gustav Kramer|1847|Vat. gr. 2306 + 2061 A (P)|
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
