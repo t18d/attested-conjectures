@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Bentley (135), Adamantios Korais (102), Madvig (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Bentley (135), Adamantios Korais (105), Madvig (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -5001,6 +5001,16 @@ Str. 9.5.21|-ον|τοιοῦτο|Meineke|1853|Paris. gr. 1397 (A)|
 Str. 9.5.22|-αῖς|Φεραὶ|Alessandro Politi|1732|Paris. gr. 1397 (A)|p. 773
 Str. 10.1.4|τεθρ- ὄ.|Τελεθρίῳ ὄρει|Wilhelm Xylander|1571|Marc. gr. XI 6 (D)|s.l.
 Str. 10.2.4|-κινθον|᾿Αράκυνθον|Wilhelm Xylander|1571|exc. Urb. 29r I|
+Str. 10.2.20|ἅ. φησι(ν)|ἅπαντές φασι|Casaubon|1620|Vat. gr. 482 (E)|
+Str. 10.2.21|-κρίας|Μολυκρείας|Adamantios Korais|1817|Marc. gr. XI 6 (D)|s.l.
+Str. 10.3.5|διαδ-|διδοὺς|Willy Theiler|1982|Paris. gr. 1393 (C)|
+Str. 10.3.6|-εῖσθαι|καλέσαι|Gustav Kramer|1847|Vat. gr. 2306 + 2061 A (P)|
+Str. 10.3.6|-ος|μέρους|Cobet|2004|DE|apud Radt
+Str. 10.3.7|οἱ δὲ π.|οἱ παραδόντες|Thomas Tyrwhitt|1783|Vat. gr. 2306 + 2061 A (P)|
+Str. 10.3.8|ἡ δ᾽ ἐ.|ὅτι δ᾽ ἡ ἐνόπλιος|Adamantios Korais|1817|Vat. gr. 482 (E)|
+Str. 10.3.11|τὸ νέον … ὄ. ὑ.|τὸ νέοι … ὄντες ὑπουργεῖν|Maximus Planudes|s.xiii/xiv|Vat. gr. 482 (E)|
+Str. 10.3.12|-ους ὡ.|ἑτέρως ὡς|Adamantios Korais|1817|Vat. gr. 2306 + 2061 A (P)|
+Str. 10.4.11|ὀγδοήκοντα σ.|ὀκτὼ σταδίους|Casaubon|1620|Vat. gr. 2306 + 2061 A (P)|
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
