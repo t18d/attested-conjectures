@@ -47,7 +47,7 @@ with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:
             conj_md.write("\n")
             #first line is headers
             first_first_row = True
-            for reader in (conj_reader, amst_reader):
+            for reader in (amst_reader):
                 first_row = True
                 for row in reader:
                     if first_row and not first_first_row:
