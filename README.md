@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Bentley (135), Adamantios Korais (112), Madvig (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Bentley (135), Adamantios Korais (113), Madvig (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -5048,6 +5048,15 @@ Str. 11.8.4|ἀνανδ-|᾿Αναδάτου|Gustav Kramer|1847|Vat. gr. 2306 + 
 Str. 11.8.5|-ώσας|ἀνιέρωσε|Felix Jacoby|1958|Vat. gr. 2306 + 2061 A (P)|FGrHist 696.17
 Str. 11.8.5|β. τῆς μ. ἡ.|βακχεία τις μεθ' ἡμέραν|Casaubon|1620|Vat. gr. 2306 + 2061 A (P)|
 Str. 11.8.5|ἅμα τε καὶ|τε ἅμα κ.|Meineke|1853|Vat. gr. 2306 + 2061 A (P)|
+Str. 11.8.8|-μοισινοί|Χωράσμιοι|Casaubon|1620|Vat. gr. 482 (E)|
+Str. 11.8.8|Σ. μ. καὶ Σ.|Σάκας μὲν Σογδιανοὺς|Paul Cascorbi|1879|Vat. gr. 482 (E)|
+Str. 11.8.9|δισχίλ- δισμύρ-|δισμύριοι δισχίλιοι|Gustav Kramer|1847|Paris. gr. 1393 (C)|
+Str. 11.8.9|ἐννα-|ἐνακοσίους|Meineke|1853|Paris. gr. 1393 (C)|
+Str. 11.9.1|σ. δ᾽ ἔτι|σχεδὸν δέ τι|G. H. Schaefer|1808|Vat. gr. 482 (E)|D. H. de comp. verb. lib.
+Str. 11.9.3|δ’ οὖν|οὖν|Felix Jacoby|1958|Athous Vatop. 655 (B)|FGrHist 782.3
+Str. 11.9.3|-ίστησιν|καθίστασθαι|Adamantios Korais|1817|Vat. gr. 482 (E)|
+Str. 11.10.1|Μαρδυα-|Μαργιανὴ|Casaubon|1620|Vat. gr. 2306 + 2061 A (P)|
+Str. 11.10.1|-ουσι δ'|ποτίζουσιν|Meineke|1852|Vat. gr. 2306 + 2061 A (P)|Vindiciarum
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
