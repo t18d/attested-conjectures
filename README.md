@@ -5068,6 +5068,13 @@ Str. 11.11.8|ἄπο-|ἄπωθεν|Maximus Planudes|s.xiii/xiv|Vat. gr. 2306 + 
 Str. 11.12.2|-νέας|Χελιδονίας|Adamantios Korais|1817|Vat. gr. 482 (E)|
 Str. 11.12.2|μικρ-|μακροὺς|Adamantios Korais|1817|Vat. gr. 482 (E)|
 Str. 11.12.3|-βόρῳ|προσβόρρῳ|Adamantios Korais|1817|Vat. gr. 2306 + 2061 A (P)|
+Str. 11.12.4|-ιες|ἀπόσχιδες|Wilhelm Xylander|1571|Athous Vatop. 655 (B)|s.l.
+Str. 11.12.4|εὐλυμέων|᾿Ελυμαίων|C. H. Tzschucke|1801|Vat. gr. 482 (E)|
+Str. 11.12.5|κατὰ τὰ π.|καὶ τὰ προσάρκτια|Wilhelm Xylander|1571|Bpc|Arnold Behr
+Str. 11.13.6|᾿Α. ᾿Α.|᾿Απολλόδωρος ὁ ᾿Αρταμιτηνός|Arnold Behr|1888|codd.|
+Str. 11.13.6|᾿Αρτεμιτ-|᾿Αρταμιτηνός|Lucas Holste|1684|Vat. gr. 2306 + 2061 A (P)|Vatican librarian
+Str. 11.13.7|πολὺ λ.|οὐ πολὺ λειπόμενος|Casaubon|1620|P et St.Byz.|
+Str. 11.14.8|θωῆτ-|Θωνῖτιν|Wilhelm Xylander|1571|Vat. gr. 482 (E)|
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
