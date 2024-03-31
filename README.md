@@ -5037,6 +5037,9 @@ Str. 11.4.3|ἄ. δὲ ἄ.|ἄσκαφοι δ᾽ αἱ ἄμπελοι|Adamanti
 Str. 11.4.4|τῆς ᾿Ιβήρων στρατιᾶς|τ. ᾿Ι. -άν|Lefebvre de Villebrune|1807|Vat. gr. 2306 + 2061 A (P)|apud Falconer
 Str. 11.4.5|δισμυρίους καὶ δισχιλίους|μυρί- κ. δ.|Casaubon|1620|Vat. gr. 2306 + 2061 A (P)|
 Str. 11.5.5|οἱ δὲ|οἵ γε|Adamantios Korais|1817|Vat. gr. 2306 + 2061 A (P)|
+Str. 11.6.2|-βόρους|προσβόρρους|Meineke|1853|Vat. gr. 2306 + 2061 A (P)|προσβορρ[
+Str. 11.7.1|κουίτ-|καὶ Οὐίτιοι|Casaubon|1620|Vat. gr. 482 (E)|
+Str. 11.7.1|αἰνειάν-|Αἰνιᾶνας|C. H. Tzschucke|1801|Vat. gr. 482 (E)|
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
