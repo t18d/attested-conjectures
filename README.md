@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Bentley (135), Adamantios Korais (113), Madvig (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Bentley (135), Adamantios Korais (120), Madvig (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -5057,6 +5057,17 @@ Str. 11.9.3|δ’ οὖν|οὖν|Felix Jacoby|1958|Athous Vatop. 655 (B)|FGrHis
 Str. 11.9.3|-ίστησιν|καθίστασθαι|Adamantios Korais|1817|Vat. gr. 482 (E)|
 Str. 11.10.1|Μαρδυα-|Μαργιανὴ|Casaubon|1620|Vat. gr. 2306 + 2061 A (P)|
 Str. 11.10.1|-ουσι δ'|ποτίζουσιν|Meineke|1852|Vat. gr. 2306 + 2061 A (P)|Vindiciarum
+Str. 11.11.1|τὰ μὲν γὰρ|τὰ μὲν|Adamantios Korais|1817|Vat. gr. 2306 + 2061 A (P)|
+Str. 11.11.3|ἤθ-|ἔθεσι|Meineke|1852|Dac|Vindiciarum
+Str. 11.11.4|τῆς Σισιμίθρου|τὴν Σ.|Casaubon|1620|Vat. gr. 482 (E)|
+Str. 11.11.5|-οντα|ἔχον|Adamantios Korais|1817|Paris. gr. 1393 (C)|
+Str. 11.11.7|᾿Α. ἐ. τ. ᾿Α.|᾿Απολλόδωρος ὁ ἐκ τῆς ᾿Αρτεμίτας|Adamantios Korais|1817|Vat. gr. 482 (E)|
+Str. 11.11.8|ἅ. … -ανται|ἅπερ … δύναται|Meineke|1853|Athous Vatop. 655 (B)|
+Str. 11.11.8|-ίων|Ταπύρων|Adamantios Korais|1817|Vat. gr. 2306 + 2061 A (P)|
+Str. 11.11.8|ἄπο-|ἄπωθεν|Maximus Planudes|s.xiii/xiv|Vat. gr. 2306 + 2061 A (P)|
+Str. 11.12.2|-νέας|Χελιδονίας|Adamantios Korais|1817|Vat. gr. 482 (E)|
+Str. 11.12.2|μικρ-|μακροὺς|Adamantios Korais|1817|Vat. gr. 482 (E)|
+Str. 11.12.3|-βόρῳ|προσβόρρῳ|Adamantios Korais|1817|Vat. gr. 2306 + 2061 A (P)|
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
