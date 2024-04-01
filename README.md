@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Adamantios Korais (146), Bentley (135), Madvig (89), Reiske (85), Markland (85), Casaubon (80) and Meineke (76).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Adamantios Korais (150), Bentley (135), Madvig (89), Reiske (85), Markland (85), Casaubon (84) and Meineke (77).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -5189,6 +5189,17 @@ Str. 14.5.28|Κητί-|Κητείους|Wilhelm Xylander|1571|E et Eust.|
 Str. 14.6.2|ν. δ. προκ-|νησία δύο προσκείμενα|Casaubon|1620|Epc|
 Str. 14.6.2|ἑλν-|Σελινοῦντα|Guarino Veronese|1469|Dpc|'Selinuntem'
 Str. 14.6.3|εἰς ἣν|ἧς|Adamantios Korais|1817|Vat. gr. 1329 (F)|
+Str. 14.6.3|ἡ Δῆλός|Ἡδύλος|Casaubon|1620|Cpc|
+Str. 15.1.10|-ίᾳ|ἑσπέρᾳ|Adamantios Korais|1817|Vat. gr. 1329 (F)|
+Str. 15.1.17|ἀπὸ γαίας δὲ|ἀπογαίας δὲ|Adamantios Korais|1817|BCDpc|
+Str. 15.1.18|ψύχ- ὀ.|τυχόντος ὀρυκτοῦ|Casaubon|1620|Vat. gr. 482 (E)|
+Str. 15.1.18|θερίζεσθαι … πτίζεσθαι|θ. … πτίσσ-|Casaubon|1620|Dpc|
+Str. 15.1.21|κατακαμφθέντα ἄλλην|-ας ἄ.|Adamantios Korais|1817|Bpc|
+Str. 15.1.34|πλημμυρίδας … ἀπογαίας|π. … -ους|Casaubon|1620|Vat. gr. 482 (E)|
+Str. 15.1.35|π. -ῶν|περὶ αὐτοῦ|Adamantios Korais|1817|FP|
+Str. 15.1.36|-α|ἔχουσαν|Wilhelm Xylander|1571|Vat. gr. 2306 + 2061 A (P)|
+Str. 15.1.43|˙ τ. οὖν|˙ ταῖς γοῦν|Meineke|1853|Palat. gr. 398 (X)|
+Str. 15.1.57|ὡς ὅτι|ὅτι|C. G. Groskurd|1833|Vat. gr. 1329 (F)|
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
