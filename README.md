@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Adamantios Korais (141), Bentley (135), Madvig (89), Reiske (85), Markland (85), Casaubon (76) and Meineke (76).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Adamantios Korais (143), Bentley (135), Madvig (89), Reiske (85), Markland (85), Casaubon (77) and Meineke (76).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -5165,6 +5165,13 @@ Str. 14.1.31|τὸ ἀ. τ.|τοῦ ἀπὸ τοῦ|C. G. Siebelis|1803|Paris. 
 Str. 14.1.32|τήϊον|Τηΐων|C. H. Tzschucke|1808|Vat. gr. 1329 (F)|
 Str. 14.1.37|στορεννύ-|στορνύντες|Meineke|1853|Vat. gr. 482 (E)|s.l.
 Str. 14.1.39|-τίου|Πακτύου|Wilhelm Xylander|1571|Vat. gr. 482 (E)|
+Str. 14.1.40|οὗ τ.|οὐ τὰ|Thomas Tyrwhitt|1783|Vat. gr. 1329 (F)|
+Str. 14.1.44|ἥρ-|Κόρης|Ezechiel Spanheim|1707|Paris. gr. 1393 (C)|apud van Almeloveen
+Str. 14.2.1|παραλί-|Καρίας|Gustav Kramer|1852|Vat. gr. 2306 + 2061 A (P)|
+Str. 14.2.3|διά τε κ.|διά τε τὰ καύματα|Adamantios Korais|1800|Vat. gr. 482 (E)|Traité d'Hippocrate
+Str. 14.2.5|λ. … -οι|λειτουργίαι … ὀψωνιαζόμεναι|Adamantios Korais|1817|Vat. gr. 482 (E)|
+Str. 14.2.8|κάμει-|Κάμιρον|T. J. van Almeloveen|1707|Palat. gr. 398 (X)|
+Str. 14.2.10|τ. -ον|τὴν Ῥόδην|Casaubon|1620|Marc. gr. XI 6 (D)|
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
