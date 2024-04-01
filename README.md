@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Bentley (135), Adamantios Korais (129), Madvig (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Bentley (135), Adamantios Korais (131), Madvig (89), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -5103,6 +5103,16 @@ Str. 12.3.22|ν. δ᾽ ἐν Ζ.|νῦν δὲ Ζελείᾳ|Meineke|1853|Vat. g
 Str. 12.3.22|πύγελλ-|Πύγελα|C. H. Tzschucke|1808|Eust. Il. 363.15 sq.|
 Str. 12.3.22|-όνας|᾿Αμαζῶνας|Gustav Kramer|1847|Vat. gr. 2306 + 2061 A (P)|
 Str. 12.3.23|οὔθ᾽ οἷς|οὐδ᾽ ο.|Theodorus Agallianus|s.xv med.|Vat. gr. 2306 + 2061 A (P)|
+Str. 12.3.23|νομο-|τοποθετῶν|Casaubon|1620|Vat. gr. 2306 + 2061 A (P)|
+Str. 12.3.24|-αντας … -αντας|πολεμήσοντας … συμμαχήσοντας|Theodorus Agallianus|s.xv med.|Vat. gr. 2306 + 2061 A (P)|
+Str. 12.3.25|τίβιρ-|τίβιος|Casaubon|1620|Vat. gr. 2306 + 2061 A (P)|
+Str. 12.3.26|καίπερ καὶ|καθάπερ κ.|Wilhelm Xylander|1571|Vat. gr. 2306 + 2061 A (P)|
+Str. 12.3.26|ἐπιφ-|εὐεπιφόρως|Cobet|1876|Vat. gr. 2306 + 2061 A (P)|Misc.
+Str. 12.3.27|-όμενον|γνωρίζομεν|Madvig|1871|Paris. gr. 1393 (C)|
+Str. 12.3.27|τ. τὸν λόγον|ταυτολογήσομεν|Adamantios Korais|1817|Vat. gr. 2306 + 2061 A (P)|
+Str. 12.3.27|ὕαλ-|Ὕλλον|Wilhelm Xylander|1571|PX|
+Str. 12.3.30|-ρία|ζωγρεῖα|Adamantios Korais|1817|Vat. gr. 482 (E)|
+Str. 12.3.37|-ῆτις|Ζηλῖτις|C. H. Tzschucke|1808|Dac|
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
