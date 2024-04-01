@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Bentley (135), Adamantios Korais (131), Madvig (89), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Bentley (135), Adamantios Korais (133), Madvig (89), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -5113,6 +5113,17 @@ Str. 12.3.27|τ. τὸν λόγον|ταυτολογήσομεν|Adamantios Kora
 Str. 12.3.27|ὕαλ-|Ὕλλον|Wilhelm Xylander|1571|PX|
 Str. 12.3.30|-ρία|ζωγρεῖα|Adamantios Korais|1817|Vat. gr. 482 (E)|
 Str. 12.3.37|-ῆτις|Ζηλῖτις|C. H. Tzschucke|1808|Dac|
+Str. 12.4.2|-όνων|Χαλκηδονίων|Adamantios Korais|1817|Vat. gr. 482 (E)|
+Str. 12.4.6|-ρία|Τήρεια|C. H. Tzschucke|1808|E et Eust.|
+Str. 12.4.7|ἐρυμο-|ἐρρυμοτομημένος|Paulus Leopardus|1604|DE|
+Str. 12.5.2|βλάϋρ-|Βλαῦδον|Wilhelm Xylander|1571|Vat. gr. 2306 + 2061 A (P)|
+Str. 12.7.3|τῇ κ.|τῷ κόμμει|Maximus Planudes|s.xiii/xiv|Vat. gr. 482 (E)|
+Str. 12.7.3|καταμιχ-|κατενεχθὲν|Wilhelm Xylander|1571|Vat. gr. 482 (E)|
+Str. 12.7.3|γέφυραι|γ. δ᾽|Casaubon|1620|Vat. gr. 482 (E)|
+Str. 12.8.2|τ. π. … Μαγνησίαν τὴν ὑπ’ αὐτῷ -αν|τῆς π. … Μ. τ. ὑ. α. χώρας|C. G. Groskurd|1831|Vat. gr. 482 (E)|
+Str. 12.8.5|-ωνα|Λύκον|Casaubon|1620|Palat. gr. 398 (X)|
+Str. 12.8.13|κ. ἡ π. -ίαν κ. τ.|καὶ ἡ πρὸς Πισιδίᾳ καὶ τὰ|Adamantios Korais|1817|Vat. gr. 482 (E)|
+Str. 12.8.21|κειρ-|Κερβήσιον|Theodorus Agallianus|s.xv med.|Vat. gr. 482 (E)|
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
