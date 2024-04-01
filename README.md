@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Bentley (135), Adamantios Korais (133), Madvig (89), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Bentley (135), Adamantios Korais (133), Madvig (89), Reiske (85), Markland (85), Valckenaer (75), Bekker (75) and Meineke (75) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -5124,6 +5124,16 @@ Str. 12.8.2|τ. π. … Μαγνησίαν τὴν ὑπ’ αὐτῷ -αν|τ�
 Str. 12.8.5|-ωνα|Λύκον|Casaubon|1620|Palat. gr. 398 (X)|
 Str. 12.8.13|κ. ἡ π. -ίαν κ. τ.|καὶ ἡ πρὸς Πισιδίᾳ καὶ τὰ|Adamantios Korais|1817|Vat. gr. 482 (E)|
 Str. 12.8.21|κειρ-|Κερβήσιον|Theodorus Agallianus|s.xv med.|Vat. gr. 482 (E)|
+Str. 13.1.2|-ὸν|Γράνικον|C. H. Tzschucke|1808|Vat. gr. 1329 (F)|
+Str. 13.1.5|ἤδη|ἡ Ἴδη|Maximus Planudes|s.xiii/xiv|EF|
+Str. 13.1.21|π. ἀρίσβ-|πόλις Ἄρισβα|Meineke|1853|Vat. gr. 482 (E)|
+Str. 13.1.25|καὶ ἅπερ|καθάπερ|Wilhelm Xylander|1571|Vat. gr. 2306 + 2061 A (P)|
+Str. 13.1.30|-γένης|ἀλιτενής|Paulus Leopardus|1568|CpcE et exc. Urb.|
+Str. 13.1.35|-κοντο|ἵκανεν|Wilhelm Xylander|1571|Vat. gr. 2306 + 2061 A (P)|
+Str. 13.1.36|εἰ εἰς τ.|εἰ τοσοῦτον|Meineke|1853|Vat. gr. 2306 + 2061 A (P)|
+Str. 13.1.36|εἰ … τόδε|εἰ … τότε|Casaubon|1620|Vat. gr. 2306 + 2061 A (P)|
+Str. 13.1.36|νε-|νηῶν|Wilhelm Xylander|1571|Vat. gr. 2306 + 2061 A (P)|
+Str. 13.1.42|κ. π. ἔ.|κατά τι παλαιὸν ἔθος|Cobet|1876|X et Eust.|Misc.
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
