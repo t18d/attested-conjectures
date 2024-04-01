@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Bentley (135), Adamantios Korais (127), Madvig (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Bentley (135), Adamantios Korais (129), Madvig (88), Reiske (85), Markland (85), Valckenaer (75) and Bekker (75).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -4801,7 +4801,7 @@ Str. 1.3.7|τ'αὐτὰ|ταῦτα|Adamantios Korais|1815|Paris. gr. 1397 (A)|
 Str. 1.3.16|καὶ τὰ μ.|κατὰ μέρη|Adamantios Korais|1815|Paris. gr. 1397 (A)|
 Str. 2.1.1|ἀπ- ε.|ἐπ᾽ εὐθείας|Casaubon|1620|Vat. gr. 482 (E)|
 Str. 2.1.11|ἐνέρ-|ἐνάργεια|Wilhelm Xylander|1571|AE|
-Str. 2.1.15|-τεια|προάστια|Benedikt Niese|1878|Paris. gr. 1397 (A)|
+Str. 2.1.15/12.3.11|-τεια|προάστια|Benedikt Niese|1878|A/P|
 Str. 2.1.18|καυκασίῳ|Καυκάσῳ|Adamantios Korais|1815|Vat. gr. 482 (E)|
 Str. 2.1.29|χ. ὅσον ἦ.|χιλίων ὅσων ἦν|Adamantios Korais|1815|ACac|
 Str. 2.1.29|τοσούτων σ. ὅσον|τοσούτων σταδίων ὅσων|Adamantios Korais|1815|Paris. gr. 1397 (A)|
@@ -5092,6 +5092,17 @@ Str. 12.3.7|πεισι-/πισι-|Πεσσινοῦντος|C. H. Tzschucke|1808
 Str. 12.3.9|κ. Π. φ.|καὶ Πίνδαρος δέ φησιν|Adamantios Korais|1817|Vat. gr. 482 (E)|
 Str. 12.3.11|κ. φύσει καὶ|κ. φυσικῇ|Casaubon|1620|Vat. gr. 2306 + 2061 A (P)|φυ̣σει κα̣[
 Str. 12.3.11|διὰ … εἶναι|διὰ τὸ … εἶναι|Casaubon|1620|EP|
+Str. 12.3.11|-υτον|Αὐτόλυκον|Wilhelm Xylander|1571|Laur. 28.15 (z)|s.l.
+Str. 12.3.20|καλ-|Χαλύβης|Wilhelm Xylander|1571|E et Eust.|
+Str. 12.3.20|βρέγ-|Βρίγες|Lucas Holste|1684|Eust. Od. 1395.52sq.|
+Str. 12.3.22|οὐδὲ τ. … οὔτε τ.|οὔτε τὴν … οὔτε τὴν|Adamantios Korais|1817|Vat. gr. 2306 + 2061 A (P)|
+Str. 12.3.22|-δόνης|Μυγδονίης|Adamantios Korais|1817|Vat. gr. 2306 + 2061 A (P)|
+Str. 12.3.22|ἀμαζό-|᾿Αλαζώνων|Wilhelm Xylander|1571|Eust. Il. 363.19–21|
+Str. 12.3.22|ἀμαζό-|᾿Αλαζώνων|Jacobus Palmerius|1668|Vat. gr. 2306 + 2061 A (P)|
+Str. 12.3.22|ν. δ᾽ ἐν Ζ.|νῦν δὲ Ζελείᾳ|Meineke|1853|Vat. gr. 2306 + 2061 A (P)|
+Str. 12.3.22|πύγελλ-|Πύγελα|C. H. Tzschucke|1808|Eust. Il. 363.15 sq.|
+Str. 12.3.22|-όνας|᾿Αμαζῶνας|Gustav Kramer|1847|Vat. gr. 2306 + 2061 A (P)|
+Str. 12.3.23|οὔθ᾽ οἷς|οὐδ᾽ ο.|Theodorus Agallianus|s.xv med.|Vat. gr. 2306 + 2061 A (P)|
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
