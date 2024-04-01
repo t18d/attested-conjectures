@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Bentley (135), Adamantios Korais (135), Madvig (89), Reiske (85), Markland (85), Valckenaer (75), Bekker (75) and Meineke (75) (tied).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Adamantios Korais (138), Bentley (135), Madvig (89), Reiske (85), Markland (85), Valckenaer (75), Casaubon (75), Bekker (75) and Meineke (75) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -5142,6 +5142,15 @@ Str. 13.1.56|-αι|πιονία|Wilhelm Xylander|1571|Xq|
 Str. 13.1.57|ἑρμεί-|Ἑρμίαν … Ἑρμίας|Walter Leaf|1923|Vat. gr. 2306 + 2061 A (P)|
 Str. 13.1.59|κ. ἡ ν. χ.|καὶ νῦν ἡ χώρα|Gustav Kramer|1852|Vat. gr. 2306 + 2061 A (P)|
 Str. 13.1.59|σχεῖν|ἴσχειν|Adamantios Korais|1817|Vat. gr. 2306 + 2061 A (P)|
+Str. 13.1.61|Λυδοῖς τοῖς πρότερον|Λ. π.|Adamantios Korais|1817|Vat. gr. 2306 + 2061 A (P)|
+Str. 13.1.62|-εος|Κίλλαιος|Gustav Kramer|1852|exc. Urb.|
+Str. 13.1.64|μῦς τις/μιστὶς|μείς τις|Casaubon|1620|Vat. gr. 482 (E)|
+Str. 13.1.67|χείμαῤῥ-|χίμαρος|Casaubon|1620|CpcDFpc|
+Str. 13.1.67|ἑρμίν-|Ἑρμίου|Walter Leaf|1923|Vat. gr. 1329 (F)|
+Str. 13.1.67|Ἐλαΐτην|Ἐλαϊτικὸν|Wilhelm Dörpfeld|1928|Palat. gr. 398 (X)|
+Str. 13.1.69|τε καὶ … καὶ ᾿Α. δὲ καὶ|τε καὶ … καὶ ᾿Αταρνέως καὶ|Adamantios Korais|1817|EX|
+Str. 13.3.3|ἐπ-|ἀπαναστάσεις|Adamantios Korais|1817|Eust. Il. 357.26–8|
+Str. 13.3.6|τεθεῖσθαι|τ. φασιν|C. G. Groskurd|1831|Vat. gr. 482 (E)|
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
