@@ -253,7 +253,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (215), Adamantios Korais (188), Thomas Mangey (154), Bentley (135), Casaubon (96), Madvig (90), Reiske (85), Markland (85) and Meineke (84).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (217), Adamantios Korais (188), Thomas Mangey (154), Bentley (135), Casaubon (96), Madvig (90), Reiske (85), Markland (85) and Meineke (84).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2903,11 +2903,15 @@ Ov. met. 7.259|-a|atri|Andrea Navagero|1517|Sagall. 866 (G)|
 Ov. met. 7.624|hic|huc|F. H. Bothe|1818|Plan.|
 Ov. met. 7.660|Austros|austrum|F. Polle|1888|NU|
 Ov. met. 8.87|habent|del.|Nicolaus Heinsius|1652|UrbacMacNac|
+Ov. met. 8.286|habent|del.|Pieter Burman I|1727|MacNacUacPac|
+Ov. met. 8.525|habent|del.|Nicolaus Heinsius|1652|UacP|
 Ov. met. 8.629|tamen|tandem|F. H. Bothe|1818|Neap. IV.F.2 (R)|
 Ov. met. 9.669|quon-|quendam|Housman|1890|Neap. IV.F.2 (R)|
+Ov. met. 9.729|habent|del.|Nicolaus Heinsius|1652|MacB|
 Ov. met. 10.133|ac ut|ut hunc|Alexander Riese|1872|gpc|
 Ov. met. 10.240|forma|fama|Pieter Burman I|1727|χ|
 Ov. met. 10.271|bl-|pandis|Gronovius|n.d.|χ|
+Ov. met. 10.305|habent|del.|Johannes Schrader||MNacSac|
 Ov. met. 11.45|tua c.|te carmina|Bentley|1905|χ|
 Ov. met. 11.180|cupit|caput|Schepper|n.d.|χ|
 Ov. met. 11.183|hoc|haec|F. H. Bothe|1818|χ|
