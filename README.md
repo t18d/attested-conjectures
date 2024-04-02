@@ -3056,6 +3056,7 @@ Paneg. 11.10.3|pens(a)e manibus|pensa manibus|W. A. Baehrens|1910|W2|diss. p. 75
 Paneg. 11.19.3|opes|spes|Franz Eyssenhardt|1867|H2|p. 7
 Paneg. 12.2.2|mut-/met-|motu|Emil Baehrens|1874|H2|
 Paneg. 12.16.3|ann-|armorum|Franz Eyssenhardt|1867|W2|p. 21
+Paus. 1.6.3|-τιᾶς|στρατείας|Friedrich Sylburg|1583|Matrit. 4564 (Ma)|
 Pers. 5.90|uetauit|uetabit|C. F. Heinrich|1844|Reg. 1562|
 Pers. 5.123|-i|satyrum|Casaubon|n.d.|αVX|
 Petron. 64.2|-crime|plocame|Thomas Reinesius|1666|Paris. lat. 7989 (H)|p. 93
