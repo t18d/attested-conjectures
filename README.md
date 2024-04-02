@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Adamantios Korais (157), Thomas Mangey (154), Bentley (135), Madvig (89), Casaubon (88), Reiske (85), Markland (85) and Meineke (78).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Adamantios Korais (159), Thomas Mangey (154), Bentley (135), Casaubon (90), Madvig (89), Reiske (85), Markland (85) and Meineke (80).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -5224,6 +5224,18 @@ Str. 15.3.23|νείλ-|Νίνῳ|Wilhelm Xylander|1571|Vat. gr. 2306 + 2061 A (P
 Str. 16.1.5|κ. αὐτή|καὶ αὕτη|Henrik van Herwerden|1887|Vat. gr. 1329 (F)|Mnem.
 Str. 16.1.5|μ. ἐστὶν|μεγάλη ᾽στιν|Maximus Planudes|s.xiii/xiv|Palat. gr. 398 (X)|
 Str. 16.1.10|γὰρ ὑπ᾽|ὑπ᾽|Adamantios Korais|1817|Vat. gr. 1329 (F)|
+Str. 16.1.11|σταδί- ἑ.|σταθμοῖς ἑπτὰ|J. R. Forster|1776|Vat. gr. 1329 (F)|apud Spelman, The Expedition
+Str. 16.1.16|δυνάμει … Παρθικὴ πόλις|δυνάμει … -ῇ π.|Gustav Kramer|1852|Bac|
+Str. 16.2.4|-νίας|᾿Αντιγονείας|Meineke|1853|Vat. gr. 482 (E)|
+Str. 16.2.18|-ε|κατέτρεχον|Adamantios Korais|1817|Vat. gr. 1329 (F)|
+Str. 16.2.20|τραχῶν-|Τράχωνες|C. H. Tzschucke|1811|Vat. gr. 1329 (F)|
+Str. 16.2.25|τρυβλίον -οῦν π.|τρυβλίον χαλκοῦ πρίασθαι|Casaubon|1620|Vat. gr. 482 (E)|
+Str. 16.2.26|ἐλήφ-/desunt|ἐλείφθησαν|Gustav Kramer|1852|Athous Vatop. 655 (B)|
+Str. 16.2.29|-ύων τ᾽|κρομμυών τ᾽|Meineke|1852|Vat. gr. 482 (E)|Vindiciarum
+Str. 16.2.32|-ους|μῆκος|Casaubon|1620|Vat. gr. 482 (E)|
+Str. 16.2.41|-οὺς|Ἱερικοῦς|C. H. Tzschucke|1811|BCD|
+Str. 16.2.44|ἐκ κλεισσ-|ἐκ λισσάδων|Wilhelm Xylander|1571|Vat. gr. 482 (E)|
+Str. 16.2.44|ζ. κ. δὲ|ζέοντας κατοικίας τε|Adamantios Korais|1817|DE|
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
