@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Adamantios Korais (176), Thomas Mangey (154), Bentley (135), Casaubon (96), Madvig (89), Reiske (85), Markland (85) and Meineke (82).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Adamantios Korais (183), Thomas Mangey (154), Bentley (135), Casaubon (96), Madvig (89), Reiske (85), Markland (85) and Meineke (83).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -5275,6 +5275,18 @@ Str. 17.2.4|-γοῦσιν|ὀλολυγόσιν|Salmasius|1629|EX|
 Str. 17.2.4|. ζῷα|. ζῷα δ᾽|Adamantios Korais|1817|Vat. gr. 482 (E)|
 Str. 17.3.1|τὰς Μαρμαρίδας|τοὺς Μ.|Meineke|1853|Vat. gr. 482 (E)|
 Str. 17.3.3|πλη-|πηροῦν|Thomas Tyrwhitt|1783|Vat. gr. 482 (E)|
+Str. 17.3.10|-ειν|ἔχει|A.-J. Letronne|1819|Vat. gr. 482 (E)|
+Str. 17.3.11|-ης|πεντάπηχυς|Adamantios Korais|1817|Dpc|
+Str. 17.3.13|-ιαίων|μασσυλιέων|Gottfried Bernhardy|1828|Vat. gr. 482 (E)|
+Str. 17.3.14|-πιον|᾿Ασκληπιεῖον|Adamantios Korais|1817|DpcE|
+Str. 17.3.14|αὐτ-|αὑτῇ|Adamantios Korais|1817|Paris. gr. 1393 (C)|
+Str. 17.3.15|τρόπ-|πόλεμον|Adamantios Korais|1817|EF|
+Str. 17.3.15|ἐτρέ-|ἐτράποντο|Adamantios Korais|1817|Vat. gr. 2306 + 2061 A (P)|
+Str. 17.3.16|φησι|φασι|Adamantios Korais|1817|Vat. gr. 1329 (F)|
+Str. 17.3.16|κορσ-|Κοσσούρας|Gustav Kramer|1852|Vat. gr. 2306 + 2061 A (P)|
+Str. 17.3.16|π. δ᾽|πόλιν|Thomas Falconer|1807|Vat. gr. 2306 + 2061 A (P)|
+Str. 17.3.16|καὶ π.|πόλιν|Adamantios Korais|1817|Vat. gr. 2306 + 2061 A (P)|
+Str. 17.3.20|-νιάδα|Τριτωνίδα|Meineke|1853|Vat. gr. 482 (E)|
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
