@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Adamantios Korais (165), Thomas Mangey (154), Bentley (135), Casaubon (93), Madvig (89), Reiske (85), Markland (85) and Meineke (80).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Adamantios Korais (169), Thomas Mangey (154), Bentley (135), Casaubon (96), Madvig (89), Reiske (85), Markland (85) and Meineke (80).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -5245,6 +5245,18 @@ Str. 16.4.8|τὸ σούχου ἵδρυμα|Τοσούχου ἵ.|Adamantios Ko
 Str. 16.4.8|ἐλεφάντων ὁμώνυμον αὐτῶν|ἐ. ὁ. -ῷ|Adamantios Korais|1817|Paris. gr. 1393 (C)|s.l.
 Str. 16.4.12|-ας|ἐκλειφθεῖσα|Casaubon|1620|Vat. gr. 482 (E)|
 Str. 16.4.14|λοφώδεις ποιοῦντες ὑπορύττοντες|λ. -ος ὑ.|Adamantios Korais|1817|Vat. gr. 482 (E)|
+Str. 16.4.14|φοίνικάς|φοινικῶνας|Gregorio Tifernate|1469|Palat. gr. 398 (X)|'palmeta'
+Str. 16.4.14|πλέον ἀκμάζ-|πλεονάζει|Adamantios Korais|1817|Vat. gr. 1329 (F)|marg.
+Str. 16.4.16|ῥ. πίλ-|ῥαβδωτοῖς σπίλοις|Salmasius|1620|Vat. gr. 1329 (F)|in Hist. Aug.
+Str. 16.4.18|ἐλα-|Αἰλανίτου … Αἰλανίτης|Adamantios Korais|1817|Vat. gr. 482 (E)|s.l./in text.
+Str. 16.4.20|οὔτ᾽ ἐ. ν. οὔτ᾽ ἐ.|εἴτ᾽ ἐπὶ ν. εἴτ᾽ ἐπὶ|Adamantios Korais|1817|Vat. gr. 482 (E)|
+Str. 16.4.24|-η|κειμένην|A.-J. Letronne|1819|Vat. gr. 482 (E)|
+Str. 16.4.24|τῶν ὠνηθῆναι|τ. ὀνη-|Adamantios Korais|1817|Vat. gr. 482 (E)|
+Str. 16.4.26|χιτῶν-|ἀχίτωνες|Casaubon|1620|Vat. gr. 482 (E)|
+Str. 16.4.26|-ειν|ἐπιχωριάζει|Casaubon|1620|Vat. gr. 482 (E)|
+Str. 16.4.26|καθάπερ χρυσὸν καὶ ἄργυρον|κ. -ὸς κ. -ος|Casaubon|1620|Vat. gr. 482 (E)|
+Str. 16.4.27|τίνας|εἴτε τινὰς|Thomas Tyrwhitt|1783|Vat. gr. 482 (E)|
+Str. 17.1.2|προσ-|προπεσὼν|C. G. Groskurd|1834|DE|
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
