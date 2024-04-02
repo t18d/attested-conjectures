@@ -253,7 +253,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (217), Adamantios Korais (188), Thomas Mangey (154), Bentley (135), Casaubon (96), Madvig (90), Reiske (85), Markland (85) and Meineke (84).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (188), Thomas Mangey (154), Bentley (135), Casaubon (96), Madvig (90), Reiske (85), Markland (85) and Meineke (84).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2874,13 +2874,10 @@ Ov. met. 1.2|-as|illa|P. Lejay|1894|ev U3c|
 Ov. met. 1.50|-amque|utrasque|J. Rappold|1881|ψ|
 Ov. met. 1.332|tec-|tinctum|Bentley|1905|φ|
 Ov. met. 2.135|currum|cursum|Rudolf Merkel|1855|φ|
-Ov. met. 2.147|habent|del.|J. J. Hartman|1905|HMac|
 Ov. met. 2.436|quae|quem|Bentley|1905|H Bac|
 Ov. met. 2.734|totum|textum|Alexander Riese|1872|recc.|
 Ov. met. 2.809|lenius|se(c/t)ius|Scaliger|n.d.|R1 v2v|
 Ov. met. 2.823|p. ungues|per artus|Bentley|1905|N4v|
-Ov. met. 3.34|habent|del.|Otto Zwierlein|1999|Bern. 363|
-Ov. met. 3.200|habent|del.|Nicolaus Heinsius|1652|ς|
 Ov. met. 3.269|uni|uno|Jacob Micyllus||Monv M2v|
 Ov. met. 3.368|tamen|tantum|F. H. Bothe|1818|Laur. 36.12 (L)|
 Ov. met. 3.576|quon-|quendam|Nicolaus Heinsius|1652|h2 W|
@@ -2902,16 +2899,11 @@ Ov. met. 7.223|despicit|disp-|Lachmann|1855|χ|ad Lucr. 4.418
 Ov. met. 7.259|-a|atri|Andrea Navagero|1517|Sagall. 866 (G)|
 Ov. met. 7.624|hic|huc|F. H. Bothe|1818|Plan.|
 Ov. met. 7.660|Austros|austrum|F. Polle|1888|NU|
-Ov. met. 8.87|habent|del.|Nicolaus Heinsius|1652|UrbacMacNac|
-Ov. met. 8.286|habent|del.|Pieter Burman I|1727|MacNacUacPac|
-Ov. met. 8.525|habent|del.|Nicolaus Heinsius|1652|UacP|
 Ov. met. 8.629|tamen|tandem|F. H. Bothe|1818|Neap. IV.F.2 (R)|
 Ov. met. 9.669|quon-|quendam|Housman|1890|Neap. IV.F.2 (R)|
-Ov. met. 9.729|habent|del.|Nicolaus Heinsius|1652|MacB|
 Ov. met. 10.133|ac ut|ut hunc|Alexander Riese|1872|gpc|
 Ov. met. 10.240|forma|fama|Pieter Burman I|1727|χ|
 Ov. met. 10.271|bl-|pandis|Gronovius|n.d.|χ|
-Ov. met. 10.305|habent|del.|Johannes Schrader||MNacSac|
 Ov. met. 11.45|tua c.|te carmina|Bentley|1905|χ|
 Ov. met. 11.180|cupit|caput|Schepper|n.d.|χ|
 Ov. met. 11.183|hoc|haec|F. H. Bothe|1818|χ|
