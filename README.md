@@ -3061,8 +3061,10 @@ Paus. 1.6.3|-τιᾶς|στρατείας|Friedrich Sylburg|1583|Matrit. 4564 (M
 Paus. 1.13.2|φέρ-|φερῶν|Musurus|1516|Matrit. 4564 (Ma)|
 Paus. 1.23.4|ὀποντ-|ὀπουντίους|Friedrich Sylburg|1583|Matrit. 4564 (Ma)|
 Paus. 2.31.4|ἂν ὅτι|ἄν τι|Hermann Hitzig|1896|Neap. II. C. 32 (Na)|
+Paus. 3.26.3|-οι|λευκότερον|Friedrich Sylburg|1583|Neap. II. C. 32 (Na)|
 Paus. 4.14.4|ἀπ-|ἐπέκειτο|Friedrich Sylburg|1583|Neap. II. C. 32 (Na)|'non abs re malet quispiam'
 Paus. 7.16.8|θαύματα ἀ.|θαῦμα ἀνήγετο|Porson|1820|Neap. II. C. 32 (Na)|apud Gaisford
+Paus. 9.10.2|οἶδεν|εἶδε|Friedrich Sylburg|1583|Neap. II. C. 32 (Na)|
 Pers. 5.90|uetauit|uetabit|C. F. Heinrich|1844|Reg. 1562|
 Pers. 5.123|-i|satyrum|Casaubon|n.d.|αVX|
 Petron. 64.2|-crime|plocame|Thomas Reinesius|1666|Paris. lat. 7989 (H)|p. 93
