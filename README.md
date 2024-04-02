@@ -2763,12 +2763,13 @@ Nep. Them. 10.1|se|del.|Karl Halm|1871|ς aliquot|
 Nep. Thras. 4.1|-inis|oleagineis|Alfred Fleckeisen|1890|Ambros. O 2 sup.|
 Nep. reg. 1.3|generis|gentis|Friedrich Richter|1858|Vat. Barb. lat. 42|Richter on C. W. Nauck
 Non. p. 503|f. omnino|feruit animo|Franz Oehler|1844|Paris. lat. 7667 (P)|ad Varro Men. 498
-Nonn. Dion. 14.393|ἀκωκήν|κολώνην|Graefe|n.d.|P.Berol. inv. 10567|κορώνην
-Nonn. Dion. 14.398|πολυσταφύλῳ|φιλοσταφύλῳ|Graefe|n.d.|P.Berol. inv. 10567|
-Nonn. Dion. 15.87|οἰνηθέντες|οἰνωθεντες|Graefe|n.d.|P.Berol. inv. 10567|
-Nonn. Dion. 15.112|ἐλαίης|Ἀθήνης|Hermann Köchly|1858|P.Berol. inv. 10567|
-Nonn. Dion. 15.165|Βάκχοιο|Γλαύκοιο|Falkenburg|n.d.|P.Berol. inv. 10567|
-Nonn. Dion. 15.165|μαχητάς|μαχηταῖς|Hermann Köchly|1858|P.Berol. inv. 10567|
+Nonn. Dion. 2.565|-εύς|Τυφωεῦ|Petrus Cunaeus|1610|Palat. Heidelb. gr. 85 (P)|
+Nonn. Dion. 14.393|ἀκωκήν|κολώνην|Friedrich Graefe|1819|P.Berol. inv. 10567|κορώνην
+Nonn. Dion. 14.398|πολυσταφύλῳ|φιλοσταφύλῳ|Friedrich Graefe|1819|P.Berol. inv. 10567|
+Nonn. Dion. 15.87|οἰνηθέντες|οἰνωθεντες|Friedrich Graefe|1819|P.Berol. inv. 10567|
+Nonn. Dion. 15.112|ἐλαίης|Ἀθήνης|Hermann Köchly|1857|P.Berol. inv. 10567|
+Nonn. Dion. 15.165|Βάκχοιο|Γλαύκοιο|Gerard Falkenburg|1569|P.Berol. inv. 10567|
+Nonn. Dion. 15.165|μαχητάς|μαχηταῖς|Hermann Köchly|1857|P.Berol. inv. 10567|
 Novell. Iust. 117.15|συμ-|ἐμπαῖξαι|W. O. Reitz|1765|Epanagoge Zachariae|
 Opp. C. 1.147|καὶ|ναὶ|F. S. Lehrs|1846|A2δ|
 Opp. C. 2.217–8|περόωσι … πατέουσι|πατέουσι … περόωσι|Brunck|1776|Laur. 32.16 (K)|apud Schneider
