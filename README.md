@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Thomas Mangey (154), Adamantios Korais (150), Bentley (135), Madvig (89), Reiske (85), Markland (85), Casaubon (84) and Meineke (77).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Adamantios Korais (155), Thomas Mangey (154), Bentley (135), Madvig (89), Reiske (85), Markland (85), Casaubon (84) and Meineke (77).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -5200,6 +5200,14 @@ Str. 15.1.35|π. -ῶν|περὶ αὐτοῦ|Adamantios Korais|1817|FP|
 Str. 15.1.36|-α|ἔχουσαν|Wilhelm Xylander|1571|Vat. gr. 2306 + 2061 A (P)|
 Str. 15.1.43|˙ τ. οὖν|˙ ταῖς γοῦν|Meineke|1853|Palat. gr. 398 (X)|
 Str. 15.1.57|ὡς ὅτι|ὅτι|C. G. Groskurd|1833|Vat. gr. 1329 (F)|
+Str. 15.1.60|ὑγρ-|ἀγραύλους|Maximus Planudes|s.xiii/xiv|Vat. gr. 482 (E)|
+Str. 15.1.61|. κ. διδάσκ-|. καρτερίαν δ᾽ ἀσκεῖν|Cobet|1876|Vat. gr. 2306 + 2061 A (P)|Misc.
+Str. 15.1.61|ἔς τ.|εἴς τινα|Adamantios Korais|1817|Vat. gr. 2306 + 2061 A (P)|
+Str. 15.1.62|εἴρηται|ε. δὲ|Adamantios Korais|1817|FP|
+Str. 15.1.66|π. -ήχη|πλατεῖαν τρίπηχυν|Adamantios Korais|1817|Marc. gr. XI 6 (D)|s.l.
+Str. 15.1.68|-όντι|ἀποθανὼν|Adamantios Korais|1817|Vat. gr. 482 (E)|
+Str. 15.1.73|-ληλειμμ-|ἐπαληλιμμένον|Adamantios Korais|1817|Marc. gr. XI 6 (D)|
+Str. 15.2.2|ἡ πλείστ φ.|ἡ πλείστη πλὴν φοινίκων|Thomas Tyrwhitt|1783|Vat. gr. 482 (E)|
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
