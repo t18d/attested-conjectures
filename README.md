@@ -252,7 +252,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Adamantios Korais (159), Thomas Mangey (154), Bentley (135), Casaubon (90), Madvig (89), Reiske (85), Markland (85) and Meineke (80).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (212), Adamantios Korais (165), Thomas Mangey (154), Bentley (135), Casaubon (93), Madvig (89), Reiske (85), Markland (85) and Meineke (80).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -5236,6 +5236,15 @@ Str. 16.2.32|-ους|μῆκος|Casaubon|1620|Vat. gr. 482 (E)|
 Str. 16.2.41|-οὺς|Ἱερικοῦς|C. H. Tzschucke|1811|BCD|
 Str. 16.2.44|ἐκ κλεισσ-|ἐκ λισσάδων|Wilhelm Xylander|1571|Vat. gr. 482 (E)|
 Str. 16.2.44|ζ. κ. δὲ|ζέοντας κατοικίας τε|Adamantios Korais|1817|DE|
+Str. 16.3.2|ν. ἰκάριον|νῆσον Ἴκαρον|Adamantios Korais|1817|Vat. gr. 482 (E)|
+Str. 16.3.7|ἐξωγύρ-|ἐξ ᾽Ωγύρου|Adamantios Korais|1817|Vat. gr. 1329 (F)|
+Str. 16.4.2|πόλις|πόλις δ'|Adamantios Korais|1817|Vat. gr. 482 (E)|
+Str. 16.4.5|ὅρμον|ὅρμον ὃν|Casaubon|1620|Vat. gr. 482 (E)|
+Str. 16.4.5|οὕτως δ. ἀ.|ὄντως δὲ ἀκάθαρτον|Casaubon|1620|Vat. gr. 1329 (F)|
+Str. 16.4.8|τὸ σούχου ἵδρυμα|Τοσούχου ἵ.|Adamantios Korais|1817|Vat. gr. 482 (E)|
+Str. 16.4.8|ἐλεφάντων ὁμώνυμον αὐτῶν|ἐ. ὁ. -ῷ|Adamantios Korais|1817|Paris. gr. 1393 (C)|s.l.
+Str. 16.4.12|-ας|ἐκλειφθεῖσα|Casaubon|1620|Vat. gr. 482 (E)|
+Str. 16.4.14|λοφώδεις ποιοῦντες ὑπορύττοντες|λ. -ος ὑ.|Adamantios Korais|1817|Vat. gr. 482 (E)|
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
