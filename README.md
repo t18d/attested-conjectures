@@ -256,7 +256,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (188), Thomas Mangey (154), Bentley (135), Casaubon (107), Madvig (90), Reiske (85), Meineke (85) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (188), Thomas Mangey (154), Bentley (135), Casaubon (109), Madvig (90), Reiske (85), Meineke (85) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -719,6 +719,9 @@ Ath. 9.408a|τὸ δειναὶ προσλελαληκέναι|τὸ δεῖνα
 Ath. 11.463d|γοῦν|δ ̓ οὖν|P. P. Dobree|1833|C E|
 Ath. 11.485b|τὴν δὴ|τ. δὲ|Johannes Schweighäuser|1801–5|Laur. Plut. 60.01 (B)|
 Ath. 11.490e|οὐρανός τε γῆ|οὐρανοστεγῆ|Benjamin Heath|1798|Marc. 447 (A)|apud Schweighäuser
+Ath. 11.498a|κάλλ-|σκαλλίον|Casaubon|1597|Laur. Plut. 60.01 (B)|σκάλλιον B
+Ath. 11.499c|Δ. ἐ.|Δίφιλος δὲ ἐν|Georg Kaibel|1890|Laur. Plut. 60.01 (B)|
+Ath. 11.506a|-ων|ἐπιγραφομένῳ|Casaubon|1597|Laur. Plut. 60.01 (B)|
 Ath. 14.623a|τέλος μέρος|τέλος|Meineke|1859|C E|
 Ath. 15.694d|ἔτικτε τέκνα Λατώ|ἔ. παῖδα Λ.|Hermann|1816|CE|p. 694
 Auson. 14.21.4|-is|quieta|Ribbeck|1868|Brux. 5330–2|
