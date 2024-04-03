@@ -256,7 +256,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (188), Thomas Mangey (154), Bentley (135), Casaubon (111), Madvig (90), Meineke (87), Reiske (85) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (188), Thomas Mangey (154), Bentley (135), Casaubon (112), Madvig (90), Meineke (87), Reiske (85) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -731,6 +731,7 @@ Ath. 13.594e|εὐφ-|συμφωνίαις|Casaubon|1597|Laur. Plut. 60.01 (B)|
 Ath. 14.623a|τέλος μέρος|τέλος|Meineke|1859|C E|
 Ath. 14.633b|καιγ-|καταγηρασάντων|Casaubon|1597|Laur. Plut. 60.01 (B)|
 Ath. 14.634a|κ. τε|καλεῖσθαι δὲ|Georg Kaibel|1890|C E B|
+Ath. 14.657b|τὰς β.|τοὺς βοῦς|Casaubon|1597|Laur. Plut. 60.01 (B)|
 Ath. 15.694d|ἔτικτε τέκνα Λατώ|ἔ. παῖδα Λ.|Hermann|1816|CE|p. 694
 Auson. 14.21.4|-is|quieta|Ribbeck|1868|Brux. 5330–2|
 Auson. 27.19a.12|-ae|gratiarum|Nicolaus Heinsius|1886|Flor. Bibl. Nat. Conv. Soppr. J. VI. 29 (M)|apud Peiper (Leid. 758. F. 11)
