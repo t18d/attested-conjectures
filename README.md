@@ -717,6 +717,7 @@ Ath. 9.375e|νοθ-|νοτοῦντι|J. C. de Pauw|1745|Marc. 447 (A)|
 Ath. 9.406d|ἄν τις εἴποιμι|ἄ. τι ε.|Casaubon|1597|Dpc B|
 Ath. 9.408a|τὸ δειναὶ προσλελαληκέναι|τὸ δεῖνα π.|Casaubon|1597|Laur. Plut. 60.01 (B)|
 Ath. 11.463d|γοῦν|δ ̓ οὖν|P. P. Dobree|1833|C E|
+Ath. 11.485b|τὴν δὴ|τ. δὲ|Johannes Schweighäuser|1801–5|Laur. Plut. 60.01 (B)|
 Ath. 11.490e|οὐρανός τε γῆ|οὐρανοστεγῆ|Benjamin Heath|1798|Marc. 447 (A)|apud Schweighäuser
 Ath. 14.623a|τέλος μέρος|τέλος|Meineke|1859|C E|
 Ath. 15.694d|ἔτικτε τέκνα Λατώ|ἔ. παῖδα Λ.|Hermann|1816|CE|p. 694
