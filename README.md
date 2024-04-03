@@ -256,7 +256,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (188), Thomas Mangey (154), Bentley (135), Casaubon (103), Madvig (90), Reiske (85), Meineke (85) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (188), Thomas Mangey (154), Bentley (135), Casaubon (105), Madvig (90), Reiske (85), Meineke (85) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -709,8 +709,12 @@ Ath. 4.159d|τῆς ε. ... -ᾳ|τῇ εἰς ... Πραγματείαν|Casaub
 Ath. 4.184a|Μελοποιϊ-|Μελοποιῶν|Jacques Daléchamps|1583|D B Qpc M|
 Ath. 5.201f|-αί|πολλάς|Georg Kaibel|1887|D B|
 Ath. 5.205e|παρὰ|π. δὲ|Casaubon|1597|Laur. Plut. 60.01 (B)|
-Ath. 5.208d|τριῶν τε|τ. δὲ|Johannes Schweighäuser||Laur. Plut. 60.02 (E)|
+Ath. 5.208d|τριῶν τε|τ. δὲ|Johannes Schweighäuser|1801–5|Laur. Plut. 60.02 (E)|a.c.
+Ath. 8.359b|πάντως κρες ἡμῖν ἐστιν|π. κρέα ἡ. ἐ.|Casaubon|1597|Laur. Plut. 60.01 (B)|
+Ath. 9.369d|αλμ-|Δαλματίαν|Jacques Daléchamps|1583|Dmg B|
+Ath. 9.371a|τοῦ ταινας|τευτλίδας|Casaubon|1597|Dsl B.|
 Ath. 9.375e|νοθ-|νοτοῦντι|J. C. de Pauw|1745|Marc. 447 (A)|
+Ath. 9.389d|ἂν ἀπατηθῇ|ἂν ἀντᾴσῃ|||Laur. Plut. 60.01 (B)|
 Ath. 11.490e|οὐρανός τε γῆ|οὐρανοστεγῆ|Benjamin Heath|1798|Marc. 447 (A)|apud Schweighäuser
 Ath. 14.623a|τέλος μέρος|τέλος|Meineke|1859|C E|
 Ath. 15.694d|ἔτικτε τέκνα Λατώ|ἔ. παῖδα Λ.|Hermann|1816|CE|p. 694
