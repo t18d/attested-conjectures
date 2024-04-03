@@ -2765,6 +2765,7 @@ Nep. Thras. 4.1|-inis|oleagineis|Alfred Fleckeisen|1890|Ambros. O 2 sup.|
 Nep. reg. 1.3|generis|gentis|Friedrich Richter|1858|Vat. Barb. lat. 42|Richter on C. W. Nauck
 Non. p. 503|f. omnino|feruit animo|Franz Oehler|1844|Paris. lat. 7667 (P)|ad Varro Men. 498
 Nonn. Dion. 2.565|-εύς|Τυφωεῦ|Petrus Cunaeus|1610|Palat. Heidelb. gr. 85 (P)|
+Nonn. Dion. 3.397|-ας|πίονος|Gerard Falkenburg|1569|Laur. Plut. 32.16 (L)|
 Nonn. Dion. 14.393|ἀκωκήν|κολώνην|Friedrich Graefe|1819|P.Berol. inv. 10567|κορώνην
 Nonn. Dion. 14.398|πολυσταφύλῳ|φιλοσταφύλῳ|Friedrich Graefe|1819|P.Berol. inv. 10567|
 Nonn. Dion. 15.87|οἰνηθέντες|οἰνωθεντες|Friedrich Graefe|1819|P.Berol. inv. 10567|
