@@ -256,7 +256,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (188), Thomas Mangey (154), Bentley (135), Casaubon (96), Madvig (90), Reiske (85), Meineke (85) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (188), Thomas Mangey (154), Bentley (135), Casaubon (98), Madvig (90), Reiske (85), Meineke (85) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -699,9 +699,11 @@ Ascon. Pis. 14|eo etiam quae|eo et antiquae|P. Manutius|1563|Pistor. Fabr. 319 (
 Ascon. tog. cand. 75|-a|Catilinam|P. Manutius|1563|Laur. Plut. 54.5 (M)|
 Ascon. tog. cand. 78|poculo|populo|Poggio|1416|Pistor. Forteg. A. 37 (S)|
 Ascon. tog. cand. 82|nam|natam|Orelli|1833|Laur. Plut. 50.4 (b)|m. rec.
+Ath. 3.116d|π. μνήμης ἠξιωμένης|παροιμίαν μ. -ην|Casaubon|1597|D B Q M|
+Ath. 3.117c|-ῆρος|Κράτητος|Casaubon|1597|B Qmg P|
 Ath. 9.375e|νοθ-|νοτοῦντι|J. C. de Pauw|1745|Marc. 447 (A)|
 Ath. 11.490e|οὐρανός τε γῆ|οὐρανοστεγῆ|Benjamin Heath|1798|Marc. 447 (A)|apud Schweighäuser
-Ath. 14.623a|τέλος μέρος|τέλος|Meineke|1859|CE|
+Ath. 14.623a|τέλος μέρος|τέλος|Meineke|1859|C E|
 Ath. 15.694d|ἔτικτε τέκνα Λατώ|ἔ. παῖδα Λ.|Hermann|1816|CE|p. 694
 Auson. 14.21.4|-is|quieta|Ribbeck|1868|Brux. 5330–2|
 Auson. 27.19a.12|-ae|gratiarum|Nicolaus Heinsius|1886|Flor. Bibl. Nat. Conv. Soppr. J. VI. 29 (M)|apud Peiper (Leid. 758. F. 11)
