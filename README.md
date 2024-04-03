@@ -256,7 +256,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (188), Thomas Mangey (154), Bentley (135), Casaubon (98), Madvig (90), Reiske (85), Meineke (85) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (188), Thomas Mangey (154), Bentley (135), Casaubon (102), Madvig (90), Reiske (85), Meineke (85) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -701,6 +701,11 @@ Ascon. tog. cand. 78|poculo|populo|Poggio|1416|Pistor. Forteg. A. 37 (S)|
 Ascon. tog. cand. 82|nam|natam|Orelli|1833|Laur. Plut. 50.4 (b)|m. rec.
 Ath. 3.116d|π. μνήμης ἠξιωμένης|παροιμίαν μ. -ην|Casaubon|1597|D B Q M|
 Ath. 3.117c|-ῆρος|Κράτητος|Casaubon|1597|B Qmg P|
+Ath. 3.118b|ὡ. α.|ὡς ὁ αὐτός|Casaubon|1597|D B Qsl M|
+Ath. 3.125a|-λειπ-|Ἀπολιπούσῃ|Casaubon|1597|D B|
+Ath. 4.128d|πᾶσιν|παισίν|Casaubon|1597|DBQMP|
+Ath. 4.143a|λύτγι-|Λύττιοι|Cobet||Laur. Plut. 60.01 (B)|
+Ath. 4.159d|τῆς ε. ... -ᾳ|τῇ εἰς ... Πραγματείαν|Casaubon|1597|B Q M|
 Ath. 9.375e|νοθ-|νοτοῦντι|J. C. de Pauw|1745|Marc. 447 (A)|
 Ath. 11.490e|οὐρανός τε γῆ|οὐρανοστεγῆ|Benjamin Heath|1798|Marc. 447 (A)|apud Schweighäuser
 Ath. 14.623a|τέλος μέρος|τέλος|Meineke|1859|C E|
