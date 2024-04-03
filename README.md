@@ -733,6 +733,9 @@ Ath. 14.633b|καιγ-|καταγηρασάντων|Casaubon|1597|Laur. Plut. 60
 Ath. 14.634a|κ. τε|καλεῖσθαι δὲ|Georg Kaibel|1890|C E B|
 Ath. 14.657b|τὰς β.|τοὺς βοῦς|Casaubon|1597|Laur. Plut. 60.01 (B)|
 Ath. 15.694d|ἔτικτε τέκνα Λατώ|ἔ. παῖδα Λ.|Hermann|1816|CE|p. 694
+Ath. Epit. 6.253e|ὥσπερ|ὥσπερ εἰ|Jonathan Toup|1790|Laur. Plut. 60.02 (E)|
+Ath. Epit. 7.280e|ἀλλήλους|-οις|Grotius|1626|Laur. Plut. 60.02 (E)|
+Ath. Epit. 14.655e|τοῦ μέλανος ἔχοντος|τ. μ. -ες|Wilamowitz||Laur. Plut. 60.02 (E)|
 Auson. 14.21.4|-is|quieta|Ribbeck|1868|Brux. 5330–2|
 Auson. 27.19a.12|-ae|gratiarum|Nicolaus Heinsius|1886|Flor. Bibl. Nat. Conv. Soppr. J. VI. 29 (M)|apud Peiper (Leid. 758. F. 11)
 Avian. fab. 6.1|olim-|limoque|I. N. Neveletus|1610|W1|p. 661 ('quod si tibi placet, mihi etiam nunc placet')
