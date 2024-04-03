@@ -151,6 +151,8 @@
         <li>Martialis, M. Valerius, <em>Epigrammaton libri</em>, ed. W. Heraeus and Jacob Borovskij (Leipzig, 1976).</li>
         <li>Nemesianus, <em>Cynegetica</em>, ed. Rainer Jakobi (Berlin, 2014).</li>
         <li>Nepos, Cornelius, <em>Vitae cum fragmentis</em>, ed. Peter K. Marshall (Leipzig, 1985).</li>
+        <li>Nonnos de Panopolis, <em>Les Dionysiaques</em>, i, ed. Francis Vian (Paris, 1976).</li>
+        <li>Nonnos de Panopolis, <em>Les Dionysiaques</em>, ii, ed. Pierre Chuvin (Paris, 1976).</li>
         <li>Oppianus Apameensis, <em>Cynegetica</em>, ed. Manolis Papathomopoulos (Munich, 2003).</li>
         <li>Ovidius Naso, P., <em>Fastorum libri sex</em>, ed. R. Merkel (Berlin, 1841).</li>
         <li>Ovidius Naso, P., <em>Amores, epistulae, medic. fac. fem., ars amat., remedia amoris</em>, ed. R. Ehwald (Leipzig, 1888).</li>
