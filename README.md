@@ -259,7 +259,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (188), Thomas Mangey (154), Bentley (135), Casaubon (112), Madvig (90), Meineke (87), Reiske (85) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (188), Thomas Mangey (154), Bentley (135), Casaubon (112), Madvig (90), Reiske (88), Meineke (87) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3578,6 +3578,10 @@ Plu. 75B|περιθεμένη|περικει̣μ̣ενη|F. C. Babbitt|1927|P.Ox
 Plu. 158D|-ῇ|αὐτῆς|Paul Pétau|1778|E (teste Defradas)|apud Reiske
 Plu. 159 schol.|ὅσοις δὲ/ὅσοι τε κτλ.|ὅσοις τε|Bergk|1841|Gac|
 Plu. 191F|αὐτὸς|αὕτη|Hertlein|n.d.|P.Oxy. LXXVIII 5155|
+Plu. 355F|πανύγροις|παρύγ-|Samuel Squire|1744|vβ2|
+Plu. 460C|κολάζοντας|κ. κολάσαντας δὲ|Reiske|1778|vers. Syr.|
+Plu. 525C|διαπεπραγμένου|-πεπραμ-|Reiske|1778|Gpch|
+Plu. 547D|ὅπου κόλακι καὶ παρασίτῳ|ὅ. καὶ κ. καὶ π.|Reiske|1778|Paris. gr. 1956 (D)|
 Plu. 611D|κατάθεσις|συγκ-|Turnebus|n.d.|PSI XVI 1608|
 Plu. Caes. 45.8|ταιc|αις|Moses Solanus|1729|P.Oxy. LXXXI 5270|
 Plu. Caes. 45.8|τοῖς|del.|Adolph Emperius|s.xix in.|P.Oxy. LXXXI 5270|
