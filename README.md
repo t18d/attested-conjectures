@@ -29,6 +29,7 @@
         <li>Apuleius Platonicus Madaurensis, <em>De philosophia libri</em>, ed. Paul Thomas (Stuttgart, 1970).</li>
         <li>Apuleius Platonicus Madaurensis, <em>De philosophia libri</em>, ed. C. Moreschini (Stuttgart, 1991).</li>
         <li>Aristophanes, <em>Fabulae</em>, ed. N. G. Wilson, 2 vols (Oxford, 2007).</li>
+        <li>Aristote, <em>Du Ciel</em>, ed. Paul Moraux (Paris, 1965).</li>
         <li>Aristote, <em>Topiques</em>, ed. Jacques Brunschwig, 2 vols (Paris, 1967–2007).</li>
         <li>Aristotle, <em>Poetics</em>, ed. Leonardo Tarán and Dimitri Gutas (Leiden, 2012).</li>
         <li>Asconius Pedianus, Q., <em>Orationum Ciceronis quinque enarratio</em>, ed. Albert Curtis Clark (Oxford, 1907).</li>
