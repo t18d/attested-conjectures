@@ -673,8 +673,10 @@ Arist. Po. 1461b8|διαμάρτημα|δι’ ἁμάρτημα|Vincenzo Maggi|
 Arist. Po. 1461b15–16|ὑπεναντία ὡς|ὑπεναντίως|Thomas Twining|1789|Σ|
 Arist. Po. 1461b21| ̓Ο. τοῦ Μ.| ̓Ορέστῃ τῇ τοῦ Μενελάου|Johannes Vahlen|1874|Σ|
 Arist. Po. 1462a3|om.|οἳ|Petrus Victorius|1560|Σ|
+Arist. Top. 121b|ἐπ' ἄ./εἰς ἄ|ὑπ' ἄλληλα|Theodor Waitz|1846|M2|p. 473; 'alterum sub altero' (Pacius)
 Arist. Top. 133a|ἢ οὗ τοὔνομα|ἢ τ.|Giorgio Colli|1955|Vat. gr. 244 (W)|
-Arist. Top. 134b|ἔσται|ἔστι|W. D. Ross|1955|Pierp. Morg. 758 (M)|
+Arist. Top. 134b|ἔσται|ἔστι|W. D. Ross|1955|Pier. Morg. 758 (M)|
+Arist. Top. 148a|ἔτι εἰ τῶν ὁμοίων|ἔ. ε. ἐπὶ τῶν ὁ.|Max Wallies|1923|Marc. App.IV.5 (f)|
 Arist. fr. 57.12 Rose|οὔτε|ουδε|Meineke|1839–57|P.Oxy. IV 666|
 Arist. fr. 842.7 Page|τ᾽ ἀθάνατον/εἰς ἀ.|ἰσαθάνατον|Wilamowitz|n.d.|BKT I 25|Did. in D. col. 6.18 seqq.
 Aristarch.Trag. fr. 3|-νημα|σωφρόνισμα|Meineke|1839–57|Macar.|
