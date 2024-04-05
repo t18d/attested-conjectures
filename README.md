@@ -259,7 +259,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (188), Thomas Mangey (154), Bentley (135), Casaubon (112), Madvig (90), Reiske (89), Meineke (87) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (188), Thomas Mangey (154), Bentley (135), Casaubon (112), Madvig (91), Reiske (89), Meineke (87) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3594,6 +3594,7 @@ Plu. 722B|ἦς τὰ θέρος|ᾖ σταθερός|Niccolò Leonico Tomeo|157
 Plu. 728B|-ε|φαίνεσθαι|Wilhelm Xylander|1574|Tpc|
 Plu. 730B|ληϊβότειρ-|ληιβότειραν|Wilhelm Xylander|1574|Tpc|
 Plu. 734B|-οντες|εἰσφέρουσαι|Niccolò Leonico Tomeo|1572|g (teste Wyttenbach)|apud Stephanum
+Plu. 779F|φαίνεσθ-|φανεῖσθαι|Madvig|1871|Stob. A2|
 Plu. 841D|-κίῳ|Λυκείῳ|Wilhelm Xylander|1574|Paris. 1672 (E)|
 Plu. Caes. 45.8|ταιc|αις|Moses Solanus|1729|P.Oxy. LXXXI 5270|
 Plu. Caes. 45.8|τοῖς|del.|Adolph Emperius|s.xix in.|P.Oxy. LXXXI 5270|
