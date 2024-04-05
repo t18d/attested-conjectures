@@ -3588,6 +3588,9 @@ Plu. 653A|ἰάσασθ-|ἰᾶσθαι|Reiske|1777|Tpc|
 Plu. 659D|δ., ο. -ος|δύναμιν, οὐκ ἄδηλον|Turnebus|1599|Palat. 170 (g)|
 Plu. 661D|κατάθεσις|συγκ-|Turnebus|1599|PSI XVI 1608|
 Plu. 662A|-λειφ-|μυραλοιφίαν|Wilhelm Xylander|1574|Paris. 1672 (E)|
+Plu. 720A|τὸ μὲν … τὸ δὲ|τῷ μὲν … τῷ δ'|Niccolò Leonico Tomeo|1572|Tpc|apud Stephanum
+Plu. 721B|καινῶι|κενῷ|Wilhelm Xylander|1574|Vindob. 148 (T)|m. post.
+Plu. 722B|ἦς τὰ θέρος|ᾖ σταθερός|Niccolò Leonico Tomeo|1572|g (teste Wyttenbach)|apud Stephanum
 Plu. 841D|-κίῳ|Λυκείῳ|Wilhelm Xylander|1574|Paris. 1672 (E)|
 Plu. Caes. 45.8|ταιc|αις|Moses Solanus|1729|P.Oxy. LXXXI 5270|
 Plu. Caes. 45.8|τοῖς|del.|Adolph Emperius|s.xix in.|P.Oxy. LXXXI 5270|
