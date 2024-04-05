@@ -259,7 +259,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (188), Thomas Mangey (154), Bentley (135), Casaubon (112), Madvig (90), Reiske (88), Meineke (87) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (188), Thomas Mangey (154), Bentley (135), Casaubon (112), Madvig (90), Reiske (89), Meineke (87) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3584,7 +3584,10 @@ Plu. 525C|διαπεπραγμένου|-πεπραμ-|Reiske|1778|Gpch|
 Plu. 547D|ὅπου κόλακι καὶ παρασίτῳ|ὅ. καὶ κ. καὶ π.|Reiske|1778|Paris. gr. 1956 (D)|
 Plu. 614B|ἀποερέ-|ἀποβρέγμασι|Wilhelm Xylander|1574|Vindob. 148 (T)|m. post.
 Plu. 644C|κ. ἥκει|κἂν ἥκῃ|Theodor Doehner|1864|g𝔓|p. 81
+Plu. 653A|ἰάσασθ-|ἰᾶσθαι|Reiske|1777|Tpc|
+Plu. 659D|δ., ο. -ος|δύναμιν, οὐκ ἄδηλον|Turnebus|1599|Palat. 170 (g)|
 Plu. 661D|κατάθεσις|συγκ-|Turnebus|1599|PSI XVI 1608|
+Plu. 662A|-λειφ-|μυραλοιφίαν|Wilhelm Xylander|1574|Paris. 1672 (E)|
 Plu. 841D|-κίῳ|Λυκείῳ|Wilhelm Xylander|1574|Paris. 1672 (E)|
 Plu. Caes. 45.8|ταιc|αις|Moses Solanus|1729|P.Oxy. LXXXI 5270|
 Plu. Caes. 45.8|τοῖς|del.|Adolph Emperius|s.xix in.|P.Oxy. LXXXI 5270|
