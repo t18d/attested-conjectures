@@ -3596,6 +3596,7 @@ Plu. 730B|ληϊβότειρ-|ληιβότειραν|Wilhelm Xylander|1574|Tpc|
 Plu. 734B|-οντες|εἰσφέρουσαι|Niccolò Leonico Tomeo|1572|g (teste Wyttenbach)|apud Stephanum
 Plu. 779F|φαίνεσθ-|φανεῖσθαι|Madvig|1871|Stob. A2|
 Plu. 841D|-κίῳ|Λυκείῳ|Wilhelm Xylander|1574|Paris. 1672 (E)|
+Plu. 960D|οὕτως|οὗτος|C.-G. de Méziriac|1797|Palat. 170 (g)|apud Wyttenbach
 Plu. Caes. 45.8|ταιc|αις|Moses Solanus|1729|P.Oxy. LXXXI 5270|
 Plu. Caes. 45.8|τοῖς|del.|Adolph Emperius|s.xix in.|P.Oxy. LXXXI 5270|
 Plu. Comp. Lyc. Num. 3.5|ἀν-|συνερραμμέναι|Henrik van Herwerden|1887|S1|Lucubr. 83
