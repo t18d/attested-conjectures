@@ -3582,14 +3582,15 @@ Plu. 355F|πανύγροις|παρύγ-|Samuel Squire|1744|vβ2|
 Plu. 460C|κολάζοντας|κ. κολάσαντας δὲ|Reiske|1778|vers. Syr.|
 Plu. 525C|διαπεπραγμένου|-πεπραμ-|Reiske|1778|Gpch|
 Plu. 547D|ὅπου κόλακι καὶ παρασίτῳ|ὅ. καὶ κ. καὶ π.|Reiske|1778|Paris. gr. 1956 (D)|
+Plu. 614B|ἀποερέ-|ἀποβρέγμασι|Wilhelm Xylander|1777|Vindob. 148 (T)|apud Reiske; m. post.
 Plu. 644C|κ. ἥκει|κἂν ἥκῃ|Theodor Doehner|1864|g𝔓|p. 81
 Plu. 661D|κατάθεσις|συγκ-|Turnebus|1599|PSI XVI 1608|
 Plu. Caes. 45.8|ταιc|αις|Moses Solanus|1729|P.Oxy. LXXXI 5270|
 Plu. Caes. 45.8|τοῖς|del.|Adolph Emperius|s.xix in.|P.Oxy. LXXXI 5270|
 Plu. Comp. Lyc. Num. 3.5|ἀν-|συνερραμμέναι|Henrik van Herwerden|1887|S1|Lucubr. 83
-Plu. Lyc. 6|-κίῳ|Λυκείῳ|Wilhelm Xylander|1560–70|Paris. 1672 (E)|
+Plu. Lyc. 6|-κίῳ|Λυκείῳ|Wilhelm Xylander||Paris. 1672 (E)|
 Poll. 10.63|κατάχυτλον/-χύτου|-χύτλου|Salmasius|s.xvii in.|Laur. 56.1 (L)|
-Poll. 10.74|δανείζειν|διανίζειν|Henrik van Herwerden|1882|Paris. gr. 2646 (F)|Mnem. 10 (1882) 74
+Poll. 10.74|δανείζειν|διανίζειν|Henrik van Herwerden|1882|Paris. gr. 2646 (F)|Mnem.
 Polyzel. fr. 2|ἔν-|εὔυδρον|Meineke|1839–57|Phot. ε 986|
 Porph. Antr. 8|ἔρχετ᾽|ἔρχεταί τ᾽|Rudolf Hercher|1858|Vat. gr. 325 (V)|
 Priap. 37.9|par|pars|Gonsalius de Salas|1629|cod. Grisselii (G)|p. 207
