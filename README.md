@@ -259,7 +259,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (188), Thomas Mangey (154), Bentley (135), Casaubon (112), Reiske (91), Madvig (91), Meineke (87) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (188), Thomas Mangey (154), Bentley (135), Casaubon (112), Reiske (92), Madvig (91), Meineke (87) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3598,8 +3598,13 @@ Plu. 779F|φαίνεσθ-|φανεῖσθαι|Madvig|1871|Stob. A2|
 Plu. 841D|-κίῳ|Λυκείῳ|Wilhelm Xylander|1574|Paris. 1672 (E)|
 Plu. 957A|ὁ τ. θ.|τῆς θαλάσσης|Wilhelm Xylander|1797|ba (Θ)|apud Wyttenbach
 Plu. 960D|οὕτως|οὗτος|C.-G. de Méziriac|1797|Palat. 170 (g)|apud Wyttenbach
+Plu. 960D|ἀνδρεί-|ἀνανδρ(ε)ίαν|C.-G. de Méziriac|1800|Ambros. 881 (J)|apud Wyttenbach; m. sec.
 Plu. 970F|-ῷ|ταπεινῶν|Reiske|1778|Paris. gr. 1957 (F)|
 Plu. 979D|ἡ τῆς λ. περίδραξις|ἡ τοῦ λίθου π.|Reiske|1778|Athous 268 (Q)|
+Plu. 982C|περὶ|παρὰ|Gregorios Bernardakis|1895|Laur. Plut. 56.4 (i)|
+Plu. 986E|πρὸς ὑμᾶς|πρόθυμος|Reiske|1778|Patav. 560 + Palat. Heidelb. 153 (P)|m. sec.
+Plu. 986F|ἀπ' αὐτῆς|ἀφ' αὑτῆς|Gregorios Bernardakis|1895|Paris. gr. 1675 (B)|
+Plu. 990D|Ἀργαῖον|Ἄργυννον|Paulus Leopardus|1568|Paris. gr. 2955|p. 94; marg.
 Plu. Caes. 45.8|ταιc|αις|Moses Solanus|1729|P.Oxy. LXXXI 5270|
 Plu. Caes. 45.8|τοῖς|del.|Adolph Emperius|1935|P.Oxy. LXXXI 5270|apud Ziegler
 Plu. Comp. Lyc. Num. 3.5|ἀν-|συνερραμμέναι|Henrik van Herwerden|1887|S1|Lucubr. 83
