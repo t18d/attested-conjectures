@@ -3631,6 +3631,7 @@ Plu. 1017B|ὁμοίως|ὅμως|Daniel Wyttenbach|1800|Paris. gr. 1042 (m)|
 Plu. 1018B|ἐφ'|ἀφ'|Wilhelm Xylander|1592|Paris. gr. 1675 (B)|
 Plu. 1022D|σχέσ-|σχίσει|Turnebus|1599|Paris. gr. 1042 (m)|
 Plu. 1023E|-η|λέγειν|Daniel Wyttenbach|1800|Laur. Plut. 70.5 (e)|
+Plu. 1135D|τ. πρῶτον ε.|τῶν πρώτων εὑρόντων|Gregorios Bernardakis|1895|e Reg. sac|
 Plu. Caes. 45.8|ταιc|αις|Moses Solanus|1729|P.Oxy. LXXXI 5270|
 Plu. Caes. 45.8|τοῖς|del.|Adolph Emperius|1935|P.Oxy. LXXXI 5270|apud Ziegler
 Plu. Comp. Lyc. Num. 3.5|ἀν-|συνερραμμέναι|Henrik van Herwerden|1887|S1|Lucubr. p. 83
