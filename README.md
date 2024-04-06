@@ -259,7 +259,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (135), Casaubon (112), Reiske (93), Madvig (92), Meineke (87) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (135), Casaubon (112), Reiske (93), Madvig (93), Meineke (87) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3604,6 +3604,8 @@ Plu. 782A|δὲ ὡς|δέον|Wilhelm Xylander|1574|Vat. gr. 1009 (y)|
 Plu. 782A|δέων|δέω|Madvig|1871|Ambros. 528 (O)|m. sec. i. m.
 Plu. 783C|-ηται|μεταβαλεῖται|Friedrich Dübner|1841|J1y|
 Plu. 785A|διδασκαλίῃ|δ. δὲ|Turnebus|1599|Jy|
+Plu. 787A|ἀ. τ. τ. γ.|γενομένην ἀπὸ τῶν τυχόντων|Daniel Wyttenbach|1797|Vat. gr. 1009 (y)|
+Plu. 787C|διὰ τὸ φλέγ-|διαφλέγεσθαι|Madvig|1871|Vat. gr. 1009 (y)|
 Plu. 841D|-κίῳ|Λυκείῳ|Wilhelm Xylander|1574|Paris. 1672 (E)|
 Plu. 957A|ὁ τ. θ.|τῆς θαλάσσης|Wilhelm Xylander|1797|ba (Θ)|apud Wyttenbach
 Plu. 960D|οὕτως|οὗτος|C.-G. de Méziriac|1797|Palat. 170 (g)|apud Wyttenbach
