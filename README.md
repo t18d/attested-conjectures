@@ -262,7 +262,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (135), Casaubon (112), Reiske (101), Madvig (94), Meineke (87) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (135), Casaubon (112), Reiske (102), Madvig (94), Meineke (87) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3643,6 +3643,8 @@ Plu. 1017B|ὁμοίως|ὅμως|Daniel Wyttenbach|1800|Paris. gr. 1042 (m)|
 Plu. 1018B|ἐφ'|ἀφ'|Wilhelm Xylander|1592|Paris. gr. 1675 (B)|
 Plu. 1022D|σχέσ-|σχίσει|Turnebus|1599|Paris. gr. 1042 (m)|
 Plu. 1023E|-η|λέγειν|Daniel Wyttenbach|1800|Laur. Plut. 70.5 (e)|
+Plu. 1087B|ψυχῆς ἀναπεμπομένης|ψ. -η|Reiske|1778|Paris. gr. 1671 (A)|m. ter.
+Plu. 1088C|οὐκ ἐν|ἐν|Jacques Amyot|1572|Vat. gr. 139 (γ)|a.c.
 Plu. 1135D|τ. πρῶτον ε.|τῶν πρώτων εὑρόντων|Gregorios Bernardakis|1895|e Reg. sac|
 Plu. Caes. 45.8|ταιc|αις|Moses Solanus|1729|P.Oxy. LXXXI 5270|
 Plu. Caes. 45.8|τοῖς|del.|Adolph Emperius|1935|P.Oxy. LXXXI 5270|apud Ziegler
