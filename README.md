@@ -191,6 +191,8 @@
         <li>Plinius Caecilius Secundus, C., <em>Epistularum libri decem</em>, ed. R. A. B. Mynors (Oxford, 1963).</li>
         <li>Pline le Jeune, <em>Lettres</em>, iii, ed. Anne-Marie Guillemin (Paris, 1967).</li>
         <li>Plutarchus, <em>Cimon</em>, ed. Arnold Ekker (Utrecht, 1843).</li>
+        <li>Plutarchus, <em>Moralia</em>, ed. M. Pohlenz, K. Hubert, et al., 7 vols (Leipzig, 1929–78).</li>
+        <li>Plutarchus, <em>Vitae parallelae</em>, ed. Konrat Ziegler and Hans Gärtner, 3 vols (Munich, 1973–2000).</li>
         <li>Polybe, <em>Histoires livres VII–VIII et XI</em>, ed. Raymond Weil (Paris, 1982).</li>
         <li>Polybe, <em>Histoires livre XI</em>, ed. Raymond Weil (Paris, 1990).</li>
         <li>Propertius, Sextus, <em>Elegiarum libri IV</em>, ed. Paolo Fedeli (Munich, 1994).</li>
