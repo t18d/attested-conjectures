@@ -262,7 +262,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (135), Casaubon (112), Reiske (99), Madvig (94), Meineke (87) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (135), Casaubon (112), Reiske (100), Madvig (94), Meineke (87) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3589,6 +3589,10 @@ Plu. 530B|ἐ. δὴ|ἐῶ δὲ|Adolph Emperius|1847|Mazarin. 4458 (R)|a.c.
 Plu. 533E|ἑ. ὁρᾷ|ἑτέρους ὅρα|Madvig|1871|Dpc|'alios circumspice'
 Plu. 547D|ὅπου κόλακι καὶ παρασίτῳ|ὅ. καὶ κ. καὶ π.|Reiske|1777|Paris. gr. 1956 (D)|
 Plu. 547F|τι -άλα|τι μέγα|Reiske|1777|Marc. 511 (Z)|
+Plu. 552D|τι -οῖ|κύοι|W. R. Paton|1929|Escor. X I 13 (ζ)|
+Plu. 560A|ἀνέστρε-|ἐνέτρεψε|Reiske|1777|Laur. Plut. 56.5 (l)|m. sec.
+Plu. 560D|ἄ. τ.|ἄχρι δὲ τοῦ|C.-G. de Méziriac|1828|Vat. gr. 264 (S)|m. pr.
+Plu. 574A|τὰ πρὸς τοῦ Π.|τὰ τοῦ Πλάτωνος|Daniel Wyttenbach|1828|Ambros. E 10 sup. (m)|
 Plu. 614B|ἀποερέ-|ἀποβρέγμασι|Wilhelm Xylander|1574|Vindob. 148 (T)|m. post.
 Plu. 644C|κ. ἥκει|κἂν ἥκῃ|Theodor Doehner|1864|g𝔓|p. 81
 Plu. 653A|ἰάσασθ-|ἰᾶσθαι|Reiske|1777|Tpc|
