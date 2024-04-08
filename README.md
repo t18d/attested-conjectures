@@ -262,7 +262,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (135), Casaubon (112), Reiske (103), Madvig (94), Meineke (87) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (135), Casaubon (112), Reiske (105), Madvig (94), Meineke (87) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3579,6 +3579,8 @@ Plu. 21A|ἦ/ἐῆ/εἴη|ἴῃ|Brunck|1786|Vat. Palat. gr. 178 (p)|
 Plu. 21B|-οῖ|φρονεῖ|Cobet|1877|G1X1vZWCh|Mnem. N.S. 5 (1877) 243
 Plu. 75B|περιθεμένη|περικει̣μ̣ενη|F. C. Babbitt|1927|P.Oxy. LXXVIII 5153|
 Plu. 146D|ἧς ἦν καὶ θυσία|ἧ. ἦ. κ. ἡ θ.|Reiske|1777|Patav. 560 + Palat. Heidelb. 153 (P)|p.c.
+Plu. 147C|ἄ. τε ν.|ἄχρι γε νῦν|Reiske|1757|PQ|p. 177 ('at hoc quidem temporis')
+Plu. 149A|μετὰ τίνας κατακείμεθα|μ. τ. κ. δεῖ ζητεῖ|Reiske|1757|Paris. gr. 1675 (B)|'Reiskes … der auch in dieser Schrift sich als der unvergleichliche zeigt' (Wilamowitz)
 Plu. 158D|-ῇ|αὐτῆς|Paul Pétau|1778|E (teste Defradas)|apud Reiske
 Plu. 159 schol.|ὅσοις δὲ/ὅσοι τε κτλ.|ὅσοις τε|Bergk|1841|Gac|
 Plu. 191F|αὐτὸς|αὕτη|Hertlein|n.d.|P.Oxy. LXXVIII 5155|
