@@ -262,7 +262,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (135), Casaubon (112), Reiske (107), Madvig (94), Meineke (87) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (135), Casaubon (112), Reiske (109), Madvig (94), Meineke (87) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3583,6 +3583,8 @@ Plu. 147C|ἄ. τε ν.|ἄχρι γε νῦν|Reiske|1757|PQ|p. 177 ('at hoc qu
 Plu. 149A|μετὰ τίνας κατακείμεθα|μ. τ. κ. δεῖ ζητεῖ|Reiske|1757|Paris. gr. 1675 (B)|'Reiskes … der auch in dieser Schrift sich als der unvergleichliche zeigt' (Wilamowitz)
 Plu. 149E|χειπὸς˙ Ἐφ' ἃ μὲν Δ.|χειπὸς, ἔφη˙ Ἃ μὲν Δ.|Reiske|1757|PpcQhn2B|
 Plu. 154F|β. μὲν καὶ|β. μὲν γὰρ καὶ|Reiske|1757|JB|
+Plu. 155A|ε. χ. ἁ.|εἶναι χρῆσθαι δ' ἁμάξῃ|Reiske|1757|PQB|'non uti domo, sed uti carrho'
+Plu. 155C|καὶ π. καὶ|παῖδας καὶ|Reiske|1757||
 Plu. 158D|-ῇ|αὐτῆς|Paul Pétau|1778|E (teste Defradas)|apud Reiske
 Plu. 159 schol.|ὅσοις δὲ/ὅσοι τε κτλ.|ὅσοις τε|Bergk|1841|Gac|
 Plu. 191F|αὐτὸς|αὕτη|Hertlein|n.d.|P.Oxy. LXXVIII 5155|
