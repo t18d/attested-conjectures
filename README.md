@@ -2244,7 +2244,7 @@ Eur. fr. 653.4|ἄρα καί|χρῆν|Nauck|1855|P.Oxy. XLV 3214|Obs. 45 sq.
 Eur. fr. 752k.20|οὖϲι(ν)|θύειν|Cobet|s.xix med.|P.Oxy. VI 852|
 Eur. fr. 757.843|-φερον|ἔφερβον|Gilbert Murray|1906|P.Petr. II 49(c)|
 Eur. fr. 820b.4|θεοῦ|θεῶν|Wilamowitz|s.xix/xx|PSI XV 1476|
-Eur. fr. 870|αἷμα|ὄμμα|J. Fr. Boissonade|1826|Phot. z|
+Eur. fr. 870|αἷμα|ὄμμα|J. F. Boissonade|1826|Phot. z|
 Eur. fr. 911.2|ἐρόεντα|πτερ-|Grotius|1626|P.Oxy. IX 1176|Satyr. Vit.Eur.; πτε[...]τα
 Eur. fr. 912.1|χοήν|χλόην|Bergk|1839–41|P.Oxy. IX 1176|ap. Welcker 1602
 Eur. fr. 912.2|φέρων|φέρω|Grotius|1626|P.Oxy. IX 1176|φερ[.]
@@ -3579,8 +3579,10 @@ Plin. nat. 27.136|malagmate|-ta|Jean Hardouin|1685|Flor. Ricc. 488 (R)|
 Plin. nat. 28.117|farct-/fast-|fartum|Jacques Daléchamps|1587|Flor. Ricc. 488 (R)|
 Plin. nat. 31.37|-ia|mesopotamiae|Julius Sillig|1851|E1|
 Plu. 21A|ἦ/ἐῆ/εἴη|ἴῃ|Brunck|1786|Vat. Palat. gr. 178 (p)|
-Plu. 21B|-οῖ|φρονεῖ|Cobet|1877|G1X1vZWCh|Mnem. N.S. 5 (1877) 243
+Plu. 21B|-οῖ|φρονεῖ|Cobet|1877|G1X1vZWCh|Mnem.
 Plu. 75B|περιθεμένη|περικει̣μ̣ενη|F. C. Babbitt|1927|P.Oxy. LXXVIII 5153|
+Plu. 88D|εἴπῃ σε|εἴπῃς|J. F. Boissonade|1872|vers. Syr.|apud Hercher
+Plu. 140B|τὸ|τοῦ|Georgios Hatzidakis|1901|OJ2|
 Plu. 146D|ἧς ἦν καὶ θυσία|ἧ. ἦ. κ. ἡ θ.|Reiske|1777|Patav. 560 + Palat. Heidelb. 153 (P)|p.c.
 Plu. 147C|ἄ. τε ν.|ἄχρι γε νῦν|Reiske|1757|PQ|p. 177 ('at hoc quidem temporis')
 Plu. 149A|μετὰ τίνας κατακείμεθα|μ. τ. κ. δεῖ ζητεῖ|Reiske|1757|Paris. gr. 1675 (B)|'Reiskes … der auch in dieser Schrift sich als der unvergleichliche zeigt' (Wilamowitz)
