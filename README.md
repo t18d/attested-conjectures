@@ -262,7 +262,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (135), Casaubon (112), Reiske (109), Madvig (94), Meineke (87) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (135), Casaubon (112), Reiske (110), Madvig (94), Meineke (87) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3584,7 +3584,8 @@ Plu. 149A|μετὰ τίνας κατακείμεθα|μ. τ. κ. δεῖ ζητ
 Plu. 149E|χειπὸς˙ Ἐφ' ἃ μὲν Δ.|χειπὸς, ἔφη˙ Ἃ μὲν Δ.|Reiske|1757|PpcQhn2B|
 Plu. 154F|β. μὲν καὶ|β. μὲν γὰρ καὶ|Reiske|1757|JB|
 Plu. 155A|ε. χ. ἁ.|εἶναι χρῆσθαι δ' ἁμάξῃ|Reiske|1757|PQB|'non uti domo, sed uti carrho'
-Plu. 155C|καὶ π. καὶ|παῖδας καὶ|Reiske|1757||
+Plu. 155C|καὶ π. καὶ|παῖδας καὶ|Reiske|1757|codd.|
+Plu. 155C|ὑπαρχόντων -ῶν ο.|ὑ. χρηστὸν οἶκον|Reiske|1757|Paris. gr. 1672 (E)|
 Plu. 158D|-ῇ|αὐτῆς|Paul Pétau|1778|E (teste Defradas)|apud Reiske
 Plu. 159 schol.|ὅσοις δὲ/ὅσοι τε κτλ.|ὅσοις τε|Bergk|1841|Gac|
 Plu. 191F|αὐτὸς|αὕτη|Hertlein|n.d.|P.Oxy. LXXVIII 5155|
@@ -3606,7 +3607,7 @@ Plu. 644C|κ. ἥκει|κἂν ἥκῃ|Theodor Doehner|1864|g𝔓|p. 81
 Plu. 653A|ἰάσασθ-|ἰᾶσθαι|Reiske|1777|Tpc|
 Plu. 659D|δ., ο. -ος|δύναμιν, οὐκ ἄδηλον|Turnebus|1599|Palat. 170 (g)|
 Plu. 661D|κατάθεσις|συγκ-|Turnebus|1599|PSI XVI 1608|
-Plu. 662A|-λειφ-|μυραλοιφίαν|Wilhelm Xylander|1574|Paris. 1672 (E)|
+Plu. 662A|-λειφ-|μυραλοιφίαν|Wilhelm Xylander|1574|Paris. gr. 1672 (E)|
 Plu. 720A|τὸ μὲν … τὸ δὲ|τῷ μὲν … τῷ δ'|Niccolò Leonico Tomeo|1572|Tpc|apud Stephanum
 Plu. 721B|καινῶι|κενῷ|Wilhelm Xylander|1574|Vindob. 148 (T)|m. post.
 Plu. 722B|ἦς τὰ θέρος|ᾖ σταθερός|Niccolò Leonico Tomeo|1572|g (teste Wyttenbach)|apud Stephanum
@@ -3631,7 +3632,7 @@ Plu. 806E|ἐξέπτη/γὰρ ἐ.|παρεξέπτη|Gregorios Bernardakis|18
 Plu. 808B|ἀναφέρει|ἀνέφερε|Reiske|1778|ΦJΣ|
 Plu. 829C|μηδέ τ' ὄντος|μηδ' ἔτ' ὄντος|Reiske|1778|Harl. 5612 (h)|
 Plu. 829D|-ας|πλεονεξίαν|Reiske|1778|Xpcz|
-Plu. 841D|-κίῳ|Λυκείῳ|Wilhelm Xylander|1574|Paris. 1672 (E)|
+Plu. 841D|-κίῳ|Λυκείῳ|Wilhelm Xylander|1574|Paris. gr. 1672 (E)|
 Plu. 957A|ὁ τ. θ.|τῆς θαλάσσης|Wilhelm Xylander|1797|ba (Θ)|apud Wyttenbach
 Plu. 960D|οὕτως|οὗτος|C.-G. de Méziriac|1797|Palat. 170 (g)|apud Wyttenbach
 Plu. 960D|ἀνδρεί-|ἀνανδρ(ε)ίαν|C.-G. de Méziriac|1800|Ambros. 881 (J)|apud Wyttenbach; m. sec.
