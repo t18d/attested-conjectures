@@ -267,7 +267,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (135), Reiske (128), Casaubon (112), Madvig (94), Meineke (87) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (135), Reiske (129), Casaubon (112), Madvig (94), Meineke (87) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3625,6 +3625,10 @@ Plu. 446E|στερρό-|ἑτερότητος|Daniel Wyttenbach|1796|G1|
 Plu. 447A|-ες|συνορῶντας|Giannozzo Manetti|1796|O2J1α1A1|apud Wyttenbach
 Plu. 447E|διὰ λ.|λόγων|Gregorios Bernardakis|1891|G1Zpc|
 Plu. 448C|παθῶν|πιθανῶν|Daniel Wyttenbach|1796|Barb. 182 (G)|
+Plu. 450A|λήξ-|δήξεις|Jacques Amyot|1572|Gt2|
+Plu. 450A|λόγ-|ἀλόγῳ|C.-G. de Méziriac|1796|Gt2|apud Wyttenbach
+Plu. 450A|ὑγεί-|ὑγίεια|Gregorios Bernardakis|1891|Barb. 182 (G)|
+Plu. 451B|μαθηματικοῦ|παθητικοῦ μὴ|Reiske|1757|codd.|
 Plu. 460C|κολάζοντας|κ. κολάσαντας δὲ|Reiske|1757|vers. Syr.|
 Plu. 525C|διαπεπραγμένου|-πεπραμ-|Reiske|1757|hi|'divenditi'
 Plu. 529D|-ειν|βλάπτον|Reiske|1757|GslD|
@@ -4932,7 +4936,7 @@ Stob. 3.17.42|τῆς τοιαύτης εἶναι|τῆς μὴ τοιαύτη�
 Stob. 3.29.12|-ον|ἔργου|Meineke|1855|SM|
 Stob. 3.29.34|ὅτι πάντα|ἅπαντα|Meineke|1894|Paris. gr. 3012|apud Hense
 Stob. 3.33.13|-αι|ποιεῖσθε|Meineke|1857|SM|addendum ap. vol. IV
-Stob. 3.33.16|τῶν|τοῖς|Wyttenbach|1800|Vindob. philos. et philol. gr. 67 (S)|
+Stob. 3.33.16|τῶν|τοῖς|Daniel Wyttenbach|1800|Vindob. philos. et philol. gr. 67 (S)|
 Stob. 3.34.2|λέγε|λέγ᾽ εὖ|Valckenaer|1767|Laur. Plut. 8.22 (L)|Diatr. p. 256
 Stob. 3.34.2|-οι|φέρει|Cobet|1878|Laur. Plut. 8.22 (L)|Coll. crit. p. 203
 Stob. 3.40.9|κ. ἄξιός|κἂν ἀξιοῖς|Conrad Gesner|1543|Apc|
@@ -4957,7 +4961,7 @@ Stob. 4.29.11|τέκνων|κενῶν|Conrad Gesner|1543|P.Berol. 5514|
 Stob. 4.31.22|νόμιζ' αὐτὸν|νόμιζε σαυτὸν|Conrad Gesner|1543|Paris. gr. 1984 (A)|
 Stob. 4.31.86|-αις/κακουμένους|καμουμένους|Friedrich Dübner|1855|SM|
 Stob. 4.31.112|κρείττω|κρεῖττον|Meineke|1856|Macar.|
-Stob. 4.36.32|κινή-|κνήσαις|Wyttenbach|1777|Vindob. philos. et philol. gr. 67 (S)|p. 50
+Stob. 4.36.32|κινή-|κνήσαις|Daniel Wyttenbach|1777|Vindob. philos. et philol. gr. 67 (S)|p. 50
 Stob. 4.37.18|-ες|πάντων|Meineke|1856|Orib. Ec. 9.11|
 Stob. 4.39.15|λώϊστον δὲ ζ.|λῷστον δὲ τὸ ζῆν|Johannes Pierson|1759|B (teste Brunck/Gaisford)|
 Stob. 4.50.13|-λάβειν|ἀπολαύειν|Scaliger|1841|Vindob. philos. et philol. gr. 67 (S)|apud Meineke p. 692
