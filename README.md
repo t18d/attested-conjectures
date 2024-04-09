@@ -267,7 +267,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (135), Reiske (131), Casaubon (112), Madvig (94), Meineke (88) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (135), Reiske (132), Casaubon (112), Madvig (94), Meineke (88) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3637,6 +3637,10 @@ Plu. 456B|κᾷθ' ὅπλα|καὶ θὦπλα|Meineke|1867|Paris. gr. 1955 (C
 Plu. 457D|ἡ μὲν|ἡ γὰρ|Reiske|1757|NΔ|
 Plu. 458A|-ῃ|στρατιώτην|Carl Stegmann|1886|codd. praeter NΠ|p. 23
 Plu. 460C|κολάζοντας|κ. κολάσαντας δὲ|Reiske|1757|vers. Syr.|
+Plu. 460E|ἢ πλημμέλειαν|del.|Carl Stegmann|1886|a et Syr.|
+Plu. 465E|παρετ-|παρτίθει|Cobet|1878|Vindob. 129 (W)|p. 527
+Plu. 466B|προσελθ-|προσδιελθών|Reiske|1757|WX|'praeterea enarrans'
+Plu. 466D|μεταποι-|ποιεῖ|Carl Stegmann|1886|Stob.|
 Plu. 525C|διαπεπραγμένου|-πεπραμ-|Reiske|1757|hi|'divenditi'
 Plu. 529D|-ειν|βλάπτον|Reiske|1757|GslD|
 Plu. 530B|ἐ. δὴ|ἐῶ δὲ|Adolph Emperius|1847|Mazarin. 4458 (R)|a.c.
