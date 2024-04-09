@@ -3585,7 +3585,7 @@ Plu. 21B|-οῖ|φρονεῖ|Cobet|1877|G1X1vZWCh|Mnem.
 Plu. 75B|περιθεμένη|περικει̣μ̣ενη|F. C. Babbitt|1927|P.Oxy. LXXVIII 5153|
 Plu. 88D|εἴπῃ σε|εἴπῃς|J. F. Boissonade|1872|vers. Syr.|apud Hercher
 Plu. 140B|τὸ|τοῦ|Georgios Hatzidakis|1901|OJ2|
-Plu. 146D|ἧς ἦν καὶ θυσία|ἧ. ἦ. κ. ἡ θ.|Reiske|1777|Patav. 560 + Palat. Heidelb. 153 (P)|p.c.
+Plu. 146D|ἧς ἦν καὶ θυσία|ἧ. ἦ. κ. ἡ θ.|Reiske|1757|Patav. 560 + Palat. Heidelb. 153 (P)|p.c.
 Plu. 147C|ἄ. τε ν.|ἄχρι γε νῦν|Reiske|1757|PQ|p. 177 ('at hoc quidem temporis')
 Plu. 149A|μετὰ τίνας κατακείμεθα|μ. τ. κ. δεῖ ζητεῖ|Reiske|1757|Paris. gr. 1675 (B)|'Reiskes … der auch in dieser Schrift sich als der unvergleichliche zeigt' (Wilamowitz)
 Plu. 149E|χειπὸς˙ Ἐφ' ἃ μὲν Δ.|χειπὸς, ἔφη˙ Ἃ μὲν Δ.|Reiske|1757|PpcQhn2B|
@@ -3605,7 +3605,7 @@ Plu. 159A|-ὸ|αὐτὸν|Reiske|1757|JOn|
 Plu. 159C|τρυφ-|τροφὴν|Reiske|1757|codd. praeter vαAβγB|
 Plu. 159D|δεῖ|ἀεὶ|Reiske|1757|codd.|
 Plu. 163E|εὐπρ-|εὐτρεπέστατον|Reiske|1757|codd. praeter JΠ|'habillimum, maxime versatile, aptissimum'
-Plu. 191F|αὐτὸς|αὕτη|Hertlein|n.d.|P.Oxy. LXXVIII 5155|
+Plu. 191F|αὐτὸς|αὕτη|Hertlein||P.Oxy. LXXVIII 5155|
 Plu. 323E|προσχ-|προχωροῦσαν|Reiske|1757|ΦZ|
 Plu. 324C|δ. -ο|διὰ τοῦτον|Reiske|1757|Ψ|'redit enim ad τὸν δαίμονα'
 Plu. 325A|τῷ τε γὰρ|τῷ τε|Reiske|1757|codd. praeter kJ2y2ΠεBRehd.|
@@ -3614,20 +3614,20 @@ Plu. 327C|-ροῦσι|νεωτερίζουσι|Reiske|1757|Φ|
 Plu. 329B|-ον|χρώμενος … ἐπιμελούμενος … προσφερόμενος|Reiske|1757|Φα2|
 Plu. 355F|πανύγροις|παρύγ-|Samuel Squire|1744|vβ2|
 Plu. 460C|κολάζοντας|κ. κολάσαντας δὲ|Reiske|1778|vers. Syr.|
-Plu. 525C|διαπεπραγμένου|-πεπραμ-|Reiske|1777|hi|
-Plu. 529D|-ον|βλάπτειν|Reiske|1777|GslD|
+Plu. 525C|διαπεπραγμένου|-πεπραμ-|Reiske|1757|hi|'divenditi'
+Plu. 529D|-ειν|βλάπτον|Reiske|1757|GslD|
 Plu. 530B|ἐ. δὴ|ἐῶ δὲ|Adolph Emperius|1847|Mazarin. 4458 (R)|a.c.
 Plu. 533E|ἑ. ὁρᾷ|ἑτέρους ὅρα|Madvig|1871|Dpc|'alios circumspice'
-Plu. 547D|ὅπου κόλακι καὶ παρασίτῳ|ὅ. καὶ κ. καὶ π.|Reiske|1777|Paris. gr. 1956 (D)|
-Plu. 547F|τι -άλα|τι μέγα|Reiske|1777|Marc. 511 (Z)|
+Plu. 547D|ὅπου κόλακι καὶ παρασίτῳ|ὅ. καὶ κ. καὶ π.|Reiske|1757|Paris. gr. 1956 (D)|
+Plu. 547F|τι -άλα|τι μέγα|Reiske|1757|Marc. 511 (Z)|
 Plu. 552D|τι -οῖ|κύοι|W. R. Paton|1929|Escor. X-I-13 (ζ)|
-Plu. 560A|ἀνέστρε-|ἐνέτρεψε|Reiske|1777|Laur. Plut. 56.5 (l)|m. sec.
+Plu. 560A|ἀνέστρε-|ἐνέτρεψε|Reiske|1757|Laur. Plut. 56.5 (l)|m. sec.
 Plu. 560D|ἄ. τ.|ἄχρι δὲ τοῦ|C.-G. de Méziriac|1828|Vat. gr. 264 (S)|m. pr.
 Plu. 566E|φορᾷ|φθορὰν|Reiske|1777|l2|
 Plu. 574A|τὰ πρὸς τοῦ Π.|τὰ τοῦ Πλάτωνος|Daniel Wyttenbach|1828|Ambros. E 10 sup. (m)|
 Plu. 614B|ἀποερέ-|ἀποβρέγμασι|Wilhelm Xylander|1574|Vindob. 148 (T)|m. post.
 Plu. 644C|κ. ἥκει|κἂν ἥκῃ|Theodor Doehner|1864|g𝔓|p. 81
-Plu. 653A|ἰάσασθ-|ἰᾶσθαι|Reiske|1777|Tpc|
+Plu. 653A|ἰάσασθ-|ἰᾶσθαι|Reiske|1757|Tpc|
 Plu. 659D|δ., ο. -ος|δύναμιν, οὐκ ἄδηλον|Turnebus|1599|Palat. 170 (g)|
 Plu. 661D|κατάθεσις|συγκ-|Turnebus|1599|PSI XVI 1608|
 Plu. 662A|-λειφ-|μυραλοιφίαν|Wilhelm Xylander|1574|Paris. gr. 1672 (E)|
@@ -3639,7 +3639,7 @@ Plu. 730B|ληϊβότειρ-|ληιβότειραν|Wilhelm Xylander|1574|Tpc|
 Plu. 734B|-οντες|εἰσφέρουσαι|Niccolò Leonico Tomeo|1572|g (teste Wyttenbach)|apud Stephanum
 Plu. 777A|-τείας|στρατιᾶς|Adamantios Korais|1824|Vat. gr. 1009 (y)|
 Plu. 777A|κάτ-|βάτων|Daniel Wyttenbach|1797|yΦ|
-Plu. 778C|ἥδιον|ἦν ἥδιον|Reiske|1778|Vat. gr. 1009 (y)|
+Plu. 778C|ἥδιον|ἦν ἥδιον|Reiske|1757|Vat. gr. 1009 (y)|
 Plu. 778D|τῷ π. ε.|τῷ εὖ πάσχειν|G. E. Benseler|1841|Vat. gr. 1009 (y)|p. 508
 Plu. 779A|ὁ τ. κ. τὴν λύραν|ὁ ταύτην κτησάμενος|Henrik van Herwerden|1877|Vat. gr. 1009 (y)|Plu. et Luc. p. 31
 Plu. 779F|φαίνεσθ-|φανεῖσθαι|Madvig|1871|Stob. A2|
@@ -3652,17 +3652,17 @@ Plu. 794D|-ην|ἡττημένων|Daniel Wyttenbach|1830|X1y|
 Plu. 796A|-είας|παιδιὰς|Wilhelm Xylander|1570|Ambros. 881 (J)|m. pr.
 Plu. 798E|-τρέφ-|ἀνατρέπεται|Hadrianus Junius|1830|Rypcβ2|apud Wyttenbach
 Plu. 806E|ἐξέπτη/γὰρ ἐ.|παρεξέπτη|Gregorios Bernardakis|1893|d1zυ2|
-Plu. 808B|ἀναφέρει|ἀνέφερε|Reiske|1778|ΦJΣ|
-Plu. 829C|μηδέ τ' ὄντος|μηδ' ἔτ' ὄντος|Reiske|1778|Harl. 5612 (h)|
-Plu. 829D|-ας|πλεονεξίαν|Reiske|1778|Xpcz|
+Plu. 808B|ἀναφέρει|ἀνέφερε|Reiske|1757|ΦJΣ|
+Plu. 829C|μηδέ τ' ὄντος|μηδ' ἔτ' ὄντος|Reiske|1757|Harl. 5612 (h)|
+Plu. 829D|-ας|πλεονεξίαν|Reiske|1757|Xpcz|
 Plu. 841D|-κίῳ|Λυκείῳ|Wilhelm Xylander|1574|Paris. gr. 1672 (E)|
 Plu. 957A|ὁ τ. θ.|τῆς θαλάσσης|Wilhelm Xylander|1797|ba (Θ)|apud Wyttenbach
 Plu. 960D|οὕτως|οὗτος|C.-G. de Méziriac|1797|Palat. 170 (g)|apud Wyttenbach
 Plu. 960D|ἀνδρεί-|ἀνανδρ(ε)ίαν|C.-G. de Méziriac|1800|Ambros. 881 (J)|apud Wyttenbach; m. sec.
-Plu. 970F|-ῷ|ταπεινῶν|Reiske|1778|Paris. gr. 1957 (F)|
-Plu. 979D|ἡ τῆς λ. περίδραξις|ἡ τοῦ λίθου π.|Reiske|1778|Athous 268 (Q)|
+Plu. 970F|-ῷ|ταπεινῶν|Reiske|1757|Paris. gr. 1957 (F)|
+Plu. 979D|ἡ τῆς λ. περίδραξις|ἡ τοῦ λίθου π.|Reiske|1757|Athous 268 (Q)|
 Plu. 982C|περὶ|παρὰ|Gregorios Bernardakis|1895|Laur. Plut. 56.4 (i)|
-Plu. 986E|πρὸς ὑμᾶς|πρόθυμος|Reiske|1778|Patav. 560 + Palat. Heidelb. 153 (P)|m. sec.
+Plu. 986E|πρὸς ὑμᾶς|πρόθυμος|Reiske|1757|Patav. 560 + Palat. Heidelb. 153 (P)|m. sec.
 Plu. 986F|ἀπ' αὐτῆς|ἀφ' αὑτῆς|Gregorios Bernardakis|1895|Paris. gr. 1675 (B)|
 Plu. 990D|Ἀργαῖον|Ἄργυννον|Paulus Leopardus|1568|Paris. gr. 2955|p. 94; marg.
 Plu. 991B|ἀπ-|ἐπαντλούμενα|Daniel Wyttenbach|1800|Paris. gr. 1957 (F)|
@@ -3674,7 +3674,7 @@ Plu. 1017B|ὁμοίως|ὅμως|Daniel Wyttenbach|1800|Paris. gr. 1042 (m)|
 Plu. 1018B|ἐφ'|ἀφ'|Wilhelm Xylander|1592|Paris. gr. 1675 (B)|
 Plu. 1022D|σχέσ-|σχίσει|Turnebus|1599|Paris. gr. 1042 (m)|
 Plu. 1023E|-η|λέγειν|Daniel Wyttenbach|1800|Laur. Plut. 70.5 (e)|
-Plu. 1087B|ψυχῆς ἀναπεμπομένης|ψ. -η|Reiske|1778|Paris. gr. 1671 (A)|m. ter.
+Plu. 1087B|ψυχῆς ἀναπεμπομένης|ψ. -η|Reiske|1757|Paris. gr. 1671 (A)|m. ter.
 Plu. 1088C|οὐκ ἐν|ἐν|Jacques Amyot|1572|Vat. gr. 139 (γ)|a.c.
 Plu. 1089D|εὐπάθ-|εὐστάθειαν|Wilhelm Xylander|1599|Escor. R-I-5 (K)|
 Plu. 1133B|-ωνα|φιλάμμονα|Georgios Hatzidakis|1901|J s|
