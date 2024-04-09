@@ -2630,7 +2630,7 @@ Lycurg. 140|ἡμ-|ὑμῶν|Hermann Sauppe|1834|Bodl. Auct. T.2.8 (N)|
 Lycurg. 140|πρῶτον|πρώτου|Reiske|1771|Bodl. Auct. T.2.8 (N)|
 Lycurg. 142|-αν|ἔθαψεν|John Taylor|1743|Ambros. A. 99 sup. (P)|
 Lycurg. 143|αὐτὸν τίνων|αὐτὸν˙ τίνων|John Taylor|1743|PMZ|
-Macr. Sat. 2.2.16|vetus-|venustatem|Johannes Meursius|1628|T2Rpc|p. 758
+Macr. Sat. 2.2.16|vetus-|venustatem|Joannes Meursius|1628|T2Rpc|p. 758
 Macr. Sat. 5.19.8|-ΤΡΑΙ|ΚΑΛΥΠΤΑΙ|Valckenaer|1767|TRFA|Diatr. 167C
 Macr. somn. 1.18.3|sibi|tibi|J. C. Zeune|1774|Paris. lat. 16677 (E)|
 Macr. somn. 1.18.8|-is|volubilitati|J. C. Zeune|1774|Bodl. Auct. T II 27 (d)|m. sec.
@@ -3518,21 +3518,21 @@ Pl. Tht. 152b|αἰσθάνεσθαί ἐστιν|αἰσθάνεταί|Gottfrie
 Pl. Tht. 205e|-θόμεθα|πεισόμεθα|Herbert Richards|1911|YW|p. 177 ('if we are to follow')
 Pl. Ti. 60d|-μενῷ|ἀπομονουμένω|C. E. Ch. Schneider|1846|Vindob. 54. suppl. phil. gr. 7 (W)|
 Pl.Com. fr. 30|μόγις/μόσις|μόλις|Ottomar Bachmann|1878|Ar. Αν. 798 schol. Lh|
-Plaut. Bacch. 489|egone illam|e. ut. i.|Pylades|n.d.|Ambros. G 82 sup. (A)|
-Plaut. Bacch. 499|-e|impono|Georgius Merula|n.d.|Ambros. G 82 sup. (A)|
+Plaut. Bacch. 489|egone illam|e. ut. i.|Pylades||Ambros. G 82 sup. (A)|
+Plaut. Bacch. 499|-e|impono|Georgius Merula||Ambros. G 82 sup. (A)|
 Plaut. Bacch. 500|immitiorem|inimiciorem|Denys Lambin|n.d.|Ambros. G 82 sup. (A)|
 Plaut. Bacch. 519 a–c|habet|del.|François Guyet|1658|Ambros. G 82 sup. (A)|
-Plaut. Bacch. 529|-atur|remoretur|Bentley|n.d.|Ambros. G 82 sup. (A)|
+Plaut. Bacch. 529|-atur|remoretur|Bentley||Ambros. G 82 sup. (A)|
 Plaut. Bacch. 535|tollam|cont-|Joachim Camerarius|1552|Ambros. G 82 sup. (A)|
 Plaut. Bacch. 671–2|672, 671|671, 672|Joachim Camerarius|1552|Ambros. G 82 sup. (A)|
-Plaut. Bacch. 952|exemi|me exemi|Pylades|n.d.|Ambros. G 82 sup. (A)|
-Plaut. Bacch. 955|forte|portae|Georgius Merula|n.d.|Ambros. G 82 sup. (A)|
-Plaut. Bacch. 956|-a|nostro|Johannes Meursius|n.d.|Ambros. G 82 sup. (A)|
+Plaut. Bacch. 952|exemi|me exemi|Pylades||Ambros. G 82 sup. (A)|
+Plaut. Bacch. 955|forte|portae|Georgius Merula||Ambros. G 82 sup. (A)|
+Plaut. Bacch. 956|-a|nostro|Joannes Meursius||Ambros. G 82 sup. (A)|
 Plaut. Cas. 854|bella|i belle|Valens Acidalius|1607|Ambros. G 82 sup. (A)|
 Plaut. Epid. 222|ornamenta|ornata|Joachim Camerarius|1552|Ambros. G 82 sup. (A)|
-Plaut. Most. 675|terno|Tranio|Pius II|n.d.|Ambros. G 82 sup. (A)|
+Plaut. Most. 675|terno|Tranio|Pius II||Ambros. G 82 sup. (A)|
 Plaut. Persa 734|bonamuita|bona multa|Denys Lambin|n.d.|Ambros. G 82 sup. (A)|
-Plaut. Poen. 876|mulae|mutae|F. H. Bothe|n.d.|Ambros. G 82 sup. (A)|
+Plaut. Poen. 876|mulae|mutae|F. H. Bothe||Ambros. G 82 sup. (A)|
 Plaut. Poen. 1016|quidem|quid est|Joachim Camerarius|1552|Ambros. G 82 sup. (A)|
 Plaut. Rud. 519|das|eas|Joachim Camerarius|1552|Ambros. G 82 sup. (A)|
 Plaut. Stich. 36|tuum|tu tuum|C. H. Weise|1838|Ambros. G 82 sup. (A)|
