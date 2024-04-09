@@ -266,7 +266,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (135), Reiske (120), Casaubon (112), Madvig (94), Meineke (87) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (135), Reiske (124), Casaubon (112), Madvig (94), Meineke (87) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3605,6 +3605,10 @@ Plu. 159C|τρυφ-|τροφὴν|Reiske|1757|codd. praeter vαAβγB|
 Plu. 159D|δεῖ|ἀεὶ|Reiske|1757|codd.|
 Plu. 163E|εὐπρ-|εὐτρεπέστατον|Reiske|1757|codd. praeter JΠ|'habillimum, maxime versatile, aptissimum'
 Plu. 191F|αὐτὸς|αὕτη|Hertlein|n.d.|P.Oxy. LXXVIII 5155|
+Plu. 323E|προσχ-|προχωροῦσαν|Reiske|1757|ΦZ|
+Plu. 324C|δ. -ο|διὰ τοῦτον|Reiske|1757|Ψ|'redit enim ad τὸν δαίμονα'
+Plu. 325A|τῷ τε γὰρ|τῷ τε|Reiske|1757|codd. praeter kJ2y2ΠεBRehd.|
+Plu. 325D|καὶ τὴν|καὶ τὴν νῦν|Reiske|1757|Pg|
 Plu. 355F|πανύγροις|παρύγ-|Samuel Squire|1744|vβ2|
 Plu. 460C|κολάζοντας|κ. κολάσαντας δὲ|Reiske|1778|vers. Syr.|
 Plu. 525C|διαπεπραγμένου|-πεπραμ-|Reiske|1777|hi|
