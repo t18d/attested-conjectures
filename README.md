@@ -191,6 +191,7 @@
         <li>Plinius Caecilius Secundus, C., <em>Epistularum libri decem</em>, ed. R. A. B. Mynors (Oxford, 1963).</li>
         <li>Pline le Jeune, <em>Lettres</em>, iii, ed. Anne-Marie Guillemin (Paris, 1967).</li>
         <li>Plutarchus, <em>Cimon</em>, ed. Arnold Ekker (Utrecht, 1843).</li>
+        <li>Plutarch, <em>Moralia</em>, ii, ed. Frank Cole Babbitt (Cambridge, 1928).</li>
         <li>Plutarchus, <em>Moralia</em>, ed. M. Pohlenz, K. Hubert, et al., 7 vols (Leipzig, 1929–78).</li>
         <li>Plutarch, <em>Moralia</em>, vii, ed. Phillip H. De Lacy and Benedict Einarson (Cambridge, 1959).</li>
         <li>Plutarch, <em>Moralia</em>, xiv, ed. Benedict Einarson and Phillip H. De Lacy (Cambridge, 1967).</li>
