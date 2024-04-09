@@ -267,7 +267,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (135), Reiske (127), Casaubon (112), Madvig (94), Meineke (87) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (135), Reiske (128), Casaubon (112), Madvig (94), Meineke (87) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3617,7 +3617,11 @@ Plu. 359F|τὸ ... τὸ|τὸν ... τὸν|Reiske|1757|Ricc. 45 (R)|
 Plu. 363F|Σάι|Σάει|Georgios Hatzidakis|1901||
 Plu. 374B|ὃ ἄπιστον|ὁ Ἆπις. τὸν|Wilhelm Xylander|1574|Ambros. 859 (α)|m. sec. in marg.
 Plu. 439B|μ. δ' ἐ.|μυρία ἐστίν|Daniel Wyttenbach|1796|Ambros. 881 (J)|m. pr.
-Plu. 441A|ἐν δὲ διαιρετέοις|ἐ. δ. αἱρ-|Daniel Wyttenbach|1796||
+Plu. 441A|ἐν δὲ διαιρετέοις|ἐ. δ. αἱρ-|Daniel Wyttenbach|1796|Gt2|
+Plu. 445B|ὃ … ὅ|ᾧ … ᾧ|Daniel Wyttenbach|1796|codd. praeter cΠtX2|
+Plu. 446B|-ρει|ὑποσύρεται|Reiske|1757|GJc|
+Plu. 446E|ὑπὸ πληγῆς κυνὸς ἢ γαλῆς|ὑ. π. κύνες ἢ γαλαῖ|Gregorios Bernardakis|1891|Barb. 182 (G)|
+Plu. 446E|στερρό-|ἑτερότητος|Daniel Wyttenbach|1796|G1|
 Plu. 460C|κολάζοντας|κ. κολάσαντας δὲ|Reiske|1757|vers. Syr.|
 Plu. 525C|διαπεπραγμένου|-πεπραμ-|Reiske|1757|hi|'divenditi'
 Plu. 529D|-ειν|βλάπτον|Reiske|1757|GslD|
