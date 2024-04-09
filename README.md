@@ -267,7 +267,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (135), Reiske (133), Casaubon (112), Madvig (94), Meineke (88) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Reiske (135), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3645,6 +3645,11 @@ Plu. 467E|ἐ. ε. μ.|ἐβούλου μᾶλλον εἶναι|G. E. Benseler|
 Plu. 468A|ἀποτεύγματα ἀτυχήματα|ἀ. καὶ ἀ.|Carl Stegmann|1886|Dh|
 Plu. 468D|κ. ἤδη|κακίαν ἧ δεῖ|C.-G. de Méziriac|1796|Δ|apud Wyttenbach
 Plu. 469F|δόξαν ἐ. π. -ην|δ. ἐν πόλει τηλικαύτῃ|Reiske|1757|JMNVΘ|'in urbe tanta'
+Plu. 474B|Θ. τ. Δειν- τ.|Θόωσά τε Δηναίη τε|Bentley|1691|Δ|'ut contraria inter se comparentur'
+Plu. 475A|-ον|ἐκεῖνο|Reiske|1757|Θ|
+Plu. 475E|θ. καὶ π.|θαρραλέους πρὸς|Madvig|1871|Δ|p. 642
+Plu. 477A|τῶν ἄ.|τῶνδ᾽ ἄλλος|Otto Schneider|1873|Teles|
+Plu. 483C|ἑτέρων ἑτέρως|ἑταίρ- ἑ.|Reiske|1757|GpcCpcJK|
 Plu. 525C|διαπεπραγμένου|-πεπραμ-|Reiske|1757|hi|'divenditi'
 Plu. 529D|-ειν|βλάπτον|Reiske|1757|GslD|
 Plu. 530B|ἐ. δὴ|ἐῶ δὲ|Adolph Emperius|1847|Mazarin. 4458 (R)|a.c.
