@@ -267,7 +267,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (135), Reiske (129), Casaubon (112), Madvig (94), Meineke (87) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (135), Reiske (130), Casaubon (112), Madvig (94), Meineke (87) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3629,6 +3629,10 @@ Plu. 450A|λήξ-|δήξεις|Jacques Amyot|1572|Gt2|
 Plu. 450A|λόγ-|ἀλόγῳ|C.-G. de Méziriac|1796|Gt2|apud Wyttenbach
 Plu. 450A|ὑγεί-|ὑγίεια|Gregorios Bernardakis|1891|Barb. 182 (G)|
 Plu. 451B|μαθηματικοῦ|παθητικοῦ μὴ|Reiske|1757|codd.|
+Plu. 451F|νικῶν/οἶκον|ἠθικὸν|Joachim Camerarius|1796|Barb. 182 (G)|apud Wyttenbach
+Plu. 452A|-ῶντι|οἰδοῦντι|Gregorios Bernardakis|1891|J1cO2|
+Plu. 455E|τὴν -αν|τῆς ἰατρείας|Reiske|1757|GJ1KX3|
+Plu. 456A|σχολὴν|σχέδην|Willem Canter|1571|GS2|
 Plu. 460C|κολάζοντας|κ. κολάσαντας δὲ|Reiske|1757|vers. Syr.|
 Plu. 525C|διαπεπραγμένου|-πεπραμ-|Reiske|1757|hi|'divenditi'
 Plu. 529D|-ειν|βλάπτον|Reiske|1757|GslD|
