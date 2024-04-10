@@ -2841,6 +2841,8 @@ Opp. C. 4.322|δε-|λεξάμενοι|J. G. Schneider|1776|Vindob. phil. gr. 13
 Orac. Sib. 516–517|516, 517|517, 516|Geffcken|n.d.|P.Flor. 398|
 Orph. A. 271|ὑποτρόπι/ὑπὸ τρόπιϊ|ὑπὸ τρόπιν|Hermann|1805|Escor. Σ-III-3 (E)|
 Orph. A. 308|τοι|δὴ|J. H. Voß|1805|Estensis gr. 39 (T)|
+Orph. A. 845|-ειν|ἀποφθίσει|Hermann|1805|Paris. gr. 2763 (P)|
+Orph. A. 1245|γὰρ ἐδεύετο/δ' ἐδ-|δ' ἐπεδ-|Rudolf Keydell|1911|Placent. Bibl. Comm. 10 (c)|p. 64
 Ov. Ib. 133(41)|eva-|vanescere|Nicolaus Heinsius|1661|Bodl. Auct. F. 4. 24 (O2)|
 Ov. Ib. 627|age-/habe-|alebat|Housman|1905|Neap. CCLX (N)|m. pr.
 Ov. Pont. 1.1.63|manifest-|mansuetior|Bentley|1905|Hafn. Gl. Kgl. S.2013 4ᵗᵒ (ka)|
