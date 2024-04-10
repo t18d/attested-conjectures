@@ -173,6 +173,7 @@
         <li>Petronius Arbiter, <em>Satirarum reliquiae</em>, ed. Franz Bücheler (Berlin, 1862).</li>
         <li>Philo Alexandrinus, <em>Opera quae supersunt</em>, ed. Paul Wendland, Leopold Cohn and Siegfried Reiter, 6 vols (Berlin, 1896–1915).</li>
         <li>Photius, <em>Patriarchae lexicon</em>, ed. Christos Theodoridis, 3 vols (Berlin, 1982–2013).</li>
+        <li>Places, Édouard des (ed.), <em>Oracles chaldaïques avec un choix de commentaires anciens</em> (Paris, 1971).</li>
         <li>Plato, <em>Opera</em>, iii, ed. John Burnet (Oxford, 1903).</li>
         <li>Platon, <em>Théétète</em>, ed. Auguste Diès (Paris, 1924).</li>
         <li>Platon, <em>Le Sophiste</em>, ed. Auguste Diès (Paris, 1925).</li>
