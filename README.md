@@ -456,6 +456,12 @@ Anaximen. Rh. 2.3|περιττῶς|τριττῶς|Bekker|1831|P.Hib. I 26|
 Anaximen. Rh. 4.1|-λωμεν|διέλθωμεν|Leonhard Spengel|1844|P.Hib. I 26|
 Anaximen. Rh. 4.3|νόμος|ὁ ν.|Leonhard Spengel|1844|P.Hib. I 26|
 Anaximen. Rh. 4.4|ἴσασι/εἰδῶσι|τιμῶσι|Leonhard Spengel|1844|P.Hib. I 26|
+And. 1.89|δοκιμάσαντες|-ας|Henri Estienne|1575|Lond. Burn. 95 (A)|
+And. 1.96|Αἰαντίς|ἐάν τις|Henri Estienne|1575|Lond. Burn. 95 (A)|
+And. 1.105|εἰ χ.|ἢ χρή|Henri Estienne|1575|Lond. Burn. 95 (A)|
+And. 1.111|προστά-|προσάξειν|Henri Estienne|1575|Lond. Burn. 95 (A)|
+And. 1.116|δὴ ν.|δὲ νόμον|Henri Estienne|1575|Lond. Burn. 95 (A)|
+And. 1.116|-ας|Ἀνδοκίδης|Henri Estienne|1575|Lond. Burn. 95 (A)|
 Antig. Mir. 50|-αι|ποιοῦντα|J. N. Niclas|1791|Palat. gr. 398|apud Beckmann
 Antig. Mir. 152|-νίθων|ὀρνέων|F. J. Bast|1809|Anon.Vat. c. 14|p. 95
 Ap. Rhod. 1.74|ἦεν κτλ.|ᾖεν|Arthur Platt|1914–9|Palat. gr. 186 (V)|
