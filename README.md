@@ -267,7 +267,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Reiske (140), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Reiske (141), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3662,6 +3662,10 @@ Plu. 500C|ἄφ-|ἄσφυκτον|Salmasius||cod. unus|
 Plu. 501B|ἐπὶ|ἐπεὶ|Wilhelm Xylander|1592|X2S|II p. 659
 Plu. 511D|εἴποι|ἐπίοι|Carl Stegmann|1886|Barb. 182 (G)|
 Plu. 512B|προδρ-|προσδραμόντα|Reiske|1757|ΓS|
+Plu. 512F|ἐξαίρεσθ-|ἐξερᾶσθαι|Adolph Emperius|1847|Barb. 182 (G)|
+Plu. 514B|τῷ σ.|τὸ σιωπῆσαι|Adolph Emperius|1847|LCGΔS|
+Plu. 514E|-οντα|πιέζον|Reiske|1757|Barb. 182 (G)|'ut ad βάρος redeat'
+Plu. 519A|νῦν π.|πολυπραγμονῶν νῦν|Adolph Emperius|1847|XυJK|
 Plu. 525C|διαπεπραγμένου|-πεπραμ-|Reiske|1757|hi|'divenditi'
 Plu. 529D|-ειν|βλάπτον|Reiske|1757|GslD|
 Plu. 530B|ἐ. δὴ|ἐῶ δὲ|Adolph Emperius|1847|Mazarin. 4458 (R)|a.c.
