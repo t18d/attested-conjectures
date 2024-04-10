@@ -456,6 +456,8 @@ Anaximen. Rh. 2.3|περιττῶς|τριττῶς|Bekker|1831|P.Hib. I 26|
 Anaximen. Rh. 4.1|-λωμεν|διέλθωμεν|Leonhard Spengel|1844|P.Hib. I 26|
 Anaximen. Rh. 4.3|νόμος|ὁ ν.|Leonhard Spengel|1844|P.Hib. I 26|
 Anaximen. Rh. 4.4|ἴσασι/εἰδῶσι|τιμῶσι|Leonhard Spengel|1844|P.Hib. I 26|
+And. 1.81|ἐπειδὴ|ἐπειδὴ δ ̓|Muretus|1804|Lond. Burn. 95 (A)|apud Sluiter
+And. 1.86|ἄνω γεγρ.|ἀναγεγραμμένους|Muretus|1804|Lond. Burn. 95 (A)|apud Sluiter
 And. 1.89|δοκιμάσαντες|-ας|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 1.96|ἐάν τις|Αἰαντίς|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 1.105|ἢ χρή|εἰ χ.|Henri Estienne|1575|Lond. Burn. 95 (A)|
@@ -463,6 +465,7 @@ And. 1.111|προστά-|προσάξειν|Henri Estienne|1575|Lond. Burn. 95 (
 And. 1.116|δὴ ν.|δὲ νόμον|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 1.116|-ας|Ἀνδοκίδης|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 1.120|-ῃ|ταύτην|Henri Estienne|1575|Lond. Burn. 95 (A)|
+And. 1.126|ε. ὑ.|εἶναί οἱ ὑὸν|Muretus|1804|Lond. Burn. 95 (A)|apud Sluiter
 And. 1.141|-ες|ἀναμνησθέντας|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 2.5|ἐ. τὸ ε.|ἐπὶ τῷ εὖ|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 3.15|ο. γ. π.|οἶμαι γὰρ ἂν πάντας|Henri Estienne|1575|Lond. Burn. 95 (A)|
