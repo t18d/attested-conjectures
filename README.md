@@ -250,6 +250,7 @@
         <li>Vergilius Maro, P., <em>Opera</em>, ed. Mario Geymonat (Rome, 2008).</li>
         <li>Vergilius Maro, P., <em>Aeneis</em>, ed. Gian Biagio Conte (Berlin, 2009).</li>
         <li>Vergilius Maro, P., <em>Bucolica Georgica</em>, ed. Silvia Ottaviano and Gian Biagio Conte (Berlin, 2013).</li>
+        <li>Vian, Francis (ed.), <em>Les Argonautiques orphiques</em> (Paris, 1987).</li>
         <li>West, M. L. (ed.), <em>Iambi et elegi Graeci ante Alexandrum cantati</em>, 2 vols (Oxford, 1998).</li>
         <li>West, Martin L. (ed.), <em>Aeschyli tragoediae cum incerti poetae Prometheo</em> (Stuttgart, 1998).</li>
         <li>Wilamowitz-Möllendorff, U. v., 'Zu Plutarchs Gastmahl der Sieben Weisen', <em>Hermes</em>, 25 (1890), 208.</li>
