@@ -194,6 +194,7 @@
         <li>Plutarch, <em>Moralia</em>, ii, ed. Frank Cole Babbitt (Cambridge, 1928).</li>
         <li>Plutarchus, <em>Moralia</em>, ed. M. Pohlenz, K. Hubert, et al., 7 vols (Leipzig, 1929–78).</li>
         <li>Plutarch, <em>Moralia</em>, iv–v, ed. Frank Cole Babbitt (Cambridge, 1936).</li>
+        <li>Plutarch, <em>Moralia</em>, vi, ed. W. C. Helmbold (Cambridge, 1939).</li>
         <li>Plutarch, <em>Moralia</em>, vii, ed. Phillip H. De Lacy and Benedict Einarson (Cambridge, 1959).</li>
         <li>Plutarch, <em>Moralia</em>, xiv, ed. Benedict Einarson and Phillip H. De Lacy (Cambridge, 1967).</li>
         <li>Plutarchus, <em>Vitae parallelae</em>, ed. Konrat Ziegler and Hans Gärtner, 3 vols (Munich, 1973–2000).</li>
