@@ -457,11 +457,19 @@ Anaximen. Rh. 4.1|-λωμεν|διέλθωμεν|Leonhard Spengel|1844|P.Hib. I 
 Anaximen. Rh. 4.3|νόμος|ὁ ν.|Leonhard Spengel|1844|P.Hib. I 26|
 Anaximen. Rh. 4.4|ἴσασι/εἰδῶσι|τιμῶσι|Leonhard Spengel|1844|P.Hib. I 26|
 And. 1.89|δοκιμάσαντες|-ας|Henri Estienne|1575|Lond. Burn. 95 (A)|
-And. 1.96|Αἰαντίς|ἐάν τις|Henri Estienne|1575|Lond. Burn. 95 (A)|
-And. 1.105|εἰ χ.|ἢ χρή|Henri Estienne|1575|Lond. Burn. 95 (A)|
+And. 1.96|ἐάν τις|Αἰαντίς|Henri Estienne|1575|Lond. Burn. 95 (A)|
+And. 1.105|ἢ χρή|εἰ χ.|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 1.111|προστά-|προσάξειν|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 1.116|δὴ ν.|δὲ νόμον|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 1.116|-ας|Ἀνδοκίδης|Henri Estienne|1575|Lond. Burn. 95 (A)|
+And. 1.120|-ῃ|ταύτην|Henri Estienne|1575|Lond. Burn. 95 (A)|
+And. 1.141|-ες|ἀναμνησθέντας|Henri Estienne|1575|Lond. Burn. 95 (A)|
+And. 2.5|ἐ. τὸ ε.|ἐπὶ τῷ εὖ|Henri Estienne|1575|Lond. Burn. 95 (A)|
+And. 3.15|ο. γ. π.|οἶμαι γὰρ ἂν πάντας|Henri Estienne|1575|Lond. Burn. 95 (A)|
+And. 4.2|δὲ καὶ|μὲν καὶ|Henri Estienne|1575|Lond. Burn. 95 (A)|
+And. 4.10|βιότη-|βιαιότητος|Henri Estienne|1575|Lond. Burn. 95 (A)|
+And. 4.17|ἀπ-|ἐπηνάγκασε|Henri Estienne|1575|Lond. Burn. 95 (A)|
+And. 4.33|Κόνω-|Κίμωνα|Henri Estienne|1575|Lond. Burn. 95 (A)|
 Antig. Mir. 50|-αι|ποιοῦντα|J. N. Niclas|1791|Palat. gr. 398|apud Beckmann
 Antig. Mir. 152|-νίθων|ὀρνέων|F. J. Bast|1809|Anon.Vat. c. 14|p. 95
 Ap. Rhod. 1.74|ἦεν κτλ.|ᾖεν|Arthur Platt|1914–9|Palat. gr. 186 (V)|
