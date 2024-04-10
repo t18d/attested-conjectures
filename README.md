@@ -267,7 +267,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Reiske (135), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Reiske (139), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3653,6 +3653,11 @@ Plu. 483C|ἑτέρων ἑτέρως|ἑταίρ- ἑ.|Reiske|1757|GpcCpcJK|
 Plu. 483E|-λλ-|ὑπερβαλόμενοι|Edward Capps|1939|LC1|apud Helmbold
 Plu. 483E|-ὴν|τιμῇ|Herbert Richards|1915|Barb. 182 (G)|CR ('by the price')
 Plu. 483E|ἀποδεδωκ-|ἀπολωλεκότες|Cobet|1858|C2|p. 195 ('miror neminem vidisse emendandum esse')
+Plu. 484D|τ. ἀ. … -ου|τοῖς ἀδελφοῖς … ἐκείνων|Henrik van Herwerden|1909|Θ|Mnem.
+Plu. 486A|-τερον|ῥωμαλεώτατον|Reiske|1757|GΘ|
+Plu. 486E|φαίη τις|φ. τ. ἂν|Reiske|1757|Barb. 182 (G)|
+Plu. 490E|-ήλους|ἄλλους|Reiske|1757|Δ|
+Plu. 500C|-ῇ|αὐτῆς|Reiske|1757|Barb. 182 (G)|
 Plu. 525C|διαπεπραγμένου|-πεπραμ-|Reiske|1757|hi|'divenditi'
 Plu. 529D|-ειν|βλάπτον|Reiske|1757|GslD|
 Plu. 530B|ἐ. δὴ|ἐῶ δὲ|Adolph Emperius|1847|Mazarin. 4458 (R)|a.c.
