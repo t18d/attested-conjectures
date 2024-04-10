@@ -267,7 +267,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Reiske (139), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Reiske (140), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3658,6 +3658,10 @@ Plu. 486A|-τερον|ῥωμαλεώτατον|Reiske|1757|GΘ|
 Plu. 486E|φαίη τις|φ. τ. ἂν|Reiske|1757|Barb. 182 (G)|
 Plu. 490E|-ήλους|ἄλλους|Reiske|1757|Δ|
 Plu. 500C|-ῇ|αὐτῆς|Reiske|1757|Barb. 182 (G)|
+Plu. 500C|ἄφ-|ἄσφυκτον|Salmasius||cod. unus|
+Plu. 501B|ἐπὶ|ἐπεὶ|Wilhelm Xylander|1592|X2S|II p. 659
+Plu. 511D|εἴποι|ἐπίοι|Carl Stegmann|1886|Barb. 182 (G)|
+Plu. 512B|προδρ-|προσδραμόντα|Reiske|1757|ΓS|
 Plu. 525C|διαπεπραγμένου|-πεπραμ-|Reiske|1757|hi|'divenditi'
 Plu. 529D|-ειν|βλάπτον|Reiske|1757|GslD|
 Plu. 530B|ἐ. δὴ|ἐῶ δὲ|Adolph Emperius|1847|Mazarin. 4458 (R)|a.c.
@@ -3720,7 +3724,7 @@ Plu. 1022D|σχέσ-|σχίσει|Turnebus|1599|Paris. gr. 1042 (m)|
 Plu. 1023E|-η|λέγειν|Daniel Wyttenbach|1800|Laur. Plut. 70.5 (e)|
 Plu. 1087B|ψυχῆς ἀναπεμπομένης|ψ. -η|Reiske|1757|Paris. gr. 1671 (A)|m. ter.
 Plu. 1088C|οὐκ ἐν|ἐν|Jacques Amyot|1572|Vat. gr. 139 (γ)|a.c.
-Plu. 1089D|εὐπάθ-|εὐστάθειαν|Wilhelm Xylander|1599|Escor. R-I-5 (K)|
+Plu. 1089D|εὐπάθ-|εὐστάθειαν|Wilhelm Xylander|1592|Escor. R-I-5 (K)|II p. 618
 Plu. 1133B|-ωνα|φιλάμμονα|Georgios Hatzidakis|1901|J s|
 Plu. 1135D|τ. πρῶτον ε.|τῶν πρώτων εὑρόντων|Gregorios Bernardakis|1895|e Reg. sac|
 Plu. Caes. 45.8|ταιc|αις|Moses Solanus|1729|P.Oxy. LXXXI 5270|
