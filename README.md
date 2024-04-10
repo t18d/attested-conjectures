@@ -268,7 +268,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Reiske (141), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Reiske (143), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3711,6 +3711,7 @@ Plu. 808B|ἀναφέρει|ἀνέφερε|Reiske|1757|ΦJΣ|
 Plu. 829C|μηδέ τ' ὄντος|μηδ' ἔτ' ὄντος|Reiske|1757|Harl. 5612 (h)|
 Plu. 829D|-ας|πλεονεξίαν|Reiske|1757|Xpcz|
 Plu. 841D|-κίῳ|Λυκείῳ|Wilhelm Xylander|1574|Paris. gr. 1672 (E)|
+Plu. 956D|βλέπ-|βλίττομεν|Daniel Wyttenbach|1797|G4|
 Plu. 957A|ὁ τ. θ.|τῆς θαλάσσης|Wilhelm Xylander|1797|ba (Θ)|apud Wyttenbach
 Plu. 960D|οὕτως|οὗτος|C.-G. de Méziriac|1797|Palat. 170 (g)|apud Wyttenbach
 Plu. 960D|ἀνδρεί-|ἀνανδρ(ε)ίαν|C.-G. de Méziriac|1800|Ambros. 881 (J)|apud Wyttenbach; m. sec.
@@ -3719,6 +3720,8 @@ Plu. 979D|ἡ τῆς λ. περίδραξις|ἡ τοῦ λίθου π.|Reiske
 Plu. 982C|περὶ|παρὰ|Gregorios Bernardakis|1895|Laur. Plut. 56.4 (i)|
 Plu. 986E|πρὸς ὑμᾶς|πρόθυμος|Reiske|1757|Patav. 560 + Palat. Heidelb. 153 (P)|m. sec.
 Plu. 986F|ἀπ' αὐτῆς|ἀφ' αὑτῆς|Gregorios Bernardakis|1895|Paris. gr. 1675 (B)|
+Plu. 989D|κτημάτων ἄ.|κτῆμα τῶν ἄλλων|Reiske|1757|codd. praeter P1k2ΠZυ|
+Plu. 989E|-ας|τρρείαις|Reiske|1757|codd. praeter QJΠZBihk|
 Plu. 990D|Ἀργαῖον|Ἄργυννον|Paulus Leopardus|1568|Paris. gr. 2955|p. 94; marg.
 Plu. 991B|ἀπ-|ἐπαντλούμενα|Daniel Wyttenbach|1800|Paris. gr. 1957 (F)|
 Plu. 996E|ἐκτέμν-|ἐκτεμόντας|Henrik van Herwerden|1877|Palat. 170 (g)|Plu. et Luc. p. 38
