@@ -2487,7 +2487,7 @@ Iuv. 3.46|-unt|norint|Markland|1717–28|recc.|
 Iuv. 3.105|-um|aliena|Markland|1717–28|PRV|
 Iuv. 3.144|-es|iuret|Adrien de Valois|1810|Leid. bibl. publ. 82 (L)|apud Achaintre
 Iuv. 3.157|-i|nitidus|Markland|1717–28|Lond. mus. Brit. Reg. 15 B XVIII|
-Iuv. 3.168|-auit|negabit|Markland|1717–28|Mus. Brit. Burn. 93|
+Iuv. 3.168|-auit|negabit|Markland|1717–28|Lond. Burn. 93|
 Iuv. 3.168|-auit|negabis|Adrien de Valois|1810|PRVΣ|apud Achaintre
 Iuv. 3.193|colimus|inc-|Markland|1717–28|schol. Luc. 7.404|
 Iuv. 3.211|-it|iuvabat|Markland|1717–28|R G2|
