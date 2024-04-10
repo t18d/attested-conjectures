@@ -306,7 +306,7 @@ Aesch. T 56b.2|καταθ-|καθέϲειϲ|Casaubon|1600|Marc. gr. 468 (V)|Anim
 Aesch. fr. 191.2|μέγα πῇ δ'|μέγαν ἠδ᾽|Isaac Vossius|1629|Anon. B|
 Aesch. fr. 300.3|-δεῖ/-δων|κυλίνδει|Salmasius|1629 (?)|Anon. C|
 Aesch. fr. 300.7|ἀγγέ-|ἀντέλλει|Grotius|1626|Anon. C et Tz.|
-Aeschin. 1.16|ὧ|οὗ|Samuel Petit|s.xvii in.|Vat. gr. 64 (V)|
+Aeschin. 1.16|ὧ|οὗ|John Taylor|1771|Vat. gr. 64 (V)|apud Reiske ('nihil restat supplendum cum Petito et Heraldo')
 Aeschin. 1.16|om.|δ'|P. P. Dobree|s.xviii/xix|Vat. gr. 64 (V)|
 Aeschin. 1.35|ὅτι|del.|Brunck|n.d.|Barb. gr. 159 (B)|
 Aeschin. 1.40|Τιμάρχου|τῷ Τ.|Blass|1896|P.Oxy. LX 4029|
@@ -459,6 +459,7 @@ Anaximen. Rh. 4.4|ἴσασι/εἰδῶσι|τιμῶσι|Leonhard Spengel|1844
 And. 1.81|ἐπειδὴ|ἐπειδὴ δ ̓|Muretus|1804|Lond. Burn. 95 (A)|apud Sluiter
 And. 1.86|ἄνω γεγρ.|ἀναγεγραμμένους|Muretus|1804|Lond. Burn. 95 (A)|apud Sluiter
 And. 1.89|δοκιμάσαντες|-ας|Henri Estienne|1575|Lond. Burn. 95 (A)|
+And. 1.91|-ο π.|ἄλλῳ πείσομαι|Samuel Petit|1741|Lond. Burn. 95 (A)|p. 29
 And. 1.96|ἐάν τις|Αἰαντίς|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 1.105|ἢ χρή|εἰ χ.|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 1.111|προστά-|προσάξειν|Henri Estienne|1575|Lond. Burn. 95 (A)|
@@ -473,6 +474,7 @@ And. 4.2|δὲ καὶ|μὲν καὶ|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 4.10|βιότη-|βιαιότητος|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 4.17|ἀπ-|ἐπηνάγκασε|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 4.33|Κόνω-|Κίμωνα|Henri Estienne|1575|Lond. Burn. 95 (A)|
+And. 4.42|ἐν ἀν.|εὐανδρίᾳ|Joannes Meursius|1617|Lond. Burn. 95 (A)|p. 260
 Antig. Mir. 50|-αι|ποιοῦντα|J. N. Niclas|1791|Palat. gr. 398|apud Beckmann
 Antig. Mir. 152|-νίθων|ὀρνέων|F. J. Bast|1809|Anon.Vat. c. 14|p. 95
 Ap. Rhod. 1.74|ἦεν κτλ.|ᾖεν|Arthur Platt|1914–9|Palat. gr. 186 (V)|
