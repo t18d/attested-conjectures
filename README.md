@@ -271,7 +271,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Reiske (149), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Reiske (152), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -474,8 +474,12 @@ And. 1.120|-ῃ|ταύτην|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 1.125|ἦ. μὲν ε.|ἦν μὴ εἶναι|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.126|ε. ὑ.|εἶναί οἱ ὑὸν|Muretus|1804|Lond. Burn. 95 (A)|apud Sluiter
 And. 1.141|-ες|ἀναμνησθέντας|Henri Estienne|1575|Lond. Burn. 95 (A)|
+And. 2.5|ἡ-|ὑμῖν|Valckenaer|1804|Lond. Burn. 95 (A)|apud Sluiter
+And. 2.5|τῷ πρώτῳ τούτῳ εἰπόντι|τ. π. τοῦτο ε.|Reiske|1771|Lond. Burn. 95 (A)|
 And. 2.5|ἐ. τὸ ε.|ἐπὶ τῷ εὖ|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 2.6|εὐδαιμο-|εὐγνωμονέστεροι|Didier Hérauld|†1650|Lond. Burn. 95 (A)|jurisconsulte
+And. 2.7|αὐτὸ μ.|αὐτὸν μὲν|Reiske|1771|Lond. Burn. 95 (A)|'subaudi ἐμὲ'
+And. 2.8|πᾶν ἰαθῆναι|παυθῆναι|Reiske|1771|Lond. Burn. 95 (A)|
 And. 3.15|ο. γ. π.|οἶμαι γὰρ ἂν πάντας|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 4.2|δὲ καὶ|μὲν καὶ|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 4.10|βιότη-|βιαιότητος|Henri Estienne|1575|Lond. Burn. 95 (A)|
