@@ -271,7 +271,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (228), Nicolaus Heinsius (213), Adamantios Korais (189), Reiske (155), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Adamantios Korais (189), Reiske (163), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -459,9 +459,18 @@ Anaximen. Rh. 4.4|ἴσασι/εἰδῶσι|τιμῶσι|Leonhard Spengel|1844
 And. 1.1|κ. ὑ. γε|καὶ ὑμῖν τε|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.5|α. ἐ.|αὐτοὶ οἱ ἐχθροὶ|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.7|-ῶντες|ψευδομαρτυριῶν|Reiske|1771|Lond. Burn. 95 (A)|
+And. 1.9|ο. -ει|οὕτως ἔχειν|Reiske|1771|Lond. Burn. 95 (A)|
+And. 1.19|ἀ. -ῶν|ἀπογράψας αὐτὸν|Scaliger|1771|Lond. Burn. 95 (A)|apud Reiske
+And. 1.19|καὶ καταλαμβανόμενος|κ. λαμ.|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.23|οὐδὲ νῦν τοῖς|οὐδὲν αὐτοῖς|Reiske|1771|Lond. Burn. 95 (A)|
+And. 1.30|γὰρ ε.|γ ̓ ἂν εἴη|Reiske|1771|Lond. Burn. 95 (A)|
+And. 1.34|ἐ. ο.|ἐπειδὴ δὲ οὗτοι|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.40|-ει|καταλαμβάνειν|Reiske|1771|Lond. Burn. 95 (A)|
+And. 1.47|ἔγρ-|ἀπέγραψεν|Reiske|1771|Lond. Burn. 95 (A)|
+And. 1.56|σωθέντι μοι δοκεῖν|σ. μὴ δ.|Reiske|1771|Lond. Burn. 95 (A)|
+And. 1.56|σωθέντι μοι δοκεῖν|σ. μὴ δ.|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.61|ὑμῶν|ἡμῶν|Reiske|1771|Lond. Burn. 95 (A)|
+And. 1.61|ὃ μονὴν|ὅ μοι ἦν|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.65|Ἀμίαν τοῦτον ἐξ|Ἀμίαντον τὸν ἐξ|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.81|ἐπειδὴ|ἐπειδὴ δ ̓|Muretus|1804|Lond. Burn. 95 (A)|apud Sluiter
 And. 1.86|ἄνω γεγρ.|ἀναγεγραμμένους|Muretus|1804|Lond. Burn. 95 (A)|apud Sluiter
