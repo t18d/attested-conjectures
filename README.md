@@ -271,7 +271,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Adamantios Korais (189), Reiske (179), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Adamantios Korais (189), Reiske (187), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -510,7 +510,15 @@ And. 2.7|αὐτὸ μ. ἀφέντ-|αὐτὸν μὲν ἀφεθέντα|Reis
 And. 2.8|-ησεν|ἐπεφόβησθε|Reiske|1771|Lond. Burn. 95 (A)|'sec. plur. plusquamperf. passivi, ita timebatis vosmet ipsos mutuo'
 And. 2.8|πᾶν ἰαθῆναι|παυθῆναι|Reiske|1771|Lond. Burn. 95 (A)|
 And. 2.11|ἢ -ον|ἢ ὅσου|Reiske|1771|Lond. Burn. 95 (A)|
+And. 2.12|μὴ δι' α.|μηδ' αὐτοὺς|Reiske|1771|Lond. Burn. 95 (A)|'ne ipsos quidem'; μηδὲ A
+And. 2.14|οἱ τ. ἐ.|τὰ ἐναντία|Reiske|1771|Lond. Burn. 95 (A)|
+And. 3.6|τί δαί|τί δέ|Reiske|1771|Lond. Burn. 95 (A)|
+And. 3.12|γ. τεί.|γέγραπται τὰ τείχη|Reiske|1771|Lond. Burn. 95 (A)|
 And. 3.13|ο. γ. π.|οἶμαι γὰρ ἂν πάντας|Henri Estienne|1575|Lond. Burn. 95 (A)|
+And. 3.14|-γῆσαι|ναυπηγεῖσθαι|Reiske|1771|Lond. Burn. 95 (A)|
+And. 3.17|ν. δ ̓ αὕτως|νῦν δ ̓ αὐτοῖς|Reiske|1771|Lond. Burn. 95 (A)|
+And. 3.18|κ. ὑ. ἡ.|καὶ οὐχ ὑφ ̓ ἡμῶν|Reiske|1771|Lond. Burn. 95 (A)|'neque remittunt ista a nobis coacti'
+And. 3.23|-οις|εὑρομένους|Reiske|1771|Lond. Burn. 95 (A)|
 And. 4.2|δὲ καὶ|μὲν καὶ|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 4.10|βιότη-|βιαιότητος|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 4.17|ἀπ-|ἐπηνάγκασε|Henri Estienne|1575|Lond. Burn. 95 (A)|
