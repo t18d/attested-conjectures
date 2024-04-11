@@ -271,7 +271,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Adamantios Korais (189), Reiske (163), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Adamantios Korais (189), Reiske (165), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -470,7 +470,9 @@ And. 1.47|ἔγρ-|ἀπέγραψεν|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.56|σωθέντι μοι δοκεῖν|σ. μὴ δ.|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.56|σωθέντι μοι δοκεῖν|σ. μὴ δ.|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.61|ὑμῶν|ἡμῶν|Reiske|1771|Lond. Burn. 95 (A)|
-And. 1.61|ὃ μονὴν|ὅ μοι ἦν|Reiske|1771|Lond. Burn. 95 (A)|
+And. 1.61|ὃ μονὴν|ὅ μοι ἦν|Reiske|1771|Lond. Burn. 95 (A)|'qui mihi erat'
+And. 1.62|ὡς ἥκοιμι|ὡς ἔχοιμι|Reiske|1771|Lond. Burn. 95 (A)|
+And. 1.62|π. π.|παρὰ τὴν πατρῴαν|Reiske|1773|Lond. Burn. 95 (A)|
 And. 1.65|Ἀμίαν τοῦτον ἐξ|Ἀμίαντον τὸν ἐξ|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.81|ἐπειδὴ|ἐπειδὴ δ ̓|Muretus|1804|Lond. Burn. 95 (A)|apud Sluiter
 And. 1.86|ἄνω γεγρ.|ἀναγεγραμμένους|Muretus|1804|Lond. Burn. 95 (A)|apud Sluiter
