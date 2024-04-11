@@ -271,7 +271,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Adamantios Korais (189), Reiske (172), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Adamantios Korais (189), Reiske (176), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -496,7 +496,11 @@ And. 1.120|-ῃ|ταύτην|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 1.122|Ἐπεχάρην|Ἐπιχάρη|Valckenaer|1804|Lond. Burn. 95 (A)|apud Sluiter
 And. 1.125|ἦ. μὲν ε.|ἦν μὴ εἶναι|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.126|ε. ὑ.|εἶναί οἱ ὑὸν|Muretus|1804|Lond. Burn. 95 (A)|apud Sluiter
+And. 1.133|-ον π.|ὀλίγου πραθείσης|Reiske|1771|Lond. Burn. 95 (A)|'scil. ἀργυρίου'
+And. 1.134|ἀπελάσας καὶ τούτους καὶ|ἀ. δὲ τ. κ.|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.141|-ες|ἀναμνησθέντας|Henri Estienne|1575|Lond. Burn. 95 (A)|
+And. 1.144|ἔτι εἰδότα μὲν|ἔ. δ' ε. μ.|Reiske|1771|Lond. Burn. 95 (A)|δὲ A
+And. 1.146|τ. αὖ ὄ.|τότ ̓ ἦν ὄνειδος|Reiske|1771|Lond. Burn. 95 (A)|
 And. 2.5|ἡ-|ὑμῖν|Valckenaer|1804|Lond. Burn. 95 (A)|apud Sluiter
 And. 2.5|τῷ πρώτῳ τούτῳ εἰπόντι|τ. π. τοῦτο ε.|Reiske|1771|Lond. Burn. 95 (A)|
 And. 2.5|ἐ. τὸ ε.|ἐπὶ τῷ εὖ|Henri Estienne|1575|Lond. Burn. 95 (A)|
