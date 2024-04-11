@@ -271,7 +271,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Adamantios Korais (189), Reiske (187), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Reiske (190), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -519,6 +519,9 @@ And. 3.14|-γῆσαι|ναυπηγεῖσθαι|Reiske|1771|Lond. Burn. 95 (A)|
 And. 3.17|ν. δ ̓ αὕτως|νῦν δ ̓ αὐτοῖς|Reiske|1771|Lond. Burn. 95 (A)|
 And. 3.18|κ. ὑ. ἡ.|καὶ οὐχ ὑφ ̓ ἡμῶν|Reiske|1771|Lond. Burn. 95 (A)|'neque remittunt ista a nobis coacti'
 And. 3.23|-οις|εὑρομένους|Reiske|1771|Lond. Burn. 95 (A)|
+And. 3.26|καὶ φασί τινες, ἂν|ναί, φασί τινες, ἂν|Reiske|1773|Lond. Burn. 95 (A)|'nae'
+And. 3.27|συνοικοῦντ-|συννικῶντας|Reiske|1771|Lond. Burn. 95 (A)|
+And. 3.30|-ώμεθα|βουλοίμεθα|Reiske|1771|Lond. Burn. 95 (A)|
 And. 4.2|δὲ καὶ|μὲν καὶ|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 4.10|βιότη-|βιαιότητος|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 4.17|ἀπ-|ἐπηνάγκασε|Henri Estienne|1575|Lond. Burn. 95 (A)|
