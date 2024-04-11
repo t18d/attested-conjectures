@@ -468,7 +468,7 @@ And. 1.34|ἐ. ο.|ἐπειδὴ δὲ οὗτοι|Reiske|1771|Lond. Burn. 95 (
 And. 1.40|-ει|καταλαμβάνειν|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.47|ἔγρ-|ἀπέγραψεν|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.56|σωθέντι μοι δοκεῖν|σ. μὴ δ.|Reiske|1771|Lond. Burn. 95 (A)|
-And. 1.56|σωθέντι μοι δοκεῖν|σ. μὴ δ.|Reiske|1771|Lond. Burn. 95 (A)|
+And. 1.56|ἀ. ο. μὴν κ.|ἀλλ ̓ οὐ μετὰ κακίας|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.61|ὑμῶν|ἡμῶν|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.61|ὃ μονὴν|ὅ μοι ἦν|Reiske|1771|Lond. Burn. 95 (A)|'qui mihi erat'
 And. 1.62|ὡς ἥκοιμι|ὡς ἔχοιμι|Reiske|1771|Lond. Burn. 95 (A)|
