@@ -496,7 +496,7 @@ And. 2.5|ἐ. τὸ ε.|ἐπὶ τῷ εὖ|Henri Estienne|1575|Lond. Burn. 95 
 And. 2.6|εὐδαιμο-|εὐγνωμονέστεροι|Didier Hérauld|†1650|Lond. Burn. 95 (A)|jurisconsulte
 And. 2.7|αὐτὸ μ.|αὐτὸν μὲν|Reiske|1771|Lond. Burn. 95 (A)|'subaudi ἐμὲ'
 And. 2.8|πᾶν ἰαθῆναι|παυθῆναι|Reiske|1771|Lond. Burn. 95 (A)|
-And. 3.15|ο. γ. π.|οἶμαι γὰρ ἂν πάντας|Henri Estienne|1575|Lond. Burn. 95 (A)|
+And. 3.13|ο. γ. π.|οἶμαι γὰρ ἂν πάντας|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 4.2|δὲ καὶ|μὲν καὶ|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 4.10|βιότη-|βιαιότητος|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 4.17|ἀπ-|ἐπηνάγκασε|Henri Estienne|1575|Lond. Burn. 95 (A)|
