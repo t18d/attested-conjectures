@@ -271,7 +271,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Reiske (195), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Reiske (196), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -517,19 +517,23 @@ And. 2.11|ἢ -ον|ἢ ὅσου|Reiske|1771|Lond. Burn. 95 (A)|
 And. 2.12|μὴ δι' α.|μηδ' αὐτοὺς|Reiske|1771|Lond. Burn. 95 (A)|'ne ipsos quidem'; μηδὲ A
 And. 2.14|οἱ τ. ἐ.|τὰ ἐναντία|Reiske|1771|Lond. Burn. 95 (A)|
 And. 2.17|-ᾷν|δαπάνης|J. O. Sluiter|1804|Lond. Burn. 95 (A)|
+And. 3.6|εὑρέ-|ᾑρέθησαν|Henri Estienne|1575|Ambros. D 42 sup. (Q)|
 And. 3.6|τί δαί|τί δέ|Reiske|1771|Lond. Burn. 95 (A)|
 And. 3.10|ἄλλο ὅ τι|ἄ. τ.|J. O. Sluiter|1804|Lond. Burn. 95 (A)|
-And. 3.12|γ. τεί.|γέγραπται τὰ τείχη|Reiske|1771|Lond. Burn. 95 (A)|
+And. 3.12|ἐ. μ. γέγ. τεί.|ἐκεῖ μὲν γὰρ γέγραπται τὰ τείχη|Reiske|1771|Lond. Burn. 95 (A)|
 And. 3.13|ο. γ. π.|οἶμαι γὰρ ἂν πάντας|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 3.14|-γῆσαι|ναυπηγεῖσθαι|Reiske|1771|Lond. Burn. 95 (A)|
+And. 3.15|μ. δοκεῖ|μοι δοκοῦμεν|Reiske|1771|Ambros. D 42 sup. (Q)|
 And. 3.17|ν. δ ̓ αὕτως|νῦν δ ̓ αὐτοῖς|Reiske|1771|Lond. Burn. 95 (A)|
 And. 3.18|κ. ὑ. ἡ.|καὶ οὐχ ὑφ ̓ ἡμῶν|Reiske|1771|Lond. Burn. 95 (A)|'neque remittunt ista a nobis coacti'
 And. 3.23|-οις|εὑρομένους|Reiske|1771|Lond. Burn. 95 (A)|
 And. 3.26|καὶ φασί τινες, ἂν|ναί, φασί τινες, ἂν|Reiske|1773|Lond. Burn. 95 (A)|'nae'
 And. 3.27|συνοικοῦντ-|συννικῶντας|Reiske|1771|Lond. Burn. 95 (A)|
 And. 3.30|-ώμεθα|βουλοίμεθα|Reiske|1771|Lond. Burn. 95 (A)|
+And. 3.41|-εσθαι|ποιήσασθαι|Henri Estienne|1575|Ambros. D 42 sup. (Q)|
 And. 4.2|δὲ καὶ|μὲν καὶ|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 4.6|ῥᾴδιον δὲ ἐντεῦθεν|ῥ. δὲ καὶ ἐ.|Reiske|1771|Lond. Burn. 95 (A)|
+And. 4.7|-ωμεν|ποιήσαιμεν|Muretus|1804|Lond. Burn. 95 (A)|apud Sluiter
 And. 4.10|βιότη-|βιαιότητος|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 4.12|ε. -ῆσθε|εἴπερ ἡγεῖσθε|Reiske|1771|Lond. Burn. 95 (A)|
 And. 4.14|ὑπ-|ἐπεδείξατο|Reiske|1771|Lond. Burn. 95 (A)|
