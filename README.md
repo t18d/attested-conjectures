@@ -271,7 +271,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Reiske (194), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Reiske (195), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -464,6 +464,7 @@ And. 1.19|ἀ. -ῶν|ἀπογράψας αὐτὸν|Scaliger|1771|Lond. Burn.
 And. 1.19|καὶ καταλαμβανόμενος|κ. λαμ.|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.23|οὐδὲ νῦν τοῖς|οὐδὲν αὐτοῖς|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.30|γὰρ ε.|γ ̓ ἂν εἴη|Reiske|1771|Lond. Burn. 95 (A)|
+And. 1.33|ἀπολογεῖσθ-|ἀπολελογῆσθαι|J. O. Sluiter|1804|Lond. Burn. 95 (A)|
 And. 1.34|ἐ. ο.|ἐπειδὴ δὲ οὗτοι|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.40|-ει|καταλαμβάνειν|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.47|ἔγρ-|ἀπέγραψεν|Reiske|1771|Lond. Burn. 95 (A)|
@@ -486,6 +487,7 @@ And. 1.96|ἐάν τις|Αἰαντίς|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 1.101|ἀπὸ τ. τ.|ὑπὸ τῶν τριάκοντα|Valckenaer|1804|Lond. Burn. 95 (A)|apud Sluiter
 And. 1.105|ἢ χρὴ|εἰ χ.|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 1.105|ε. -οὺς|εἰ αὐτοῖς|Reiske|1771|Lond. Burn. 95 (A)|
+And. 1.107|-ας|προτάξαντες|J. O. Sluiter|1804|Lond. Burn. 95 (A)|
 And. 1.111|προστά-|προσάξειν|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 1.113|μὲν τὼ|με τὼ|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.116|δὴ ν.|δὲ νόμον|Henri Estienne|1575|Lond. Burn. 95 (A)|
@@ -512,7 +514,9 @@ And. 2.8|πᾶν ἰαθῆναι|παυθῆναι|Reiske|1771|Lond. Burn. 95 (
 And. 2.11|ἢ -ον|ἢ ὅσου|Reiske|1771|Lond. Burn. 95 (A)|
 And. 2.12|μὴ δι' α.|μηδ' αὐτοὺς|Reiske|1771|Lond. Burn. 95 (A)|'ne ipsos quidem'; μηδὲ A
 And. 2.14|οἱ τ. ἐ.|τὰ ἐναντία|Reiske|1771|Lond. Burn. 95 (A)|
+And. 2.17|-ᾷν|δαπάνης|J. O. Sluiter|1804|Lond. Burn. 95 (A)|
 And. 3.6|τί δαί|τί δέ|Reiske|1771|Lond. Burn. 95 (A)|
+And. 3.10|ἄλλο ὅ τι|ἄ. τ.|J. O. Sluiter|1804|Lond. Burn. 95 (A)|
 And. 3.12|γ. τεί.|γέγραπται τὰ τείχη|Reiske|1771|Lond. Burn. 95 (A)|
 And. 3.13|ο. γ. π.|οἶμαι γὰρ ἂν πάντας|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 3.14|-γῆσαι|ναυπηγεῖσθαι|Reiske|1771|Lond. Burn. 95 (A)|
@@ -530,7 +534,9 @@ And. 4.14|ὑπ-|ἐπεδείξατο|Reiske|1771|Lond. Burn. 95 (A)|
 And. 4.17|ἀπ-|ἐπηνάγκασε|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 4.18|-βούλ-|συμβόλοις|Reiske|1771|Lond. Burn. 95 (A)|
 And. 4.27|τοὺς μὲν -μένους|τ. μ. ἀφαιρούμενος|Henri Estienne|1575|Lond. Burn. 95 (A)|
+And. 4.30|-αν|προσέταξε(ν)|J. O. Sluiter|1804|Lond. Burn. 95 (A)|
 And. 4.33|Κόνω-|Κίμωνα|Henri Estienne|1575|Lond. Burn. 95 (A)|
+And. 4.35|οὐδὲν|οὐδένα|Reiske|1771|Lond. Burn. 95 (A)|
 And. 4.42|ἐν ἀν.|εὐανδρίᾳ|Joannes Meursius|1617|Lond. Burn. 95 (A)|p. 260
 Antig. Mir. 50|-αι|ποιοῦντα|J. N. Niclas|1791|Palat. gr. 398|apud Beckmann
 Antig. Mir. 152|-νίθων|ὀρνέων|F. J. Bast|1809|Anon.Vat. c. 14|p. 95
