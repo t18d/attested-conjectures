@@ -271,7 +271,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Reiske (196), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Reiske (198), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -500,6 +500,7 @@ And. 1.120|-ῃ|ταύτην|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 1.122|Ἐπεχάρην|Ἐπιχάρη|Valckenaer|1804|Lond. Burn. 95 (A)|apud Sluiter
 And. 1.125|ἦ. μὲν ε.|ἦν μὴ εἶναι|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.126|ε. ὑ.|εἶναί οἱ ὑὸν|Muretus|1804|Lond. Burn. 95 (A)|apud Sluiter
+And. 1.128|τ. -ίῳ|τῷ παιδὶ|P. P. Dobree|1820|Lond. Burn. 95 (A)|apud Dobson p. lix
 And. 1.133|-ον π.|ὀλίγου πραθείσης|Reiske|1771|Lond. Burn. 95 (A)|'scil. ἀργυρίου'
 And. 1.134|ἀπελάσας καὶ τούτους καὶ|ἀ. δὲ τ. κ.|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.141|-ες|ἀναμνησθέντας|Henri Estienne|1575|Lond. Burn. 95 (A)|
@@ -531,10 +532,12 @@ And. 3.26|καὶ φασί τινες, ἂν|ναί, φασί τινες, ἂν|
 And. 3.27|συνοικοῦντ-|συννικῶντας|Reiske|1771|Lond. Burn. 95 (A)|
 And. 3.30|-ώμεθα|βουλοίμεθα|Reiske|1771|Lond. Burn. 95 (A)|
 And. 3.41|-εσθαι|ποιήσασθαι|Henri Estienne|1575|Ambros. D 42 sup. (Q)|
+And. 3.41|δι' ὑ-|δι ̓ ἡμᾶς|Reiske|1771|Ambros. D 42 sup. (Q)|
 And. 4.2|δὲ καὶ|μὲν καὶ|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 4.6|ῥᾴδιον δὲ ἐντεῦθεν|ῥ. δὲ καὶ ἐ.|Reiske|1771|Lond. Burn. 95 (A)|
 And. 4.7|-ωμεν|ποιήσαιμεν|Muretus|1804|Lond. Burn. 95 (A)|apud Sluiter
 And. 4.10|βιότη-|βιαιότητος|Henri Estienne|1575|Lond. Burn. 95 (A)|
+And. 4.11|διπλάσει-|διπλασιάσειεν|Reiske|1771|QL|Muretus?
 And. 4.12|ε. -ῆσθε|εἴπερ ἡγεῖσθε|Reiske|1771|Lond. Burn. 95 (A)|
 And. 4.14|ὑπ-|ἐπεδείξατο|Reiske|1771|Lond. Burn. 95 (A)|
 And. 4.17|ἀπ-|ἐπηνάγκασε|Henri Estienne|1575|Lond. Burn. 95 (A)|
