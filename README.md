@@ -535,17 +535,19 @@ And. 3.26|ο. ὑ-|οὖν ἡμῶν|J. G. Baiter|1839–43|codd.|
 And. 3.27|συνοικοῦντ-|συννικῶντας|Reiske|1771|Lond. Burn. 95 (A)|
 And. 3.29|τοῦ βασιλέως|τῷ β.|Bekker|1822|Ambros. D 42 sup. (Q)|
 And. 3.30|-ώμεθα|βουλοίμεθα|Reiske|1771|Lond. Burn. 95 (A)|
+And. 3.32|τ. δ. σ. Ἀ.|τὴν δὲ συμμαχίαν τὴν Ἀργείων|Blass|1871|Ambros. D 42 sup. (Q)|
 And. 3.41|-εσθαι|ποιήσασθαι|Henri Estienne|1575|Ambros. D 42 sup. (Q)|
 And. 3.41|δι' ὑ-|δι ̓ ἡμᾶς|Reiske|1771|Ambros. D 42 sup. (Q)|
 And. 4.2|δὲ καὶ|μὲν καὶ|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 4.6|ῥᾴδιον δὲ ἐντεῦθεν|ῥ. δὲ καὶ ἐ.|Reiske|1771|Lond. Burn. 95 (A)|
 And. 4.7|-ωμεν|ποιήσαιμεν|Muretus|1804|Lond. Burn. 95 (A)|apud Sluiter
 And. 4.10|βιότη-|βιαιότητος|Henri Estienne|1575|Lond. Burn. 95 (A)|
-And. 4.11|διπλάσει-|διπλασιάσειεν|Reiske|1771|QL|Muretus?
+And. 4.11|διπλάσει-|διπλασιάσειεν|Reiske|1771|Ambros. D 42 sup. (Q)|Muretus?
 And. 4.12|ε. -ῆσθε|εἴπερ ἡγεῖσθε|Reiske|1771|Lond. Burn. 95 (A)|
 And. 4.14|ὑπ-|ἐπεδείξατο|Reiske|1771|Lond. Burn. 95 (A)|
 And. 4.17|ἀπ-|ἐπηνάγκασε|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 4.18|-βούλ-|συμβόλοις|Reiske|1771|Lond. Burn. 95 (A)|
+And. 4.21|τ. μ.|μὲν τοσαῦτα|Blass|1871|Ambros. D 42 sup. (Q)|
 And. 4.27|τοὺς μὲν -μένους|τ. μ. ἀφαιρούμενος|Henri Estienne|1575|Lond. Burn. 95 (A)|
 And. 4.30|-αν|προσέταξε(ν)|J. O. Sluiter|1804|Lond. Burn. 95 (A)|
 And. 4.33|Κόνω-|Κίμωνα|Henri Estienne|1575|Lond. Burn. 95 (A)|
