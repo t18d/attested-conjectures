@@ -466,6 +466,8 @@ And. 1.23|οὐδὲ νῦν τοῖς|οὐδὲν αὐτοῖς|Reiske|1771|L
 And. 1.30|γὰρ ε.|γ ̓ ἂν εἴη|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.33|ἀπολογεῖσθ-|ἀπολελογῆσθαι|J. O. Sluiter|1804|Lond. Burn. 95 (A)|
 And. 1.34|ἐ. ο.|ἐπειδὴ δὲ οὗτοι|Reiske|1771|Lond. Burn. 95 (A)|
+And. 1.36|ἔτι ζη-|ἐπιζητεῖν|P. P. Dobree|1820|Lond. Burn. 95 (A)|apud Dobson (1828)
+And. 1.36|-ῃ|καθέλοι|G. F. Schömann|1819|Lond. Burn. 95 (A)|p. 151
 And. 1.40|-ει|καταλαμβάνειν|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.47|ἔγρ-|ἀπέγραψεν|Reiske|1771|Lond. Burn. 95 (A)|
 And. 1.56|σωθέντι μοι δοκεῖν|σ. μὴ δ.|Reiske|1771|Lond. Burn. 95 (A)|
