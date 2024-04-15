@@ -21,7 +21,7 @@
         <li>P.Ryl. I, III</li>
         <li>Aeschines, <em>Orationes</em>, ed. Mervin R. Dilts (Stuttgart, 1997).</li>
         <li>Ammianus Marcellinus, <em>Rerum gestarum libri qui supersunt</em>, ed. V. Gardthausen (Leipzig, 1874–5).</li>
-        <li>Ammianus Marcellinus, <em>Rerum gestarum libri qui supersunt</em>, ed. Charles U. Clark (Berlin, 1910–1915).</li>
+        <li>Ammianus Marcellinus, <em>Rerum gestarum libri qui supersunt</em>, ed. Charles U. Clark (Berlin, 1910–15).</li>
         <li>Ammien Marcellin, <em>Histoire</em>, i, ed. Édouard Galletier (Paris, 1968).</li>
         <li>Ammien Marcellin, <em>Histoire</em>, v, ed. Marie-Anne Marié (Paris, 1984).</li>
         <li>Ammien Marcellin, <em>Histoire</em>, iii, ed. Jacques Fontaine (Paris, 1996).</li>
