@@ -272,7 +272,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Reiske (198), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Reiske (199), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -365,6 +365,7 @@ Alciphr. 1.15.1|περι-|παραπλεῖν|Cobet|1854|Paris. gr. 1696 (Γ)|
 Alciphr. 2.17.2|ἕ. δὲ ἰ.|ἕν ἰδὼν|Stephan Bergler|1715|Vindob. phil. gr. 342 (B)|
 Alciphr. 2.18.3|ὄνησιν μ.|ἀνήσει πάντα μηχανώμενος|Stephan Bergler|1715|Vindob. phil. gr. 342 (B)|
 Alciphr. 2.34.3|ἐ. ἀ.|ἐπαύσατο τῆς ἀδολεσχίας|Cobet|1854|Vindob. phil. gr. 342 (B)|
+Alciphr. 3.20.1|καὶ β. ἴ. δὴ καὶ τ. π. ε.|καὶ τύφου πλήρης εἶ καὶ βαδίζεις ἴσα (δὴ)|Reiske|1829|Harl. et Ven.|
 Amm. 14.1.3|conmis-|commisceri|Petrus Castellus|1517|Marc. 388 Bess. (W)|
 Amm. 14.2.18|[...]terius|ulterius|Petrus Castellus|1517|D2|
 Amm. 14.5.8|-rup-|abrepto|Petrus Castellus|1517|T2|
