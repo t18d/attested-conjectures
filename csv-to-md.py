@@ -33,7 +33,7 @@ with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:
             else:
                 if tie:
                     top_10_line += f" (tied)"
-                top_10_line += ". The data doesn't confirm Lloyd-Jones and Wilson's impression that Hermann 'made a greater contribution than any other scholar'.</p>\n"
+                top_10_line += ".</p>\n <p>The data fails to confirm Lloyd-Jones and Wilson's impression that Hermann 'made a greater contribution than any other scholar'.</p>\n"
         # juggle the last few lines around
         preface_lines[-3] = top_10_line
 
