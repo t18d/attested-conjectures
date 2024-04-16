@@ -23,7 +23,7 @@ with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:
             limit += 1
             tie = True
         top_10 = dict(top_10[:limit+1])
-        top_10_line = "<p>The top 10 critics are "
+        top_10_line = "<p>The top 10 critics of Sophocles are "
         for i, critic in enumerate(top_10.keys()):
             top_10_line += f"{critic} ({top_10[critic]})"
             if i < len(top_10)-2:
@@ -33,7 +33,7 @@ with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:
             else:
                 if tie:
                     top_10_line += f" (tied)"
-                top_10_line += ".</p>\n"
+                top_10_line += ". The data doesn't confirm Lloyd-Jones and Wilson's impression that Hermann 'made a greater contribution than any other scholar'.</p>\n"
         # juggle the last few lines around
         preface_lines[-3] = top_10_line
 
