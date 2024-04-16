@@ -2043,8 +2043,8 @@ Eur. Andr. 962|φόβω(ι)|φόνωι|Lenting|n.d.|Hier. τάφου 36 (H)|
 Eur. Andr. 985|τε|δὲ|Frederick H. M. Blaydes|n.d.|Vatop. 36 (gV)|
 Eur. Andr. 1009|ἰὼ|ω|Johannes Gregoropulos|1503|P.Oxy. XXII 2335 et P.Berol. inv. 17021|
 Eur. Andr. 1079|-άθειν|ἀμυναθεῖν|Elmsley|n.d.|Hier. τάφου 36 (H)|
-Eur. Ba. 20|πρῶτον|πρώτην|Cobet|n.d.|Chr. Pat. 1595 cod. A|
-Eur. Ba. 23|πόλιν|χθόνα|Johannes Pierson|n.d.|P.Berol inv. 21235|
+Eur. Ba. 20|πρῶτον|πρώτην|Cobet|1873|Chr. Pat. 1595 cod. A|p. 599
+Eur. Ba. 23|τῆσ-|τασδε|Johannes Pierson|1752|P.Berol inv. 21235|p. 122
 Eur. Ba. 233|ὅστις|ὥς τ[ις|Johannes Gregoropulos|1503|P.Oxy. LIII 3718|
 Eur. Ba. 406|θ᾽ ἃν|ἔνθ᾽|Schoene|n.d.|Barberin. gr. 4 (gB)|
 Eur. Ba. 468|ἀλλ᾽ ὃς|α̣λλα|Willem Canter|1571|P.Ant. I 24|
