@@ -273,7 +273,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Reiske (199), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Reiske (200), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -381,7 +381,11 @@ Alciphr. 2.32.3|Φ. τε ε. καὶ Γ.|Φείδωνός εἰσι καὶ Γν
 Alciphr. 2.34.3|ἐ. ἀ.|ἐπαύσατο τῆς ἀδολεσχίας|Cobet|1854|Vindob. phil. gr. 342 (B)|
 Alciphr. 3.1 inscr.|-δεχθ-|Δοπαδεκθάμβῳ|Thomas Reinesius|1715|Harl. Ven. Neap.a|apud Berglerum
 Alciphr. 3.1.2|Θεόχαρις|Θεοχάρης|J. Gronovius|1706|Harl. Ven. N|in textu Lambecii
+Alciphr. 3.7.4|μάστιξι|del.|Friedrich Jacobs|1821|Harl. Ven. Neap.a|ad Ach.Tat. p. 799 ('si abesset, non desiderarem')
+Alciphr. 3.7.5|συμποσί-|συνεδρίου|Stephan Bergler|1715|Harl. Ven. Neap.a|
+Alciphr. 3.7.5|δήμῳ|δημίῳ|Stephan Bergler|1715|codd. praeter Vat.1|
 Alciphr. 3.8.1|Ἀκαρνί-/Ἀκαρανί-|Ἀκαρνανίδα|Stephan Bergler|1715|Paris. gr. 1696 (Γ)|
+Alciphr. 3.8.2|-μάττ-|ἀπομύττεσθαι|Reiske|1829|codd.|'emungi'
 Alciphr. 3.14.1|Ζευγί-|Ζευξίππην|J. H. Majus|1716|Paris. gr. 1696 (Γ)|Hist. crit. de la rép. des lettr. XI p. 149
 Alciphr. 3.19.2|Εὐοκ-|Ἐτεοκλῆς|Stephan Bergler|1715|Harl. Ven. Neap.a|
 Alciphr. 3.20.1|καὶ β. ἴ. δὴ καὶ τ. π. ε.|καὶ τύφου πλήρης εἶ καὶ βαδίζεις ἴσα (δὴ)|Reiske|1829|Harl. et Ven.|
