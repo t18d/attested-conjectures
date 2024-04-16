@@ -369,6 +369,8 @@ Alciphr. 1.17.3|ἐνοίκ-|ἐκείνων|Stephan Bergler|1715|Harl. et Ven.|
 Alciphr. 2.5.2|χάρτην δι' ἀρ. τ. σαπρὸν|χαρτίδια ἀρχαῖά τινα σαπρὰ|George d'Arnaud|1734|Harl. Ven. Γ Vat.1|Miscell. Obs. 4/3 p. 453
 Alciphr. 2.5.2|-ον|ἡμίβρωτα|George d'Arnaud|1734|codd. praeter Leid.|Miscell. Obs. 4/3 p. 453
 Alciphr. 2.7.1|τρίκουρον|τρικόρωνον|J. H. Majus|1716|Harl. Ven. Γ Vat.1|Hist. crit. de la rép. des lettr. XI p. 144 ('tres cornicis ætates habens')
+Alciphr. 2.7.1|τάλαντον|ταλάντατον|M. V. de La Croze|1715|B Harl. Γ Vat.|per litt. ad Berglerum ('& miserrime senex')
+Alciphr. 2.7.2|Κέκρο-|Κέρκοψ|Pieter Burman I|1727|B Vat.2 Flor. Π Δ|ad Ov. met. 14.92
 Alciphr. 2.17.2|ἕ. δὲ ἰ.|ἕν ἰδὼν|Stephan Bergler|1715|Vindob. phil. gr. 342 (B)|
 Alciphr. 2.18.3|ὄνησιν μ.|ἀνήσει πάντα μηχανώμενος|Stephan Bergler|1715|Vindob. phil. gr. 342 (B)|
 Alciphr. 2.24.2|ἀναπείσ-|ἀναγκάσω|Cobet|1854|Vindob. phil. gr. 342 (B)|
