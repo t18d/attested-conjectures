@@ -360,11 +360,13 @@ Aeschin. 3.243|μοῖραν|μόραν|Hieronymus Wolf|1572|Barb. gr. 159 (B)|
 Alc. fr. 6.3|καὶ|ΚΕ’ΝΑ|August Seidler|1829|P.Oxy. XV 1789|
 Alc. fr. 34|]ϲον|δεῦτέ μοι νᾶϲον|C. Gallavotti|1947|P.Mich. inv. 3498 + 3250b recto|δεῦτ̣[έ] μοι νᾶcον; Borges-Sampson (2012)
 Alc. fr. 343|τετυγ-|τετυχ[|Lobel|1927|P.Oxy. XXXV 2734|
+Alciphr. 1.1.1|ἐπ᾽ ἀλλ-|ἐπαλλήλων|Valckenaer|1901|Harl. et Ven.|apud Schepers
 Alciphr. 1.9.3|π. -οῖς|παρ᾽ αὐτῶν|Cobet|1854|Paris. gr. 1696 (Γ)|
 Alciphr. 1.12.1|ἥ. δὲ|ἥτις δέον|Valckenaer|1755|Paris. gr. 1696 (Γ)|ad Eur. Ph. p. 549
 Alciphr. 1.15.1|περι-|παραπλεῖν|Cobet|1854|Paris. gr. 1696 (Γ)|
 Alciphr. 2.17.2|ἕ. δὲ ἰ.|ἕν ἰδὼν|Stephan Bergler|1715|Vindob. phil. gr. 342 (B)|
 Alciphr. 2.18.3|ὄνησιν μ.|ἀνήσει πάντα μηχανώμενος|Stephan Bergler|1715|Vindob. phil. gr. 342 (B)|
+Alciphr. 2.24.2|ἀναπείσ-|ἀναγκάσω|Cobet|1854|Vindob. phil. gr. 342 (B)|
 Alciphr. 2.34.3|ἐ. ἀ.|ἐπαύσατο τῆς ἀδολεσχίας|Cobet|1854|Vindob. phil. gr. 342 (B)|
 Alciphr. 3.8.1|Ἀκαρνί-/Ἀκαρανί-|Ἀκαρνανίδα|Stephan Bergler|1715|Paris. gr. 1696 (Γ)|
 Alciphr. 3.14.1|Ζευγί-|Ζευξίππην|J. H. Majus|1716|Paris. gr. 1696 (Γ)|Hist. crit. de la rép. des lettr. XI p. 149
