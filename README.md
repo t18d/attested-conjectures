@@ -380,7 +380,7 @@ Alciphr. 3.32.2|-οῦς|Λεωπρέπους|Cobet|1854|Harl. et Ven.|
 Alciphr. 3.34.1|ἀττι-|ἀστικῆς|David Ruhnken|1820|Harl. et Ven.|apud Weiske in Longin.
 Alciphr. 4.16.7|ἑταίρ-|ἑτέρους|Stephan Bergler|1715|VFPD|
 Alciphr. 4.17.2|ἐφ-|ἀφέτω|Stephan Bergler|1715|VFPD|
-Alciphr. 4.17.2|μουσικ-|φυσικῶς|Stephan Bergler|1715|VFPD|
+Alciphr. 4.17.2|μουσικ-|φυσικῶς|J. Ph. d’Orville|1750|VFPD|ad Charito p. 441
 Amm. 14.1.3|conmis-|commisceri|Petrus Castellus|1517|Marc. 388 Bess. (W)|
 Amm. 14.2.18|[...]terius|ulterius|Petrus Castellus|1517|D2|
 Amm. 14.5.8|-rup-|abrepto|Petrus Castellus|1517|T2|
