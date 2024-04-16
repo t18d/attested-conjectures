@@ -2472,7 +2472,7 @@ Hes. Th. 87|αἶψα τε|αἶψά κε|Rudolf Peppmüller|1896|P.Achm. 3|
 Hes. Th. 93|οἷά τε|τοίη|Guiet|n.d.|P.Achm. 3|
 Hes. Th. 656|ὅτι|ὅ τοι|Hermann|n.d.|P.Ryl. 54|
 Hes. Th. 768|habent|del.|F. A. Wolf|1783|P.Oxy. XXXII 2648|= Od. 10.534; 11.47
-Hippon. fr. 103.11|πασπάλιν φαγὼν|πασ]πα[λ]ηφάγον|Johannes Pierson|n.d.|P.Oxy. XVIII 2175|
+Hippon. fr. 103.11|πασπάλιν φαγὼν γ.|πασ]πα[λ]ηφάγον γρομφίν|Johannes Pierson|1759|P.Oxy. XVIII 2175|Lexicon Atticum s.v. πασπάλη ('scrofam polline pastam')
 Hist. Aug. Alex. 8.5|-erat|dicat|Emil Baehrens|1871|Σ|
 Hist. Aug. Alex. 10.5|aurelio|Vario|Otto Hirschfeld|1913|Σ|
 Hist. Aug. Alex. 37.10|s. secundum|sed fecundam|Michael Petschenig|1879|Chig. H. VII. 239 (Ch)|p. 378
@@ -4597,7 +4597,7 @@ Soph. Aj. 689|ἅμα|(ὑμῶν) μετὰ|Naber|n.d.|Laur. 31.10 (K)|γρ
 Soph. Aj. 727|ὡς|ὥς τ ̓|Samuel Musgrave|1800|KF|
 Soph. Aj. 742|-ρήκ-|παρείκειν|Reiske|1753|Laur. 32.40 (H)|
 Soph. Aj. 756|τῇδέ θ ̓|τῇδ' ἐθ’|Markland|s.xviii med.|MS|
-Soph. Aj. 773|τότ'/ὅδ'|τόδ'|Johannes Pierson|s.xviii med.|Laur. 32.40 (H)|
+Soph. Aj. 773|τότ'/ὅδ'|τόδ'|Johannes Pierson|2009|Laur. 32.40 (H)|GRBS
 Soph. Aj. 836|δ'|θ'|Johannes Livineius|1581–2|Bos. q. 7 (J)|
 Soph. Aj. 842|ἐκγόνων|ἐκγόνων τ’|Markland|s.xviii med.|MSS|
 Soph. Aj. 842|ἐκγόνων|ἐκγόνων τ’|Samuel Musgrave|1800|MSS|
@@ -4611,14 +4611,14 @@ Soph. Aj. 1101|ἤγετ ̓/ἡγεῖτ ̓|ἤγαγ ̓|Elmsley|n.d.|Palat. gr.
 Soph. Aj. 1117|ὡς|ἔστ'|Reiske|1753|Urb. gr. 141 (S)|
 Soph. Aj. 1205|ἀπέπαυσεν|-σε μ ̓|Frederick H. M. Blaydes|n.d.|Urb. gr. 141 (S)|
 Soph. Aj. 1237|ἔχειν|ποῖ|Valckenaer|pre-1775|cod. rec.|
-Soph. Aj. 1243|ἤρεσκεν|ἤρκεσε|Johannes Pierson|s.xviii med.|MS|
+Soph. Aj. 1243|ἤρεσκεν|ἤρκεσε|Johannes Pierson|2009|MS|GRBS
 Soph. Aj. 1245|λελειμ-|λελημμένοι|Pearson|n.d.|Laur. 32.40 (H)|
 Soph. Aj. 1274|οὗτος|ἐντός|Markland|s.xviii med.|a|
 Soph. Aj. 1283|αὐτὸς|αὑ-|G. Wolff|1858–65|Vindob. suppl. gr. 71 (Xs)|
 Soph. Aj. 1368|σόν|σόν γ'|Porson|n.d.|Paris. gr. 2735 (C)|
 Soph. Aj. 1371|τῆσ-|τήνδε|F. H. Bothe|n.d.|Paris. gr. 2735 (C)|
 Soph. Aj. 1379|-ον|ὅσων|Porson|n.d.|Vat. gr. 1333 (Zc)|s.l.
-Soph. Ant. 18|ᾔδην|ᾔδη|Johannes Pierson|s.xviii med.|Zcac|
+Soph. Ant. 18|ᾔδην|ᾔδη|Johannes Pierson||Zcac|
 Soph. Ant. 57|ἐπ ̓ ἀλλήλοιν|ἐπαλλήλοιν|Hermann|n.d.|KSUZf|
 Soph. Ant. 70|ἐμοῦ|ἐμοί|Meineke|1861|Laur. 31.10 (K)|
 Soph. Ant. 76|σοί|σύ|Valckenaer|1746|Vat. gr. 57|s.l.
@@ -4628,7 +4628,7 @@ Soph. Ant. 211|Κρέον vel Κρέων|ποεῖν|F. J. Martin|n.d.|Laur. 31.
 Soph. Ant. 218|τοῦτ ̓|τοῦδ ̓|Brunck|1786|Uac|
 Soph. Ant. 287|νόμ-|δόμους|Henrik van Herwerden|n.d.|Vat. gr. 57 (Zh)|
 Soph. Ant. 314|-ωσμέ-|σεσωμένους|Wecklein|n.d.|Marc. gr. 470 (Ta)|
-Soph. Ant. 342|κουφονέων|κουφονόων|Johannes Pierson|s.xviii med.|Λac et S|
+Soph. Ant. 342|κουφονέων|κουφονόων|Johannes Pierson|2009|Λac et S|GRBS
 Soph. Ant. 365|σοφόν|δεινόν|Heimsoeth|1865|t|
 Soph. Ant. 384|om.|ἡ|Markland|s.xviii med.|Palat. gr. 287 (Zo)|
 Soph. Ant. 390|ποθ ̓|γ ̓ ἂν|Erfurdt|1802–25|t|
@@ -4641,16 +4641,16 @@ Soph. Ant. 444|ἧ|οἷ|Meineke|1861|Palat. gr. 287 (Zo)|
 Soph. Ant. 480|τότ ̓|τόδ ̓|Sehrwald|n.d.|Laur. 31.10 (K)|
 Soph. Ant. 567|μέν σοι|μέντοι|Brunck|1786|Urb. gr. 141 (S)|
 Soph. Ant. 573|γε|με|Frederick H. M. Blaydes|n.d.|Zf in linea|
-Soph. Ant. 592|βρέμουσι δ'|βρέμουσιν|Johannes Pierson|s.xviii med.|Palat. gr. 287 (Zo)|
+Soph. Ant. 592|βρέμουσι δ'|βρέμουσιν|Johannes Pierson|2009|Palat. gr. 287 (Zo)|GRBS
 Soph. Ant. 599|ὑπὲρ|ὅπερ|Markland|s.xviii med.|Laur. 31.10 (K)|s.l. (ex sch.)
 Soph. Ant. 687|χἀτέρῳ|χἀτέρᾳ|Samuel Musgrave|1800|Laur. 31.10 (K)|in linea
 Soph. Ant. 687|χἀτέρῳ|χἀτέρως|Hermann|n.d.|Vat. gr. 2291 (R)|
-Soph. Ant. 695|ἀπ’|ἐπ’|Johannes Pierson|s.xviii med.|Paris. gr. 2712 (A)|
+Soph. Ant. 695|ἀπ’|ἐπ’|Johannes Pierson|2009|Paris. gr. 2712 (A)|GRBS
 Soph. Ant. 789|ἐπ’|ἀπ’|F. W. Schmidt||Palat. gr. 287 (Zo)|
 Soph. Ant. 825|-ῳ|Σιπύλου|Alexandros Pallis|1885|Vat. gr. 57 (Zh)|s.l.
 Soph. Ant. 828|-ῳ|ὄμβρος|Gleditsch|n.d.|Vat. gr. 1333 (Zc)|s.l.
 Soph. Ant. 831|θ' … -αύστοις|δ' … παγκλαύτοις|F. H. Bothe|n.d.|KS|
-Soph. Ant. 836|-ῃ/-ῳ/-αν|φθιμένᾳ|Johannes Pierson|s.xviii med.|Laur. 32. 9 (L) et a|
+Soph. Ant. 836|-ῃ/-ῳ/-αν|φθιμένᾳ|Johannes Pierson|2009|Laur. 32. 9 (L) et a|GRBS
 Soph. Ant. 848|ἔργμα|ἕρμα|Hermann|n.d.|Urb. gr. 141 (S)|
 Soph. Ant. 851|οὔτ ̓ ἐν|οὔτε|Erfurdt|1802–25|Urb. gr. 141 (S)|
 Soph. Ant. 859|οἶκτον|οἶτον|Brunck|1786|Kpc|
@@ -4695,12 +4695,12 @@ Soph. El. 819|ἄφιλος|-ον|Monk|n.d.|Vindob. phil. gr. 281|
 Soph. El. 859|-ᾶν|εὐπατρίδων|Friedrich Neue|1831|Sud. s.v. παραγάγῃς|
 Soph. El. 876|οὐκ|οὐκέτ ̓|B. Thiersch|n.d.|p|
 Soph. El. 941|ἔσθ ̓ ὅδ ̓|ἐς τόδ ̓|Haupt|n.d.|CHV|
-Soph. El. 952||γ’|Johannes Pierson|s.xviii med.|Paris. gr. 2820|
+Soph. El. 952||γ’|Johannes Pierson|2009|Paris. gr. 2820|GRBS
 Soph. El. 957|σε … μ'|με … σ'|Frederick H. M. Blaydes|n.d.|p|
 Soph. El. 960|-ηι|ἐστερημένην|Elmsley||O1pc|
 Soph. El. 995|ποτ' ἐμβλέψασα|ποτε βλέψασα|Henrik van Herwerden|1868|P.Oxy IV 693 et Marc. gr. 616 (Zr)|p. 12
 Soph. El. 998|ἔλαττον|ἔλαϲϲον|Brunck|1786|P.Oxy IV 693|
-Soph. El. 1029|μάθῃς|πάθῃς|Johannes Pierson|s.xviii med.|Palat. gr. 40 (P) et a|
+Soph. El. 1029|μάθῃς|πάθῃς|Johannes Pierson|2009|Palat. gr. 40 (P) et a|GRBS
 Soph. El. 1044||ποήσεις|Valckenaer|pre-1775|MSS|
 Soph. El. 1139|om.|σ’|Markland|s.xviii med.|p|
 Soph. El. 1226|ἔχεις|ἔχοις|Valckenaer|pre-1775|Laur. 32. 9 (L)|
@@ -4724,7 +4724,7 @@ Soph. OC 391|ὑπ ̓|γ ̓|Eduard Wunder||r|
 Soph. OC 392|φασ-|φησὶ|Bergk||r|
 Soph. OC 395|φλαῦρον|φαῦλον|Frederick H. M. Blaydes|n.d.|ZoTa|
 Soph. OC 534|σοίτ’ ἄρ’/σαίτ’ ἄρ’|αὔτ’ ἄρ’|Markland|s.xviii med.|z|
-Soph. OC 566|σ’|del.|Johannes Pierson|s.xviii med.|Laur. 31.10 (K) et a|
+Soph. OC 566|σ’|del.|Johannes Pierson|2009|Laur. 31.10 (K) et a|GRBS
 Soph. OC 702|νεαρὸς|νέος|Elmsley|n.d.|t|
 Soph. OC 793 schol.|-λείᾳ|Ἰφικλεῖ|Joannes Meursius|1619|Laur. 32.9 (L)|
 Soph. OC 818|σοι/σε|σου|Frederick H. M. Blaydes|n.d.|r|
@@ -4789,14 +4789,14 @@ Soph. OT 1172|κάλλιστ'|μάλιστ'|Nauck|n.d.|p|
 Soph. OT 1197|-σας τ.|ἐκράτησε τοῦ|Hermann|n.d.|Ambros. L. 39 sup.|
 Soph. OT 1217|om.|alterum σε|Eduard Wunder|1824|Voss. gr. Q. 6 (O)|
 Soph. OT 1232|ἤδειμεν|ἤδεμεν|Elmsley|n.d.|Vat. gr. 1333 (Zc)|
-Soph. OT 1245|κάλει|καλεῖ|Johannes Pierson|s.xviii med.|Ambros. G 56 sup.|
+Soph. OT 1245|κάλει|καλεῖ|Johannes Pierson|2009|Ambros. G 56 sup.|GRBS
 Soph. OT 1255|φοιτᾷ|φοίτα|Frederick H. M. Blaydes|n.d.|p|
 Soph. OT 1264|αἰώραις|αἰώραισιν|Henrik van Herwerden|1866|Ambros. G 56 sup.|
 Soph. OT 1294|δείξει|δόξει|Reiske|1753|Vindob. phil. gr. 161 (Xr)|
 Soph. OT 1311|ἐξήλου|-ἤλλου|Hermann|n.d.|Paris. gr. 2735 (C)|
 Soph. OT 1312|ἐς|ὡς|Henrik van Herwerden|1866|Laur. 32.40 (H)|
 Soph. OT 1320|φον-|φρονεῖν|Bergk|n.d.|a|
-Soph. OT 1453|ζῶντε|-τι|Johannes Pierson|s.xviii med.|Vat. gr. 904 (Pa)|
+Soph. OT 1453|ζῶντε|-τι|Johannes Pierson|2009|Vat. gr. 904 (Pa)|GRBS
 Soph. OT 1466|αἷν|ταῖν|Benjamin Heath|1762|Marc. gr. 616 (Zr)|
 Soph. OT 1474|ἐγγόνοιν|ἐκγόνοιν|Valckenaer|1743–6|Paris. gr. 2787 (Zn) et Marc. gr. 472 (Jebb)|
 Soph. OT 1477|ἣ σ' εἶχεν κτλ.|ἥ σ' ἔχει|Eduard Wunder|1831|Laur. 32.2 (Zg)|
@@ -4831,7 +4831,7 @@ Soph. Phil. 928|εἰργάσω|εἴργασαι|Elmsley|n.d.|Palat. gr. 287 (Z
 Soph. Phil. 1007|-α|οἷον|Frederick H. M. Blaydes|n.d.|Laur. 32.2 (Zg)|
 Soph. Phil. 1007|ὥς|ὅς|Gilbert Wakefield|1794|r|
 Soph. Phil. 1016|ἔμ ̓|σύ μ ̓|Nauck||Paris. suppl. gr. 109 (Q)|
-Soph. Phil. 1028|ἐξέβαλον/ἔκβαλον/ἐκβάλλον|ἔβαλον|Johannes Pierson|s.xviii med.|LaZo|
+Soph. Phil. 1028|ἐξέβαλον/ἔκβαλον/ἐκβάλλον|ἔβαλον|Johannes Pierson|2009|LaZo|GRBS
 Soph. Phil. 1032|ἐμοῦ|ὁμοῦ|Gernhard|n.d.|Gγρ|
 Soph. Phil. 1079|ὁρμώμεθον|-μεθα|Elmsley|n.d.|Urb. gr. 141 (S)|
 Soph. Phil. 1095|οὐκ|κοὐκ|Erfurdt|n.d.|SQ|Wecklein?
