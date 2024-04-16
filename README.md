@@ -373,7 +373,10 @@ Alciphr. 3.20.1|καὶ β. ἴ. δὴ καὶ τ. π. ε.|καὶ τύφου π
 Alciphr. 3.22.2|γυμν-|σεμνὸν|Hemsterhuis|1905|Harl. et Ven.|apud Schepers
 Alciphr. 3.23.2|στέφ-|σκέπειν|Naber|1878|Harl. et Ven.|Mnem.
 Alciphr. 3.26.1|ἐκκουριασθ-|ἐκκορηθείης|Stephan Bergler|1715|Harl. et Ven.|
+Alciphr. 3.27.1|ἔδοξ-|ἔδοσαν|H. J. Polak|1905|Harl. et Ven.|apud Schepers
 Alciphr. 3.29 inscr.|Πηξάγω-|Πηξάγκωνος|Cobet|1854|Paris. gr. 1696 (Γ)|
+Alciphr. 3.30.1|Βροτη-|Βρεντησίου|F. J. Bast|1809|Harl. et Ven.|
+Alciphr. 3.32.2|-οῦς|Λεωπρέπους|Cobet|1854|Harl. et Ven.|
 Amm. 14.1.3|conmis-|commisceri|Petrus Castellus|1517|Marc. 388 Bess. (W)|
 Amm. 14.2.18|[...]terius|ulterius|Petrus Castellus|1517|D2|
 Amm. 14.5.8|-rup-|abrepto|Petrus Castellus|1517|T2|
