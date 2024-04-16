@@ -273,7 +273,8 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics of Sophocles are Frederick H. M. Blaydes (36), Markland (21), Elmsley (16), Brunck (16), Hermann (16), Valckenaer (14), Johannes Pierson (13), Henrik van Herwerden (9), Reiske (9) and Meineke (7). The data doesn't confirm Lloyd-Jones and Wilson's impression that Hermann 'made a greater contribution than any other scholar'.</p>
+<p>The top 10 critics of Sophocles are Frederick H. M. Blaydes (36), Markland (21), Elmsley (16), Brunck (16), Hermann (16), Valckenaer (14), Johannes Pierson (13), Henrik van Herwerden (9), Reiske (9) and Meineke (7).</p>
+ <p>The data fails to confirm Lloyd-Jones and Wilson's impression that Hermann 'made a greater contribution than any other scholar'.</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
