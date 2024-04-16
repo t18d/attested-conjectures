@@ -15,7 +15,7 @@ csv_tools.sort_csv()
 with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:    
     with open("OT-NT.csv", "r", encoding="utf8") as amst_csv:        
         # use league ranking to make top 10 sentence in preface
-        league = csv_tools.create_league_table((conj_csv, amst_csv))
+        league = csv_tools.create_league_table((conj_csv,))
         top_10 = sorted(league.items(), key=operator.itemgetter(1), reverse=True)
         limit = 9 # keep ties for 10th
         tie = False
@@ -47,7 +47,7 @@ with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:
             conj_md.write("\n")
             #first line is headers
             first_first_row = True
-            for reader in (conj_reader, amst_reader):
+            for reader in (conj_reader,):
                 first_row = True
                 for row in reader:
                     if first_row and not first_first_row:
