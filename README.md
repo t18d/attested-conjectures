@@ -370,14 +370,17 @@ Alciphr. 3.8.1|Ἀκαρνί-/Ἀκαρανί-|Ἀκαρνανίδα|Stephan Ber
 Alciphr. 3.14.1|Ζευγί-|Ζευξίππην|J. H. Majus|1716|Paris. gr. 1696 (Γ)|Hist. crit. de la rép. des lettr. XI p. 149
 Alciphr. 3.19.2|Εὐοκ-|Ἐτεοκλῆς|Stephan Bergler|1715|Harl. Ven. Neap.a|
 Alciphr. 3.20.1|καὶ β. ἴ. δὴ καὶ τ. π. ε.|καὶ τύφου πλήρης εἶ καὶ βαδίζεις ἴσα (δὴ)|Reiske|1829|Harl. et Ven.|
-Alciphr. 3.22.2|γυμν-|σεμνὸν|Hemsterhuis|1905|Harl. et Ven.|apud Schepers
+Alciphr. 3.22.2|γυμν-|σεμνὸν|Stephan Bergler|1715|Harl. et Ven.|
 Alciphr. 3.23.2|στέφ-|σκέπειν|Naber|1878|Harl. et Ven.|Mnem.
 Alciphr. 3.26.1|ἐκκουριασθ-|ἐκκορηθείης|Stephan Bergler|1715|Harl. et Ven.|
-Alciphr. 3.27.1|ἔδοξ-|ἔδοσαν|H. J. Polak|1905|Harl. et Ven.|apud Schepers
+Alciphr. 3.27.1|ἔδοξ-|ἔδοσαν|H. J. Polak|1901|Harl. et Ven.|apud Schepers
 Alciphr. 3.29 inscr.|Πηξάγω-|Πηξάγκωνος|Cobet|1854|Paris. gr. 1696 (Γ)|
 Alciphr. 3.30.1|Βροτη-|Βρεντησίου|F. J. Bast|1809|Harl. et Ven.|
 Alciphr. 3.32.2|-οῦς|Λεωπρέπους|Cobet|1854|Harl. et Ven.|
 Alciphr. 3.34.1|ἀττι-|ἀστικῆς|David Ruhnken|1820|Harl. et Ven.|apud Weiske in Longin.
+Alciphr. 4.16.7|ἑταίρ-|ἑτέρους|Stephan Bergler|1715|VFPD|
+Alciphr. 4.17.2|ἐφ-|ἀφέτω|Stephan Bergler|1715|VFPD|
+Alciphr. 4.17.2|μουσικ-|φυσικῶς|Stephan Bergler|1715|VFPD|
 Amm. 14.1.3|conmis-|commisceri|Petrus Castellus|1517|Marc. 388 Bess. (W)|
 Amm. 14.2.18|[...]terius|ulterius|Petrus Castellus|1517|D2|
 Amm. 14.5.8|-rup-|abrepto|Petrus Castellus|1517|T2|
