@@ -386,6 +386,9 @@ Alciphr. 3.7.5|συμποσί-|συνεδρίου|Stephan Bergler|1715|Harl. Ven
 Alciphr. 3.7.5|δήμῳ|δημίῳ|Stephan Bergler|1715|codd. praeter Vat.1|
 Alciphr. 3.8.1|Ἀκαρνί-/Ἀκαρανί-|Ἀκαρνανίδα|Stephan Bergler|1715|Paris. gr. 1696 (Γ)|
 Alciphr. 3.8.2|-μάττ-|ἀπομύττεσθαι|Reiske|1829|codd.|'emungi'
+Alciphr. 3.9.2|γὰρ ἀνίᾳ|Γερανείᾳ|Stephan Bergler|1715|Harl. Ven. Neap.a|
+Alciphr. 3.9.3|ἀνθέξ-|ἀνέξεται|Stephan Bergler|1715|Neap. III A A 14 (Neap.a)|
+Alciphr. 3.10.2|ἀμύν-|ἁμίλλης|George d'Arnaud|1734|Harl. Ven. Neap.a|Miscell. Obs. 5/2 p. 453
 Alciphr. 3.14.1|Ζευγί-|Ζευξίππην|J. H. Majus|1716|Paris. gr. 1696 (Γ)|Hist. crit. de la rép. des lettr. XI p. 149
 Alciphr. 3.19.2|Εὐοκ-|Ἐτεοκλῆς|Stephan Bergler|1715|Harl. Ven. Neap.a|
 Alciphr. 3.20.1|καὶ β. ἴ. δὴ καὶ τ. π. ε.|καὶ τύφου πλήρης εἶ καὶ βαδίζεις ἴσα (δὴ)|Reiske|1829|Harl. et Ven.|
