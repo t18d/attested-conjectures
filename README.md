@@ -395,6 +395,13 @@ Alciphr. 3.11.3|οὐκ ᾐ. οὐκέθ᾽|ᾐσθόμην οὐκέθ᾽|G. A.
 Alciphr. 3.11.3|-ως|πάντες|Hemsterhuis|1901|Harl. et Ven.|apud Schepers
 Alciphr. 3.13.3|-ὸν|μακρὰν|Reiske|1829|Neap. III A A 14 (Neap.a)|
 Alciphr. 3.14.1|Ζευγί-|Ζευξίππην|J. H. Majus|1716|Paris. gr. 1696 (Γ)|Hist. crit. de la rép. des lettr. XI p. 149
+Alciphr. 3.14.1|-αι κ. -οί|συνοικίας καὶ ἀγρούς|Stephan Bergler|1715|Harl. 5566|
+Alciphr. 3.14.2|ἀνε-|ἐνεδείξατο|Stephan Bergler|1715|Harl. Ven. Vat.1|
+Alciphr. 3.15.1|τὰ τειρ-|τὰ Πειρήνης|Stephan Bergler|1715|codd.|
+Alciphr. 3.17.3|τ. Τιλ-|τῆς τηλίας|Stephan Bergler|1715|Harl. Ven. Neap.a|
+Alciphr. 3.17.3|ὄπιθ-|ὄπισθεν|Gisbert Koen|1766|Harl. Ven. Neap.a|ad Greg.Cor. §XXXV ('poëticum ὄπιθεν ferri nequit in Alciphr.')
+Alciphr. 3.18.1|-ε|κατέαγα|Stephan Bergler|1715|codd. praeter Γ|
+Alciphr. 3.18.4|-κίσι|ἐναγέσι|Stephan Bergler|1715|codd. praeter Vat.1|
 Alciphr. 3.19.2|Εὐοκ-|Ἐτεοκλῆς|Stephan Bergler|1715|Harl. Ven. Neap.a|
 Alciphr. 3.20.1|καὶ β. ἴ. δὴ καὶ τ. π. ε.|καὶ τύφου πλήρης εἶ καὶ βαδίζεις ἴσα (δὴ)|Reiske|1829|Harl. et Ven.|
 Alciphr. 3.22.2|γυμν-|σεμνὸν|Stephan Bergler|1715|Harl. et Ven.|
