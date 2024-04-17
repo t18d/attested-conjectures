@@ -273,7 +273,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Reiske (200), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Reiske (202), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -388,7 +388,12 @@ Alciphr. 3.8.1|Ἀκαρνί-/Ἀκαρανί-|Ἀκαρνανίδα|Stephan Ber
 Alciphr. 3.8.2|-μάττ-|ἀπομύττεσθαι|Reiske|1829|codd.|'emungi'
 Alciphr. 3.9.2|γὰρ ἀνίᾳ|Γερανείᾳ|Stephan Bergler|1715|Harl. Ven. Neap.a|
 Alciphr. 3.9.3|ἀνθέξ-|ἀνέξεται|Stephan Bergler|1715|Neap. III A A 14 (Neap.a)|
-Alciphr. 3.10.2|ἀμύν-|ἁμίλλης|George d'Arnaud|1734|Harl. Ven. Neap.a|Miscell. Obs. 5/2 p. 453
+Alciphr. 3.10.2|ἀμύν-|ἁμίλλης|George d'Arnaud|1734|Harl. Ven. Neap.a|Miscell. Obs. 5/2 p. 192
+Alciphr. 3.10.2|-ος|κῶμα|George d'Arnaud|1734|Harl. Neap.a|
+Alciphr. 3.10.4|ἀνέπλη-|ἀνέτλημεν|Reiske|1829|codd.|
+Alciphr. 3.11.3|οὐκ ᾐ. οὐκέθ᾽|ᾐσθόμην οὐκέθ᾽|G. A. Hirschig|1855|Neap. III A A 14 (Neap.a)|Zeitschr. f. d. Alt. Wiss.
+Alciphr. 3.11.3|-ως|πάντες|Hemsterhuis|1901|Harl. et Ven.|apud Schepers
+Alciphr. 3.13.3|-ὸν|μακρὰν|Reiske|1829|Neap. III A A 14 (Neap.a)|
 Alciphr. 3.14.1|Ζευγί-|Ζευξίππην|J. H. Majus|1716|Paris. gr. 1696 (Γ)|Hist. crit. de la rép. des lettr. XI p. 149
 Alciphr. 3.19.2|Εὐοκ-|Ἐτεοκλῆς|Stephan Bergler|1715|Harl. Ven. Neap.a|
 Alciphr. 3.20.1|καὶ β. ἴ. δὴ καὶ τ. π. ε.|καὶ τύφου πλήρης εἶ καὶ βαδίζεις ἴσα (δὴ)|Reiske|1829|Harl. et Ven.|
