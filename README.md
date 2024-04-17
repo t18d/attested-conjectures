@@ -273,7 +273,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Reiske (203), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Reiske (204), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -439,7 +439,8 @@ Alciphr. 4.2.2|σ. ἀπὸ σοῦ|σπουδασθῆναι ὑπὸ σοῦ|S
 Alciphr. 4.2.2|-ει|φέρειν|Stephan Bergler|1715|codd.|
 Alciphr. 4.4.4|μαστήρ-|μαστάρια|Stephan Bergler|1715|codd.|'deminutivum à μαστός'
 Alciphr. 4.4.4|ἀπ-|ἐπέδειξας|Stephan Bergler|1715|codd.|
-Alciphr. 4.6.1|προσήμ-|προσιέμην|Stephan Bergler|1715||
+Alciphr. 4.6.1|προσήμ-|προσιέμην|Stephan Bergler|1715|Vindob. phil. gr. 318 (A)|
+Alciphr. 4.6.3|παρ᾽ ἡμῖν|παρῆμεν|Reiske|1829|Vat.2 Flor. Π|'aderamus, conveneramus'
 Alciphr. 4.16.7|ἑταίρ-|ἑτέρους|Stephan Bergler|1715|VFPD|
 Alciphr. 4.17.2|ἐφ-|ἀφέτω|Stephan Bergler|1715|VFPD|
 Alciphr. 4.17.2|μουσικ-|φυσικῶς|J. Ph. d’Orville|1750|VFPD|ad Charitonem p. 441
