@@ -273,7 +273,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Reiske (202), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Reiske (203), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -409,8 +409,12 @@ Alciphr. 3.22.2|γυμν-|σεμνὸν|Stephan Bergler|1715|Harl. et Ven.|
 Alciphr. 3.22.2|β. καὶ|βίον|Stephan Bergler|1715|codd. praeter Γ|
 Alciphr. 3.23.2|ὁ π. κ. -ιστος|ὁ περίψυκτος καὶ περικαλλής|Dindorf|1842–7|codd. praeter Γ|ThGL s.v.
 Alciphr. 3.23.2|στέφ-|σκέπειν|Naber|1878|Harl. et Ven.|Mnem.
+Alciphr. 3.23.5|ἁ-|ἀπλανῶς|Stephan Bergler|1715|codd.|
+Alciphr. 3.24.1|τὴν π.|τὴν τῶν πενήτων|Reiske|1829|codd.|
+Alciphr. 3.24.3|τοιαῦτα τῆς Π. π.|τοιαῦτα τὰ τῆς Π. προπύλαια|Stephan Bergler|1715|Paris. gr. 1696 (Γ)|'Qui sermone Græco imbutas habent aures facilè sentiunt'
 Alciphr. 3.26.1|ἐκκουριασθ-|ἐκκορηθείης|Stephan Bergler|1715|Harl. et Ven.|
 Alciphr. 3.27.1|ἔδοξ-|ἔδοσαν|H. J. Polak|1901|Harl. et Ven.|apud Schepers
+Alciphr. 3.27.1|τὸ παράνσιγώην, σιγῆ δ. ἐ.|τὸ παρὸν σιγώην, σιγὴ δέ ἐστι|Stephan Bergler|1715|Paris. gr. 1696 (Γ)|'quintuplici errore'
 Alciphr. 3.29 inscr.|Πηξάγω-|Πηξάγκωνος|Cobet|1854|Paris. gr. 1696 (Γ)|
 Alciphr. 3.30.1|Βροτη-|Βρεντησίου|F. J. Bast|1809|Harl. et Ven.|
 Alciphr. 3.32.2|-οῦς|Λεωπρέπους|Cobet|1854|Harl. et Ven.|
