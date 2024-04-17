@@ -415,6 +415,7 @@ Alciphr. 3.24.3|τοιαῦτα τῆς Π. π.|τοιαῦτα τὰ τῆς Π
 Alciphr. 3.26.1|ἐκκουριασθ-|ἐκκορηθείης|Stephan Bergler|1715|Harl. et Ven.|
 Alciphr. 3.27.1|ἔδοξ-|ἔδοσαν|H. J. Polak|1901|Harl. et Ven.|apud Schepers
 Alciphr. 3.27.1|τὸ παράνσιγώην, σιγῆ δ. ἐ.|τὸ παρὸν σιγώην, σιγὴ δέ ἐστι|Stephan Bergler|1715|Paris. gr. 1696 (Γ)|'quintuplici errore'
+Alciphr. 3.27.2|τὰς ἄλλας|τὰς ἄ. ἃς|Stephan Bergler|1715|Harl. Ven. Γ|
 Alciphr. 3.29 inscr.|Πηξάγω-|Πηξάγκωνος|Cobet|1854|Paris. gr. 1696 (Γ)|
 Alciphr. 3.30.1|Βροτη-|Βρεντησίου|F. J. Bast|1809|Harl. et Ven.|
 Alciphr. 3.32.2|-οῦς|Λεωπρέπους|Cobet|1854|Harl. et Ven.|
