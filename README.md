@@ -273,7 +273,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Reiske (205), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (89) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Reiske (205), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (90) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -448,6 +448,9 @@ Alciphr. 4.8.2|κατη-|παρηγόρημα|Stephan Bergler|1715|Palat. 132 (C
 Alciphr. 4.8.2|πολλήν τ. ἐφορ-|πολύν τινα ἐνεφορησάμην|Stephan Bergler|1715|VFPD|
 Alciphr. 4.8.2|τότε δ. ἄ.|τὸ δ(ὲ) ἄρα|Stephan Bergler|1715|VFP|
 Alciphr. 4.10.3|διασώ-|διώσασθαι|Stephan Bergler|1715|VFPD|
+Alciphr. 4.13.10|σκώλυκ-|σκώληκας|J. S. Bernard|1795||ad TheophNonn, ii, p. 77
+Alciphr. 4.13.12|πηγ-|πυγὴν|Meineke|1853||apud Seiler
+Alciphr. 4.13.14|σκευηρ-|συνηρεφῆ|Valckenaer|1768||ad Eur. Hipp. 468 fin.
 Alciphr. 4.14.1|ἀπ-|ἐπήγγειλεν|Hemsterhuis|1901|VFPD|apud Schepers
 Alciphr. 4.14.5|ἰσχύ-|ἰσχίων|Stephan Bergler|1715|VFP|
 Alciphr. 4.14.5|-ῷ|αὐτῶν|George d'Arnaud|1734|VFPD|Miscell. Obs. 5/1 p. 63
