@@ -273,7 +273,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Reiske (205), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Reiske (205), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (89) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -468,6 +468,8 @@ Alciphr. 4.18.15|οὕτω μ./οὔτω μ.|οὐ τῶν μεγάλων|J. Ph.
 Alciphr. 4.19.6|Πρωλέ-|Πρωτέως|Perizonius|1715||apud Berglerum
 Alciphr. 4.19.9|-ης|Ἀριάδνη|Hemsterhuis|1901||apud Schepers
 Alciphr. 4.19.10|ἄμισθ-|ἄπιστα|George d'Arnaud|1734||Miscell. Obs. 5/2 p. 282
+Alciphr. 4.19.12|αὐτοῖς οἷς|α. ἧς|Meineke|1853||apud Seiler
+Alciphr. 4.19.13|-ης τῆς|ἀφῃρημένην τῆς|Stephan Bergler|1715||
 Amm. 14.1.3|conmis-|commisceri|Petrus Castellus|1517|Marc. 388 Bess. (W)|
 Amm. 14.2.18|[...]terius|ulterius|Petrus Castellus|1517|D2|
 Amm. 14.5.8|-rup-|abrepto|Petrus Castellus|1517|T2|
