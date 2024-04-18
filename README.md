@@ -474,6 +474,10 @@ Alciphr. 4.19.10|ἄμισθ-|ἄπιστα|George d'Arnaud|1734||Miscell. Obs. 
 Alciphr. 4.19.12|αὐτοῖς οἷς|α. ἧς|Meineke|1853||apud Seiler
 Alciphr. 4.19.13|-ης τῆς|ἀφῃρημένην τῆς|Stephan Bergler|1715||
 Alciphr. 4.19.20|α. τ. Ἄ.|αἰδούμεθα μὰ τὴν Ἄρτεμιν|J. F. Herel|1768||
+Alciphr. fr. scr. inc. 1|αὐτ-|αὑτῶν|Adriaan Heringa|1749||p. 285
+Alciphr. fr. scr. inc. 2|κουρί-|κουρείοις|Adriaan Heringa|1749||p. 285
+Alciphr. fr. scr. inc. 3|ἰσχνὰς ἐγχ-|ἰσχνεγχύλους|F. J. Bast|1809||Lettr. crit. p. 231
+Alciphr. fr. scr. inc. 4|-ευστα/-εστα|ἀφαρμάκευτα|J. A. Wagner|1798||
 Amm. 14.1.3|conmis-|commisceri|Petrus Castellus|1517|Marc. 388 Bess. (W)|
 Amm. 14.2.18|[...]terius|ulterius|Petrus Castellus|1517|D2|
 Amm. 14.5.8|-rup-|abrepto|Petrus Castellus|1517|T2|
@@ -5749,7 +5753,7 @@ Sud. π 926|προσφ-|προφέρειν|Bekker|1854|Phot. z|Suidae Lex. p. 83
 Suet. Iul. 55.3|existimat|-abat|C. G. Müller||Paris. lat. 6116 (Π)|m. pr.
 Synag. 52.22|αἱρεθίζειν|αἱρετίζειν|Theodor Kock|1880–8|Phot. α 642|
 Synag. 177.16|ἀωρὶ θανάτωι|ἀωροθάνατος|Dindorf|1835|Phot. α 3493|
-Synag. 353.9|ἀτη-|ἀτειρής|Friedrich Wilhelm Wagner|1852|Phot. α 474|
+Synag. 353.9|ἀτη-|ἀτειρής|F. W. Wagner|1852|Phot. α 474|
 Tac. Agr. 3.3|senectutis|seruitutis|Fulvio Orsini|1595|Aesinas lat. 8 (E)|
 Tac. Agr. 9.3|-am|persona|Beatus Rhenanus|1533|Ec|
 Tac. Agr. 9.3|di-|deminuit|Lipsius|1574|Aesinas lat. 8 (E)|
