@@ -470,6 +470,7 @@ Alciphr. 4.19.9|-ης|Ἀριάδνη|Hemsterhuis|1901||apud Schepers
 Alciphr. 4.19.10|ἄμισθ-|ἄπιστα|George d'Arnaud|1734||Miscell. Obs. 5/2 p. 282
 Alciphr. 4.19.12|αὐτοῖς οἷς|α. ἧς|Meineke|1853||apud Seiler
 Alciphr. 4.19.13|-ης τῆς|ἀφῃρημένην τῆς|Stephan Bergler|1715||
+Alciphr. 4.19.20|α. τ. Ἄ.|αἰδούμεθα μὰ τὴν Ἄρτεμιν|J. F. Herel|1768||
 Amm. 14.1.3|conmis-|commisceri|Petrus Castellus|1517|Marc. 388 Bess. (W)|
 Amm. 14.2.18|[...]terius|ulterius|Petrus Castellus|1517|D2|
 Amm. 14.5.8|-rup-|abrepto|Petrus Castellus|1517|T2|
