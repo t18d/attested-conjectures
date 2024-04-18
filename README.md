@@ -360,12 +360,12 @@ Aeschin. 3.243|μοῖραν|μόραν|Hieronymus Wolf|1572|Barb. gr. 159 (B)|
 Alc. fr. 6.3|καὶ|ΚΕ’ΝΑ|August Seidler|1829|P.Oxy. XV 1789|
 Alc. fr. 34|]ϲον|δεῦτέ μοι νᾶϲον|C. Gallavotti|1947|P.Mich. inv. 3498 + 3250b recto|δεῦτ̣[έ] μοι νᾶcον; Borges-Sampson (2012)
 Alc. fr. 343|τετυγ-|τετυχ[|Lobel|1927|P.Oxy. XXXV 2734|
-Alciphr. 1.1.1|ἐπ᾽ ἀλλ-|ἐπαλλήλων|Valckenaer|1901|Harl. et Ven.|apud Schepers
+Alciphr. 1.1.1|ἐπ᾽ ἀλλ-|ἐπαλλήλων|Valckenaer|1901|Harl. Ven.|apud Schepers
 Alciphr. 1.9.3|π. -οῖς|παρ᾽ αὐτῶν|Cobet|1854|Paris. gr. 1696 (Γ)|
 Alciphr. 1.11.1|κατεγγυώσ-/κατ᾽ ἐγγύησιν|κατεγγυήσειν|Stephan Bergler|1715|Paris. gr. 3021 (Π)|
 Alciphr. 1.12.1|ἥ. δὲ|ἥτις δέον|Valckenaer|1755|Paris. gr. 1696 (Γ)|ad Eur. Ph. p. 549
 Alciphr. 1.15.1|περι-|παραπλεῖν|Cobet|1854|Paris. gr. 1696 (Γ)|
-Alciphr. 1.17.3|ἐνοίκ-|ἐκείνων|Stephan Bergler|1715|Harl. et Ven.|
+Alciphr. 1.17.3|ἐνοίκ-|ἐκείνων|Stephan Bergler|1715|Harl. Ven.|
 Alciphr. 2.5.2|χάρτην δι' ἀρ. τ. σαπρὸν|χαρτίδια ἀρχαῖά τινα σαπρὰ|George d'Arnaud|1734|Harl. Ven. Γ Vat.1|Miscell. Obs. 4/3 p. 453
 Alciphr. 2.5.2|-ον|ἡμίβρωτα|George d'Arnaud|1734|codd. praeter Leid.|Miscell. Obs. 4/3 p. 453
 Alciphr. 2.7.1|τρίκουρον|τρικόρωνον|J. H. Majus|1716|Harl. Ven. Γ Vat.1|Hist. crit. de la rép. des lettr. XI p. 144 ('tres cornicis ætates habens')
@@ -392,7 +392,7 @@ Alciphr. 3.10.2|ἀμύν-|ἁμίλλης|George d'Arnaud|1734|Harl. Ven. Neap.
 Alciphr. 3.10.2|-ος|κῶμα|George d'Arnaud|1734|Harl. Neap.a|
 Alciphr. 3.10.4|ἀνέπλη-|ἀνέτλημεν|Reiske|1829|codd.|
 Alciphr. 3.11.3|οὐκ ᾐ. οὐκέθ᾽|ᾐσθόμην οὐκέθ᾽|G. A. Hirschig|1855|Neap. III A A 14 (Neap.a)|Zeitschr. f. d. Alt. Wiss.
-Alciphr. 3.11.3|-ως|πάντες|Hemsterhuis|1901|Harl. et Ven.|apud Schepers
+Alciphr. 3.11.3|-ως|πάντες|Hemsterhuis|1901|Harl. Ven.|apud Schepers
 Alciphr. 3.13.3|-ὸν|μακρὰν|Reiske|1829|Neap. III A A 14 (Neap.a)|
 Alciphr. 3.14.1|Ζευγί-|Ζευξίππην|J. H. Majus|1716|Paris. gr. 1696 (Γ)|Hist. crit. de la rép. des lettr. XI p. 149
 Alciphr. 3.14.1|-αι κ. -οί|συνοικίας καὶ ἀγρούς|Stephan Bergler|1715|Harl. 5566|
@@ -404,34 +404,34 @@ Alciphr. 3.18.1|-ε|κατέαγα|Stephan Bergler|1715|codd. praeter Γ|
 Alciphr. 3.18.4|-κίσι|ἐναγέσι|Stephan Bergler|1715|codd. praeter Vat.1|
 Alciphr. 3.19.2|Εὐοκ-|Ἐτεοκλῆς|Stephan Bergler|1715|Harl. Ven. Neap.a|
 Alciphr. 3.19.5|εἰσήρεσ-|εἰσήῤῥησε|Stephan Bergler|1715|Harl. Ven. Neap.a|'ab ἔρρειν quod perniciosam itionem denotat'
-Alciphr. 3.20.1|καὶ β. ἴ. δὴ καὶ τ. π. ε.|καὶ τύφου πλήρης εἶ καὶ βαδίζεις ἴσα (δὴ)|Reiske|1829|Harl. et Ven.|
-Alciphr. 3.22.2|γυμν-|σεμνὸν|Stephan Bergler|1715|Harl. et Ven.|
+Alciphr. 3.20.1|καὶ β. ἴ. δὴ καὶ τ. π. ε.|καὶ τύφου πλήρης εἶ καὶ βαδίζεις ἴσα (δὴ)|Reiske|1829|Harl. Ven.|
+Alciphr. 3.22.2|γυμν-|σεμνὸν|Stephan Bergler|1715|Harl. Ven.|
 Alciphr. 3.22.2|β. καὶ|βίον|Stephan Bergler|1715|codd. praeter Γ|
 Alciphr. 3.23.2|ὁ π. κ. -ιστος|ὁ περίψυκτος καὶ περικαλλής|Dindorf|1842–7|codd. praeter Γ|ThGL s.v.
-Alciphr. 3.23.2|στέφ-|σκέπειν|Naber|1878|Harl. et Ven.|Mnem.
+Alciphr. 3.23.2|στέφ-|σκέπειν|Naber|1878|Harl. Ven.|Mnem.
 Alciphr. 3.23.5|ἁ-|ἀπλανῶς|Stephan Bergler|1715|codd.|
 Alciphr. 3.24.1|τὴν π.|τὴν τῶν πενήτων|Reiske|1829|codd.|
 Alciphr. 3.24.3|τοιαῦτα τῆς Π. π.|τοιαῦτα τὰ τῆς Π. προπύλαια|Stephan Bergler|1715|Paris. gr. 1696 (Γ)|'Qui sermone Græco imbutas habent aures facilè sentiunt'
-Alciphr. 3.26.1|ἐκκουριασθ-|ἐκκορηθείης|Stephan Bergler|1715|Harl. et Ven.|
-Alciphr. 3.27.1|ἔδοξ-|ἔδοσαν|H. J. Polak|1901|Harl. et Ven.|apud Schepers
+Alciphr. 3.26.1|ἐκκουριασθ-|ἐκκορηθείης|Stephan Bergler|1715|Harl. Ven.|
+Alciphr. 3.27.1|ἔδοξ-|ἔδοσαν|H. J. Polak|1901|Harl. Ven.|apud Schepers
 Alciphr. 3.27.1|τὸ παράνσιγώην, σιγῆ δ. ἐ.|τὸ παρὸν σιγώην, σιγὴ δέ ἐστι|Stephan Bergler|1715|Paris. gr. 1696 (Γ)|'quintuplici errore'
 Alciphr. 3.27.2|τὰς ἄλλας|τὰς ἄ. ἃς|Stephan Bergler|1715|Harl. Ven. Γ|
 Alciphr. 3.28.1|ἀμειδῆτον|ἀμειδῆ τὸν|Stephan Bergler|1715|Harl. Ven. Γ|
 Alciphr. 3.28.1|σκιλδαμ-|σκινδαλμοὺς|Stephan Bergler|1715|Harl. Ven. Γ|
 Alciphr. 3.29 inscr.|Πηξάγω-|Πηξάγκωνος|Cobet|1854|Paris. gr. 1696 (Γ)|
-Alciphr. 3.30.1|Βροτη-|Βρεντησίου|F. J. Bast|1809|Harl. et Ven.|
+Alciphr. 3.30.1|Βροτη-|Βρεντησίου|F. J. Bast|1809|Harl. Ven.|
 Alciphr. 3.30.3|προῦργ-|πανοῦργος|Stephan Bergler|1715|Harl. Ven. Γ|
 Alciphr. 3.30.5|παίουσι|παίζουσι|Stephan Bergler|1715|Harl. Ven. Γ|
-Alciphr. 3.31.1|οἷός ε.|ὅς εἰμι|Stephan Bergler|1715|Harl. et Ven.|
-Alciphr. 3.32.2|-οῦς|Λεωπρέπους|Cobet|1854|Harl. et Ven.|
+Alciphr. 3.31.1|οἷός ε.|ὅς εἰμι|Stephan Bergler|1715|Harl. Ven.|
+Alciphr. 3.32.2|-οῦς|Λεωπρέπους|Cobet|1854|Harl. Ven.|
 Alciphr. 3.32.2|Καρανω-|Κρανωνίου|Stephan Bergler|1715|Harl. Ven. Γ|
 Alciphr. 3.33.2|στε-|Τενεδίῳ|Stephan Bergler|1715|Paris. gr. 1696 (Γ)|
-Alciphr. 3.34.1|ἀττι-|ἀστικῆς|David Ruhnken|1820|Harl. et Ven.|apud Weiske in Longin.
+Alciphr. 3.34.1|ἀττι-|ἀστικῆς|David Ruhnken|1820|Harl. Ven.|apud Weiske in Longin.
 Alciphr. 3.34.2|ἀγρικῶς|ἀγροικικῶς|Stephan Bergler|1715|Paris. gr. 1696 (Γ)|
 Alciphr. 3.34.5|μεναρ-|Μεγαρικοῖς|Stephan Bergler|1715|Paris. gr. 1696 (Γ)|
 Alciphr. 3.36.3|βάθρ-|βαράθρων|Stephan Bergler|1715|Marc. class. VIII 2 (Ven.)|
 Alciphr. 3.36.3|κινού-|κοινούμενος|Stephan Bergler|1715|Harl. Ven. Γ|
-Alciphr. 3.36.4|οἷον π. ε.|ἧ ποδῶν εἶχον|Stephan Bergler|1715|Harl. et Ven.|ᾗ codd.
+Alciphr. 3.36.4|οἷον π. ε.|ἧ ποδῶν εἶχον|Stephan Bergler|1715|Harl. Ven.|ᾗ codd.
 Alciphr. 3.38.2|δορυ-|δρυπετεῖς|Joannes Meursius|1617|Paris. gr. 3050 (Δ)|p. 324
 Alciphr. 3.40.3|πρόσοδ-|πρόοδον|Stephan Bergler|1715|Vat.2 Π Δ|
 Alciphr. 3.40.3|π. -ως|περιπάτους ἀνειμένους|Stephan Bergler|1715|Vat.2 Flor.|
@@ -448,6 +448,10 @@ Alciphr. 4.8.2|κατη-|παρηγόρημα|Stephan Bergler|1715|Palat. 132 (C
 Alciphr. 4.8.2|πολλήν τ. ἐφορ-|πολύν τινα ἐνεφορησάμην|Stephan Bergler|1715|codd.|
 Alciphr. 4.8.2|τότε δ. ἄ.|τὸ δ(ὲ) ἄρα|Stephan Bergler|1715|Vat.2 Flor. Π|
 Alciphr. 4.10.3|διασώ-|διώσασθαι|Stephan Bergler|1715|codd.|
+Alciphr. 4.14.1|ἀπ-|ἐπήγγειλεν|Hemsterhuis|1901|codd.|apud Schepers
+Alciphr. 4.14.5|ἰσχύ-|ἰσχίων|Stephan Bergler|1715|Vat.2 Flor. Π|
+Alciphr. 4.14.5|-ῷ|αὐτῶν|George d'Arnaud|1734|codd.|Miscell. Obs. 5/1 p. 63
+Alciphr. 4.16.3|αὐτοῖς τοῖς αὐλοῖς|-ὸν τ. α.|George d'Arnaud|1734|Vat.2 Flor.|Miscell. Obs. 5/2 p. 274
 Alciphr. 4.16.7|ἑταίρ-|ἑτέρους|Stephan Bergler|1715|VFPD|
 Alciphr. 4.17.2|ἐφ-|ἀφέτω|Stephan Bergler|1715|VFPD|
 Alciphr. 4.17.2|μουσικ-|φυσικῶς|J. Ph. d’Orville|1750|VFPD|ad Charitonem p. 441
