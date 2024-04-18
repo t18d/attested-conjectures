@@ -20,7 +20,9 @@
         <li>P.Oxy. I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XV, XVII, XIX, XX, XXII, XXIV, XXVI, XXVII, XXXI, XXXII, XXXVIII, XLI, XLII, XLIV, XLV, XLVII, XLVIII, XLIX, L, LIII, LIV, LVI, LVII, LIX, LX, LXI, LXII, LXIII, LXIV, LXVI, LXVII, LXVIII, LXXV, LXXVI, LXXVIII, LXXIX, LXXXI, LXXXIV (LXXXV, LXXXVII unavailable)</li>
         <li>P.Ryl. I, III</li>
         <li>Aeschines, <em>Orationes</em>, ed. Mervin R. Dilts (Stuttgart, 1997).</li>
-        <li>Alciphro, <em>Rhetoris epistolae</em>, ed. E. E. Seiler (Leipzig, 1853), x.</li>
+        <li>Alciphro Rhetor, <em>Epistolae</em>, ed. E. E. Seiler (Leipzig, 1853), x.</li>
+        <li>Alciphro Rhetor, <em>Epistularum libri IV</em>, ed. Menno Anton Schepers (Groningen, 1901).</li>
+        <li>Alciphro Rhetor, <em>Epistularum libri IV</em>, ed. M. A. Schepers (Leipzig, 1905), vii–xviii.</li>
         <li>Ammianus Marcellinus, <em>Rerum gestarum libri qui supersunt</em>, ed. V. Gardthausen (Leipzig, 1874–5).</li>
         <li>Ammianus Marcellinus, <em>Rerum gestarum libri qui supersunt</em>, ed. Charles U. Clark (Berlin, 1910–15).</li>
         <li>Ammien Marcellin, <em>Histoire</em>, i, ed. Édouard Galletier (Paris, 1968).</li>
