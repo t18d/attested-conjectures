@@ -273,7 +273,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Reiske (204), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Reiske (205), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (88) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -369,7 +369,7 @@ Alciphr. 1.17.3|ἐνοίκ-|ἐκείνων|Stephan Bergler|1715|Harl. et Ven.|
 Alciphr. 2.5.2|χάρτην δι' ἀρ. τ. σαπρὸν|χαρτίδια ἀρχαῖά τινα σαπρὰ|George d'Arnaud|1734|Harl. Ven. Γ Vat.1|Miscell. Obs. 4/3 p. 453
 Alciphr. 2.5.2|-ον|ἡμίβρωτα|George d'Arnaud|1734|codd. praeter Leid.|Miscell. Obs. 4/3 p. 453
 Alciphr. 2.7.1|τρίκουρον|τρικόρωνον|J. H. Majus|1716|Harl. Ven. Γ Vat.1|Hist. crit. de la rép. des lettr. XI p. 144 ('tres cornicis ætates habens')
-Alciphr. 2.7.1|τάλαντον|ταλάντατον|M. V. de La Croze|1715|B Harl. Γ Vat.|per litt. ad Berglerum ('& miserrime senex')
+Alciphr. 2.7.1|τάλαντον|ταλάντατον|M. V. de La Croze|1715|B Harl. Γ Vat.|apud Berglerum ('& miserrime senex')
 Alciphr. 2.7.2|Κέκρο-|Κέρκοψ|Pieter Burman I|1727|B Vat.2 Flor. Π Δ|ad Ov. met. 14.92
 Alciphr. 2.17.2|ἕ. δὲ ἰ.|ἕν ἰδὼν|Stephan Bergler|1715|Vindob. phil. gr. 342 (B)|
 Alciphr. 2.18.3|ὄνησιν μ.|ἀνήσει πάντα μηχανώμενος|Stephan Bergler|1715|Vindob. phil. gr. 342 (B)|
@@ -441,6 +441,13 @@ Alciphr. 4.4.4|μαστήρ-|μαστάρια|Stephan Bergler|1715|codd.|'deminu
 Alciphr. 4.4.4|ἀπ-|ἐπέδειξας|Stephan Bergler|1715|codd.|
 Alciphr. 4.6.1|προσήμ-|προσιέμην|Stephan Bergler|1715|Vindob. phil. gr. 318 (A)|
 Alciphr. 4.6.3|παρ᾽ ἡμῖν|παρῆμεν|Reiske|1829|Vat.2 Flor. Π|'aderamus, conveneramus'
+Alciphr. 4.7.3|ἀρνού-|ἀρκούμενον|M. V. de La Croze|1715|codd.|apud Berglerum
+Alciphr. 4.7.4|-ειν|πείθουσιν|Reiske|1829|Vindob. phil. gr. 318 (A)|
+Alciphr. 4.7.4|πρόσ-|πρόκειται|Stephan Bergler|1715|codd.|
+Alciphr. 4.8.2|κατη-|παρηγόρημα|Stephan Bergler|1715|Palat. 132 (C)|
+Alciphr. 4.8.2|πολλήν τ. ἐφορ-|πολύν τινα ἐνεφορησάμην|Stephan Bergler|1715|codd.|
+Alciphr. 4.8.2|τότε δ. ἄ.|τὸ δ(ὲ) ἄρα|Stephan Bergler|1715|Vat.2 Flor. Π|
+Alciphr. 4.10.3|διασώ-|διώσασθαι|Stephan Bergler|1715|codd.|
 Alciphr. 4.16.7|ἑταίρ-|ἑτέρους|Stephan Bergler|1715|VFPD|
 Alciphr. 4.17.2|ἐφ-|ἀφέτω|Stephan Bergler|1715|VFPD|
 Alciphr. 4.17.2|μουσικ-|φυσικῶς|J. Ph. d’Orville|1750|VFPD|ad Charitonem p. 441
