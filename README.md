@@ -435,23 +435,24 @@ Alciphr. 3.36.4|οἷον π. ε.|ἧ ποδῶν εἶχον|Stephan Bergler|17
 Alciphr. 3.38.2|δορυ-|δρυπετεῖς|Joannes Meursius|1617|Paris. gr. 3050 (Δ)|p. 324
 Alciphr. 3.40.3|πρόσοδ-|πρόοδον|Stephan Bergler|1715|Vat.2 Π Δ|
 Alciphr. 3.40.3|π. -ως|περιπάτους ἀνειμένους|Stephan Bergler|1715|Vat.2 Flor.|
-Alciphr. 4.2.2|σ. ἀπὸ σοῦ|σπουδασθῆναι ὑπὸ σοῦ|Stephan Bergler|1715|Φ Π Δ|
-Alciphr. 4.2.2|-ει|φέρειν|Stephan Bergler|1715|codd.|
-Alciphr. 4.4.4|μαστήρ-|μαστάρια|Stephan Bergler|1715|codd.|'deminutivum à μαστός'
-Alciphr. 4.4.4|ἀπ-|ἐπέδειξας|Stephan Bergler|1715|codd.|
-Alciphr. 4.6.1|προσήμ-|προσιέμην|Stephan Bergler|1715|Vindob. phil. gr. 318 (A)|
-Alciphr. 4.6.3|παρ᾽ ἡμῖν|παρῆμεν|Reiske|1829|Vat.2 Flor. Π|'aderamus, conveneramus'
-Alciphr. 4.7.3|ἀρνού-|ἀρκούμενον|M. V. de La Croze|1715|codd.|apud Berglerum
-Alciphr. 4.7.4|-ειν|πείθουσιν|Reiske|1829|Vindob. phil. gr. 318 (A)|
-Alciphr. 4.7.4|πρόσ-|πρόκειται|Stephan Bergler|1715|codd.|
+Alciphr. 4.2.2|σ. ἀπὸ σοῦ|σπουδασθῆναι ὑπὸ σοῦ|Stephan Bergler|1715|VFPD|
+Alciphr. 4.2.2|-ει|φέρειν|Stephan Bergler|1715|VFPD|
+Alciphr. 4.4.4|μαστήρ-|μαστάρια|Stephan Bergler|1715|VFPDW|'deminutivum à μαστός'
+Alciphr. 4.4.4|ἀπ-|ἐπέδειξας|Stephan Bergler|1715|VFPD|
+Alciphr. 4.6.1|προσήμ-|προσιέμην|Stephan Bergler|1715|Vindob. phil. gr. 318 (W)|
+Alciphr. 4.6.3|παρ᾽ ἡμῖν|παρῆμεν|Reiske|1829|VFP|'aderamus, conveneramus'
+Alciphr. 4.7.3|ἀρνού-|ἀρκούμενον|M. V. de La Croze|1715|VFPD|apud Berglerum
+Alciphr. 4.7.4|-ειν|πείθουσιν|Reiske|1829|Vindob. phil. gr. 318 (W)|
+Alciphr. 4.7.4|πρόσ-|πρόκειται|Stephan Bergler|1715|VFPD|
 Alciphr. 4.8.2|κατη-|παρηγόρημα|Stephan Bergler|1715|Palat. 132 (C)|
-Alciphr. 4.8.2|πολλήν τ. ἐφορ-|πολύν τινα ἐνεφορησάμην|Stephan Bergler|1715|codd.|
-Alciphr. 4.8.2|τότε δ. ἄ.|τὸ δ(ὲ) ἄρα|Stephan Bergler|1715|Vat.2 Flor. Π|
-Alciphr. 4.10.3|διασώ-|διώσασθαι|Stephan Bergler|1715|codd.|
-Alciphr. 4.14.1|ἀπ-|ἐπήγγειλεν|Hemsterhuis|1901|codd.|apud Schepers
-Alciphr. 4.14.5|ἰσχύ-|ἰσχίων|Stephan Bergler|1715|Vat.2 Flor. Π|
-Alciphr. 4.14.5|-ῷ|αὐτῶν|George d'Arnaud|1734|codd.|Miscell. Obs. 5/1 p. 63
-Alciphr. 4.16.3|αὐτοῖς τοῖς αὐλοῖς|-ὸν τ. α.|George d'Arnaud|1734|Vat.2 Flor.|Miscell. Obs. 5/2 p. 274
+Alciphr. 4.8.2|πολλήν τ. ἐφορ-|πολύν τινα ἐνεφορησάμην|Stephan Bergler|1715|VFPD|
+Alciphr. 4.8.2|τότε δ. ἄ.|τὸ δ(ὲ) ἄρα|Stephan Bergler|1715|VFP|
+Alciphr. 4.10.3|διασώ-|διώσασθαι|Stephan Bergler|1715|VFPD|
+Alciphr. 4.14.1|ἀπ-|ἐπήγγειλεν|Hemsterhuis|1901|VFPD|apud Schepers
+Alciphr. 4.14.5|ἰσχύ-|ἰσχίων|Stephan Bergler|1715|VFP|
+Alciphr. 4.14.5|-ῷ|αὐτῶν|George d'Arnaud|1734|VFPD|Miscell. Obs. 5/1 p. 63
+Alciphr. 4.16.3|αὐτοῖς τοῖς αὐλοῖς|-ὸν τ. α.|George d'Arnaud|1734|VF|Miscell. Obs. 5/2 p. 274
+Alciphr. 4.16.7|-ιῶσαι|περιουσιάσαι|Stephan Bergler|1715|VFPD|
 Alciphr. 4.16.7|ἑταίρ-|ἑτέρους|Stephan Bergler|1715|VFPD|
 Alciphr. 4.17.2|ἐφ-|ἀφέτω|Stephan Bergler|1715|VFPD|
 Alciphr. 4.17.2|μουσικ-|φυσικῶς|J. Ph. d’Orville|1750|VFPD|ad Charitonem p. 441
