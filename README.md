@@ -460,6 +460,10 @@ Alciphr. 4.17.3|-ίσαι|σωφρονῆσαι|Stephan Bergler|1715||
 Alciphr. 4.17.3|ὅπῃ ποτὲ|ὁποίποτε|Cobet|1854||
 Alciphr. 4.17.5|προσ-|προλαμβάνει|Stephan Bergler|1715|VFPD|
 Alciphr. 4.17.5|π. τ. Ἑ.|πρῶτος εἰς τὴν Ἑλλάδα|Stephan Bergler|1715||
+Alciphr. 4.17.6|τί σοὶ λ. Λ.|τί σὺ λέγεις Λάμια|Perizonius|1715||apud Berglerum ('Quid tu ad hæc dicis Lamia, nonne vera & justa loquor?')
+Alciphr. 4.18.3|ξῆλος ἤ|ξ. εἴ|Stephan Bergler|1715||
+Alciphr. 4.18.4|τροφ-|τρυφὰς|Henri Estienne|1572||s.v. σαλάκων
+Alciphr. 4.18.15|ἢ μ.|ἦ μέγα|J. F. Boissonade|1822||ad Aristaenet. p. 538
 Amm. 14.1.3|conmis-|commisceri|Petrus Castellus|1517|Marc. 388 Bess. (W)|
 Amm. 14.2.18|[...]terius|ulterius|Petrus Castellus|1517|D2|
 Amm. 14.5.8|-rup-|abrepto|Petrus Castellus|1517|T2|
