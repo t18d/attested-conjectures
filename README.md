@@ -275,7 +275,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Reiske (205), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (90) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Reiske (206), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (90) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -716,6 +716,10 @@ Ap. Rhod. 4.1487|αὐλείτης/αὐλήτης|αὐλίτης|Rudolf Merkel
 Apollod. Π. θεῶν 20|-βαφεῖς|μελαμβαθεῖς|Brunck|1786|F|
 App. Hisp. 115|-ων|Ῥωμαίοις|Henri Estienne|1557|exc. Const.|
 App. Hisp. 255|εἰρήνῃ φησὶν|ε. φασὶν|Henri Estienne|1557|exc. Const.|
+App. Pun. 274|-ὸν|αὐτῶν|Reiske|1785|exc. Const.|apud Schweighäuser
+App. Syr. 351|-εύεσθ-|βουλεύσεσθαι|Henri Estienne|1557|Vratisl. Rhedig. 14 (d)|
+App. fr. 10.12|λαθ-|λαβεῖν|Fulvio Orsini|1582|Vat. gr. 73 (Z)|
+App. fr. 10.13|ἐπιγελάσας|ἐ. δ'|Johannes Schweighäuser|1785|Vat. gr. 73 (Z)|
 Apul. Plat. 2.2 p. 223|-tet|oportere|Erwin Rohde|1876|Harl. 3969 (H)|JLZ (Rohde on Goldbacher)
 Apul. Plat. 2.2 p. 223|vel inter se|velint esse|Gottschalk Stewech|1587|Harl. 3969 (H)|
 Apul. Plat. 2.3 p. 223|haec l.|ac laudis|Scaliger|1600|BRZz|
