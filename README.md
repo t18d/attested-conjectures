@@ -30,6 +30,7 @@
         <li>Ammien Marcellin, <em>Histoire</em>, iii, ed. Jacques Fontaine (Paris, 1996).</li>
         <li>Andocides, <em>Orationes</em>, ed. J. H. Lipsius (Leipzig, 1888), xviiii.</li>
         <li>Apollonius Rhodius, <em>Argonautica</em>, ed. Hermann Fränkel (Oxford, 1961).</li>
+        <li>Appianus, <em>Historia Romana</em>, ed. P. Viereck and A. G. Roos, 2 vols (Leipzig, 1905–39).</li>
         <li>Apuleius Platonicus Madaurensis, <em>De philosophia libri</em>, ed. Paul Thomas (Stuttgart, 1970).</li>
         <li>Apuleius Platonicus Madaurensis, <em>De philosophia libri</em>, ed. C. Moreschini (Stuttgart, 1991).</li>
         <li>Aristophanes, <em>Fabulae</em>, ed. N. G. Wilson, 2 vols (Oxford, 2007).</li>
