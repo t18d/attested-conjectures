@@ -679,6 +679,7 @@ And. 4.41|εἰς Θ. καὶ Μ. κ. ε. Μ.|εἰς Θ. καὶ εἰς Μ. κ
 And. 4.42|ἐν ἀν.|εὐανδρίᾳ|Joannes Meursius|1617|Lond. Burn. 95 (A)|p. 260
 Antig. Mir. 50|-αι|ποιοῦντα|J. N. Niclas|1791|Palat. gr. 398|apud Beckmann
 Antig. Mir. 152|-νίθων|ὀρνέων|F. J. Bast|1809|Anon.Vat. c. 14|p. 95
+Antipho 1.1|ἔχοιμι|ἔχει μοι|J. M. Gesner|1743|A1N|ad Luc. Bis Acc. p. 806
 Ap. Rhod. 1.74|ἦεν κτλ.|ᾖεν|Arthur Platt|1914–9|Palat. gr. 186 (V)|
 Ap. Rhod. 1.372|πρώραν|πρώειραν|Bergk|n.d.|Et.Gen.|
 Ap. Rhod. 1.749|ἀμειβό-|ἀμυνόμενοι|Jeremias Hoelzlin|1641|Laur. Plut. 32.16 (S)|
