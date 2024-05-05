@@ -2473,7 +2473,7 @@ Eur. Tr. 1234|-ίσει|φροντιεῖ|A. Matthiae|n.d.|Chr. Pat. 1383|
 Eur. Tr. 1277|ἀμ-|ἐμπνέουϲ᾽|Gilbert Wakefield|1790|q et Chr. Pat. 1704|
 Eur. Tr. 1306|κρύπτουσα|κτυποῦσα|Samuel Musgrave|n.d.|Σ|
 Eur. fr. 119 + 120.6|πατρος|πάτρας|Heinrich Düntzer|1850|P.Oxy. XXXII 2628|Philologus 5 (1850) 186
-Eur. fr. 495.42|τῶν τέχνων|τω]ν κενων|Conrad Gesner|1543|BKT V/II 5514|
+Eur. fr. 495.42|τῶν τέχνων|τω]ν κενων|Conrad Gessner|1543|BKT V/II 5514|
 Eur. fr. 588.3|οὐδὲν|οὐδέν᾽|Grotius|1623|Diog. Laert. Bc|
 Eur. fr. 653.4|ἄρα καί|χρῆν|Nauck|1855|P.Oxy. XLV 3214|Obs. 45 sq.
 Eur. fr. 752k.20|οὖϲι(ν)|θύειν|Cobet|s.xix med.|P.Oxy. VI 852|
@@ -2483,7 +2483,7 @@ Eur. fr. 870|αἷμα|ὄμμα|J. F. Boissonade|1826|Phot. z|
 Eur. fr. 911.2|ἐρόεντα|πτερ-|Grotius|1626|P.Oxy. IX 1176|Satyr. Vit.Eur.; πτε[...]τα
 Eur. fr. 912.1|χοήν|χλόην|Bergk|1839–41|P.Oxy. IX 1176|ap. Welcker 1602
 Eur. fr. 912.2|φέρων|φέρω|Grotius|1626|P.Oxy. IX 1176|φερ[.]
-Eur. fr. 1063.2|ἄνδρ᾽ ἢ κτλ.|ἄνδρα χρὴ|Conrad Gesner|1543|Chor. 32.52|
+Eur. fr. 1063.2|ἄνδρ᾽ ἢ κτλ.|ἄνδρα χρὴ|Conrad Gessner|1543|Chor. 32.52|
 Eust. Il. 353.33|-ὸς|αἰσχρῶς|Guarinus Camers|s.xv/xvi|Laur. 59.2 et 3 (L)|
 Eust. Il. 1291.44|οὔ τοι|οὗτοι|Guarinus Camers|s.xv/xvi|Laur. 59.2 et 3 (L)|
 Flor. epit. 1.22.3|in causa(m)|causa|Otto Rossbach|1896|V E Cracov.|
@@ -4971,8 +4971,8 @@ Soph. fr. 481|δρώπα/δρωπτά|δρωπά|J. A. H. Tittmann|1808|Suid. δ
 Soph. fr. 591|ἐν φύλων|ἕν φῦλον|Bergk|1836|Favorin. Π φυγῆς|ZfA 3 (1836) 78
 Soph. fr. 635|σακκο-|σακοδερμηστής|Jacobus Palmerius|1668|Synag. Phot.|ap. Hsch. σ 76
 Soph. fr. 871|εὐγενεστ-|εὐπρεπεστάτη|Ritschl|1829|Plu. 5.517D|
-Soph. fr. 945.1|-πώρων|ταλαίπωρον|Conrad Gesner|1543|Stob. MA/Apostol. plerique codd.|
-Soph. fr. 945.2|εἰκ-|ἐοικότες|Conrad Gesner|1543|codd.|
+Soph. fr. 945.1|-πώρων|ταλαίπωρον|Conrad Gessner|1543|Stob. MA/Apostol. plerique codd.|
+Soph. fr. 945.2|εἰκ-|ἐοικότες|Conrad Gessner|1543|codd.|
 Soph. fr. 961|ὑπερπ-|ὑπεκπηδᾷ|Henrik van Herwerden|1855|Stob. 1.3.7|Observ. 129 (diss. Leiden)
 Sor. Gyn. 2–3|Ἀθηναίων|Ἀθηνίων|Wellmann|n.d.|PSI II 117|
 Sor. Gyn. 2–3|τῆς αἱρέσεως|τῶν περὶ τ. α.|Rose|n.d.|PSI II 117|
@@ -5194,24 +5194,24 @@ Stob. 2.4.8|μόνον|μόνος|Grotius|1623|Paris. gr. 1985 (B)|
 Stob. 2.7.20|ᾧ|ὧν|C. F. Sehrwald|1859|P2|apud Meurer
 Stob. 2.7.20|ὅμ-|ὅλως|Hermann Rassow|1858|P2 in marg.|p. 27
 Stob. 2.31.128|-θεστέρων|ἀξιομαθητοτέρων|L. Dindorf|1831–56|Laur. Plut. 8.22 (L)|TGL s.v.
-Stob. 3.1.97|ψυχῆς|τύχης|Conrad Gesner|1549|Brux. misc. 11360 (Br)|
-Stob. 3.1.108|οὐ μετρίαν|ἀμετρίαν|Conrad Gesner|1549|MdA|
+Stob. 3.1.97|ψυχῆς|τύχης|Conrad Gessner|1549|Brux. misc. 11360 (Br)|
+Stob. 3.1.108|οὐ μετρίαν|ἀμετρίαν|Conrad Gessner|1549|MdA|
 Stob. 3.1.114|-πληθ-|παμπλαθέας|Meineke|1855|Paris. gr. 1984 (A)|
-Stob. 3.1.115|ἀρετὰ|ἀκρότας|Conrad Gesner|1549|Brux. misc. 11360 (Br)|
+Stob. 3.1.115|ἀρετὰ|ἀκρότας|Conrad Gessner|1549|Brux. misc. 11360 (Br)|
 Stob. 3.1.117|δεινα|δειλία|Gaisford|1850|Brux. misc. 11360 (Br)|
 Stob. 3.1.151|ἀπειθεῖν|πείθειν|Hieronymus Wolf|1563|Paris. gr. 1168|ad Epict. Fr.
-Stob. 3.1.195|-τῆσαι|καταρτίσαι|Conrad Gesner|1549|Paris. gr. 1984 (A)|
+Stob. 3.1.195|-τῆσαι|καταρτίσαι|Conrad Gessner|1549|Paris. gr. 1984 (A)|
 Stob. 3.1.206|-αν|εὐπραξία|Cobet|1858|Escor. LXXXX II Σ 14 (Md)|Nov. lect. p. 701
 Stob. 3.1.209|τῆς -ης|τὴν σκέπην|J. V. Peerlkamp|1822|MdABr|p. xvii
 Stob. 3.1.209|-ος|θάλπους|J. V. Peerlkamp|1822|MdABr|
 Stob. 3.1.209|-α|περιττεύουσαν|J. D. Lorenz|1828|Paris. gr. 1984 (A)|apud Jacobs
-Stob. 3.1.209|χρήσ-|χρίσεις|Conrad Gesner|1549|Brux. misc. 11360 (Br)|
+Stob. 3.1.209|χρήσ-|χρίσεις|Conrad Gessner|1549|Brux. misc. 11360 (Br)|
 Stob. 3.2.7|-ῆ|αὐτοῖς|Nauck|1894|Brux. misc. 11360 (Br)|apud Hense
 Stob. 3.2.15|Τεννε/Τημε|Τημένῳ|Valckenaer|1767|duo codd. Schowiani|Diatribe p. 15
 Stob. 3.3.14|τοι/τε|τι|Grotius|1623|Escor. LXXXX II Σ 14 (Md)|
 Stob. 3.3.50|διδόντ-|δώσοντας|Nauck|1894|Gnomol.Vat|apud Hense
-Stob. 3.4.12|δ. φοίτασις|δόμοις φοιτάσεις|Conrad Gesner|1549|Paris. gr. 1984 (A)|
-Stob. 3.5.45|πολὺ|πολλὴ|Conrad Gesner|1549|LABr|
+Stob. 3.4.12|δ. φοίτασις|δόμοις φοιτάσεις|Conrad Gessner|1549|Paris. gr. 1984 (A)|
+Stob. 3.5.45|πολὺ|πολλὴ|Conrad Gessner|1549|LABr|
 Stob. 3.10.68|-πίῃ|Αἰσωπηίῃ|Meineke|1855|Brux. misc. 11360 (Br)|-πείῃ Br
 Stob. 3.16.15|ἀπο-|ἀπεστερέαται|G. H. Schaefer|1811|Vindob. philos. et philol. gr. 67 (S)|ad Greg.Cor. p. 485
 Stob. 3.17.42|τῆς τοιαύτης εἶναι|τῆς μὴ τοιαύτης· εἶναι δὲ|Gaisford|1850|Brux. misc. 11360 (Br)|
@@ -5221,12 +5221,12 @@ Stob. 3.33.13|-αι|ποιεῖσθε|Meineke|1857|SM|addendum ap. vol. IV
 Stob. 3.33.16|τῶν|τοῖς|Daniel Wyttenbach|1800|Vindob. philos. et philol. gr. 67 (S)|
 Stob. 3.34.2|λέγε|λέγ᾽ εὖ|Valckenaer|1767|Laur. Plut. 8.22 (L)|Diatr. p. 256
 Stob. 3.34.2|-οι|φέρει|Cobet|1878|Laur. Plut. 8.22 (L)|Coll. crit. p. 203
-Stob. 3.40.9|κ. ἄξιός|κἂν ἀξιοῖς|Conrad Gesner|1543|Apc|
-Stob. 4.1.9|-εθα|ηὐχόμεσθα|Conrad Gesner|1543|S (teste Mekler)|
-Stob. 4.1.95|ἐπεύχ-|ἐπέχεσθαι|Conrad Gesner|1543|MA|
+Stob. 3.40.9|κ. ἄξιός|κἂν ἀξιοῖς|Conrad Gessner|1543|Apc|
+Stob. 4.1.9|-εθα|ηὐχόμεσθα|Conrad Gessner|1543|S (teste Mekler)|
+Stob. 4.1.95|ἐπεύχ-|ἐπέχεσθαι|Conrad Gessner|1543|MA|
 Stob. 4.2.23|προσθ-|προθεὶς|Johannes Löwenklau|1569|Escor. LXXXX II Σ 14 (M)|
 Stob. 4.5.78|ἔλεγε τὸν ἄ.|ἔλεγεν ἄρχοντα|Nauck|1909|Brux. misc. 11360 (Br)|apud Hense
-Stob. 4.8.32|τῶν|τὸν|Conrad Gesner|1543|Paris. gr. 1984 (A)|
+Stob. 4.8.32|τῶν|τὸν|Conrad Gessner|1543|Paris. gr. 1984 (A)|
 Stob. 4.15.18|τούτων|τοῦτον|Meineke|1855|Vindob. philos. et philol. gr. 67 (S)|
 Stob. 4.20.46|χερσὶ(ν)|χεροῖν|Scaliger|1623|B (teste Brunck/Gaisford)|ap. Grotium Dict. poet. p. 263
 Stob. 4.20.46|ποτ᾽ ἐνίους|ποταινίους|Scaliger|1623|B (teste Brunck/Gaisford)|ap. Grotium
@@ -5239,8 +5239,8 @@ Stob. 4.23.61|τε|τᾷ|Orelli|1821|Paris. gr. 1984 (A)|p. 726
 Stob. 4.23.65|τί δαὶ|τί δὲ|Meineke|1856|Paris. gr. 1984 (A)|
 Stob. 4.27.20|τῶν|τοῖς|Peter Needham|1709|Laur. Plut. 8.22 (L)|
 Stob. 4.29.11|ὅπως|ὅτῳ|Nauck|1912|P.Berol. 5514|apud Hense
-Stob. 4.29.11|τέκνων|κενῶν|Conrad Gesner|1543|P.Berol. 5514|
-Stob. 4.31.22|νόμιζ' αὐτὸν|νόμιζε σαυτὸν|Conrad Gesner|1543|Paris. gr. 1984 (A)|
+Stob. 4.29.11|τέκνων|κενῶν|Conrad Gessner|1543|P.Berol. 5514|
+Stob. 4.31.22|νόμιζ' αὐτὸν|νόμιζε σαυτὸν|Conrad Gessner|1543|Paris. gr. 1984 (A)|
 Stob. 4.31.86|-αις/κακουμένους|καμουμένους|Friedrich Dübner|1855|SM|
 Stob. 4.31.112|κρείττω|κρεῖττον|Meineke|1856|Macar.|
 Stob. 4.36.32|κινή-|κνήσαις|Daniel Wyttenbach|1777|Vindob. philos. et philol. gr. 67 (S)|p. 50
@@ -5249,8 +5249,8 @@ Stob. 4.39.15|λώϊστον δὲ ζ.|λῷστον δὲ τὸ ζῆν|Johanne
 Stob. 4.50.13|-λάβειν|ἀπολαύειν|Scaliger|1841|Vindob. philos. et philol. gr. 67 (S)|apud Meineke p. 692
 Stob. 4.52.21|-νημα|σωφρόνισμα|Meineke|1857|Macar.|
 Stob. 4.52.41|Διονύσιον|Διόνυσον|Meineke|1857|Paris. gr. 1984 (A)|
-Stob. gnom. Theoct. 2|ξηρ-|ξυροῦ|Conrad Gesner|1543|SM|
-Stob. gnom. Theoct. 7|-ότης|ἠλιθιότητος|Conrad Gesner|1543|Vindob. philos. et philol. gr. 67 (S)|
+Stob. gnom. Theoct. 2|ξηρ-|ξυροῦ|Conrad Gessner|1543|SM|
+Stob. gnom. Theoct. 7|-ότης|ἠλιθιότητος|Conrad Gessner|1543|Vindob. philos. et philol. gr. 67 (S)|
 Str. 1.1.4|πλοῦν|πλοῦτον|Casaubon|1620|Cpc|
 Str. 1.1.6|μὴ ἠ.|ἠστροθετῆσθαι|Wilhelm Xylander|1571|ApcCpc|
 Str. 1.1.18|-νικῶν|ἡγεμονιῶν|Adamantios Korais|1815|Paris. gr. 1393 (C)|
