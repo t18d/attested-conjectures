@@ -276,7 +276,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Reiske (209), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (90) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (229), Nicolaus Heinsius (213), Reiske (210), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (90) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -688,6 +688,8 @@ Antipho 2.1.5|εἶχ-|εἷλεν|Valckenaer|1768|codd.|ad Eur. Hipp. 1002
 Antipho 2.2.7|ὑ. τε τ.|ὑπό τε γὰρ τοῦ|Reiske|1773|NAB|
 Antipho 2.2.9|ληφ-|λειφθείς|John Taylor|1773|Bodl. Auct. T.2.8 (N)|apud Reiske p. 848
 Antipho 2.3.2|ὀ. ὑπ ̓ αὐτοῦ|ὀφθέντες ὑπ ̓ αὐτῶν|Reiske|1773|NA|
+Antipho 2.3.5|πῶς|πᾶς|Bekker|1823|Bodl. Auct. T.2.8 (N)|
+Antipho 2.3.7|πῶς|πᾶς|Reiske|1773|NA|
 Ap. Rhod. 1.74|ἦεν κτλ.|ᾖεν|Arthur Platt|1914–9|Palat. gr. 186 (V)|
 Ap. Rhod. 1.372|πρώραν|πρώειραν|Bergk|n.d.|Et.Gen.|
 Ap. Rhod. 1.749|ἀμειβό-|ἀμυνόμενοι|Jeremias Hoelzlin|1641|Laur. Plut. 32.16 (S)|
