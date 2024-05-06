@@ -2661,7 +2661,7 @@ Hor. carm. 1.15.36|Iliacas|Pergameas|Peter van Os|1500|pauci codd. (Peerlkamp)|
 Hor. carm. 1.20.5|ca-|clare|Denys Lambin|1561|cod. Reg. Soc. Bentleii|
 Hor. carm. 1.20.10|tu|tum|Ludwig Doederlein|1837|schol. sat. 2.2.48|
 Hor. carm. 1.31.3|-ae|optimas|Markland|1728|cod. Torrentii|ad Stat. silv. 4.6.65 ('ubi minus concinne vulgo legitur optimae')
-Hor. carm. 1.31.15|-unt|pascant|Tanaquillus Faber|1671|cod. Reg. Soc. Bentleii|'qui faisoit autant gloire de sa pauvreté que de sa profession'
+Hor. carm. 1.31.15|-unt|pascant|Tanaquillus Faber|1671|cod. Reg. Soc. Bentleii|'qui faisoit autant gloire de sa pauvreté que de sa profession'; 'Il mangeoit peu, & travailloit presque toûjours en mangeant; il ne dormoit pas davantage.' (Niceron)
 Hor. carm. 2.11.19|-guet|restinguit|F. H. Bothe|1820|Reg. lat. 1703 (R)|
 Hor. carm. 2.14.27|-o|superbus|Caspar von Barth|1624|corr. Vat. A (Fea)|
 Hor. carm. 3.8.26|parce|parte|Matthaeus Bonfinis|1518|v et cod. Battel. Bentleii|
