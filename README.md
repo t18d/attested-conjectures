@@ -276,7 +276,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Scaliger (229), Reiske (223), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (90) and Markland (85).</p>
+<p>The top 10 critics are Scaliger (229), Reiske (226), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (91) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -709,6 +709,7 @@ Antipho 5.94|οὔτι|οὔ τοι|Reiske|1773|NABZ|
 Antipho 5.96|-ων, ὡ.|πάσχω, ὡς|Reiske|1773|NAB|
 Antipho 6.18|τοῦτο κ.|τούτου κρατεῖ|Reiske|1773|NAB|
 Antipho 6.21|ἐ.|ἐπειδὴ δὲ|Reiske|1773|codd.|
+Antipho Soph. fr. 9|ἀντιφάνης|ἀντιφῶν|Meineke|1860|cod. Farnes. (F)|
 Ap. Rhod. 1.74|ἦεν κτλ.|ᾖεν|Arthur Platt|1914–9|Palat. gr. 186 (V)|
 Ap. Rhod. 1.372|πρώραν|πρώειραν|Bergk|n.d.|Et.Gen.|
 Ap. Rhod. 1.749|ἀμειβό-|ἀμυνόμενοι|Jeremias Hoelzlin|1641|Laur. Plut. 32.16 (S)|
@@ -2546,6 +2547,9 @@ Gell. 3.14.5|sicut|sicuti|Lachmann|1855|recc.|ad Lucr. 2.536
 Gell. 6.17.10|obnoxie|obnoxiosae|Valens Acidalius|1607|Vat. lat. 3452 (V)|p. 480 ad Plaut. Stich.; -se V
 Gell. 10.15.20|exuisse|exuit se|Caspar Schoppe|1706|Qpc|apud J. Gronovium p. 894
 Gell. 13.5.7|curant|quaerunt|Lucian Müller|1885|Bonn. bibi. Vniu. S 218 (J)|apud Hertz
+Gorg. Hel. 13|ὡς ε.|εὐμετάβολον|Reiske|1773|HW|
+Gorg. Hel. 20|ἔπραξε|ἔπραξεν ἃ ἔ.|Reiske|1773|Lond. Burn. 95 (A)|
+Gorg. Hel. 21|ἐπ' ἀ.|ἐν ἀρχῇ|Reiske|1773|Lond. Burn. 95 (A)|
 Harp. Α 19|-θίας|πυθέας|Ph. J. de Maussac|1614|Mediol. 26 (H)|
 Harp. Ε 103|ἐχει-|χειροτονεῖ|Bekker|1833|Arist. Ath.|
 Harp. Κ 5|ἢ ἐν ὁ.|ἣν ὁδῷ|P. J. de Maussac|1614|pl|
