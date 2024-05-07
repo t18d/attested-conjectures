@@ -34,6 +34,7 @@
         <li>Appianus, <em>Historia Romana</em>, ed. P. Viereck and A. G. Roos, 2 vols (Leipzig, 1905–39).</li>
         <li>Apuleius Platonicus Madaurensis, <em>De philosophia libri</em>, ed. Paul Thomas (Stuttgart, 1970).</li>
         <li>Apuleius Platonicus Madaurensis, <em>De philosophia libri</em>, ed. C. Moreschini (Stuttgart, 1991).</li>
+        <li>Aratus, <em>Phaenomena</em>, ed. Douglas Kidd (Cambridge, 1997).</li>
         <li>Aristophanes, <em>Fabulae</em>, ed. N. G. Wilson, 2 vols (Oxford, 2007).</li>
         <li>Aristote, <em>Du Ciel</em>, ed. Paul Moraux (Paris, 1965).</li>
         <li>Aristote, <em>Topiques</em>, ed. Jacques Brunschwig, 2 vols (Paris, 1967–2007).</li>
