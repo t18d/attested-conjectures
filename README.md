@@ -972,6 +972,7 @@ Arr. An. 3.29.4|πόν-|τόποις|J. G. Schneider|1835|Paris. gr. 1753 (B)|ap
 Arr. An. 4.26.5|-ον|ἀνέστελλεν|H. R. Grundmann|1884|Vindob. hist. 4 (A)|
 Arr. An. 4.29.1|-ασθαι|ἡγήσεσθαι|J. G. Schneider|1835|Vindob. hist. 4 (A)|apud Krüger
 Arr. An. 6.3.2|ἐπεὶ|ἐπὶ|Karl Sintenis|1867|Vindob. hist. 4 (A)|
+Arr. Post Alex. 24.16|ἔ[]εν|ἔταξεν|Ulrich Köhler|1890|Vat. gr. 495 (V)|
 Ascon. Corn. 51|quis|quiuis|Poggio|1416|Pistor. Forteg. A. 37 (S)|
 Ascon. Corn. 54|-eat|apparet|Nicolaus Beraldus|1520|Harl. 2568 (ψ)|
 Ascon. Corn. 59|regend-|redigendis|Stephanus Pighius|1615|schol. Bob. ad S. Rosc. 30|Ann. III p. 196
