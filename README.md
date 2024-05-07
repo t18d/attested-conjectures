@@ -38,7 +38,8 @@
         <li>Aristote, <em>Du Ciel</em>, ed. Paul Moraux (Paris, 1965).</li>
         <li>Aristote, <em>Topiques</em>, ed. Jacques Brunschwig, 2 vols (Paris, 1967–2007).</li>
         <li>Aristotle, <em>Poetics</em>, ed. Leonardo Tarán and Dimitri Gutas (Leiden, 2012).</li>
-        <li>Arrianos, <em>Alexandrou anabasis</em>, ed. K. W. Krüger (Berlin, 1835).</li>
+        <li>Arrianos, <em>Alexandrou anabasis</em>, i, ed. K. W. Krüger (Berlin, 1835).</li>
+        <li>Arrianus, Flavius, <em>Alexandri anabasis, scripta minora et fragmenta</em>, ed. A. G. Roos, 2 vols (Leipzig, 1967–8).</li>
         <li>Asconius Pedianus, Q., <em>Orationum Ciceronis quinque enarratio</em>, ed. Albert Curtis Clark (Oxford, 1907).</li>
         <li>Asztalos, Monika, Tor Ivar Østmoe, et al., <em><a href="http://www.tekstlab.uio.no/horace/">Repertory of Conjectures on Horace</a></em>, University of Oslo, accessed 9 Feb. 2024.</li>
         <li>Athenaeus Naucratita, <em>Dipnosophistarum libri XV</em>, iii, ed. Georg Kaibel (Leipzig, 1887).</li>
