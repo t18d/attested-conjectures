@@ -276,7 +276,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Reiske (232), Scaliger (229), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (91) and Markland (85).</p>
+<p>The top 10 critics are Reiske (236), Scaliger (229), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (91) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -365,6 +365,10 @@ Alc. fr. 34|]ϲον|δεῦτέ μοι νᾶϲον|C. Gallavotti|1947|P.Mich. in
 Alc. fr. 343|τετυγ-|τετυχ[|Lobel|1927|P.Oxy. XXXV 2734|
 Alcid. Od. 7|deest|ΜΑΡΤΥΡΕΣ|Reiske|1773|cod. ap. Cripp. (C)|
 Alcid. Od. 13|ἁλεί-|ἁλιείαν|Reiske|1773|Lond. Burn. 95 (A)|
+Alcid. Od. 20|στρα-|συστρατεύειν|Reiske|1773|AC2|
+Alcid. Soph. 11|πῶς|πῶς δ ̓|Reiske|1773|XC|
+Alcid. Soph. 13|ἀφ ̓ οὗ|ἀφ ̓ ἧς|Reiske|1773|cod. ap. Cripp. (C)|
+Alcid. Soph. 29|προσδια-|προδιαβάλλειν|Reiske|1773|cod. ap. Cripp. (C)|
 Alciphr. 1.1.1|ἐπ᾽ ἀλλ-|ἐπαλλήλων|Valckenaer|1901|Harl. Ven.|apud Schepers
 Alciphr. 1.9.3|π. -οῖς|παρ᾽ αὐτῶν|Cobet|1854|Paris. gr. 1696 (Γ)|
 Alciphr. 1.11.1|κατεγγυώσ-/κατ᾽ ἐγγύησιν|κατεγγυήσειν|Stephan Bergler|1715|Paris. gr. 3021 (Π)|
