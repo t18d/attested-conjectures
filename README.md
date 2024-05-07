@@ -923,6 +923,7 @@ Ar. Vesp. 1413|-ειν|κλητεύεις|Bergler|n.d.|Paris. gr. 2715 (B)|
 Ar. Vesp. 1424|πράγμ-|τραύματος|Reiske|n.d.|Paris. gr. 2715 (B)|
 Ar. fr. 135|-ειψεν/ἡμεῖς|ἤμει|Bekker|1829|Phot. Szac|
 Ar. fr. 471|καὶ τῶν βελέκκων|βελέκκων|Theodor Kock|1880|P.Oxy. XV 1801|CAF I
+Arat. Phaen. 140|||Ernest Maass|1893||
 Arat. Phaen. 736|ἰοῦσα|ἄγουσα|Philipp Buttmann|1826|BKT V/I 7503 + 7804|
 Arat. Phaen. 750|ἐμπλήσει|ἐμπλήσσει|J. H. Voß|1824|BKT V/I 7503 + 7804|
 Arat. Phaen. 870|φαίνονται|φαίνωνται|J. H. Voß|1824|BKT V/I 7503 + 7804|
@@ -964,6 +965,7 @@ Arist. Top. 148a|ἔτι εἰ τῶν ὁμοίων|ἔ. ε. ἐπὶ τῶν �
 Arist. fr. 57.12 Rose|οὔτε|ουδε|Meineke|1839–57|P.Oxy. IV 666|
 Arist. fr. 842.7 Page|τ᾽ ἀθάνατον/εἰς ἀ.|ἰσαθάνατον|Wilamowitz|n.d.|BKT I 25|Did. in D. col. 6.18 seqq.
 Aristarch.Trag. fr. 3|-νημα|σωφρόνισμα|Meineke|1839–57|Macar.|
+Arr. An. 2.14.4|ἡ δ. ἐ. Ἀ.|ἡ δὲ ἐπιστολὴ ἡ Ἀλεξάνδρου|K. W. Krüger|1851|Vindob. hist. 4 (A)|
 Ascon. Corn. 51|quis|quiuis|Poggio|1416|Pistor. Forteg. A. 37 (S)|
 Ascon. Corn. 54|-eat|apparet|Nicolaus Beraldus|1520|Harl. 2568 (ψ)|
 Ascon. Corn. 59|regend-|redigendis|Stephanus Pighius|1615|schol. Bob. ad S. Rosc. 30|Ann. III p. 196
