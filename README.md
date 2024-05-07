@@ -926,6 +926,9 @@ Ar. Vesp. 1424|πράγμ-|τραύματος|Reiske|n.d.|Paris. gr. 2715 (B)|
 Ar. fr. 135|-ειψεν/ἡμεῖς|ἤμει|Bekker|1829|Phot. Szac|
 Ar. fr. 471|καὶ τῶν βελέκκων|βελέκκων|Theodor Kock|1880|P.Oxy. XV 1801|CAF I
 Arat. Phaen. 140|ὑποφ-|ὕπο φαίνεται|Ernest Maass|1893|Edinb. Adv. MS 18.7.15 (E)|
+Arat. Phaen. 147|ὑπὸ|ὕπο|Ernest Maass|1893|Edinb. Adv. MS 18.7.15 (E)|p. 97
+Arat. Phaen. 196|-άν/-ήν|ὄργνυιαν|J. H. Voß|1824|Palat. gr. 40 (P)|
+Arat. Phaen. 313|-ον|ἀσσότερος|Jean Martin|1956|Salmant. M 233 (Q)|
 Arat. Phaen. 736|ἰοῦσα|ἄγουσα|Philipp Buttmann|1826|BKT V/I 7503 + 7804|
 Arat. Phaen. 750|ἐμπλήσει|ἐμπλήσσει|J. H. Voß|1824|BKT V/I 7503 + 7804|
 Arat. Phaen. 870|φαίνονται|φαίνωνται|J. H. Voß|1824|BKT V/I 7503 + 7804|
