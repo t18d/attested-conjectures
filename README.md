@@ -279,7 +279,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Reiske (236), Scaliger (229), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (91) and Markland (85).</p>
+<p>The top 10 critics are Reiske (236), Scaliger (230), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (91) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -918,17 +918,21 @@ Ar. Vesp. 526|δὲ|δὴ|Porson|n.d.|Palat. gr. 128 (Vp3)|
 Ar. Vesp. 558|-φυξιν|ἀπόφευξιν|Bentley|s.xviii in.|Haun. 1980 (H)|
 Ar. Vesp. 576|γράψομαι|γράφομαι|Brunck|1783|P.Oxy. XI 1374|
 Ar. Vesp. 694|ἀνταν-|ἀντενέδωκεν|P. P. Dobree|s.xviii/xix|Haun. 1980 (H)|
-Ar. Vesp. 790|ἐπέθηκε|ἐνέθηκε|Bergk|n.d.|P.Oxy. XI 1374|
+Ar. Vesp. 790|ἐπέθηκε|ἐνέθηκε|Bergk||P.Oxy. XI 1374|
 Ar. Vesp. 1132/5|ἀναλαβοῦ|ἀναβαλοῦ|Valckenaer|1757|B et Rpc|
-Ar. Vesp. 1210|-κλίνω|κατακλινῶ|Scaliger|n.d.|Paris. gr. 2715 (B)|
-Ar. Vesp. 1413|-ειν|κλητεύεις|Bergler|n.d.|Paris. gr. 2715 (B)|
-Ar. Vesp. 1424|πράγμ-|τραύματος|Reiske|n.d.|Paris. gr. 2715 (B)|
+Ar. Vesp. 1210|-κλίνω|κατακλινῶ|Scaliger||Paris. gr. 2715 (B)|
+Ar. Vesp. 1413|-ειν|κλητεύεις|Bergler||Paris. gr. 2715 (B)|
+Ar. Vesp. 1424|πράγμ-|τραύματος|Reiske||Paris. gr. 2715 (B)|
 Ar. fr. 135|-ειψεν/ἡμεῖς|ἤμει|Bekker|1829|Phot. Szac|
 Ar. fr. 471|καὶ τῶν βελέκκων|βελέκκων|Theodor Kock|1880|P.Oxy. XV 1801|CAF I
 Arat. Phaen. 140|ὑποφ-|ὕπο φαίνεται|Ernest Maass|1893|Edinb. Adv. MS 18.7.15 (E)|
 Arat. Phaen. 147|ὑπὸ|ὕπο|Ernest Maass|1893|Edinb. Adv. MS 18.7.15 (E)|p. 97
 Arat. Phaen. 196|-άν/-ήν|ὄργνυιαν|J. H. Voß|1824|Palat. gr. 40 (P)|
 Arat. Phaen. 313|-ον|ἀσσότερος|Jean Martin|1956|Salmant. M 233 (Q)|
+Arat. Phaen. 413|-ον|εἰλυμένος|Scaliger|1600|Epc|ad Manil. 5.340 p. 430
+Arat. Phaen. 421|α. τε κ. τε|αἶψα δὲ κοῦφά τε|J. H. Voß|1824|Vat. gr. 1910 (V)|
+Arat. Phaen. 466|συνεεργμ-|συνεερμένα|Philipp Buttmann|1826|Vat. gr. 199 (N)|
+Arat. Phaen. 627|μεταδύεται|μέτα δύεται|Grotius|1600|Edinb. Adv. MS 18.7.15 (E)|
 Arat. Phaen. 736|ἰοῦσα|ἄγουσα|Philipp Buttmann|1826|BKT V/I 7503 + 7804|
 Arat. Phaen. 750|ἐμπλήσει|ἐμπλήσσει|J. H. Voß|1824|BKT V/I 7503 + 7804|
 Arat. Phaen. 870|φαίνονται|φαίνωνται|J. H. Voß|1824|BKT V/I 7503 + 7804|
