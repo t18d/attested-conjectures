@@ -29,6 +29,7 @@
         <li>Ammien Marcellin, <em>Histoire</em>, v, ed. Marie-Anne Marié (Paris, 1984).</li>
         <li>Ammien Marcellin, <em>Histoire</em>, iii, ed. Jacques Fontaine (Paris, 1996).</li>
         <li>Andocides, <em>Orationes</em>, ed. J. H. Lipsius (Leipzig, 1888), xviiii.</li>
+        <li>Antiphon, <em>Orationes et fragmenta adiunctis Gorgiae, Antisthenis, Alcidamantis declamationibus</em>, ed. Friedrich Blass (Leipzig, 1881).</li>
         <li>Apollonius Rhodius, <em>Argonautica</em>, ed. Hermann Fränkel (Oxford, 1961).</li>
         <li>Appianus, <em>Historia Romana</em>, ed. P. Viereck and A. G. Roos, 2 vols (Leipzig, 1905–39).</li>
         <li>Apuleius Platonicus Madaurensis, <em>De philosophia libri</em>, ed. Paul Thomas (Stuttgart, 1970).</li>
