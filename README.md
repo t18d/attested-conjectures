@@ -944,7 +944,7 @@ Arat. Phaen. 846|μετ᾽|μέτ᾽|J. H. Voß|1824|Edinb. Adv. MS 18.7.15 (E)|
 Arat. Phaen. 870|φαίνονται|φαίνωνται|J. H. Voß|1824|BKT V/I 7503 + 7804|
 Arat. Phaen. 1119|ἀγέρωνται ἐρχόμεναι|ἀ. -οι|J. H. Voß|1824|Edinb. Adv. MS 18.7.15 (E)|
 Archil. fr. 4.6|ἀλλά τε|ἀλλ᾽ ἄγε|Musurus|n.d.|P.Oxy. VI 854|
-Arist. Ath. 57.2|γερ-|ἱερῶν|Herbert Richards|1891|P.Lond.Lit. 108|
+Arist. Ath. 57.2|γερ-|ἱερῶν|Herbert Richards|1891|P.Lond.Lit. 108|apud Herwerden-Leeuwen
 Arist. Cael. 292b|αὕτη|αὐτῇ|Carl Prantl|1857|Paris. gr. 1853 (E)|a.c.
 Arist. Po. 1447b9|om.|ἀνώνυμος|Bernays|1857–80|Σ|
 Arist. Po. 1447b16|μουσι-|φυσικόν|Daniel Heinsius|1611|Σ|p. 71
