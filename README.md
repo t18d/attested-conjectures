@@ -97,6 +97,7 @@
         <li>Dietsch, Rudolf (ed.), <em>Gai Sallusti Crispi quae supersunt</em>, i (Leipzig, 1859).</li>
         <li>Diggle, James, 'Apologies to Bothe (and Others)', in <em>Euripidea: collected essays</em> (Oxford, 1994), 518–23.</li>
         <li>Dinarchus, <em>Orationes cum fragmentis</em>, ed. Nicos C. Conomis (Leipzig, 1975).</li>
+        <li>Diodorus, <em>Bibliotheca historica</em>, ii, ed. Friedrich Vogel (Leipzig, 1890).</li>
         <li>Diodore de Sicile, <em>Bibliothèque historique, livre XII</em>, ed. Michel Casevitz (Paris, 1972).</li>
         <li>Diogenes Laertius, <em>Vitae philosophorum</em>, ed. Miroslav Marcovich (Berlin, 2008).</li>
         <li>Diogenes Laertius, <em>Lives of Eminent Philosophers</em>, ed. Tiziano Dorandi (Cambridge, 2013).</li>
@@ -127,6 +128,7 @@
         <li>Hérodote, <em>Histoires</em>, ed. Ph.-E. Legrand (Paris, 1954–64).</li>
         <li>Herodotus, <em>Historiae</em>, ed. Haiim B. Rosén, 2 vols (Leipzig, 1987–97).</li>
         <li>Herodotus, <em>Historiae</em>, ed. N. G. Wilson, 2 vols (Oxford, 2015).</li>
+        <li>Hesiod, <em>Works and Days</em>, ed. M. L. West (Oxford, 1978).</li>
         <li>Hohl, Ernst (ed.), <em>Scriptores historiae Augustae</em>, 2 vols (Leipzig, 1965).</li>
         <li>Homerus, <em>Opera</em>, ed. Thomas W. Allen (Oxford, 1917–31).</li>
         <li>Homerus, <em>Ilias</em>, ed. Martin L. West, 2 vols (Munich, 1998–2000).</li>
