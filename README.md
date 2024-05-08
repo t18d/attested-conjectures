@@ -130,6 +130,7 @@
         <li>Herodotus, <em>Historiae</em>, ed. Haiim B. Rosén, 2 vols (Leipzig, 1987–97).</li>
         <li>Herodotus, <em>Historiae</em>, ed. N. G. Wilson, 2 vols (Oxford, 2015).</li>
         <li>Hesiod, <em>Works and Days</em>, ed. M. L. West (Oxford, 1978).</li>
+        <li>Hesiod, <em>Theogony, Works and Days, testimonia</em>, ed. Glenn W. Most (Cambridge, 2006).</li>
         <li>Hohl, Ernst (ed.), <em>Scriptores historiae Augustae</em>, 2 vols (Leipzig, 1965).</li>
         <li>Homerus, <em>Opera</em>, ed. Thomas W. Allen (Oxford, 1917–31).</li>
         <li>Homerus, <em>Ilias</em>, ed. Martin L. West, 2 vols (Munich, 1998–2000).</li>
