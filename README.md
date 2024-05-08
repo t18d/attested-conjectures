@@ -947,6 +947,7 @@ Arat. Phaen. 1119|ἀγέρωνται ἐρχόμεναι|ἀ. -οι|J. H. Voß|
 Archil. fr. 4.6|ἀλλά τε|ἀλλ᾽ ἄγε|Musurus|n.d.|P.Oxy. VI 854|
 Arist. Ath. 57.2|γερ-|ἱερῶν|Herbert Richards|1891|P.Lond.Lit. 108|apud Herwerden-Leeuwen
 Arist. Cael. 292b|αὕτη|αὐτῇ|Carl Prantl|1857|Paris. gr. 1853 (E)|a.c.
+Arist. Mech. 849b18|ἠνέχθη|ἣν ἠν.|Niccolò Leoniceno||Paris. gr. 2115 (A)|
 Arist. Po. 1447b9|om.|ἀνώνυμος|Bernays|1857–80|Σ|
 Arist. Po. 1447b16|μουσι-|φυσικόν|Daniel Heinsius|1611|Σ|p. 71
 Arist. Po. 1448a16|αὐτῇ δὲ τῇ|τῇ αὐτῇ δὲ|Petrus Victorius|1560|Paris. arab. 2346|
