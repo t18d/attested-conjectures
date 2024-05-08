@@ -2638,7 +2638,10 @@ Hes. Op. 146|-ιες|ὕβριος|M. L. West|1964|P.Berol. 21107|Philol.
 Hes. Op. 263|-λῆες|βασιλῆς|G. H. Schaefer|1817|P.Oxy. VIII 1090|apud Brunck
 Hes. Op. 264|δικῶν|δικέων|Adolf Kirchhoff|1889|P.Oxy. VIII 1090|
 Hes. Op. 268|ἐθέληισ'|ἐθέληι|K. F. Heinrich|1815|P.Oxy. VIII 1090|apud Twesten
+Hes. Op. 295|κἀκεῖνος|καικειν[ος|G. H. Schaefer|1817|P.Oxy. XLV 3230|apud Brunck
+Hes. Op. 378|θάνοις|θανοι|Hermann|1837|P.Mich. 6828|Jb. f. Ph. 21
 Hes. Op. 518|βορέου|βορεω|Alois Rzach|1884|P.Oxy. XLV 3228|
+Hes. Op. 549|-ος|πυροφόροις|Hermann|1831|Paris. gr. 2707|Wien. Jb.
 Hes. Sc. 15|οὐ γάρ οἱ|οὐδέ οἱ|Hermann|1874|Stud.Pal. I|
 Hes. Sc. 432|ἐλθεῖν|ἐλθέμεν|Nauck|1889|Stud.Pal. I|
 Hes. Th. 87|αἶψα τε|αἶψά κε|Rudolf Peppmüller|1896|P.Achm. 3|
