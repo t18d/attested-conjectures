@@ -36,6 +36,7 @@
         <li>Apuleius Platonicus Madaurensis, <em>De philosophia libri</em>, ed. C. Moreschini (Stuttgart, 1991).</li>
         <li>Aratus, <em>Phaenomena</em>, ed. Douglas Kidd (Cambridge, 1997).</li>
         <li>Aristophanes, <em>Fabulae</em>, ed. N. G. Wilson, 2 vols (Oxford, 2007).</li>
+        <li>Aristoteles, <em>Quae feruntur de plantis …</em>, ed. Otto Apelt (Leipzig, 1888).</li>
         <li>Aristoteles, <em>Atheniensium respublica</em>, ed. F. G. Kenyon (Oxford, 1920).</li>
         <li>Aristote, <em>Du Ciel</em>, ed. Paul Moraux (Paris, 1965).</li>
         <li>Aristote, <em>Topiques</em>, ed. Jacques Brunschwig, 2 vols (Paris, 1967–2007).</li>
