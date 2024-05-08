@@ -97,6 +97,7 @@
         <li>Dietsch, Rudolf (ed.), <em>Gai Sallusti Crispi quae supersunt</em>, i (Leipzig, 1859).</li>
         <li>Diggle, James, 'Apologies to Bothe (and Others)', in <em>Euripidea: collected essays</em> (Oxford, 1994), 518–23.</li>
         <li>Dinarchus, <em>Orationes cum fragmentis</em>, ed. Nicos C. Conomis (Leipzig, 1975).</li>
+        <li>Diodore de Sicile, <em>Bibliothèque historique, livre XII</em>, ed. Michel Casevitz (Paris, 1972).</li>
         <li>Diogenes Laertius, <em>Vitae philosophorum</em>, ed. Miroslav Marcovich (Berlin, 2008).</li>
         <li>Diogenes Laertius, <em>Lives of Eminent Philosophers</em>, ed. Tiziano Dorandi (Cambridge, 2013).</li>
         <li>Dionysius Halicarnasensis, <em>Antiquitatum Romanarum quae supersunt</em>, i–ii, ed. Carl Jacoby (Leipzig, 1885–8).</li>
