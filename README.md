@@ -2091,11 +2091,13 @@ D.L. 10.126|τὸ σιτίον οὐ τὸ πλεῖον|σ. ο. τ. π.|Usener|
 D.L. 10.131|τὰς τῶν ἐν ἀπολ.|τὰς ἐν ἀπολαύσει|Ignazio Rossi|1788|Vat. gr. 96 (Φ)|
 D.L. 10.142|εἰσπλη-|ἐκπληρουμένοις|Usener|1887|Diog.Oen. fr. 33 mg inf. S.|
 D.L. 10.151|ἀπὸ|ἐπὶ|Gilles Ménage|1663|Epicur. Sent.Vat. 6|
-D.S. 9.10.4|ἐᾷ τὰ γρ.|ἐᾷ με γρ.|L. Dindorf|1826–68|Vat. teste Herwerden|
+D.S. 9.10.4|ἐᾷ τὰ γράμματα|ἐᾷ με γ.|L. Dindorf|1828|Vat. gr. 73 (M)|
 D.S. 11.7.4|deest|ὁρῶν|Henri Estienne|1559|PS|
 D.S. 12.63.2|-ων|τούτω|Reiske|1757|PS|
 D.S. 12.68.6|ταῦτα|ταύτας|Reiske|1757|Escor. Σ-III-5 (S)|
 D.S. 12.76.1|προβ-|περιβεβληκότες|Henri Estienne|1559|Escor. Σ-III-5 (S)|
+D.S. 20.21.1|ἀθῴους|ἀθρόους|J. F. S. Kaltwasser|1786|R2X|
+D.S. 20.40.6|-δεδεγ-|ἀποδεδειγμένος|L. Dindorf|1826|RX|
 D.T. schol. p. 471.35|Ἀντιφ-|Ἰοφῶντος|J. A. Cramer|1837|Vat. gr. 14 (C)|
 Dem. 1.14|τις ἂν εἴποι κτλ.|del.|Cobet|s.xix med.|P.Oxy. LXII 4310|
 Dem. 4.29|-ριεῖ|προσποριεῖται|Ludolf Küster|s.xvii/xviii|Paris. gr. 2936 (R)|
