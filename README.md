@@ -2642,7 +2642,7 @@ Hdt. 8.112.2|λέγων|λ. δὲ|Reiske||Estensis gr. 221 (M)|
 Hdt. 9.43.2|-ων|Μουσαίου|Bekker|1833|Vat. gr. 2369 (D)|
 Hdt. 9.66.2|-μένως|κατηρτισμένους|Henrik van Herwerden||Vac|
 Herm. Sim. 8.54|λοιπόν|αὐτόν|Adolf Hilgenfeld|1866|P.Oxy. XIII 1599|
-Hes. Op. 66|-γόρους|γυιοβόρους|François Guyet|1667|Laur. Plut. 32.16|apud Graevium; m. sec.
+Hes. Op. 66|-κόρους|γυιοβόρους|François Guyet|1667|Laur. Plut. 32.16|apud Graevium; m. sec.
 Hes. Op. 146|-ιες|ὕβριος|M. L. West|1964|P.Berol. 21107|Philol.
 Hes. Op. 263|-λῆες|βασιλῆς|G. H. Schaefer|1817|P.Oxy. VIII 1090|apud Brunck
 Hes. Op. 264|δικῶν|δικέων|Adolf Kirchhoff|1889|P.Oxy. VIII 1090|
