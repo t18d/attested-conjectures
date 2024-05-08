@@ -284,7 +284,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Reiske (237), Scaliger (230), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (91) and Markland (85).</p>
+<p>The top 10 critics are Reiske (238), Scaliger (230), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (91) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2090,6 +2090,8 @@ D.L. 10.131|τὰς τῶν ἐν ἀπολ.|τὰς ἐν ἀπολαύσει|I
 D.L. 10.142|εἰσπλη-|ἐκπληρουμένοις|Usener|1887|Diog.Oen. fr. 33 mg inf. S.|
 D.L. 10.151|ἀπὸ|ἐπὶ|Gilles Ménage|1663|Epicur. Sent.Vat. 6|
 D.S. 9.10.4|ἐᾷ τὰ γρ.|ἐᾷ με γρ.|L. Dindorf|1826–68|Vat. teste Herwerden|
+D.S. 11.7.4|deest|ὁρῶν|Henri Estienne|1559|PS|
+D.S. 12.63.2|-ων|τούτω|Reiske|1757|PS|
 D.S. 12.68.6|ταῦτα|ταύτας|Reiske|1757|Escor. Σ-III-5 (S)|
 D.S. 12.76.1|προβ-|περιβεβληκότες|Henri Estienne|1559|Escor. Σ-III-5 (S)|
 D.T. schol. p. 471.35|Ἀντιφ-|Ἰοφῶντος|J. A. Cramer|1837|Vat. gr. 14 (C)|
