@@ -2652,10 +2652,14 @@ Hes. Op. 378|θάνοις|θανοι|Hermann|1837|P.Mich. 6828|Jb. f. Ph. 21
 Hes. Op. 518|βορέου|βορεω|Alois Rzach|1884|P.Oxy. XLV 3228|
 Hes. Op. 549|-ος|πυροφόροις|Hermann|1831|Paris. gr. 2707|Wien. Jb.
 Hes. Sc. 15|οὐ γάρ οἱ|οὐδέ οἱ|Hermann|1874|Stud.Pal. I|
+Hes. Sc. 146|λευκὰ θ.|λευκαθεόντων|Wackernagel|1925|Ambros. C 222 inf. (J)|Glotta ; p.c.
 Hes. Sc. 432|ἐλθεῖν|ἐλθέμεν|Nauck|1889|Stud.Pal. I|
 Hes. Th. 87|αἶψα τε|αἶψά κε|Rudolf Peppmüller|1896|P.Achm. 3|
 Hes. Th. 93|οἷά τε|τοίη|François Guyet|1667|P.Achm. 3|apud Graevium
+Hes. Th. 466|γ'|γ' αρ'|Rudolf Peppmüller|1896|P.Oxy. XXXII 2644|
+Hes. Th. 481|μὲν|μιν|Hermann|1831|k|
 Hes. Th. 656|ὅτι|ὅ τοι|Hermann|1831|P.Ryl. 54 et P.Oxy. XXXII 2646|'ist es wunderbar, dass niemand noch gesehen hat'
+Hes. Th. 682|π. αἰπεῖά τ᾽ ἰωὴ|ποδων τ᾽ αιπεῖα ϊ[ωη|Hermann|1831|P.Oxy. XXXII 2648|
 Hes. Th. 768|habent|del.|F. A. Wolf|1783|P.Oxy. XXXII 2648|= Od. 10.534; 11.47
 Hippon. fr. 103.11|πασπάλιν φαγὼν γ.|πασ]πα[λ]ηφάγον γρομφίν|Johannes Pierson|1759|P.Oxy. XVIII 2175|Lexicon Atticum s.v. πασπάλη ('scrofam polline pastam')
 Hist. Aug. Alex. 8.5|-erat|dicat|Emil Baehrens|1871|Σ|
