@@ -2940,10 +2940,14 @@ Liv. 10.46.10|Troilium|Trossulum|Carlo Sigonio|1566|unus cod. rec. (M. Müller)|
 Liv. 25.6.2|in Italiam|in Italia|Madvig|1860|Palat. 876|p. 289
 Liv. 27.14.9|tum|tam|A. S. Wesenberg|1870–1|BDAN|p. 276
 Liv. 31.35.3|quo|cui|H. J. Müller|1883|α|
+Luc. Cal. 14|ἀπεστ-|ἐστέναξε(ν)|J. G. Lehmann|1829|codd. pleriq.|
 Luc. Dom. 21|γράψωμαι|-ομαι|François Guyet|1687|LN|apud Graevium-Clericum
 Luc. Ocyp. 57|ἔστειλα|ἔτεινα|Karl Jacobitz|1841|P.Oxy. XXXI 2532|'vir doctus'
 Luc. VH 1.17|καὶ ὁ Φ./καὶ Φ.|ὁ Φαέθων|Eduard Schwartz|1906|Vat. gr. 76 (P)|apud Nilén; p.c.
-Luc. VH 1.35|Ψιττ-|Ψηττόποδες|Graevius|1687||
+Luc. VH 1.35|Ψιττ-|Ψηττόποδες|Graevius|1687|SΩpcZP|
+Luc. VH 2.2|προσ-|προελθόντες|Moïse Du Soul|1743|ΓΩS|
+Luc. VH 2.20|κατὰ|μετὰ|Moïse Du Soul|1743|ΓΩSA|
+Luc. VH 2.46|-β-|Καββαλοῦσα|Moïse Du Soul|1743|Guelf. 86.7 (F)|p.c.
 Lucan. 2.13|-ent|habet|Gottlieb Kortte|1726|ZM|
 Lucan. 2.556|en|in|Nicolaus Heinsius|1742|Brux. bibl. Burgund. 5330—32 (G)|
 Lucan. 3.410|-is … -is|ulli … aurae|J. Ph. d’Orville|1732–51|ZM|
