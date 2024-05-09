@@ -953,10 +953,14 @@ Arat. Phaen. 1119|ἀγέρωνται ἐρχόμεναι|ἀ. -οι|J. H. Voß|
 Archil. fr. 4.6|ἀλλά τε|ἀλλ᾽ ἄγε|Musurus|n.d.|P.Oxy. VI 854|
 Arist. Ath. 57.2|γερ-|ἱερῶν|Herbert Richards|1891|P.Lond.Lit. 108|apud Herwerden-Leeuwen
 Arist. Cael. 292b|αὕτη|αὐτῇ|Carl Prantl|1857|Paris. gr. 1853 (E)|a.c.
+Arist. EE 1215a5|-ον|βίου|Demetrius Chalcondyles||Monac. gr. 635 (B)|apud Ambr.
+Arist. EE 1218a23|-εις|τάξις|Demetrius Chalcondyles||Monac. gr. 635 (B)|apud Ambr.
 Arist. EE 1219b40|ε. ᾖ ἄ.|εἰ ᾗ ἄνθρωπος|Hermann Bonitz|1859|CBL|N. Jahrb. f. Phil. u. Paed.
+Arist. EE 1226a39|δρῶντες|δρῶμεν|Herbert Richards|1915|Monac. gr. 635 (B)|'We go wrong by doing so with our senses'
+Arist. EE 1233a20|ἄξιον ἀξιοῦν|ἄ. μικρῶν ἀ.|Leonhard Spengel|1841–3|Vat. gr. 1342 (P)|m. sec.
 Arist. EE 1237b4|ἄλλῳ. ὥστ’|ἄλλο. ὥ.|Henry Jackson||Laur. Plut. 81.4|m. sec.
 Arist. EE 1247a7|οὗτοι|οὐ τῷ|Demetrius Chalcondyles||Lib. de bon. fort.|apud Ambr.
-Arist. EE 1249b15|-ῶς|ἐπιτακτικὸς|Herbert Richards||Monac. gr. 635 (B)|
+Arist. EE 1249b15|-ῶς|ἐπιτακτικὸς|Herbert Richards|1915|Monac. gr. 635 (B)|
 Arist. Mech. 849b18|ἠνέχθη|ἣν ἠν.|Niccolò Leoniceno||Paris. gr. 2115 (A)|
 Arist. Metaph. 1060b14|δ᾽/γὰρ|γ᾽|Hermann Bonitz|1848|Vindob. phil. gr. 100 (J)|s.l.
 Arist. Metaph. 1075b23|ταὐτὰ|ταῦτα|Hermann Bonitz|1848|Vindob. phil. gr. 100 (J)|
