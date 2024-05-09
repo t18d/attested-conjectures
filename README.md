@@ -2940,8 +2940,8 @@ Liv. 10.46.10|Troilium|Trossulum|Carlo Sigonio|1566|unus cod. rec. (M. Müller)|
 Liv. 25.6.2|in Italiam|in Italia|Madvig|1860|Palat. 876|p. 289
 Liv. 27.14.9|tum|tam|A. S. Wesenberg|1870–1|BDAN|p. 276
 Liv. 31.35.3|quo|cui|H. J. Müller|1883|α|
-Luc. Cal. 14|ἀπεστ-|ἐστέναξε(ν)|J. G. Lehmann|1829|codd. pleriq.|
-Luc. Dom. 21|γράψωμαι|-ομαι|François Guyet|1687|LN|apud Graevium-Clericum
+Luc. Dom. 21|γράψωμαι|-ομαι|François Guyet|1743|LN|apud Reitzium
+Luc. JTr. 37|ἀνε-|αὐτεπαγγέλτοις|François Guyet|1743|jTjUjV|apud Reitzium
 Luc. Ocyp. 57|ἔστειλα|ἔτεινα|Karl Jacobitz|1841|P.Oxy. XXXI 2532|'vir doctus'
 Luc. VH 1.17|καὶ ὁ Φ./καὶ Φ.|ὁ Φαέθων|Eduard Schwartz|1906|Vat. gr. 76 (P)|apud Nilén; p.c.
 Luc. VH 1.35|Ψιττ-|Ψηττόποδες|Graevius|1687|SΩpcZP|
@@ -4092,7 +4092,7 @@ Plu. 1088C|οὐκ ἐν|ἐν|Jacques Amyot|1572|Vat. gr. 139 (γ)|a.c.
 Plu. 1089D|εὐπάθ-|εὐστάθειαν|Wilhelm Xylander|1592|Escor. R-I-5 (K)|II p. 618
 Plu. 1133B|-ωνα|φιλάμμονα|Georgios Hatzidakis|1901|J s|
 Plu. 1135D|τ. πρῶτον ε.|τῶν πρώτων εὑρόντων|Gregorios Bernardakis|1895|e Reg. sac|
-Plu. Caes. 45.8|ταιc|αις|Moses Solanus|1729|P.Oxy. LXXXI 5270|
+Plu. Caes. 45.8|ταιc|αις|Moïse Du Soul|1729|P.Oxy. LXXXI 5270|
 Plu. Caes. 45.8|τοῖς|del.|Adolph Emperius|1935|P.Oxy. LXXXI 5270|apud Ziegler
 Plu. Cat.Ma. 23.5|κ. τοῖς π.|καὶ πρὸς|Reiske|1775|Paris. gr. 1672 (B)|
 Plu. Cim. 16.6|-ευε|ἐκέλευσε|G. H. Schaefer|1830|Paris. gr. 1673 (C)|
