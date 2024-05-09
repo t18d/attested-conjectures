@@ -2982,6 +2982,8 @@ Lycurg. 140|ἡμ-|ὑμῶν|Hermann Sauppe|1834|Bodl. Auct. T.2.8 (N)|
 Lycurg. 140|πρῶτον|πρώτου|Reiske|1771|Bodl. Auct. T.2.8 (N)|
 Lycurg. 142|-αν|ἔθαψεν|John Taylor|1743|Ambros. A. 99 sup. (P)|
 Lycurg. 143|αὐτὸν τίνων|αὐτὸν˙ τίνων|John Taylor|1743|PMZ|
+Lys. 1.2|καὶ ἐν δημοκρατίᾳ καὶ ὀλιγαρχίᾳ|καὶ ἐν δ. καὶ ἐν ὀ.|Antoine Leconte|pre-1586|Pal. gr. 117 (P)|
+Lys. 1.15|αὐτ- δὲ|αὕτη δὲ|John Taylor|1739|Tolet. Bibl. Cap. 101.16 (To)|
 Macr. Sat. 2.2.16|vetus-|venustatem|Joannes Meursius|1628|T2Rpc|p. 758
 Macr. Sat. 5.19.8|-ΤΡΑΙ|ΚΑΛΥΠΤΑΙ|Valckenaer|1767|TRFA|Diatr. 167C
 Macr. somn. 1.18.3|sibi|tibi|J. C. Zeune|1774|Paris. lat. 16677 (E)|
@@ -3264,7 +3266,7 @@ Ov. ars 1.303|quod|quo|Nicolaus Heinsius|1658|y|
 Ov. ars 1.490|quam|qua|E. J. Kenney|1959|FT²|
 Ov. ars 1.558|rege|reget|Rudolf Merkel|1852|y|
 Ov. ars 1.581|-es/-as|bibis|C. Marchesi|1918|Bodl. Canon. Class. Lat. 18 (O6)|
-Ov. ars 1.730|multi|uultu|Nicolaus Heinsius|1658|Tolet. 102–14 (To2)|
+Ov. ars 1.730|multi|uultu|Nicolaus Heinsius|1658|Tolet. 102.14 (To2)|
 Ov. ars 2.243|placidum-|planumque|Nicolaus Heinsius|1658|Vat. lat. 3140|
 Ov. ars 2.440|candet in|canet in|Nicolaus Heinsius|1658|Lond. Bibl. Brit. Add. 21169 (L4)|
 Ov. ars 2.496|agit|adit|Bentley|1905|Hamilt. 471 (Y)|
@@ -4500,20 +4502,20 @@ Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Ber
 Sapph. fr. 44A.5|ἀεί|ἄϊ|H. L. Ahrens|1839–43|P.Sapph.Obbink|
 Sapph. fr. 81.4|παρ-|πέρθεσθ'|August Seidler|1829|P.Oxy. XV 1787|]ΕΡΘΕϹ[
 Sapph. fr. 94.24|deest|οὔτε τι]|Blass|1874|Schubart ap. Lobel, Ϲ. μ. p. 79|]Τ̣Ε̣ΤΙ
-Scrib. Larg. 46|-ere|oblinire|Andreas Cratander|1529|Toledo 98.12 (T)|
-Scrib. Larg. 113|aliis|alii|G. Helmreich|1887|Toledo 98.12 (T)|
-Scrib. Larg. 121|amii|ami|K. E. Georges|1887|Toledo 98.12 (T)|apud Helmreich
-Scrib. Larg. 122|d. ab-|datur obducenda|Paulus Leopardus|s.xvi med.|Toledo 98.12 (T)|
+Scrib. Larg. 46|-ere|oblinire|Andreas Cratander|1529|Tolet. 98.12 (T)|
+Scrib. Larg. 113|aliis|alii|G. Helmreich|1887|Tolet. 98.12 (T)|
+Scrib. Larg. 121|amii|ami|K. E. Georges|1887|Tolet. 98.12 (T)|apud Helmreich
+Scrib. Larg. 122|d. ab-|datur obducenda|Paulus Leopardus|s.xvi med.|Tolet. 98.12 (T)|
 Scrib. Larg. 195|om.|malum|G. Helmreich|1887|Vindoc. 109 (Va)|
 Scrib. Larg. 198|-um|stomachi|Johannes Rhodius|1655|Vindoc. 109 (Va)|
 Scrib. Larg. 200|vel|ut|P. Jourdan|1919|T Va|
 Scrib. Larg. 200|quoque|quaeque|G. Helmreich|1887|Vindoc. 109 (Va)|
-Scrib. Larg. 200|-sumatur|consummantur|G. Helmreich|1887|Toledo 98.12 (T)|
-Scrib. Larg. 201|c. T.|Tryphonis chirurgi|P. Jourdan|1919|Toledo 98.12 (T)|
+Scrib. Larg. 200|-sumatur|consummantur|G. Helmreich|1887|Tolet. 98.12 (T)|
+Scrib. Larg. 201|c. T.|Tryphonis chirurgi|P. Jourdan|1919|Tolet. 98.12 (T)|
 Scrib. Larg. 201|actum|factum|Johannes Rhodius|1655|Casin. 69 (Ca)|
 Scrib. Larg. 206|-ibus|fronti|Johannes Rhodius|1655|Casin. 69 (Ca)|
 Scrib. Larg. 260|-am/-um|liquefacta|C. Lausdei|pre-2020|Casin. 69 (Ca)|
-Scrib. Larg. praef. 7|quae|qua|Johannes Rhodius|1655|Toledo 98.12 (T)|
+Scrib. Larg. praef. 7|quae|qua|Johannes Rhodius|1655|Tolet. 98.12 (T)|
 Sen. Ag. 127|tu-|timido|Bentley|1882|cod. Orator. (O)|
 Sen. Ag. 258|-a/-i|maritam|Nicolaus Heinsius|1742|Laur. 37.3|
 Sen. Ag. 264|in t.|toro|Girolamo Avanzi|1517|Ambros. D 276 inf. (M)|
