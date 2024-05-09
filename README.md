@@ -164,6 +164,7 @@
         <li>Livius, Titus, <em>Ab urbe condita</em>, ii, ed. Charles Flamstead Walters and Robert Seymour Conway (Oxford, 1919).</li>
         <li>Livius, Titus, <em>Ab urbe condita</em>, v, ed. Alexander Hugh McDonald (Oxford, 1965).</li>
         <li>Lucanus, M. Annaeus, <em>Belli civilis libri decem</em>, ed. A. E. Housman (Oxford, 1927).</li>
+        <li>Lucien, <em>Œuvres</em>, ed. Jacques Bompaire, 3 vols (Paris, 1993–2003). (tome IV unavailable)</li>
         <li>Luck, Georg (ed.), <em>Albii Tibulli aliorumque carmina</em> (Stuttgart, 1998).</li>
         <li>Lycurgus, <em>Oratio in Leocratem</em>, ed. Nicos C. Conomis (Leipzig, 1970).</li>
         <li>Malcovati, Enrica (ed.), <em>L. Annaei Flori quae exstant</em> (Rome, 1972).</li>
@@ -224,7 +225,7 @@
         <li>Propertius, Sextus, <em>Elegiarum libri IV</em>, ed. Paolo Fedeli (Munich, 1994).</li>
         <li>Publilius Syrus Mimus, <em>Sententiae</em>, ed. Otto Friedrich (Berlin, 1880).</li>
         <li>Quintilianus, M. Fabus, <em>Institutionis oratoriae libri duodecim</em>, i, ed. M. Winterbottom (Oxford, 1970).</li>
-        <li>Quintus de Smyrne, <em>La Suite d'Homère</em>, ed. Francis Vian, 2 vols (Paris, 1963–6).</li>
+        <li>Quintus de Smyrne, <em>La Suite d'Homère</em>, ed. Francis Vian, 2 vols (Paris, 1963–6). (tome III unavailable)</li>
         <li>Radt, Stefan (ed.), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, iii: <em>Aeschylus</em> (Göttingen, 1985).</li>
         <li>Radt, Stefan (ed.), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, iv: <em>Sophocles</em> (2nd edn, Göttingen, 1999).</li>
         <li>Reeve, M. D., 'Tricipitinus's Son', <em>Zeitschrift für Papyrologie und Epigraphik</em>, 22 (1976), 21–31.</li>
