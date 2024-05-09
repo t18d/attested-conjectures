@@ -41,6 +41,7 @@
         <li>Aristote, <em>Du Ciel</em>, ed. Paul Moraux (Paris, 1965).</li>
         <li>Aristote, <em>Topiques</em>, ed. Jacques Brunschwig, 2 vols (Paris, 1967–2007).</li>
         <li>Aristoteles, <em>Privatorum scriptorum fragmenta</em>, ed. Marian Plezia (Leipzig, 1977).</li>
+        <li>Aristoteles, <em>Ethica Eudemia</em>, ed. R. R. Waltzer and J. Μ. Mingay (Oxford, 1991).</li>
         <li>Aristotle, <em>Poetics</em>, ed. Leonardo Tarán and Dimitri Gutas (Leiden, 2012).</li>
         <li>Arrianos, <em>Alexandrou anabasis</em>, i, ed. K. W. Krüger (Berlin, 1835).</li>
         <li>Arrianus, Flavius, <em>Alexandri anabasis, scripta minora et fragmenta</em>, ed. A. G. Roos, 2 vols (Leipzig, 1967–8).</li>
@@ -229,6 +230,7 @@
         <li>Reeve, M. D., 'Acidalius on Manilius', <em>The Classical Quarterly</em>, 41/1 (1991), 226–39.</li>
         <li>Reynolds, L. D. (ed.), <em>Texts and Transmission: A Survey of the Latin Classics</em> (Oxford, 1983).</li>
         <li>Rossbach, Otto, <em>De Senecae philosophi librorum recensione et emendatione</em> (Breslau, 1888).</li>
+        <li>Rowe, Christopher, <em>Aristotelica: Studies on the Text of Aristotle’s</em> Eudemian Ethics (Oxford, 2023).</li>
         <li>Sappho and Alcaeus, <em>Fragmenta</em>, ed. Eva-Maria Voigt (Amsterdam, 1971).</li>
         <li>Schöll, Rudolf, and Wilhelm Kroll (eds), <em>Novellae</em> (Berlin, 1912).</li> 
         <li>Seneca Maior, L. Annaeus, <em>Oratorum et rhetorum sententiae, divisiones, colores</em>, ed. Lennart Håkanson (Leipzig, 1989).</li>
