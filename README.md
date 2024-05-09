@@ -38,6 +38,7 @@
         <li>Aristophanes, <em>Fabulae</em>, ed. N. G. Wilson, 2 vols (Oxford, 2007).</li>
         <li>Aristoteles, <em>Quae feruntur de plantis …</em>, ed. Otto Apelt (Leipzig, 1888).</li>
         <li>Aristoteles, <em>Atheniensium respublica</em>, ed. F. G. Kenyon (Oxford, 1920).</li>
+        <li>Aristoteles, <em>Metaphysica</em>, ed. W. Jaeger (Oxford, 1957).</li>
         <li>Aristote, <em>Du Ciel</em>, ed. Paul Moraux (Paris, 1965).</li>
         <li>Aristote, <em>Topiques</em>, ed. Jacques Brunschwig, 2 vols (Paris, 1967–2007).</li>
         <li>Aristoteles, <em>Privatorum scriptorum fragmenta</em>, ed. Marian Plezia (Leipzig, 1977).</li>
