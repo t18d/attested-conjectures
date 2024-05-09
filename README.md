@@ -166,6 +166,7 @@
         <li>Lucanus, M. Annaeus, <em>Belli civilis libri decem</em>, ed. A. E. Housman (Oxford, 1927).</li>
         <li>Lucien, <em>Œuvres</em>, ed. Jacques Bompaire, 3 vols (Paris, 1993–2003). (tome IV unavailable)</li>
         <li>Luck, Georg (ed.), <em>Albii Tibulli aliorumque carmina</em> (Stuttgart, 1998).</li>
+        <li>Lycophron, <em>Alexandra</em>, ed. Lorenzo Mascialino (Leipzig, 1964).</li>
         <li>Lycurgus, <em>Oratio in Leocratem</em>, ed. Nicos C. Conomis (Leipzig, 1970).</li>
         <li>Malcovati, Enrica (ed.), <em>L. Annaei Flori quae exstant</em> (Rome, 1972).</li>
         <li>Manilius, M., <em>Astronomica</em>, ed. George P. Goold (Stuttgart, 1998).</li>
