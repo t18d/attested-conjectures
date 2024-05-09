@@ -2964,7 +2964,9 @@ Lucan. 6.558|si|sic|Sebastian Gryphius|n.d.|Paris. 7900A (Q)|
 Lucan. 7.780|desci-|desisset|Grotius|1614–39|GVa|
 Lucan. 8.311|-unt|fallent|Nicolaus Heinsius|1742|ZMc|
 Lucr. 4.897|ut ac|ut|Muretus|1563|O2|apud Lambinum
-Lyc. Alex. 158|γυίας|γύας|Reichlin|n.d.|P.Oxy. LXIV 4428|
+Lyc. 136|-ῃ/-η|δίκην|Isaac Tzetzes|s.xii ex.|CDE|
+Lyc. 158|γυίας|γύας|H. G. Reichard|1788|P.Oxy. LXIV 4428|
+Lyc. 395|στόβους|στόμ-|Isaac Tzetzes|s.xii ex.|D1E|
 Lycurg. 20|-σωμεν|κλητεύσομεν|John Taylor|1743|Bodl. Auct. T.2.8 (N)|
 Lycurg. 21|ἐκ γ.|ἐν γειτόνων|Hermann Sauppe|1834|N2|
 Lycurg. 28|-ὸν|αὐτοὺς|P. P. Dobree|1831|Bodl. Auct. T.2.8 (N)|
