@@ -2940,7 +2940,10 @@ Liv. 10.46.10|Troilium|Trossulum|Carlo Sigonio|1566|unus cod. rec. (M. Müller)|
 Liv. 25.6.2|in Italiam|in Italia|Madvig|1860|Palat. 876|p. 289
 Liv. 27.14.9|tum|tam|A. S. Wesenberg|1870–1|BDAN|p. 276
 Liv. 31.35.3|quo|cui|H. J. Müller|1883|α|
-Luc. Ocyp. 57|ἔτειλα/ἔτιλα/ἔστειλα|ἔτεινα|K. G. Jacobitz|s.xix med.|P.Oxy. XXXI 2532|
+Luc. Dom. 21|γράψωμαι|-ομαι|François Guyet|1687|LN|apud Graevium-Clericum
+Luc. Ocyp. 57|ἔστειλα|ἔτεινα|Karl Jacobitz|1841|P.Oxy. XXXI 2532|'vir doctus'
+Luc. VH 1.17|καὶ ὁ Φ./καὶ Φ.|ὁ Φαέθων|Eduard Schwartz|1906|Vat. gr. 76 (P)|apud Nilén; p.c.
+Luc. VH 1.35|Ψιττ-|Ψηττόποδες|Graevius|1687||
 Lucan. 2.13|-ent|habet|Gottlieb Kortte|1726|ZM|
 Lucan. 2.556|en|in|Nicolaus Heinsius|1742|Brux. bibl. Burgund. 5330—32 (G)|
 Lucan. 3.410|-is … -is|ulli … aurae|J. Ph. d’Orville|1732–51|ZM|
@@ -6183,31 +6186,31 @@ Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
 Theoc. 2.35–36a schol.|-δρομος|πρόδομος|Samuel Butler|1816|Bodl. Canon. Gr. 86 (Gaisford)|
 Theoc. 2.82|μοι περὶ|μεῦ πυρὶ|Walter Taylor|1821|P.Ant. III 207 (Pa)|apud Briggs; μ]ευ
 Theoc. 2.155|ἄλλοτ'|ἄλλοκ ̓|Brunck|1772–6|P.Ant. III 207 (Pa)|
-Theoc. 7.7|εὖ γ ̓|εὖ|Hermann|n.d.|P.Oxy. 2064 (Po)|
-Theoc. 14.13|Ἆπις|Ἆγις|Meineke|n.d.|P.Ant. III 207 (Pa)|
+Theoc. 7.7|εὖ γ ̓|εὖ|Hermann||P.Oxy. 2064 (Po)|
+Theoc. 14.13|Ἆπις|Ἆγις|Meineke||P.Ant. III 207 (Pa)|
 Theoc. 14.29|οὖν|ων|Brunck|1772–6|P.Ant. III 207 (Pa)|
-Theoc. 15.7|ἐμ'|αιεν|Sitzler|n.d.|P.Ant. III 207 (Pa)|
-Theoc. 15.25|εἶπες/εἶπας καὶ|εἴπαις αν|Jonathan Toup|s.xviii med.|P.Ant. III 207 (Pa)|
-Theoc. 15.37|προτέθεικα|ποτέθηκα|Valckenaer|n.d.|P.Ant. III 207 (Pa)|
-Theoc. 15.41|-ρυε|δάκρυ ̓|Porson|n.d.|P.Hamb. III 201 (Pg)|
-Theoc. 15.51|-νοίμ-|γενώμεθα|G. H Schaefer|n.d.|P.Ant. III 207 (Pa)|
+Theoc. 15.7|ἐμ'|αιεν|Sitzler||P.Ant. III 207 (Pa)|
+Theoc. 15.25|εἶπες/εἶπας καὶ|εἴπαις αν|Jonathan Toup||P.Ant. III 207 (Pa)|
+Theoc. 15.37|προτέθεικα|ποτέθηκα|Valckenaer||P.Ant. III 207 (Pa)|
+Theoc. 15.41|-ρυε|δάκρυ ̓|Porson||P.Hamb. III 201 (Pg)|
+Theoc. 15.51|-νοίμ-|γενώμεθα|G. H Schaefer||P.Ant. III 207 (Pa)|
 Theoc. 15.59|ἄμμιν|ἁμὶν|H. L. Ahrens|1855|P.Ant. III 207 (Pa)|
-Theoc. 15.98|σπέρχιν/πέρχην|πέρυσιν|Reiske|s.xviii ex.|P.Oxy. XIII 1618 (Pu) et P.Ant. III 207 (Pa)|πέρυ]σιν
+Theoc. 15.98|σπέρχιν/πέρχην|πέρυσιν|Reiske||P.Oxy. XIII 1618 (Pu) et P.Ant. III 207 (Pa)|πέρυ]σιν
 Theoc. 15.100|-λασας|ἐφίλησας|H. L. Ahrens|1855|P.Ant. III 207 (Pa)|
 Theoc. 15.105|φοροῖσαι|φέροισαι|Hemsterhuis|1773|P.Ant. III 207 (Pa)|apud Valckenaer
-Theoc. 15.145|-ώτερον|σοφώτατον|J. A. Hartung|n.d.|P.Ant. III 207 (Pa)|]τον
-Theoc. 17.74|-οῖο/-οῖου|αἰδοῖοι|Casaubon|n.d.|P.Ant. III 207 (Pa)|
+Theoc. 15.145|-ώτερον|σοφώτατον|J. A. Hartung||P.Ant. III 207 (Pa)|]τον
+Theoc. 17.74|-οῖο/-οῖου|αἰδοῖοι|Casaubon||P.Ant. III 207 (Pa)|
 Theoc. 18.25|τ. οὐδ ̓ ἄν τις|τᾶν οὐδ ̓ ἅτις|H. L. Ahrens|1855|P.Oxy. L 3552 (Op)|
-Theoc. 18.48|-βου|σέβευ|C. W. Ahlwardt|n.d.|Pa1|
-Theoc. 22.8|-νοῦ ἐξα-|οὐρανὸν εἰσανιόντα|Meineke|n.d.|P.Ant. III 207 (Pa)|]σανιοντα
+Theoc. 18.48|-βου|σέβευ|C. W. Ahlwardt||Pa1|
+Theoc. 22.8|-νοῦ ἐξα-|οὐρανὸν εἰσανιόντα|Meineke||P.Ant. III 207 (Pa)|]σανιοντα
 Theoc. 22.40|πεφύκασιν|πεφυκεσαν|Guillaume Morel|1561|P.Oxy. XV 1806 (Pi)|
-Theoc. 24.56|συμπ-|ἐκπλήγδην|J. A. Hartung|n.d.|P.Ant. III 207 (Pa)|
-Theoc. 24.69|ἐμὲ|με|C. F. Graefe|n.d.|P.Ant. III 207 (Pa)|
-Theoc. 24.95|νέεσθαι|νεέσθω|Hermann|n.d.|P.Ant. III 207 (Pa)|
-Theoc. 24.116|-θι|τηλόθε|Frederick H. M. Blaydes|n.d.|P.Ant. III 207 (Pa)|
+Theoc. 24.56|συμπ-|ἐκπλήγδην|J. A. Hartung||P.Ant. III 207 (Pa)|
+Theoc. 24.69|ἐμὲ|με|C. F. Graefe|1815|P.Ant. III 207 (Pa)|Epist. crit. p. 106
+Theoc. 24.95|νέεσθαι|νεέσθω|Hermann||P.Ant. III 207 (Pa)|
+Theoc. 24.116|-θι|τηλόθε|Frederick H. M. Blaydes||P.Ant. III 207 (Pa)|
 Theoc. 26.28|τῶνδ ̓ ἐμόγησε|τῶνδε μογήσαι|H. L. Ahrens|1855|P.Ant. III 207 (Pa)|
-Theoc. 28.5|τὺ δὲ|τυίδε|Hermann|n.d.|P.Oxy. L 3551 (Ox)|
-Theoc. 30.30|βούλε-|βόλλεται|Wilamowitz|n.d.|P.Ant. III 207 (Pa)|βολλετα[
+Theoc. 28.5|τὺ δὲ|τυίδε|Hermann||P.Oxy. L 3551 (Ox)|
+Theoc. 30.30|βούλε-|βόλλεται|Wilamowitz||P.Ant. III 207 (Pa)|βολλετα[
 Theon Rhetor 60.5|ἴδιον δ.|διήγημα|Leonhard Spengel|1854|vers. Armen.|
 Theon Rhetor 60.6–7|ὅταν|ὅ τε|C. E. Finckh|1834|vers. Armen.|
 Theon Rhetor 60.8|μὴ μ.|μικρὸν|C. E. Finckh|1834|vers. Armen.|
