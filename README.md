@@ -294,7 +294,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Reiske (240), Scaliger (233), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (156), Thomas Mangey (154), Casaubon (112), Madvig (95), Meineke (91), Valckenaer (85) and Markland (85) (tied).</p>
+<p>The top 10 critics are Reiske (240), Scaliger (233), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (157), Thomas Mangey (154), Casaubon (112), Madvig (95), Meineke (91), Valckenaer (85) and Markland (85) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3177,9 +3177,12 @@ Nep. reg. 1.3|generis|gentis|Friedrich Richter|1858|Vat. Barb. lat. 42|Richter o
 Nic. Al. 33|ἐπὶ σ.|ἐπισφαλεροῖσι|Bentley|1722|Marc. 477 (v)|apud O. Schneider
 Nic. Al. 37|-ήδην|παμπήγην|Scaliger|1856|x|apud O. Schneider
 Nic. Al. 51|σιδηρήε-|σιδηρείεσσαν|Scaliger|1856|Paris. suppl. 247 (Π)|apud O. Schneider
-Nic. Al. 59|ἠέ τι|ἢ ἔτι|Bentley|1722|MR|apud O. Schneider
+Nic. Al. 59/136|ἠέ τι|ἢ ἔτι|Bentley|1722|MR|apud O. Schneider
 Nic. Al. 81|ἐπιλλίζ-|ἐπιλλύζων|Bentley|1722|Marc. gr. 480 (V)|apud O. Schneider
+Nic. Al. 135|κερά-|κερόεντα|J. G. Schneider|1792|Paris. suppl. 247 (Π)|p. 344
+Nic. Al. 184|ἐπιρρ-|ἐπὶ ῥαγέεσσι|J. G. Schneider|1792|Laur. gr. 91.10 (O)|
 Nic. Al. 277|μίγδ-|μιγάδην|J. G. Schneider|1792|Paris. suppl. 247 (Π)|
+Nic. Al. 288|δὲ/δ᾽ ἐν|δὴ|Bentley|1722|Paris. suppl. 247 (Π)|apud Jacques
 Nic. Th. 3|κυδίσ-|κηδέστατε|David Ruhnken|1782|Kv|Duae epist. p. 289
 Nic. Th. 3|κυδ-|κηδίστατε|Bentley|1722|Ambros. D 529 (a)|Mus. crit. (1826) p. 372
 Nic. Th. 24|αὐαλέος θέρεος|-ου θ.|Bentley|1722|ΠKVv|Mus. crit.
