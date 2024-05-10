@@ -297,7 +297,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Reiske (240), Scaliger (233), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (159), Thomas Mangey (154), Casaubon (112), Madvig (95), Meineke (92), Valckenaer (85) and Markland (85) (tied).</p>
+<p>The top 10 critics are Reiske (241), Scaliger (233), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (159), Thomas Mangey (154), Casaubon (112), Madvig (95), Meineke (92), Valckenaer (85) and Markland (85) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3725,6 +3725,11 @@ Philo Virt. 15|-ούμεναι|ἡγουμένους|Thomas Mangey|1742|B2KMV2OF
 Philo Virt. 56|τὸ -ον/τῶν -ων|τοῦ ἀναγκαιοτάτου|Thomas Mangey|1742|Monac. gr. 459 (A)|
 Philo Virt. 76|-τέου|ὀστρέου|Thomas Mangey|1742|SG2|
 Philo Virt. 208|ὄντ-|οὕτως|Thomas Mangey|1742|FG2HP|
+Philostr. Her. 8.3|δ. ὃν|διῄειν ἂν|J. F. Boissonade|1806|Vindob. phil. gr. 331 (V)|
+Philostr. Her. 25.16|Χρύσου|Βρισέως|A. F. Norman|1977|Guelf. 25 Gud. gr. (Γ)|apud Lannoy
+Philostr. Her. 30.2|καὶ ὡς|ὡς|Herbert Richards|1909|Vindob. phil. gr. 331 (V)|CQ
+Philostr. Her. 33.30|-τιᾶς|στρατείας|Reiske|1893|KVεOT|Wien. Stud.
+Philostr. Her. 33.33|-πεσε|διεξέπαισε|J. F. Boissonade|1806|Laur. Plut. 69.30 (Φ)|m. rec.
 Philox.Gramm. 129.6|Νικόχαρις|Νικοχάρης|Hemsterhuis|1744|D R|ad schol. Ar. Plut. 179 ('ego Bentleium audire malui')
 Philox.Gramm. 505.3|ἴσθι|εἰς θι|Friedrich Sylburg|s.xvi ex.|Marc. 304 (B)|
 Phot. α 151|ἀγενὲς|ἀγεννὲς|Jan van Leeuwen|1907|cod. Zavord. 95 (z)|Mnem.
