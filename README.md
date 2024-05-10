@@ -294,7 +294,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Reiske (240), Scaliger (233), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (157), Thomas Mangey (154), Casaubon (112), Madvig (95), Meineke (91), Valckenaer (85) and Markland (85) (tied).</p>
+<p>The top 10 critics are Reiske (240), Scaliger (233), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (159), Thomas Mangey (154), Casaubon (112), Madvig (95), Meineke (92), Valckenaer (85) and Markland (85) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3181,8 +3181,14 @@ Nic. Al. 59/136|ἠέ τι|ἢ ἔτι|Bentley|1722|MR|apud O. Schneider
 Nic. Al. 81|ἐπιλλίζ-|ἐπιλλύζων|Bentley|1722|Marc. gr. 480 (V)|apud O. Schneider
 Nic. Al. 135|κερά-|κερόεντα|J. G. Schneider|1792|Paris. suppl. 247 (Π)|p. 344
 Nic. Al. 184|ἐπιρρ-|ἐπὶ ῥαγέεσσι|J. G. Schneider|1792|Laur. gr. 91.10 (O)|
+Nic. Al. 221|-ον|νόου|Otto Schneider|1856|Vat. gr. 2291 (L)|
 Nic. Al. 277|μίγδ-|μιγάδην|J. G. Schneider|1792|Paris. suppl. 247 (Π)|
 Nic. Al. 288|δὲ/δ᾽ ἐν|δὴ|Bentley|1722|Paris. suppl. 247 (Π)|apud Jacques
+Nic. Al. 370|κονίλ-|κονίην|Bentley|1722|Paris. suppl. 247 (Π)|apud Jacques
+Nic. Al. 460|χλοερ-|χλιαρῷ|J. G. Schneider|1792|Paris. suppl. 247 (Π)|p. 323
+Nic. Al. 475|-στολ-|περισταλάδην|Bentley|1722|Ricc. gr. 56 (R)|apud O. Schneider; s.l.
+Nic. Al. 499|χείλεσι/-λεϊ|χήτεϊ|Otto Schneider|1856|Vat. gr. 2291 (L)|
+Nic. Al. 561|ἀπουνόσφισε|ἀπ' οὖν νόσφισσε|Meineke|1843|Goetting. philol. 29 (G)|p. 232
 Nic. Th. 3|κυδίσ-|κηδέστατε|David Ruhnken|1782|Kv|Duae epist. p. 289
 Nic. Th. 3|κυδ-|κηδίστατε|Bentley|1722|Ambros. D 529 (a)|Mus. crit. (1826) p. 372
 Nic. Th. 24|αὐαλέος θέρεος|-ου θ.|Bentley|1722|ΠKVv|Mus. crit.
@@ -3202,10 +3208,10 @@ Nic. Th. 332|-α|τροχύεντες|Bentley|1722|ΠMR|-ος?
 Nic. Th. 381|-οὶ|ἀεργοῖς|Bentley|1722|Paris. suppl. 247 (Π)|Mus. crit.
 Nic. Th. 386|πάσσ-|μάσσον᾽|J. G. Schneider|1792|Paris. suppl. 247 (Π)|
 Nic. Th. 421|-ον|ἐϊσκόμενος|Bentley|1722|Eut.|
-Nic. Th. 442|τρίστιχ-|τρίστοιχοι|Edward Maltby|1815|Goetting. Phil. 29 (G)|Morell-Maltby s.v. περιστιχαω
+Nic. Th. 442|τρίστιχ-|τρίστοιχοι|Edward Maltby|1815|Goetting. philol. 29 (G)|Morell-Maltby s.v. περιστιχαω
 Nic. Th. 490|-στεφ-|πολυστρεφέας|Otto Schneider|1856|Laur. gr. 91.10 (O)|
 Nic. Th. 543|-στρέφ-|περιστέφει|Bentley|1722|Kv|Mus. crit.
-Nic. Th. 605|-οῦ ἀποσυλ-|ποταμῶν ἀπὸ συλ-|Bentley|1722|Goetting. Phil. 29 (G)|ἄπο G
+Nic. Th. 605|-οῦ ἀποσυλ-|ποταμῶν ἀπὸ συλ-|Bentley|1722|Goetting. philol. 29 (G)|ἄπο G
 Nic. Th. 850|ἀπανήνῃ|ἀπαρίνη|Bentley|1722|ΠMVp|Mus. crit.
 Nic. Th. 946|νεαρ-|φιαρῆς|Bentley|1722|MRVp|Mus. crit.
 Non. p. 503|f. omnino|feruit animo|Franz Oehler|1844|Paris. lat. 7667 (P)|ad Varro Men. 498
