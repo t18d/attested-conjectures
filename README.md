@@ -176,6 +176,7 @@
         <li>Martialis, M. Valerius, <em>Epigrammaton libri</em>, ed. W. Heraeus and Jacob Borovskij (Leipzig, 1976).</li>
         <li>Nemesianus, <em>Cynegetica</em>, ed. Rainer Jakobi (Berlin, 2014).</li>
         <li>Nepos, Cornelius, <em>Vitae cum fragmentis</em>, ed. Peter K. Marshall (Leipzig, 1985).</li>
+        <li>Nicandre, <em>Œuvres</em>, ed. Jean-Marie Jacques, 2 vols (Paris, 2002–7).</li>
         <li>Nonnos de Panopolis, <em>Les Dionysiaques</em>, i, ed. Francis Vian (Paris, 1976).</li>
         <li>Nonnos de Panopolis, <em>Les Dionysiaques</em>, ii, ed. Pierre Chuvin (Paris, 1976).</li>
         <li>Oppianus Apameensis, <em>Cynegetica</em>, ed. Manolis Papathomopoulos (Munich, 2003).</li>
@@ -236,6 +237,7 @@
         <li>Rossbach, Otto, <em>De Senecae philosophi librorum recensione et emendatione</em> (Breslau, 1888).</li>
         <li>Rowe, Christopher, <em>Aristotelica: Studies on the Text of Aristotle’s</em> Eudemian Ethics (Oxford, 2023).</li>
         <li>Sappho and Alcaeus, <em>Fragmenta</em>, ed. Eva-Maria Voigt (Amsterdam, 1971).</li>
+        <li>Schneider, Otto (ed.), <em>Nicandrea</em> (Leipzig, 1856).</li>
         <li>Schöll, Rudolf, and Wilhelm Kroll (eds), <em>Novellae</em> (Berlin, 1912).</li> 
         <li>Seneca Maior, L. Annaeus, <em>Oratorum et rhetorum sententiae, divisiones, colores</em>, ed. Lennart Håkanson (Leipzig, 1989).</li>
         <li>Seneca, L. Annaeus, <em>Dialogorum libri XII</em>, ed. Emil Hermes (Leipzig, 1905).</li>
