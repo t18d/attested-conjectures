@@ -191,7 +191,8 @@
         <li>Ovidius Naso, P., <em>Metamorphoses</em>, ed. R. J. Tarrant (Oxford, 2004).</li>
         <li>Ovidius Naso, P., <em>Carmina amatoria</em>, ed. Antonio Ramírez de Verger (Munich, 2006).</li>
         <li>Page, D. L. (ed.), <em>Poetae melici Graeci</em> (Oxford, 1967).</li>
-        <li>Pascal, Carlo (ed.), <em>Carmina ludicra Romanorum</em> (Turin, 1918).</li> 
+        <li>Pascal, Carlo (ed.), <em>Carmina ludicra Romanorum</em> (Turin, 1918).</li>
+        <li>Pausanias, <em>Graeciae descriptio</em>, ed. Maria Helena Rocha-Pereira, 3 vols (Leipzig, 1989–90).</li>
         <li>Persius Flaccus, A., and D. Iunius Iuvenalis, <em>Saturae</em>, ed. W. V. Clausen (Oxford, 1966).</li>
         <li>Petronius Arbiter, <em>Satirarum reliquiae</em>, ed. Franz Bücheler (Berlin, 1862).</li>
         <li>Philo Alexandrinus, <em>Opera quae supersunt</em>, ed. Paul Wendland, Leopold Cohn and Siegfried Reiter, 6 vols (Berlin, 1896–1915).</li>
