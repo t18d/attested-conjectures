@@ -293,7 +293,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Reiske (238), Scaliger (230), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (91) and Markland (85).</p>
+<p>The top 10 critics are Reiske (240), Scaliger (231), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (136), Casaubon (112), Madvig (95), Meineke (91) and Markland (85).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -868,7 +868,7 @@ Ar. Lys. 126|μοι μυᾶτε|μοιμυᾶτε|L. Dindorf|n.d.|schol. O|lm.
 Ar. Lys. 180|τάδε|τᾷδε|Bentley|s.xviii in.|P.Bodl. Gr. class. e. 87|
 Ar. Lys. 427|ἀλλ’|ἄλλ’|Valckenaer|1757|MS (Brunck 1781)|
 Ar. Lys. 476|τοῖσι(ν)|τοῖς|Bentley|s.xviii in.|Paris. gr. 2715 (B)|
-Ar. Lys. arg. 1.15|-πληγεὶς|καταπλαγεὶς|Ludolf Küster|1710|Oxon. Barocc. 38B (O)|
+Ar. Lys. arg. 1.15|-πληγεὶς|καταπλαγεὶς|Ludolf Küster|1710|Bodl. Barocc. 38B (O)|
 Ar. Nub. 137|ἐξευρ-|ἐξηυρημένην|Porson|n.d.|Paris. gr. 2712 (A)|
 Ar. Nub. 185|δοκοῦϲιν ἐ.|δοκοῦϲ᾽ ἐοικέναι|Bentley|1708|Neap. II F 22 (Np1)|per litt.
 Ar. Nub. 366|ἡμῖν|ὑμῖν|Charles Daubuz|1710|Eac Ψ|
@@ -2984,6 +2984,11 @@ Lycurg. 142|-αν|ἔθαψεν|John Taylor|1743|Ambros. A. 99 sup. (P)|
 Lycurg. 143|αὐτὸν τίνων|αὐτὸν˙ τίνων|John Taylor|1743|PMZ|
 Lys. 1.2|καὶ ἐν δημοκρατίᾳ καὶ ὀλιγαρχίᾳ|καὶ ἐν δ. καὶ ἐν ὀ.|Antoine Leconte|pre-1586|Pal. gr. 117 (P)|
 Lys. 1.15|αὐτ- δὲ|αὕτη δὲ|John Taylor|1739|Tolet. Bibl. Cap. 101.16 (To)|
+Lys. 1.20|προσθ-|πεισθείη|Reiske|1759|Marc. 422 (H)|
+Lys. 2.47|π. β.|πρὸς τοὺς βαρβάρους|Reiske|1759|Bodl. Barocc. 139 (Ob)|m. rec.
+Lys. 6.29|ἐνθένδε|ἐνθάδε|Scaliger|2007|Laur. Plut. 57.4 (C)|apud Carey
+Lys. Fr. 234|ἑταίρας ἀπίας|ἑτέρας αἰτίας|Adolf Emperius|1833|Vat. gr. 66 (M)|p. 47
+Lys. Fr. 279.3|-ων/ἀπιόντα|παριόντα|Karl Scheibe|1841|Coisl. 249 (V)|Neue Jahrb.
 Macr. Sat. 2.2.16|vetus-|venustatem|Joannes Meursius|1628|T2Rpc|p. 758
 Macr. Sat. 5.19.8|-ΤΡΑΙ|ΚΑΛΥΠΤΑΙ|Valckenaer|1767|TRFA|Diatr. 167C
 Macr. somn. 1.18.3|sibi|tibi|J. C. Zeune|1774|Paris. lat. 16677 (E)|
