@@ -294,7 +294,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Reiske (240), Scaliger (231), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (137), Casaubon (112), Madvig (95), Meineke (91) and Markland (85).</p>
+<p>The top 10 critics are Reiske (240), Scaliger (231), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (139), Casaubon (112), Madvig (95), Meineke (91), Valckenaer (85) and Markland (85) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3177,6 +3177,9 @@ Nep. reg. 1.3|generis|gentis|Friedrich Richter|1858|Vat. Barb. lat. 42|Richter o
 Nic. Th. 3|κυδίσ-|κηδέστατε|David Ruhnken|1782|Kv|Duae epist. p. 289
 Nic. Th. 3|κυδ-|κηδίστατε|Bentley|1826|Ambros. D 529 (a)|Mus. crit. p. 372
 Nic. Th. 173|μειλ-|μηλινόεσσα|Salmasius|1689|ΠG|Plin. exer. p. 242
+Nic. Th. 207|ἔβρωξ-|ἔβρυξεν|Bentley|1826|GKRVv|Mus. crit.
+Nic. Th. 277|-ον|οὐλόμενος|Bentley|1826|Paris. suppl. 247 (ω)|Mus. crit.
+Nic. Th. 283|ἐ. αὔει|ἐνδυκὲς αἰεὶ|Valckenaer|1773|Rv|ad Theoc. p. 248
 Non. p. 503|f. omnino|feruit animo|Franz Oehler|1844|Paris. lat. 7667 (P)|ad Varro Men. 498
 Nonn. Dion. 2.565|-εύς|Τυφωεῦ|Petrus Cunaeus|1610|Palat. Heidelb. gr. 85 (P)|
 Nonn. Dion. 3.397|-ας|πίονος|Gerard Falkenburg|1569|Laur. Plut. 32.16 (L)|
