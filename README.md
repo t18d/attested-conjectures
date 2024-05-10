@@ -294,7 +294,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Reiske (240), Scaliger (231), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (145), Casaubon (112), Madvig (95), Meineke (91), Valckenaer (85) and Markland (85) (tied).</p>
+<p>The top 10 critics are Reiske (240), Scaliger (231), Nicolaus Heinsius (213), Adamantios Korais (189), Thomas Mangey (154), Bentley (151), Casaubon (112), Madvig (95), Meineke (91), Valckenaer (85) and Markland (85) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3188,7 +3188,14 @@ Nic. Th. 277|-ον|οὐλόμενος|Bentley|1722|Paris. suppl. 247 (Π)|Mus. 
 Nic. Th. 277|-ει|ἐνιχραύσῃ|Bentley|1722|GM|Mus. crit.
 Nic. Th. 279|ἐνιτρέφ-|ἐνιστρέφεται|Bentley|1722|Marc. 477 (v)|Mus. crit.
 Nic. Th. 283|ἐ. αὔει|ἐνδυκὲς αἰεὶ|Valckenaer|1773|Rv|ad Theoc. p. 248
+Nic. Th. 329|-ψυχ-|καταψηχθέντος|Bentley|1722|GKMp|Mus. crit.
+Nic. Th. 332|-α|τροχύεντες|Bentley|1722|ΠMR|-ος?
+Nic. Th. 381|-οὶ|ἀεργοῖς|Bentley|1722|Paris. suppl. 247 (Π)|Mus. crit.
+Nic. Th. 386|πάσσ-|μάσσον᾽|J. G. Schneider|1792|Paris. suppl. 247 (Π)|
 Nic. Th. 442|τρίστιχ-|τρίστοιχοι|Edward Maltby|1815|Goetting. Phil. 29 (G)|Morell-Maltby s.v. περιστιχαω
+Nic. Th. 543|-στρέφ-|περιστέφει|Bentley|1722|Kv|Mus. crit.
+Nic. Th. 605|-οῦ ἀποσυλ-|ποταμῶν ἀπὸ συλ-|Bentley|1722|Goetting. Phil. 29 (G)|ἄπο G
+Nic. Th. 850|ἀπανήνῃ|ἀπαρίνη|Bentley|1722|ΠMVp|Mus. crit.
 Non. p. 503|f. omnino|feruit animo|Franz Oehler|1844|Paris. lat. 7667 (P)|ad Varro Men. 498
 Nonn. Dion. 2.565|-εύς|Τυφωεῦ|Petrus Cunaeus|1610|Palat. Heidelb. gr. 85 (P)|
 Nonn. Dion. 3.397|-ας|πίονος|Gerard Falkenburg|1569|Laur. Plut. 32.16 (L)|
