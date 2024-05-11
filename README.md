@@ -297,7 +297,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Reiske (248), Scaliger (234), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (162), Thomas Mangey (154), Casaubon (112), Madvig (95), Meineke (92), Valckenaer (85) and Markland (85) (tied).</p>
+<p>The top 10 critics are Reiske (250), Scaliger (234), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (162), Thomas Mangey (154), Casaubon (112), Madvig (95), Meineke (92), Valckenaer (85) and Markland (85) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3749,6 +3749,12 @@ Philostr. VA 2.2.1|-ώμεθα|ποιούμεθα|Scaliger|2022|Phot.|apud Boter
 Philostr. VA 2.7.2|ἀχθέσεται|ἀχθεσθήσεται|Reiske|1770|Paris. gr. 1696|s.l. m. sec.
 Philostr. VA 2.7.3|-ον|μόνων|C. L. Kayser|1844|Paris. gr. 1696|p.c.
 Philostr. VA 2.22.4|τοῖς -οῖς|τοὺς ὀφθαλμοὺς|Reiske|1756|Escor. Φ.III.8 (E)|
+Philostr. VA 2.23|ἀτάκ-|εὐτάκτως|Ludwig Preller|1846|Paris. gr. 1801 (A)|
+Philostr. VA 2.27.2|ἐνω-|ἐνορώρυκτο|Reiske|1770|Paris. gr. 1696|
+Philostr. VA 2.27.2|ἐς τ. β.|ἐν τοῦ βασιλέως|Herbert Richards|1909|Paris. gr. 1801 (A)|s.l.
+Philostr. VA 2.31.3|πρὸς ὥραν|πρὸς ὥραι|Salmasius|2022|Escor. Φ.III.8 (E)|apud Boter
+Philostr. VA 2.32.1|-ες|βαδίσαντα|Friedrich Jacobs|1829–32|Paris. gr. 1696|m. sec.
+Philostr. VA 3.18|ἐ., τ. ξ.|ἐπιχειρεῖ τούτῳ, ξυνεχώρησε|Reiske|1770|Paris. gr. 1801 (A)|
 Philox.Gramm. 129.6|Νικόχαρις|Νικοχάρης|Hemsterhuis|1744|D R|ad schol. Ar. Plut. 179 ('ego Bentleium audire malui')
 Philox.Gramm. 505.3|ἴσθι|εἰς θι|Friedrich Sylburg|s.xvi ex.|Marc. 304 (B)|
 Phot. α 151|ἀγενὲς|ἀγεννὲς|Jan van Leeuwen|1907|cod. Zavord. 95 (z)|Mnem.
