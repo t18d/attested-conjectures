@@ -297,7 +297,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Reiske (243), Scaliger (233), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (160), Thomas Mangey (154), Casaubon (112), Madvig (95), Meineke (92), Valckenaer (85) and Markland (85) (tied).</p>
+<p>The top 10 critics are Reiske (245), Scaliger (233), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (161), Thomas Mangey (154), Casaubon (112), Madvig (95), Meineke (92), Valckenaer (85) and Markland (85) (tied).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3736,6 +3736,12 @@ Philostr. Her. 56.10|-οῖς|αὐτοὺς|C. L. Kayser|1871|Ambros. T 122 sup
 Philostr. Her. 57.7|ὁ. τι|ὁποῖόν τε|Reiske|1893|HKY|Wien. Stud.
 Philostr. Her. 58.2|βεβ-|ἀβεβήλῳ|Henri de Valois|1806|ΓS|apud Boissonade
 Philostr. VA 1.1.2|δ ̓ ἂν|δ ̓ αὖ|Bentley|2022|Suda π3121GVM|apud Boter
+Philostr. VA 1.2.3|π. οἷς|παρ ̓ οὓς|Salmasius|2022|Paris. suppl. gr. 607 (C)|apud Boter
+Philostr. VA 1.15.3|παθόντι|παθών τι|Bentley|2022|Paris. gr. 1696|apud Boter; m. sec.
+Philostr. VA 1.19.1|νῖνος|νίνιος|Salmasius|2022|SudaMsl|apud Boter
+Philostr. VA 1.20.1|-γράψαι|ἀπόγραψαι|Reiske|1756|A E F|
+Philostr. VA 1.21.2|ποτ ̓|τότ ̓|Reiske|1770|Laur. Plut. 69.33 (F)|
+Philostr. VA 1.24.2|ταῦτα ἰδεῖν φασι· καὶ|ταῦτα. ἰδεῖν φασι καὶ|John Jackson|2022|A E|apud Boter
 Philox.Gramm. 129.6|Νικόχαρις|Νικοχάρης|Hemsterhuis|1744|D R|ad schol. Ar. Plut. 179 ('ego Bentleium audire malui')
 Philox.Gramm. 505.3|ἴσθι|εἰς θι|Friedrich Sylburg|s.xvi ex.|Marc. 304 (B)|
 Phot. α 151|ἀγενὲς|ἀγεννὲς|Jan van Leeuwen|1907|cod. Zavord. 95 (z)|Mnem.
