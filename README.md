@@ -297,7 +297,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Reiske (255), Scaliger (234), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (163), Thomas Mangey (154), Casaubon (112), Madvig (95), Meineke (92) and Valckenaer (87).</p>
+<p>The top 10 critics are Reiske (256), Scaliger (234), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (163), Thomas Mangey (154), Casaubon (112), Madvig (95), Meineke (92) and Valckenaer (87).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3770,6 +3770,9 @@ Philostr. VA 4.13.3|ἐν τ. Ἀ.|τοῖς Ἀχαιοῖς|John Jackson|2022|
 Philostr. VA 4.15.2|-εις|δίει|Cobet|1859|Paris. gr. 1696|m. sec.
 Philostr. VA 4.21.1|-ος|ἀκροασομένους|Reiske|1770|Laur. Plut. 69.33 (F)|
 Philostr. VA 4.25.4|δὲ μ.|δὲ καὶ μάλιστα|Valckenaer|1763|Lugd. 73D et Laur. CS 155|
+Philostr. VA 4.32.1|παρ-|περίεις|Reiske|1770|Lugd. 73D|
+Philostr. VA 4.40.3|α. ἀ.|αὕτη ἡ ἀρχή|Arthur Platt|1911|Paris. gr. 1801 (A)|
+Philostr. VA 4.46.4|οὐ π.|παρῆλθε|H. A. Hamaker|1816|Ap.Ty. Ep.|
 Philox.Gramm. 129.6|Νικόχαρις|Νικοχάρης|Hemsterhuis|1744|D R|ad schol. Ar. Plut. 179 ('ego Bentleium audire malui')
 Philox.Gramm. 505.3|ἴσθι|εἰς θι|Friedrich Sylburg|s.xvi ex.|Marc. 304 (B)|
 Phot. α 151|ἀγενὲς|ἀγεννὲς|Jan van Leeuwen|1907|cod. Zavord. 95 (z)|Mnem.
