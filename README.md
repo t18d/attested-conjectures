@@ -297,7 +297,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Reiske (266), Scaliger (235), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (164), Thomas Mangey (154), Casaubon (112), Madvig (95), Meineke (92) and Valckenaer (89).</p>
+<p>The top 10 critics are Reiske (269), Scaliger (236), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (167), Thomas Mangey (154), Casaubon (112), Madvig (95), Meineke (92) and Valckenaer (91).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3793,6 +3793,21 @@ Philostr. VA 6.31.2|τῆς τε|τῆς|Reiske|1770|Marc. XI.29 et Paris. gr. 1
 Philostr. VA 6.34.1|μεμνῆσθαι|μεμνήσεσθαι|Valckenaer|1892|Paris. gr. 1801 (A)|Wien. Stud.
 Philostr. VA 6.36.1|-ίους|χαραδριούς|G. A. Papabasileiou|1897|A E|
 Philostr. VA 7.2.2|ἀνίω|Αἰνίω|Valckenaer|1892|Paris. gr. 1696|Wien. Stud.; m. sec. in marg.
+Philostr. VA 7.8.1|-οῖς|χρηστοὺς|Scaliger|2022|Paris. gr. 1801 (A)|apud Boter
+Philostr. VA 7.11.1|-οὺς|αὐτοῖς|Valckenaer|1892|Phot.|Wien. Stud.
+Philostr. VA 7.12.1|ὃ μηδ ̓|ὁ μηδ ̓|Herbert Richards|1909|Laur. CS 155|p.c.
+Philostr. VA 7.14.1|παιδικῶν|παίδων|Cobet|1859|Marc. XI.29 et Paris. gr. 1696|
+Philostr. VA 7.14.11|ἐπισκώπτ-|ἐπικόπτει|Salmasius|2022|Paris. gr. 1696|apud Boter; m. sec.
+Philostr. VA 7.22.2|τοῦ -ους|τὸ πέλαγος|Reiske|1770|Paris. gr. 1696|p.c.
+Philostr. VA 7.29|-αγγέλλ-|παραγγελῶν|Reiske|1756|A Q|
+Philostr. VA 7.32.3|τι ἢ|τι ἢ μή|Bentley|2022|Α Ε|apud Boter
+Philostr. VA 7.32.3|-ασθαι|ἀκροάσεσθαι|Herbert Richards|1909|FQ|
+Philostr. VA 7.36.2|λειπ-|λιποθυμῆσαι|C. L. Kayser|1870|Paris. gr. 1801 (A)|s.l.
+Philostr. VA 7.37|τὸ καταπείθειν|τοῦ κακὰ πείθειν|Valckenaer|2022|Phot.|apud Boter
+Philostr. VA 7.42.1|μὴ/ἢ|del.|Bentley|2022|Paris. gr. 1696|apud Boter; p.c.
+Philostr. VA 7.42.5|πω|που|C. L. Kayser|1870|Marc. XI.29|
+Philostr. VA 8.2.2|οὐδὲν|οὐδ ̓|Reiske|1770|Paris. gr. 1801 (A)|
+Philostr. VA 8.4|ἀπάγξ-|ἀπάξει|Bentley|2022|E FQ|apud Boter
 Philox.Gramm. 129.6|Νικόχαρις|Νικοχάρης|Hemsterhuis|1744|D R|ad schol. Ar. Plut. 179 ('ego Bentleium audire malui')
 Philox.Gramm. 505.3|ἴσθι|εἰς θι|Friedrich Sylburg|s.xvi ex.|Marc. 304 (B)|
 Phot. α 151|ἀγενὲς|ἀγεννὲς|Jan van Leeuwen|1907|cod. Zavord. 95 (z)|Mnem.
