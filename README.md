@@ -297,7 +297,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Reiske (256), Scaliger (234), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (163), Thomas Mangey (154), Casaubon (112), Madvig (95), Meineke (92) and Valckenaer (87).</p>
+<p>The top 10 critics are Reiske (260), Scaliger (235), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (163), Thomas Mangey (154), Casaubon (112), Madvig (95), Meineke (92) and Valckenaer (87).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3746,7 +3746,7 @@ Philostr. VA 1.25.2|ὀρφέως|Ὀρφεὺς|Bentley|2022|Paris. gr. 1696|ap
 Philostr. VA 1.28.1|διάγειν|δὴ ἄγειν|Reiske|1756|Paris. gr. 1801 (A)|
 Philostr. VA 1.29|-έλλη|ἀνηγγέλθη|Cobet|1859|Paris. gr. 1801 (A)|p.c.
 Philostr. VA 2.2.1|-ώμεθα|ποιούμεθα|Scaliger|2022|Phot.|apud Boter
-Philostr. VA 2.7.2|ἀχθέσεται|ἀχθεσθήσεται|Reiske|1770|Paris. gr. 1696|s.l. m. sec.
+Philostr. VA 2.7.2|ἀχθέσεται|ἀχθεσθήσεται|Reiske|1770|Paris. gr. 1696|m. sec. s.l.
 Philostr. VA 2.7.3|-ον|μόνων|C. L. Kayser|1844|Paris. gr. 1696|p.c.
 Philostr. VA 2.22.4|τοῖς -οῖς|τοὺς ὀφθαλμοὺς|Reiske|1756|Escor. Φ.III.8 (E)|
 Philostr. VA 2.23|ἀτάκ-|εὐτάκτως|Ludwig Preller|1846|Paris. gr. 1801 (A)|
@@ -3773,6 +3773,16 @@ Philostr. VA 4.25.4|δὲ μ.|δὲ καὶ μάλιστα|Valckenaer|1763|Lugd.
 Philostr. VA 4.32.1|παρ-|περίεις|Reiske|1770|Lugd. 73D|
 Philostr. VA 4.40.3|α. ἀ.|αὕτη ἡ ἀρχή|Arthur Platt|1911|Paris. gr. 1801 (A)|
 Philostr. VA 4.46.4|οὐ π.|παρῆλθε|H. A. Hamaker|1816|Ap.Ty. Ep.|
+Philostr. VA 5.6|-ῶσαι|ἀναπλεῦσαι|C. M. Lucarini|2004|FQ Phot.|'mira quadam neglegentia'
+Philostr. VA 5.7.4|ἢ οὐ|καὶ οὐ|Salmasius|2022|Paris. gr. 1696|apud Boter; m. sec. inf. lin.
+Philostr. VA 5.7.4|-ῆσαι|ἀναχωρήσειν|Arthur Platt|1911|FQ|
+Philostr. VA 5.11|ἤχθ-|ἤνθησαν|Reiske|1770|Paris. gr. 1801 (A)|s.l.
+Philostr. VA 5.27.3|-άμενος|ἐργασόμενος|Reiske|1770|FQ|
+Philostr. VA 5.35.3|-ῆσθαι|ἐκπεπολεμῶσθαι|C. L. Kayser|1844|Paris. gr. 1801 (A)|
+Philostr. VA 5.42.1|ἦγεν|ἦττεν|Frédéric Morel|1608|FQ|
+Philostr. VA 6.1.1|-α|ξυντεθεῖσαι|Scaliger|2022|Phot.A|apud Boter
+Philostr. VA 6.1.2|βούλονται|βουλεύονται|Reiske|1756|Escor. Φ.III.8 (E)|
+Philostr. VA 6.2.2|ἥττων|ἧττον|Reiske|1756|Paris. gr. 1801 (A)|
 Philox.Gramm. 129.6|Νικόχαρις|Νικοχάρης|Hemsterhuis|1744|D R|ad schol. Ar. Plut. 179 ('ego Bentleium audire malui')
 Philox.Gramm. 505.3|ἴσθι|εἰς θι|Friedrich Sylburg|s.xvi ex.|Marc. 304 (B)|
 Phot. α 151|ἀγενὲς|ἀγεννὲς|Jan van Leeuwen|1907|cod. Zavord. 95 (z)|Mnem.
