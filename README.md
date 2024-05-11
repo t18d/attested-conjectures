@@ -297,7 +297,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Reiske (260), Scaliger (235), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (163), Thomas Mangey (154), Casaubon (112), Madvig (95), Meineke (92) and Valckenaer (87).</p>
+<p>The top 10 critics are Reiske (266), Scaliger (235), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (164), Thomas Mangey (154), Casaubon (112), Madvig (95), Meineke (92) and Valckenaer (89).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3783,6 +3783,16 @@ Philostr. VA 5.42.1|ἦγεν|ἦττεν|Frédéric Morel|1608|FQ|
 Philostr. VA 6.1.1|-α|ξυντεθεῖσαι|Scaliger|2022|Phot.A|apud Boter
 Philostr. VA 6.1.2|βούλονται|βουλεύονται|Reiske|1756|Escor. Φ.III.8 (E)|
 Philostr. VA 6.2.2|ἥττων|ἧττον|Reiske|1756|Paris. gr. 1801 (A)|
+Philostr. VA 6.2.2|ἰ. τε|ἰσότης δὲ|Reiske|1770|Paris. gr. 1696|
+Philostr. VA 6.11.13|-ῆσθαι|διαβέβλησθε|Reiske|1756|Paris. gr. 1696|m. sec.
+Philostr. VA 6.13.4|-οῖς|σοφούς|Reiske|1756|FQ|
+Philostr. VA 6.16.1|ἐ. ἑ.|ἐγὼ μὴ ἑλόμενοι|Reiske|1770|Vat. gr. 1016 et Crac. VIII.16.2|
+Philostr. VA 6.26.2|(ἐκ)κτυπηθῆναι|ἐγκτυπηθῆναι|Reiske|1756|Phot.|
+Philostr. VA 6.31.2|-ειν|ξυμπέμπει|Bentley|2022|Paris. gr. 1801 (A)|apud Boter
+Philostr. VA 6.31.2|τῆς τε|τῆς|Reiske|1770|Marc. XI.29 et Paris. gr. 1696|
+Philostr. VA 6.34.1|μεμνῆσθαι|μεμνήσεσθαι|Valckenaer|1892|Paris. gr. 1801 (A)|Wien. Stud.
+Philostr. VA 6.36.1|-ίους|χαραδριούς|G. A. Papabasileiou|1897|A E|
+Philostr. VA 7.2.2|ἀνίω|Αἰνίω|Valckenaer|1892|Paris. gr. 1696|Wien. Stud.; m. sec. in marg.
 Philox.Gramm. 129.6|Νικόχαρις|Νικοχάρης|Hemsterhuis|1744|D R|ad schol. Ar. Plut. 179 ('ego Bentleium audire malui')
 Philox.Gramm. 505.3|ἴσθι|εἰς θι|Friedrich Sylburg|s.xvi ex.|Marc. 304 (B)|
 Phot. α 151|ἀγενὲς|ἀγεννὲς|Jan van Leeuwen|1907|cod. Zavord. 95 (z)|Mnem.
