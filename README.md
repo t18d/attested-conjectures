@@ -297,7 +297,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Reiske (250), Scaliger (234), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (162), Thomas Mangey (154), Casaubon (112), Madvig (95), Meineke (92), Valckenaer (85) and Markland (85) (tied).</p>
+<p>The top 10 critics are Reiske (255), Scaliger (234), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (163), Thomas Mangey (154), Casaubon (112), Madvig (95), Meineke (92) and Valckenaer (87).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3755,6 +3755,21 @@ Philostr. VA 2.27.2|ἐς τ. β.|ἐν τοῦ βασιλέως|Herbert Richard
 Philostr. VA 2.31.3|πρὸς ὥραν|πρὸς ὥραι|Salmasius|2022|Escor. Φ.III.8 (E)|apud Boter
 Philostr. VA 2.32.1|-ες|βαδίσαντα|Friedrich Jacobs|1829–32|Paris. gr. 1696|m. sec.
 Philostr. VA 3.18|ἐ., τ. ξ.|ἐπιχειρεῖ τούτῳ, ξυνεχώρησε|Reiske|1770|Paris. gr. 1801 (A)|
+Philostr. VA 3.22.2|ἀπο-|ὑποβλέπει|Frédéric Morel|1608|Laur. CS 155|s.l.
+Philostr. VA 3.25.3|-ῃ|πεντηκοντούτει|John Jackson|2022|Escor. Φ.III.8 (E)|apud Boter
+Philostr. VA 3.26.1|μετὰ|κατὰ|Valckenaer|1892|Laur. Plut. 69.33 (F)|Wien. Stud.
+Philostr. VA 3.26.2|παχεῖά τε καὶ|π. γε κ.|Reiske|1756|Laur. Plut. 69.33 (F)|
+Philostr. VA 3.31.3|-ου|Ξέρξην|Reiske|1756|Paris. gr. 1696|m. sec.
+Philostr. VA 3.34.3|αὐτ-|ἑαυτὸν|Reiske|1770|Laur. Plut. 69.33 (F)|
+Philostr. VA 3.34.3|κυομ-|κυουμένοις|Cobet|1859|Laur. Plut. 69.33 (F)|
+Philostr. VA 3.35.2|πρώρ-|πρῷραν|Cobet|1859|Escor. Φ.III.8 (E)|
+Philostr. VA 4.1|τοῦ Κ.|τοῦ ἐν κολοφῶνι|Gottfried Olearius|1709|Marc. XI.29|s.l.
+Philostr. VA 4.3.2|ἐπὶ τούτῳ|ἐπὶ τοῦτο|Reiske|1756|Escor. Φ.III.8 (E)|
+Philostr. VA 4.10.3|εἶδ-|ἕδος|Bentley|2022|Crac. VIII.16.2|apud Boter
+Philostr. VA 4.13.3|ἐν τ. Ἀ.|τοῖς Ἀχαιοῖς|John Jackson|2022|Escor. Φ.III.8 (E)|apud Boter
+Philostr. VA 4.15.2|-εις|δίει|Cobet|1859|Paris. gr. 1696|m. sec.
+Philostr. VA 4.21.1|-ος|ἀκροασομένους|Reiske|1770|Laur. Plut. 69.33 (F)|
+Philostr. VA 4.25.4|δὲ μ.|δὲ καὶ μάλιστα|Valckenaer|1763|Lugd. 73D et Laur. CS 155|
 Philox.Gramm. 129.6|Νικόχαρις|Νικοχάρης|Hemsterhuis|1744|D R|ad schol. Ar. Plut. 179 ('ego Bentleium audire malui')
 Philox.Gramm. 505.3|ἴσθι|εἰς θι|Friedrich Sylburg|s.xvi ex.|Marc. 304 (B)|
 Phot. α 151|ἀγενὲς|ἀγεννὲς|Jan van Leeuwen|1907|cod. Zavord. 95 (z)|Mnem.
