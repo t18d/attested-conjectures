@@ -2052,6 +2052,7 @@ D.L. 2.15|ἐνθάδε|ἐνθάδ’ ὁ|Casaubon|1583|Ael. VH 8.19|
 D.L. 2.18|Εὐριπίδης|-δας|Cobet|1850|Laur. Plut. 69.13 (F)|
 D.L. 2.24|εἰ|καὶ εἰ|C. F. Hermann|1829|Vat. gr. 96 (Φ)|
 D.L. 2.32|ὅτε καιρὸς|ἤδη γηραιός|Gilles Ménage|1663|Vat. gr. 990|
+D.L. 2.44|οὐδὲν|οὐδὲν’|Grotius|1626|B2mg|
 D.L. 2.74|εἰπεῖν μ.|εἶπε μή|Casaubon|1583|Vat. gr. 96 (Φ)|
 D.L. 2.105|Μήδι-|Μήδειον|Ludwig Preller|1864|Paris. gr. 1759 (P)|m. pr.
 D.L. 2.118|-κεκαυμ-/-κεκαλυμμ-|συγκεκαμμένον|Scaliger|1663|Neap. III B 29 (B)|apud Ménage
