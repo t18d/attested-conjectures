@@ -297,7 +297,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Reiske (269), Scaliger (236), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (167), Thomas Mangey (154), Casaubon (112), Madvig (95), Meineke (92) and Valckenaer (91).</p>
+<p>The top 10 critics are Reiske (273), Scaliger (236), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (167), Thomas Mangey (154), Casaubon (112), Madvig (95), Meineke (92) and Valckenaer (91).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2987,7 +2987,7 @@ Lycurg. 140|ἡμ-|ὑμῶν|Hermann Sauppe|1834|Bodl. Auct. T.2.8 (N)|
 Lycurg. 140|πρῶτον|πρώτου|Reiske|1771|Bodl. Auct. T.2.8 (N)|
 Lycurg. 142|-αν|ἔθαψεν|John Taylor|1743|Ambros. A. 99 sup. (P)|
 Lycurg. 143|αὐτὸν τίνων|αὐτὸν˙ τίνων|John Taylor|1743|PMZ|
-Lys. 1.2|καὶ ἐν δημοκρατίᾳ καὶ ὀλιγαρχίᾳ|καὶ ἐν δ. καὶ ἐν ὀ.|Antoine Leconte|pre-1586|Pal. gr. 117 (P)|
+Lys. 1.2|καὶ ἐν δημοκρατίᾳ καὶ ὀλιγαρχίᾳ|καὶ ἐν δ. καὶ ἐν ὀ.|Antoine Leconte|pre-1586|Palat. gr. 117 (P)|
 Lys. 1.15|αὐτ- δὲ|αὕτη δὲ|John Taylor|1739|Tolet. Bibl. Cap. 101.16 (To)|
 Lys. 1.20|προσθ-|πεισθείη|Reiske|1759|Marc. 422 (H)|
 Lys. 2.47|π. β.|πρὸς τοὺς βαρβάρους|Reiske|1759|Bodl. Barocc. 139 (Ob)|m. rec.
@@ -3405,7 +3405,7 @@ Ov. trist. 1.1.14|-at|sentiet|Jacobus Roverus|1837|BDFT|apud Merkel ('ante Heins
 Ov. trist. 1.1.17|-i|illic|Justus Zinzerling|1610|O2|
 Ov. trist. 1.1.43|ab-|obest|Petrus Francius|1727|Repc|apud Burmannum; 'in ora exemplaris quo usus est' (Merkel)
 Ov. trist. 1.1.59|-as|uenies|Nicolaus Heinsius|1661|Berol. lat. oct. 67 (Bn)|p. 226
-Ov. trist. 1.1.96|&|ut|Petrus Francius|1727|Pal. lat. 910 (P)|apud Burmannum
+Ov. trist. 1.1.96|&|ut|Petrus Francius|1727|Palat. lat. 910 (P)|apud Burmannum
 Ov. trist. 1.1.121|namque ea|nam quae|Georg Luck|1959|Haun. Gl. Kgl. S. 2014 (F)|Philol.; p.c.
 Ov. trist. 1.2.63|prome-|commerui|Nicolaus Heinsius|1661|Lond. Mus. Brit. Add. 18384 (Ln)|
 Ov. trist. 1.2.78|non mihi|nunc, mihi|Daniel Heinsius|1629|Turon. 879 (T)|
@@ -3808,6 +3808,13 @@ Philostr. VA 7.42.1|μὴ/ἢ|del.|Bentley|2022|Paris. gr. 1696|apud Boter; p.c.
 Philostr. VA 7.42.5|πω|που|C. L. Kayser|1870|Marc. XI.29|
 Philostr. VA 8.2.2|οὐδὲν|οὐδ ̓|Reiske|1770|Paris. gr. 1801 (A)|
 Philostr. VA 8.4|ἀπάγξ-|ἀπάξει|Bentley|2022|E FQ|apud Boter
+Philostr. VA 8.5.3|ἀλιτηρί-|ἀλίτρους|Salmasius|2022|Palat. gr. 329 (Q)|apud Boter
+Philostr. VA 8.7.17|κ. χ.|κατὰ τοὺς χρόνους|Cobet|1859|Marc. 391|
+Philostr. VA 8.7.19|μύ-|μυεῖν|Reiske|1756|AS E FQ|
+Philostr. VA 8.7.21|ἐπ ̓ αὐτῷ/αὐτὸ|ἐπ ̓ αὐτὸν|Reiske|1756|AS|s.l.
+Philostr. VA 8.7.28|ἢ|ἢ καὶ|Reiske|1756|E FQ|
+Philostr. VA 8.7.28|μὲν|μὲν γὰρ|Reiske|1770|Escor. Φ.III.8 (E)|
+Philostr. VA 8.7.39|ταῦτ-|ταὐτὰ|Ludwig Radermacher|1895|E FQ|
 Philox.Gramm. 129.6|Νικόχαρις|Νικοχάρης|Hemsterhuis|1744|D R|ad schol. Ar. Plut. 179 ('ego Bentleium audire malui')
 Philox.Gramm. 505.3|ἴσθι|εἰς θι|Friedrich Sylburg|s.xvi ex.|Marc. 304 (B)|
 Phot. α 151|ἀγενὲς|ἀγεννὲς|Jan van Leeuwen|1907|cod. Zavord. 95 (z)|Mnem.
