@@ -2111,7 +2111,7 @@ Philo Virt. 56|τὸ -ον/τῶν -ων|τοῦ ἀναγκαιοτάτου|Tho
 Philo Virt. 76|-τέου|ὀστρέου|Thomas Mangey|1742|SG2|
 Philo Virt. 208|ὄντ-|οὕτως|Thomas Mangey|1742|FG2HP|
 Philostr. Her. 8.3|δ. ὃν|διῄειν ἂν|J. F. Boissonade|1806|Vindob. phil. gr. 331 (V)|
-Philostr. Her. 25.16|Χρύσου|Βρισέως|A. F. Norman|1977|Guelf. 25 Gud. gr. (Γ)|apud Lannoy
+Philostr. Her. 25.16|Χρύσου|Βρισέως|Lars Norrman|1687|Guelf. 25 Gud. gr. (Γ)|ad Aristid. p. 51
 Philostr. Her. 30.2|καὶ ὡς|ὡς|Herbert Richards|1909|Vindob. phil. gr. 331 (V)|CQ
 Philostr. Her. 33.30|-τιᾶς|στρατείας|Reiske|1893|KVεOT|Wien. Stud.
 Philostr. Her. 33.33|-πεσε|διεξέπαισε|J. F. Boissonade|1806|Laur. Plut. 69.30 (Φ)|m. rec.
