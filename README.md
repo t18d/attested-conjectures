@@ -152,6 +152,7 @@
         <li>Kassel, R., and C. Austin (eds), <em>Poetae comici Graeci (PCG)</em>, i: <em>Comoedia dorica mimi Phlyaces</em> (Berlin, 2001).</li>
         <li>Kassel, R., and St. Schröder (eds), <em>Poetae comici Graeci (PCG)</em>, vi/1: <em>Menander: Dyscolus et fabulae quarum fragmenta in papyris membranisque servata sunt</em> (Berlin, 2022).</li>
         <li>Kayachev, Boris (ed.), <em>Ciris</em> (Swansea, 2020).</li>
+        <li>Kayser, C. L. (ed.), <em>Flavii Philostrati quae supersunt, Philostrati Junioris Imagines, Callistrati Descriptiones</em>, (Turin, 1844).</li>
         <li>Keller, Otto (ed.), <em>Rerum naturalium scriptores Graeci minores</em>, i (Leipzig, 1877).</li>
         <li>Kenyon, Frederic George, <em>The Evidence of Greek Papyri with Regard to Textual Criticism</em> (London, 1904).</li>
         <li>Kiss, Dániel, <em><a href="http://www.catullusonline.org/">Catullus Online: An Online Repertory of Conjectures on Catullus</a></em>, accessed 13 Feb. 2024.</li>
