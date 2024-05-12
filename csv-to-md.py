@@ -12,10 +12,11 @@ with open("README.md", "r", encoding="utf8") as readme:
     
 csv_tools.sort_csv()
 
-with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:    
+with open("greek.csv", "r", encoding="utf8") as greek_csv:    
+  with open("latin.csv", "r", encoding="utf8") as latin_csv:
     with open("OT-NT.csv", "r", encoding="utf8") as amst_csv:        
         # use league ranking to make top 10 sentence in preface
-        league = csv_tools.create_league_table((conj_csv, amst_csv))
+        league = csv_tools.create_league_table((greek_csv, latin_csv, amst_csv))
         top_10 = sorted(league.items(), key=operator.itemgetter(1), reverse=True)
         limit = 9 # keep ties for 10th
         tie = False
@@ -38,16 +39,18 @@ with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:
         preface_lines[-3] = top_10_line
 
 # reopen files to create new readers
-with open("attested-conjectures.csv", "r", encoding="utf8") as conj_csv:    
+with open("greek.csv", "r", encoding="utf8") as greek_csv:    
+  with open("latin.csv", "r", encoding="utf8") as latin_csv:
     with open("OT-NT.csv", "r", encoding="utf8") as amst_csv:   
-        conj_reader = csv.reader(conj_csv)
+        greek_reader = csv.reader(greek_csv)
+        latin_reader = csv.reader(latin_csv)
         amst_reader = csv.reader(amst_csv)
         with open("README.md", "w", encoding="utf8") as conj_md: # WARNING: rewrites the file!
             conj_md.writelines(preface_lines)
             conj_md.write("\n")
             #first line is headers
             first_first_row = True
-            for reader in (conj_reader, amst_reader):
+            for reader in (greek_reader, latin_reader, amst_reader):
                 first_row = True
                 for row in reader:
                     if first_row and not first_first_row:
