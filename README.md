@@ -297,7 +297,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Reiske (276), Scaliger (237), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (167), Thomas Mangey (154), Casaubon (112), Valckenaer (99), Madvig (95) and Meineke (92).</p>
+<p>The top 10 critics are Reiske (276), Scaliger (237), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (167), Thomas Mangey (154), Casaubon (112), Valckenaer (106), Madvig (95) and Meineke (92).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3786,15 +3786,19 @@ Philostr. VA 5.7.4|-ῆσαι|ἀναχωρήσειν|Arthur Platt|1911|FQ|
 Philostr. VA 5.11|ἤχθ-|ἤνθησαν|Reiske|1770|Paris. gr. 1801 (A)|s.l.
 Philostr. VA 5.26.1|ἄλλως|ἀλλ ̓ ὡς|Valckenaer|1892|codd.|Wien. Stud.
 Philostr. VA 5.27.3|-άμενος|ἐργασόμενος|Reiske|1770|FQ|
+Philostr. VA 5.35.2|ὀ. καὶ β.|Ὀλυμπίαν βαδίζοντα|Valckenaer|1892|Paris. gr. 1801 (A)|Wien. Stud.
 Philostr. VA 5.35.3|-ῆσθαι|ἐκπεπολεμῶσθαι|C. L. Kayser|1844|Paris. gr. 1801 (A)|
+Philostr. VA 5.39|-ὸν/-ῷ|αὐτὸ|Valckenaer|1892|A E|Wien. Stud.
 Philostr. VA 5.42.1|ἦγεν|ἦττεν|Frédéric Morel|1608|FQ|
 Philostr. VA 6.1.1|-α|ξυντεθεῖσαι|Scaliger|2022|Phot.A|apud Boter
 Philostr. VA 6.1.2|βούλονται|βουλεύονται|Reiske|1756|Escor. Φ.III.8 (E)|
 Philostr. VA 6.2.2|ἥττων|ἧττον|Reiske|1756|Paris. gr. 1801 (A)|
 Philostr. VA 6.2.2|ἰ. τε|ἰσότης δὲ|Reiske|1770|Paris. gr. 1696|
 Philostr. VA 6.11.13|-ῆσθαι|διαβέβλησθε|Reiske|1756|Paris. gr. 1696|m. sec.
+Philostr. VA 6.11.18|καίπερ ἱστας|καὶ περιιστᾷς|Valckenaer|1892|codd.|Wien. Stud.; περιιστὰς codd.
 Philostr. VA 6.13.4|-οῖς|σοφούς|Reiske|1756|FQ|
 Philostr. VA 6.16.1|ἐ. ἑ.|ἐγὼ μὴ ἑλόμενοι|Reiske|1770|Vat. gr. 1016 et Crac. VIII.16.2|
+Philostr. VA 6.22.2|-ὼν|ἐξελῶν|Valckenaer|1892|A E|Wien. Stud.
 Philostr. VA 6.26.2|(ἐκ)κτυπηθῆναι|ἐγκτυπηθῆναι|Reiske|1756|Phot.|
 Philostr. VA 6.31.2|-ειν|ξυμπέμπει|Bentley|2022|Paris. gr. 1801 (A)|apud Boter
 Philostr. VA 6.31.2|τῆς τε|τῆς|Reiske|1770|Marc. XI.29 et Paris. gr. 1696|
@@ -3808,6 +3812,7 @@ Philostr. VA 7.14.1|παιδικῶν|παίδων|Cobet|1859|Marc. XI.29 et Par
 Philostr. VA 7.14.11|ἐπισκώπτ-|ἐπικόπτει|Salmasius|2022|Paris. gr. 1696|apud Boter; m. sec.
 Philostr. VA 7.22.2|τοῦ -ους|τὸ πέλαγος|Reiske|1770|Paris. gr. 1696|p.c.
 Philostr. VA 7.29|-αγγέλλ-|παραγγελῶν|Reiske|1756|A Q|
+Philostr. VA 7.31.1|ἐπ-|ἀπεβλέπετο|Valckenaer|1892|codd.|Wien. Stud.
 Philostr. VA 7.32.3|τι ἢ|τι ἢ μή|Bentley|2022|Α Ε|apud Boter
 Philostr. VA 7.32.3|-ασθαι|ἀκροάσεσθαι|Herbert Richards|1909|FQ|
 Philostr. VA 7.36.2|λειπ-|λιποθυμῆσαι|C. L. Kayser|1870|Paris. gr. 1801 (A)|s.l.
@@ -3817,6 +3822,7 @@ Philostr. VA 7.42.5|πω|που|C. L. Kayser|1870|Marc. XI.29|
 Philostr. VA 8.2.2|οὐδὲν|οὐδ ̓|Reiske|1770|Paris. gr. 1801 (A)|
 Philostr. VA 8.4|ἀπάγξ-|ἀπάξει|Bentley|2022|E FQ|apud Boter
 Philostr. VA 8.5.3|ἀλιτηρί-|ἀλίτρους|Salmasius|2022|Palat. gr. 329 (Q)|apud Boter
+Philostr. VA 8.7.11|προσήκ-|προσῄειν|Valckenaer|1892|AS E|Wien. Stud.
 Philostr. VA 8.7.17|κ. χ.|κατὰ τοὺς χρόνους|Cobet|1859|Marc. 391|
 Philostr. VA 8.7.19|μύ-|μυεῖν|Reiske|1756|AS E FQ|
 Philostr. VA 8.7.21|ἐπ ̓ αὐτῷ/αὐτὸ|ἐπ ̓ αὐτὸν|Reiske|1756|AS|s.l.
@@ -3826,6 +3832,7 @@ Philostr. VA 8.7.39|ταῦτ-|ταὐτὰ|Ludwig Radermacher|1895|E FQ|
 Philostr. VA 8.7.47|τὰ τ.|τὰ αὑτῶν τοιαῦτα|Gottfried Olearius|1709|Laur. Conv. Soppr. 155 (S)|
 Philostr. VA 8.8|-ασθαι|ποιήσεσθαι|Reiske|1756|Paris. gr. 1696|m. sec.
 Philostr. VA 8.15.2|-ασθαι|ἀκροάσεσθαι|Reiske|1770|FQ|
+Philostr. VA 8.21|-νίους|Ἀπολλωνιείους|Valckenaer|1892|Paris. gr. 1801 (A)|Wien. Stud.
 Philostr. VA 8.22|-ει|ἀπάγοι|Reiske|1756|Paris. gr. 1696|p.c.
 Philostr. VA 8.31.3|μαστ-|ματεύεις|Scaliger|2022|App.Anth. Orac. 258|apud Boter
 Philox.Gramm. 129.6|Νικόχαρις|Νικοχάρης|Hemsterhuis|1744|D R|ad schol. Ar. Plut. 179 ('ego Bentleium audire malui')
