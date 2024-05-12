@@ -196,6 +196,7 @@
         <li>Persius Flaccus, A., and D. Iunius Iuvenalis, <em>Saturae</em>, ed. W. V. Clausen (Oxford, 1966).</li>
         <li>Petronius Arbiter, <em>Satirarum reliquiae</em>, ed. Franz Bücheler (Berlin, 1862).</li>
         <li>Philo Alexandrinus, <em>Opera quae supersunt</em>, ed. Paul Wendland, Leopold Cohn and Siegfried Reiter, 6 vols (Berlin, 1896–1915).</li>
+        <li>Philostratus, Flavius, <em>Heroicus</em>, ed. Ludo de Lannoy (Leipzig, 1977).</li>
         <li>Philostratus, Flavius, <em>Vita Apollonii Tyanei</em>, ed. Gerard Boter (Berlin, 2022).</li>
         <li>Photius, <em>Patriarchae lexicon</em>, ed. Christos Theodoridis, 3 vols (Berlin, 1982–2013).</li>
         <li>Places, Édouard des (ed.), <em>Oracles chaldaïques avec un choix de commentaires anciens</em> (Paris, 1971).</li>
