@@ -196,6 +196,7 @@
         <li>Persius Flaccus, A., and D. Iunius Iuvenalis, <em>Saturae</em>, ed. W. V. Clausen (Oxford, 1966).</li>
         <li>Petronius Arbiter, <em>Satirarum reliquiae</em>, ed. Franz Bücheler (Berlin, 1862).</li>
         <li>Philo Alexandrinus, <em>Opera quae supersunt</em>, ed. Paul Wendland, Leopold Cohn and Siegfried Reiter, 6 vols (Berlin, 1896–1915).</li>
+        <li>Philostratus, Flavius, <em>Vita Apollonii Tyanei</em>, ed. Gerard Boter (Berlin, 2022).</li>
         <li>Photius, <em>Patriarchae lexicon</em>, ed. Christos Theodoridis, 3 vols (Berlin, 1982–2013).</li>
         <li>Places, Édouard des (ed.), <em>Oracles chaldaïques avec un choix de commentaires anciens</em> (Paris, 1971).</li>
         <li>Plato, <em>Opera</em>, iii, ed. John Burnet (Oxford, 1903).</li>
@@ -238,6 +239,7 @@
         <li>Rossbach, Otto, <em>De Senecae philosophi librorum recensione et emendatione</em> (Breslau, 1888).</li>
         <li>Rowe, Christopher, <em>Aristotelica: Studies on the Text of Aristotle’s</em> Eudemian Ethics (Oxford, 2023).</li>
         <li>Sappho and Alcaeus, <em>Fragmenta</em>, ed. Eva-Maria Voigt (Amsterdam, 1971).</li>
+        <li>Schenkl, Karl, 'Valckenarii animadversiones in Philostratos', <em>Wiener Studien</em>, 14 (1892), 270.</li>
         <li>Schneider, Otto (ed.), <em>Nicandrea</em> (Leipzig, 1856).</li>
         <li>Schöll, Rudolf, and Wilhelm Kroll (eds), <em>Novellae</em> (Berlin, 1912).</li> 
         <li>Seneca Maior, L. Annaeus, <em>Oratorum et rhetorum sententiae, divisiones, colores</em>, ed. Lennart Håkanson (Leipzig, 1989).</li>
