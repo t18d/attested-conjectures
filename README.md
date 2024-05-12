@@ -297,7 +297,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Reiske (276), Scaliger (237), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (167), Thomas Mangey (154), Casaubon (112), Madvig (95), Meineke (92) and Valckenaer (91).</p>
+<p>The top 10 critics are Reiske (276), Scaliger (237), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (167), Thomas Mangey (154), Casaubon (112), Valckenaer (99), Madvig (95) and Meineke (92).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3743,6 +3743,7 @@ Philostr. VA 1.20.1|-γράψαι|ἀπόγραψαι|Reiske|1756|A E F|
 Philostr. VA 1.21.2|ποτ ̓|τότ ̓|Reiske|1770|Laur. Plut. 69.33 (F)|
 Philostr. VA 1.24.2|ταῦτα ἰδεῖν φασι· καὶ|ταῦτα. ἰδεῖν φασι καὶ|John Jackson|2022|A E|apud Boter
 Philostr. VA 1.25.2|ὀρφέως|Ὀρφεὺς|Bentley|2022|Paris. gr. 1696|apud Boter; p.c.
+Philostr. VA 1.27|-τῶ|φοιτῴη|Valckenaer|1892|codd.|Wien. Stud.
 Philostr. VA 1.28.1|διάγειν|δὴ ἄγειν|Reiske|1756|Paris. gr. 1801 (A)|
 Philostr. VA 1.29|-έλλη|ἀνηγγέλθη|Cobet|1859|Paris. gr. 1801 (A)|p.c.
 Philostr. VA 2.2.1|-ώμεθα|ποιούμεθα|Scaliger|2022|Phot.|apud Boter
@@ -3754,6 +3755,9 @@ Philostr. VA 2.27.2|ἐνω-|ἐνορώρυκτο|Reiske|1770|Paris. gr. 1696|
 Philostr. VA 2.27.2|ἐς τ. β.|ἐν τοῦ βασιλέως|Herbert Richards|1909|Paris. gr. 1801 (A)|s.l.
 Philostr. VA 2.31.3|πρὸς ὥραν|πρὸς ὥραι|Salmasius|2022|Escor. Φ.III.8 (E)|apud Boter
 Philostr. VA 2.32.1|-ες|βαδίσαντα|Friedrich Jacobs|1829–32|Paris. gr. 1696|m. sec.
+Philostr. VA 2.43|-ῳ|Ἀλέξανδρον|Valckenaer|1892|codd.|Wien. Stud.
+Philostr. VA 3.4.1|ἰδέ-|ἴδαις|Valckenaer|1892|codd. praeter F|Wien. Stud.
+Philostr. VA 3.8.2|ὑπο-|ὑπερβαλὼν|Valckenaer|1892|Paris. gr. 1801 (A)|Wien. Stud.
 Philostr. VA 3.18|ἐ., τ. ξ.|ἐπιχειρεῖ τούτῳ, ξυνεχώρησε|Reiske|1770|Paris. gr. 1801 (A)|
 Philostr. VA 3.22.2|ἀπο-|ὑποβλέπει|Frédéric Morel|1608|Laur. CS 155 (S)|s.l.
 Philostr. VA 3.25.3|-ῃ|πεντηκοντούτει|John Jackson|2022|Escor. Φ.III.8 (E)|apud Boter
@@ -3769,14 +3773,18 @@ Philostr. VA 4.10.3|εἶδ-|ἕδος|Bentley|2022|Crac. VIII.16.2|apud Boter
 Philostr. VA 4.13.3|ἐν τ. Ἀ.|τοῖς Ἀχαιοῖς|John Jackson|2022|Escor. Φ.III.8 (E)|apud Boter
 Philostr. VA 4.15.2|-εις|δίει|Cobet|1859|Paris. gr. 1696|m. sec.
 Philostr. VA 4.21.1|-ος|ἀκροασομένους|Reiske|1770|Laur. Plut. 69.33 (F)|
+Philostr. VA 4.22.1|ἐπὶ|ὑπὸ|Valckenaer|1892|codd. praeter F|Wien. Stud.
 Philostr. VA 4.25.4|δὲ μ.|δὲ καὶ μάλιστα|Valckenaer|1763|Lugd. 73D et S|
+Philostr. VA 4.27|σπονδ-|σπουδαὶ|Valckenaer|1892|codd.|Wien. Stud.
 Philostr. VA 4.32.1|παρ-|περίεις|Reiske|1770|Lugd. 73D|
 Philostr. VA 4.40.3|α. ἀ.|αὕτη ἡ ἀρχή|Arthur Platt|1911|Paris. gr. 1801 (A)|
 Philostr. VA 4.46.4|οὐ π.|παρῆλθε|H. A. Hamaker|1816|Ap.Ty. Ep.|
 Philostr. VA 5.6|-ῶσαι|ἀναπλεῦσαι|C. M. Lucarini|2004|FQ Phot.|'mira quadam neglegentia'
+Philostr. VA 5.7.2|-α|ἐναντίαν|Valckenaer|1892|codd. praeter F|Wien. Stud.
 Philostr. VA 5.7.4|ἢ οὐ|καὶ οὐ|Salmasius|2022|Paris. gr. 1696|apud Boter; m. sec. inf. lin.
 Philostr. VA 5.7.4|-ῆσαι|ἀναχωρήσειν|Arthur Platt|1911|FQ|
 Philostr. VA 5.11|ἤχθ-|ἤνθησαν|Reiske|1770|Paris. gr. 1801 (A)|s.l.
+Philostr. VA 5.26.1|ἄλλως|ἀλλ ̓ ὡς|Valckenaer|1892|codd.|Wien. Stud.
 Philostr. VA 5.27.3|-άμενος|ἐργασόμενος|Reiske|1770|FQ|
 Philostr. VA 5.35.3|-ῆσθαι|ἐκπεπολεμῶσθαι|C. L. Kayser|1844|Paris. gr. 1801 (A)|
 Philostr. VA 5.42.1|ἦγεν|ἦττεν|Frédéric Morel|1608|FQ|
