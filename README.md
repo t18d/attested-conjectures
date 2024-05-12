@@ -297,7 +297,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Reiske (273), Scaliger (236), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (167), Thomas Mangey (154), Casaubon (112), Madvig (95), Meineke (92) and Valckenaer (91).</p>
+<p>The top 10 critics are Reiske (276), Scaliger (237), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (167), Thomas Mangey (154), Casaubon (112), Madvig (95), Meineke (92) and Valckenaer (91).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3755,7 +3755,7 @@ Philostr. VA 2.27.2|ἐς τ. β.|ἐν τοῦ βασιλέως|Herbert Richard
 Philostr. VA 2.31.3|πρὸς ὥραν|πρὸς ὥραι|Salmasius|2022|Escor. Φ.III.8 (E)|apud Boter
 Philostr. VA 2.32.1|-ες|βαδίσαντα|Friedrich Jacobs|1829–32|Paris. gr. 1696|m. sec.
 Philostr. VA 3.18|ἐ., τ. ξ.|ἐπιχειρεῖ τούτῳ, ξυνεχώρησε|Reiske|1770|Paris. gr. 1801 (A)|
-Philostr. VA 3.22.2|ἀπο-|ὑποβλέπει|Frédéric Morel|1608|Laur. CS 155|s.l.
+Philostr. VA 3.22.2|ἀπο-|ὑποβλέπει|Frédéric Morel|1608|Laur. CS 155 (S)|s.l.
 Philostr. VA 3.25.3|-ῃ|πεντηκοντούτει|John Jackson|2022|Escor. Φ.III.8 (E)|apud Boter
 Philostr. VA 3.26.1|μετὰ|κατὰ|Valckenaer|1892|Laur. Plut. 69.33 (F)|Wien. Stud.
 Philostr. VA 3.26.2|παχεῖά τε καὶ|π. γε κ.|Reiske|1756|Laur. Plut. 69.33 (F)|
@@ -3769,7 +3769,7 @@ Philostr. VA 4.10.3|εἶδ-|ἕδος|Bentley|2022|Crac. VIII.16.2|apud Boter
 Philostr. VA 4.13.3|ἐν τ. Ἀ.|τοῖς Ἀχαιοῖς|John Jackson|2022|Escor. Φ.III.8 (E)|apud Boter
 Philostr. VA 4.15.2|-εις|δίει|Cobet|1859|Paris. gr. 1696|m. sec.
 Philostr. VA 4.21.1|-ος|ἀκροασομένους|Reiske|1770|Laur. Plut. 69.33 (F)|
-Philostr. VA 4.25.4|δὲ μ.|δὲ καὶ μάλιστα|Valckenaer|1763|Lugd. 73D et Laur. CS 155|
+Philostr. VA 4.25.4|δὲ μ.|δὲ καὶ μάλιστα|Valckenaer|1763|Lugd. 73D et S|
 Philostr. VA 4.32.1|παρ-|περίεις|Reiske|1770|Lugd. 73D|
 Philostr. VA 4.40.3|α. ἀ.|αὕτη ἡ ἀρχή|Arthur Platt|1911|Paris. gr. 1801 (A)|
 Philostr. VA 4.46.4|οὐ π.|παρῆλθε|H. A. Hamaker|1816|Ap.Ty. Ep.|
@@ -3795,7 +3795,7 @@ Philostr. VA 6.36.1|-ίους|χαραδριούς|G. A. Papabasileiou|1897|A E|
 Philostr. VA 7.2.2|ἀνίω|Αἰνίω|Valckenaer|1892|Paris. gr. 1696|Wien. Stud.; m. sec. in marg.
 Philostr. VA 7.8.1|-οῖς|χρηστοὺς|Scaliger|2022|Paris. gr. 1801 (A)|apud Boter
 Philostr. VA 7.11.1|-οὺς|αὐτοῖς|Valckenaer|1892|Phot.|Wien. Stud.
-Philostr. VA 7.12.1|ὃ μηδ ̓|ὁ μηδ ̓|Herbert Richards|1909|Laur. CS 155|p.c.
+Philostr. VA 7.12.1|ὃ μηδ ̓|ὁ μηδ ̓|Herbert Richards|1909|Laur. CS 155 (S)|p.c.
 Philostr. VA 7.14.1|παιδικῶν|παίδων|Cobet|1859|Marc. XI.29 et Paris. gr. 1696|
 Philostr. VA 7.14.11|ἐπισκώπτ-|ἐπικόπτει|Salmasius|2022|Paris. gr. 1696|apud Boter; m. sec.
 Philostr. VA 7.22.2|τοῦ -ους|τὸ πέλαγος|Reiske|1770|Paris. gr. 1696|p.c.
@@ -3815,6 +3815,11 @@ Philostr. VA 8.7.21|ἐπ ̓ αὐτῷ/αὐτὸ|ἐπ ̓ αὐτὸν|Reiske|
 Philostr. VA 8.7.28|ἢ|ἢ καὶ|Reiske|1756|E FQ|
 Philostr. VA 8.7.28|μὲν|μὲν γὰρ|Reiske|1770|Escor. Φ.III.8 (E)|
 Philostr. VA 8.7.39|ταῦτ-|ταὐτὰ|Ludwig Radermacher|1895|E FQ|
+Philostr. VA 8.7.47|τὰ τ.|τὰ αὑτῶν τοιαῦτα|Gottfried Olearius|1709|Laur. Conv. Soppr. 155 (S)|
+Philostr. VA 8.8|-ασθαι|ποιήσεσθαι|Reiske|1756|Paris. gr. 1696|m. sec.
+Philostr. VA 8.15.2|-ασθαι|ἀκροάσεσθαι|Reiske|1770|FQ|
+Philostr. VA 8.22|-ει|ἀπάγοι|Reiske|1756|Paris. gr. 1696|p.c.
+Philostr. VA 8.31.3|μαστ-|ματεύεις|Scaliger|2022|App.Anth. Orac. 258|apud Boter
 Philox.Gramm. 129.6|Νικόχαρις|Νικοχάρης|Hemsterhuis|1744|D R|ad schol. Ar. Plut. 179 ('ego Bentleium audire malui')
 Philox.Gramm. 505.3|ἴσθι|εἰς θι|Friedrich Sylburg|s.xvi ex.|Marc. 304 (B)|
 Phot. α 151|ἀγενὲς|ἀγεννὲς|Jan van Leeuwen|1907|cod. Zavord. 95 (z)|Mnem.
