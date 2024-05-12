@@ -4,7 +4,7 @@
 <br>
 <br>
 <br>
-<p>This database is searchable as two CSV files (<a href="https://github.com/t18d/attested-conjectures/blob/main/attested-conjectures.csv">classics</a>, <a href="https://github.com/t18d/attested-conjectures/blob/main/OT-NT.csv">OT/NT</a>). The quickest way to get an addition or correction merged is to fork the repo, edit the CSV file and send in a pull request. Scope and formatting are explained in project <a href="https://github.com/t18d/attested-conjectures/wiki">Wiki</a>. For changes relating to NT conjectures, please notify the <a href="https://ntvmr.uni-muenster.de/nt-conjectures-attribution">upstream</a> as well.</p>
+<p>This database is searchable as three CSV files (<a href="https://github.com/t18d/attested-conjectures/blob/main/greek.csv">Greek</a>, <a href="https://github.com/t18d/attested-conjectures/blob/main/latin.csv">Latin</a>, <a href="https://github.com/t18d/attested-conjectures/blob/main/OT-NT.csv">OT/NT</a>). The quickest way to get an addition or correction merged is to fork the repo, edit the CSV file and send in a pull request. Scope and formatting are explained in project <a href="https://github.com/t18d/attested-conjectures/wiki">Wiki</a>. For changes relating to NT conjectures, please notify the <a href="https://ntvmr.uni-muenster.de/nt-conjectures-attribution">upstream</a> as well.</p>
 &nbsp;  
 <details>
     <summary>Bibliography</summary>
