@@ -206,6 +206,7 @@
         <li>Platon, <em>Le Sophiste</em>, ed. Auguste Diès (Paris, 1925).</li>
         <li>Platon, <em>Les Lois (livres VII–X)</em>, ed. Auguste Diès (Paris, 1956).</li>
         <li>Plato, <em>Gorgias</em>, ed. E. R. Dodds (Oxford, 1959).</li>
+        <li>Plato, <em>Meno</em>, ed. R. S. Bluck (Cambridge, 1961).</li>
         <li>Platon, <em>Timée — Critias</em>, ed. Albert Rivaud (Paris, 1963).</li>
         <li>Platon, <em>Gorgias — Ménon</em>, ed. Alfred Croiset (Paris, 1965).</li>
         <li>Platon, <em>Parménide</em>, ed. Auguste Diès (Paris, 1965).</li>
