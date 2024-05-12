@@ -301,7 +301,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Reiske (276), Scaliger (237), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (167), Thomas Mangey (154), Casaubon (112), Valckenaer (106), Madvig (95) and Meineke (92).</p>
+<p>The top 10 critics are Reiske (276), Scaliger (237), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (167), Thomas Mangey (154), Casaubon (113), Valckenaer (106), Madvig (95) and Meineke (92).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2393,10 +2393,12 @@ Pl. La. 197e|δὲ|δὴ|Martin Schanz|1883|P.Oxy. II 228|
 Pl. Lg. 832a|om.|ἡ|Apelt||Laur. Plut. 80.17 (L)|
 Pl. Lg. 894c|τήν τε|τὴν δὲ|Henri Estienne|1578|Ricc. 67|
 Pl. Men. 81b|-ὰν|ψυχὰς|Böckh||Vindob. 54. suppl. phil. gr. 7 (W)|'August Boeckh unterschrieb selbst mit »Böckh«, die Familie und die Fachtradition bevorzugen »Boeckh«.'
-Pl. Men. 82c|ἐν|ἦν|F. A. Wolf||Vindob. 55. suppl. phil. gr. 39 (F)|
-Pl. Men. 95b|ε. ἢ|εἶναι καὶ|F. A. Wolf||Vindob. 55. suppl. phil. gr. 39 (F)|
+Pl. Men. 82c|ἐν|ἦν|F. A. Wolf|1802|Vindob. 55. suppl. phil. gr. 39 (F)|
+Pl. Men. 86a|οὖν|οὐ|Gottfried Stallbaum|1836|Vindob. 55. suppl. phil. gr. 39 (F)|
+Pl. Men. 95b|ε. ἢ|εἶναι καὶ|F. A. Wolf|1802|Vindob. 55. suppl. phil. gr. 39 (F)|
 Pl. Men. 96e|-ειν|διαφεύγει|Madvig||Vindob. 55. suppl. phil. gr. 39 (F)|
-Pl. Men. 99a|ἐπιγίγ.|ἔτι γίγνεται|Schleiermacher||Vindob. 55. suppl. phil. gr. 39 (F)|
+Pl. Men. 99a|ἐπιγίγ.|ἔτι γίγνεται|Schleiermacher|1856|FΛ|
+Pl. Men. 99d|θεῖ-|σεῖος|Casaubon||Aristipp.|
 Pl. Mx. 244d|ο. πολλῶν|οὐδὲ παλαιῶν|Gottleber||Vindob. 55. suppl. phil. gr. 39 (F)|
 Pl. Phd. 82e|τῳ δεδέσθαι|τοῦ δεδέσθαι|L. F. Heindorf|1810|P.Lond.Lit. 145 (inv. 488)|
 Pl. Phdr. 228b|πάνυ τις|πάνυ τι|Martin Schanz|1875|P.Oxy. VII 1016|
