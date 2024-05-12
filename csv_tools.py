@@ -25,7 +25,23 @@ def human_sort_dict(row, column):
     "Provide a naturally-sorted key for the row of a DictReader."
     return natural_keys(row[column])
 
-def sort_csv(file="attested-conjectures.csv", column="Ref."):
+def sort_grc(file="greek.csv", column="Ref."):
+    "Sorts the file given by the column provided."
+    with open(file, "r", encoding="utf8") as conj_csv:
+        conjj = csv.DictReader(conj_csv) # has to be forced into a list so that we can close the file
+        # fieldnames are the first row of the csv file so don't need to be provided
+        sorted_conj = sorted(conjj, key=lambda row: human_sort_dict(row, column)) # old key=lambda row: row[column]
+    try:
+        with open(file, "w", encoding="utf8", newline="") as conj_csv:
+            writer = csv.DictWriter(conj_csv, fieldnames)
+            writer.writeheader()
+            writer.writerows(sorted_conj)
+    except ValueError as e: # if the rows are wrong then occurs ValueError: dict contains fields not in fieldnames - need to save the data in that case
+        with open(f"error{datetime.now().isoformat()}.txt", "w", encoding="utf8") as err_txt: # need date in case multiple errors occur
+            err_txt.write(str(e))
+            err_txt.write(sorted_conj) # save the data
+
+def sort_lat(file="latin.csv", column="Ref."):
     "Sorts the file given by the column provided."
     with open(file, "r", encoding="utf8") as conj_csv:
         conjj = csv.DictReader(conj_csv) # has to be forced into a list so that we can close the file
