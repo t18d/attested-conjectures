@@ -1768,7 +1768,7 @@ Hom. Od. 7.156|-έστερος|προγ]ενεστ̣α̣τος|Bekker|1858|P.Oxy
 Hom. Od. 8.74|-ης|οἴμη|Bentley|1894|Palat. 45|
 Hom. Od. 8.106 schol.|εὐφύ-|ἐν φύλλοισιν|Joshua Barnes|1711|Marc. 613|Homeri Odyssea p. 171
 Hom. Od. 8.312|ὄφελλ-|ὄφειλον|Nauck|1874|C L7 R4 (a)|
-Hom. Od. 8.435|τ. ἵστασαν|στῆσαν τρίποδ’|K. H. F. Grashof|1846–52|Ho N|
+Hom. Od. 8.435|τ. ἵστασαν|στῆσαν τρίποδ’|Karl Grashof|1846–52|Ho N|
 Hom. Od. 9.138|εἰσόκε ναυτέων|-κεν αὖτε|Bentley|1894|d q|
 Hom. Od. 9.393|-ρου γε κ.|σιδήροιο κράτος|Nauck|1874|Venet. cl. ix num. 29 (U8)|
 Hom. Od. 10.10|αὐλῆ(ι)|αὐδῆι|G. W. Nitzsch|1826–40|P.Oxy. XLIX 3441|αυδη[]
@@ -1779,7 +1779,7 @@ Hom. Od. 11.580|ἥλκησε|ἕλκυσσε|Nauck|1874|d|
 Hom. Od. 15.206|ἐν(ὶ)|επι|Heinrich Düntzer|1863|P.Amh. II 23 et P.S.I. XIII 1299|
 Hom. Od. 20.6|-όων|ἐγρηγορέων|F. H. Bothe|1835|Gal. De plac. Hipp. et Plat. 3.3.8|
 Hom. Od. 22.258|-κει|βεβλήκειν|Bekker|1843|P.Ryl. I 53|
-Hom. Od. 23.188|-κται|τέτυκτο|K. H. F. Grashof|1846–52|P.Ryl. I 53|
+Hom. Od. 23.188|-κται|τέτυκτο|Karl Grashof|1846–52|P.Ryl. I 53|
 Hom. Od. 23.192|ὄφρ’ ἐτέλεσσα|οφρα τελεσ[σα|Bekker|1858|P.Oxy. III 448|
 Hom. Od. 23.259|ἐϋκτίμενον|ες υψοροφον|Bekker|1858|P.Ryl. I 53 et P.Oxy. inv. 203B.35/H(1–3)|
 Hom. Od. 23.276|-ευσεν|ἐκέλευεν|Joshua Barnes|1711|P.Ryl. I 53 et Monac. gr. 519 B (U)|
@@ -2613,6 +2613,8 @@ Polyzel. fr. 2|ἔν-|εὔυδρον|Meineke|1839–57|Phot. ε 986|
 Porph. Antr. 8|ἔρχετ᾽|ἔρχεταί τ᾽|Rudolf Hercher|1858|Vat. gr. 325 (V)|
 Priscian. Inst. 18.197|ὅσοι γὰρ/θεοῖς ἄρ'|θεοὶ γὰρ|Madvig|1846|VR|Philol. 1 (1846) 672
 ProdRhod 1.38|ξυνεδέθ-|ξυνεσχέθησαν|Isidor Hilberg|1877|UL|
+Ptol. Geog. 2.7.11||με′ δ″|Karl Grashof|1839|PV|
+Ptol. Geog. 2.8.11|κβ′/κδ′|κ′ δ″|Karl Grashof|1839|S. Gregorii in monte Cœlio (Π)|
 Q.S. 1.33|om.|ἕποντο|Scaliger|n.d.|Y|
 Q.S. 1.71|πόλ-|πτόλεμον|Scaliger|n.d.|Y|
 Q.S. 1.77|ἠὲ|ἢ|Scaliger|n.d.|Y|
