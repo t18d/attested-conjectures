@@ -2613,8 +2613,9 @@ Polyzel. fr. 2|ἔν-|εὔυδρον|Meineke|1839–57|Phot. ε 986|
 Porph. Antr. 8|ἔρχετ᾽|ἔρχεταί τ᾽|Rudolf Hercher|1858|Vat. gr. 325 (V)|
 Priscian. Inst. 18.197|ὅσοι γὰρ/θεοῖς ἄρ'|θεοὶ γὰρ|Madvig|1846|VR|Philol. 1 (1846) 672
 ProdRhod 1.38|ξυνεδέθ-|ξυνεσχέθησαν|Isidor Hilberg|1877|UL|
-Ptol. Geog. 2.7.11||με′ δ″|Karl Grashof|1839|PV|
+Ptol. Geog. 2.7.11|μδ′ Lδ″/μδ′ δ″|με′ δ″|Karl Grashof|1839|Venet. 383 (P)|
 Ptol. Geog. 2.8.11|κβ′/κδ′|κ′ δ″|Karl Grashof|1839|S. Gregorii in monte Cœlio (Π)|
+Ptol. Geog. 2.11.3|μϛ′ γ″|μϛ′ Lγ″|Karl Grashof|1839|Vat. gr. 191 (X)|
 Q.S. 1.33|om.|ἕποντο|Scaliger|n.d.|Y|
 Q.S. 1.71|πόλ-|πτόλεμον|Scaliger|n.d.|Y|
 Q.S. 1.77|ἠὲ|ἢ|Scaliger|n.d.|Y|
