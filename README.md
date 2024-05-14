@@ -2640,6 +2640,8 @@ Ptol. Geog. 5.2.6 ult.|λζ′ δ″|λζ′ Lδ″|Karl Grashof|1844|codd. prim
 Ptol. Geog. 5.2.14|Σ. … λη′ δ″|Σάρδεις … λη′ Lδ″|Karl Grashof|1844|codd. prim.|
 Ptol. Geog. 5.2.15|Ἴ. νη′|Ἴδυμος νθ′|Karl Grashof|1844|Vat. gr. 191 (X)|
 Ptol. Geog. 5.4.5|Τολιστοβόγ-/Τολιβωστοί|Τολιστοβῶγοι|F. W. Wilberg|1844|Vat. gr. 191 (X)|
+Ptol. Geog. 5.4.6 ult.|μ′ δ″|μ′ Lδ″|Karl Grashof|1844|Vat. gr. 191 (X)|
+Ptol. Geog. 5.6.16 ult.|ξδ′ ϛ″/ξδ′ Lϛ″|ξδ′ Lγ″|Karl Grashof|1844|Vat. gr. 191 (X)|
 Q.S. 1.33|om.|ἕποντο|Scaliger|n.d.|Y|
 Q.S. 1.71|πόλ-|πτόλεμον|Scaliger|n.d.|Y|
 Q.S. 1.77|ἠὲ|ἢ|Scaliger|n.d.|Y|
