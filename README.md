@@ -231,6 +231,7 @@
         <li>Polybe, <em>Histoires livres VII–VIII et XI</em>, ed. Raymond Weil (Paris, 1982).</li>
         <li>Polybe, <em>Histoires livre XI</em>, ed. Raymond Weil (Paris, 1990).</li>
         <li>Propertius, Sextus, <em>Elegiarum libri IV</em>, ed. Paolo Fedeli (Munich, 1994).</li>
+        <li>Ptolemæus, Claudius, <em>Geographia</em>, i, ed. Carl Müller (Paris, 1883).</li>
         <li>Publilius Syrus Mimus, <em>Sententiae</em>, ed. Otto Friedrich (Berlin, 1880).</li>
         <li>Quintilianus, M. Fabus, <em>Institutionis oratoriae libri duodecim</em>, i, ed. M. Winterbottom (Oxford, 1970).</li>
         <li>Quintus de Smyrne, <em>La Suite d'Homère</em>, ed. Francis Vian, 2 vols (Paris, 1963–6). (tome III unavailable)</li>
