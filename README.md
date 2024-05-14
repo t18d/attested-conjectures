@@ -2619,16 +2619,19 @@ Ptol. Geog. 2.11.3|μϛ′ γ″|μϛ′ Lγ″|Karl Grashof|1839|Vat. gr. 191 (
 Ptol. Geog. 2.11.10|Λοῦτοι ο. Β. et sim.|Λοῦγοι οἱ Βοῦροι|F. W. Wilberg|1839|Vat. gr. 191 (X)|
 Ptol. Geog. 2.13.3|με′ δ″|μϛ′ δ″|F. W. Wilberg|1839|Vat. gr. 191 (X)|
 Ptol. Geog. 2.16.5|ὑπὲρ δὲ τ. Ν.|ὑπὸ δὲ τούτους Ναρήνσιοι|Wilberg-Grashof|1839|Vat. gr. 191 (X)|
-Ptol. Geog. 3.1.6|Λ. … μα′ L″|Λίτερνον … μα′ ϛ″|F. W. Wilberg|1839|Vat. gr. 191 (X)|
-Ptol. Geog. 3.1.6|Κ. … μα′ L″|Κοῦμαι … μα′ ϛ″|F. W. Wilberg|1839|XΞΦ1|
-Ptol. Geog. 3.1.10|μβ′ L″|μα′ L″|Karl Grashof|1839|cod. Barocc.|
-Ptol. Geog. 3.1.43|Λ. … μγ′ γ″/μγ′ L″|Λούκα … μγ′ ϛ″|Karl Grashof|1839|Vat. gr. 191 (X)|
-Ptol. Geog. 3.1.47 ult.|μβ′ L″|μβ′ ϛ″|Karl Grashof|1839|XΣ|
-Ptol. Geog. 3.3.4 ult.|λθ′ L″|λθ′ ϛ″|Karl Grashof|1839|Vat. gr. 191 (X)|
-Ptol. Geog. 3.3.7|Γ. ν. … λζ′ γ″|Γουρουλὶς νέα … λζ′ Lγ″|Karl Grashof|1839|cod. Barocc.|
-Ptol. Geog. 3.9.4|Ο. … μβ′ L″|Οὐενδενίς … μβ′ Lγ″|F. W. Wilberg|1839|Laur. Plut. 28.38 (Φ)|m. sec.
-Ptol. Geog. 3.12.13 ult.|να′ L″|να′ ϛ″|Karl Grashof|1839|Vat. gr. 191 (X)|
-Ptol. Geog. 3.12.16 ult.|λη′ γ″/λη′ L″|λη′ γο″|F. W. Wilberg|1839|Vat. gr. 191 (X)|
+Ptol. Geog. 3.1.6|Λ. … μα′ L″|Λίτερνον … μα′ ϛ″|F. W. Wilberg|1842|Vat. gr. 191 (X)|
+Ptol. Geog. 3.1.6|Κ. … μα′ L″|Κοῦμαι … μα′ ϛ″|F. W. Wilberg|1842|XΞΦ1|
+Ptol. Geog. 3.1.10|μβ′ L″|μα′ L″|Karl Grashof|1842|cod. Barocc.|
+Ptol. Geog. 3.1.43|Λ. … μγ′ γ″/μγ′ L″|Λούκα … μγ′ ϛ″|Karl Grashof|1842|Vat. gr. 191 (X)|
+Ptol. Geog. 3.1.47 ult.|μβ′ L″|μβ′ ϛ″|Karl Grashof|1842|XΣ|
+Ptol. Geog. 3.3.4 ult.|λθ′ L″|λθ′ ϛ″|Karl Grashof|1842|Vat. gr. 191 (X)|
+Ptol. Geog. 3.3.7|Γ. ν. … λζ′ γ″|Γουρουλὶς νέα … λζ′ Lγ″|Karl Grashof|1842|cod. Barocc.|
+Ptol. Geog. 3.9.4|Ο. … μβ′ L″|Οὐενδενίς … μβ′ Lγ″|F. W. Wilberg|1842|Laur. Plut. 28.38 (Φ)|m. sec.
+Ptol. Geog. 3.12.13 ult.|να′ L″|να′ ϛ″|Karl Grashof|1842|Vat. gr. 191 (X)|
+Ptol. Geog. 3.12.16 ult.|λη′ γ″/λη′ L″|λη′ γο″|F. W. Wilberg|1842|Vat. gr. 191 (X)|
+Ptol. Geog. 4.1.4|τοῖς ἐ.|τῆς ἐντὸς|Karl Grashof|1843|SXΩ|
+Ptol. Geog. 4.1.7|Πισκίανα/Πτισκιάνα|Πισκιάνα|Karl Grashof|1843|Vat. gr. 191 (X)|
+Ptol. Geog. 4.2.7|Σίτιφα/Σίτικι|Σίτιφι|F. W. Wilberg|1843|Vat. gr. 191 (X)|
 Q.S. 1.33|om.|ἕποντο|Scaliger|n.d.|Y|
 Q.S. 1.71|πόλ-|πτόλεμον|Scaliger|n.d.|Y|
 Q.S. 1.77|ἠὲ|ἢ|Scaliger|n.d.|Y|
