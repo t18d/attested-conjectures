@@ -3769,7 +3769,8 @@ Sud. β 558|ἀναψα-|ἀλλαξαμένη|Gottfried Bernhardy|1853|Marc. 44
 Sud. γ 355|Παρμασίρου/παρθένου Μασίρου|Παρθαμασίρου|Gottfried Bernhardy|1853|Laur. Plut. 55.1 (F)|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
 Sud. κ 90|Καθιγ-|καθαγνίσαι|Hemsterhuis|1834|GI|apud Gaisford
-Sud. κ 2079|deest|σημᾶναι|Dindorf||Laur. Plut. 55.1 (F)|
+Sud. κ 2079|deest|σημᾶναι|Dindorf|1838|Laur. Plut. 55.1 (F)|ad schol. Ar.
+Sud. μ 1305|ἡμᾶς|ὑμᾶς|Maas|1922|Paris. gr. 2625 + 2626 (A)|ad Jul. Ep.
 Sud. π 926|προσφ-|προφέρειν|Bekker|1854|Phot. z|Suidae Lex. p. 836a
 Synag. 52.22|αἱρεθίζειν|αἱρετίζειν|Theodor Kock|1880–8|Phot. α 642|
 Synag. 177.16|ἀωρὶ θανάτωι|ἀωροθάνατος|Dindorf|1835|Phot. α 3493|
