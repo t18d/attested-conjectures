@@ -2267,7 +2267,7 @@ Phot. λ 319|τὸν|τὸ|Schleusner|1812|AB I 277.7|Cur. nov. p. 195
 Phot. λ 382|κατὰ|ὑπὲρ|Maussacus|1822|Harp. pl. cod. Κ|apud Dindorf ad Harp.
 Phot. λ 420|-λημ-|κεκλιμένος|L. Dindorf|1835|zpc|ThGL. vol. V p. 403B
 Phot. μ 71|μεμαγ-|μεμαλαγμένος|Schleusner|1812|zpc|Cur. nov. p. 213
-Phot. μ 135|τίς|τί|Porson|1822|Epit. Harp. et Suid. cod. G|
+Phot. μ 135|τίς|τί|Porson|1822|Epit. Harp. et Sud. cod. G|
 Phot. μ 521|-ορή-|μυχορρήμων|L. Dindorf|1835|zpc|ThGL. vol. V p. 1321D
 Phot. ν 77|νεάσαι|νεᾶσαι|Cobet|1859|Zavord. 95 (z)|Mnem. 8 (1859) 38
 Phot. ν 191|νηνί-|νηλίποδες|P. P. Dobree|s.xviii/xix|zpc|Advers. vol. III p. 46
@@ -2283,7 +2283,7 @@ Phot. π 252|-μοῦντες|παρορμῶντες|Porson|1822|zpc Σa+b Sud.
 Phot. π 317|-απενθεῖς|παρατενεῖς|Schleusner|1810|Tim. et Hsch.|Libell. p. 71
 Phot. π 322|ἐπιστρέψαι/ἐπιτρέψαι|ἐπιτρῖψαι|Cobet|1859|Sud. codd. GMpc|Mnem. 8 (1859) 48–9
 Phot. π 328|-ων|λόγῳ|Porson|1822|Harp. pl. et Sud. codd. GM|
-Phot. π 344|-ως|ὁμοίους|Schleusner|1812|Harp. pl. et Suid. codd. GMV|Cur. nov. p. 315
+Phot. π 344|-ως|ὁμοίους|Schleusner|1812|Harp. pl. et Sud. codd. GMV|Cur. nov. p. 315
 Phot. π 403|παρ ̓ ἡμῖν|παρήμην|Adamantios Korais|s.xviii/xix|Σa+b Sud.|Eἰς μνήμην  ̓Aμάντου p. 294
 Phot. π 521|-τατα|προθυμότατοι|Adamantios Korais|s.xviii/xix|Harp. pl. et Sud. cod. Mpc|Eἰς μνήμην  ̓Aμάντου p. 294
 Phot. π 541|τυράννων|Tυρρηνῶν|Adamantios Korais|s.xviii/xix|Λεξ. ῥητ. cod. Coisl. 345 et EM|Eἰς μνήμην  ̓Aμάντου p. 294
@@ -3182,7 +3182,7 @@ Soph. fr. 265|ἀντεροῦσ-|ἀνταίρουσιν|Isaac Vossius|s.xvii|C
 Soph. fr. 294|ἐπισχολάζεται|κοὐκ ἔτι σχολάζεται|Meineke|n.d.|P.Oxy. IX 1174|
 Soph. fr. 330|-ὴν -ην/-ὴ -η|λευκῇ στάθμῃ|T. G. Tucker|1904|Sud. A (F)|CR 18 (1904) 245
 Soph. fr. 339|ἢ|ἦ|Gaisford|1826|Phot. α 1990|Sophoclis tragoediae septem p. 40
-Soph. fr. 481|δρώπα/δρωπτά|δρωπά|J. A. H. Tittmann|1808|Suid. δ 1538|T. apud Zonar.
+Soph. fr. 481|δρώπα/δρωπτά|δρωπά|J. A. H. Tittmann|1808|Sud. δ 1538|T. apud Zonar.
 Soph. fr. 591|ἐν φύλων|ἕν φῦλον|Bergk|1836|Favorin. Π φυγῆς|ZfA 3 (1836) 78
 Soph. fr. 635|σακκο-|σακοδερμηστής|Jacobus Palmerius|1668|Synag. Phot.|ap. Hsch. σ 76
 Soph. fr. 871|εὐγενεστ-|εὐπρεπεστάτη|Ritschl|1829|Plu. 5.517D|
@@ -3765,7 +3765,11 @@ Str. 17.3.24|Π. κ. ὑ. τ. β.|Παρθυαῖοι καὶ οἱ ὑπὲρ �
 Str. 17.3.25|Λ. δὲ|Λιβύην τε|Adamantios Korais|1817|Vat. gr. 1329 (F)|
 Strato Com. fr. 1.20|βοῦν δ'|βοῦν|Theodor Kock|1880–8|P.Cair. 65445|
 Strato Com. fr. 1.44|-α|εκαϲτον|Cobet|1840|P.Cair. 65445|
+Sud. β 558|ἀναψα-|ἀλλαξαμένη|Gottfried Bernhardy|1853|Marc. 448 (M)|s.l.
+Sud. γ 355|Παρμασίρου/παρθένου Μασίρου|Παρθαμασίρου|Gottfried Bernhardy|1853|Laur. Plut. 55.1 (F)|
 Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phil. p. 15
+Sud. κ 90|Καθιγ-|καθαγνίσαι|Hemsterhuis|1834|GI|apud Gaisford
+Sud. κ 2079|deest|σημᾶναι|Dindorf||Laur. Plut. 55.1 (F)|
 Sud. π 926|προσφ-|προφέρειν|Bekker|1854|Phot. z|Suidae Lex. p. 836a
 Synag. 52.22|αἱρεθίζειν|αἱρετίζειν|Theodor Kock|1880–8|Phot. α 642|
 Synag. 177.16|ἀωρὶ θανάτωι|ἀωροθάνατος|Dindorf|1835|Phot. α 3493|
