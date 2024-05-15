@@ -303,7 +303,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Reiske (276), Scaliger (237), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (167), Thomas Mangey (154), Casaubon (113), Valckenaer (106), Madvig (95) and Meineke (92).</p>
+<p>The top 10 critics are Reiske (276), Scaliger (237), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (167), Thomas Mangey (154), Casaubon (113), Valckenaer (106), Bekker (95) and Madvig (95).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2849,7 +2849,16 @@ S.E. Math. 8.241|φασίν|πᾶσι|Gentien Hervet|1569|Laur. Plut. 85.19 (N)|
 S.E. Math. 8.306|deest|εἶναι|Gentien Hervet|1569|Laur. Plut. 85.19 (N)|
 S.E. Math. 8.309|ὄντ-|νοητῶν|Gentien Hervet|1569|Laur. Plut. 85.19 (N)|
 S.E. Math. 9.27|-αντῶν|κατάγων|Gentien Hervet|1569|Laur. Plut. 85.19 (N)|'qui deducit'
+S.E. Math. 9.31|διαμφοδοκ-|διαμφοδοῦντες|J. A. Fabricius|1718|Laur. Plut. 85.19 (N)|
+S.E. Math. 9.168|εἰ δὲ|οὐδὲ|Bekker|1842|Laur. Plut. 85.19 (N)|
+S.E. Math. 9.294|οὔτε|ο. γὰρ|Bekker|1842|Laur. Plut. 85.19 (N)|
+S.E. Math. 9.294|-ες|προβάντος|J. A. Fabricius|1718|Laur. Plut. 85.19 (N)|
 S.E. Math. 10.4|τὸν τόπον|τὴν χώραν|Bekker|1842|Laur. Plut. 85.19 (N)|
+S.E. Math. 10.127|ἐφ ̓|εἰ οὖν τὸ κινούμενον ὑφ ̓|Bekker|1842|Laur. Plut. 85.19 (N)|
+S.E. Math. 11.59|οἷόν τε|οἴονται|Bekker|1842|Laur. Plut. 85.19 (N)|
+S.E. Math. 11.150|π. τῶν|παρὰ τὸν|Bekker|1842|NL|
+S.E. Math. 11.177|κρίνουσα|ἡ κ.|J. A. Fabricius|1718|Laur. Plut. 85.19 (N)|
+S.E. Math. 11.184|ἢ ἡ αὐτή|ἢ αὐτή|Bekker|1842|Laur. Plut. 85.19 (N)|
 S.E. Math. 11.242|ἑαυτ-|αὐτῶν|Bekker|1842|Laur. Plut. 85.19 (N)|
 S.E. Pyr. 1.49|ἀγγεί-|ὀργάνων|Bekker|1842|Paris. lat. 14700 (T)|
 S.E. Pyr. 1.82|-αεῖς|Ψύλλοι|Salmasius|1718|Paris. lat. 14700 (T)|apud Fabricium
