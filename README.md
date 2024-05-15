@@ -298,6 +298,7 @@
         <li>Xenophon, <em>Scripta minora</em>, ii, ed. Franz Rühl (Leipzig, 1912).</li>
         <li>Xénophon, <em>Économique</em>, ed. Pierre Chantraine (Paris, 1949).</li>
         <li>Xenophon Ephesius, <em>De Anthia et Habrocome Ephesiacorum libri V</em>, ed. James N. O'Sullivan (Munich, 2005).</li>
+        <li>Young, Douglas (ed.), <em>Theognis, Ps.-Pythagoras, Ps.-Phocylides, Chares, anonymi aulodia, fragmentum teliambicum</em> (Stuttgart, 1971).</li>
     </ul>
 </details>
 
