@@ -19,6 +19,7 @@
         <li>P.Lond.Lit.</li>
         <li>P.Oxy. I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XV, XVII, XIX, XX, XXII, XXIV, XXVI, XXVII, XXXI, XXXII, XXXVIII, XLI, XLII, XLIV, XLV, XLVII, XLVIII, XLIX, L, LIII, LIV, LVI, LVII, LIX, LX, LXI, LXII, LXIII, LXIV, LXVI, LXVII, LXVIII, LXXV, LXXVI, LXXVIII, LXXIX, LXXXI, LXXXIV (LXXXV, LXXXVII unavailable)</li>
         <li>P.Ryl. I, III</li>
+        <li>Adler, Ada (ed.), <em>Suidae lexicon</em>, 4 vols (Munich, 1928–35).</li>
         <li>Aeschines, <em>Orationes</em>, ed. Mervin R. Dilts (Stuttgart, 1997).</li>
         <li>Alciphro Rhetor, <em>Epistolae</em>, ed. E. E. Seiler (Leipzig, 1853), x.</li>
         <li>Alciphro Rhetor, <em>Epistularum libri IV</em>, ed. Menno Anton Schepers (Groningen, 1901).</li>
@@ -256,7 +257,7 @@
         <li>Sénèque, <em>Lettres à Lucilius</em>, iv, ed. François Préchac (Paris, 1962).</li>
         <li>Seneca, Lucio Anneo, <em>Tragedie</em>, ed. Giancarlo Giardina (Turin, 1987).</li>
         <li>Seneca, L. Annaeus, <em>Naturalium quaestionum libri</em>, ed. Harry M. Hine (Stuttgart, 1996).</li>
-        <li>Sextus Empiricus, <em>Opera</em>, ed. Hermann Mutschmann and J. Mau (Leipzig, 1912–61).</li>
+        <li>Sextus Empiricus, <em>Opera</em>, ed. Hermann Mutschmann and J. Mau, 3 vols (Leipzig, 1912–61).</li>
         <li>Silius Italicus, <em>Punica</em>, ed. Josef Delz (Stuttgart, 1987).</li>
         <li>Sjögren, H. (ed.), <em>M. Tulli Ciceronis ad M. Brutum et M. Bruti ad M. Tullium Ciceronem epistularum liber novus</em> (Uppsala, 1910).</li>
         <li>Snell, Bruno, and Richard Kannicht (eds), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, i: <em>Didascaliae tragicae, catalogi tragicorum et tragoediarum, testimonia et fragmenta tragicorum minorum</em> (Göttingen, 1986).</li>
