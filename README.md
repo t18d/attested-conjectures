@@ -303,7 +303,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Reiske (276), Scaliger (237), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (167), Thomas Mangey (154), Casaubon (113), Valckenaer (106), Bekker (95) and Madvig (95).</p>
+<p>The top 10 critics are Reiske (276), Scaliger (237), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (167), Thomas Mangey (154), Casaubon (113), Valckenaer (106), Bekker (97) and Madvig (95).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -2837,6 +2837,9 @@ Q.S. 14.36|περιτρ-|περιγρύζουσι|Scaliger|n.d.|Hc|
 Q.S. 14.60|ἐσβολ|ῇσι|ἐπεσβολίῃσι|Lorenz Rhodomann|1604|PRpc|
 Q.S. 14.205|ὅτε|ὅτι|Lorenz Rhodomann|1604|PHc|ὄτι Scal.?
 Q.S. 14.582|ἐγκεφάλοιο|Ἐγκελάδοιο|Lorenz Rhodomann|1604|Hc|
+S.E. Math. 1.6|μάχη καὶ|μάχης|R. G. Bury|1949|Laur. Plut. 85.19 (N)|
+S.E. Math. 1.34|τ. τε|τεχνίτης δὲ|Bekker|1842|Laur. Plut. 85.19 (N)|
+S.E. Math. 5.50|ἐπαναγοραὶ|αἱ ἐ.|Bekker|1842|Laur. Plut. 9.32 (S1)|
 S.E. Math. 7.125|ἐφημέροι-|ἐφημέριοισιν|Henri Estienne|1562|Laur. Plut. 85.19 (N)|
 S.E. Math. 7.300|οὐκ ἀντιλαμβ-|οὐ καταλαμβάνονται|Bekker|1842|Laur. Plut. 85.19 (N)|
 S.E. Math. 7.307|καὶ|ναί|J. A. Fabricius|1718|Laur. Plut. 85.19 (N)|
