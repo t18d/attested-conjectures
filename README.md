@@ -2392,7 +2392,7 @@ Pl. Grg. 520e|-εύειν|συμβουλεύσειν|Cobet||Vindob. 55. suppl. p
 Pl. Grg. 522c|ἐν|ἓν|Adamantios Korais||Vindob. 55. suppl. phil. gr. 39 (F)|
 Pl. Hp.Ma. 304a|κνίσματα|κνήσματά|Cobet||Vindob. 55. suppl. phil. gr. 39 (F)|
 Pl. La. 197e|δὲ|δὴ|Martin Schanz|1883|P.Oxy. II 228|
-Pl. Lg. 832a|om.|ἡ|Apelt||Laur. Plut. 80.17 (L)|
+Pl. Lg. 832a|om.|ἡ|Otto Apelt|1916|Laur. Plut. 80.17 (L)|
 Pl. Lg. 894c|τήν τε|τὴν δὲ|Henri Estienne|1578|Ricc. 67|
 Pl. Men. 81b|-ὰν|ψυχὰς|Böckh||Vindob. 54. suppl. phil. gr. 7 (W)|'August Boeckh unterschrieb selbst mit »Böckh«, die Familie und die Fachtradition bevorzugen »Boeckh«.'
 Pl. Men. 82c|ἐν|ἦν|F. A. Wolf|1802|Vindob. 55. suppl. phil. gr. 39 (F)|
@@ -2838,8 +2838,15 @@ Q.S. 14.60|ἐσβολ|ῇσι|ἐπεσβολίῃσι|Lorenz Rhodomann|1604|PR
 Q.S. 14.205|ὅτε|ὅτι|Lorenz Rhodomann|1604|PHc|ὄτι Scal.?
 Q.S. 14.582|ἐγκεφάλοιο|Ἐγκελάδοιο|Lorenz Rhodomann|1604|Hc|
 S.E. Pyr. 1.49|ἀγγεί-|ὀργάνων|Bekker|1842|Paris. lat. 14700 (T)|
+S.E. Pyr. 1.82|-αεῖς|Ψύλλοι|Salmasius|1718|Paris. lat. 14700 (T)|apud Fabricium
+S.E. Pyr. 1.83|ἄνω κάτω|del.|Otto Apelt|1884|Paris. lat. 14700 (T)|RhM
+S.E. Pyr. 1.83|ὑδάσπην|Ἀστάπουν|Rudolf Hercher|1854|Paris. lat. 14700 (T)|Philol. 9
+S.E. Pyr. 1.108|πολλοὶ|π. δὲ|Bekker|1842|Paris. lat. 14700 (T)|
 S.E. Pyr. 2.113|στάσε-|φάσεων|Pierre/Jacques Chouet|1621|Paris. lat. 14700 (T)|
 S.E. Pyr. 2.227|τῶ -ω|τὸ ἄνθρωπον|Eugen Pappenheim|1877|Paris. lat. 14700 (T)|Philol. 36
+S.E. Pyr. 3.27|deest|τὸ ἀποτέλεσμα|C. L. Kayser|1849|Paris. lat. 14700 (T)|Philol. 4
+S.E. Pyr. 3.36|ἐμβλ-|ἐκβληθήσεται|Nauck|1849|Paris. lat. 14700 (T)|Philol. 4
+S.E. Pyr. 3.99|αἱρ-|ἀναιρουμένων|Bekker|1842|Paris. lat. 14700 (T)|
 Sapph. fr. 1.24|κὢ εἰ καὶ θέλεις|κωὐκ ἐθέλοισα|Bergk|1835|FP|κωϋ κεθέλουσα F: κ’ ώυ κ’ ἐθέλοις P
 Sapph. fr. 44A.5|ἀεί|ἄϊ|H. L. Ahrens|1839–43|P.Sapph.Obbink|
 Sapph. fr. 81.4|παρ-|πέρθεσθ'|August Seidler|1829|P.Oxy. XV 1787|]ΕΡΘΕϹ[
