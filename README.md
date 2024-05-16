@@ -275,6 +275,7 @@
         <li>Theodoridis, Christos (ed.), <em>Die Fragmente des Grammatikers Philoxenos</em> (Berlin, 1976).</li>
         <li>Theodorus Prodromus, <em>De Rhodanthes et Dosiclis amoribus libri IX</em>, ed. Miroslav Marcovich (Stuttgart, 1992).</li>
         <li>Théon, Aelius, <em>Progymnasmata</em>, ed. Michel Patillon (Paris, 1997).</li>
+        <li>Theophrastus, <em>Characters</em>, ed. James Diggle (Cambridge, 2004).</li>
         <li>Thomson, D. F. S. (ed.), <em>Catullus</em> (Toronto, 1998).</li>
         <li>Thucydides, <em>Historiae</em>, ed. Giovan Battista Alberti, 3 vols (Rome, 1972–2000).</li>
         <li>Tov, Emanuel, <em>Textual Criticism of the Hebrew Bible</em> (Minneapolis, 2012), 329.</li>
