@@ -306,7 +306,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Reiske (276), Scaliger (237), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (167), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (95).</p>
+<p>The top 10 critics are Reiske (276), Scaliger (237), Nicolaus Heinsius (213), Adamantios Korais (190), Bentley (167), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (95).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -3918,8 +3918,9 @@ Theon Rhetor 130.13|-ω|ἔστι|Joachim Camerarius|1541|vers. Armen.|
 Theon Rhetor 130.26|εἴ τις|οἷον εἴ τις|Daniel Heinsius|1626|vers. Armen.|
 Theon Rhetor 130.35|ἄν-/εὔν-|ἄγνοιαν|C. E. Finckh|1834|vers. Armen.|
 Theopomp.Com. fr. 73|om.|ὃς|F. J. Bast|1811|Phot. α 632|ap. Schaefer, Greg. Cor. p. 511
-Thphr. Char. 1.1|ἐ. χ.|ἐπὶ τὸ χεῖρον|Casaubon||Monac. gr. 505 (M)|a.c.
+Thphr. Char. 1.1|ἐ. χ.|ἐπὶ τὸ χεῖρον|Casaubon|1592–1612|Monac. gr. 505 (M)|a.c.
 Thphr. Char. 2.2|-ῆι|ἐνθυμεῖ|Henrik van Herwerden|1870|Bodl. Barocci 194|
+Thphr. Char. 2.13|-α|πάντη|Diels|1909|Bucarest 602|
 Thphr. Char. 5.2|deest|π̣ε̣ρ̣[ι]β̣[α]λ̣[ων]|Henrik van Herwerden|1870|P.Herc. 1457 (Π1)|Bijdrage p. 22
 Thphr. Char. 5.2|ἔτι αἰνῶν|επαινων|Peter Needham|1712|P.Herc. 1457 (Π1)|
 Thphr. Char. 5.3|εἷς εἶναι|τις ε.|J. C. de Pauw|1737|P.Herc. 1457 (Π1)|
@@ -3929,6 +3930,8 @@ Thphr. Char. 5.6|χρίσµ-|χ]ρι|µατι|Henrik van Herwerden|1870|P.Herc. 
 Thphr. Char. 5.9|αὐλίδιον παλαιστριαῖον|παλαιστ̣ρ̣[ι]δι̣ο̣[ν|Cobet|1874|P.Herc. 1457 (Π1)|
 Thphr. Char. 5.10|χρὴ νῦν ἀεὶ|χρην]ν̣[υ]ν̣αι|H. E. Foss|1858|P.Herc. 1457 (Π1)|
 Thphr. Char. 5.10|ἐπιδ-|ε]ν[επιδεικν]υ̣σθα̣[ι|Cobet|1858|P.Herc. 1457 (Π1)|
+Thphr. Char. 14.6|λαβών|λ. τι|J. M. Gesner|1734|e|Chrest. Gr.
+Thphr. Char. 19.5|σφύζεσθαι|χρίεσθαι|Adamantios Korais|1799|c1|
 Thphr. Char. 30.6|ἀπιὼν|ἄγων|Thomas Gale|1688|Vat. gr. 110 (V)|
 Thuc. 1.2.6|μετοικίας ἐς|μετοικεσίας|F. W. Ullrich|1862|γρH2|Beitr. z. Erkl. p. 174
 Thuc. 1.4|καθήρει|ἐκάθηρε|Cobet|1873|Aristid.|V.L. p. 149
