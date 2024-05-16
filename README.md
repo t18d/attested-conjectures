@@ -3922,6 +3922,10 @@ Thphr. Char. 5.2|deest|π̣ε̣ρ̣[ι]β̣[α]λ̣[ων]|Henrik van Herwerden|1
 Thphr. Char. 5.2|ἔτι αἰνῶν|επαινων|Peter Needham|1712|P.Herc. 1457 (Π1)|
 Thphr. Char. 5.3|εἷς εἶναι|τις ε.|J. C. de Pauw|1737|P.Herc. 1457 (Π1)|
 Thphr. Char. 5.5|-αγόµενος|προσ[αγαγο]µ̣ε̣[νος|Cobet|1874|Π1ce|
+Thphr. Char. 5.5|καθίστασθαι|καθι|σασ]θαι|Cobet|1874|P.Herc. 1457 (Π1)|
+Thphr. Char. 5.6|χρίσµ-|χ]ρι|µατι|Henrik van Herwerden|1870|P.Herc. 1457 (Π1)|
+Thphr. Char. 5.9|αὐλίδιον παλαιστριαῖον|παλαιστ̣ρ̣[ι]δι̣ο̣[ν|Cobet|1874|P.Herc. 1457 (Π1)|
+Thphr. Char. 5.10|χρὴ νῦν ἀεὶ|χρην]ν̣[υ]ν̣αι|H. E. Foss|1858|P.Herc. 1457 (Π1)|
 Thuc. 1.2.6|μετοικίας ἐς|μετοικεσίας|F. W. Ullrich|1862|γρH2|Beitr. z. Erkl. p. 174
 Thuc. 1.4|καθήρει|ἐκάθηρε|Cobet|1873|Aristid.|V.L. p. 149
 Thuc. 1.6.5|πέπαυται|-αυνται|Reiske|1761|MS|Anim. p. 5
