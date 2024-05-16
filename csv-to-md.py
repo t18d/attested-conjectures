@@ -25,7 +25,7 @@ with open("greek.csv", "r", encoding="utf8") as greek_csv:
             limit += 1
             tie = True
         top_10 = dict(top_10[:limit+1])
-        top_10_line = "<p>The top 10 critics are "
+        top_10_line = "<p>The top 10 Hellenists are "
         for i, critic in enumerate(top_10.keys()):
             top_10_line += f"{critic} ({top_10[critic]})"
             if i < len(top_10)-2:
