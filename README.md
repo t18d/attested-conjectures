@@ -307,7 +307,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Reiske (276), Scaliger (237), Nicolaus Heinsius (213), Adamantios Korais (190), Bentley (167), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (95).</p>
+<p>The top 10 Latinists are Nicolaus Heinsius (213), Scaliger (87), Madvig (80), Bentley (71), Gronovius (66), Beatus Rhenanus (65), P. Manutius (54), Denys Lambin (54), Franciscus Puteolanus (45) and Andrea Navagero (40).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
