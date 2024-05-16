@@ -3918,6 +3918,10 @@ Theon Rhetor 130.13|-ω|ἔστι|Joachim Camerarius|1541|vers. Armen.|
 Theon Rhetor 130.26|εἴ τις|οἷον εἴ τις|Daniel Heinsius|1626|vers. Armen.|
 Theon Rhetor 130.35|ἄν-/εὔν-|ἄγνοιαν|C. E. Finckh|1834|vers. Armen.|
 Theopomp.Com. fr. 73|om.|ὃς|F. J. Bast|1811|Phot. α 632|ap. Schaefer, Greg. Cor. p. 511
+Thphr. Char. 5.2|deest|π̣ε̣ρ̣[ι]β̣[α]λ̣[ων]|Henrik van Herwerden|1870|P.Herc. 1457 (Π1)|Bijdrage p. 22
+Thphr. Char. 5.2|ἔτι αἰνῶν|επαινων|Peter Needham|1712|P.Herc. 1457 (Π1)|
+Thphr. Char. 5.3|εἷς εἶναι|τις ε.|J. C. de Pauw|1737|P.Herc. 1457 (Π1)|
+Thphr. Char. 5.5|-αγόµενος|προσ[αγαγο]µ̣ε̣[νος|Cobet|1874|Π1ce|
 Thuc. 1.2.6|μετοικίας ἐς|μετοικεσίας|F. W. Ullrich|1862|γρH2|Beitr. z. Erkl. p. 174
 Thuc. 1.4|καθήρει|ἐκάθηρε|Cobet|1873|Aristid.|V.L. p. 149
 Thuc. 1.6.5|πέπαυται|-αυνται|Reiske|1761|MS|Anim. p. 5
