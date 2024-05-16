@@ -306,7 +306,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Reiske (276), Scaliger (237), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (167), Thomas Mangey (154), Casaubon (113), Valckenaer (106), Bekker (97) and Madvig (95).</p>
+<p>The top 10 critics are Reiske (276), Scaliger (237), Nicolaus Heinsius (213), Adamantios Korais (189), Bentley (167), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (95).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -776,7 +776,7 @@ Ar. Lys. 126|μοι μυᾶτε|μοιμυᾶτε|L. Dindorf|n.d.|schol. O|lm.
 Ar. Lys. 180|τάδε|τᾷδε|Bentley|s.xviii in.|P.Bodl. Gr. class. e. 87|
 Ar. Lys. 427|ἀλλ’|ἄλλ’|Valckenaer|1757|MS (Brunck 1781)|
 Ar. Lys. 476|τοῖσι(ν)|τοῖς|Bentley|s.xviii in.|Paris. gr. 2715 (B)|
-Ar. Lys. arg. 1.15|-πληγεὶς|καταπλαγεὶς|Ludolf Küster|1710|Bodl. Barocc. 38B (O)|
+Ar. Lys. arg. 1.15|-πληγεὶς|καταπλαγεὶς|Ludolf Küster|1710|Bodl. Barocci 38B (O)|
 Ar. Nub. 137|ἐξευρ-|ἐξηυρημένην|Porson|n.d.|Paris. gr. 2712 (A)|
 Ar. Nub. 185|δοκοῦϲιν ἐ.|δοκοῦϲ᾽ ἐοικέναι|Bentley|1708|Neap. II F 22 (Np1)|per litt.
 Ar. Nub. 366|ἡμῖν|ὑμῖν|Charles Daubuz|1710|Eac Ψ|
@@ -1833,7 +1833,7 @@ Lycurg. 143|αὐτὸν τίνων|αὐτὸν˙ τίνων|John Taylor|1743|P
 Lys. 1.2|καὶ ἐν δημοκρατίᾳ καὶ ὀλιγαρχίᾳ|καὶ ἐν δ. καὶ ἐν ὀ.|Antoine Leconte|pre-1586|Palat. gr. 117 (P)|
 Lys. 1.15|αὐτ- δὲ|αὕτη δὲ|John Taylor|1739|Tolet. Bibl. Cap. 101.16 (To)|
 Lys. 1.20|προσθ-|πεισθείη|Reiske|1759|Marc. 422 (H)|
-Lys. 2.47|π. β.|πρὸς τοὺς βαρβάρους|Reiske|1759|Bodl. Barocc. 139 (Ob)|m. rec.
+Lys. 2.47|π. β.|πρὸς τοὺς βαρβάρους|Reiske|1759|Bodl. Barocci 139 (Ob)|m. rec.
 Lys. 6.29|ἐνθένδε|ἐνθάδε|Scaliger|2007|Laur. Plut. 57.4 (C)|apud Carey
 Lys. Fr. 234|ἑταίρας ἀπίας|ἑτέρας αἰτίας|Adolf Emperius|1833|Vat. gr. 66 (M)|p. 47
 Lys. Fr. 279.3|-ων/ἀπιόντα|παριόντα|Karl Scheibe|1841|Coisl. 249 (V)|Neue Jahrb.
@@ -1938,9 +1938,9 @@ Opp. C. 4.199|ἴκ-|εἴκελος|Andreas Schott|s.xvi/xvii|P.Oxy. LXXXI 5278
 Opp. C. 4.208|ἐρυϲϲάμενοι|ερειϲάμεν[οι|Johannes Pierson|1752|P.Oxy. LXXXI 5278|Verisimilium libri duo (1752) 174
 Opp. C. 4.322|δε-|λεξάμενοι|J. G. Schneider|1776|Vindob. phil. gr. 135 (L)|
 Orac. Sib. 516–517|516, 517|517, 516|Geffcken||P.Flor. 398|
-Orac.Chald. app. 6 p. 216.30|-α|χαῖται|Max Treu|1895|Bodl. Barocc. 131 (B)|
-Orac.Chald. app. 6 p. 217.2|ο. δὲ|οὕτω καὶ|Wilhelm Kroll|1894|Bodl. Barocc. 131 (B)|
-Orac.Chald. app. 6 p. 217.5|παραγωδ-|τερατωδεστέρας|Max Treu|1895|Bodl. Barocc. 131 (B)|
+Orac.Chald. app. 6 p. 216.30|-α|χαῖται|Max Treu|1895|Bodl. Barocci 131 (B)|
+Orac.Chald. app. 6 p. 217.2|ο. δὲ|οὕτω καὶ|Wilhelm Kroll|1894|Bodl. Barocci 131 (B)|
+Orac.Chald. app. 6 p. 217.5|παραγωδ-|τερατωδεστέρας|Max Treu|1895|Bodl. Barocci 131 (B)|
 Orac.Chald. fr. 44.2|νεύ-|πνεύματι|Wilhelm Kroll|1894|Paris. gr. 1853|
 Orph. A. 271|ὑποτρόπι/ὑπὸ τρόπιϊ|ὑπὸ τρόπιν|Hermann|1805|Escor. Σ-III-3 (E)|
 Orph. A. 308|τοι|δὴ|J. H. Voß|1805|Estensis gr. 39 (T)|
@@ -3918,6 +3918,8 @@ Theon Rhetor 130.13|-ω|ἔστι|Joachim Camerarius|1541|vers. Armen.|
 Theon Rhetor 130.26|εἴ τις|οἷον εἴ τις|Daniel Heinsius|1626|vers. Armen.|
 Theon Rhetor 130.35|ἄν-/εὔν-|ἄγνοιαν|C. E. Finckh|1834|vers. Armen.|
 Theopomp.Com. fr. 73|om.|ὃς|F. J. Bast|1811|Phot. α 632|ap. Schaefer, Greg. Cor. p. 511
+Thphr. Char. 1.1|ἐ. χ.|ἐπὶ τὸ χεῖρον|Casaubon||Monac. gr. 505 (M)|a.c.
+Thphr. Char. 2.2|-ῆι|ἐνθυμεῖ|Henrik van Herwerden|1870|Bodl. Barocci 194|
 Thphr. Char. 5.2|deest|π̣ε̣ρ̣[ι]β̣[α]λ̣[ων]|Henrik van Herwerden|1870|P.Herc. 1457 (Π1)|Bijdrage p. 22
 Thphr. Char. 5.2|ἔτι αἰνῶν|επαινων|Peter Needham|1712|P.Herc. 1457 (Π1)|
 Thphr. Char. 5.3|εἷς εἶναι|τις ε.|J. C. de Pauw|1737|P.Herc. 1457 (Π1)|
@@ -3926,6 +3928,8 @@ Thphr. Char. 5.5|καθίστασθαι|καθι|σασ]θαι|Cobet|1874|P.Herc
 Thphr. Char. 5.6|χρίσµ-|χ]ρι|µατι|Henrik van Herwerden|1870|P.Herc. 1457 (Π1)|
 Thphr. Char. 5.9|αὐλίδιον παλαιστριαῖον|παλαιστ̣ρ̣[ι]δι̣ο̣[ν|Cobet|1874|P.Herc. 1457 (Π1)|
 Thphr. Char. 5.10|χρὴ νῦν ἀεὶ|χρην]ν̣[υ]ν̣αι|H. E. Foss|1858|P.Herc. 1457 (Π1)|
+Thphr. Char. 5.10|ἐπιδ-|ε]ν[επιδεικν]υ̣σθα̣[ι|Cobet|1858|P.Herc. 1457 (Π1)|
+Thphr. Char. 30.6|ἀπιὼν|ἄγων|Thomas Gale|1688|Vat. gr. 110 (V)|
 Thuc. 1.2.6|μετοικίας ἐς|μετοικεσίας|F. W. Ullrich|1862|γρH2|Beitr. z. Erkl. p. 174
 Thuc. 1.4|καθήρει|ἐκάθηρε|Cobet|1873|Aristid.|V.L. p. 149
 Thuc. 1.6.5|πέπαυται|-αυνται|Reiske|1761|MS|Anim. p. 5
