@@ -15,10 +15,9 @@ csv_tools.sort_grc()
 csv_tools.sort_lat()
 
 with open("greek.csv", "r", encoding="utf8") as greek_csv:    
-  with open("latin.csv", "r", encoding="utf8") as latin_csv:
     with open("OT-NT.csv", "r", encoding="utf8") as amst_csv:        
         # use league ranking to make top 10 sentence in preface
-        league = csv_tools.create_league_table((greek_csv, latin_csv, amst_csv))
+        league = csv_tools.create_league_table((greek_csv, amst_csv))
         top_10 = sorted(league.items(), key=operator.itemgetter(1), reverse=True)
         limit = 9 # keep ties for 10th
         tie = False
