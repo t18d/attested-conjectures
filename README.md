@@ -262,7 +262,7 @@
         <li>Sjögren, H. (ed.), <em>M. Tulli Ciceronis ad M. Brutum et M. Bruti ad M. Tullium Ciceronem epistularum liber novus</em> (Uppsala, 1910).</li>
         <li>Snell, Bruno, and Richard Kannicht (eds), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, i: <em>Didascaliae tragicae, catalogi tragicorum et tragoediarum, testimonia et fragmenta tragicorum minorum</em> (Göttingen, 1986).</li>
         <li>Solinus, C. Iulius, <em>Collectanea rerum memorabilium</em>, ed. Theodor Mommsen (Berlin, 1895).</li>
-        <li>Sommerstein, Alan H., 'The history of the text of Aristophanes', in <em>Brill's Companion to the Study of Greek Comedy</em> (Leiden, 2010), 399–422 at 412n69.</li>
+        <li>Sommerstein, Alan H., 'The history of the text of Aristophanes', in <em>Brill's Companion to the Study of Greek Comedy</em> (Leiden, 2010), 412 n. 69.</li>
         <li>Sophocles, <em>Fabulae</em>, ed. H. Lloyd-Jones and N. G. Wilson (Oxford, 1990).</li>
         <li>Sophocles, <em>Tragoediae</em>, ed. R. D. Dawe (Leipzig, 1996).</li>
         <li>Statius, P. Papinius, <em>Thebaid and Achilleid</em>, i, ed. J. B. Hall, A. L. Ritchie and M. J. Edwards (Newcastle, 2007).</li>
