@@ -7192,7 +7192,7 @@ Rom 6:16 [24]|ᾧ ὑπακούετε|ὡς ὑπακούετε|Lachmann|1850||[
 Rom 6:19 [42–46]|εἰς τὴν ἀνομίαν|om.|Wall|1730||[cj14068](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj14068)
 Rom 8:38 [32–34]|οὔτε δυνάμεις|om.|Fritzsche|1839||[cj10928](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10928)
 Rom 9:12 [14]|καλοῦντος|λαλοῦντος|J. D. Michaelis|1788||[cj12911](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj12911)
-Rom 9:31 [12–14]|εἰς νόμον|om.|Michelsen|1887||[cj15006](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj15006)
+Rom 9:31 [12–14]|εἰς νόμον|om.|A. B. van der Vies|1865||[cj15006](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj15006)
 Rom 12:3 [32–38]|παρ’ ὃ δεῖ φρονεῖν|om.|Baljon|1884||[cj10302](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10302)
 Rom 13:3 [16–18]|ἀγαθῷ ἔργῳ|ἀγαθοεργῷ|Patricius Junius|1642||[cj10701](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10701)
 Rom 13:4 [48–54]|ἔκδικος εἰς ὀργήν|εἰς ὀργήν, ἔκδικος|Pearce|1721||[cj12955](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj12955)
