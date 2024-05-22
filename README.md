@@ -2985,7 +2985,7 @@ Soph. Ant. 1337|προσεύχου|κατ-|Benedict|n.d.|Vat. gr. 1333 (Zc)|
 Soph. Ant. 1337–8|Ἄγγελος|choro trib.|Philipp Buttmann|1822?|Ambr. C. 24 sup. et Monac. gr. 500|
 Soph. Ant. 1350|μηδὲν|μηδέν’|Markland|s.xviii med.|MSS|
 Soph. El. 21|ξυνάπτετον|-έον|Jonathan Toup|s.xviii med.|Paris. gr. 2884 (Ζf)|
-Soph. El. 35|τοιαῦθ ̓ ὁ|τοιαῦτα|Blomfield|n.d.|Voss. gr. Q. 6 (O)|s.l.
+Soph. El. 35|τοιαῦθ ̓ ὁ|τοιαῦτα|C. J. Blomfield|1814|Voss. gr. Q. 6 (O)|Mus. crit. p. 64; s.l.
 Soph. El. 87|ἰσόμοιρ ̓|-μοιρος|Porson|n.d.|p|
 Soph. El. 139|-οις|γόοισιν|Johannes Livineius|1581–2|Marc. gr. 468 (V)|s.l.
 Soph. El. 160|ὄλβιος|-ον|Brunck|1786|Hac|
