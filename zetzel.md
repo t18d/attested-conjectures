@@ -5,8 +5,7 @@ author: James Zetzel
 locale: en_US
 permalink: zetzel/
 ---
-<div itemscope itemtype="https://schema.org/ScholarlyArticle">
-      <h1 id="textual-criticism-and-the-transmission-of-latin-texts">Textual Criticism and the Transmission of Latin Texts</h1>
+# Textual Criticism and the Transmission of Latin Texts
       
 **A bibliography composed with the needs of graduate students in mind**
 
