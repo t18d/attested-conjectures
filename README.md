@@ -1368,7 +1368,7 @@ Eur. Hec. 958|αῦτα|αὐτὰ|Hermann|n.d.|F2|
 Eur. Hec. 984|χρὴ|δεῖ|Nauck|n.d.|GK|
 Eur. Hec. 1032|ἐπήγαγεν|ὑπ-|Goram|n.d.|Vat. gr. 1345 (Sa)|
 Eur. Hec. 1070|τᾶνδε|τάνδε|August Seidler|n.d.|OGZc|
-Eur. Hec. 1108|ζοῆς/ζωῆς|ζόης|Markland|n.d.|Va i.m.|ap. Burges, CJ 25 (1822) 340
+Eur. Hec. 1108|ζοῆς/ζωῆς|ζόης|Markland|1822|Va i.m.|ap. Burges, CJ 25 (1822) 340
 Eur. Hec. 1167|-υον|ἤνυτον|L. Dindorf|n.d.|Huv|
 Eur. Hec. 1176|τε|τὸν|Nauck|n.d.|Laur. 32.3 (L)|
 Eur. Hec. 1215|-νῶι|καπνὸς|Willem Canter|1571|Kγρ|
@@ -1555,7 +1555,7 @@ Eur. Ph. 436|habent|del.|Nauck|1871|P.Oxy. LX 4012|
 Eur. Ph. 437|με καὶ σὲ|σ]ε κὰμε̣[ |Elmsley|1821|P.Oxy. LX 4012|ad Soph. ΟΤ 376
 Eur. Ph. 483|ἐμῶν|ἐμὸν|Grotius|1630|Arund. 540 (Za)|
 Eur. Ph. 487|αὖθις|αὖθις αὖ|Willem Canter|1571|TzZb|
-Eur. Ph. 499|ταὐτὸ|ταὐτὸν|Elmsley|1813|Sa et Sext. Emp. hyp. Pyrrh. 1. 86|CJ
+Eur. Ph. 499|ταὐτὸ|ταὐτὸν|Elmsley|1813|Sa et Sext. Emp. hyp. Pyrrh. 1. 86|'the bilious system of the Class. Journ.' (Monk)
 Eur. Ph. 548|ἀπονεῖμαι|-νέμων|Markland|1758|Paris. gr. 2712 (A)|apud Burton p. LXVIII
 Eur. Ph. 563/616|ὄψει|ο]ψη|Gilbert Murray|1909|P.Oxy. XLIV 3153|
 Eur. Ph. 572|δή/δορός|διί|Adolf Kirchhoff|1855|Rw s.l. et Σs|
