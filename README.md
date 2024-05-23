@@ -28,7 +28,7 @@
         <li>Ammianus Marcellinus, <em>Rerum gestarum libri qui supersunt</em>, ed. Charles U. Clark (Berlin, 1910–15).</li>
         <li>Ammien Marcellin, <em>Histoire</em>, i, ed. Édouard Galletier (Paris, 1968).</li>
         <li>Ammien Marcellin, <em>Histoire</em>, v, ed. Marie-Anne Marié (Paris, 1984).</li>
-        <li>Ammien Marcellin, <em>Histoire</em>, iii, ed. Jacques Fontaine (Paris, 1996).</li>
+        <li>Ammien Marcellin, <em>Histoire</em>, iii, ed. Jacques Fontaine (Paris, 1996).</li> (ii, iv, vi unavailable)
         <li>Andocides, <em>Orationes</em>, ed. J. H. Lipsius (Leipzig, 1888), xviiii.</li>
         <li>Antiphon, <em>Orationes et fragmenta adiunctis Gorgiae, Antisthenis, Alcidamantis declamationibus</em>, ed. Friedrich Blass (Leipzig, 1881).</li>
         <li>Apollonius Rhodius, <em>Argonautica</em>, ed. Hermann Fränkel (Oxford, 1961).</li>
@@ -185,7 +185,7 @@
         <li>Ovidius Naso, P., <em>Fastorum libri sex</em>, ed. R. Merkel (Berlin, 1841).</li>
         <li>Ovidius Naso, P., <em>Amores, epistulae, medic. fac. fem., ars amat., remedia amoris</em>, ed. R. Ehwald (Leipzig, 1888).</li>
         <li>Ovidius Naso, P., <em>Tristium libri quinque, Ibis, ex Ponto libri quattuor, Halieutica fragmenta</em>, ed. S. G. Owen (Oxford, 1915).</li>
-        <li>Ovidius Naso, P., <em>Heroidas</em>, i, ed. Remus Giomini (Rome, 1963).</li>
+        <li>Ovidius Naso, P., <em>Heroidas</em>, i, ed. Remus Giomini (Rome, 1963).</li> (ii unavailable)
         <li>Ovidius Naso, P., <em>Tristia</em>, ed. Georg Luck (Heidelberg, 1967).</li>
         <li>Ovidius Naso, P., <em>Ex Ponto libri quattuor</em>, ed. J. A. Richmond (Leipzig, 1990).</li>
         <li>Ovidius Naso, P., <em>Tristia</em>, ed. John Barrie Hall (Stuttgart, 1995).</li>
@@ -234,7 +234,7 @@
         <li>Propertius, Sextus, <em>Elegiarum libri IV</em>, ed. Paolo Fedeli (Munich, 1994).</li>
         <li>Ptolemæus, Claudius, <em>Geographia</em>, i, ed. Carl Müller (Paris, 1883).</li>
         <li>Publilius Syrus Mimus, <em>Sententiae</em>, ed. Otto Friedrich (Berlin, 1880).</li>
-        <li>Quintilianus, M. Fabus, <em>Institutionis oratoriae libri duodecim</em>, i, ed. M. Winterbottom (Oxford, 1970).</li>
+        <li>Quintilianus, M. Fabus, <em>Institutionis oratoriae libri duodecim</em>, i, ed. M. Winterbottom (Oxford, 1970).</li> (ii unavailable)
         <li>Quintus de Smyrne, <em>La Suite d'Homère</em>, ed. Francis Vian, 2 vols (Paris, 1963–6). (tome III unavailable)</li>
         <li>Radt, Stefan (ed.), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, iii: <em>Aeschylus</em> (Göttingen, 1985).</li>
         <li>Radt, Stefan (ed.), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, iv: <em>Sophocles</em> (2nd edn, Göttingen, 1999).</li>
