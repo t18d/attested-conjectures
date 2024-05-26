@@ -157,6 +157,7 @@
         <li>Keller, Otto (ed.), <em>Rerum naturalium scriptores Graeci minores</em>, i (Leipzig, 1877).</li>
         <li>Kenyon, Frederic George, <em>The Evidence of Greek Papyri with Regard to Textual Criticism</em> (London, 1904).</li>
         <li>Kiss, Dániel, <em><a href="http://www.catullusonline.org/">Catullus Online: An Online Repertory of Conjectures on Catullus</a></em>, accessed 13 Feb. 2024.</li>
+        <li>Krans, Jan, '<a href="https://ntvmr.uni-muenster.de/nt-conjectures-release">Release Notes</a>', The Amsterdam Database of New Testament Conjectural Emendation (updated quarterly), accessed periodically.</li>
         <li>Krans-Plaisier, Jan, '<a href="http://vuntblog.blogspot.com/2023/12/amsterdam-database-conjectures-with.html">Amsterdam Database: Conjectures with Attestation</a>', the Amsterdam NT Weblog (2 Dec. 2023), accessed 14 Dec. 2023.</li>
         <li>La Penna, Antonio, and Rodolfo Funari (eds), <em>C. Sallusti Crispi Historiae</em>, i: <em>Fragmenta 1.1–146</em> (Berlin, 2015).</li>
         <li>Livius, Titus, <em>Ab urbe condita libri</em>, iii, ed. Moritz Müller (Leipzig, 1884).</li>
