@@ -4392,7 +4392,7 @@ Catull. 90.1|-atur|nascetur|Herbert Richards|1895|Lond. Bibl. Brit. Add. 11915 (
 Catull. 111.4|expatruo|ex patruo parere|F. W. Doering|1834|codd. (Zicàri)|
 Cic. Arch. 12|his|iis|Madvig||c2|
 Cic. Arch. 19|-diamus|repudiabimus|Andrea Navagero|1519|Lag. 9|
-Cic. Arch. 22|rudem tum|Rudinum|Antonio Agustín||schol. Bob.|
+Cic. Arch. 22|Rudium h.|Rudinum hominem|Antonio Agustín|1581|schol. Bob.|apud Ursinum
 Cic. Att. 1.1.2|et ex.|et ab existimatione|Denys Lambin|1565–72|Paris. 8536 (P)|
 Cic. Att. 1.8.1|-i|dare|Sebastiano Corradi|1544|Paris. 8536 (P)|
 Cic. Att. 1.11.1|legatio|all-|Leonardus Malaespina|1564|s1|
