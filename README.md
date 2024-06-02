@@ -4392,7 +4392,7 @@ Catull. 90.1|-atur|nascetur|Herbert Richards|1895|Lond. Bibl. Brit. Add. 11915 (
 Catull. 111.4|expatruo|ex patruo parere|F. W. Doering|1834|codd. (Zicàri)|
 Cic. Arch. 12|his|iis|Madvig||c2|
 Cic. Arch. 19|-diamus|repudiabimus|Andrea Navagero|1519|Lag. 9|
-Cic. Arch. 22|rudem tum|Rudinum|Antonius Augustinus||schol. Bob.|
+Cic. Arch. 22|rudem tum|Rudinum|Antonio Agustín||schol. Bob.|
 Cic. Att. 1.1.2|et ex.|et ab existimatione|Denys Lambin|1565–72|Paris. 8536 (P)|
 Cic. Att. 1.8.1|-i|dare|Sebastiano Corradi|1544|Paris. 8536 (P)|
 Cic. Att. 1.11.1|legatio|all-|Leonardus Malaespina|1564|s1|
@@ -4537,7 +4537,7 @@ Cic. Cael. 45|om.|modo facimus non|Madvig|1887|Cv|p. 321
 Cic. Cael. 46|laborefiendi/labor confitendi|labor offendit|Madvig|1887|CvCii|p. 322
 Cic. Cael. 47|tot|tot iam|Denys Lambin|1565|CvCii|
 Cic. Cael. 52|ceterum|ceterorum|Janus Gulielmus|1618|CvCii|apud Gruter
-Cic. Cael. 54|laborata|elaborata|Antonius Augustinus|1581|P.Lond.Lit 143|apud Ursinum
+Cic. Cael. 54|laborata|elaborata|Antonio Agustín|1581|P.Lond.Lit 143|apud Ursinum
 Cic. Cael. 57|sic enim obiectum (est)|sic est enim obiectum|Karl Halm|1856|CvCii|
 Cic. Cael. 58|ad eadem rem|ad eam rem|Madvig|1876|CvCii|p. 326
 Cic. Cael. 59|ibi/urbi|mihi|Orelli|1826/32|CvCbCii|
@@ -4558,7 +4558,7 @@ Cic. Catil. 4.8|l. p.|possit levare|Tadeusz Zielinski|1904|β|
 Cic. Catil. 4.15|in c. c.|consulatu confirmatam|Friedrich Richter|1861|Laur. 50.45 (x)|p. 18
 Cic. Cluent. 25|-traretur|arbitretur|B. Weiske|1806|ς|
 Cic. Cluent. 63|bis causam (iis)|bis iis causam|J. G. Baiter|1854|Paris. 14749 m. 1 (σ)|
-Cic. Cluent. 130|multitudinem illicitum|multitudini nemini licitum|Antonius Augustinus|1581|Palimp. Taurin. (P)|apud Ursinum
+Cic. Cluent. 130|multitudinem illicitum|multitudini nemini licitum|Antonio Agustín|1581|Palimp. Taurin. (P)|apud Ursinum
 Cic. Cluent. 137|ut id quod|ut quod|W. Peterson|1899|Vat. Barb. lat. 142 (G)|
 Cic. Cluent. 150|tantum|tamen|Denys Lambin|1566|cod. Cluny (C)|
 Cic. Cluent. 152|-e -a|potestatem suam|P. Manutius|1541|ς|
@@ -4648,7 +4648,7 @@ Cic. Pis. 31|omni-|ominibus|Filippo Beroaldo I|1499|c2|
 Cic. Pis. 31|-vivi|semiviri|Anton Draeger|1867|Lag. 9|Philol.
 Cic. Pis. 49|praebuisse|praebuit se|Gabriele Faerno|1563|Palimp. Taur. (P)|
 Cic. Pis. 57|non e. p. t. sed|eversae per te et|Gabriele Faerno|1563|Basil. Vat. H. 25 (V)|
-Cic. Pis. 59|facet-|factus|Antonius Augustinus|1543|V1|
+Cic. Pis. 59|facet-|factus|Antonio Agustín|1543|V1|
 Cic. Pis. 64|idem|item|J. A. Ernesti||Basil. Vat. H. 25 (V)|
 Cic. Pis. 67|hi|ii|Reinhold Klotz|1872|χς|
 Cic. Pis. 74|tu me|tu|Gabriele Faerno|1563|Laur. Conv. Soppr. 13 (M)|
@@ -4712,7 +4712,7 @@ Cic. Rab. perd. 4|om.|nisi|Karl Halm|1856|Paris. 7779 (k)|
 Cic. Rab. perd. 14|om.|C.|C. L. Kayser|1861|Paris. 7779 (k)|
 Cic. Rab. perd. 24|-em|imagine|Andrea Navagero|1519|c1k|
 Cic. S. Rosc. 1|surrexerim|s. is|Andrea Navagero|1534|Σc|
-Cic. S. Rosc. 11|i-|eidem|Antonius Augustinus|1581|Laur. 48.26 (ω)|apud Ursinum
+Cic. S. Rosc. 11|i-|eidem|Antonio Agustín|1581|Laur. 48.26 (ω)|apud Ursinum
 Cic. S. Rosc. 30|-etur|optet|Filippo Beroaldo I|1499|ς|
 Cic. S. Rosc. 30|supplicium parricidarum|del.|François Hotman|1554|ς|
 Cic. S. Rosc. 30|quoniam quidem suscepi|del.|J. F. Heusinger|1835|Bodl. Canon. 226 (c)|apud Büchner
