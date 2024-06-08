@@ -13,6 +13,7 @@
         <li>Hine, Harry, <a href="https://github.com/t18d/attested-conjectures/wiki/On-'Confirmed-Conjectures'-(Hine)">comment on 'confirmed conjectures'</a>, database Wiki (22 Jan. 2024).</li>
         <li>Housman, A. E., <em>M. Annaei Lucani belli civilis libri decem</em>  (Oxford, 1927), xxix.</li>
         <li>James, Patrick, review of <em>The Oxyrhynchus Papyri. Volume LXXXI</em>, in <em>The Classical Review</em>, 68/2 (2018), 396.</li>
+        <li>Kenney, E. J., <em>The Classical Text: Aspects of Editing in the Age of the Printed Book</em>  (Berkeley, 1974), 145.</li>
     </ul>
     <h3>Sources</h3>
     <ul>
