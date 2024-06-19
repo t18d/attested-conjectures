@@ -309,7 +309,7 @@
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
-<p>The top 10 critics are Reiske (276), Scaliger (237), Nicolaus Heinsius (213), Adamantios Korais (190), Bentley (167), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (95).</p>
+<p>The top 10 critics are Reiske (276), Scaliger (237), Nicolaus Heinsius (213), Adamantios Korais (190), Bentley (166), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (95).</p>
 <br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
 </preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
 
@@ -6831,7 +6831,6 @@ Tac. hist. 5.17.2|preuise/prouisa|prouidisse|Friedrich Jacob|1842|Ia|p. 29
 Tac. hist. 5.21.3|sed/set|et|Nicolaus Heinsius|1752|Yalensis II (Y02)|apud Ernesti
 Tac. hist. 5.22.3|impia|Lupia|Beatus Rhenanus|1533|H2Y03|
 Tac. hist. 5.26.1|Nabaliae|naualis|J. G. Ottema|1845|Y03²|
-Ter. An. 928|cito tibi|cito|Bentley|n.d.|P.Oxy. XIV 2401|
 Tib. 1.1.51|pereat potiusque|potius pereatque|Johannes Livineius|1621|Berol. Diez R. Sant. 21 (E)|
 Tib. 1.1.67|tu|tum|Haupt|1861|Ambros. G 10 sup.|
 Tib. 1.2.19|decedere|descendere|Janus Dousa I|1592|Leid. Voss. lat. 0.81|
