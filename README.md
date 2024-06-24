@@ -4790,7 +4790,7 @@ Cic. fin. 5.23|t. tamquam/tamquam t.|tranquillitas|Madvig|1876|Vat. lat. 1759 (V
 Cic. fin. 5.42|-int|vicerunt|Madvig|1876|Mutin. lat. 213 (O)|
 Cic. fin. 5.84|-rum|miser|Madvig|1876|P2|
 Cic. har. resp. 32|-imus/-emus|neglegamus|C. F. W. Müller|1896|Bern. 254 (t)|
-Cic. leg. agr. 1.26|p. R.|patres conscripti|Carlo Sigonio|1558|ς|
+Cic. leg. agr. 1.26|p. R.|patres conscripti|Carlo Sigonio|1558|ς|'Comme Sigonius avoit de la peine à s'exprimer en latin, de Thou fut obligé, pour ne pas se priver de sa conversation, de parler italien le mieux qu'il put.'
 Cic. leg. agr. 2.10|sed si|sed|Gasparo Garatoni|1777–8|c1|
 Cic. leg. agr. 2.10|quidem|quiddam|Andrea Navagero|1519|Paris. 7779 (k)|
 Cic. leg. agr. 2.12|in r.|rebus|Andrea Navagero|1519|Paris. 7779 (k)|
