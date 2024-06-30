@@ -4537,7 +4537,7 @@ Cic. Cael. 45|atque|atqui|Denys Lambin|1565|P.Lond.Lit 143|
 Cic. Cael. 45|om.|modo facimus non|Madvig|1887|Cv|p. 321
 Cic. Cael. 46|laborefiendi/labor confitendi|labor offendit|Madvig|1887|CvCii|p. 322
 Cic. Cael. 47|tot|tot iam|Denys Lambin|1565|CvCii|
-Cic. Cael. 52|ceterum|ceterorum|Janus Gulielmus|1618|CvCii|apud Gruter
+Cic. Cael. 52|ceterum|ceterorum|Janus Gulielmius|1618|CvCii|apud Gruter
 Cic. Cael. 54|laborata|elaborata|Antonio Agustín|1581|P.Lond.Lit 143|apud Ursinum
 Cic. Cael. 57|sic enim obiectum (est)|sic est enim obiectum|Karl Halm|1856|CvCii|
 Cic. Cael. 58|ad eadem rem|ad eam rem|Madvig|1876|CvCii|p. 326
@@ -4611,7 +4611,7 @@ Cic. Mil. 39|-erent|concurreret|Friedrich Richter|1864|ΣH|
 Cic. Mil. 63|perdi-|percito|Andrea Navagero|1519|b2|
 Cic. Mil. 65|esse|se|Heumann||ΣH|
 Cic. Mur. 3|-a|uno|Denys Lambin|1566|ω|
-Cic. Mur. 13|cumsp-/consp-|circumspicere|Janus Gulielmus|n.d.|χ2|
+Cic. Mur. 13|cumsp-/consp-|circumspicere|Janus Gulielmius||χ2|
 Cic. Mur. 21|i. e.|eadem in|Denys Lambin|1566|ς|
 Cic. Mur. 25|causis|capsis|Madvig|n.d.|cod. Sambuci|
 Cic. Mur. 32|-am|statuo|Niccolò Angeli|1515|Monac. 15734 (s)|
@@ -4734,7 +4734,7 @@ Cic. Sull. 23|Curio|M' Curio|P. Manutius||schol. Bob.|
 Cic. Sull. 48|cogitavit|cognovit|Denys Lambin||ac1|
 Cic. Sull. 52|om.|et|James S. Reid||Brux. 14492 (π)|
 Cic. Sull. 55|servili|Servili|Madvig||Lag. 9|
-Cic. Sull. 58|rei p.|populo R.|Janus Gulielmus||cod. Tegerns. (T)|
+Cic. Sull. 58|rei p.|populo R.|Janus Gulielmius||cod. Tegerns. (T)|
 Cic. Sull. 63|de salute|dum saluti|Beck||cod. Tegerns. (T)|
 Cic. Sull. 76|-it|posset|J. A. Ernesti|1773–7|Paris. 7779 (k)|
 Cic. Sull. 82|attestantem|ad testandam|Denys Lambin||TE|
@@ -4765,7 +4765,7 @@ Cic. ad Q. fr. 2.9.1|-ebaris/-ebis|uideris|Leonardus Malaespina|1564|bs2|
 Cic. ad Q. fr. 2.9.1|infusa|insulsa|Petrus Victorius|1536|sF|
 Cic. ad Q. fr. 3.5.5|-ent|uiderunt|A. S. Wesenberg|1873|Palat. 1510 (V)|
 Cic. ad Q. fr. 3.6.6|ei nihil tribuit et omnia Guttae|ei n. t., o. G.|A. S. Wesenberg|1873|Paris. 8536 (P)|
-Cic. div. 1.20|post|prius|Janus Gulielmus|s.xvi med.|Phillipp. 1794 (L)|apud Gruter
+Cic. div. 1.20|post|prius|Janus Gulielmius|s.xvi med.|Phillipp. 1794 (L)|apud Gruter
 Cic. div. 1.20|exces(s)um|excelsum|Denys Lambin|1565–6|Merton. 311|
 Cic. div. 1.21|ac/at|et|Hottinger|1793|Palat. lat. 1519 (P)|
 Cic. div. 1.130|ut enim|etenim|P. Manutius|1541|codd. Cantabr. et Reg. (Davies)|
@@ -4795,7 +4795,7 @@ Cic. leg. agr. 2.10|sed si|sed|Gasparo Garatoni|1777–8|c1|
 Cic. leg. agr. 2.10|quidem|quiddam|Andrea Navagero|1519|Paris. 7779 (k)|
 Cic. leg. agr. 2.12|in r.|rebus|Andrea Navagero|1519|Paris. 7779 (k)|
 Cic. leg. agr. 2.13|c. tandem|contio|Denys Lambin|1566|Paris. 7779 (k)|
-Cic. leg. agr. 2.13|-tata|exspectatur|Janus Gulielmus|1618|Paris. 7779 (k)|apud Gruter
+Cic. leg. agr. 2.13|-tata|exspectatur|Janus Gulielmius|1618|Paris. 7779 (k)|apud Gruter
 Cic. leg. agr. 2.21|-titur|sortietur|Andrea Navagero|1519|Paris. 7779 (k)|
 Cic. leg. agr. 2.21|-idit|excipit|Andrea Navagero|1519|ς|
 Cic. leg. agr. 2.24|reus|non r.|Carlo Sigonio|1558|Paris. 7779 (k)|
