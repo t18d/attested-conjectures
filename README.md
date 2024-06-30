@@ -5231,7 +5231,7 @@ Iuv. 6.153|cum/quo|quom|C. F. Hermann|1854|Lond. mus. Brit. Add. 12002|
 Iuv. 6.167|-sinam|uenustinam|Franz Bücheler|1886|Reg. 2029 et Valent. 410|
 Iuv. 6.248|su-|rudibus|Lipsius|1675|P R F schol.|
 Iuv. 6.295|istros|istos|Nogarola|1602|KU|apud Janum Parrhasium
-Iuv. 6.363|rediuiuus|recidiuus|Gaspar Schopp|1596|Norimberg. 6.19|
+Iuv. 6.363|rediuiuus|recidiuus|Caspar Schoppe|1596|Norimberg. 6.19|
 Iuv. 6.392|pert-|protulit|Louis Dorléans|1622|Laur. 34.42 (K)|
 Iuv. 6.455|-at|castiget|Ribbeck|1859|Ottob. 1471|
 Iuv. 6.491|-o|humeros|Markland|1717–28|AK2|umeros AK2
@@ -5245,7 +5245,7 @@ Iuv. 7.80|-is|marmoreus|Gronovius|1662|recc.|p. 551
 Iuv. 7.88|-ur|largitus|Johannes Schrader|1801|Paris. 7900 A (G)|apud Rupertium
 Iuv. 7.124|licet|libet|C. F. Heinrich|1839|GLU|
 Iuv. 7.130|-illi|tongilii|Jahn|1851–68|GOZ2|
-Iuv. 7.142|an post te sella|posita an sit sella|Gaspar Schopp|1596|recc.|
+Iuv. 7.142|an post te sella|posita an sit sella|Caspar Schoppe|1596|recc.|
 Iuv. 7.153|isdem|idem|Jahn|1868|AGU|
 Iuv. 7.154|cambre|crambe|Poliziano|1489|Paris. 7900 A (G)|
 Iuv. 7.156|forte|a fronte|Markland|1717–28|P.Ant. Juv.|
@@ -5265,7 +5265,7 @@ Iuv. 8.229|tu|seu|Jahn|1851|recc.|ed. 1
 Iuv. 9.17|torret|torquet|Gilbert Wakefield|1796|recc.|
 Iuv. 9.55|-os|lassas|Haupt|1851|GU|apud Jahn ed. pr.
 Iuv. 9.105|-e|tollito|John Jortin|1790|P2GHL2U|
-Iuv. 10.7|opta-|operantibus|Gaspar Schopp|1596|recc.|
+Iuv. 10.7|opta-|operantibus|Caspar Schoppe|1596|recc.|
 Iuv. 10.304|uiros|uiro|Jahn|1851|Guelf. Gud. 53|
 Iuv. 11.4|convictus|conventus|Caspar von Barth|1624|Urb. 661 (U)|
 Iuv. 11.6|ardens/-nti(s)|ardent|Nicolas Rigault|1613|Rom. Casan. 1627|
@@ -5287,7 +5287,7 @@ Iuv. 13.28|nona|non|J. G. Heinecke|1804|GFK1|
 Iuv. 13.58|tam|tum|Jahn|1868|P2|
 Iuv. 13.68|-que|examenve|Markland|1717–28|GU|
 Iuv. 13.209|-um|tacitus|Andreas Scholte|1873|Dres. 153|
-Iuv. 14.67|emen-|emundat|Gaspar Schopp|1596|UL2|
+Iuv. 14.67|emen-|emundat|Caspar Schoppe|1596|UL2|
 Iuv. 14.83|-abit|leuarit|Adrien de Valois|1810|recc.|apud Achaintre
 Iuv. 14.97|nu-|nomen|Richard Mead|s.xvii/xviii|schol. Lucan. 2.593|apud Classical Journal 10 (1814) 107
 Iuv. 14.165|nullis|nulli|C. F. Heinrich|1839|FU|
