@@ -1,5 +1,8 @@
 title: Open Source by Tonkünstler-on-the-Bund
 tagline: The open-source arm of TKB
+author:
+  name: TKB
+  url: https://www.tonkunstler-on-the-bund.com
 locale: en_GB
 plugins:
   - jekyll-seo-tag
