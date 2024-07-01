@@ -1,6 +1,5 @@
 ---
 title: Coniecerat, sicut coni., suo Marte
-description: Terminology for flagging a 'confirmed' conjecture
 permalink: coniecerat/
 seo:
   type: Dataset
