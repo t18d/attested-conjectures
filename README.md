@@ -1937,7 +1937,7 @@ Opp. C. 3.76|-ον|ἄλκιμος|J. G. Schneider|1776|K1|
 Opp. C. 3.214|ἀ-|ἁπαλὴν|Guietus|post-1597|A2MF|
 Opp. C. 3.247–8|καὶ … τε|τε … καὶ|Hermann|1805|Laur. 32.16 (K)|Orphica p. 712
 Opp. C. 3.360|γὰρ|μὲν|Brunck|1776|Laur. 32.16 (K)|apud Schneider
-Opp. C. 4.199|ἴκ-|εἴκελος|Andreas Schott|s.xvi/xvii|P.Oxy. LXXXI 5278|
+Opp. C. 4.199|ἴκ-|εἴκελος|André Schott||P.Oxy. LXXXI 5278|
 Opp. C. 4.208|ἐρυϲϲάμενοι|ερειϲάμεν[οι|Johannes Pierson|1752|P.Oxy. LXXXI 5278|Verisimilium libri duo (1752) 174
 Opp. C. 4.322|δε-|λεξάμενοι|J. G. Schneider|1776|Vindob. phil. gr. 135 (L)|
 Orac. Sib. 516–517|516, 517|517, 516|Geffcken||P.Flor. 398|
@@ -4169,7 +4169,7 @@ Xen. Oec. 9.2|τῆς οἰκίας|τῆς γε οἰκίας|Cobet|s.xix ex.|P
 Xen. Oec. 9.2|ἑκάστῳ|ἐν ἑκάστῳ|J. G. Schneider|1805|P.Oxy. II 227|]ν εκαϲ[
 Xen. Oec. 15.9|ἣν|ἵν’|Jean Brodeau||Ambros. A-157-sup. (Q)|
 Xen. Oec. 21.10|τῶν κακῶν|τὸν κακὸν|Jean Brodeau||Ambros. A-157-sup. (Q)|
-Zen. 4.80|-ω|Δακτύλων|Andreas Schott|1612|Angel. et Marc. et Paris.|
+Zen. 4.80|-ω|Δακτύλων|André Schott|1612|Angel. et Marc. et Paris.|
 [Epich.] fr. 272|πειρ-|θηράσεται|Theodor Kock|1884|P.Petr. I 3(1)|CAF II p. 509
 [Hdn.] Philet. 210|κυν-|κινάραν|Nauck|1889|Q|
 [Hdn.] Π. ἡμαρτ. λέξ. 24|-αι/κατέδεσθαι|καταδέχεσθε|Meineke|1839–57|S|
