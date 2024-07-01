@@ -1,5 +1,5 @@
 ---
-title: Classical Abbreviations
+title: Classical Abbreviations | Database of Greek and Latin Conjectural Emendations Attested in MSS
 permalink: abbreviations/
 seo:
   type: Dataset
