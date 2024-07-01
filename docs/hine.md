@@ -1,7 +1,9 @@
 ---
 title: On 'Confirmed Conjectures' – Database of Greek and Latin Conjectural Emendations Attested in MSS
 description: There are more 'confirmed conjectures' to be discovered, but perhaps not with the same frequency in every author or every work.
-author: Harry Hine
+author:
+  name: Harry Hine
+  url: https://research-portal.st-andrews.ac.uk/en/persons/harry-morrison-hine
 permalink: hine/
 seo:
   type: ScholarlyArticle
