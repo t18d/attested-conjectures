@@ -1,5 +1,5 @@
 ---
-title: Coniecerat, sicut coni., suo Marte
+title: Coniecerat, sicut coni., suo Marte | Database of Greek and Latin Conjectural Emendations Attested in MSS
 permalink: coniecerat/
 seo:
   type: Dataset
