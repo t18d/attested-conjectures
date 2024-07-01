@@ -1,5 +1,5 @@
 ---
-title: Tools of the Trade
+title: Tools of the Trade | Database of Greek and Latin Conjectural Emendations Attested in MSS
 permalink: tools/
 seo:
   type: Collection
