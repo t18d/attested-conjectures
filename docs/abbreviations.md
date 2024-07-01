@@ -2,6 +2,8 @@
 title: Classical Abbreviations
 description: Abbreviations not found in Lindsay-Bains, Cappelli or Wellington
 permalink: abbreviations/
+seo:
+  type: Dataset
 ---
 # Classical Abbreviations
 
