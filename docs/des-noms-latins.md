@@ -1,5 +1,5 @@
 ---
-title: Des noms latins – Database of Greek and Latin Conjectural Emendations Attested in MSS
+title: Des noms latins @ Database of Greek and Latin Conjectural Emendations Attested in MSS
 permalink: des-noms-latins/
 seo:
   type: Collection
