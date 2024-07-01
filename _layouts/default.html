@@ -11,7 +11,9 @@
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-      <nav><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></nav>
+      <div class="header mt-5 pt-3 text-right text-gray">
+        <nav><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></nav>
+      </div>
 
       {{ content }}
 
