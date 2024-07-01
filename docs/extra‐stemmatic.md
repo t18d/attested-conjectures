@@ -1,6 +1,6 @@
 ---
 title: Extra‐stemmatic Readings
-permalink: extra‐stemmatic/
+permalink: extra-stemmatic/
 seo:
   type: Collection
 ---
