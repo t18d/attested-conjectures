@@ -5844,7 +5844,7 @@ Priap. 50.6|-tris|noster|Nicolaus Heinsius|1773|Vat. lat. 2876 (Y)|apud Burmannu
 Priap. 83.43|arrig-/dirig-/rig-/erigit|erigat|Emil Baehrens|1878|Rehdiger. 125 (r)|
 Prob. vita Pers. l. 37|centies|centum|Casaubon|n.d.|Lond. mus. Brit. Reg. 15 B XIX|
 Prop. 1.6.9|meam|se iam|Nicolaus Heinsius|1742|recc.|
-Prop. 1.9.29|manus|malus|Franciscus Modius|1584|recc.|p. 81
+Prop. 1.9.29|manus|malus|Franciscus Modius|1584|recc.|p. 81; 'Nunc igitur omnium egenus et insuper debitor hic sedeo, debitumque quotidie crescit'
 Prop. 1.12.7|illo|ullo|Nicolaus Heinsius|1742|recc.|
 Prop. 1.20.6|Therodom-|Theiodamanteo|H. E. Butler|1905|Ambros. H 46 sup.|New
 Prop. 2.4.13|-o|subitum|Nicolaus Heinsius|1742|Casanat. 3227|
