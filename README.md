@@ -1,6 +1,6 @@
 ---
-title: Database of Greek and Latin Conjectural Emendations Attested in MSS
-description: A hard look at the soft practice of textual criticism | Open Source by TKB
+title: Database of Greek and Latin Conjectural Emendations Attested in MSS | Open Source by TKB
+description: A hard look at the soft practice of textual criticism
 permalink: /
 seo:
   type: Dataset
