@@ -62,7 +62,7 @@ If the critic already has entries in the database, follow the spelling of existi
 
 For new names, prefer the spelling that is going to turn up most information in the search engine. Vernacular spelling is particularly appropriate when a critic made waves outside scholarship.
 
-The lemma on Wikipedia is usually a good choice if an article is available in the relevant language, except when it differs from the one commonly used in classical scholarship or is ill-formed (e.g. [Turnèbe](https://github.com/t18d/attested-conjectures/wiki/Des-noms-latins#turnebus)). Mark Ockerbloom’s Online Books Page is another useful resource, as the spelling adopted there tends to reflect what’s actually on the title-pages.
+The lemma on Wikipedia is usually a good choice if an article is available in the relevant language, except when it differs from the one commonly used in classical scholarship or is ill-formed (e.g. [Turnèbe](https://t18d.github.io/attested-conjectures/des-noms-latins/#turnebus)). Mark Ockerbloom’s Online Books Page is another useful resource, as the spelling adopted there tends to reflect what’s actually on the title-pages.
 
 ### German names
 The choice between _c_ and _k_ follows the critic’s own practice when signing _in German_.
