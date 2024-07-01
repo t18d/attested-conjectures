@@ -2,8 +2,9 @@
 title: On 'Confirmed Conjectures'
 description: There are more 'confirmed conjectures' to be discovered, but perhaps not with the same frequency in every author or every work.
 author: Harry Hine
-locale: en_GB
 permalink: hine/
+seo:
+  type: ScholarlyArticle
 ---
 # On 'Confirmed Conjectures'
 
