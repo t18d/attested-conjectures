@@ -1,5 +1,5 @@
 ---
-title: Extra‐stemmatic Readings | Database of Greek and Latin Conjectural Emendations Attested in MSS
+title: Extra‐stemmatic Readings – Database of Greek and Latin Conjectural Emendations Attested in MSS
 permalink: extra-stemmatic/
 seo:
   type: Collection
