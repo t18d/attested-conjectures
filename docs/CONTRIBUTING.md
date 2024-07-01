@@ -1,5 +1,5 @@
 ---
-title: Notes for Contributors
+title: Notes for Contributors – Database of Greek and Latin Conjectural Emendations Attested in MSS
 permalink: contributing/
 seo:
   type: HowTo
