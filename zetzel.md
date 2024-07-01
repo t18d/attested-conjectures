@@ -1,7 +1,9 @@
 ---
 title: Textual Criticism and the Transmission of Latin Texts
 description: A bibliography composed with the needs of graduate students in mind
-author: James E. G. Zetzel
+author:
+  name: James E. G. Zetzel
+  url: http://classics.columbia.edu/james-zetzel
 locale: en_US
 permalink: zetzel/
 seo:
