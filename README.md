@@ -1,3 +1,10 @@
+---
+title: Database of Greek and Latin Conjectural Emendations Attested in MSS
+description: A hard look at the soft practice of textual criticism
+locale: en_GB
+seo:
+  type: Dataset
+---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
 <preface> <!-- for sake of completeness -->
