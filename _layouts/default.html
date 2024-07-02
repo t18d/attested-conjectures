@@ -11,9 +11,9 @@
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-      {% if site.title and site.title != page.title %}
-       <nav><h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1></nav>
-      {% endif %}
+      <nav class="text-right text-gray">
+        <a href="/attested-conjectures/">Database</a> | <a href="https://github.com/t18d/attested-conjectures/wiki">Docs</a>
+      </nav>
 
       {{ content }}
 
