@@ -177,7 +177,7 @@ Kaibel, Wilamowitz and early editions
 ## Tac.
 [Annotationum in C. Tacitum specimen primum + alterum](https://www.google.com/books/edition/Annotationum_in_C_Tacitum_specimen_primu/w0RaNbGG_DgC?hl=en) (Petersen)
 
-> _Gymn.-Programm ~Coblenz~ Kreuznach 1835_ in Wellesley
+> _Gymn.-Programm ~~Coblenz~~ Kreuznach 1835_ in Wellesley
 
 [Observationes ad Taciti annales criticae: particula altera](https://www.google.com/books/edition/Einladungsschrift_zu_den_öffentlichen_P/qqBAAAAAcAAJ?hl=en) (Jacob)
 
