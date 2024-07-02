@@ -13,6 +13,10 @@ I'ay souhaité souuent que ceux qui escriuent les histoires en Latin nous laissa
 ## Conrad Gessner
 _… we see a consistent pattern throughout Gessner's life of writing his and his family's name in German documents with a double s, and, after 1540, of signing and publishing his name in Latin with one s._ ([Pyle](https://www.euppublishing.com/doi/abs/10.3366/anh.2000.27.2.175))
 
+## Janus Gruterus
+_Janus de Gruytere_ (album amicorum)
+> `Jan Gruter` was probably from `Jan. Gruter.`
+
 ## Korais
 _Coray_ (_without initial_) _is what he called himself in France._ (Diggle)
 
