@@ -12,7 +12,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       <nav class="text-right text-gray">
-        {% unless page.title == "Database of Greek and Latin Conjectural Emendations Attested in MSS" %}<a href="/attested-conjectures/">Database</a> | {% endunless %}<a href="https://github.com/t18d/attested-conjectures/wiki">Docs</a>
+        {% if page.title == "Database of Greek and Latin Conjectural Emendations Attested in MSS" %}Database | {% else %}<a href="/attested-conjectures/">Database</a> | {% endif %}<a href="https://github.com/t18d/attested-conjectures/wiki">Docs</a>
       </nav>
 
       {{ content }}
