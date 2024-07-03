@@ -16,7 +16,7 @@ csv_tools.sort_lat()
 
 with open("greek.csv", "r", encoding="utf8") as greek_csv:    
   with open("latin.csv", "r", encoding="utf8") as latin_csv:
-    with open("OT-NT.csv", "r", encoding="utf8") as amst_csv:        
+    with open("biblical.csv", "r", encoding="utf8") as amst_csv:        
         # use league ranking to make top 10 sentence in preface
         league = csv_tools.create_league_table((greek_csv, latin_csv, amst_csv))
         top_10 = sorted(league.items(), key=operator.itemgetter(1), reverse=True)
@@ -43,7 +43,7 @@ with open("greek.csv", "r", encoding="utf8") as greek_csv:
 # reopen files to create new readers
 with open("greek.csv", "r", encoding="utf8") as greek_csv:    
   with open("latin.csv", "r", encoding="utf8") as latin_csv:
-    with open("OT-NT.csv", "r", encoding="utf8") as amst_csv:   
+    with open("biblical.csv", "r", encoding="utf8") as amst_csv:   
         greek_reader = csv.reader(greek_csv)
         latin_reader = csv.reader(latin_csv)
         amst_reader = csv.reader(amst_csv)
