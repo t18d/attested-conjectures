@@ -7,3 +7,4 @@ locale: en_GB
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+incremental: true
