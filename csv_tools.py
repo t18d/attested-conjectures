@@ -48,7 +48,7 @@ def sort_lat(file="latin.csv", column="Ref."):
         # fieldnames are the first row of the csv file so don't need to be provided
         sorted_conj = sorted(conjj, key=lambda row: human_sort_dict(row, column)) # old key=lambda row: row[column]
     try:
-        with open(file, "w", encoding="utf8", newline="") as conj_csv:
+        with open(file, "w", encoding="utf8", newline="\n") as conj_csv:
             writer = csv.DictWriter(conj_csv, fieldnames)
             writer.writeheader()
             writer.writerows(sorted_conj)
