@@ -7,6 +7,7 @@ import csv
 from copy import copy
 from datetime import datetime
 import re
+import os
 
 fieldnames = "Ref.,Paradosis,Conjecture,Author,Year,Attested Place,Rem.".split(",")
 
@@ -33,7 +34,7 @@ def sort_grc(file="greek.csv", column="Ref."):
         sorted_conj = sorted(conjj, key=lambda row: human_sort_dict(row, column)) # old key=lambda row: row[column]
     try:
         with open(file, "w", encoding="utf8", newline="") as conj_csv:
-            writer = csv.DictWriter(conj_csv, fieldnames)
+            writer = csv.DictWriter(conj_csv, fieldnames, lineterminator=os.linesep)
             writer.writeheader()
             writer.writerows(sorted_conj)
     except ValueError as e: # if the rows are wrong then occurs ValueError: dict contains fields not in fieldnames - need to save the data in that case
@@ -49,7 +50,7 @@ def sort_lat(file="latin.csv", column="Ref."):
         sorted_conj = sorted(conjj, key=lambda row: human_sort_dict(row, column)) # old key=lambda row: row[column]
     try:
         with open(file, "w", encoding="utf8", newline="") as conj_csv:
-            writer = csv.DictWriter(conj_csv, fieldnames)
+            writer = csv.DictWriter(conj_csv, fieldnames, lineterminator=os.linesep)
             writer.writeheader()
             writer.writerows(sorted_conj)
     except ValueError as e: # if the rows are wrong then occurs ValueError: dict contains fields not in fieldnames - need to save the data in that case
