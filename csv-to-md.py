@@ -12,7 +12,7 @@ with open("README.md", "r", encoding="utf8") as readme:
     
 csv_tools.sort_grc()
 
-# csv_tools.sort_lat()
+csv_tools.sort_lat()
 
 with open("greek.csv", "r", encoding="utf8") as greek_csv:    
   with open("latin.csv", "r", encoding="utf8") as latin_csv:
