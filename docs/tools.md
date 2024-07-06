@@ -23,6 +23,8 @@ This page collects digital resources not already mentioned in Zeztel’s [biblio
 ## Palaeography
 [FAQ – Greek Language & Script](https://www.unicode.org/faq/greek.html#3) (Unicode Consortium)
 
+> Contrary to popular belief, Unicode allows circumflex on the first vowel of a diphthong, _eg_ U+03BFU+0313U+0342 ὀ͂, which makes it possible to reproduce early modern orthography
+
 [Greek Unicode Issues](https://web.archive.org/web/20110523213507/http://www.tlg.uci.edu/~opoudjis//unicode/unicode.html) (Nicholas)
 
 > a wide-ranging series from TLG years
