@@ -143,6 +143,8 @@ Kaibel, Wilamowitz and early editions
 ## Pl.
 [Schleiermacher as Plato Scholar](https://www.jstor.org/stable/1206234) (Lamm)
 
+[The Platonic Textual Tradition: A Bibliography](https://github.com/t18d/attested-conjectures/raw/main/assets/Platonic_Text_Tradition.pdf) (Joyal 2022)
+
 ## Plu.
 [Jacques Amyot: traducteur des Vies parallèles de Plutarque](https://www.google.com/books/edition/Jacques_Amyot_traducteur_des_Vies_parall/1JsKPFdikPIC?hl=en) (Sturel)
 
