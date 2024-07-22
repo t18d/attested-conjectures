@@ -199,6 +199,9 @@ Kaibel, Wilamowitz and early editions
 
 > _Gymn.-Programm Berlin 1892_ in Wellesley
 
+## Ter.
+[A problem of method in the history of texts and its implications for the manuscript tradition of Terence](https://www.persee.fr/doc/rht_0373-6075_1996_num_26_1996_1448) (Victor)
+
 ## Thuc.
 [Thucydides MSS Used by Poppo, Arnold, Other Old Editors](https://github.com/t18d/attested-conjectures/raw/main/assets/Thucydides%20MSS%20Used%20by%20Poppo%2C%20Arnold%2C%20Other%20Old%20Editors.pdf) (Maurer)
 
