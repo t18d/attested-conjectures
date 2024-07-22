@@ -6844,18 +6844,19 @@ Ter. Andr. 11|d. s.|sunt dissimili|François Guyet|1657|EsVbβζι|
 Ter. Andr. 87|tres tum simul|tres s.|Ritschl|1845||
 Ter. Andr. 214|me in pistrinum|i. p.|Bentley|1726|Laur. Plut. 38.27 (T)|
 Ter. Andr. 264|incertum hoc quorsus|i. est h. quorsum|Klette|||
+Ter. Andr. 386|ha(n)c|hoc|Paul Wessner|1902|Flor. Maruc. C 224 (F)|'given this manuscript's place in the stemma, it is best to consider a reading unique to it as humanist conjecture' (B. Victor)
 Ter. Andr. 509|h. mihi p.|hoc posterius|Gabriele Faerno|1565||
-Ter. Andr. 533–4|CH optato aduenis aliquot|optato aduenis. CH aliquot|Dziatzko|1884|Paris. lat. 10304 (p)|
+Ter. Andr. 533–4|CH optato aduenis aliquot|optato aduenis. CH aliquot|Dziatzko|1884|Paris. lat. 10304 (p)|'the manuscripts' indications of parts are themselves conjectural' (B. Victor)
 Ter. Andr. 665|scelus|o s.|Andreas Spengel|1875|ΠbLp|
 Ter. Andr. 668|h. c.|consilium hoc|Fleckeisen||Vat. lat. 3305 (S)|
 Ter. Andr. 686|hem|ehem|Bentley|1726||
-Ter. Andr. 841|quid|qui|Bentley|1726|p1|
+Ter. Andr. 784|anne h. t. o.|an haec tu omnia|Bentley|1726|Vat. BAV Arch. Cap. S. Pietro H 19 (B)|'B's place in the history of the text makes it unlikely that it alone inherited the original form "anne"; it is likelier that B's scribe unconsciously substituted "anne" for "an", these two particles being functionally equivalent.' (B. Victor)
 Ter. Andr. 898|u. amittere|uis mittere|Gabriele Faerno|1565|Bonon. Bibl. Inst. Filol. class. 945 (b)|
 Ter. Andr. 957–8|f. m. p. n. p.|me forsitan putet non putare|Hermann||P.Oxy. XXIV 2401 (Πb)|
 Ter. Hec. 134|-ent/-uint|perdant|Schubert|||
 Ter. Hec. 198|d. a. h. f.|deum fidem atque hominum|Fleckeisen|||
 Ter. Hec. 289|hae|haec|François Guyet|1657|Vat. lat. 3226 (A)|m. sec.
-Ter. Hec. 580||illam mei|Gabriele Faerno|1565||
+Ter. Hec. 580|illa m.|illam mei|Gabriele Faerno|1565||
 Ter. Hec. 608|e. s.|sapere est|Fleckeisen|||
 Ter. Hec. 620|-ae|fabula|François Guyet|1657||
 Ter. Hec. 745|u. h.|habet uxorem|F. H. Bothe|1834|Paris. lat. 10304 (p)|
