@@ -6848,7 +6848,6 @@ Ter. Andr. 386|ha(n)c|hoc|Paul Wessner|1902|Flor. Maruc. C 224 (F)|'given this m
 Ter. Andr. 509|h. mihi p.|hoc posterius|Gabriele Faerno|1565||
 Ter. Andr. 533–4|CH optato aduenis aliquot|optato aduenis. CH aliquot|Dziatzko|1884|Paris. lat. 10304 (p)|'the manuscripts' indications of parts are themselves conjectural' (B. Victor)
 Ter. Andr. 665|scelus|o s.|Andreas Spengel|1875|ΠbLp|
-Ter. Andr. 668|h. c.|consilium hoc|Fleckeisen||Vat. lat. 3305 (S)|
 Ter. Andr. 686|hem|ehem|Bentley|1726||
 Ter. Andr. 784|anne h. t. o.|an haec tu omnia|Bentley|1726|Vat. BAV Arch. Cap. S. Pietro H 19 (B)|'B's place in the history of the text makes it unlikely that it alone inherited the original form "anne"; it is likelier that B's scribe unconsciously substituted "anne" for "an", these two particles being functionally equivalent.' (B. Victor)
 Ter. Andr. 898|u. amittere|uis mittere|Gabriele Faerno|1565|Bonon. Bibl. Inst. Filol. class. 945 (b)|
