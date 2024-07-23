@@ -3,6 +3,7 @@ title: Classical Abbreviations @ Database of Greek and Latin Conjectural Emendat
 permalink: abbreviations/
 seo:
   type: Dataset
+  name: Classical Abbreviations
 ---
 # Classical Abbreviations
 
