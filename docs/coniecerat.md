@@ -3,6 +3,7 @@ title: Coniecerat, sicut coni., suo Marte @ Database of Greek and Latin Conjectu
 permalink: coniecerat/
 seo:
   type: Dataset
+  name: Terminology for Attested Conjectures
 ---
 # Coniecerat, sicut coni., suo Marte
 
