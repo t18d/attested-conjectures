@@ -22,8 +22,8 @@ This page collects digital resources not already mentioned in Zeztel’s [biblio
 
 ## Palaeography
 [FAQ – Greek Language & Script](https://www.unicode.org/faq/greek.html#3) (Unicode Consortium)
-
-> Unicode allows circumflex on the first vowel of a diphthong, _eg_ U+03BFU+0313U+0342 ὀ͂, which makes it possible to reproduce early modern orthography
+> [!TIP]
+> Unicode allows circumflex on the first vowel of a diphthong, _eg_ U+03BFU+0313U+0342 ὀ͂, which makes it possible to reproduce early modern orthography.
 
 [Greek Unicode Issues](https://web.archive.org/web/20110523213507/http://www.tlg.uci.edu/~opoudjis//unicode/unicode.html) (Nicholas)
 
@@ -39,8 +39,8 @@ This page collects digital resources not already mentioned in Zeztel’s [biblio
 [History of Classical Scholarship: A Biographical Dictionary](https://archive.org/details/isbn_9789004245938) (Brill)
 
 [The Latinizations of the Modern Surname](https://github.com/t18d/attested-conjectures/raw/main/assets/The%20Latinizations%20of%20the%20modern%20surname.pdf) (Bywater)
-
-> Doesn’t cover full names, which are another story
+> [!NOTE]
+> Doesn’t cover full names, which are another story.
 
 [Franciscus Modius als Handschriftenforscher](https://archive.org/details/franciscusmodius00lehm/) (Lehmann)
 
@@ -128,7 +128,7 @@ Kaibel, Wilamowitz and early editions
 ## Lucr.
 [Editing Lucretius](https://www.uhu.es/publicaciones/ojs/index.php/exemplaria/article/view/5029/4245) (Zetzel)
 
-> _Perhaps the most disturbing word in the passage … is “Fortschritte”: D_[_eufert_] _presents the history of the text from its recovery in the ninth century up to the twenty-first century as an account of progress, and he eliminates those moments that he considers irrelevant to the onward march of Wissenschaft.… D.’s apparatus sacrifices breadth for focus, and unsurprisingly his focus is on the text that he thinks best_ (_his own_)_, and on the kinds of emendations of which he approves. That kind of teleological approach is perhaps inevitable, but the result is that D.’s apparatus implies a narrative written backward, a history of criticism of Lucretius intended to explain and justify his own text. That kind of Whig history has long been discredited in other historical disciplines …_
+> Perhaps the most disturbing word in the passage … is “Fortschritte”: D[eufert] presents the history of the text from its recovery in the ninth century up to the twenty-first century as an account of progress, and he eliminates those moments that he considers irrelevant to the onward march of Wissenschaft.… D.’s apparatus sacrifices breadth for focus, and unsurprisingly his focus is on the text that he thinks best (his own), and on the kinds of emendations of which he approves. That kind of teleological approach is perhaps inevitable, but the result is that D.’s apparatus implies a narrative written backward, a history of criticism of Lucretius intended to explain and justify his own text. That kind of Whig history has long been discredited in other historical disciplines …
 
 ## Ov.
 [Emendationum Ovidianarum specimen](https://digital.ub.uni-duesseldorf.de/ulbdsp/periodical/pageview/6622515) (Rothmaler)
@@ -213,5 +213,4 @@ Kaibel, Wilamowitz and early editions
 ## Vitr. 
 [The Emendation of Vitruvius](https://www.jstor.org/stable/264905) (Granger)
 
-> _Krohn has attributed to later German scholars emendations due to_
-_Schneider, Voss, and Turnebus. The work of tracing emendations to their authors is far from complete in my edition, although I have carried the work of Schneider, Rose, and Krohn a step farther._
+> Krohn has attributed to later German scholars emendations due to Schneider, Voss, and Turnebus. The work of tracing emendations to their authors is far from complete in my edition, although I have carried the work of Schneider, Rose, and Krohn a step farther.
