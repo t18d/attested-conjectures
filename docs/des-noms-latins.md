@@ -15,7 +15,7 @@ _… we see a consistent pattern throughout Gessner's life of writing his and hi
 
 ## Janus Gruterus
 _Janus de Gruytere_ (album amicorum)
-> [!NOTE]
+
 > `Jan Gruter` was probably from `Jan. Gruter.`
 
 ## Korais
