@@ -22,8 +22,8 @@ This page collects digital resources not already mentioned in Zeztel’s [biblio
 
 ## Palaeography
 [FAQ – Greek Language & Script](https://www.unicode.org/faq/greek.html#3) (Unicode Consortium)
-> [!TIP]
-> Unicode allows circumflex on the first vowel of a diphthong, _eg_ U+03BFU+0313U+0342 ὀ͂, which makes it possible to reproduce early modern orthography.
+
+> Unicode allows circumflex on the first vowel of a diphthong, _eg_ U+03BFU+0313U+0342 ὀ͂, which makes it possible to reproduce early modern orthography
 
 [Greek Unicode Issues](https://web.archive.org/web/20110523213507/http://www.tlg.uci.edu/~opoudjis//unicode/unicode.html) (Nicholas)
 
@@ -39,8 +39,8 @@ This page collects digital resources not already mentioned in Zeztel’s [biblio
 [History of Classical Scholarship: A Biographical Dictionary](https://archive.org/details/isbn_9789004245938) (Brill)
 
 [The Latinizations of the Modern Surname](https://github.com/t18d/attested-conjectures/raw/main/assets/The%20Latinizations%20of%20the%20modern%20surname.pdf) (Bywater)
-> [!NOTE]
-> Doesn’t cover full names, which are another story.
+
+> Doesn’t cover full names, which are another story
 
 [Franciscus Modius als Handschriftenforscher](https://archive.org/details/franciscusmodius00lehm/) (Lehmann)
 
