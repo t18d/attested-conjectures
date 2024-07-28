@@ -8,4 +8,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 incremental: true
-exclude: [greek.csv, latin.csv, biblical.csv, csv-to-md.py, csv_tools.py, txt-to-csv.py, xml-to-md.py, LICENSE, /assets]
+exclude: [greek.csv, latin.csv, biblical.csv, csv-to-md.py, csv_tools.py, txt-to-csv.py, xml-to-md.py, LICENSE]
