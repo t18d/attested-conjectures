@@ -35,8 +35,8 @@ If it is attested in a different tradition, record it under the original author 
 Follow OCD’s abbreviations.
 
 ### Philo
-<img src="https://github.com/t18d/attested-conjectures/raw/main/assets/290511383-00bd0375-06f1-4cae-b0f6-64188379966e.jpeg.webp" width="50%" />
-<img src="https://github.com/t18d/attested-conjectures/raw/main/assets/290511838-72d71c5b-6d24-412f-8aa6-4dd9f9d927b3.jpeg.webp" width="50%" />
+<img src="https://t18d.github.io/attested-conjectures/assets/290511383-00bd0375-06f1-4cae-b0f6-64188379966e.jpeg.webp" width="50%" />
+<img src="https://t18d.github.io/attested-conjectures/assets/290511838-72d71c5b-6d24-412f-8aa6-4dd9f9d927b3.jpeg.webp" width="50%" />
 
 ### Single-letter abbreviations
 For authors with single-letter (grapheme) abbreviations in LSJ, use the abbreviations in [OCD](https://oxfordre.com/classics/page/3993) instead. Thus, **Soph.**, **Eur.**, **Aesch.**, **Thuc.**, **Dem.**, are preferable to **S.**, **E.**, **A.**, **Th.**, **D.**.
@@ -108,7 +108,7 @@ Enter ‘n.d.’ when a conjecture is considered undatable.
 
 For obscure critics, it would be helpful to indicate the period in which they flourished:
 
-<img src="https://github.com/t18d/attested-conjectures/raw/main/assets/289861739-9c2261b1-1680-4726-a196-96c336063ef7.jpeg.webp" width="50%" />
+<img src="https://t18d.github.io/attested-conjectures/assets/289861739-9c2261b1-1680-4726-a196-96c336063ef7.jpeg.webp" width="50%" />
 
 ### Self-reported conjectures 
 Self-reported conjectures cannot be verified and are therefore excluded from this database.
