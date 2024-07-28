@@ -9,7 +9,7 @@ seo:
 This page collects digital resources not already mentioned in Zeztel’s [bibliographical essay](https://t18d.github.io/attested-conjectures/zetzel).
 
 &nbsp;  
-[Commonest Abbreviations, Signs, etc. Used in the Apparatus to a Classical Text](https://github.com/t18d/attested-conjectures/raw/main/assets/Commonest%20Abbreviations%2C%20Signs%2C%20etc.%20Used%20in%20the%20Apparatus%20to%20a%20Classical%20Text.pdf) (Maurer-Scullion)
+[Commonest Abbreviations, Signs, etc. Used in the Apparatus to a Classical Text](https://github.com/t18d/attested-conjectures/raw/main/assets/Commonest_Abbreviations_Signs_etc_Used_in_the_Apparatus_to_a_Classical_Text.pdf) (Maurer-Scullion)
 
 [The Nomenclature of Manuscripts](https://archive.org/details/companiontoclass00halluoft/page/286/mode/1up) (Hall)
 
@@ -38,7 +38,7 @@ This page collects digital resources not already mentioned in Zeztel’s [biblio
 ## Moderns
 [History of Classical Scholarship: A Biographical Dictionary](https://archive.org/details/isbn_9789004245938) (Brill)
 
-[The Latinizations of the Modern Surname](https://github.com/t18d/attested-conjectures/raw/main/assets/The%20Latinizations%20of%20the%20modern%20surname.pdf) (Bywater)
+[The Latinizations of the Modern Surname](https://github.com/t18d/attested-conjectures/raw/main/assets/The_Latinizations_of_the_modern_surname.pdf) (Bywater)
 
 > Doesn’t cover full names, which are another story
 
@@ -58,7 +58,7 @@ This page collects digital resources not already mentioned in Zeztel’s [biblio
 [Reiskii coniecturae ineditae ad Alciphronem Bergleri](https://books.google.com/books?id=Xq5g8N7QEp0C&pg=PA55#v=onepage&q&f=false) (Jacobs)
 
 ## Ar.
-[Textual problems in Ar. _Thesm._](https://github.com/t18d/attested-conjectures/raw/main/assets/Textual%20problems%20in%20Ar.%20Thesm..pdf) (Austin)
+[Textual problems in Ar. _Thesm._](https://github.com/t18d/attested-conjectures/raw/main/assets/Textual_problems_in_Ar_Thesm.pdf) (Austin)
 
 > on Biset, Chrestien, Ellebodius, Casaubon, Faber, Bentley, Daubuz,
 Kaibel, Wilamowitz and early editions
@@ -205,7 +205,7 @@ Kaibel, Wilamowitz and early editions
 > Philologists profess to have read Pasquali and taken him to heart, but that sort of profession is often a superficial act, performed if anything to excuse oneself from the task of reading a complicated book, seeing all its implications, and re-thinking practices which have become reflexes. Pasquali's work, though cited at every turn, remains little appreciated. For certain periods and texts the concept of the vulgate has a particular lot to offer and has not been applied as it should not even by Pasquali himself.
 
 ## Thuc.
-[Thucydides MSS Used by Poppo, Arnold, Other Old Editors](https://github.com/t18d/attested-conjectures/raw/main/assets/Thucydides%20MSS%20Used%20by%20Poppo%2C%20Arnold%2C%20Other%20Old%20Editors.pdf) (Maurer)
+[Thucydides MSS Used by Poppo, Arnold, Other Old Editors](https://github.com/t18d/attested-conjectures/raw/main/assets/Thucydides_MSS_Used_by_Poppo_Arnold_Other_Old_Editors.pdf) (Maurer)
 
 ## Varro
 [Satires Ménippées. 12. Sexagessis -Testamentum](https://www.persee.fr/doc/efr_0000-0000_1998_edc_9_12) (Cèbe)
