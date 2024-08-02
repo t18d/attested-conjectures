@@ -21,6 +21,9 @@ _Janus de Gruytere_ (album amicorum)
 
 > `Jan Gruter` was probably from `Jan. Gruter.`
 
+## Holstenius
+_Contemporary documents, in fact, support the spelling ‘Holstein’.… ‘Holste’ and ‘Holsten’ are therefore misguided back-formations from the Latin name. It may be added, incidentally, that the spelling ‘Lukas’ sometimes seen in German publications represents a modernisation foreign to Holstenius’s own usage._ ([N. & Q.](https://doi.org/10.1093/notesj/gjae088))
+
 ## Korais
 _Coray_ (_without initial_) _is what he called himself in France._ (Diggle)
 
