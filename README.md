@@ -3556,7 +3556,7 @@ Str. 11.12.4|-ιες|ἀπόσχιδες|Wilhelm Xylander|1571|Athous Vatop. 655
 Str. 11.12.4|εὐλυμέων|᾿Ελυμαίων|C. H. Tzschucke|1806|Vat. gr. 482 (E)|
 Str. 11.12.5|κατὰ τὰ π.|καὶ τὰ προσάρκτια|Wilhelm Xylander|1571|Bpc|Arnold Behr
 Str. 11.13.6|᾿Α. ᾿Α.|᾿Απολλόδωρος ὁ ᾿Αρταμιτηνός|Arnold Behr|1888|codd.|
-Str. 11.13.6|᾿Αρτεμιτ-|᾿Αρταμιτηνός|Lucas Holste|1684|Vat. gr. 2306 + 2061 A (P)|Vatican librarian
+Str. 11.13.6|᾿Αρτεμιτ-|᾿Αρταμιτηνός|Lucas Holstein|1684|Vat. gr. 2306 + 2061 A (P)|Vatican librarian
 Str. 11.13.7|πολὺ λ.|οὐ πολὺ λειπόμενος|Casaubon|1620|P et St.Byz.|
 Str. 11.14.8|θωῆτ-|Θωνῖτιν|Wilhelm Xylander|1571|Vat. gr. 482 (E)|
 Str. 11.14.9|-κίνοις|Μιθρακάνοις|Friedrich Windischmann|1857|BE|p. 58
@@ -3578,7 +3578,7 @@ Str. 12.3.11|κ. φύσει καὶ|κ. φυσικῇ|Casaubon|1620|Vat. gr. 230
 Str. 12.3.11|διὰ … εἶναι|διὰ τὸ … εἶναι|Casaubon|1620|EP|
 Str. 12.3.11|-υτον|Αὐτόλυκον|Wilhelm Xylander|1571|Laur. 28.15 (z)|s.l.
 Str. 12.3.20|καλ-|Χαλύβης|Wilhelm Xylander|1571|E et Eust.|
-Str. 12.3.20|βρέγ-|Βρίγες|Lucas Holste|1684|Eust. Od. 1395.52sq.|
+Str. 12.3.20|βρέγ-|Βρίγες|Lucas Holstein|1684|Eust. Od. 1395.52sq.|
 Str. 12.3.22|οὐδὲ τ. … οὔτε τ.|οὔτε τὴν … οὔτε τὴν|Adamantios Korais|1817|Vat. gr. 2306 + 2061 A (P)|
 Str. 12.3.22|-δόνης|Μυγδονίης|Adamantios Korais|1817|Vat. gr. 2306 + 2061 A (P)|
 Str. 12.3.22|ἀμαζό-|᾿Αλαζώνων|Wilhelm Xylander|1571|Eust. Il. 363.19–21|
@@ -7020,6 +7020,7 @@ Jes 54:5|בעליך|בעלכי|Bernhard Duhm|1892|1QIsaᵃ|
 Jes 54:13|בניך|נוניך|Ch.-F. Houbigant|1777|1QIsaᵃ|
 Jes 58:9|שלח|שלוח|Arnold B. Ehrlich|1912|1QIsaᵃ|
 Jes 62:5|יבעל|כבעול|Ch.-F. Houbigant|1777|1QIsaᵃ|
+Matt 1:5|ἐκ τῆς Ῥαχάβ|om.|Lewis Johnson|1937|Δ037*|[cj17032](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj17032)
 Matt 5:13 [22]|μωρανθῇ|μαρανθῇ|Naber|1881||[cj10730](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10730)
 Matt 5:19 [58]|οὗτος μέγας|οὕτως, μέγας|Markland|1739||[cj11195](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11195)
 Matt 5:45 [20]|ὅτι|ὅστις|Beza|1556||[cj11200](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11200)
@@ -7207,6 +7208,7 @@ Acts 25:13 [26]|ἀσπασάμενοι|corruptum est|Hort|1881||[cj10591](https
 Acts 25:18 [24]|πονηρῶν|om.|Naber|1878||[cj13590](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj13590)
 Acts 26:20 [18–28]|πᾶσάν τε τὴν χώραν τῆς Ἰουδαίας|εἰς πᾶσάν τε χώραν τοῖς Ἰουδαίοις|Greve|1811||[cj12493](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj12493)
 Acts 27:20 [32]|περιῃρεῖτο|περιῄρητο|Naber|1878||[cj10916](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10916)
+Acts 27:26|vs|om.|Lewis Johnson|1937|min. 1852 (ECM)|[cj17027](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj17027)
 Acts 28:8 [14]|πυρετοῖς|πυρετῷ|Owen|1782||[cj11766](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj11766)
 Acts 28:9 [16–20]|ἐν τῇ νήσῳ|om.|Michelsen|1884||[cj16847](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj16847)
 Acts 28:21 [52]|πονηρόν|om.|Naber|1878||[cj10926](https://ntvmr.uni-muenster.de/nt-conjectures?conjID=cj10926)
