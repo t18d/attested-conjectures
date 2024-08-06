@@ -7,6 +7,7 @@ author:
 permalink: hine/
 seo:
   type: ScholarlyArticle
+last_modified_at: 2024-07-02
 ---
 # On 'Confirmed Conjectures'
 
