@@ -47,7 +47,8 @@ jobs:
               - added|modified: '*.md'
       - name: Lint Markdown
         if: ${{ steps.filter.outputs.markdown == 'true' }}
-        run: sed -i "s/last_modified_at.*/last_modified_at: $(date +'%Y-%m-%dT%H:%M:%S%:z')/" ${{ steps.filter.outputs.markdown_files }}
+        run: |
+          sed -i "s/last_modified_at.*/last_modified_at: $(date +'%Y-%m-%dT%H:%M:%S%:z')/" ${{ steps.filter.outputs.markdown_files }}
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
