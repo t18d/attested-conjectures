@@ -5,6 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
+last_modified_at: 2024-08-02
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
