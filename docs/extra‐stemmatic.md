@@ -3,7 +3,7 @@ title: Extra‐stemmatic Readings @ Database of Greek and Latin Conjectural Emen
 permalink: extra-stemmatic/
 seo:
   type: Collection
-last_modified_at: 2024-07-06
+last_modified_at: #auto
 ---
 # Extra‐stemmatic Readings
 
