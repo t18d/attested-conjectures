@@ -3,7 +3,7 @@ title: Tools of the Trade @ Database of Greek and Latin Conjectural Emendations 
 permalink: tools/
 seo:
   type: Collection
-last_modified_at: 
+last_modified_at: 2024-08-08T12:30:50+00:00
 ---
 # Tools of the Trade
 
