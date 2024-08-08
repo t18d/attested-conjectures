@@ -4,7 +4,7 @@ permalink: coniecerat/
 seo:
   type: Dataset
   name: Terminology for Attested Conjectures
-last_modified_at: 
+last_modified_at: 2024-08-08T12:26:20+00:00
 ---
 # Coniecerat, sicut coni., suo Marte
 
