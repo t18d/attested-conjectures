@@ -45,6 +45,7 @@ jobs:
           filters: |
             markdown:
               - added|modified: '*.md'
+              - added|modified: 'docs/*.md'
       - name: Lint Markdown
         if: ${{ steps.filter.outputs.markdown == 'true' }}
         run: |
