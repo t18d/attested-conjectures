@@ -20,7 +20,7 @@ last_modified_at: 2024-08-02
     <h3>Theory</h3>
     <ul>
         <li>Hine, Harry, <a href="https://t18d.github.io/attested-conjectures/hine/">comment on 'confirmed conjectures'</a>, database Wiki (22 Jan. 2024).</li>
-        <li>Housman, A. E., <em>M. Annaei Lucani belli civilis libri decem</em>  (Oxford, 1927), xxix.</li>
+        <li>Housman, A. E., <em>M. Annaei Lucani belli civilis libri decem</em>  (Oxford, 1927), <a href="https://www.tonkunstler-on-the-bund.com/commonplace/conservative-editors/">xxix</a>.</li>
         <li>James, Patrick, review of <em>The Oxyrhynchus Papyri. Volume LXXXI</em>, in <em>The Classical Review</em>, 68/2 (2018), 396.</li>
         <li>Kenney, E. J., <em>The Classical Text: Aspects of Editing in the Age of the Printed Book</em>  (Berkeley, 1974), 145.</li>
     </ul>
