@@ -18,4 +18,4 @@ jobs:
         with: 
           python-version: '3.10'
       - run: python csv-to-md.py
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v5
