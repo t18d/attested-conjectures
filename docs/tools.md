@@ -41,7 +41,7 @@ This page collects digital resources not already mentioned in Zeztel’s [biblio
 
 [The Latinizations of the Modern Surname](https://github.com/t18d/attested-conjectures/raw/main/assets/The_Latinizations_of_the_modern_surname.pdf) (Bywater)
 
-> Doesn’t cover full names, which are another story
+> Doesn’t cover full names, which are another story. See also [Des noms latins](https://t18d.github.io/attested-conjectures/des-noms-latins/).
 
 [Franciscus Modius als Handschriftenforscher](https://archive.org/details/franciscusmodius00lehm/) (Lehmann)
 
