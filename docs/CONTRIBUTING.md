@@ -90,6 +90,7 @@ These are names of which only the initial has been identified and for which a N&
 These are frequently given with single initial when this is enough to find them through search engines.
 
 ## Year
+As a general rule, do not convert to [Circumcision style](https://archive.org/details/oxfordcompaniont00blac/page/784/) or correct for [secular difference](https://archive.org/details/oxfordcompaniont00blac/page/788/). This makes it easier for the user to track down the same book from which a conjecture is taken. Where a correction is made for the purpose of establishing priority, document this in Rem.
 
 ### Ad editores
 Editors are urged to follow the best practice of disclosing a list of _recentiorum commentationes_ or _index philologorum_ and using superscripts after a name in the apparatus when the same critic has made conjectures in different publications.
