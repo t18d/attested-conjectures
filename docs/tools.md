@@ -16,15 +16,6 @@ This page collects digital resources not already mentioned in Zeztel’s [biblio
 
 [The E. L. Mark system of citation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1834803/pdf/bmj00308-0078.pdf) (Chernin)
 
-## Latin in English
-[The 'zero genitive'](https://archive.org/details/comprehensivegra00quir/page/320/mode/1up) (Quirk et al.)
-
-> one of the places where this older grammar shines
-
-[The Pronunciation of Greek and Latin Proper Names in English](https://www.jstor.org/stable/3290670) (Miller)
-
-[The Pronunciation of English Words Derived from the Latin](https://books.google.com/books?id=PykcAQAAMAAJ) (Sargeaunt/Bradley)
-
 ## Palaeography
 [FAQ – Greek Language & Script](https://www.unicode.org/faq/greek.html#3) (Unicode Consortium)
 
@@ -39,6 +30,15 @@ This page collects digital resources not already mentioned in Zeztel’s [biblio
 > an actively maintained mobile keyboard
 
 [Distinguishing æ and œ](https://www.pgdp.net/wiki/Æ_and_œ_ligatures#Distinguishing_the_ligatures) (DPWiki)
+
+## Latin in English
+[The 'zero genitive'](https://archive.org/details/comprehensivegra00quir/page/320/mode/1up) (Quirk et al.)
+
+> one of the places where this older grammar shines
+
+[The Pronunciation of Greek and Latin Proper Names in English](https://www.jstor.org/stable/3290670) (Miller)
+
+[The Pronunciation of English Words Derived from the Latin](https://books.google.com/books?id=PykcAQAAMAAJ) (Sargeaunt/Bradley)
 
 ## Wissenschaftsgeschichte
 [History of Classical Scholarship: A Biographical Dictionary](https://archive.org/details/isbn_9789004245938) (Brill)
