@@ -16,7 +16,7 @@ This page collects digital resources not already mentioned in Zeztel’s [biblio
 
 [The E. L. Mark system of citation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1834803/pdf/bmj00308-0078.pdf) (Chernin)
 
-## Palaeography
+## Typography
 [FAQ – Greek Language & Script](https://www.unicode.org/faq/greek.html#3) (Unicode Consortium)
 
 > Unicode allows circumflex on the first vowel of a diphthong, _eg_ U+03BFU+0313U+0342 ὀ͂, which makes it possible to reproduce early modern typography.
