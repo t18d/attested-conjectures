@@ -10,16 +10,20 @@ last_modified_at: 2024-08-10T12:43:00+00:00
 This page collects digital resources not already mentioned in Zeztel’s [bibliographical essay](https://t18d.github.io/attested-conjectures/zetzel).
 
 &nbsp;  
-[Commonest Abbreviations, Signs, etc. Used in the Apparatus to a Classical Text](https://github.com/t18d/attested-conjectures/raw/main/assets/Commonest_Abbreviations_Signs_etc_Used_in_the_Apparatus_to_a_Classical_Text.pdf) (Maurer-Scullion)
+[Commonest Abbreviations, Signs, etc. Used in the Apparatus to a Classical Text](https://github.com/t18d/attested-conjectures/raw/main/assets/Commonest_Abbreviations_Signs_etc_Used_in_the_Apparatus_to_a_Classical_Text.pdf) (Maurer/Scullion)
 
 [The Nomenclature of Manuscripts](https://archive.org/details/companiontoclass00halluoft/page/286/mode/1up) (Hall)
 
 [The E. L. Mark system of citation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1834803/pdf/bmj00308-0078.pdf) (Chernin)
 
-## Wissenschaftsgeschichte
-[The Firm of BG Teubner and its Connection with Classical Learning](https://www.jstor.org/stable/26307037) (_Arethusa_)
+## Latin in English
+[The 'zero genitive'](https://archive.org/details/comprehensivegra00quir/page/320/mode/1up) (Quirk et al.)
 
-> Die Loslösung des kritischen Apparates von den Texten war ein Mißstand, der sich aus dem ursprünglichen Plane des Unternehmens fast mit Notwendigkeit herausgebildet hatte: waren doch anfänglich nur Ausgaben für Schulzwecke vorgesehen, für die ein Apparat unter dem Texte entbehrlich erschien. (Norden)
+> one of the places where this older grammar shines
+
+[The Pronunciation of Greek and Latin Proper Names in English](https://www.jstor.org/stable/3290670) (Miller)
+
+[The Pronunciation of English Words Derived from the Latin](https://books.google.com/books?id=PykcAQAAMAAJ) (Sargeaunt/Bradley)
 
 ## Palaeography
 [FAQ – Greek Language & Script](https://www.unicode.org/faq/greek.html#3) (Unicode Consortium)
@@ -36,7 +40,7 @@ This page collects digital resources not already mentioned in Zeztel’s [biblio
 
 [Distinguishing æ and œ](https://www.pgdp.net/wiki/Æ_and_œ_ligatures#Distinguishing_the_ligatures) (DPWiki)
 
-## Moderns
+## Wissenschaftsgeschichte
 [History of Classical Scholarship: A Biographical Dictionary](https://archive.org/details/isbn_9789004245938) (Brill)
 
 [The Latinizations of the Modern Surname](https://github.com/t18d/attested-conjectures/raw/main/assets/The_Latinizations_of_the_modern_surname.pdf) (Bywater)
@@ -44,6 +48,10 @@ This page collects digital resources not already mentioned in Zeztel’s [biblio
 > Doesn’t cover full names, which are another story. See also [Des noms latins](https://t18d.github.io/attested-conjectures/des-noms-latins/).
 
 [Franciscus Modius als Handschriftenforscher](https://archive.org/details/franciscusmodius00lehm/) (Lehmann)
+
+[The Firm of BG Teubner and its Connection with Classical Learning](https://www.jstor.org/stable/26307037) (_Arethusa_)
+
+> Die Loslösung des kritischen Apparates von den Texten war ein Mißstand, der sich aus dem ursprünglichen Plane des Unternehmens fast mit Notwendigkeit herausgebildet hatte: waren doch anfänglich nur Ausgaben für Schulzwecke vorgesehen, für die ein Apparat unter dem Texte entbehrlich erschien. (Norden)
 
 [M. L. West and the British Philological Method](https://github.com/t18d/attested-conjectures/raw/main/assets/M_L_West_and_the_British_Philological_Me.pdf) (Nikolaev)
 
