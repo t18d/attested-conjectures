@@ -8,4 +8,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 incremental: true
-exclude: [/assets, greek.csv, latin.csv, biblical.csv, csv-to-md.py, csv_tools.py, txt-to-csv.py, xml-to-md.py, LICENSE]
+exclude: [greek.csv, latin.csv, biblical.csv, csv-to-md.py, csv_tools.py, txt-to-csv.py, xml-to-md.py, LICENSE]
+defaults:
+  -
+    scope:
+      path:            "assets/*.pdf"
+    values:
+      sitemap:         false
