@@ -368,7 +368,3 @@ C. Stray,  *Classics transformed: schools, universities, and society in England,
 S. Timpanaro,  *La Filologia di Giacomo Leopardi*  (ed. 3, 1997)
           
 P. Treves,  *Lo Studio dell’antichità classica nell’Ottocento*  (1962)
-</div>        
-      
-    
-  
