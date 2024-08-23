@@ -25,13 +25,16 @@ Janus de Gruytere (album amicorum)
 ## Holstenius
 Contemporary documents, in fact, support the spelling ‘Holstein’.… ‘Holste’ and ‘Holsten’ are therefore misguided back-formations from the Latin name. It may be added, incidentally, that the spelling ‘Lukas’ sometimes seen in German publications represents a modernisation foreign to Holstenius’s own usage. ([N. & Q.](https://doi.org/10.1093/notesj/gjae088))
 
+## Hotoman
+Hotoman, et non pas Hotman; c'est l'orthographe qu'il a toujours préférée. (Cougny)
+
 ## Korais
 Coray (without initial) is what he called himself in France. (Diggle)
 
 ## Lewenklaw
 Da Hans L&thinsp;e&thinsp;w&thinsp;e&thinsp;n&thinsp;k&thinsp;l&thinsp;a&thinsp;w erst in späteren Jahren sich dieser deutschen form in seinen Werken bediente, unbekümmert übrigens offensichtlich um die in Pommern, Mecklenburg und Schlesien sowie in Sachsen schon damals verbreiteten Träger eines gleichlautenden Adelsnamens, vorher aber ausnahmslos die lateinische Fassung L&thinsp;e&thinsp;o&thinsp;n&thinsp;c&thinsp;l&thinsp;a&thinsp;j&thinsp;u&thinsp;s und späterhin L&thinsp;e&thinsp;u&thinsp;n&thinsp;c&thinsp;l&thinsp;a&thinsp;v&thinsp;i&thinsp;u&thinsp;s wählte, erscheint es ausgemacht, daß er über eine schlichte Herkunft den Mantel der Vergessenheit zu breiten trachtete und in der vornehmen Umwelt, in der er damals sich fast ausschließlich bewegte, den Anschein adeliger Abstammung erwecken wollte. Daß ihm dies bei seinen Zeitgenossen und selbst bei seinem adeligen Umgang, aber auch bei späteren Geschlechtern gelang, beweist wohl der Umstand, daß hier zum ersten Male der Schleier über die unvornehme Abkunft Hans Lewenklaws gelüftet wird. Das Bestreben, vornehmtuerisch adeliges Geblüt vorzutäuschen, lag im Zuge jener Zeit, und man braucht aus der Gelehrtengeschichte nur den Fall des Josef-Justus Scaliger, seines Zeitgenossen und guten Bekannten, herauszugreifen, um dieses Gehabe mit einem besonders peinlichen Beispiel zu belegen. ([Babinger](https://www.lwl.org/westfaelische-geschichte/txt/wz-5703.pdf))
 
-## Peirescius
+## Peiresc
 “Nicolas-Claude Fabry de Callas”: this is how he signed his first three letters between 1602 and 1604 … in the postscript to the fourth … he asked Clusius to address his letters to “Sr. de Peirests, chez monsr. le conseiller de Callas.” … he signed the very next letter “N. C. Fabry,” and the next two letters … “N. C. de Peirets.” Only in the last preserved letter, dated 15 February 1606, do we find the now-familiar “Peiresc” scrawled at the bottom of the page. He explained to Clusius that his new name was the Provençal form of the old Latin: “Notre petit village de Peiresc s’appelle dans les vieux cadastres Latins Castrum de Petrisco.” (Peter N. Miller)
 
 ## Toup
