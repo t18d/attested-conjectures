@@ -114,12 +114,23 @@ jobs:
         uses: actions/upload-pages-artifact@v3
     
   # Deployment job
-  deploy:
+  deploy1:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: build
+    needs: build1
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  deploy2:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build2
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
