@@ -6,3 +6,5 @@ _site/
 .bundle/
 vendor/
 __pycache__/
+assets/
+!assets/css/
