@@ -17,27 +17,6 @@ jobs:
         with: 
           python-version: '3.10'
       - run: python csv-to-md.py
-      - uses: dorny/paths-filter@v3
-        id: filter
-        with:
-    # Enable listing of files matching each filter.
-    # Paths to files will be available in `${FILTER_NAME}_files` output variable.
-    # Paths will be escaped and space-delimited.
-    # Output is usable as command-line argument list in Linux shell
-          list-files: shell
-
-    # In this example changed files will be checked by linter.
-    # It doesn't make sense to lint deleted files.
-    # Therefore we specify we are only interested in added or modified files.
-          filters: |
-            markdown:
-              - added|modified: '*.md'
-
-      - name: Lint Markdown
-        if: ${{ steps.filter.outputs.markdown == 'true' }}
-        run: |
-          sed -i "0,/last_modified_at.*/s//last_modified_at: $(date -Iseconds)/" ${{ steps.filter.outputs.markdown_files }}
-
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
     # Optional. Commit message for the created commit.
