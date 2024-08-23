@@ -3,7 +3,7 @@ title: Des noms latins @ Database of Greek and Latin Conjectural Emendations Att
 permalink: des-noms-latins/
 seo:
   type: Collection
-last_modified_at: 2024-08-23
+last_modified_at: 2024-08-23 
 ---
 # Des noms latins
 
