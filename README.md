@@ -4184,7 +4184,7 @@ Zen. 4.80|-ω|Δακτύλων|André Schott|1612|Angel. et Marc. et Paris.|
 [Epich.] fr. 272|πειρ-|θηράσεται|Theodor Kock|1884|P.Petr. I 3(1)|CAF II p. 509
 [Hdn.] Philet. 210|κυν-|κινάραν|Nauck|1889|Q|
 [Hdn.] Π. ἡμαρτ. λέξ. 24|-αι/κατέδεσθαι|καταδέχεσθε|Meineke|1839–57|S|
-Amm. 14.1.3|conmis-|commisceri|Petrus Castellus|1517|Marc. 388 Bess. (W)|
+Amm. 14.1.3|conmis-|commisceri|Petrus Castellus|1517|Marc. 388 Bess. (W)| 
 Amm. 14.2.18|[...]terius|ulterius|Petrus Castellus|1517|D2|
 Amm. 14.5.8|-rup-|abrepto|Petrus Castellus|1517|T2|
 Amm. 14.6.11|-am|absentia|Henri de Valois|1636|T2|
