@@ -29,8 +29,9 @@ concurrency:
 
 jobs:
   # Build job
-  build:
+  build1:
     runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'push' }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -53,7 +54,7 @@ jobs:
       - name: Lint Markdown
         if: ${{ steps.filter.outputs.markdown == 'true' }}
         run: |
-          sed -i "0,/last_modified_at.*/s//last_modified_at: $(date -I)/" ${{ steps.filter.outputs.markdown_files }}
+          sed -i "0,/last_modified_at.*/s//last_modified_at: $(date -Iseconds)/" ${{ steps.filter.outputs.markdown_files }}
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
     # Optional. Commit message for the created commit.
@@ -70,6 +71,22 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
+  build2:
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'workflow_run' }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+    
   # Deployment job
   deploy:
     environment:
