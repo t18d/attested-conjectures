@@ -4,7 +4,7 @@ permalink: abbreviations/
 seo:
   type: Dataset
   name: Classical Abbreviations
-last_modified_at: 2024-08-08T12:24:43+00:00
+last_modified_at: 2024-08-23T13:51:00+00:00
 ---
 # Classical Abbreviations
 
