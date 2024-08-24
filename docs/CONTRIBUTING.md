@@ -3,7 +3,7 @@ title: Notes for Contributors @ Database of Greek and Latin Conjectural Emendati
 permalink: contributing/
 seo:
   type: HowTo
-last_modified_at: 2024-08-24T05:58:03+00:00
+last_modified_at: 2024-08-24T06:14:57+00:00
 ---
 # Notes for Contributors
 
