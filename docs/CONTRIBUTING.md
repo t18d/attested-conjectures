@@ -11,11 +11,21 @@ The only works that lie outside the scope of this database are Christian and oth
 
 If you are going to concentrate on a particular author, first have a look at open [issues](https://github.com/t18d/attested-conjectures/issues) to see if someone is already working on it.
 
-After editing a CSV file in your fork, open a pull request. In the **description** field, record the secondary source(s) where you _first_ learnt about the conjectures you are editing. Time permitting, check and record the original publication containing a conjecture. Add a link if it’s difficult to find.
+After editing a CSV file in your fork or [clone](#clone-the-repo), open a pull request. In the **description** field, record the secondary source(s) where you _first_ learnt about the conjectures you are editing. Time permitting, check and record the original publication containing a conjecture. Add a link if it’s difficult to find.
 
-Although the methodology adopted should be self-explanatory from perusing existing entries, the following notes provide more in-depth guidelines, arranged by column.
+The following notes provide more in-depth guidelines.
 
-## CSV formatting
+## Clone the repo
+If you prefer working from the command line, you can follow the steps below to keep the files you download to a minimum:
+
+```bash
+# Make sure you have git installed
+$ git clone --single-branch --filter=blob:none --sparse --depth=1
+$ cd HuangSupplement/
+$ git sparse-checkout set --no-cone '/*' '!/assets/*.webp' '!/assets/*.pdf'
+```
+
+## CSV syntax
 Enclose fields containing commas in double quotes. Escape a double quote inside such fields by a [preceding double quote](https://datatracker.ietf.org/doc/html/rfc4180#section-2).
 
 ## Ref.
