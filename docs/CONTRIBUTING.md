@@ -20,8 +20,8 @@ If you prefer working from the command line, you can follow the steps below to k
 
 ```bash
 # Make sure you have git installed
-$ git clone --single-branch --filter=blob:none --sparse --depth=1
-$ cd HuangSupplement/
+$ git clone --single-branch --filter=blob:none --sparse --depth=1 git@github.com:t18d/attested-conjectures.git
+$ cd attested-conjectures/
 $ git sparse-checkout set --no-cone '/*' '!/assets/*.webp' '!/assets/*.pdf'
 ```
 
