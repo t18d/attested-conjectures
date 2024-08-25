@@ -28,7 +28,7 @@ Contemporary documents, in fact, support the spelling ‘Holstein’.… ‘Hols
 ## Hotoman
 Hotoman, et non pas Hotman; c'est l'orthographe qu'il a toujours préférée. (Cougny)
 
-… Hotman, mon pere … ([Jean Hotman](https://dwc.knaw.nl/DL/publications/PU00009977.pdf))
+… du feu jurisconsulte Hotman, mon pere … ([Jean Hotman](https://dwc.knaw.nl/DL/publications/PU00009977.pdf))
 
 > Is de la Monnoye's theory that '[s]on vrai nom étoit <em><span class="sc">Hotman</span></em>, qu'il changea en <em><span class="sc">Hotoman</span></em> … on a toujours dit <em>Hotman</em>' anything more than a theory?
 
