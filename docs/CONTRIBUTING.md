@@ -24,6 +24,7 @@ $ git clone --single-branch --filter=blob:none --sparse --depth=1 git@github.com
 $ cd attested-conjectures/
 $ git sparse-checkout set --no-cone '/*' '!/assets/*.webp' '!/assets/*.pdf'
 ```
+See also our [Unix tools](https://t18d.github.io/tools/) page.
 
 ## CSV syntax
 Enclose fields containing commas in double quotes. Escape a double quote inside such fields by a [preceding double quote](https://datatracker.ietf.org/doc/html/rfc4180#section-2).
