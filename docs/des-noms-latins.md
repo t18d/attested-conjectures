@@ -25,7 +25,7 @@ Janus de Gruytere (album amicorum)
 ## Holstenius
 Contemporary documents, in fact, support the spelling ‘Holstein’.… ‘Holste’ and ‘Holsten’ are therefore misguided back-formations from the Latin name. It may be added, incidentally, that the spelling ‘Lukas’ sometimes seen in German publications represents a modernisation foreign to Holstenius’s own usage. ([N. & Q.](https://doi.org/10.1093/notesj/gjae088))
 
-## Hotoman
+## Hot(t)oman
 Hotoman, et non pas Hotman; c'est l'orthographe qu'il a toujours préférée. (Cougny)
 
 … du feu jurisconsulte Hotman, mon pere … ([Jean Hotman](https://dwc.knaw.nl/DL/publications/PU00009977.pdf))
