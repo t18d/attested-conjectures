@@ -5,6 +5,7 @@ seo:
   type: Dataset
   name: Classical Abbreviations
 last_modified_at: 2024-08-23T13:51:00+00:00
+layout: no-anchor
 ---
 # Classical Abbreviations
 
