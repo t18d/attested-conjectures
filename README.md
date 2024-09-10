@@ -10,12 +10,11 @@ layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
-<preface> <!-- for sake of completeness -->
 <br>
 <br>
 <br>
 <p>This database is searchable as three CSV files (<a href="https://github.com/t18d/attested-conjectures/blob/main/greek.csv">Greek</a>, <a href="https://github.com/t18d/attested-conjectures/blob/main/latin.csv">Latin</a>, <a href="https://github.com/t18d/attested-conjectures/blob/main/biblical.csv">OT/NT</a>). The quickest way to get an addition or correction merged is to fork the repo or <a href="https://t18d.github.io/attested-conjectures/contributing/#clone-the-repo">clone locally</a>, edit the CSV file and send in a pull request. Scope and formatting are explained in project <a href="https://github.com/t18d/attested-conjectures/wiki">Wiki</a>. For changes relating to NT conjectures, please notify the <a href="https://ntvmr.uni-muenster.de/nt-conjectures-attribution">upstream</a> as well.</p>
-&nbsp;  
+<br>
 <details>
     <summary>Bibliography</summary>
     <h3>Theory</h3>
@@ -315,14 +314,13 @@ layout: no-anchor
         <li>Young, Douglas (ed.), <em>Theognis, Ps.-Pythagoras, Ps.-Phocylides, Chares, anonymi aulodia, fragmentum teliambicum</em> (Stuttgart, 1971).</li>
     </ul>
 </details>
-
 <br>
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
-<!-- the following sequence of lines must not change - there must be  3 lines of preface (including the closing preface tag) below this , no more, no less.  -->
+<!-- The following sequence of lines must not change – there must be 3 lines of code (including the next comment) below this, no more, no less. -->
 <p>The top 10 critics are Reiske (276), Scaliger (237), Nicolaus Heinsius (213), Adamantios Korais (190), Bentley (169), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (95).</p>
-<br> <!-- this line can be edited without worry - anything in the line below will be preserved also -->
-</preface><!-- anything not in the table must be before this tag (which is meaningless in HTML but won't be rendered). -->
+<br>
+<!-- Anything not in the table must be before this comment. -->
 
 Ref.|Paradosis|Conjecture|Author|Year|Attested Place|Rem.
 ---|---|---|---|---|---|---
