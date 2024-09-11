@@ -15,7 +15,7 @@ layout: no-anchor
 <br>
 <p>This database is searchable as three CSV files (<a href="https://github.com/t18d/attested-conjectures/blob/main/greek.csv">Greek</a>, <a href="https://github.com/t18d/attested-conjectures/blob/main/latin.csv">Latin</a>, <a href="https://github.com/t18d/attested-conjectures/blob/main/biblical.csv">OT/NT</a>). The quickest way to get an addition or correction merged is to fork the repo or <a href="https://t18d.github.io/attested-conjectures/contributing/#clone-the-repo">clone locally</a>, edit the CSV file and send in a pull request. Scope and formatting are explained in project <a href="https://github.com/t18d/attested-conjectures/wiki">Wiki</a>. For changes relating to NT conjectures, please notify the <a href="https://ntvmr.uni-muenster.de/nt-conjectures-attribution">upstream</a> as well.</p>
 
-<details>
+<p><details>
     <summary>Bibliography</summary>
     <h3>Theory</h3>
     <ul>
@@ -313,7 +313,7 @@ layout: no-anchor
         <li>Xenophon Ephesius, <em>De Anthia et Habrocome Ephesiacorum libri V</em>, ed. James N. O'Sullivan (Munich, 2005).</li>
         <li>Young, Douglas (ed.), <em>Theognis, Ps.-Pythagoras, Ps.-Phocylides, Chares, anonymi aulodia, fragmentum teliambicum</em> (Stuttgart, 1971).</li>
     </ul>
-</details>
+</details></p>
 
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
