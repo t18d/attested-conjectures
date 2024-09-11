@@ -14,7 +14,7 @@ layout: no-anchor
 <br>
 <br>
 <p>This database is searchable as three CSV files (<a href="https://github.com/t18d/attested-conjectures/blob/main/greek.csv">Greek</a>, <a href="https://github.com/t18d/attested-conjectures/blob/main/latin.csv">Latin</a>, <a href="https://github.com/t18d/attested-conjectures/blob/main/biblical.csv">OT/NT</a>). The quickest way to get an addition or correction merged is to fork the repo or <a href="https://t18d.github.io/attested-conjectures/contributing/#clone-the-repo">clone locally</a>, edit the CSV file and send in a pull request. Scope and formatting are explained in project <a href="https://github.com/t18d/attested-conjectures/wiki">Wiki</a>. For changes relating to NT conjectures, please notify the <a href="https://ntvmr.uni-muenster.de/nt-conjectures-attribution">upstream</a> as well.</p>
-&nbsp;  
+
 <details>
     <summary>Bibliography</summary>
     <h3>Theory</h3>
@@ -314,7 +314,7 @@ layout: no-anchor
         <li>Young, Douglas (ed.), <em>Theognis, Ps.-Pythagoras, Ps.-Phocylides, Chares, anonymi aulodia, fragmentum teliambicum</em> (Stuttgart, 1971).</li>
     </ul>
 </details>
-<br>
+
 <p>See also James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- The following sequence of lines must not change – there must be 3 lines of code (including the next comment) below this, no more, no less. -->
