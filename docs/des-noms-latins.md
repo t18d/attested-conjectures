@@ -8,11 +8,11 @@ last_modified_at: 2024-08-30T03:34:02+00:00
 # Des noms latins
 
 I'ay souhaité souuent que ceux qui escriuent les histoires en Latin nous laissassent nos noms tous tels qu'ils sont: car, en faisant de Vaudemont, Vallemontanus, et les metamorphosant pour les garber à la Grecque ou à la Romaine, nous ne sçauons où nous en sommes et en perdons la connoissance.
-<p align="right">— <em>Essais</em> I 46</p>
+<p class="text-right">— <em>Essais</em> I 46</p>
 
 &nbsp;  
 In matters of genealogy it is necessary to give the bare names as they are; but in poetry, and in prose of any elegance in the writing, they require to have inflexion given to them.
-<p align="right">— Johnson</p>
+<p class="text-right">— Johnson</p>
 
 ## Conrad Gessner
 … we see a consistent pattern throughout Gessner's life of writing his and his family's name in German documents with a double s, and, after 1540, of signing and publishing his name in Latin with one s. ([Pyle](https://www.euppublishing.com/doi/abs/10.3366/anh.2000.27.2.175))
