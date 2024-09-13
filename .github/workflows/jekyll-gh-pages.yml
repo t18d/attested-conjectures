@@ -9,6 +9,7 @@ on:
       - '**.md'
       - '**.yml'
       - '**.scss'
+      - '**.css'
 
   workflow_run:
     workflows: ["Run csv-to-md.py"]
