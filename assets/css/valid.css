@@ -6350,7 +6350,6 @@ pre {
 
 .markdown-body code, .markdown-body tt {
     padding: 0.2em 0.4em;
-    max-width: auto;
     margin: 0;
     font-size: 85%;
     background-color: rgba(27, 31, 35, 0.05);
@@ -6399,6 +6398,7 @@ pre {
 
 .markdown-body pre code, .markdown-body pre tt {
     display: inline;
+    max-width: auto;
     padding: 0;
     margin: 0;
     overflow: visible;
