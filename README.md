@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2024-09-13T04:23:42+00:00
+last_modified_at: 2024-09-13T05:55:55+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS
@@ -916,7 +916,7 @@ Arist. Po. 1461a34–5|ὡδὶ ἢ ὡς|ὡδὶ ἢ ὡδί ὡς|Johannes Va
 Arist. Po. 1461b6–7|-λ-|κεφαλλῆνες|Thomas Tyrwhitt|1794|Paris. gr. 2038|
 Arist. Po. 1461b8|διαμάρτημα|δι’ ἁμάρτημα|Vincenzo Maggi|1550|Will. et Σ|
 Arist. Po. 1461b15–16|ὑπεναντία ὡς|ὑπεναντίως|Thomas Twining|1789|Σ|
-Arist. Po. 1461b21| ̓Ο. τοῦ Μ.| ̓Ορέστῃ τῇ τοῦ Μενελάου|Johannes Vahlen|1874|Σ|
+Arist. Po. 1461b21|Ὀ. τοῦ Μ.|Ὀρέστῃ τῇ τοῦ Μενελάου|Johannes Vahlen|1874|Σ|
 Arist. Po. 1462a3|om.|οἳ|Petrus Victorius|1560|Σ|
 Arist. Top. 121b|ἐπ' ἄ./εἰς ἄ|ὑπ' ἄλληλα|Theodor Waitz|1846|M2|p. 473; 'alterum sub altero' (Pacius)
 Arist. Top. 133a|ἢ οὗ τοὔνομα|ἢ τ.|Giorgio Colli|1955|Vat. gr. 244 (W)|
@@ -2290,7 +2290,7 @@ Phot. ν 209|ποίησον|ποιήσω|Cobet|1859|Sud. codd. GM|Mnem. 8 (1859)
 Phot. ο 21|-ύλε-|ὀγκύλλεσθαι|Schleusner|1812|Zavord. 95 (z)|Cur. nov. p. 266
 Phot. ο 119|δῆμος τῆς|δημότης|Adamantios Korais|s.xviii/xix|Epit. Harp. et Harp. pl.|Eἰς μνήμην  ̓Aμάντου p. 293
 Phot. ο 119|δῆμος τῆς|δημότης|Schleusner|1810|Epit. Harp. et Harp. pl.|Libell. p. 58
-Phot. ο 254| ̓Oλύμπιον| ̓Oλυμπιεῖον|Johann Alberti|1766|zpc|Hesych. Lex. vol. II p. 747, 7
+Phot. ο 254|Ὀλύμπιον|Ὀλυμπιεῖον|Johann Alberti|1766|zpc|Hesych. Lex. vol. II p. 747, 7
 Phot. ο 716|-φεῖν|ῥόφειν|L. Dindorf|1835|z et Eust.|ThGL. vol. V p. 2458C
 Phot. π 105|κινεῖ|κινεῖται|Dindorf|1835|Cyr. cod. A et Hsch. π 237|ThGL. vol. VI p. 106C
 Phot. π 192|παρὰ αὐλίδην|παραβλήδην|Adamantios Korais|s.xviii/xix|zpc et Sud. π 270|Eἰς μνήμην  ̓Aμάντου p. 294
@@ -3140,7 +3140,7 @@ Soph. Phil. 481|-η|ὅποι|Gilbert Wakefield|1794|KZo|
 Soph. Phil. 481|-η|ὅπου|Elmsley||Paris. suppl. gr. 109 (Q)|
 Soph. Phil. 496|πέμψαντα|πλεύσαντα|Frederick H. M. Blaydes|n.d.|Sγρ|
 Soph. Phil. 496|-οις|δόμους|Philipp Buttmann|1822|Paris. suppl. gr. 109 (Q)|p. 110
-Soph. Phil. 510| ̓Ατρείδας| ̓Ατρείδας ἔχθεις|Bergk|n.d.|Vat. gr. 2291 (R)|Hermann?
+Soph. Phil. 510|Ἀτρείδας|Ἀτρείδας ἔχθεις|Bergk|n.d.|Vat. gr. 2291 (R)|Hermann?
 Soph. Phil. 524|γέ μ ̓|γ ̓ ἔμ ̓|Brunck|1786|Urb. gr. 141 (S)|
 Soph. Phil. 588|μηδέν'|μηδὲν|Linwood|n.d.|Palat. gr. 287 (Zo)|
 Soph. Phil. 597|δράσειν|πράσσειν|J. H. Wright|n.d.|Paris. suppl. gr. 109 (Q)|
