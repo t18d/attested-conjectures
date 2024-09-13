@@ -8,7 +8,7 @@ locale: en_US
 permalink: zetzel/
 seo:
   type: ScholarlyArticle
-last_modified_at: 2024-09-13T12:12:01+00:00
+last_modified_at: 2024-09-13T12:15:38+00:00
 ---
 # Textual Criticism and the Transmission of Latin Texts
       
