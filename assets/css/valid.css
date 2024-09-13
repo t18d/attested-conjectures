@@ -6713,3 +6713,7 @@ pre {
 .sc {
     font-variant:small-caps
 }
+
+.indent {
+    padding-left:2em;
+}
