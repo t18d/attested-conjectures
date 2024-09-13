@@ -47,8 +47,8 @@ If it is attested in a different tradition, record it under the original author 
 Follow OCD’s abbreviations.
 
 ### Philo
-<img src="https://t18d.github.io/attested-conjectures/assets/290511383-00bd0375-06f1-4cae-b0f6-64188379966e.jpeg.webp" width="50%" />
-<img src="https://t18d.github.io/attested-conjectures/assets/290511838-72d71c5b-6d24-412f-8aa6-4dd9f9d927b3.jpeg.webp" width="50%" />
+![Philonic abbreviations, part 1](https://t18d.github.io/attested-conjectures/assets/290511383-00bd0375-06f1-4cae-b0f6-64188379966e.jpeg.webp)
+![Philonic abbreviations, part 2](https://t18d.github.io/attested-conjectures/assets/290511838-72d71c5b-6d24-412f-8aa6-4dd9f9d927b3.jpeg.webp)
 
 ### Single-letter abbreviations
 For authors with single-letter (grapheme) abbreviations in LSJ, use the abbreviations in [OCD](https://oxfordre.com/classics/page/3993) instead. Thus, **Soph.**, **Eur.**, **Aesch.**, **Thuc.**, **Dem.**, are preferable to **S.**, **E.**, **A.**, **Th.**, **D.**.
