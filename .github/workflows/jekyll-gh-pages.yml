@@ -73,7 +73,7 @@ jobs:
 
   build2:
     runs-on: ubuntu-latest
-    if: ${{ github.event_name == 'workflow_run' }}
+    if: ${{ github.event_name == ( 'workflow_run' || 'workflow_dispatch' ) }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
