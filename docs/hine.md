@@ -19,4 +19,4 @@ I guess these suggested factors will have different significance in the case of 
 \***
 
 I was focusing on manuscripts that are closer to the archetype but have only come to light in comparatively recent times; but there is another case, of later manuscripts that may be very remote from the archetype (where there is a single archetype, of course!) but which contain perceptive conjectures that have not come to the attention of earlier editors. I remember a colleague suggesting to me that I might look at the late Italian manuscripts of the NQ to see if any of them contained good conjectures; but I am afraid I never did it systematically – though today, with so many manuscripts available online, it would be easier to make a start than when I was working on the NQ manuscripts over 40 years ago.
-<p align="right">—Harry Hine</p>
+<p class="text-right">—Harry Hine</p>
