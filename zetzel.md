@@ -37,7 +37,7 @@ It is a lucid, readable, and accurate account of how ancient texts, both Greek a
           
 A critical apparatus is meant to explain to the reader what words in the text are preserved in what manuscripts (generally identified with capital Roman letters in modern editions) or groups of manuscripts (generally identified with lower-case Greek letters or occasionally lower-case Roman letters), and what words in the text are modern (broadly defined) corrections. The key to the codes used in the apparatus was set out by an international convention printed as:
           
- *Emploi des signes critiques, dispostion de l'apparat dans les éditions savantes de textes grecs et latins, conseils et recommandations*. Union Académique Internationale. Paris, 1932
+*Emploi des signes critiques, dispostion de l'apparat dans les éditions savantes de textes grecs et latins, conseils et recommandations*. Union Académique Internationale. Paris, 1932
           
 Like many international treaties, however, it is frequently ignored and the conventions for editing texts preserved in different media (manuscript, papyrus, inscription) remain quite different from one another. Not to mention the fact that these conventions are fairly recent, and any edition earlier than the 20th century is likely to convey information using a different code.
           
@@ -131,9 +131,8 @@ If you really want to learn textual criticism, read the work of good editors and
 R. Bentley, ed.,  *Q. Horatius Flaccus ex recensione & cum notis atque emendationibus Richardi Bentleii*  (1711)
           
 ———, ed.,  *P. Terenti Afri Comoediae*  (1727)
-<ul>
-*On Bentley, see now K. Haugen, <i>Richard Bentley: Poetry and Enlightenment</i> (Boston 2011)          
-</ul>
+
+<p class="indent">*On Bentley, see now K. Haugen, <i>Richard Bentley: Poetry and Enlightenment</i> (Boston 2011)</p>
 
 Giuseppe Billanovich, “Petrarch and the Textual Tradition of Livy”  *Journal of the Warburg and Courtauld Institutes*  14 (1951) 137-208
           
