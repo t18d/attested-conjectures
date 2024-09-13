@@ -153,18 +153,16 @@ H. C. Gotoff,  *The Transmission of the Text of Lucan in the Ninth Century*  (19
 A. E. Housman, ed.,  *M. Manilii Astronomicon liber primus[-quintus]*  (5 vols., 1903-1930)
           
 ———, ed.,  *M. Annaei Lucani Belli civilis libri decem*  (1926)
-<ul>          
-On Housman, see now D. Butterfield and C. Stray, eds.,  <i>A. E. Housman: Classical Scholar</i>  (2009) 
-</ul>
+
+<p class="indent">On Housman, see now D. Butterfield and C. Stray, eds.,  <i>A. E. Housman: Classical Scholar</i>  (2009)</p>
 
 O. Jahn, ed.,  *Auli Persii Flacci Satirarum Liber*  (1843)
           
 ———, “Ueber die Subscriptionen in den Hanschriften römischer Classiker,”  *Berichte d. sächs. Ges. Der Wiss. zu Leipzig*, Phil.-Hist. Klasse 3 (1851) 327-72
           
 K. Lachmann, ed.,  *T. Lucreti Cari De rerum natura libri sex*  (1851)
-<ul>          
-On Lachmann, see S. Timpanaro,  <i>The Genesis of Lachmann’s Method</i>, tr. G. Most (2005)
-</ul>
+
+<p class="indent">On Lachmann, see S. Timpanaro,  <i>The Genesis of Lachmann’s Method</i>, tr. G. Most (2005)</p>
 
 F. Leo, ed.  *L. Annaei Senecae Tragoediae*  (1878-79)
           
@@ -179,9 +177,8 @@ O. Ribbeck, ed.,  *P. Vergili Maronis opera. Vol 5: Prolegomena critica*  (1868)
 F. Ritschl, ed.,  *T. Macci Plauti Comoediae*  (1848-54)
           
 J. J. Scaliger,  *Catulli, Tibulli, Propertii nova editio*  (1577)
-<ul>          
-On Scaliger as a critic, see A. T. Grafton,  <i>Joseph Scaliger: A Study in the History of Classical Scholarship</i>  Vol. 1 (1983)
-</ul>
+
+<p class="indent">On Scaliger as a critic, see A. T. Grafton,  <i>Joseph Scaliger: A Study in the History of Classical Scholarship</i>  Vol. 1 (1983)</p>
 
 D. R. Shackleton Bailey, ed.,  *Cicero’s Letters to Atticus*  (7 vols., 1965-1970)
           
