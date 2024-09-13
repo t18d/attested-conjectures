@@ -8,15 +8,15 @@ last_modified_at: 2024-08-23T13:51:00+00:00
 # Extra‐stemmatic Readings
 
 Recentiores, non deteriores.
-<p align="right">—Pasquali</p>
+<p class="text-right">—Pasquali</p>
 
 &nbsp;  
 … if an authentic reading could survive once in this way in a single not very early copy, it might do so elsewhere. Clearly it will not do to ascribe any inherently plausible reading found only in late MSS to ‘conjecture’ without first considering when and under what circumstances the postulated emendator may reasonably be imagined to have worked – which is a historical question.
-<p align="right">—E. J. Kenney</p>
+<p class="text-right">—E. J. Kenney</p>
 
 &nbsp;  
 A propensity to emendation, so far from discrediting a manuscript, may be symptomatic of an interest in the text that also prompted the consultation of out-of-the-way copies.
-<p align="right">—M. L. West</p>
+<p class="text-right">—M. L. West</p>
 
 &nbsp;  
 ## Lucan.
