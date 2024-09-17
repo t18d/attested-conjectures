@@ -3,16 +3,16 @@ name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 
 on:
   # Runs on pushes targeting the default branch
-  push:
-    branches: ["main"]
-    paths:
-      - '**.md'
-      - '**.css'
-      - '**.html'
+  # push:
+    # branches: ["main"]
+    # paths:
+      # - '**.md'
+      # - '**.css'
+      # - '**.html'
 
-  workflow_run:
-    workflows: ["Run csv-to-md.py"]
-    types: [completed]
+  # workflow_run:
+    # workflows: ["Run csv-to-md.py"]
+    # types: [completed]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
