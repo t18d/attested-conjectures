@@ -4,9 +4,16 @@ author:
   name: TKB
   url: https://www.tonkunstler-on-the-bund.com
 locale: en_GB
+repository: t18d/attested-conjectures
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-github-metadata
+  - kramdown-parser-gfm
+  - jekyll-coffeescript                
+  - jekyll-relative-links                
+  - jekyll-readme-index                
+  - jekyll-default-layout
 incremental: true
 exclude: [greek.csv, latin.csv, biblical.csv, csv-to-md.py, csv_tools.py, txt-to-csv.py, xml-to-md.py, LICENSE]
 defaults:
