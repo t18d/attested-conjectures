@@ -58,7 +58,7 @@ layout: no-anchor
         <li>Arrianos, <em>Alexandrou anabasis</em>, i, ed. K. W. Krüger (Berlin, 1835).</li>
         <li>Arrianus, Flavius, <em>Alexandri anabasis, scripta minora et fragmenta</em>, ed. A. G. Roos, 2 vols (Leipzig, 1967–8).</li>
         <li>Asconius Pedianus, Q., <em>Orationum Ciceronis quinque enarratio</em>, ed. Albert Curtis Clark (Oxford, 1907).</li>
-        <li>Asztalos, Monika, Tor Ivar Østmoe, et al., <em><a href="http://www.tekstlab.uio.no/horace/">Repertory of Conjectures on Horace</a></em>, University of Oslo, accessed 9 Feb. 2024.</li>
+        <li>Asztalos, Monika, Tor Ivar Østmoe, et al., <a href="http://www.tekstlab.uio.no/horace/">Repertory of Conjectures on Horace</a>, University of Oslo, accessed 9 Feb. 2024.</li>
         <li>Athenaeus Naucratita, <em>Dipnosophistarum libri XV</em>, iii, ed. Georg Kaibel (Leipzig, 1887).</li>
         <li>Athenaeus, <em>Deipnosophistae</em>, ed. S. P. Peppink, 2 vols (Leiden, 1936–9).</li>
         <li>Ausonius, Decimus Magnus, <em>Burdigalensis opuscula</em>, ed. Rudolf Peiper (Leipzig, 1886).</li>
@@ -166,7 +166,7 @@ layout: no-anchor
         <li>Kayser, C. L. (ed.), <em>Flavii Philostrati quae supersunt, Philostrati Junioris Imagines, Callistrati Descriptiones</em> (Turin, 1844).</li>
         <li>Keller, Otto (ed.), <em>Rerum naturalium scriptores Graeci minores</em>, i (Leipzig, 1877).</li>
         <li>Kenyon, Frederic George, <em>The Evidence of Greek Papyri with Regard to Textual Criticism</em> (London, 1904).</li>
-        <li>Kiss, Dániel, <em><a href="http://www.catullusonline.org/">Catullus Online: An Online Repertory of Conjectures on Catullus</a></em>, accessed 13 Feb. 2024.</li>
+        <li>Kiss, Dániel, <a href="http://www.catullusonline.org/">Catullus Online: An Online Repertory of Conjectures on Catullus</a>, accessed 13 Feb. 2024.</li>
         <li>Krans, Jan, '<a href="https://ntvmr.uni-muenster.de/nt-conjectures-release">Release Notes</a>', The Amsterdam Database of New Testament Conjectural Emendation (updated quarterly), accessed periodically.</li>
         <li>Krans-Plaisier, Jan, '<a href="http://vuntblog.blogspot.com/2023/12/amsterdam-database-conjectures-with.html">Amsterdam Database: Conjectures with Attestation</a>', the Amsterdam NT Weblog (2 Dec. 2023), accessed 14 Dec. 2023.</li>
         <li>La Penna, Antonio, and Rodolfo Funari (eds), <em>C. Sallusti Crispi Historiae</em>, i: <em>Fragmenta 1.1–146</em> (Berlin, 2015).</li>
