@@ -41,6 +41,8 @@ Da Hans L&thinsp;e&thinsp;w&thinsp;e&thinsp;n&thinsp;k&thinsp;l&thinsp;a&thinsp;
 ## Peiresc
 “Nicolas-Claude Fabry de Callas”: this is how he signed his first three letters between 1602 and 1604 … in the postscript to the fourth … he asked Clusius to address his letters to “Sr. de Peirests, chez monsr. le conseiller de Callas.” … he signed the very next letter “N. C. Fabry,” and the next two letters … “N. C. de Peirets.” Only in the last preserved letter, dated 15 February 1606, do we find the now-familiar “Peiresc” scrawled at the bottom of the page. He explained to Clusius that his new name was the Provençal form of the old Latin: “Notre petit village de Peiresc s’appelle dans les vieux cadastres Latins Castrum de Petrisco.” (Peter N. Miller)
 
+Why is _Peireskius_, or any man else, to be abused for an appetite for that, or any other morsel of sound knowledge? (Sterne)
+
 ## Toup
 'It is remarkable, that though his name was Jonathan, in his later writings [for instance, in the title-page and dedication of his edition of Longinus] he always calls himself in Latin Joannes Toupius. In some of the books he had when young, he has written E Libris Jona. Toup.' — Gentleman's Magazine, March, 1785, p. 186. Before he became bold enough to write Joannes Toupius at length, he called himself in Latin Jo. Topius. He adopts this contraction in his Emendationes in Suidam, and he is called Jo. Toupius by Dr. Burney, who writes at full length the names of the other six 'Magnanimi Heroës.' The old controversy respecting Consul Tertium and Consul Tertio was decided in the same manner. A. Gellius, L. X, cap. 1. (Elmsley)
 
