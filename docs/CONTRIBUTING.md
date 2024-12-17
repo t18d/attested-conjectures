@@ -1,11 +1,11 @@
 ---
-title: Notes for Contributors @ Database of Greek and Latin Conjectural Emendations Attested in MSS
+title: Notes to Contributors @ Database of Greek and Latin Conjectural Emendations Attested in MSS
 permalink: contributing/
 seo:
   type: HowTo
 last_modified_at: 2024-09-13T11:48:46+00:00
 ---
-# Notes for Contributors
+# Notes to Contributors
 
 The only works that lie outside the scope of this database are Christian and other sectarian writings. The two testaments are included, however, on account of their interest for textual criticism.
 
