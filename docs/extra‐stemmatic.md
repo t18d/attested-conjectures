@@ -3,6 +3,7 @@ title: Extra‐stemmatic Readings @ Database of Greek and Latin Conjectural Emen
 permalink: extra-stemmatic/
 seo:
   type: Collection
+  name: Extra‐stemmatic Readings
 last_modified_at: 2024-12-28T14:26:49+00:00
 description: Recentiores, non deteriores
 ---
