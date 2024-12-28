@@ -1,5 +1,6 @@
 ---
 title: Des noms latins @ Database of Greek and Latin Conjectural Emendations Attested in MSS
+description: A gap in classical training
 permalink: des-noms-latins/
 seo:
   type: Collection
