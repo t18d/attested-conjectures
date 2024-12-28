@@ -3,7 +3,9 @@ title: Tools of the Trade @ Database of Greek and Latin Conjectural Emendations 
 permalink: tools/
 seo:
   type: Collection
+  name: Tools of the Trade
 last_modified_at: 2024-08-23T13:51:00+00:00
+description: Digital resources for philologists
 ---
 # Tools of the Trade
 
