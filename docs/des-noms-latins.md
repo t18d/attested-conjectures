@@ -4,6 +4,7 @@ description: A gap in classical training
 permalink: des-noms-latins/
 seo:
   type: Collection
+  name: Des noms latins
 last_modified_at: 2024-12-28T14:24:06+00:00
 ---
 # Des noms latins
