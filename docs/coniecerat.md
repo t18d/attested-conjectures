@@ -1,9 +1,10 @@
 ---
 title: Coniecerat, sicut coni., suo Marte @ Database of Greek and Latin Conjectural Emendations Attested in MSS
+description: Terminology for attested conjectures
 permalink: coniecerat/
 seo:
   type: Dataset
-  name: Terminology for Attested Conjectures
+  name: Coniecerat, sicut coni., suo Marte
 last_modified_at: 2024-09-02T09:13:06+00:00
 layout: no-anchor
 ---
