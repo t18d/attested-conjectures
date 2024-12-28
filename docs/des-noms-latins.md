@@ -5,7 +5,7 @@ permalink: des-noms-latins/
 seo:
   type: Collection
   name: Des noms latins
-last_modified_at: 2024-12-28T14:24:06+00:00
+last_modified_at: 2024-12-28T14:25:04+00:00
 ---
 # Des noms latins
 
