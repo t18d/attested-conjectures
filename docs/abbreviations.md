@@ -1,5 +1,6 @@
 ---
 title: Classical Abbreviations @ Database of Greek and Latin Conjectural Emendations Attested in MSS
+description: A supplement to Lindsay-Bains, Cappelli, and Wellington
 permalink: abbreviations/
 seo:
   type: Dataset
