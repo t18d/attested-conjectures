@@ -4,6 +4,7 @@ permalink: extra-stemmatic/
 seo:
   type: Collection
 last_modified_at: 2024-08-23T13:51:00+00:00
+description: Recentiores, non deteriores
 ---
 # Extra‐stemmatic Readings
 
