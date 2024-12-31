@@ -86,7 +86,7 @@ Kaibel, Wilamowitz and early editions
 [The Manuscripts of Asconius and Pseudo-Asconius](https://www.jstor.org/stable/10.7834/phoenix.71.3-4.0321) (Welsh)
 
 ## Ath.
-[Casaubon-Kaibel synoptic Athenaeus](https://www.digitalathenaeus.org/tools/Casaubon-Kaibel_converter/)
+[Casaubon–Kaibel synoptic Athenaeus](https://www.digitalathenaeus.org/tools/Casaubon-Kaibel_converter/)
 
 ## Cic.
 [Variarum lectionum liber ad Ciceronis orationes pertinens](https://catalog.hathitrust.org/Record/009786878) (Rau)
