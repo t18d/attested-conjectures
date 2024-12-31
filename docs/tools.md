@@ -4,7 +4,7 @@ permalink: tools/
 seo:
   type: Collection
   name: Tools of the Trade
-last_modified_at: 2024-12-31T05:25:17+00:00
+last_modified_at: 2024-12-31T09:38:51+00:00
 description: Digital resources for philologists
 ---
 # Tools of the Trade
