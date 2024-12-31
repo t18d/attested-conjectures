@@ -59,7 +59,7 @@ layout: no-anchor
 **_sigla_ et _critic_:** Vian, Dilts (ambiguous)
 
 > **_sigla_ (et _critic_):** Fedeli  
-**_sigla_ and _critic_:** De Lacy-Einarson
+**_sigla_ and _critic_:** De Lacy–Einarson
 
 **_sigla_ (coni. _critic_):** Cohn, Wendland, Seel, Hohl, Mayhoff, Tarrant, Dorandi
 
@@ -93,7 +93,7 @@ layout: no-anchor
 
 > **iam coni. _critic_:** Brunschwig  
 **iam _sigla_:** Rodgers  
-**iam cod(d). _sigla_:** Billerbeck-Somazzi
+**iam cod(d). _sigla_:** Billerbeck–Somazzi
 
 **so _critic_:** P.Oxy.
 
