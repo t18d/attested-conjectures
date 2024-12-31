@@ -10,8 +10,9 @@ layout: no-anchor
 ---
 # Coniecerat, sicut coni., suo Marte
 
-This page keeps track of the terminology that editors use to indicate an attested conjecture. Those marked as ‘ambiguous’ employ the same method to record the fact that a critic supports a transmitted reading.
+<p align="right">This page keeps track of the terminology that editors <br>use to indicate an attested conjecture. Editors marked <br>as ‘ambiguous’ employ the same method to record <br>the fact that a critic supports a transmitted reading.</p>
 
+&nbsp;  
 &nbsp;  
 **coniecera(n)t _critic_:** Bücheler, Boissevain (also **ut coni.**), Burnet, Hense (also **ut coniecit**), P. Thomas, Diès, Dodds, Bluck,  Pfeiffer, Chantraine, Lannoy, Legrand, Malcovati, Alberti, van den Hout, Carey, West (Hom.), Theodoridis, Conte
 
