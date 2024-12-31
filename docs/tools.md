@@ -9,8 +9,9 @@ description: Digital resources for philologists
 ---
 # Tools of the Trade
 
-This page collects digital resources not already mentioned in Zeztel’s [bibliographical essay](https://t18d.github.io/attested-conjectures/zetzel).
+<p align="right">This page collects digital resources <br>not already mentioned in Zeztel’s <br><a href="https://t18d.github.io/attested-conjectures/zetzel">bibliographical essay</a>.</p>
 
+&nbsp;  
 &nbsp;  
 [Commonest Abbreviations, Signs, etc. Used in the Apparatus to a Classical Text](https://github.com/t18d/attested-conjectures/raw/main/assets/Commonest_Abbreviations_Signs_etc_Used_in_the_Apparatus_to_a_Classical_Text.pdf) (Maurer/Scullion)
 
