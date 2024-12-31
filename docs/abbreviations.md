@@ -10,7 +10,7 @@ layout: no-anchor
 ---
 # Classical Abbreviations
 
-<p align="right">This page is an attempt to fill the yawning <br>gap from the invention of printing until <br>the professionalisation of scholarship – <br>i.e., the period between those covered by <br>Lindsay-Bains and Cappelli on the one <br>side and J.&VeryThinSpace;S. Wellington, classical <br>librarian at Cincinnati, on the other.</p>
+<p align="right">This page is an attempt to fill the yawning <br>gap from the invention of printing until <br>the professionalisation of scholarship – <br>i.e., the period between those covered by <br>Lindsay–Bains and Cappelli on the one <br>side and J.&VeryThinSpace;S. Wellington, classical <br>librarian at Cincinnati, on the other.</p>
 
 &nbsp;  
 &nbsp;  
