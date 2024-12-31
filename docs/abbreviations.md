@@ -10,9 +10,11 @@ layout: no-anchor
 ---
 # Classical Abbreviations
 
-This page is an attempt to fill the yawning gap from the invention of printing until the professionalisation of scholarship – i.e., the period between those covered by Lindsay-Bains and Cappelli on the one side and J. S. Wellington, classical librarian at Cincinnati, on the other.
+<p align="right">This page is an attempt to fill the yawning <br>gap from the invention of printing until <br>the professionalisation of scholarship – <br>i.e., the period between those covered by <br>Lindsay-Bains and Cappelli on the one <br>side and J.&VeryThinSpace;S. Wellington, classical <br>librarian at Cincinnati, on the other.</p>
 
-Of abbreviations seen in the critical apparatus, only those not already covered by the [_Emploi_](https://archive.org/details/emploi-des-signes-critiques-j.-bidez-et-a.-b.-drachmann/page/n35/mode/1up), [Maurer-Scullion](https://github.com/t18d/attested-conjectures/raw/main/assets/Commonest_Abbreviations_Signs_etc_Used_in_the_Apparatus_to_a_Classical_Text.pdf) or [Dickey](https://books.google.com/books?id=6GESDAAAQBAJ&lpg=PA135&ots=iWwbx9vh_D&pg=PA135#v=onepage&q&f=false) are included.
+&nbsp;  
+&nbsp;  
+† Of abbreviations seen in the critical apparatus, only those not already covered by the [_Emploi_](https://archive.org/details/emploi-des-signes-critiques-j.-bidez-et-a.-b.-drachmann/page/n35/mode/1up), [Maurer-Scullion](https://github.com/t18d/attested-conjectures/raw/main/assets/Commonest_Abbreviations_Signs_etc_Used_in_the_Apparatus_to_a_Classical_Text.pdf) or [Dickey](https://books.google.com/books?id=6GESDAAAQBAJ&lpg=PA135&ots=iWwbx9vh_D&pg=PA135#v=onepage&q&f=false) are included.
 
 &nbsp;  
 **\*** _in app. apud Bernardakis_ — scripsi
