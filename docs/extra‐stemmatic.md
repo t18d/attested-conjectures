@@ -22,6 +22,7 @@ description: Recentiores, non deteriores
 <br><br><strong>—M.&VeryThinSpace;L. West</strong></p>
 
 &nbsp;  
+&nbsp;  
 ## Lucan.
 _The Transmission of the Text of Lucan in the Ninth Century_ (Gotoff)
 
