@@ -9,16 +9,17 @@ description: Recentiores, non deteriores
 ---
 # Extra‐stemmatic Readings
 
-Recentiores, non deteriores.
-<p class="text-right">—Pasquali</p>
+<p align="right">Recentiores, non deteriores.
+<br>
+<br><strong>—Pasquali</strong></p>
 
 &nbsp;  
-… if an authentic reading could survive once in this way in a single not very early copy, it might do so elsewhere. Clearly it will not do to ascribe any inherently plausible reading found only in late MSS to ‘conjecture’ without first considering when and under what circumstances the postulated emendator may reasonably be imagined to have worked – which is a historical question.
-<p class="text-right">—E. J. Kenney</p>
+<p align="right">… if an authentic reading could survive once in this way <br>in a single not very early copy, it might do so elsewhere.<br> Clearly it will not do to ascribe any inherently plausible <br>reading found only in late MSS to ‘conjecture’ without <br>first considering when and under what circumstances <br>the postulated emendator may reasonably be imagined <br>to have worked – which is a historical question.
+<br><br><strong>—E.&VeryThinSpace;J. Kenney</strong></p>
 
 &nbsp;  
-A propensity to emendation, so far from discrediting a manuscript, may be symptomatic of an interest in the text that also prompted the consultation of out-of-the-way copies.
-<p class="text-right">—M. L. West</p>
+<p align="right">A propensity to emendation, so far from <br>discrediting a manuscript, may be <br>symptomatic of an interest in the text <br>that also prompted the consultation <br>of out-of-the-way copies.
+<br><br><strong>—M.&VeryThinSpace;L. West</strong></p>
 
 &nbsp;  
 ## Lucan.
