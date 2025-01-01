@@ -17,9 +17,9 @@ description: Digital resources for philologists
 
 [The Nomenclature of Manuscripts](https://archive.org/details/companiontoclass00halluoft/page/286/mode/1up) (Hall)
 
-[The E. L. Mark, aka author–date, system of citation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1834803/pdf/bmj00308-0078.pdf) (Chernin)
+[The E. L. Mark system of citation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1834803/pdf/bmj00308-0078.pdf) (Chernin)
 
-> really the only option when the use of notes is out of the question
+> aka author–date, the only option when the use of notes is out of the question
 
 ## Typography
 [FAQ – Greek Language & Script](https://www.unicode.org/faq/greek.html#3) (Unicode Consortium)
