@@ -9,7 +9,7 @@ description: Digital resources for philologists
 ---
 # Tools of the Trade
 
-<p align="right">This page collects digital resources <br>not already mentioned in Zeztel’s <br><a href="https://t18d.github.io/attested-conjectures/zetzel">bibliographical essay</a>.</p>
+<p align="right"><em>This page collects lesser-known digital <br>resources for classical philology <br>not mentioned in Zeztel’s <br><a href="https://t18d.github.io/attested-conjectures/zetzel">bibliographical essay</a></em></p>
 
 &nbsp;  
 &nbsp;  
@@ -57,6 +57,8 @@ description: Digital resources for philologists
 [The Firm of BG Teubner and its Connection with Classical Learning](https://www.jstor.org/stable/26307037) (_Arethusa_)
 
 > Die Loslösung des kritischen Apparates von den Texten war ein Mißstand, der sich aus dem ursprünglichen Plane des Unternehmens fast mit Notwendigkeit herausgebildet hatte: waren doch anfänglich nur Ausgaben für Schulzwecke vorgesehen, für die ein Apparat unter dem Texte entbehrlich erschien. (Norden)
+
+[Professor Key and Doctor Wagner: An Episode in the History of Victorian Scholarship](https://blogs.exeter.ac.uk/pegasus/files/2013/06/12-1969.pdf) (Glucker)
 
 [M. L. West and the British Philological Method](https://github.com/t18d/attested-conjectures/raw/main/assets/M_L_West_and_the_British_Philological_Me.pdf) (Nikolaev)
 
