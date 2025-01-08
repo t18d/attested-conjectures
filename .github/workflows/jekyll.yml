@@ -42,6 +42,15 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          # Do a sparse checkout on given patterns. Each pattern should be separated with
+          # new lines.
+          # Default: null
+          sparse-checkout: |
+            _includes/
+            _layouts/
+            docs/
+            assets/css/
       - uses: dorny/paths-filter@v3
         id: filter
         with:
@@ -96,6 +105,15 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          # Do a sparse checkout on given patterns. Each pattern should be separated with
+          # new lines.
+          # Default: null
+          sparse-checkout: |
+            _includes/
+            _layouts/
+            docs/
+            assets/css/
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
