@@ -5,7 +5,7 @@ seo:
   type: Collection
   name: Tools of the Trade
 last_modified_at: 2025-01-08T05:30:58+00:00
-description: Digital resources for philologists
+description: Lesser-known resources for classical philologists
 ---
 # Tools of the Trade
 
