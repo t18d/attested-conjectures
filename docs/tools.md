@@ -9,7 +9,7 @@ description: Lesser-known resources for classical philologists
 ---
 # Tools of the Trade
 
-<p align="right">This page collects lesser-known digital <br>resources for classical philology <br>not mentioned in Zeztel’s <br><a href="https://t18d.github.io/attested-conjectures/zetzel">bibliographical essay</a></p>
+<p align="right">This page collects lesser-known <br>digital resources for classical <br>philology not mentioned in <br>Zeztel’s <a href="https://t18d.github.io/attested-conjectures/zetzel">bibliographical essay</a></p>
 
 &nbsp;  
 &nbsp;  
