@@ -7,6 +7,10 @@ last_modified_at: 2025-01-08T13:26:58+00:00
 ---
 # Notes to Contributors
 
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 The only works that lie outside the scope of this database are Christian and other sectarian writings. The two testaments are included, however, on account of their interest for textual criticism.
 
 If you are going to concentrate on a particular author, first have a look at open [issues](https://github.com/t18d/attested-conjectures/issues) to see if someone is already working on it.
