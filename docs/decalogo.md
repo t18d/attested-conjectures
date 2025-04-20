@@ -7,7 +7,7 @@ author:
 permalink: decalogo/
 seo:
   type: ScholarlyArticle
-last_modified_at:
+last_modified_at: 2025-04-20T06:18:25+00:00
 layout: no-anchor
 ---
 # Pasquali's Twelve Commandments
