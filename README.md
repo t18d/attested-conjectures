@@ -55,6 +55,7 @@ layout: no-anchor
         <li>Aristoteles, <em>Privatorum scriptorum fragmenta</em>, ed. Marian Plezia (Leipzig, 1977).</li>
         <li>Aristoteles, <em>Ethica Eudemia</em>, ed. R. R. Waltzer and J. Μ. Mingay (Oxford, 1991).</li>
         <li>Aristotle, <em>Poetics</em>, ed. Leonardo Tarán and Dimitri Gutas (Leiden, 2012).</li>
+        <li>Aristotle, <em>De Motu Animalium</em>, ed. Oliver Primavesi (Oxford, 2023).</li>
         <li>Arrianos, <em>Alexandrou anabasis</em>, i, ed. K. W. Krüger (Berlin, 1835).</li>
         <li>Arrianus, Flavius, <em>Alexandri anabasis, scripta minora et fragmenta</em>, ed. A. G. Roos, 2 vols (Leipzig, 1967–8).</li>
         <li>Asconius Pedianus, Q., <em>Orationum Ciceronis quinque enarratio</em>, ed. Albert Curtis Clark (Oxford, 1907).</li>
