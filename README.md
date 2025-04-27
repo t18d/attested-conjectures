@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-04-27T13:15:40+00:00
+last_modified_at: 2025-04-27T13:26:22+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS
@@ -889,7 +889,7 @@ Arist. EE 1249b15|-ῶς|ἐπιτακτικὸς|Herbert Richards|1915|Monac. g
 Arist. MA 700a26|αὐτὸ α.|αὐτῶ αὑτὸ|Werner Jaeger|1913|λ(XHaLVg) ba.c.|
 Arist. MA 700b32|τὰ μ.|τὸ μὲν|A. S. L. Farquharson|1912|β(BeErb Γ2[hoc quidem GR″]) Za|
 Arist. MA 702a18|διὰ τὸ|δ. τὸ τὸ|Hermann Bonitz|1866|θ(NXHaLVg)|
-Arist. MA 702b19||καὶ τὰς|Edward S. Forster|1937|Vat. gr. 258 (N)|
+Arist. MA 702b19|πρὸς τ.|καὶ τὰς|E. S. Forster|1937|Vat. gr. 258 (N)|
 Arist. MA 703a22|-βίαστος|ἀβιάστως|A. S. L. Farquharson|1912|Berol. Phillips 1507 (Bp)|
 Arist. Mech. 849b18|ἠνέχθη|ἣν ἠν.|Niccolò Leoniceno||Paris. gr. 2115 (A)|
 Arist. Metaph. 1060b14|δ᾽/γὰρ|γ᾽|Hermann Bonitz|1848|Vindob. phil. gr. 100 (J)|s.l.
