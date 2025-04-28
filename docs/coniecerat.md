@@ -43,7 +43,7 @@ layout: no-anchor
 
 **idem coni. _critic_:** Keller, Maslowski (95, 03)
 
-**postea coni. _critic_:** Giardina
+**postea coni. _critic_:** Giardina, Tarrant (Sen. Ag.)
 
 **_sigla_, ita coni. _critic_:** Giomini
 
