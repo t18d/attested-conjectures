@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-04-27T13:30:35+00:00
+last_modified_at: 2025-04-28T07:21:45+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS
@@ -268,6 +268,7 @@ layout: no-anchor
         <li>Seneca, L. Annaeus, <em>Divi Claudii Apotheosis per saturam quae Apocolocyntosis vulgo dicitur</em>, ed. Otto Rossbach (Bonn, 1926).</li>
         <li>Sénèque, <em>Dialogues</em>, ii, ed. A. Bourgery (Paris, 1923).</li>
         <li>Sénèque, <em>Lettres à Lucilius</em>, iv, ed. François Préchac (Paris, 1962).</li>
+        <li>Seneca, <em>Agamemnon</em>, ed. R. J. Tarrant (Cambridge, 1976).</li>
         <li>Seneca, Lucio Anneo, <em>Tragedie</em>, ed. Giancarlo Giardina (Turin, 1987).</li>
         <li>Seneca, L. Annaeus, <em>Naturalium quaestionum libri</em>, ed. Harry M. Hine (Stuttgart, 1996).</li>
         <li>Sextus Empiricus, <em>Opera</em>, ed. Hermann Mutschmann and J. Mau, 3 vols (Leipzig, 1912–61).</li>
@@ -319,7 +320,7 @@ layout: no-anchor
 <p>See also Pasquali’s <a href="https://t18d.github.io/attested-conjectures/decalogo/">Twelve Commandments</a> and James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel/">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- The following sequence of lines must not change – there must be 3 lines of code (including the next comment) below this, no more, no less. -->
-<p>The top 10 critics are Reiske (276), Scaliger (237), Nicolaus Heinsius (213), Adamantios Korais (190), Bentley (169), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (95).</p>
+<p>The top 10 critics are Reiske (276), Scaliger (237), Nicolaus Heinsius (214), Adamantios Korais (190), Bentley (171), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (95).</p>
 <br>
 <!-- Anything not in the table must be before this comment. -->
 
@@ -6061,10 +6062,27 @@ Scrib. Larg. 201|actum|factum|Johannes Rhodius|1655|Casin. 69 (Ca)|
 Scrib. Larg. 206|-ibus|fronti|Johannes Rhodius|1655|Casin. 69 (Ca)|
 Scrib. Larg. 260|-am/-um|liquefacta|C. Lausdei|pre-2020|Casin. 69 (Ca)|
 Scrib. Larg. praef. 7|quae|qua|Johannes Rhodius|1655|Tolet. 98.12 (T)|
-Sen. Ag. 127|tu-|timido|Bentley|1882|cod. Orator. (O)|
-Sen. Ag. 258|-a/-i|maritam|Nicolaus Heinsius|1742|Laur. 37.3|
+Sen. Ag. 99|plac-|patet|Gustav Richter|1902|Ox.1 q For Leid.1 Bo F1 L1|
+Sen. Ag. 127|tu-|timido|Bentley|1882|Neap. Orat. CF 4.5 (O)|
+Sen. Ag. 176|ten-|renuit|Bentley|1882|Riccard. 527 (F7)|
+Sen. Ag. 252|efferunt|-ant|Franz Bücheler|1879|a Bo F2 Exc. Par.|apud Leo
+Sen. Ag. 258|-a/-i|maritam|Nicolaus Heinsius|1742|Laur. 37.3 (F2)|
+Sen. Ag. 262|-am|captas|F. H. Bothe|1819|Treuet Harlmg recc.|
 Sen. Ag. 264|in t.|toro|Girolamo Avanzi|1517|Ambros. D 276 inf. (M)|
+Sen. Ag. 280|fit|sit|Theodor Düring|a1918|Treuet l F4sec. Ox.2 Ox.3 Leid.2|apud Goting. MS 4° Philol. 142n; cf. de Harsy (1589)
+Sen. Ag. 290|-et|nubam|Grotius|a1645|Sal Leid.2 R1 R7|
+Sen. Ag. 355|reg-|geris|Bentley|1882|Ambros. H.77 inf. (M1)|
+Sen. Ag. 481|fit|flat|Leo|1878|'AE'|
+Sen. Ag. 500|-e|mari|Gronovius|1661|Monac. 5343|
+Sen. Ag. 529|aut|haut|Michael Müller|1898|MN recc.|
+Sen. Ag. 538|-is|aiacem|Giovanni Pontano|1490|l Cant M4 V1 Vi.2 F3|Scriverius confused him with Johannes Isacius (1571–1639)
+Sen. Ag. 545|n. (se) p.|nunc me pelagus|Remus Giomini|1956|Marc. xii.26 (V1)|
+Sen. Ag. 648|Hecub-|Hecabe|F. H. Bothe|1819|F lmg|
+Sen. Ag. 725|-o|agor|Nicolaus Heinsius|1742|'AE' Q2pc|
+Sen. Ag. 864|-iae|Dardani|Rudolf Peiper|1867|KQ 'AE' F4 R1|
+Sen. Ag. 864|-iae|Dardanidae|Leo|1878|Cantab. Bibl. Vniu. Nn. II.35 (Cant)|
 Sen. Ag. 915|times|metus|Lipsius|1621|Ambros. D 276 inf. (M)|apud Scriverium
+Sen. Ag. 973|uol-|libens|G. C. Giardina|1966|F1 R7|
 Sen. Herc. O. 145|feracas pias/fera caseta|fera Caspia|Jodocus Badius|1514|Bodl. Canon. Class. Lat. 93 (Ox.)|
 Sen. Herc. O. 542|-it|quatis|F. H. Bothe|1819|Eton. 110 (e)|
 Sen. Herc. O. 819|iussa|visa|Girolamo Avanzi|1517|cod. Orator. (O)|
