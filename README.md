@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-04-28T07:27:15+00:00
+last_modified_at: 2025-04-30T13:43:05+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS
@@ -134,6 +134,7 @@ layout: no-anchor
         <li>Gallavotti, Carlo (ed.), <em>Theocritus quique feruntur bucolici Graeci</em> (Rome, 1993).</li>
         <li>Galletier, Édouard, <em>Panégyriques latins</em>, 3 vols (Paris, 1949–55).</li>
         <li>Gellius, A., <em>Noctium Atticarum libri XX</em>, ed. Martin Hertz (Berlin, 1883–5).</li>
+        <li>Gellius, Aulus, <em>Noctes Atticae</em>, ed. Leofranc Holford-Strevens (Oxford, 2020).</li>
         <li>Gerber, Douglas E. '<a href="https://doi.org/10.5169/seals-660688">Emendations in the Odes of Pindar: An Historical Analysis</a>', <em>Entretiens Hardt</em>, 31 (1984), 1–25.</li>
         <li>Grenfell, B. P., 'The Value of Papyri for the Textual Criticism of Extant Greek Authors', <em>The Journal of Hellenic Studies</em>, 39 (1919), 16–36.</li>
         <li>Håkanson, Lennart (ed.), <em>Declamationes XIX maiores Quintiliano falso ascriptae</em> (Stuttgart, 1982).</li>
@@ -320,7 +321,7 @@ layout: no-anchor
 <p>See also Pasquali’s <a href="https://t18d.github.io/attested-conjectures/decalogo/">Twelve Commandments</a> and James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel/">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- The following sequence of lines must not change – there must be 3 lines of code (including the next comment) below this, no more, no less. -->
-<p>The top 10 critics are Reiske (276), Scaliger (237), Nicolaus Heinsius (214), Adamantios Korais (190), Bentley (171), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (95).</p>
+<p>The top 10 critics are Reiske (276), Scaliger (238), Nicolaus Heinsius (214), Adamantios Korais (190), Bentley (171), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (95).</p>
 <br>
 <!-- Anything not in the table must be before this comment. -->
 
@@ -4413,7 +4414,7 @@ Cic. Arch. 19|-diamus|repudiabimus|Andrea Navagero|1519|Lag. 9|
 Cic. Arch. 22|Rudium h.|Rudinum hominem|Antonio Agustín|1581|schol. Bob.|apud Ursinum
 Cic. Att. 1.1.2|et ex.|et ab existimatione|Denys Lambin|1565–72|Paris. 8536 (P)|
 Cic. Att. 1.8.1|-i|dare|Sebastiano Corradi|1544|Paris. 8536 (P)|
-Cic. Att. 1.11.1|legatio|all-|Leonardus Malaespina|1564|s1|
+Cic. Att. 1.11.1|legatio|all-|Leonardus Malaespina|1563|s1|
 Cic. Att. 1.14.7|-di|redii|Madvig|1873|bd|
 Cic. Att. 1.16.4|-abat|impetrarat|James S. Reid|1903|Ω|apud Purser
 Cic. Att. 1.19.1|quem|quam|P. Manutius|1540–7|Paris. 8536 (P)|
@@ -4423,12 +4424,12 @@ Cic. Att. 2.1.12|tocul(i)o-|tocullionibus|Turnebus|1565|sZl|
 Cic. Att. 2.9.1|inuidia|in inuidia|Simon Dubois|1580|EGP|
 Cic. Att. 2.18.2|attamen|hac tamen|Simon Dubois|1580|Land. 8 (H)|
 Cic. Att. 3.8.2|ab illo|ab Ilio|Madvig|1871|cod. Faerni (F)|p. 145
-Cic. Att. 3.13.1|meque|neque|Leonardus Malaespina|1564|Paris. 8536 (P)|p. 71
+Cic. Att. 3.13.1|meque|neque|Leonardus Malaespina|1563|Paris. 8536 (P)|p. 71
 Cic. Att. 3.24.1|nostra|uestra|Sebastiano Corradi|1544|Paris. 8536 (P)|
 Cic. Att. 3.25.1|pros-|perspicio|Petrus Victorius|1536|Land. 8 (H)|
 Cic. Att. 4.3.4|Miloni campo|Milo in campo|Muretus|1559|Laur. Plut. 49 (N)|
 Cic. Att. 4.5.1|ain tu an me|ain tu me|J. C. G. Boot|1865|O1|
-Cic. Att. 4.6.4|nunquam|nunc quam|Leonardus Malaespina|1564|Zb|p. 93
+Cic. Att. 4.6.4|nunquam|nunc quam|Leonardus Malaespina|1563|Zb|p. 93
 Cic. Att. 4.13.1|XIII/XVIII|XIIII|P. Manutius|1540–7|NO1|
 Cic. Att. 4.15.3|forte|fere|Petrus Victorius|1536|Paris. 8536 (P)|
 Cic. Att. 4.17.3|detu-|rettulerunt|A. S. Wesenberg|1873|Urb. 322 (s)|retu- s
@@ -4437,7 +4438,7 @@ Cic. Att. 4.18.5|-ter|nostri|P. Manutius|1540–7|NF|
 Cic. Att. 5.7|XIIII|XII|O. E. Schmidt|1893|Laur. Plut. 49 (N)|
 Cic. Att. 5.8.2|-is|alienus|Denys Lambin|1565–72|Palat. 1510 (V)|
 Cic. Att. 5.8.2|esse|del.|J. A. Ernesti|1775|bds|
-Cic. Att. 5.8.2|-it|posset|Leonardus Malaespina|1564|Palat. 1510 (V)|
+Cic. Att. 5.8.2|-it|posset|Leonardus Malaespina|1563|Palat. 1510 (V)|
 Cic. Att. 5.10.5|-um|ornamento|A. S. Wesenberg|1873|Palat. 1510 (V)|
 Cic. Att. 5.11.3|q. illum n./q. illud n. q. illum n.|quam illud, nusquam|Leo|1892|NOP|
 Cic. Att. 5.11.5|nos nostram|nostram|Reinhold Klotz|1854|bds|
@@ -4533,7 +4534,7 @@ Cic. Caecin. 74|mina/cum omnia|lumina|P. Manutius|1540|Brux. 14492 (π)|
 Cic. Caecin. 77|retinet|rem et|Leonhard Spengel|1847|cod. Tegerns. (T)|Philol.
 Cic. Caecin. 85|-xit|interdixerit|Denys Lambin|1566|cod. Tegerns. (T)|
 Cic. Caecin. 93|destitutum|destitutumquc|Niccolò Angeli|1515|c2|
-Cic. Caecin. 99|visceribus|hisce rebus|Filippo Beroaldo I|1499|ς|
+Cic. Caecin. 99|visceribus|hisce rebus|Filippo Beroaldo I|1499|ϛ|
 Cic. Caecin. 100|-fuerunt|proferunt|Orelli|1826–31|Paris. 7779 (k)|
 Cic. Caecin. 103|relinquo|reliquo|Petrus Faber|1601|Te|
 Cic. Cael. 4|no-|vestra|Karl Halm|1856|bς|
@@ -4574,12 +4575,12 @@ Cic. Catil. 2.4|etiam tum reprobatam|etiam tum re probata|A. C. Clark|1905|Pap. 
 Cic. Catil. 4.8|-a|dignas|Denys Lambin|1566|Monac. 7809 (i)|
 Cic. Catil. 4.8|l. p.|possit levare|Tadeusz Zielinski|1904|β|
 Cic. Catil. 4.15|in c. c.|consulatu confirmatam|Friedrich Richter|1861|Laur. 50.45 (x)|p. 18
-Cic. Cluent. 25|-traretur|arbitretur|B. Weiske|1806|ς|
+Cic. Cluent. 25|-traretur|arbitretur|B. Weiske|1806|ϛ|
 Cic. Cluent. 63|bis causam (iis)|bis iis causam|J. G. Baiter|1854|Paris. 14749 m. 1 (σ)|
 Cic. Cluent. 130|multitudinem illicitum|multitudini nemini licitum|Antonio Agustín|1581|Palimp. Taurin. (P)|apud Ursinum
 Cic. Cluent. 137|ut id quod|ut quod|W. Peterson|1899|Vat. Barb. lat. 142 (G)|
 Cic. Cluent. 150|tantum|tamen|Denys Lambin|1566|cod. Cluny (C)|
-Cic. Cluent. 152|-e -a|potestatem suam|P. Manutius|1541|ς|
+Cic. Cluent. 152|-e -a|potestatem suam|P. Manutius|1541|ϛ|
 Cic. Cluent. 170|aud-|adire|Andrea Navagero|1519|exc. in Paris. lat. 18104 (X)|
 Cic. Cluent. 183|Strato … dixit|Stratonem … dixisse|C. G. Schütz|1815|cod. Cluny (C)|
 Cic. Cluent. 199|nomen et iura|iura|Madvig|1871|exc. in Paris. lat. 18104 (X)|Adv. I 89 sq.
@@ -4629,12 +4630,12 @@ Cic. Mil. 63|perdi-|percito|Andrea Navagero|1519|b2|
 Cic. Mil. 65|esse|se|Heumann||ΣH|
 Cic. Mur. 3|-a|uno|Denys Lambin|1566|ω|
 Cic. Mur. 13|cumsp-/consp-|circumspicere|Janus Gulielmius||χ2|
-Cic. Mur. 21|i. e.|eadem in|Denys Lambin|1566|ς|
+Cic. Mur. 21|i. e.|eadem in|Denys Lambin|1566|ϛ|
 Cic. Mur. 25|causis|capsis|Madvig|n.d.|cod. Sambuci|
 Cic. Mur. 32|-am|statuo|Niccolò Angeli|1515|Monac. 15734 (s)|
 Cic. Mur. 33|M. non|Mithridatem|Jodocus Badius|1511|sς|
 Cic. Mur. 34|-o|ipse|Niccolò Angeli|1515|Guelf. 205 (w)|
-Cic. Mur. 49|-cussi|perculsi|Denys Lambin|1566|ς|
+Cic. Mur. 49|-cussi|perculsi|Denys Lambin|1566|ϛ|
 Cic. Mur. 56|sunt|sint|J. A. Ernesti|n.d.|Laur. 52.1 (φ)|
 Cic. Mur. 56|alienissimo|alienis exitio|Denys Lambin|1566|ψ2|
 Cic. Phil. 1.3|qua|qua re|Rudolf Klussmann|1877|cod. Amst.|Tulliana p. 6
@@ -4652,7 +4653,7 @@ Cic. Phil. 14.23|Servilium|Servili num|Hieronymus Ferrarius|1542|Bern. 104 (b)|
 Cic. Phil. 14.33|ins-|sepulta|Pomponius Laetus|n.d.|Bern. 104 (b)|
 Cic. Phil. 14.36|-a|sententiam|Karl Halm|1856|Collegii Novi Oxon. 252 (o)|
 Cic. Phil. 14.38|-ere -os|caderent nonnulli|Karl Halm|1856|Collegii Novi Oxon. 252 (o)|
-Cic. Pis. 2|tum|tu|Andrea Navagero|1519|ς|
+Cic. Pis. 2|tum|tu|Andrea Navagero|1519|ϛ|
 Cic. Pis. 5|-unicavi|commutavi|François Hotoman|1554|Lag. 9|
 Cic. Pis. 6|-ae … -ae|gesta … conservata|Gasparo Garatoni|1777–8|Lag. 9|
 Cic. Pis. 13|vino-|vinulentis|C. F. W. Müller|1886|Mμς|
@@ -4690,14 +4691,14 @@ Cic. Planc. 89|om.|constantiam|Niccolò Angeli|1515|b2ψ2|
 Cic. Planc. 100|vi me, inquam|vi me, vi, inquam|Orelli|1826|Palat. 1820 (p)|
 Cic. Planc. 103|his|iis|Niccolò Angeli|1515|cod. Tegerns. (T)|
 Cic. Q. Rosc. 7|sunt in|in|Andrea Navagero|1519|oς|
-Cic. Q. Rosc. 8|exem-|extemplo|Filippo Beroaldo I|1499|ς|
+Cic. Q. Rosc. 8|exem-|extemplo|Filippo Beroaldo I|1499|ϛ|
 Cic. Q. Rosc. 10|om-|amittamus|Filippo Beroaldo I|1499|Paris. 7779 (k)|
 Cic. Q. Rosc. 11|clarius|dari|P. Manutius|1540|Ωt|
 Cic. Q. Rosc. 15|peri-|proinde|Denys Lambin|1566|b1|
 Cic. Q. Rosc. 20|non|nonne|Andrea Navagero|1534|otς|
 Cic. Q. Rosc. 20|-is|rasus|J. A. Ernesti|1773|oς|
-Cic. Q. Rosc. 22|su-|nummis|Andrea Navagero|1534|ς|
-Cic. Q. Rosc. 46|propterea|praeterea|Turnebus|1581|ς|
+Cic. Q. Rosc. 22|su-|nummis|Andrea Navagero|1534|ϛ|
+Cic. Q. Rosc. 46|propterea|praeterea|Turnebus|1581|ϛ|
 Cic. Q. Rosc. 53|et|et eum|Denys Lambin|1566|Ω1|
 Cic. Quinct. 13|quod quidque|quodcumque|J. G. Baiter|1854|H2|
 Cic. Quinct. 17|-et|quaesisses|François Hotoman|1554|Arus. gramm. 32|
@@ -4717,12 +4718,12 @@ Cic. Quinct. 84|-dat/-dit|defenderit|Reinhold Klotz|1852–62|Vat. Ottob. lat. 1
 Cic. Rab. Post. 8|etiam cum|etiam|Niccolò Angeli|1515|pq|
 Cic. Rab. Post. 17|-orum|maior|François Hotoman|1554|Paris. 7779 (k)|
 Cic. Rab. Post. 21|huic|hui|Turnebus|1581|c1|
-Cic. Rab. Post. 24|om.|se|Karl Halm|1856|ς|
+Cic. Rab. Post. 24|om.|se|Karl Halm|1856|ϛ|
 Cic. Rab. Post. 25|om.|illa|Andrea Navagero|1534–7|Paris. 7779 (k)|
 Cic. Rab. Post. 29|om.|et|Andrea Navagero|1519|Bodl. Canon. 226 (c)|
 Cic. Rab. Post. 30|-orum|imperatarum|Madvig|1855|Laur. 90 sup. 69 (ψ)|non ex dett.
 Cic. Rab. Post. 30|centima|in centesima|Karl Halm|1856|c2|
-Cic. Rab. Post. 41|om.|ut|Andrea Navagero|1519|ς|
+Cic. Rab. Post. 41|om.|ut|Andrea Navagero|1519|ϛ|
 Cic. Rab. Post. 47|a. fecisset|adiumento|Madvig|1856|Paris. 7779 (k)|apud Baiter-Halm
 Cic. Rab. Post. 48|iam|nam|Karl Halm|1856|c1|
 Cic. Rab. perd. 3|-i|iudicare|Turnebus|1581|Paris. 7779 (k)|
@@ -4731,20 +4732,20 @@ Cic. Rab. perd. 14|om.|C.|C. L. Kayser|1861|Paris. 7779 (k)|
 Cic. Rab. perd. 24|-em|imagine|Andrea Navagero|1519|c1k|
 Cic. S. Rosc. 1|surrexerim|s. is|Andrea Navagero|1534|Σc|
 Cic. S. Rosc. 11|i-|eidem|Antonio Agustín|1581|Laur. 48.26 (ω)|apud Ursinum
-Cic. S. Rosc. 30|-etur|optet|Filippo Beroaldo I|1499|ς|
-Cic. S. Rosc. 30|supplicium parricidarum|del.|François Hotoman|1554|ς|
+Cic. S. Rosc. 30|-etur|optet|Filippo Beroaldo I|1499|ϛ|
+Cic. S. Rosc. 30|supplicium parricidarum|del.|François Hotoman|1554|ϛ|
 Cic. S. Rosc. 30|quoniam quidem suscepi|del.|J. F. Heusinger|1835|Bodl. Canon. 226 (c)|apud Büchner
-Cic. S. Rosc. 44|-e|attenta|Andrea Navagero|1519|ς|
+Cic. S. Rosc. 44|-e|attenta|Andrea Navagero|1519|ϛ|
 Cic. S. Rosc. 56|tamen non|tamen|Robert Novák|1887|c2k|
 Cic. S. Rosc. 62|id maxime|maxime|Jodocus Badius|1527|c2k|
 Cic. S. Rosc. 72|t. e.|est tam|Denys Lambin|1566|Laur. 48.25 (χ)|
 Cic. S. Rosc. 74|hi|ii|Karl Halm|1854|ως|
 Cic. S. Rosc. 74|quicum locutus|qui conlocutus|Guatav Krüger|1868|c1|NeueJahrbPhil; conlocutus Stanger
 Cic. S. Rosc. 82|i. n. q.|ibi quoque nos|Madvig|1848|Σσχ|
-Cic. S. Rosc. 96|-um|primo|W. Büchner|1835|ς|
-Cic. S. Rosc. 105|hoc|hanc|François Dubois|1530|ς|
-Cic. S. Rosc. 115|Roscio|T. Roscio|C. G. Schütz|1814–23|ς|
-Cic. S. Rosc. 124|l. s. esse|laesos se|A. C. Clark|1905|ς|
+Cic. S. Rosc. 96|-um|primo|W. Büchner|1835|ϛ|
+Cic. S. Rosc. 105|hoc|hanc|François Dubois|1530|ϛ|
+Cic. S. Rosc. 115|Roscio|T. Roscio|C. G. Schütz|1814–23|ϛ|
+Cic. S. Rosc. 124|l. s. esse|laesos se|A. C. Clark|1905|ϛ|
 Cic. S. Rosc. 149|-ala|Messalla|Denys Lambin|1566|c2k|
 Cic. Sull. 1|victi|revicti|James S. Reid||b2|
 Cic. Sull. 23|Curio|M' Curio|P. Manutius||schol. Bob.|
@@ -4760,9 +4761,9 @@ Cic. Sull. 90|etsi|et si|C. F. W. Müller||πaΣψ|
 Cic. Sull. 92|est|sunt|Denys Lambin||TE|
 Cic. Tim. 14|-unt|fuerant|Denys Lambin|1565–6|Vindob. lat. 189 (V)|
 Cic. Tull. 42|-matis|armis|P. E. Huschke|1826|Palimp. Taur. (T)|apud J. G. H.
-Cic. Tusc. 1.51|nisi|si|Moritz Seyffert|1864|ς|
+Cic. Tusc. 1.51|nisi|si|Moritz Seyffert|1864|ϛ|
 Cic. Tusc. 4.30|in insipientem|in sapientem|Turnebus|1564|V2|Adv. VII 17
-Cic. Tusc. 5.63|tragicum|t. accepimus|Moritz Seyffert|1864|ς|
+Cic. Tusc. 5.63|tragicum|t. accepimus|Moritz Seyffert|1864|ϛ|
 Cic. Tusc. 5.119|observent/obscurentur|obruantur|John Davies|1723|frg. Oxon. (F)|Clark, 'A Bodleian fragment'
 Cic. Verr. I 41|-mae|nocentissimi|Madvig|1828|schol. Gronov.|Append. crit. p. 38
 Cic. Verr. II 1.123|ad-|idiurare|Reinhold Klotz|1852–62|Paris. 7776 (p)|
@@ -4778,7 +4779,7 @@ Cic. ac. 1.29|inter|item|Bentley|1725–36|ππ2ρ i. m.|‘amicus’ apud Dauis
 Cic. ac. 1.30|ra-|oratione|Denys Lambin|1566|ν1φ1φ2|
 Cic. ad Brut. 9.12.3|prorsus alienae|prorsus|C. L. Kayser|1884|Land. 8 (H)|apud Madvig
 Cic. ad Q. fr. 1.1.16|et inuident non|e. uero i. n.|P. Manutius|1540–62|Taur. lat. 495 (O)|
-Cic. ad Q. fr. 2.9.1|-ebaris/-ebis|uideris|Leonardus Malaespina|1564|bs2|
+Cic. ad Q. fr. 2.9.1|-ebaris/-ebis|uideris|Leonardus Malaespina|1563|bs2|
 Cic. ad Q. fr. 2.9.1|infusa|insulsa|Petrus Victorius|1536|sF|
 Cic. ad Q. fr. 3.5.5|-ent|uiderunt|A. S. Wesenberg|1873|Palat. 1510 (V)|
 Cic. ad Q. fr. 3.6.6|ei nihil tribuit et omnia Guttae|ei n. t., o. G.|A. S. Wesenberg|1873|Paris. 8536 (P)|
@@ -4807,14 +4808,14 @@ Cic. fin. 5.23|t. tamquam/tamquam t.|tranquillitas|Madvig|1876|Vat. lat. 1759 (V
 Cic. fin. 5.42|-int|vicerunt|Madvig|1876|Mutin. lat. 213 (O)|
 Cic. fin. 5.84|-rum|miser|Madvig|1876|P2|
 Cic. har. resp. 32|-imus/-emus|neglegamus|C. F. W. Müller|1896|Bern. 254 (t)|
-Cic. leg. agr. 1.26|p. R.|patres conscripti|Carlo Sigonio|1558|ς|'Comme Sigonius avoit de la peine à s'exprimer en latin, de Thou fut obligé, pour ne pas se priver de sa conversation, de parler italien le mieux qu'il put.'
+Cic. leg. agr. 1.26|p. R.|patres conscripti|Carlo Sigonio|1558|ϛ|'Comme Sigonius avoit de la peine à s'exprimer en latin, de Thou fut obligé, pour ne pas se priver de sa conversation, de parler italien le mieux qu'il put.'
 Cic. leg. agr. 2.10|sed si|sed|Gasparo Garatoni|1777–8|c1|
 Cic. leg. agr. 2.10|quidem|quiddam|Andrea Navagero|1519|Paris. 7779 (k)|
 Cic. leg. agr. 2.12|in r.|rebus|Andrea Navagero|1519|Paris. 7779 (k)|
 Cic. leg. agr. 2.13|c. tandem|contio|Denys Lambin|1566|Paris. 7779 (k)|
 Cic. leg. agr. 2.13|-tata|exspectatur|Janus Gulielmius|1618|Paris. 7779 (k)|apud Gruterum
 Cic. leg. agr. 2.21|-titur|sortietur|Andrea Navagero|1519|Paris. 7779 (k)|
-Cic. leg. agr. 2.21|-idit|excipit|Andrea Navagero|1519|ς|
+Cic. leg. agr. 2.21|-idit|excipit|Andrea Navagero|1519|ϛ|
 Cic. leg. agr. 2.24|reus|non r.|Carlo Sigonio|1558|Paris. 7779 (k)|
 Cic. leg. agr. 2.27|quia|Quirites|J. G. Baiter|1856|Lag. 9|
 Cic. leg. agr. 2.35|-orata|ignota|Madvig|1873|Lagg. 1, 7|p. 204
@@ -4986,7 +4987,7 @@ Claud. 22.371|-um|cruentam|Gronovius|1637|Ambros. S 66 sup. (K4)|Diatribe p. 333
 Claud. 22.450|-at r./r. -ant|stabant rutuli|Gevartius|1650|W1θac|apud Heinsium
 Claud. 23.23|quint-|quinos|Scaliger|1603|P10pc|
 Claud. 24.200|cing-|stringas|Nicolaus Heinsius|1665|Paris. lat. 7936 (P14)|
-Claud. 24.235|quas|quot|Nicolaus Heinsius|1665|ς unus (Birt)|
+Claud. 24.235|quas|quot|Nicolaus Heinsius|1665|ϛ unus (Birt)|
 Claud. 24.244|sagitt-|pharetris|Nicolaus Heinsius|1760|Lond. Burn. 167 (L)|apud Burmannum p. 888; in ras.
 Claud. 24.278|namque|iamque|Ludwig Jeep|1876|Paris. lat. 8079 (P11)|
 Claud. 26.2|arma-|artatum|Scaliger|1603|Brux. 5381 (Γ)|
@@ -5127,20 +5128,146 @@ Frontin. aq. 24.3|est|non est|Giovanni Giocondo|1513–22|Ambros. I.29 sup. (A)|
 Frontin. strat. 1.1.6|omi-|commisso|Franz van Oudendorp|1731–79|Lond. Lamb. Tenison. 752 (T)|
 Frontin. strat. 2.1.5|rursus eduxit|r. suos e.|Adam Eussner|1871|Lond. Lamb. Tenison. 752 (T)|p. 86 ('Nach dem Sprachgebrauch des Autors, welcher educere mit einem Objecte verbindet')
 Frontin. strat. 2.5.34|pugn-|fuga|Franz van Oudendorp|1731–79|Lond. Lamb. Tenison. 752 (T)|
-Frontin. strat. 2.6.4|germ-|Romani|Gottschalk Stewech|1585|ς|
+Frontin. strat. 2.6.4|germ-|Romani|Gottschalk Stewech|1585|ϛ|
 Frontin. strat. 2.9.1|circum-|interuenerat|Gronovius|1779|Lond. Lamb. Tenison. 752 (T)|apud Van Oudendorp
-Frontin. strat. 2.13.5|in a. s.|non armis sed|Gottschalk Stewech|1585|ς|
+Frontin. strat. 2.13.5|in a. s.|non armis sed|Gottschalk Stewech|1585|ϛ|
 Frontin. strat. 3.8.1|-arant|existimabant|Andreas Dederich|1855|Cantab. coll. diu. Petri 252 (K)|
 Frontin. strat. 3.15.6|compelli|comportari|Franz van Oudendorp|1731–79|Lond. Lamb. Tenison. 752 (T)|
-Frontin. strat. 4.7.29|-e|armaret|Petrus Scriverius|1606–7|ς|
+Frontin. strat. 4.7.29|-e|armaret|Petrus Scriverius|1606–7|ϛ|
 Fronto p. 21.4|pari.|paria paribus|Rudolf Klussmann|1874|teste Hauler|p. 46
 Fronto p. 171.9|limit-|multis|L. F. Heindorf|1816|teste Mai a. 1817|apud Niebuhr
-Gell. 1.6.4|impugn-|impropugnatum|Christian Falster|1732|Palat. lat. 24 (A)|p. 221
+Gell. 1.2.4|grip(p)os|griphos|Jenson|1472|recc.|
+Gell. 1.3.3|recto ne|rectene|Ludovicus Carrio|1585|Palat. lat. 24 (A)|
+Gell. 1.3.27|permiss-|remissoque|Sebastianus Gryphius|1537|Palat. lat. 24 (A)|
+Gell. 1.3.30|mota|monita|Egnatius|1515|Palat. lat. 24 (A)|
+Gell. 1.6.4|inpugn-|inpropugnatum|Christian Falster|1732|AC|p. 221
+Gell. 1.9.3|-at|iubebatur|Christian Falster|1721|Rad. i. 40 Stubbs|
+Gell. 1.11.13|-us|inpetum|Carlo Aldobrandi|1514|recc.|
+Gell. 1.13.6|ad-|abessent|Christian Falster|1721|lG|
+Gell. 1.15.3|quo|quod|Gronovius|1651|Vat. lat. 1532 (w)|
+Gell. 1.15.3|-eret|pertinet|Gronovius|1687|uetustus codex ap. Buch.1|
+Gell. 1.22.11|indict-|indoctum|Christian Falster|1721|cod. Ambr. I 129 inf., fol. 352v|
+Gell. 1.22.16|quia id est|quidem|Egnatius|1515|Cantab. Coll. Clar. 26 (C)|
+Gell. 1.24.4|-ii|Pacuui|Heinrich Stieglitz|1826|vD|
+Gell. 1.25.5|mumns-|mensum|Muretus|1602 (1569)|Paris. lat. 5765 (P)|apud epistolarum lib. sec.
+Gell. 1.26.3|copiose|copioseque|Wilhelm Heraeus|2020 (a1938)|Cη recc.|apud H-S
+Gell. 1.26.7|fac-|iacere|Christian Falster|1721|φ|
+Gell. 2.2.7|cum|dum|Gilles de Maizières|1509|φ|
+Gell. 2.3.3|inchoare|incohare|Martin Hertz|1853|recc.|
+Gell. 2.12.5|alter|alteri|Ludovicus Carrio|1585|recc.|
+Gell. 2.14.1|s. quidem|scriptum|Gronovius|1687|recc.|
+Gell. 2.21.4|opidici|opici|Poliziano|s.xv ex.|Cantab. Coll. Clar. 26 (C)|
+Gell. 2.22.10|-us -us|Tertium uentum|Jodocus Badius|1524|Paris. lat. 4952 (T)|
+Gell. 2.23.10|priuatu'/priuatum|priuat|F. H. Bothe|1823|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|
+Gell. 2.24.7|promisceat que|promisce atque|Ludovicus Carrio|1585|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|
+Gell. 2.26.13|tum/tamen|tuum|Fleckeisen|1853|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|'Fleckeisen' apud Hertz (1883)
+Gell. 2.27.2|tribus milibus|tribunus militum|Jean Conneau|1511|Palat. lat. 24 (A)|
+Gell. 2.27.2|usi|usui|Gronovius|1687|ADpc|
+Gell. 2.27.5|producen-|prodigendos|Carlo Aldobrandi|1514|A recc.|
+Gell. 2.28.1|t. mores/motus|terrae tremores|Salmasius|1629|Palat. lat. 24 (A)|
+Gell. 2.30.3|-a|tranquillae|Filippo Beroaldo I|1503|εn|
+Gell. 3.1.9|avaritiam t.|avaritia mentem tenuit|Martin Hertz|1883|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|
+Gell. 3.1.14|pot-|oportuit|Petrus Scriverius|1687|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|apud Gronovium
+Gell. 3.3.13|a. e. r. expolitae s.|ab eo retractatae expolitaeque sint|Egnatius|1515|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|
+Gell. 3.9.8|ex(s)up-|exuberantissimo|Carlo Aldobrandi|1514|CΦ|
+Gell. 3.10.3|ex quae|exque h(i)is|Martin Hertz|1883|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|
 Gell. 3.10.7|fet-|secus|Lipsius|1580|VP|
+Gell. 3.10.14|κ. cui u.|κριϲίμουϲ uideri|Martin Hertz|1853|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|
+Gell. 3.13.2|u. e. m. e. c. a. P. p.|cum ad Platonem pergeret, ut ei mos erat|Guillaume Ranchin|1597|ε|
 Gell. 3.14.5|sicut|sicuti|Lachmann|1855|recc.|ad Lucr. 2.536
-Gell. 6.17.10|obnoxie|obnoxiosae|Valens Acidalius|1607|Vat. lat. 3452 (V)|p. 480 ad Plaut. Stich.; -se V
+Gell. 3.14.12|-am e. t. c.|dimidia et tribus confectis|Martin Hertz|1853|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|
+Gell. 3.16.13|atcio/accio/actio|attio|Martin Hertz|1883|Cantab. Coll. Clar. 26 (C)|
+Gell. 3.18.4|m. h. (functos) p. n.|maioribus honoribus usos pedarios nominatos|Martin Hertz|1883|Vat. lat. 1532 (w)|
+Gell. 4.1.2|dicta-|dictitauerunt|Goodyear|1981|recc. pauci|
+Gell. 4.1.4|et, jam, bone, inquit/et amabo ne inquit|et, amabo, inquit|J. Gronovius|1706|Vat. lat. 1532 (w)|p. 256
+Gell. 4.1.5|nemo|modo|Albertus Lion|1824|CD|
+Gell. 4.1.17|circum eos|c. eum|Ludovicus Carrio|1585|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|
+Gell. 4.2.10|apposuisse/apose|agi posse|Gronovius|1687|Cantab. Coll. Clar. 26 (C)|
+Gell. 4.4.3|-a|uniuerso|Carlo Aldobrandi|1514|Cantab. Coll. Clar. 26 (C)|
+Gell. 4.6.2|plantan-|lactantibus|Martin Hertz|1873|Cmg|
+Gell. 4.9.1|religent-|religantem|Christian Falster|1722|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|
+Gell. 4.9.6|alienis|Al(l)iensis|Egnatius|1515|recc. quidam|
+Gell. 4.9.14|etiam tanto|multo e. t.|Gronovius|1687|Vat. lat. 1532 (w)|
+Gell. 4.17.3|suffercitus|suffert citus|Albertus Lion|1824|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|
+Gell. 4.17.15|i. hos … f. u. a. p. P.|ita nos … fert uentus ad priorem Pyrenaeum|Heinrich Meyer|1842|recc.|
+Gell. 4.18.10|illatum|illi tum|Gronovius|1687|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|
+Gell. 5.2.2|Ca-|Chares|Fulvio Orsini|2020 (a1600)|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|apud H-S
+Gell. 5.2.4|est|esset|Martin Hertz|1853|exc. Gulielmi in Polyhistore|
+Gell. 5.6.1|multae uariae|m. et u.|Albertus Lion|1824|Cantab. Coll. Clar. 26 (C)|
+Gell. 5.6.21|in puluere ut|inpuluerea ut|Ludovicus Carrio|1585|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|
+Gell. 5.6.26|quia|qui|Albertus Lion|1824|recc.|
+Gell. 5.6.27|-es|uehentem|Carlo Aldobrandi|1514|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|
+Gell. 5.9.6|-os|ipsum|Antonius Thysius|1666|C recc.|
+Gell. 5.12.9|uariatum|uaria tum|Ludovicus Carrio|1585|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|
+Gell. 5.13.6|efug-/diffug-|defugere|Ludovicus Carrio|1585|Cantab. Coll. Clar. 26 (C)|
+Gell. 5.13.6|M. uince|M. Iunce|Carl Nipperdey|1847|Vat. lat. 3452 (V)|
+Gell. 6.2.9|dum|cum|P. K. Marshall|1968|recc.|
+Gell. 6.3.6|f. securi|factis e curia|Leonardus Malaespina|1563|Cantab. Coll. Clar. 26 (C)|
+Gell. 6.3.10|Q. anxium|Q. Axium|Carlo Aldobrandi|1514|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|
+Gell. 6.3.14|se domant|edomant|John Price|1650|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|
+Gell. 6.3.19|a. e. simul|ad eos uel|Gronovius|1687|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|
+Gell. 6.3.36|q. nostrorum/q. uestr-|uestrorum qui|Gronovius|1687|Cantab. Coll. Clar. 26 (C)|
+Gell. 6.3.38|tale erit/(t)aberit|oberit|Gronovius|1687|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|
+Gell. 6.5.6|-tur|existimatum|Gronovius|1687|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|
+Gell. 6.8.4|ref(f)erre|refert|Jenson|1472|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|
+Gell. 6.9.1|-etur|uidentur|Ludovicus Carrio|1585|Cantab. Coll. Clar. 26 (C)|
+Gell. 6.11.9|coniurauisti/coniurasti|iurauisti|Martin Hertz|1883|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|
+Gell. 6.14.5|ieiuni dici|ieiunidici|Martin Hertz|1853|Vat. lat. 1532 (w)|
+Gell. 6.17.10|obnoxie|obnoxios(a)e|Valens Acidalius|1607|Vat. lat. 3452 (V)|p. 480 ad Plaut. Stich.
+Gell. 6.20.6|d. -i p.|dicere ebrioso posset|Egnatius|1515|recc.|
+Gell. 7.1.6|deliquat-|deligatum|Carlo Aldobrandi|1514|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|
+Gell. 7.1.13|-am|contraria|Franz Skutsch|2020 (a1912)|Vat. lat. 1532 (w)|apud H-S
+Gell. 7.2.8|in errores ruunt/in erro reserviunt|in errores se ruunt|Gronovius|1687|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|
+Gell. 7.2.11|mod-|motus|Carl Hosius|1903|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|
+Gell. 7.2.13|a. n. aut i.|aut nequam et ignauos|Alfred Gercke|1855|ϛ|
+Gell. 7.6.10|praepetes|praepes|Egnatius|1515|Gotting. bibl. Reip. et Vniu. Sax. Inf. philol. 162 (D)|
+Gell. 7.16.12|cenua|Caecina|Gronovius|1687|CD|
+Gell. 9.3.5|quod|quo|Fr. Daniel|2020 (s.xvi)|ϕ|apud H-S
+Gell. 9.9.12|-ca|Nausicaa|Carlo Aldobrandi|1514|recc. nonnulli|
+Gell. 9.9.14|-ca|Nausicaa|Filippo Beroaldo I|1503|Fac, recc. nonnulli|
+Gell. 10.6.4|-nio|Licino|Ludovicus Carrio|1585|Paris. NAL 1777 (H)|
 Gell. 10.15.20|exuisse|exuit se|Caspar Schoppe|1706|Qpc|apud J. Gronovium p. 894
+Gell. 10.23.1|re- c.|deprehendendi causa|Peter Lambeck|1647|Florilegium Gallicum (Γ)|
+Gell. 10.24.5|egi|edi|J. I. Pontanus|1628|cod. Ambr. I 129 inf.|
+Gell. 10.27.5|-eum|caducei|P. K. Marshall|1968|Flor. Maruc. C. 220 (M)|
+Gell. 12.2.1|aut ut l.|aut leui|Carlo Aldobrandi|1514|Oxon. Coll. Lincoln. lat. 59 (oC)|
+Gell. 12.2.14|-τε/-τα|ἐνθυμήματι|P. K. Marshall|1960|recc. pauci|
 Gell. 13.5.7|curant|quaerunt|Lucian Müller|1885|Bonn. bibi. Vniu. S 218 (J)|apud Hertz
+Gell. 13.20.12|maiorem Catonem|M. Catonem|Martin Hertz|1885|recc. pauci|
+Gell. 14.1.2|uen-|uetustatis|Jodocus Badius|1519|ZD, recc. pauci|
+Gell. 14.1.3|s. a. dictu|sensu atque ductu|Filippo Beroaldo I|1503|Fpc recc. pauci|
+Gell. 14.1.32|adting-|adtigimus|Franz Skutsch|2020 (a1912)|ϛ|apud H-S
+Gell. 14.2.15|amicitiae … pacificatoris|amici … p.|Ludovicus Carrio|1585|opc cH|
+Gell. 14.2.15|amicitiae … pacificatoris|a. … pacificationis|Michael Reeve|2020|mN vQ|apud H-S
+Gell. 14.2.21|m. maiorum|maioribus|Albertus Lion|1824|recc. quidam|
+Gell. 15.8.2|delib(e)rari|delibari|Filippo Beroaldo I|1503|Qpc|
+Gell. 16.4.2|pompabulum|poma pabulum|Albertus Lion|1824|HM (η)|
+Gell. 16.4.2|in d. m.|dolo malo|Egnatius|1515|recc. aliquot|
+Gell. 17.10.13|-e|ferri|J. L. Marres|1853|Fpc|
+Gell. 17.13.4|eum|eam|Ludovicus Carrio|1585|Xpc|
+Gell. 17.18.1|notio-|notationes|Guillaume Ranchin|1597|Qpc|
+Gell. 18.5.8|equum qui|e. cui|Franz Skutsch|2020 (a1912)|Fvl|apud H-S
+Gell. 18.8.2|synmiraciodes/si miratio des|ϲυμμειρακιῶδεϲ|Scaliger|1574|recc. quidam|
+Gell. 18.8.2|synmiraciodes/si miratio des|(si) μειρακιῶδεϲ|Friedrich Marx|1896|recc. quidam|
+Gell. 18.9.8|secut-|sectio|Willem Canter|1564|BQZD (δ)|
+Gell. 19.1.20|-ti|infirmitate|Eduard Goebel|1898|BQZD (δ)|
+Gell. 20.1.8|-ae|poena|Jean Conneau|1511|Fpc|
+Gell. 20.6.5|miserit-|misertus|Otto Ribbeck|1874|vHac|
+Gell. 20.11.4|-u|manum|Barnabé Brisson|1583|ΠGv (π)|
+Gell. 20.11.8|corrept-|consertio|A. W. Cramer|1885|codd. pauci|apud Hertz
+Gell. 20.11.9|sens-|consensu|Guillaume Budé|1508|codd. pauci|
+Gell. 20.11.10|-u|manum|Barnabé Brisson|1583|codd. pauci|
+Gell. lemm. 1.12|eius|ei|Carl Hosius|1903|Cantab. Coll. Clar. 26 (C)|
+Gell. lemm. 2.1|patientia|temperantia|Josias Mercier|1706|recc. pauci|
+Gell. lemm. 4.6|tempora|porca|Gronovius|1687|Cantab. Coll. Clar. 26 (C)|
+Gell. lemm. 4.15|-i/-e|maligna|Hermann Tränkle|1983|Vat. lat. 1532 (w)|
+Gell. lemm. 5.18|inquid/-t|An quid|P. K. Marshall|1968|Vat. lat. 1532 (w)|
+Gell. lemm. 8.2|sunt|sint|Ludovicus Carrio|1585|lJ fol. 189r|
+Gell. lemm. 8.5|quod|quid|Jodocus Badius|1517|λ3 vN|
+Gell. lemm. 8.7|E. A. l. q. i. e.|Ex Aristotelis libro, qui περὶ μνήμης inscriptus est,|Martin Hertz|1853|λ1|
+Gell. lemm. 8.15|ignomina-|ignominiatus|Filippo Beroaldo I|1503|pauci|
+Gell. lemm. 11.17|quod|qui|Ludovicus Carrio|1585|Bodl. Canon. class. lat. 307 (o)|
+Gell. praef. 18|s. tractio-|sed tractationes|Filippo Beroaldo I|1503|Vat. lat. 1532 (w)|
 Hist. Aug. Alex. 8.5|-erat|dicat|Emil Baehrens|1871|Σ|
 Hist. Aug. Alex. 10.5|aurelio|Vario|Otto Hirschfeld|1913|Σ|
 Hist. Aug. Alex. 37.10|s. secundum|sed fecundam|Michael Petschenig|1879|Chig. H. VII. 239 (Ch)|p. 378
@@ -5186,7 +5313,7 @@ Hor. epist. 1.18.46|Aetoli(i)s|Aeoliis|Jan van Vliet|1645|f μ|p. 104
 Hor. epist. 1.19.39|ult-|actor|Willem Canter|1564|cod. Torrentii|
 Hor. epist. 2.1.31|-am|olea|Bentley|1711|dett. aliquot (Borzsák)|
 Hor. epist. 2.2.128|-is|Argus|Noël-Étienne Sanadon|1756|duo codd. Torrentii|
-Hor. epod. 5.37|ex(s)ecta/ex(s)ucta/exuta|exsuc(c)a|Lucian Müller|1900|ς (Bailey)|
+Hor. epod. 5.37|ex(s)ecta/ex(s)ucta/exuta|exsuc(c)a|Lucian Müller|1900|ϛ (Bailey)|
 Hor. epod. 17.81|ag-/hab-|valentis|Muretus|1551|π2 et duo codd. Torrentii|
 Hor. sat. 1.1.7|q. enim?|quid ni?|Jacobus Taurellus|1560|codd. (Apitz)|apud Lambinum
 Hor. sat. 1.1.23|-ea|praetereo|Jean Bouhier|1807|codd. (Apitz)|
@@ -5492,15 +5619,15 @@ Nep. Dion 1.4|tene-/tege-|leniebat|Denys Lambin|1569|Flor. XXIII.28|
 Nep. Dion 5.2|-us|tyrannis|Denys Lambin|1569|Monac. lat. 433|
 Nep. Hann. 11.3|-ebatur|reperiebat|Denys Lambin|1569|Bonon. 2050|
 Nep. Milt. 5.3|nona partis summa|non apertissima|C. L. Roth|1841|Leid. B. P. L. 19|
-Nep. Milt. 8.3|c(h)ersonesso|in chersoneso|Alfred Fleckeisen|1890|Bodl. Canon. Lat. 159|
-Nep. Paus. 2.4|se a.|te adiuuante|Bernhard Lupus|1876|ς aliquot|
+Nep. Milt. 8.3|c(h)ersonesso|in chersoneso|Fleckeisen|1890|Bodl. Canon. Lat. 159|
+Nep. Paus. 2.4|se a.|te adiuuante|Bernhard Lupus|1876|ϛ aliquot|
 Nep. Phoc. 2.4|Atheniensium|A. portui|Denys Lambin|1569|Vratisl. Rehdig. 51|
 Nep. Phoc. 3.3|hoc|huc|Denys Lambin|1569|Vat. lat. 5262|marg.
-Nep. Them. 5.3|haec|h. est|Karl Halm|1871|ς perpauci|
+Nep. Them. 5.3|haec|h. est|Karl Halm|1871|ϛ perpauci|
 Nep. Them. 6.1|is-|iisque|Johannes Scheffer|1727|Vat. Chig. H. V. 160|per litt. N. Heinsio
-Nep. Them. 9.4|ea|te|Alfred Fleckeisen|1890|Bodl. Canon. Lat. 159|
-Nep. Them. 10.1|se|del.|Karl Halm|1871|ς aliquot|
-Nep. Thras. 4.1|-inis|oleagineis|Alfred Fleckeisen|1890|Ambros. O 2 sup.|
+Nep. Them. 9.4|ea|te|Fleckeisen|1890|Bodl. Canon. Lat. 159|
+Nep. Them. 10.1|se|del.|Karl Halm|1871|ϛ aliquot|
+Nep. Thras. 4.1|-inis|oleagineis|Fleckeisen|1890|Ambros. O 2 sup.|
 Nep. reg. 1.3|generis|gentis|Friedrich Richter|1858|Vat. Barb. lat. 42|Richter on C. W. Nauck
 Non. p. 503|f. omnino|feruit animo|Franz Oehler|1844|Paris. lat. 7667 (P)|ad Varro Men. 498
 Ov. Ib. 133(41)|eva-|vanescere|Nicolaus Heinsius|1661|Bodl. Auct. F. 4. 24 (O2)|
@@ -5771,7 +5898,7 @@ Paneg. 10.7.5|opti-|opimam|Johannes Livineius|1599|H2|
 Paneg. 10.8.5|-am|certi|Emil Baehrens|1874|H2|
 Paneg. 10.14.3|-em|consuetudine|Emil Baehrens|1874|H2|
 Paneg. 11.2.2|et certe|at certe|Valens Acidalius|1607|H2|
-Paneg. 11.2.4|auxilii|anxios|Johannes Livineius|1599|ς (Galletier)|
+Paneg. 11.2.4|auxilii|anxios|Johannes Livineius|1599|ϛ (Galletier)|
 Paneg. 11.3.7|i. a s.|illos sacris|Valens Acidalius|1607|H2|
 Paneg. 11.10.2|-a l.|quanto laude|Valens Acidalius|1607|Brux. 10026–32 (c)|m. sec.
 Paneg. 11.10.3|pens(a)e manibus|pensa manibus|W. A. Baehrens|1910|W2|diss. p. 75
