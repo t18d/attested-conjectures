@@ -85,7 +85,7 @@ layout: no-anchor
 
 **_sigla_ (_critic_):** Pohlenz (ambiguous), Ziegler (ambiguous), Giusta (ambiguous), Wellesley (ambiguous), von Ungern-Sternberg
 
-**_sigla_, _critic_:** Sjögren (ambiguous), Galletier (ambiguous), Geymonat (ambiguous), Hall (ambiguous), H. J. Williams, Richmond (ambiguous), Lloyd-Jones/Wilson, Wilson
+**_sigla_, _critic_:** Sjögren (ambiguous), Galletier (ambiguous), Geymonat (ambiguous), Hall (ambiguous), H. J. Williams, Richmond (ambiguous), Lloyd-Jones/Wilson, Wilson, Leofranc Holford-Strevens (ambiguous)
 
 **_sigla_ _critic_:** Jacoby (ambiguous), Mandilaras
 
