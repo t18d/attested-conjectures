@@ -18,6 +18,24 @@ last_modified_at: 2024-12-31T11:56:31+00:00
 
 &nbsp;  
 &nbsp;  
+## Jodocus Badius
+
+Whether writing in Latin or in French, Badius never used any form other
+than the Latin ‘Badius’, and there is no first-hand evidence either for the
+Flemish form ‘De Bauw’ or for the gallicization ‘Bade’. Badius never called
+himself ‘Josse Bade’, and it appears only very rarely in contemporary documents
+in French: the Latin form of his name was often preferred. In a 1528
+document in French, which records a dispute over printing costs between
+Badius and Jacques Colin, the printer is throughout referred to as ‘Josse
+Badius’. The fact that he himself, when writing in French, used the name
+‘Josse Badius’ suggests that this was his personal name and Ascensius was
+used as a sort of Latin professional name connected with his printing and
+scholarly activities (‘praelum Ascensianum’; ‘interpretatio Ascensii’; ‘apex
+Ascensianus’). The consistent use of the name ‘Badius’ rather than ‘Ascensius’
+in his personal correspondence supports this.…
+as his career progressed, the name ‘Ascensius’
+appeared less frequently, and ‘Badius’ was used more often. ([White](https://archive.org/details/jodocusbadiusasc0000whit/))
+
 ## Conrad Gessner
 … we see a consistent pattern throughout Gessner's life of writing his and his family's name in German documents with a double s, and, after 1540, of signing and publishing his name in Latin with one s. ([Pyle](https://www.euppublishing.com/doi/abs/10.3366/anh.2000.27.2.175))
 
