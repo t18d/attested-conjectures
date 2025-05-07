@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-04-30T13:48:40+00:00
+last_modified_at: 2025-05-07T05:34:55+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS
@@ -5109,6 +5109,8 @@ Claud. rapt. Pros. 3.386|-e|animarum|Stephanus Claverius|1602|O3pcP2pc|
 Claud. rapt. Pros. 3.403|-os|iuuencas|Stephanus Claverius|1602|Vigorn. F 147 (H)|
 Claud. rapt. Pros. 3.443|quo-|quacumque|Stephanus Claverius|1602|exc. Laeti|
 Claud. rapt. Pros. 3.444|adna-|innatat|Nicolaus Heinsius|1760|Lond. Royal 15 Α vii (L5)|apud Burmannum; 'etsi pro vulgato stant & codices manu exarati'
+Consent. gramm. p. 10.17|-imus|proferemus|Heinrich Keil|1868|Bpc|
+Consent. gramm. p. 19.20|h. si a.|hoc sic animaduertamus|Heinrich Keil|1868|B Par.|
 Culex 40|memor-|remoretur|Emil Baehrens|1879|Corsin. 43 F 5 (Γ)|
 Culex 149|-em|liquorum|Haupt|1858|Cantab. Kk v 34 (C)|
 Culex 179|inton-|insonat|Johannes Schrader|1789|Corsin. 43 F 5 (Γ)|apud Heyne
