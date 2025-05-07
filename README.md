@@ -105,6 +105,7 @@ layout: no-anchor
         <li>Claudianus, Claudius, <em>Carmina</em>, ed. John Barrie Hall (Leipzig, 1985).</li>
         <li>Claudius Donatus, Tiberius, <em>Ad Tiberium Claudium Maximum Donatianum filium suum interpretationes Vergilianae</em>, ii, ed. Heinrich Georges (Leipzig, 1906).</li>
         <li>Clausen, W. V., J. A. Richmond et al. (eds), <em>Appendix Vergiliana</em> (Oxford, 1967).</li>
+        <li>Consentius, <em>De barbarismis et metaplasmis</em>, ed. Tommaso Mari (Oxford, 2021).</li>
         <li>Courtney, Edward, <em>The Fragmentary Latin Poets</em> (Oxford, 1993). ('obscura diligentia')</li>
         <li>Demosthenes, <em>Orationes</em>, ed. S. H. Butcher and W. Rennie, 3 vols (Oxford, 1903–31).</li>
         <li>Demosthenes, <em>Orationes</em>, ed. M. R. Dilts, 4 vols (Oxford, 2002–9).</li>
