@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-05-08T12:26:47+00:00
+last_modified_at: 2025-05-08T12:39:12+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS
@@ -6693,6 +6693,7 @@ Stat. Theb. 12.355|imm-/am-|admisso|Jean de Peyrarède|1658|O d|apud Marolles
 Stat. Theb. 12.718|at|an|C. E. Sandström|1878|Monac. 19481 (F3)|p. 60; v.l.
 Stat. Theb. 12.729|tac-|iacent|Emil Baehrens|1884|Paris. lat. 10317 (Q)|apud Kohlmann; m. sec.
 Stat. Theb. 12.733|-ios|edonos|Gronovius|1653|Brux. 5337 (G)|v.l.
+Suet. Aug. 51.3|sedulo u./sedulo lentius|sed uiolentius|Pierre Pithou|1672|Vc|teste Graev.
 Suet. Iul. 55.3|existimat|-abat|C. G. Müller||Paris. lat. 6116 (Π)|m. pr.
 Tac. Agr. 3.3|senectutis|seruitutis|Fulvio Orsini|1595|Aesinas lat. 8 (E)|
 Tac. Agr. 9.3|-am|persona|Beatus Rhenanus|1533|Ec|
