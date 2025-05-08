@@ -124,6 +124,7 @@ layout: no-anchor
         <li>Eschilo, <em>Agamennone</em>, ed. Enrico Medda (Rome, 2017).</li>
         <li>Eschilo, <em>Supplici</em>, ed. Carles Miralles, Vittorio Citti and Liana Lomiento (Rome, 2019).</li>
         <li>Euripides, <em>Fabulae</em>, ed. J. Diggle, 3 vols (Oxford, 1984–94).</li>
+        <li>Euripide, <em>Ifigenia in Aulide</em>, ed. Valeria Andò (Venice, 2021).</li>
         <li>Finglass, P. J., 'Unpublished conjectures at Leiden on the Greek dramatists', <em>Greek, Roman and Byzantine Studies</em>, 49/2 (2009), 187–221.</li>
         <li>Finglass, P. J., 'Unpublished Conjectures on Sophocles by Jeremiah Markland', <em>Greek, Roman, and Byzantine Studies</em>, 51/2 (2011), 232–8.</li>
         <li>Finglass, Patrick J. 'Il valore dei papiri per la critica testuale di Sofocle', in <em><a href="https://library.oapen.org/bitstream/handle/20.500.12657/55124/9788866553878.pdf">Il valore dei papiri per la critica testuale di Sofocle</a></em> (Florence, 2013), 33–51.</li>
