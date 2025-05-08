@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-05-07T05:37:19+00:00
+last_modified_at: 2025-05-08T06:55:42+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS
@@ -1408,7 +1408,8 @@ Eur. Hipp. 1070|ἧπαρ δακρύων τ'|ἧπαρ· δακρύων|Wilamowi
 Eur. Hipp. 1255|-ραὶ|συμφορὰ|Elmsley|n.d.|Laur. 31.10 (O)|
 Eur. Hipp. 1317|-póv|ἐχθρῶν|Elmsley|n.d.|V3|
 Eur. IA 308|γε φ. σε δεῖ|γε φερειν σε|Adolf Kirchhoff|n.d.|P.Köln II 67|
-Eur. IA 309|-ως|αλλοις|Markland|n.d.|P.Köln II 67|
+Eur. IA 309|-ως|Ἄλλοις|Markland|1771|P.Köln II 67|
+Eur. IA 378|εὖ|αὖ|Markland|1771|Palat. gr. 287 (P)|m. sec.
 Eur. IA 380|αἰσχρὸς οὐκ|χρηστὸς|Grotius|n.d.|Stob. cod. M|
 Eur. IA 793|οὐλο-|ολο̣[μενας|George Burges||P.Leid. inv. 510|
 Eur. IA 804|πύλας|πελ̣[ας|Joshua Barnes|n.d.|P.Köln II 67|'His dedication was therefore an instance of servile absurdity, to be exceeded only by Joshua Barnes's dedication of a Greek Anacreon to the Duke' (Johnson)
