@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-05-08T12:39:12+00:00
+last_modified_at: 2025-05-09T03:03:42+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS
@@ -250,7 +250,7 @@ layout: no-anchor
         <li>Propertius, Sextus, <em>Elegiarum libri IV</em>, ed. Paolo Fedeli (Munich, 1994).</li>
         <li>Ptolemæus, Claudius, <em>Geographia</em>, i, ed. Carl Müller (Paris, 1883).</li>
         <li>Publilius Syrus Mimus, <em>Sententiae</em>, ed. Otto Friedrich (Berlin, 1880).</li>
-        <li>Quintilianus, M. Fabus, <em>Institutionis oratoriae libri duodecim</em>, i, ed. M. Winterbottom (Oxford, 1970). (ii unavailable)</li>
+        <li>Quintilianus, M. Fabus, <em>Institutionis oratoriae libri duodecim</em>, ed. M. Winterbottom, 2 vols (Oxford, 1970).</li>
         <li>Quintus de Smyrne, <em>La Suite d'Homère</em>, ed. Francis Vian, 2 vols (Paris, 1963–6). (tome III unavailable)</li>
         <li>Radt, Stefan (ed.), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, iii: <em>Aeschylus</em> (Göttingen, 1985).</li>
         <li>Radt, Stefan (ed.), <em>Tragicorum Graecorum Fragmenta (TrGF)</em>, iv: <em>Sophocles</em> (2nd edn, Göttingen, 1999).</li>
@@ -6160,7 +6160,7 @@ Quint. decl. 376.3|induc-|indicere|Pierre Ayrault|1563|CD|
 Quint. decl. 379.4|pretii|precio|Pierre Ayrault|1563|Palat. lat. 1558 (D)|s.l.
 Quint. inst. 1.4.14|ipsa alteri|alteri|Ferdinand Meister|1876|Lond. Burn. 243|Philol.
 Quint. inst. 2.12.1|plerum-|plerosque|Petrus Francius|1720|Paris. lat. 14146 (E)|apud Burmannum
-Quint. inst. 2.17.2|etiam/ea|eam|Karl Halm|1868–9|Bodl. D'Orv. 13|
+Quint. inst. 2.17.2|etiam/ea|eam|Karl Halm|1868|Bodl. D'Orv. 13|
 Quint. inst. 3.6.38|-iecit|subicit|G. L. Spalding|1798|Cantab. Ioann. 91 (J)|
 Quint. inst. 4.3.12|ut|uel|G. L. Spalding|1803|Ps. Cassiod. rhet. 16|
 Quint. inst. 4.5.8|quod/quid|quo|Madvig|1873|Paris. lat. 14146 (E)|
@@ -6178,6 +6178,16 @@ Quint. inst. 5.14.33|lato|elato|Ferdinand Meister|1856|Iul. Vict. rhet. p. 421|
 Quint. inst. 6.1.7|-es -entur|moris uidetur|Ferdinand Meister|1853|Bodl. D'Orv. 13|
 Quint. inst. 6.2.32|insequitur|hinc sequetur|G. L. Spalding|1803|epit. Patricii|
 Quint. inst. 6.3.110|u. esse|urbana ex serio|G. L. Spalding|1803|Vat. lat. 1762|
+Quint. inst. 7.2.47|minus magis p. … m. p.|minus prosunt … magis prosunt|Eduard Bonnell|1854|Lond. Burn. 243|
+Quint. inst. 8 pr. 30|reliquis ita r./ad requisita r.|requisita respondere|C. G. Zumpt|1829|p 1470|apud ed. Spaldingii
+Quint. inst. 8.3.59|ⲀϹΧΗΜΙΤΟΝ/ⲀϹΧΗΜⲀΤΟΝ/scheamatisteon|ἀσχημάτιστον|Karl Halm|1869|Laur. 46.9 (1418)|
+Quint. inst. 8.6.13|et idem de|et item de|Karl Halm|1869|Paris. lat. 7719 (D)|
+Quint. inst. 9.1.33|-a|ipsam|James S. Reid|1902|Ambros. E. 153 sup. (A)|ad Cic. orat. apud Wilkins
+Quint. inst. 9.3.10|-a|multo|J. M. Gesner|1738|Ambros. E. 153 sup. (A)|
+Quint. inst. 9.3.10|sciusticus p.|scitus pugnandi|Karl Halm|1869|Harl. 4995 (1470)|
+Quint. inst. 10.1.83|eloquendi usu(s) suauitate|e. s.|Raphael Regius|1493|Bodl. D'Orv. 13|
+Quint. inst. 10.2.22|-itio/-ita|proposito|M. C. Gertz|1876|Turic. 288 (T)|p. 134
+Quint. inst. 11.3.101|mediumque qua|medium q.|M. C. Gertz|1876|Harl. 2662 (1434)|
 Sall. Iug. 12.3|suam|sua|Janus Gruterus|1607|Monac. lat. 19479 et 4559|
 Sall. hist. fr. 1.107 M|acc[]as|accitas|Gerlach|1856|Vindob. L 117 (Funari)|
 Scrib. Larg. 46|-ere|oblinire|Andreas Cratander|1529|Tolet. 98.12 (T)|
