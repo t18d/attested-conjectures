@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-05-09T03:08:07+00:00
+last_modified_at: 2025-05-10T12:04:34+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS
@@ -133,6 +133,7 @@ layout: no-anchor
         <li>Frontinus, <em>De aquaeductu urbis Romae</em>, ed. R. H. Rodgers (Cambridge, 2004).</li>
         <li>Fronto, M. Cornelius, <em>Epistulae</em>, ed. Michael P. J. van den Hout (Leipzig, 1988).</li>  
         <li>Galán Vioque, Guillermo, 'Joseph Scaliger’s Notes on Quintus of Smyrna’s <em>Posthomerica</em>', <em>Greek, Roman and Byzantine Studies</em>, 55 (2015), 946–68.</li>
+        <li>Galien, <em>Tome I</em>, ed. Véronique Boudon-Millot (Paris, 2007).</li>
         <li>Gallavotti, Carlo (ed.), <em>Theocritus quique feruntur bucolici Graeci</em> (Rome, 1993).</li>
         <li>Galletier, Édouard, <em>Panégyriques latins</em>, 3 vols (Paris, 1949–55).</li>
         <li>Gellius, A., <em>Noctium Atticarum libri XX</em>, ed. Martin Hertz (Berlin, 1883–5).</li>
@@ -323,7 +324,7 @@ layout: no-anchor
 <p>See also Pasquali’s <a href="https://t18d.github.io/attested-conjectures/decalogo/">Twelve Commandments</a> and James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel/">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- The following sequence of lines must not change – there must be 3 lines of code (including the next comment) below this, no more, no less. -->
-<p>The top 10 critics are Reiske (276), Scaliger (238), Nicolaus Heinsius (214), Adamantios Korais (190), Bentley (171), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (95).</p>
+<p>The top 10 critics are Reiske (276), Scaliger (238), Nicolaus Heinsius (214), Adamantios Korais (191), Bentley (171), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (95).</p>
 <br>
 <!-- Anything not in the table must be before this comment. -->
 
@@ -1697,6 +1698,57 @@ Eust. Il. 1291.44|οὔ τοι|οὗτοι|Guarinus Camers|s.xv/xvi|Laur. 59.2 e
 Fronto p. 252.10|om.|τις|Philipp Buttmann|1816|Mai a. 1817 et Naber|apud Niebuhr
 Fronto p. 252.11|μηδέπως ἐσωρακότων|μηδέπω σε ἑωρακότων|Philipp Buttmann|1816|Mai a. 1817 et Naber|apud Niebuhr
 Fronto p. 255.2|ταισο|ιλισον|Philipp Buttmann|1816|teste Brakman|apud Niebuhr
+Gal. Libr.Ord. 1.4|-χὴ|διαδοχαὶ|Janus Cornarius|1532–49|Vlatadon 14 (Vlat)|
+Gal. Libr.Ord. 2.8|-λέξαι|ἀναλεξάσθαι|Ivan von Müller|1874|Vlatadon 14 (Vlat)|
+Gal. Libr.Ord. 3.9|συγγι-|συγγενομένοι|René Chartier|1639|Vlatadon 14 (Vlat)|
+Gal. Libr.Ord. 3.11|ἠκη-|ἀκηκοότες|Ivan von Müller|1874|Vlatadon 14 (Vlat)|
+Gal. Libr.Ord. 4.1|-μνήματα|ὑπομνημάτων|Joachim Marquardt|1876|Vlatadon 14 (Vlat)|
+Gal. Libr.Ord. 4.2|δύνατο|δύναιτο|René Chartier|1639|Vlatadon 14 (Vlat)|
+Gal. Libr.Ord. 4.4|-ντες … -σαμεν|ἄγοντας … ἐποίησεν|Ivan von Müller|1874|Vlatadon 14 (Vlat)|
+Gal. Libr.Ord. 4.5|-ρήματα|θεωρημάτων|René Chartier|1639|Vlatadon 14 (Vlat)|
+Gal. Libr.Ord. 5.4|om.|ἐκ τῶν|Janus Cornarius|1532–49|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. 1.3|διαιρ-|αἱρέσεις|Janus Cornarius|1532–49|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. 1.11|καθὸ|καθ’ ὃ|C. G. Kühn|1830|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. 2.2|om.|περὶ|René Chartier|1639|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. 2.5|κατὰ|μετὰ|Ivan von Müller|1891|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. 4.3|περὶ τὴν κ. γ.|περὶ τῶν τὴν κάτω γένυν|René Chartier|1639|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. 4.15|ἑαυτῇ|ἐν αὐτῇ|Janus Cornarius|1532–49|Vlatpc|
+Gal. Libr.Propr. 4.16|ἑτέρου|ἱεροῦ|Johann Fichard|1531|Hunaini uersio arabica|osse sacro
+Gal. Libr.Propr. 4.18|ἔτι|ἐστι|Ivan von Müller|1891|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. 4.18|τοὺς γνάθους|τὰς γ.|René Chartier|1639|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. 4.20|-ην κατὰ … -εός|ῥάξιν καὶ τὰ … πήχεώς|René Chartier|1639|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. 4.23|ἃ μ. -αια|πρῶτον μὲν κεφάλαιον|Hermann Schöne|1924|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. 4.28|περιέων|περιέχει|Janus Cornarius|1532–49|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. 7.5|διαπρογνω-|διαγνωστικὰ|René Chartier|1639|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. 8.4|non legitur|ἀρχὰς|Ivan von Müller|1891|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. 9.1|-γράμματα|συγγραμμάτων|Ivan von Müller|1891|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. 9.8|-εως|φύσιος|Ivan von Müller|1891|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. 9.9|ἔτι|ἔστι|Johannes Ilberg|1889|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. 9.10|om.|τῶν|Ivan von Müller|1891|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. 9.10|ἐγκεφάλου|ἐν κεφαλῇ|René Chartier|1639|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. 9.11|προγνωστικ-|προρρητικὸν|Jean Irigoin|1976|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. 10.2|om.|τοὺς|René Chartier|1639|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. 12.3|om.|καὶ|John Caius|1556|Hunaini uersio arabica|
+Gal. Libr.Propr. 14.14|ϛ' … τοῦ|ἓξ … τὸ|Ivan von Müller|1891|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. 14.14|τὸ πρότερον λέξεως Εὐδήμου πρότερον ἑτέροις|τ. περὶ λ. Ε. π. ἑταίροις|Ivan von Müller|1891|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. 14.15|ἑτέρ-|ἑταίων|René Chartier|1639|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. 14.15|-εισημένοις|προεισηγμένοις|Janus Cornarius|1532–49|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. 14.18|om.|τὸ|Johannes Ilberg|1889|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. 14.21|γ'|τρία|Ivan von Müller|1891|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. 14.22|δευτέρας|δυνάμεως|Janus Cornarius|1532–49|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. 14.23|ἕνεκ' αὐτοῦ|ἕνεκά του|Carl Prantl|1855|Vlatpc|
+Gal. Libr.Propr. 17.1|περὶ|προτέρου ύπομνήματα τέτταρα, τοῦ δευτέρου τέτταρα|Ivan von Müller|1891|Hunaini uersio arabica|
+Gal. Libr.Propr. 19.2|φιλολογία|φυσιολογία|Usener|1887|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. prol. 1|καθὼ|καθ’ ὃ|Johann Fichard|1531|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. prol. 1|μὴ|μὲν|Janus Cornarius|1532–49|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. prol. 2|-θην|ἐβουλήθη|René Chartier|1639|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. prol. 5|α. τὸ λ.|αὐτοῦ τοῦ λελωβῆσθαι|René Chartier|1639|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. prol. 7|-ίοις|ἴδια|Ivan von Müller|1891|Vlatadon 14 (Vlat)|
+Gal. Libr.Propr. prol. 11|ἔγρα-|ἐπέγραψαν|Ivan von Müller|1891|Vlatadon 14 (Vlat)|
+Gal. Med.Phil. 3.5|om.|χρὴ|Adamantios Korais|1816|Hunaini uersio arabica|
+Gal. Med.Phil. 4.1|ἄξιον|ἀξιῶν|Theodore Goulston|1640|Hunaini uersio arabica|
+Gal. Med.Phil. 4.2|αὐτὴν|αὐτῶν|Ivan von Müller|1875|Hunaini uersio arabica|
+Gal. Med.Phil. 4.4|-ον|ἀναισχύντου|Ernst Wenkebach|1933|Hunaini uersio arabica|
 Gorg. Hel. 13|ὡς ε.|εὐμετάβολον|Reiske|1773|HW|
 Gorg. Hel. 20|ἔπραξε|ἔπραξεν ἃ ἔ.|Reiske|1773|Lond. Burn. 95 (A)|
 Gorg. Hel. 21|ἐπ' ἀ.|ἐν ἀρχῇ|Reiske|1773|Lond. Burn. 95 (A)|
