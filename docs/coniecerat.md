@@ -92,6 +92,7 @@ layout: no-anchor
 **iam _critic_:** Patillon, P.Oxy.
 
 > **iam coni. _critic_:** Brunschwig  
+**sed iam _critic_:** Boudon-Millot  
 **iam _sigla_:** Rodgers  
 **iam cod(d). _sigla_:** Billerbeck–Somazzi
 
