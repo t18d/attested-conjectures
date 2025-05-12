@@ -13,7 +13,7 @@ layout: no-anchor
 <div align="center">
 <br>
 <br>
-<a href="https://digitalpublicgoods.net/r/dpg-slug" target="_blank" rel="noopener noreferrer"><img src="https://github.com/user-attachments/assets/7747526f-896d-4932-b9b0-5b81e1c28d74" width="100" alt="Digital Public Goods Logo"></a>
+<a href="https://digitalpublicgoods.net/r/dpg-slug" target="_blank" rel="noopener noreferrer"><img src="https://t18d.github.io/attested-conjectures/assets/dpg-logo.svg" width="100" alt="Digital Public Goods Logo"></a>
 </div>
 <br>
 <br>
