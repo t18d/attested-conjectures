@@ -10,7 +10,11 @@ layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
+<div align="center">
 <br>
+<br>
+<a href="https://digitalpublicgoods.net/r/dpg-slug" target="_blank" rel="noopener noreferrer"><img src="https://github.com/user-attachments/assets/7747526f-896d-4932-b9b0-5b81e1c28d74" width="100" alt="Digital Public Goods Logo"></a>
+</div>
 <br>
 <br>
 <p>This database is searchable as three CSV files (<a href="https://github.com/t18d/attested-conjectures/blob/main/greek.csv">Greek</a>, <a href="https://github.com/t18d/attested-conjectures/blob/main/latin.csv">Latin</a>, <a href="https://github.com/t18d/attested-conjectures/blob/main/biblical.csv">OT/NT</a>). The quickest way to get an addition or correction merged is to fork the repo or <a href="https://t18d.github.io/attested-conjectures/contributing/#clone-the-repo">clone locally</a>, edit the CSV file and send in a pull request. Scope and formatting are explained in project <a href="https://github.com/t18d/attested-conjectures/wiki">Wiki</a>. For changes relating to NT conjectures, please notify the <a href="https://ntvmr.uni-muenster.de/nt-conjectures-attribution">upstream</a> as well.</p>
