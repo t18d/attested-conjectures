@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-05-12T07:17:22+00:00
+last_modified_at: 2025-05-15T04:01:18+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS
@@ -123,6 +123,7 @@ layout: no-anchor
         <li>Diogenes Laertius, <em>Lives of Eminent Philosophers</em>, ed. Tiziano Dorandi (Cambridge, 2013).</li>
         <li>Dionysius Halicarnasensis, <em>Antiquitatum Romanarum quae supersunt</em>, i–ii, ed. Carl Jacoby (Leipzig, 1885–8).</li>
         <li>Dionysius Halicarnaseus, <em>Opuscula</em>, ed. Hermann Usener and Ludwig Radermacher, 2 vols (Leipzig, 1899–1904).</li>
+        <li>Dorandi, Tiziano, and Stephen White (eds), <em>Clearchus of Soli: Text and Translation</em> (Abingdon, 2022), 1–309.</li>
         <li>Driver, G. R., 'Hebrew Scrolls', <em>The Journal of Theological Studies</em>, 2 (1951), 17–30.</li>
         <li>El-Maghrabi, M. G., and C. Römer (eds), <em>Texts from the "Archive" of Socrates, the Tax Collector, and Other Contexts at Karanis (P. Cair. Mich. II)</em> (Berlin, 2015), 48.</li>
         <li>Eschilo, <em>Agamennone</em>, ed. Enrico Medda (Rome, 2017).</li>
@@ -971,6 +972,7 @@ Ath. 11.498a|κάλλ-|σκαλλίον|Casaubon|1597|Laur. Plut. 60.01 (B)|σκ
 Ath. 11.499c|Δ. ἐ.|Δίφιλος δὲ ἐν|Georg Kaibel|1890|Laur. Plut. 60.01 (B)|
 Ath. 11.506a|-ων|ἐπιγραφομένῳ|Casaubon|1597|Laur. Plut. 60.01 (B)|
 Ath. 11.508f|ἐπ-|ἀπεσφάγη|Nauck||C E|
+Ath. 12.524|-λιπ-|ὑπολειπούσης|Musurus|1514|B M P|
 Ath. 12.526d|εἶ; τίς/ἢ τίς|ἤ τις|Meineke|1858|Laur. Plut. 60.01 (B)|
 Ath. 12.532c|-λιπ-|κατέλειπε(ν)|Cobet|1873|C E|
 Ath. 13.568f|Φιλιππίδου|Φιλίππου|Meineke|1859|Laur. Plut. 60.01 (B)|
@@ -979,7 +981,9 @@ Ath. 13.594e|εὐφ-|συμφωνίαις|Casaubon|1597|Laur. Plut. 60.01 (B)|
 Ath. 14.623a|τέλος μέρος|τέλος|Meineke|1859|C E|
 Ath. 14.633b|καιγ-|καταγηρασάντων|Casaubon|1597|Laur. Plut. 60.01 (B)|
 Ath. 14.634a|κ. τε|καλεῖσθαι δὲ|Georg Kaibel|1890|C E B|
+Ath. 14.639a|διαφθέρ-|διαφέρειν|Musurus|1514|Laur. Plut. 60.01 (B)|
 Ath. 14.657b|τὰς β.|τοὺς βοῦς|Casaubon|1597|Laur. Plut. 60.01 (B)|
+Ath. 15.687|φιλημμι|φίλημμ᾽|Volger|1810|rec.|
 Ath. 15.694d|ἔτικτε τέκνα Λατώ|ἔ. παῖδα Λ.|Hermann|1816|CE|p. 694
 Ath. Epit. 6.253e|ὥσπερ|ὥσπερ εἰ|Jonathan Toup|1790|Laur. Plut. 60.02 (E)|
 Ath. Epit. 7.280e|ἀλλήλους|-οις|Grotius|1626|Laur. Plut. 60.02 (E)|
