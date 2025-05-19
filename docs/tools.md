@@ -30,7 +30,7 @@ description: Lesser-known resources for classical philologists
 
 > a wide-ranging series from TLG years
 
-[Ancient Greek](https://www.lexilogos.com/keyboard/greek_ancient.htm)/[Uncial](https://www.lexilogos.com/keyboard/coptic.htm) keyboards (Nègre)
+[Ancient Greek](https://www.lexilogos.com/keyboard/greek_ancient.htm) \| [Uncial](https://www.lexilogos.com/keyboard/coptic.htm) keyboards (Nègre)
 
 >actively maintained mobile keyboards
 
