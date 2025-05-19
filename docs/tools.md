@@ -30,9 +30,9 @@ description: Lesser-known resources for classical philologists
 
 > a wide-ranging series from TLG years
 
-[Ancient Greek keyboard](https://www.lexilogos.com/keyboard/greek_ancient.htm) (Nègre)
+[Ancient Greek](https://www.lexilogos.com/keyboard/greek_ancient.htm)/[Uncial](https://www.lexilogos.com/keyboard/coptic.htm) keyboards (Nègre)
 
-> an actively maintained mobile keyboard
+>actively maintained mobile keyboards
 
 [Distinguishing æ and œ](https://www.pgdp.net/wiki/Æ_and_œ_ligatures#Distinguishing_the_ligatures) (DPWiki)
 
