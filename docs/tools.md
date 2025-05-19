@@ -4,7 +4,7 @@ permalink: tools/
 seo:
   type: Collection
   name: Tools of the Trade
-last_modified_at: 2025-05-19T07:24:08+00:00
+last_modified_at: 2025-05-19T07:26:52+00:00
 description: Lesser-known resources for classical philologists
 ---
 # Tools of the Trade
