@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-05-20T05:56:48+00:00
+last_modified_at: 2025-05-20T12:13:12+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS
@@ -3863,6 +3863,8 @@ Sud. π 926|προσφ-|προφέρειν|Bekker|1854|Phot. z|Suidae Lex. p. 83
 Synag. 52.22|αἱρεθίζειν|αἱρετίζειν|Theodor Kock|1880–8|Phot. α 642|
 Synag. 177.16|ἀωρὶ θανάτωι|ἀωροθάνατος|Dindorf|1835|Phot. α 3493|
 Synag. 353.9|ἀτη-|ἀτειρής|F. W. Wagner|1852|Phot. α 474|
+Them. Or. 4.9.1|σοι|τοι|Denis Pétau|1613|B Mpc|
+Them. Or. 4.13.8|διο-|διαφανοῦς|Henri Estienne|1562|M Ψ|
 Theoc. 2.35–36a schol.|-δρομος|πρόδομος|Samuel Butler|1816|Bodl. Canon. Gr. 86 (Gaisford)|
 Theoc. 2.82|μοι περὶ|μεῦ πυρὶ|Walter Taylor|1821|P.Ant. III 207 (Pa)|apud Briggs; μ]ευ
 Theoc. 2.155|ἄλλοτ'|ἄλλοκ ̓|Brunck|1772–6|P.Ant. III 207 (Pa)|
