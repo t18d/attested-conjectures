@@ -296,6 +296,7 @@ layout: no-anchor
         <li>Tacitus, Cornelius, <em>Ab excessu divi Augusti libri XI–XVI</em>, ed. Kenneth Wellesley (Leipzig, 1986).</li>
         <li>Tacitus, Cornelius, <em>Historiarum libri</em>, ed. Kenneth Wellesley (Leipzig, 1989).</li>
         <li>Tacitus, P. Cornelius, <em>Agricola</em>, ed. Josef Delz and J. von Ungern-Sternberg (Berlin, 2010).</li>
+        <li>Thémistios, <em>Discours I–IV</em>, ed. Omer Ballériaux and Jacques Schamp (Paris, 2022).</li>
         <li>Theodoridis, Christos (ed.), <em>Die Fragmente des Grammatikers Philoxenos</em> (Berlin, 1976).</li>
         <li>Theodorus Prodromus, <em>De Rhodanthes et Dosiclis amoribus libri IX</em>, ed. Miroslav Marcovich (Stuttgart, 1992).</li>
         <li>Théon, Aelius, <em>Progymnasmata</em>, ed. Michel Patillon (Paris, 1997).</li>
