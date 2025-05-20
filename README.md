@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-05-15T05:59:41+00:00
+last_modified_at: 2025-05-20T05:54:14+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS
@@ -329,7 +329,7 @@ layout: no-anchor
 <p>See also Pasquali’s <a href="https://t18d.github.io/attested-conjectures/decalogo/">Twelve Commandments</a> and James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel/">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- The following sequence of lines must not change – there must be 3 lines of code (including the next comment) below this, no more, no less. -->
-<p>The top 10 critics are Reiske (276), Scaliger (238), Nicolaus Heinsius (214), Adamantios Korais (191), Bentley (171), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (95).</p>
+<p>The top 10 critics are Reiske (276), Scaliger (238), Nicolaus Heinsius (214), Adamantios Korais (192), Bentley (171), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (95).</p>
 <br>
 <!-- Anything not in the table must be before this comment. -->
 
@@ -934,6 +934,7 @@ Arist. Po. 1461b8|διαμάρτημα|δι’ ἁμάρτημα|Vincenzo Maggi|
 Arist. Po. 1461b15–16|ὑπεναντία ὡς|ὑπεναντίως|Thomas Twining|1789|Σ|
 Arist. Po. 1461b21|Ὀ. τοῦ Μ.|Ὀρέστῃ τῇ τοῦ Μενελάου|Johannes Vahlen|1874|Σ|
 Arist. Po. 1462a3|om.|οἳ|Petrus Victorius|1560|Σ|
+Arist. Pol. 1293a|-ας|εὐπορίαν|Adamantios Korais|1821|Utin. Archiep. VI 5 (E)|
 Arist. Top. 121b|ἐπ' ἄ./εἰς ἄ|ὑπ' ἄλληλα|Theodor Waitz|1846|M2|p. 473; 'alterum sub altero' (Pacius)
 Arist. Top. 133a|ἢ οὗ τοὔνομα|ἢ τ.|Giorgio Colli|1955|Vat. gr. 244 (W)|
 Arist. Top. 134b|ἔσται|ἔστι|W. D. Ross|1955|Pier. Morg. 758 (M)|
