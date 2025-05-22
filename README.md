@@ -13,7 +13,7 @@ layout: no-anchor
 <div align="center">
 <br>
 <br>
-<a href="https://www.digitalpublicgoods.net" target="_blank" rel="noopener noreferrer"><img src="https://t18d.github.io/attested-conjectures/assets/dpg-logo.svg" width="100" alt="Digital Public Goods Logo"></a>
+<a href="https://www.digitalpublicgoods.net/r/database-of-greek-and-latin-conjectural-emendations-attested-in-mss" target="_blank" rel="noopener noreferrer"><img src="https://t18d.github.io/attested-conjectures/assets/dpg-logo.svg" width="100" alt="Digital Public Goods Logo"></a>
 </div>
 <br>
 <br>
