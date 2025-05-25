@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-05-22T00:25:57+00:00
+last_modified_at: 2025-05-25T12:01:37+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS
@@ -2467,6 +2467,7 @@ Pi. N. 10.60|αἰχμᾷ|ἀκμᾷ|J. C. de Pauw|1747|P.Oxy. LXXV 5043|
 Pi. O. 1 schol. Inscr. a|ογ΄|οϛ΄|Bergk|1878|P.Oxy. II 222|Poet. Lyr. i. p.4
 Pi. O. 2.76|γᾶς|μέγας|J. C. de Pauw|1747|P.Oxy. XVII 2092|
 Pi. O. 6.77|ὄροις|ὄρος|Zacharias Callierges|1515|P.Oxy. XIII 1614|
+Pi. P. 1.67|Ζ. τέλει’, α.|Ζεῦ τέλει, αἰεὶ|J. C. de Pauw|1747|GPV|
 Pi. P. 3.166 schol.|ἐν κῷ|ἐν Ἴκῳ|Jean Brodeau|1549|DEGQ|Epigr. Gr. p. 372
 Pi. P. 6.14|-οι/-ος|τυπτόμενον|Dawes|n.d.|P.Oxy. LXXV 5039|
 Pi. Pae. 9.4|ἰσχὺν πτανὸν (ἀν)δράσιν|ἰσχύν τ'ἀνδράσι(ν)|Blass|n.d.|P.Oxy. V 841|
