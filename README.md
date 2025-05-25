@@ -267,6 +267,7 @@ layout: no-anchor
         <li>Reynolds, L. D. (ed.), <em>Texts and Transmission: A Survey of the Latin Classics</em> (Oxford, 1983).</li>
         <li>Rossbach, Otto, <em>De Senecae philosophi librorum recensione et emendatione</em> (Breslau, 1888).</li>
         <li>Rowe, Christopher, <em>Aristotelica: Studies on the Text of Aristotle’s</em> Eudemian Ethics (Oxford, 2023).</li>
+        <li>Sandri, Maria Giovanna (ed.), <em>Trattati greci sui tropi</em> (Berlin, 2023).</li>
         <li>Sappho and Alcaeus, <em>Fragmenta</em>, ed. Eva-Maria Voigt (Amsterdam, 1971).</li>
         <li>Schenkl, Karl, 'Valckenarii animadversiones in Philostratos', <em>Wiener Studien</em>, 14 (1892), 270.</li>
         <li>Schneider, Otto (ed.), <em>Nicandrea</em> (Leipzig, 1856).</li>
