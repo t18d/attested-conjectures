@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-05-25T12:04:44+00:00
+last_modified_at: 2025-05-25T14:33:46+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS
@@ -4233,6 +4233,11 @@ Thuc. 8.79.1|ἵνα δὲ|ἵνα δὴ|Gottfried Boehme|1856|S5|
 Thuc. 8.86.5|-ρῶν|λοιδοριῶν|Madvig|1871|Pi2|Adv. p. 334
 Thuc. 8.86.9|πεμπτοὺς/πέμπουσι|del.|Bekker|1832|recc.|
 Thuc. 8.95.6|οἱ|οἳ|Henri Estienne|1564|Pi2|
+Trypho II Trop. 22.1|πραγμάτων|προσώπων|C. E. Finckh|1866|Leid. BPG 74G (Z)|
+Trypho II Trop. 23.2|ἑαυτοῦ|ἑαυτῆς|Wenzel Klouček||Mac|apud Rzach
+Trypho II Trop. 23.2|ξένοις|ξύλοις|J. A. Cramer|1833|Leid. BPG 74G (Z)|
+Trypho II Trop. 24|προτερ-|πτερῷ|J. F. Boissonade|1831|MZ|
+Trypho Iβ Trop. 18.3|ἄγουσα|ἄγων|Michael Apostolis|s.xv|Bergom. MA 339 (E)|apud Sandri
 X.Eph. 1.12.1|δὲ|δὲ καὶ|D. K. Zagoiannes|1897|Laur. Conv. Soppr. 627 (F)|
 X.Eph. 2.6.4|ἕξεται|ἄξεται|F. L. Abresch|1739–45|Laur. Conv. Soppr. 627 (F)|
 X.Eph. 3.4.4|καὶ ἄρα καὶ|καὶ γάρ καὶ|Cobet|1856|Laur. Conv. Soppr. 627 (F)|apud Hirschig
