@@ -224,6 +224,7 @@ layout: no-anchor
         <li>Philostratus, Flavius, <em>Heroicus</em>, ed. Ludo de Lannoy (Leipzig, 1977).</li>
         <li>Philostratus, Flavius, <em>Vita Apollonii Tyanei</em>, ed. Gerard Boter (Berlin, 2022).</li>
         <li>Photius, <em>Patriarchae lexicon</em>, ed. Christos Theodoridis, 3 vols (Berlin, 1982–2013).</li>
+        <li>Pindar, <em>First Pythian Ode</em>, ed. Almut Fries (Berlin, 2023).</li>
         <li>Places, Édouard des (ed.), <em>Oracles chaldaïques avec un choix de commentaires anciens</em> (Paris, 1971).</li>
         <li>Plato, <em>Opera</em>, iii, ed. John Burnet (Oxford, 1903).</li>
         <li>Platon, <em>Théétète</em>, ed. Auguste Diès (Paris, 1924).</li>
