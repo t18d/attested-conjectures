@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-05-26T05:47:52+00:00
+last_modified_at: 2025-05-26T23:57:18+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -1924,6 +1924,8 @@ Lys. 2.47|π. β.|πρὸς τοὺς βαρβάρους|Reiske|1759|Bodl. Baroc
 Lys. 6.29|ἐνθένδε|ἐνθάδε|Scaliger|2007|Laur. Plut. 57.4 (C)|apud Carey
 Lys. Fr. 234|ἑταίρας ἀπίας|ἑτέρας αἰτίας|Adolf Emperius|1833|Vat. gr. 66 (M)|p. 47
 Lys. Fr. 279.3|-ων/ἀπιόντα|παριόντα|Karl Scheibe|1841|Coisl. 249 (V)|Neue Jahrb.
+Man. 1.217|σκεδάσουσι/ὁδάσουσι|ἐλάσουσι(ν)|J. Ph. d’Orville|1750|Laur. Plut. 28.27 (L)|in marg.; p. 309
+Man. 2.153|ἐυπρήσσοντας|εὖ πρήσοντας|Nauck|1875|Vat. gr. 1056 (V)|
 Marcellin. Vit. Thuc. 1|ἀνὴρ|ὁ ἀνὴρ|Casaubon|1588|Turon. 980 (T)|
 Marcellin. Vit. Thuc. 7|πρόσκ-|πρόκλησιν|Hude|1898|Vat. gr. 1302 (Vg)|
 Marcellin. Vit. Thuc. 38|εἰσαγό-|εἰσαγαγόντων|E. F. Poppo|1843|Ambros. I 25 sup. (Ab)|
