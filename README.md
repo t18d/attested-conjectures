@@ -8,7 +8,7 @@ seo:
 last_modified_at: 2025-05-26T03:20:46+00:00
 layout: no-anchor
 ---
-# Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
+# Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
 <p align="right"><em>a project of <a href="https://t18d.github.io/">Open Source by Tonkünstler-on-the-Bund</a></em></p>
 <div align="center">
 <br>
