@@ -195,6 +195,7 @@ layout: no-anchor
         <li>Lycurgus, <em>Oratio in Leocratem</em>, ed. Nicos C. Conomis (Leipzig, 1970).</li>
         <li>Lysias, <em>Orationes cum fragmentis</em>, ed. C. Carey (Oxford, 2007).</li>
         <li>Malcovati, Enrica (ed.), <em>L. Annaei Flori quae exstant</em> (Rome, 1972).</li>
+        <li>Pseudo-Manetho, <em>Apotelesmatica</em>, ed. J. L. Lightfoot, 2 vols (Oxford, 2020–3).</li>
         <li>Manilius, M., <em>Astronomica</em>, ed. George P. Goold (Stuttgart, 1998).</li>
         <li>Markus, D., and G. Schwendner, 'Seneca’s Medea in Egypt (663–704)', <em>ZPE</em>, 117 (1997), 73–84.</li>
         <li>Marshall, P. K., <em>The Manuscript Tradition of Cornelius Nepos</em> (Oxford, 1977), 43.</li>
