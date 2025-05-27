@@ -54,6 +54,9 @@ Hotoman, et non pas Hotman; c'est l'orthographe qu'il a toujours préférée. (C
 
 > Is de la Monnoye's theory that '[s]on vrai nom étoit <em><span class="sc">Hotman</span></em>, qu'il changea en <em><span class="sc">Hotoman</span></em> … on a toujours dit <em>Hotman</em>' anything more than a theory?
 
+## Iurinus
+James Jurin
+
 ## Korais
 Coray (without initial) is what he called himself in France. (Diggle)
 
