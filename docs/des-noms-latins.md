@@ -57,6 +57,8 @@ Hotoman, et non pas Hotman; c'est l'orthographe qu'il a toujours préférée. (C
 ## Iurinus
 James Jurin
 
+> Massey had a sound criticism of Jurin, but it came too late to undermine Jurin's propaganda (R. P. Stearns)
+
 ## Korais
 Coray (without initial) is what he called himself in France. (Diggle)
 
