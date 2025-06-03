@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-05-27T00:00:56+00:00
+last_modified_at: 2025-06-03T11:44:58+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -33,6 +33,7 @@ layout: no-anchor
         <li>P.Lond.Lit.</li>
         <li>P.Oxy. I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XV, XVII, XIX, XX, XXII, XXIV, XXVI, XXVII, XXXI, XXXII, XXXVIII, XLI, XLII, XLIV, XLV, XLVII, XLVIII, XLIX, L, LIII, LIV, LVI, LVII, LIX, LX, LXI, LXII, LXIII, LXIV, LXVI, LXVII, LXVIII, LXXV, LXXVI, LXXVIII, LXXIX, LXXXI, LXXXIV (LXXXV, LXXXVII unavailable)</li>
         <li>P.Ryl. I, III</li>
+        <li>Acusilaus of Argos, <em>Rhapsody in Prose</em>, ed. Ilaria Andolfi (Berlin, 2019).</li>
         <li>Adler, Ada (ed.), <em>Suidae lexicon</em>, 4 vols (Munich, 1928–35).</li>
         <li>Aeschines, <em>Orationes</em>, ed. Mervin R. Dilts (Stuttgart, 1997).</li>
         <li>Alciphro Rhetor, <em>Epistolae</em>, ed. E. E. Seiler (Leipzig, 1853), x.</li>
@@ -2319,6 +2320,7 @@ Philostr. VA 8.22|-ει|ἀπάγοι|Reiske|1756|Paris. gr. 1696|p.c.
 Philostr. VA 8.31.3|μαστ-|ματεύεις|Scaliger|2022|App.Anth. Orac. 258|apud Boter
 Philox.Gramm. 129.6|Νικόχαρις|Νικοχάρης|Hemsterhuis|1744|D R|ad schol. Ar. Plut. 179 ('ego Bentleium audire malui')
 Philox.Gramm. 505.3|ἴσθι|εἰς θι|Friedrich Sylburg|s.xvi ex.|Marc. 304 (B)|
+Phld. Piet. N 433 VIII.9|ε[|εμβλη[|Bernardo Quaranta|2019 (a1860)|P.Herc. 433 IX|apud Andolfi
 Phot. α 151|ἀγενὲς|ἀγεννὲς|Jan van Leeuwen|1907|cod. Zavord. 95 (z)|Mnem.
 Phot. α 163|οἵους|ἰοῦσ'|David Ruhnken|n.d.|schol. Eur.|
 Phot. α 448|ἄμπελον|ἄπεπλον|Leo|1907|Zavord. 95 (z)|Hermes 42, 1907, 153/4 = Kl. Schr. 2,409
