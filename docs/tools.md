@@ -19,10 +19,6 @@ description: Lesser-known resources for classical philologists
 
 [The Nomenclature of Manuscripts](https://archive.org/details/companiontoclass00halluoft/page/286/mode/1up) (Hall)
 
-[The E. L. Mark system of citation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1834803/pdf/bmj00308-0078.pdf) (Chernin)
-
-> aka author–date, the only option when the use of notes is out of the question
-
 ## Typography
 [FAQ – Greek Language & Script](https://www.unicode.org/faq/greek.html#3) (Unicode Consortium)
 
@@ -61,6 +57,10 @@ description: Lesser-known resources for classical philologists
 > Die Loslösung des kritischen Apparates von den Texten war ein Mißstand, der sich aus dem ursprünglichen Plane des Unternehmens fast mit Notwendigkeit herausgebildet hatte: waren doch anfänglich nur Ausgaben für Schulzwecke vorgesehen, für die ein Apparat unter dem Texte entbehrlich erschien. (Norden)
 
 [Professor Key and Doctor Wagner: An Episode in the History of Victorian Scholarship](https://blogs.exeter.ac.uk/pegasus/files/2013/06/12-1969.pdf) (Glucker)
+
+[E. L. Mark's system of citation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1834803/pdf/bmj00308-0078.pdf) (Chernin)
+
+> aka author–date, the only option when the use of notes is out of the question
 
 [M. L. West and the British Philological Method](https://github.com/t18d/attested-conjectures/raw/main/assets/pdf/M_L_West_and_the_British_Philological_Me.pdf) (Nikolaev)
 
