@@ -15,6 +15,8 @@ description: Lesser-known resources for classical philologists
 &nbsp;  
 [Commonest Abbreviations, Signs, etc. Used in the Apparatus to a Classical Text](https://github.com/t18d/attested-conjectures/raw/main/assets/pdf/Commonest_Abbreviations_Signs_etc_Used_in_the_Apparatus_to_a_Classical_Text.pdf) (Maurer/Scullion)
 
+[_A New Introduction to Bibliography_](https://archive.org/details/newintroductiont0000gask) (Gaskell)
+
 [The Nomenclature of Manuscripts](https://archive.org/details/companiontoclass00halluoft/page/286/mode/1up) (Hall)
 
 [The E. L. Mark system of citation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1834803/pdf/bmj00308-0078.pdf) (Chernin)
