@@ -19,6 +19,8 @@ description: Lesser-known resources for classical philologists
 
 [The Nomenclature of Manuscripts](https://archive.org/details/companiontoclass00halluoft/page/286/mode/1up) (Hall)
 
+[Checklist of Editions of Greek, Latin, Demotic, and Coptic Papyri, Ostraca, and Tablets](https://papyri.info/docs/checklist) (Oates et al.)
+
 ## Typography
 [FAQ – Greek Language & Script](https://www.unicode.org/faq/greek.html#3) (Unicode Consortium)
 
