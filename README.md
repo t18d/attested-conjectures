@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-06-15T00:55:54+00:00
+last_modified_at: 2025-06-15T02:40:08+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -5685,7 +5685,7 @@ Mart. Cap. 9.977|verum|unum|Marcus Meibomius|1652|Bamb. Msc. class. 39 (B)|v.l.
 Mart. Cap. 9.986|-ici|iambi|Marcus Meibomius|1652|C2|
 Maxim. eleg. 1.163|Veneris|Cereris|J. H. Withof|1741|codd. 5|
 Maxim. eleg. 1.216|Di-|Deminui|Emil Baehrens|1883|cod.|
-Maxim. eleg. 1.259|uiscera|uincula|Ellis|1884|cod.|
+Maxim. eleg. 1.259|uiscera|uincula|Ellis|1884|Lond. Add. 21.213 (Br)|
 Maxim. eleg. 2.17|nunc|non|Emil Baehrens|1883|codd. 4|
 Nemes. cyn. 139|-u|cursus|Jan van Vliet|1645–53|Paris. lat. 4839 (B)|
 Nemes. cyn. 145|iud-|indicio|Caspar von Barth|1613|Paris. lat. 4839 (B)|
