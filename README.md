@@ -201,6 +201,7 @@ layout: no-anchor
         <li>Markus, D., and G. Schwendner, 'Seneca’s Medea in Egypt (663–704)', <em>ZPE</em>, 117 (1997), 73–84.</li>
         <li>Marshall, P. K., <em>The Manuscript Tradition of Cornelius Nepos</em> (Oxford, 1977), 43.</li>
         <li>Martialis, M. Valerius, <em>Epigrammaton libri</em>, ed. W. Heraeus and Jacob Borovskij (Leipzig, 1976).</li>
+        <li>Maximianus, <em>The Elegies</em>, ed. A. M. Juster (Philadelphia, 2018).</li>
         <li>Nemesianus, <em>Cynegetica</em>, ed. Rainer Jakobi (Berlin, 2014).</li>
         <li>Nepos, Cornelius, <em>Vitae cum fragmentis</em>, ed. Peter K. Marshall (Leipzig, 1985).</li>
         <li>Nicandre, <em>Œuvres</em>, ed. Jean-Marie Jacques, 2 vols (Paris, 2002–7).</li>
