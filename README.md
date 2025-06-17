@@ -29,6 +29,7 @@ layout: no-anchor
         <li>Kenney, E. J., <em>The Classical Text: Aspects of Editing in the Age of the Printed Book</em>  (Berkeley, 1974), 145.</li>
     </ul>
     <h3>Sources</h3>
+    <p class="text-gray">(For references in commit log that do not appear below, see the <a href="https://github.com/t18d/attested-conjectures/wiki/Checklist-of-Public-Domain-Editions">Checklist of Public Domain Editions</a>.)</p>
     <ul>
         <li>P.Lond.Lit.</li>
         <li>P.Oxy. I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XV, XVII, XIX, XX, XXII, XXIV, XXVI, XXVII, XXXI, XXXII, XXXVIII, XLI, XLII, XLIV, XLV, XLVII, XLVIII, XLIX, L, LIII, LIV, LVI, LVII, LIX, LX, LXI, LXII, LXIII, LXIV, LXVI, LXVII, LXVIII, LXXV, LXXVI, LXXVIII, LXXIX, LXXXI, LXXXIV (LXXXV, LXXXVII unavailable)</li>
