@@ -38,7 +38,7 @@ Enclose fields containing commas in double quotes. Escape a double quote inside 
 ## Ref.
 For Greek, use LSJ’s abbreviations and [DGE’s](http://dge.cchs.csic.es/lst/2lst1.htm) numberings. When LSJ uses [single-letter abbreviation](#single-letter-abbreviations) for an author, switch to [OCD’s](https://oxfordre.com/classics/page/3993). When an author or work is absent from both LSJ and DGE, try [RE](https://de.m.wikipedia.org/wiki/Liste_der_Abkürzungen_antiker_Autoren_und_Werktitel). For Byzantine works, see [LBG](https://stephanus.tlg.uci.edu/lbg/lbg_abbreviations.html).
 
-For Latin, follow [TLL](https://thesaurus.badw.de/tll-digital/index/a.html).
+For Latin, follow [ThLL](https://thesaurus.badw.de/tll-digital/index/a.html).
 
 Instructions for specific works follow:
 
