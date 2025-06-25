@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-06-17T05:09:34+00:00
+last_modified_at: 2025-06-26T06:59:48+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -337,7 +337,7 @@ layout: no-anchor
 <p>See also Pasquali’s <a href="https://t18d.github.io/attested-conjectures/decalogo/">Twelve Commandments</a> and James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel/">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- The following sequence of lines must not change – there must be 3 lines of code (including the next comment) below this, no more, no less. -->
-<p>The top 10 critics are Reiske (276), Scaliger (238), Nicolaus Heinsius (214), Adamantios Korais (192), Bentley (171), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (95).</p>
+<p>The top 10 critics are Reiske (277), Scaliger (238), Nicolaus Heinsius (214), Adamantios Korais (192), Bentley (171), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (95).</p>
 <br>
 <!-- Anything not in the table must be before this comment. -->
 
@@ -1577,7 +1577,7 @@ Eur. Ph. 188|Ἀμυμωνίοις|τ᾽ ἀμυμ-|F. A. Paley|1879|RfP2|
 Eur. Ph. 207|-θην|κατενάσθη|Styan Thirlby|1726|Athous Dion. 334 (Ad)|ad 237 ap. King
 Eur. Ph. 226|ἰὼ|ω|Willem Canter|1571|P.Oxy. IX 1177|
 Eur. Ph. 228|-είων κτλ.|βακχεῖον|Adolf Kirchhoff|1855|Vindob. phil. gr. 119 (Rw)|
-Eur. Ph. 252|σχῆμα|σῆμα|Friedrich Heimsoeth|1865|G et Aaγρ|p. 256
+Eur. Ph. 252|σχῆμα|σῆμα|Friederich Heimsoeth|1865|G et Aaγρ|p. 256
 Eur. Ph. 297|ἀναπ-|ἀμπέτασον|August Seidler|1812|Vat. gr. 909 (V)|p. 253
 Eur. Ph. 308-9|χαίτας|-ταις|Jean Brodeau|1551|P.Vindob. inv. G 29769|ed. Hervag. tertia
 Eur. Ph. 325|δ'|τ'|Gilbert Wakefield|1801|Laur. Conv. Soppr. 172 (P)|Crit. Rev. (Wakefield on Porson)
@@ -2985,7 +2985,7 @@ Simon. fr. 25.5|χεέτω|χείτω|M. L. West|1989|P.Oxy. LXXXI 5261|
 Soph. Aj. 98|ὥστ'|ὡς|Elmsley|n.d.|Paris. suppl. gr. 109 (Q)|
 Soph. Aj. 135|-άλου|ἀγχίαλον|F. H. Bothe|n.d.|Laur. 32.40 (H)|
 Soph. Aj. 146|λοιπή|κοινή|Henrik van Herwerden|1866|Gγρ|ad OT 591
-Soph. Aj. 181|μαχαναῖς|μη-|G. Wolff|1858–65|Laur. 32.40 (H)|
+Soph. Aj. 181|μαχαναῖς|μη-|Gustav Wolff|1858–65|Laur. 32.40 (H)|
 Soph. Aj. 194|ποτὲ|ποτὶ|Ritschl||Vat. gr. 1333 (Zc)|
 Soph. Aj. 211|δορι-/δορυ-|δουριάλωτον|Brunck|1786|Livineii 'V'|
 Soph. Aj. 230|παραπλήκτῳ|-άκτῳ|Frederick H. M. Blaydes|n.d.|H s.l.|
@@ -3023,7 +3023,7 @@ Soph. Aj. 1237|ἔχειν|ποῖ|Valckenaer|pre-1775|cod. rec.|
 Soph. Aj. 1243|ἤρεσκεν|ἤρκεσε|Johannes Pierson|2009|MS|GRBS
 Soph. Aj. 1245|λελειμ-|λελημμένοι|Pearson|n.d.|Laur. 32.40 (H)|
 Soph. Aj. 1274|οὗτος|ἐντός|Markland|s.xviii med.|a|
-Soph. Aj. 1283|αὐτὸς|αὑ-|G. Wolff|1858–65|Vindob. suppl. gr. 71 (Xs)|
+Soph. Aj. 1283|αὐτὸς|αὑ-|Gustav Wolff|1858–65|Vindob. suppl. gr. 71 (Xs)|
 Soph. Aj. 1368|σόν|σόν γ'|Porson|n.d.|Paris. gr. 2735 (C)|
 Soph. Aj. 1371|τῆσ-|τήνδε|F. H. Bothe|n.d.|Paris. gr. 2735 (C)|
 Soph. Aj. 1379|-ον|ὅσων|Porson|n.d.|Vat. gr. 1333 (Zc)|s.l.
@@ -3038,9 +3038,9 @@ Soph. Ant. 218|τοῦτ ̓|τοῦδ ̓|Brunck|1786|Uac|
 Soph. Ant. 287|νόμ-|δόμους|Henrik van Herwerden|n.d.|Vat. gr. 57 (Zh)|
 Soph. Ant. 314|-ωσμέ-|σεσωμένους|Wecklein|n.d.|Marc. gr. 470 (Ta)|
 Soph. Ant. 342|κουφονέων|κουφονόων|Johannes Pierson|2009|Λac et S|GRBS
-Soph. Ant. 365|σοφόν|δεινόν|Heimsoeth|1865|t|
+Soph. Ant. 365|σοφόν|δεινόν|Friederich Heimsoeth|1865|t|
 Soph. Ant. 384|om.|ἡ|Markland|s.xviii med.|Palat. gr. 287 (Zo)|
-Soph. Ant. 390|ποθ ̓|γ ̓ ἂν|Erfurdt|1802–25|t|
+Soph. Ant. 390|ποθ ̓|γ ̓ ἂν|C. G. A. Erfurdt|1802–25|t|
 Soph. Ant. 396|κλῆρος|κλῆρος δ ̓|G. Müller|1967|Paris. gr. 2884 (Ζf)|
 Soph. Ant. 404|ἴδον|ἰδὼν|Brunck|1786|Paris. gr. 2886|i.e. Aristobulus Apostolides
 Soph. Ant. 406|εὐρέθη|ᾑρέθη|Markland|s.xviii med.|Laur. 32. 9 (L)|fort. pc legit sch. ut videtur
@@ -3061,7 +3061,7 @@ Soph. Ant. 828|-ῳ|ὄμβρος|Gleditsch|n.d.|Vat. gr. 1333 (Zc)|s.l.
 Soph. Ant. 831|θ' … -αύστοις|δ' … παγκλαύτοις|F. H. Bothe|n.d.|KS|
 Soph. Ant. 836|-ῃ/-ῳ/-αν|φθιμένᾳ|Johannes Pierson|2009|Laur. 32. 9 (L) et a|GRBS
 Soph. Ant. 848|ἔργμα|ἕρμα|Hermann|n.d.|Urb. gr. 141 (S)|
-Soph. Ant. 851|οὔτ ̓ ἐν|οὔτε|Erfurdt|1802–25|Urb. gr. 141 (S)|
+Soph. Ant. 851|οὔτ ̓ ἐν|οὔτε|C. G. A. Erfurdt|1802–25|Urb. gr. 141 (S)|
 Soph. Ant. 859|οἶκτον|οἶτον|Brunck|1786|Kpc|
 Soph. Ant. 938|πατρογενεῖς|προγενεῖς|Valckenaer|pre-1775|Laur. 32. 9 (L)|
 Soph. Ant. 989|-ες|βλέποντε|Moriz Schmidt|1871–80|LpcKa|
@@ -3069,7 +3069,7 @@ Soph. Ant. 1035|δ ̓|del.|Brunck|1786|Laur. 31.1|a.c.
 Soph. Ant. 1069|κατῴκ-|κατοικίσας|Henrik van Herwerden|n.d.|Laur. 31.10 (K)|
 Soph. Ant. 1081|-γνι-|καθήγισαν|Burton|n.d.|VacZc|
 Soph. Ant. 1089|-ωτέραν|ἡσυχαιτέραν|G. H. Schaefer|n.d.|Zg et Laur. 31.1|
-Soph. Ant. 1098|λαβ-/λακ-|λαχεῖν|Heimsoeth|1865|Paris. gr. 2884 (Ζf)|
+Soph. Ant. 1098|λαβ-/λακ-|λαχεῖν|Friederich Heimsoeth|1865|Paris. gr. 2884 (Ζf)|
 Soph. Ant. 1196|ἑσπ-|εἱπόμην|Frederick H. M. Blaydes|n.d.|Vat. gr. 2291 (R)|
 Soph. Ant. 1236|μέσσον/μέσον/ἐς|ἐν|Wecklein|n.d.|SZot|
 Soph. Ant. 1237|παρθένῳ|-ον|Brunck|1786–9|Paris. gr. 2884 (Ζf)|
@@ -3089,11 +3089,11 @@ Soph. El. 305|μου|μοι|Thomas Magister|n.d.|Ambros. E. 1035 sup. (Wa)|
 Soph. El. 436|-θα|ἔνθεν|Meineke|n.d.|t|
 Soph. El. 483|om.|σ'|Johann v. G. Fröhlich|1815|Ambros. E. 1035 sup. (Wa)|
 Soph. El. 492|ἐπέβα|-αν|Frederick H. M. Blaydes|n.d.|Vat. gr. 2291 (R)|
-Soph. El. 496|ἡμῖν|ὑμῖν|Purgold|n.d.|pt|
+Soph. El. 496|ἡμῖν|ὑμῖν|Ludwig Purgold|n.d.|pt|
 Soph. El. 513|τις|τι|Hermann|n.d.|Vat. gr. 2291 (R)|
-Soph. El. 583|-εις|τυγχάνοις|Turnebus|1552–3|Vindob. suppl. gr. 71 (Xs)|
+Soph. El. 583|-εις|τυγχάνοις|Turnebus|1553|Vindob. suppl. gr. 71 (Xs)|
 Soph. El. 593|δ'|γ'|J. A. Hartung|1850–1|Paris. gr. 2735 (C)|
-Soph. El. 653|εὐημεροῦσαν|-σα|Erfurdt|1802–25|Laur. 32.40 (H)|
+Soph. El. 653|εὐημεροῦσαν|-σα|C. G. A. Erfurdt|1802–25|Laur. 32.40 (H)|
 Soph. El. 653|τέκνων|-οις|Benedict|n.d.|Vindob. phil. gr. 161 (Xr)|s.l.
 Soph. El. 689|τοιοῦδ'|τοιάδ'|Brunck|1786|Marc. gr. 616 (Zr)|
 Soph. El. 710|κλήροις|-ους|Eduard Wunder|1831|Paris. gr. 2735 (C)|
@@ -3117,7 +3117,7 @@ Soph. El. 1246|ἐνέβαλες|ὑπ-|Frederick H. M. Blaydes|n.d.|Vat. gr. 40
 Soph. El. 1275|-ύστον-|πολύπονον|Hermann|n.d.|Bos. q. 7 (J)|
 Soph. El. 1281|φίλαι|φίλ ̓|Eduard Wunder|n.d.|Paris. gr. 2735 (C)|
 Soph. El. 1458|πύλας|πέλας|Reiske|1753|VXs|
-Soph. El. 1471|φίλως|-ους|Purgold|n.d.|Vat. gr. 904 (Pa)|
+Soph. El. 1471|φίλως|-ους|Ludwig Purgold|n.d.|Vat. gr. 904 (Pa)|
 Soph. OC 33|-ων|ἀκούω|Lindner|n.d.|QacRt|
 Soph. OC 48|-ῶ/-ᾶν|δρᾷς|L. Peters|n.d.|Palat. gr. 287 (Zo)|
 Soph. OC 52|τίς δ ̓|τίς|Frederick H. M. Blaydes|n.d.|rZo|
@@ -3156,59 +3156,55 @@ Soph. OC 1728|ἔγωγε|ἐγώ|Nauck|n.d.|Palat. gr. 287 (Zo)|
 Soph. OC 1735|ποῖ|πῇ|Karl Halm|n.d.|Laur. 31.10 (K)|
 Soph. OC 1736|τλάμονων|τλάμον ̓|Hermann|n.d.|r|
 Soph. OC 1736|ἕξω/ἔξω|ἄξω|Frederick H. M. Blaydes|n.d.|Laur. 31.10 (K)|
-Soph. OT 75|χρόνου|-ον|Purgold|n.d.|Marc. gr. 468 (V)|
-Soph. OT 79|προσστείχοντα|προστ-|Erfurdt|1802–25|Vat. gr. 2291 (R)|
-Soph. OT 188|ὧν|τῶν|B. H. Kennedy|1885|PSI XI 1192|τω]ν
-Soph. OT 222|ὕστερος|-ον|Frederick H. M. Blaydes|n.d.|Marc. gr. 616 (Zr)|
-Soph. OT 222|ἀστὸς|αὐτὸς|Elmsley|n.d.|pa|
-Soph. OT 258|ἐπικυρῶ|ἐπεὶ κυρῶ|Burton|n.d.|Laur. Conv. Soppr. 66|
-Soph. OT 281|ἂν|ἃν|Henri Estienne||Vindob. phil. gr. 161 (Xr)|
-Soph. OT 290|παλαί ̓|μάται ̓|Halbertsma|n.d.|WaZg|
-Soph. OT 324|φών-|φρόνημ ̓|Naber|n.d.|r|
+Soph. OT 75|χρόνου|-ον|Ludwig Purgold|1802|Marc. gr. 468 (V)|
+Soph. OT 79|προσστείχοντα|προστ-|C. G. A. Erfurdt|1809|Vat. gr. 2291 (R)|
+Soph. OT 188|ὧν|τῶν|B. H. Kennedy|1885 (1882)|PSI XI 1192|τω]ν
+Soph. OT 222|ὕστερος|-ον|Frederick H. M. Blaydes|1859|Marc. gr. 616 (Zr)|
+Soph. OT 222|ἀστὸς|αὐτὸς|Elmsley|1811|pa|
+Soph. OT 258|ἐπικυρῶ|ἐπεὶ κυρῶ|Johannes Pierson|2009 (a1759)|Laur. Conv. Soppr. 66|apud Finglass
+Soph. OT 281|ἂν|ἃν|Henri Estienne|1568|Vindob. phil. gr. 161 (Xr)|
+Soph. OT 290|παλαί ̓|μάται ̓|Tjalling Halbertsma|1896 (a1894)|SWaZg|
+Soph. OT 324|φών-|φρόνημ ̓|Naber|1881|rCac|'parum abest quin conjiciam Sophoclem dedisse Φ.'
 Soph. OT 360|λέγειν|λόγων|Brunck|1786|Laur. 32.9 (L)|s.l. teste West
-Soph. OT 430|οὐ|αὖ|G. Wolff|1858–65|P.Oxy. I 22|in linea
-Soph. OT 433|ᾔδει(ν)|ᾔδη|Dawes|s.xviii med.|P.Oxy. XVIII 2180|in margine
-Soph. OT 446|ἀλγύναις|-οις|Elmsley|n.d.|Matrit. gr. 4677 (N)|
-Soph. OT 458|αὐτὸς|αὑτὸς|Markland|s.xviii med.|Vindob. suppl. gr. 71 (Xs)|pc
-Soph. OT 464|εἶπε|εἶδε|Gitlbauer|n.d.|KG|
-Soph. OT 475|Παρνασοῦ|-ασσοῦ|Hermann|n.d.|Vindob. phil. gr. 161 (Xr)|
-Soph. OT 523|om.|δ'|Moriz Schmidt|1871–80|P.Oxy. XVIII 2180|in linea (Barrett apud OCT)
-Soph. OT 525|τοῦ πρὸς|τοὔπος|Heimsoeth|1865|P.Oxy. XVIII 2180|
-Soph. OT 535|ἐναργὴς|-ῶς|Frederick H. M. Blaydes|n.d.|Paris. gr. 2735 (C)|
-Soph. OT 570|τοσόνδε|τὸ σὸν δέ|Brunck|1786|LacKp|
+Soph. OT 430|οὐ|αὖ|Gustav Wolff|1870|P.Oxy. I 22|in linea
+Soph. OT 433|ᾔδει(ν)|ᾔδη|Benjamin Heath|1762|P.Oxy. XVIII 2180|in margine
+Soph. OT 446|ἀλγύναις|-οις|Elmsley|1811|Matrit. gr. 4677 (N)|
+Soph. OT 458|αὐτὸς|αὑτὸς|Markland|1758–76|Vindob. suppl. gr. 71 (Xs)|pc
+Soph. OT 475|Παρνασοῦ|-ασσοῦ|C. G. A. Erfurdt|1811|Vindob. phil. gr. 161 (Xr)|
+Soph. OT 523|om.|δ'|Moriz Schmidt|1864|P.Oxy. XVIII 2180|in linea
+Soph. OT 525|τοὖπος/τοῦ πρὸς/πρὸς τοῦ|τοὔπος|Friederich Heimsoeth|1865|P.Oxy. XVIII 2180|
+Soph. OT 535|ἐναργὴς|-ῶς|Frederick H. M. Blaydes|1859|Paris. gr. 2735 (C)|
 Soph. OT 630|οὐχὶ|οὐ|Brunck|1786|DZr|
-Soph. OT 658|ζητῇς|χρῄζῃς|Meineke|n.d.|r|
-Soph. OT 685|προπονουμένῳ/προπονουμένας|προνοουμένῳ|Frederick H. M. Blaydes|n.d.|Marc. gr. 468 (V)|
-Soph. OT 694|τ'|γ'|Turnebus|1552–3|p|
+Soph. OT 658|ζητῇς|χρῄζῃς|Meineke|1863|(G)R|p. 234
+Soph. OT 685|προπονουμένῳ/προπονουμένας|προνοουμένῳ|Frederick H. M. Blaydes|1859|Marc. gr. 468 (V)|
+Soph. OT 694|τ'|γ'|Turnebus|1553|p|
 Soph. OT 733 schol.|κέλευθον|κελεύθων|Scaliger|post-1568|GMR|
-Soph. OT 766|τοῦτ ̓|τοῦ δ ̓|Frederick H. M. Blaydes|n.d.|Vpc|Herwerden?
+Soph. OT 766|τοῦτ ̓|τοῦδ ̓|Frederick H. M. Blaydes|1859|Vpc|
 Soph. OT 778|habent|del.|Valckenaer|pre-1775|P.Oxy. XI 1369|
-Soph. OT 791|χρεῖ' ἦ vel sim.|χρείη|Dawes|n.d.|Pa|pc
-Soph. OT 822|ὧνπερ|αἷνπερ|Frederick H. M. Blaydes|n.d.|Paris. gr. 2735 (C)|
-Soph. OT 829|ἀνορθοίη|ἂν ὀρθοίη|G. H. Schaefer|n.d.|p|
-Soph. OT 870|μήν ποτε|μήποτε|Elmsley|n.d.|Paris. gr. 2884|
-Soph. OT 883|ὑπέροπτα|-οπλα|P. P. Dobree|n.d.|Cac|
-Soph. OT 1001|τε|γε|Hermann|n.d.|p|
-Soph. OT 1031|ἐν καιροῖς/κακοῖς|ἐν χεροῖν|Moriz Schmidt|n.d.|Fγρ|W. W. Walker?
-Soph. OT 1078|αὐτὴ|αὕτη|Hermann|n.d.|p|
-Soph. OT 1108|-νιάδων|Ἑλικωνίδων|Porson|n.d.|Aac|
-Soph. OT 1142|νῦν|νυν|Frederick H. M. Blaydes|n.d.|t|
-Soph. OT 1153|μ'|γ'|Frederick H. M. Blaydes|n.d.|Palat. gr. 40 (P)|
-Soph. OT 1172|κάλλιστ'|μάλιστ'|Nauck|n.d.|p|
-Soph. OT 1197|-σας τ.|ἐκράτησε τοῦ|Hermann|n.d.|Ambros. L. 39 sup.|
+Soph. OT 791|χρεῖ' ἦ vel sim.|χρείη|Benjamin Heath|1762|Pa|pc
+Soph. OT 822|ὧνπερ|αἷνπερ|Frederick H. M. Blaydes|1859|Paris. gr. 2735 (C)|
+Soph. OT 829|ἀνορθοίη|ἂν ὀρθοίη|G. H. Schaefer|1802|p|apud Hermann
+Soph. OT 870|μήν ποτε|μήποτε|Elmsley|1811|Paris. gr. 2884|
+Soph. OT 883|ὑπέροπτα|-οπλα|P. P. Dobree|1833 (a1825)|Cac|
+Soph. OT 1001|τε|γε|Hermann|1809|p|apud Erfurdt
+Soph. OT 1031|ἐν καιροῖς/κακοῖς|ἐν χεροῖν|Moriz Schmidt|1863|F2γρWγρ|
+Soph. OT 1078|αὐτὴ|αὕτη|Hermann|1809|p|apud Erfurdt
+Soph. OT 1108|-νιάδων|Ἑλικωνίδων|Porson|1798|Aac|ad Eur. Or. 614
+Soph. OT 1142|τότ'|τόδ'|Frederick H. M. Blaydes|1859|Voss. gr. Q. 6 (O)|
+Soph. OT 1153|μ'|γ'|Frederick H. M. Blaydes|1859|Palat. gr. 40 (P)|
+Soph. OT 1172|κάλλιστ'|μάλιστ'|Nauck|1856|p|
+Soph. OT 1197|-σας τ.|ἐκράτησε τοῦ|Hermann|1800|Ambros. L. 39 sup.|ad Eur. Hec.
 Soph. OT 1217|om.|alterum σε|Eduard Wunder|1824|Voss. gr. Q. 6 (O)|
-Soph. OT 1232|ἤδειμεν|ἤδεμεν|Elmsley|n.d.|Vat. gr. 1333 (Zc)|
-Soph. OT 1245|κάλει|καλεῖ|Johannes Pierson|2009|Ambros. G 56 sup.|GRBS
-Soph. OT 1255|φοιτᾷ|φοίτα|Frederick H. M. Blaydes|n.d.|p|
-Soph. OT 1264|αἰώραις|αἰώραισιν|Henrik van Herwerden|1866|Ambros. G 56 sup.|
+Soph. OT 1232|ἤδειμεν|ἤδεμεν|Elmsley|1806|Vat. gr. 1333 (Zc)|
+Soph. OT 1245|κάλει|καλεῖ|Johannes Pierson|2009 (1759)|Ambros. G 56 sup.|apud Finglass
+Soph. OT 1264|πλεκταῖς αἰώραις|πλεκταῖσιν αἰώραισιν|Nauck|1856|Ambros. G 56 sup. (W)|
 Soph. OT 1294|δείξει|δόξει|Reiske|1753|Vindob. phil. gr. 161 (Xr)|
-Soph. OT 1311|ἐξήλου|-ἤλλου|Hermann|n.d.|Paris. gr. 2735 (C)|
+Soph. OT 1311|ἐξήλου|-ἤλλου|Hermann|1823|CS|
 Soph. OT 1312|ἐς|ὡς|Henrik van Herwerden|1866|Laur. 32.40 (H)|
-Soph. OT 1320|φον-|φρονεῖν|Bergk|n.d.|a|
-Soph. OT 1453|ζῶντε|-τι|Johannes Pierson|2009|Vat. gr. 904 (Pa)|GRBS
+Soph. OT 1320|φον-|φρονεῖν|Bergk|1858|a|
+Soph. OT 1453|ζῶντε|-τι|Reiske|1753|Vat. gr. 904 (Pa)|
 Soph. OT 1466|αἷν|ταῖν|Benjamin Heath|1762|Marc. gr. 616 (Zr)|
-Soph. OT 1474|ἐγγόνοιν|ἐκγόνοιν|Valckenaer|1743–6|Paris. gr. 2787 (Zn) et Marc. gr. 472 (Jebb)|
-Soph. OT 1477|ἣ σ' εἶχεν κτλ.|ἥ σ' ἔχει|Eduard Wunder|1831|Laur. 32.2 (Zg)|
+Soph. OT 1474|ἐγγόνοιν|ἐκγόνοιν|Valckenaer|2009 (1743–6)|ZZn|apud Finglass
 Soph. Phil. 30|κυρῇ|κυρεῖ|G. H. Schaefer|n.d.|Gac|
 Soph. Phil. 81|κτῆμα|χρῆμα|Tournier|n.d.|Laur. 31.10 (K)|
 Soph. Phil. 144|ἴ. γ.|γὰρ ἴσως|Henrik van Herwerden||GS|
@@ -3243,7 +3239,7 @@ Soph. Phil. 1016|ἔμ ̓|σύ μ ̓|Nauck||Paris. suppl. gr. 109 (Q)|
 Soph. Phil. 1028|ἐξέβαλον/ἔκβαλον/ἐκβάλλον|ἔβαλον|Johannes Pierson|2009|LaZo|GRBS
 Soph. Phil. 1032|ἐμοῦ|ὁμοῦ|Gernhard|n.d.|Gγρ|
 Soph. Phil. 1079|ὁρμώμεθον|-μεθα|Elmsley|n.d.|Urb. gr. 141 (S)|
-Soph. Phil. 1095|οὐκ|κοὐκ|Erfurdt|n.d.|SQ|Wecklein?
+Soph. Phil. 1095|οὐκ|κοὐκ|C. G. A. Erfurdt|n.d.|SQ|Wecklein?
 Soph. Phil. 1138|ὅσ ̓|ὅς|F. H. Bothe|n.d.|Marc. gr. 468 (V)|
 Soph. Phil. 1144|ἐφημοσύνᾳ/εὐφ-|ὑφ-|Hermann|n.d.|Marc. gr. 616 (Zr)|
 Soph. Phil. 1238|ταῦτα|ταὐτὰ|Markland|s.xviii med.|LGRS|
@@ -3271,7 +3267,7 @@ Soph. Trach. 747|καὶ|κοὐ|Valckenaer|pre-1775|Laur. 32.2 (Zg)|
 Soph. Trach. 772|βόησε|’βόησε|Brunck|1786|Harl. 5743|
 Soph. Trach. 825|ἀναδοχάν|ἀνακωχάν|Valckenaer|1743–6|Laur. 32.2 (Zg)|ἀνοκωχάν Zg
 Soph. Trach. 902|ἄψορρον|-ος|Frederick H. M. Blaydes|n.d.|Palat. gr. 287 (Zo)|
-Soph. Trach. 951|μέλλ-|μένομεν|Erfurdt|n.d.|rec. (Dawe)|
+Soph. Trach. 951|μέλλ-|μένομεν|C. G. A. Erfurdt|n.d.|rec. (Dawe)|
 Soph. Trach. 977|γέρων|γέρον|Markland|s.xviii med.|a|
 Soph. Trach. 1082|ἔθαλψεν|ἔθαλψέ μ ̓|Hermann|n.d.|Laur. 31.10 (K)|
 Soph. Trach. 1123|ἐστιν|ἔστ ̓ ἐν|Frederick H. M. Blaydes|n.d.|Harl. 5743|
