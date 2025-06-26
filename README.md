@@ -36,7 +36,7 @@ layout: no-anchor
         <li>P.Ryl. I, III</li>
         <li>Acusilaus of Argos, <em>Rhapsody in Prose</em>, ed. Ilaria Andolfi (Berlin, 2019).</li>
         <li>Aeschines, <em>Orationes</em>, ed. Mervin R. Dilts (Stuttgart, 1997).</li>
-        <li>Aeschylus, <em>Aeschyli tragoediae cum incerti poetae Prometheo</em>, ed. Martin L. West (Stuttgart, 1998).</li>
+        <li>Aeschylus et al., <em>Aeschyli tragoediae cum incerti poetae Prometheo</em>, ed. Martin L. West (Stuttgart, 1998).</li>
         <li>Alciphro Rhetor, <em>Epistolae</em>, ed. E. E. Seiler (Leipzig, 1853), x.</li>
         <li>Alciphro Rhetor, <em>Epistularum libri IV</em>, ed. Menno Anton Schepers (Groningen, 1901).</li>
         <li>Alciphro Rhetor, <em>Epistularum libri IV</em>, ed. M. A. Schepers (Leipzig, 1905), vii–xviii.</li>
