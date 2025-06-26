@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-06-26T22:27:11+00:00
+last_modified_at: 2025-06-26T22:47:54+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -338,7 +338,7 @@ layout: no-anchor
 <p>See also Pasquali’s <a href="https://t18d.github.io/attested-conjectures/decalogo/">Twelve Commandments</a> and James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel/">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- The following sequence of lines must not change – there must be 3 lines of code (including the next comment) below this, no more, no less. -->
-<p>The top 10 critics are Reiske (278), Scaliger (238), Nicolaus Heinsius (214), Adamantios Korais (192), Bentley (171), Thomas Mangey (154), Casaubon (114), Valckenaer (107), Bekker (97) and Madvig (95).</p>
+<p>The top 10 critics are Reiske (278), Scaliger (239), Nicolaus Heinsius (214), Adamantios Korais (192), Bentley (171), Thomas Mangey (154), Casaubon (114), Valckenaer (107), Bekker (97) and Madvig (95).</p>
 <br>
 <!-- Anything not in the table must be before this comment. -->
 
@@ -6010,6 +6010,8 @@ Paneg. 12.2.2|mut-/met-|motu|Emil Baehrens|1874|H2|
 Paneg. 12.16.3|ann-|armorum|Franz Eyssenhardt|1867|W2|p. 21
 Pers. 5.90|uetauit|uetabit|C. F. Heinrich|1844|Reg. 1562|
 Pers. 5.123|-i|satyrum|Casaubon|n.d.|αVX|
+Pervig. Ven. 3|-ent|nubunt|Scaliger|1578|SV|
+Pervig. Ven. 9|quiuore|cruore|Achilles Statius|1578|SV|
 Petron. 64.2|-crime|plocame|Thomas Reinesius|1666|Paris. lat. 7989 (H)|p. 93
 Petron. 76.11|tantumque|tantum quod|Pieter Burman I|1709|Paris. lat. 7989 (H)|
 Phaedr. 1.19.1|-es|hominis|Pierre Pithou|1596|ρ D Wχ|
