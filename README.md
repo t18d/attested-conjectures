@@ -35,7 +35,6 @@ layout: no-anchor
         <li>P.Oxy. I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XV, XVII, XIX, XX, XXII, XXIV, XXVI, XXVII, XXXI, XXXII, XXXVIII, XLI, XLII, XLIV, XLV, XLVII, XLVIII, XLIX, L, LIII, LIV, LVI, LVII, LIX, LX, LXI, LXII, LXIII, LXIV, LXVI, LXVII, LXVIII, LXXV, LXXVI, LXXVIII, LXXIX, LXXXI, LXXXIV (LXXXV, LXXXVII unavailable)</li>
         <li>P.Ryl. I, III</li>
         <li>Acusilaus of Argos, <em>Rhapsody in Prose</em>, ed. Ilaria Andolfi (Berlin, 2019).</li>
-        <li>Adler, Ada (ed.), <em>Suidae lexicon</em>, 4 vols (Munich, 1928–35).</li>
         <li>Aeschines, <em>Orationes</em>, ed. Mervin R. Dilts (Stuttgart, 1997).</li>
         <li>Alciphro Rhetor, <em>Epistolae</em>, ed. E. E. Seiler (Leipzig, 1853), x.</li>
         <li>Alciphro Rhetor, <em>Epistularum libri IV</em>, ed. Menno Anton Schepers (Groningen, 1901).</li>
@@ -46,6 +45,9 @@ layout: no-anchor
         <li>Ammien Marcellin, <em>Histoire</em>, v, ed. Marie-Anne Marié (Paris, 1984).</li>
         <li>Ammien Marcellin, <em>Histoire</em>, iii, ed. Jacques Fontaine (Paris, 1996). (ii, iv, vi unavailable)</li>
         <li>Andocides, <em>Orationes</em>, ed. J. H. Lipsius (Leipzig, 1888), xviiii.</li>
+        <li>Anon., <em>Appendix Vergiliana</em>, ed. W. V. Clausen, J. A. Richmond et al. (Oxford, 1967).</li>
+        <li>Anon., <em>Pervigilium Veneris</em>, ed. Cecil Clementi (2nd edn, Oxford, 1928).</li>
+        <li>Anon., <em>Suidae lexicon</em>, 4 vols, ed. Ada Adler (Munich, 1928–35).</li>
         <li>Antiphon, <em>Orationes et fragmenta adiunctis Gorgiae, Antisthenis, Alcidamantis declamationibus</em>, ed. Friedrich Blass (Leipzig, 1881).</li>
         <li>Apollonius Rhodius, <em>Argonautica</em>, ed. Hermann Fränkel (Oxford, 1961).</li>
         <li>Appianus, <em>Historia Romana</em>, ed. P. Viereck and A. G. Roos, 2 vols (Leipzig, 1905–39).</li>
@@ -77,7 +79,6 @@ layout: no-anchor
         <li>Borges, Cassandra, and C. Michael Sampson, <em>New literary papyri from the Michigan collection: mythographic lyric and a catalogue of poetic first lines</em> (Ann Arbor, 2012), 20.</li>
         <li>Botley, Paul, <em>Richard ‘Dutch’ Thomson, c. 1569–1613</em> (Leiden, 2016), 105.</li>
         <li>Brink, C. O. (= K. O.), <em>Horace on Poetry</em> (Cambridge, 1971).</li>
-        <li>Buecheler, Franz (ed.), <em>Petronii Saturae et liber Priapeorum</em> (Berlin, 1904).</li>
         <li>Caesar, C. Iulius, <em>Commentarii belli civilis</em>, ed. Alfred Klotz (Leipzig, 1926).</li>
         <li>Caesar, C. Iulius, <em>Commentarii belli Alexandrini, belli Africi, belli Hispaniensis</em>, ed. Alfred Klotz (Leipzig, 1927).</li>
         <li>Caesar, C. Iulius, <em>Bellum Gallicum</em>, ed. Otto Seel (Leipzig, 1968).</li>
@@ -111,12 +112,10 @@ layout: no-anchor
         <li>Clark, Albert C., <em>Anecdota Oxoniensia</em>, xi: <em>Inventa Italorum</em> (Oxford, 1909).</li>
         <li>Claudianus, Claudius, <em>Carmina</em>, ed. John Barrie Hall (Leipzig, 1985).</li>
         <li>Claudius Donatus, Tiberius, <em>Ad Tiberium Claudium Maximum Donatianum filium suum interpretationes Vergilianae</em>, ii, ed. Heinrich Georges (Leipzig, 1906).</li>
-        <li>Clausen, W. V., J. A. Richmond et al. (eds), <em>Appendix Vergiliana</em> (Oxford, 1967).</li>
         <li>Consentius, <em>De barbarismis et metaplasmis</em>, ed. Tommaso Mari (Oxford, 2021).</li>
-        <li>Courtney, Edward, <em>The Fragmentary Latin Poets</em> (Oxford, 1993). ('obscura diligentia')</li>
+        <li>Courtney, Edward (ed.), <em>The Fragmentary Latin Poets</em> (Oxford, 1993). ('obscura diligentia')</li>
         <li>Demosthenes, <em>Orationes</em>, ed. S. H. Butcher and W. Rennie, 3 vols (Oxford, 1903–31).</li>
         <li>Demosthenes, <em>Orationes</em>, ed. M. R. Dilts, 4 vols (Oxford, 2002–9).</li>
-        <li>Dietsch, Rudolf (ed.), <em>Gai Sallusti Crispi quae supersunt</em>, i (Leipzig, 1859).</li>
         <li>Diggle, James, 'Apologies to Bothe (and Others)', in <em>Euripidea: collected essays</em> (Oxford, 1994), 518–23.</li>
         <li>Dinarchus, <em>Orationes cum fragmentis</em>, ed. Nicos C. Conomis (Leipzig, 1975).</li>
         <li>Diodorus, <em>Bibliotheca historica</em>, ii, ed. Friedrich Vogel (Leipzig, 1890).</li>
@@ -142,7 +141,6 @@ layout: no-anchor
         <li>Fronto, M. Cornelius, <em>Epistulae</em>, ed. Michael P. J. van den Hout (Leipzig, 1988).</li>  
         <li>Galán Vioque, Guillermo, 'Joseph Scaliger’s Notes on Quintus of Smyrna’s <em>Posthomerica</em>', <em>Greek, Roman and Byzantine Studies</em>, 55 (2015), 946–68.</li>
         <li>Galien, <em>Tome I</em>, ed. Véronique Boudon-Millot (Paris, 2007).</li>
-        <li>Gallavotti, Carlo (ed.), <em>Theocritus quique feruntur bucolici Graeci</em> (Rome, 1993).</li>
         <li>Galletier, Édouard, <em>Panégyriques latins</em>, 3 vols (Paris, 1949–55).</li>
         <li>Gellius, A., <em>Noctium Atticarum libri XX</em>, ed. Martin Hertz (Berlin, 1883–5).</li>
         <li>Gellius, Aulus, <em>Noctes Atticae</em>, ed. Leofranc Holford-Strevens (Oxford, 2020).</li>
@@ -224,6 +222,7 @@ layout: no-anchor
         <li>Pausanias, <em>Graeciae descriptio</em>, ed. Maria Helena Rocha-Pereira, 3 vols (Leipzig, 1989–90).</li>
         <li>Persius Flaccus, A., and D. Iunius Iuvenalis, <em>Saturae</em>, ed. W. V. Clausen (Oxford, 1966).</li>
         <li>Petronius Arbiter, <em>Satirarum reliquiae</em>, ed. Franz Bücheler (Berlin, 1862).</li>
+        <li>Petronius et al., <em>Petronii Saturae et liber Priapeorum</em>, ed. Franz Buecheler (Berlin, 1904).</li>
         <li>Philo Alexandrinus, <em>Opera quae supersunt</em>, ed. Paul Wendland, Leopold Cohn and Siegfried Reiter, 6 vols (Berlin, 1896–1915).</li>
         <li>Philostratus, Flavius, <em>Heroicus</em>, ed. Ludo de Lannoy (Leipzig, 1977).</li>
         <li>Philostratus, Flavius, <em>Vita Apollonii Tyanei</em>, ed. Gerard Boter (Berlin, 2022).</li>
@@ -271,6 +270,7 @@ layout: no-anchor
         <li>Reynolds, L. D. (ed.), <em>Texts and Transmission: A Survey of the Latin Classics</em> (Oxford, 1983).</li>
         <li>Rossbach, Otto, <em>De Senecae philosophi librorum recensione et emendatione</em> (Breslau, 1888).</li>
         <li>Rowe, Christopher, <em>Aristotelica: Studies on the Text of Aristotle’s</em> Eudemian Ethics (Oxford, 2023).</li>
+        <li>Sallustius Crispius, Gaius, <em>Gai Sallusti Crispi quae supersunt</em>, i, ed. Rudolf Dietsch (Leipzig, 1859).</li>
         <li>Sandri, Maria Giovanna (ed.), <em>Trattati greci sui tropi</em> (Berlin, 2023).</li>
         <li>Sappho and Alcaeus, <em>Fragmenta</em>, ed. Eva-Maria Voigt (Amsterdam, 1971).</li>
         <li>Schenkl, Karl, 'Valckenarii animadversiones in Philostratos', <em>Wiener Studien</em>, 14 (1892), 270.</li>
@@ -295,6 +295,7 @@ layout: no-anchor
         <li>Sommerstein, Alan H., 'The history of the text of Aristophanes', in <em>Brill's Companion to the Study of Greek Comedy</em> (Leiden, 2010), 412 n. 69.</li>
         <li>Sophocles, <em>Fabulae</em>, ed. H. Lloyd-Jones and N. G. Wilson (Oxford, 1990).</li>
         <li>Sophocles, <em>Tragoediae</em>, ed. R. D. Dawe (Leipzig, 1996).</li>
+        <li>Sophocles, <em>Oedipus the King</em>, ed. P. J. Finglass (Cambridge, 2018).</li>
         <li>Statius, P. Papinius, <em>Thebaid and Achilleid</em>, i, ed. J. B. Hall, A. L. Ritchie and M. J. Edwards (Newcastle, 2007).</li>
         <li>Stobaeus, Ioannes, <em>Anthologium</em>, ed. Curt Wachsmuth and Otto Hense, 5 vols (Berlin, 1884–1912).</li>
         <li>Strabon, <em>Geographika</em>, ed. Stefan Radt, 4 vols (Göttingen, 2002–5).</li>
@@ -303,6 +304,7 @@ layout: no-anchor
         <li>Tacitus, Cornelius, <em>Historiarum libri</em>, ed. Kenneth Wellesley (Leipzig, 1989).</li>
         <li>Tacitus, P. Cornelius, <em>Agricola</em>, ed. Josef Delz and J. von Ungern-Sternberg (Berlin, 2010).</li>
         <li>Thémistios, <em>Discours I–IV</em>, ed. Omer Ballériaux and Jacques Schamp (Paris, 2022).</li>
+        <li>Theocritus et al., <em>Theocritus quique feruntur bucolici Graeci</em>, ed. Carlo Gallavotti (Rome, 1993).</li>
         <li>Theodoridis, Christos (ed.), <em>Die Fragmente des Grammatikers Philoxenos</em> (Berlin, 1976).</li>
         <li>Theodorus Prodromus, <em>De Rhodanthes et Dosiclis amoribus libri IX</em>, ed. Miroslav Marcovich (Stuttgart, 1992).</li>
         <li>Théon, Aelius, <em>Progymnasmata</em>, ed. Michel Patillon (Paris, 1997).</li>
