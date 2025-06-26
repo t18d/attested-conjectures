@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-06-26T06:59:48+00:00
+last_modified_at: 2025-06-26T09:55:13+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -337,7 +337,7 @@ layout: no-anchor
 <p>See also Pasquali’s <a href="https://t18d.github.io/attested-conjectures/decalogo/">Twelve Commandments</a> and James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel/">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- The following sequence of lines must not change – there must be 3 lines of code (including the next comment) below this, no more, no less. -->
-<p>The top 10 critics are Reiske (277), Scaliger (238), Nicolaus Heinsius (214), Adamantios Korais (192), Bentley (171), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (95).</p>
+<p>The top 10 critics are Reiske (278), Scaliger (238), Nicolaus Heinsius (214), Adamantios Korais (192), Bentley (171), Thomas Mangey (154), Casaubon (114), Valckenaer (107), Bekker (97) and Madvig (95).</p>
 <br>
 <!-- Anything not in the table must be before this comment. -->
 
@@ -801,7 +801,7 @@ Ar. Eq. 1046|-ροῦν|σιδήρου|Bergk|n.d.|P.Bingen 18|ac
 Ar. Eq. 1058|φράσαι/φράζευ|φρασ]σαι|Brunck|1783|P.Oxy. XI 1373|
 Ar. Eq. 1070|ἑκάστοτε|ἑκάστοθ᾽ ἃς|Frederick H. M. Blaydes|1882|P.Oxy. XXXI 2545|
 Ar. Eq. 1158|φράσεις|-ῃς|Porson|n.d.|VΓ|
-Ar. Lys. 81|om.|τὼ|Reisig|n.d.|schol. R et Mu2|
+Ar. Lys. 81|om.|τὼ|Karl Reisig|n.d.|schol. R et Mu2|
 Ar. Lys. 106|πορπατιϲ-|πορπακιϲάμενοϲ|Ludolf Küster|1710|schol. O|lm.
 Ar. Lys. 126|μοι μυᾶτε|μοιμυᾶτε|L. Dindorf|n.d.|schol. O|lm.
 Ar. Lys. 180|τάδε|τᾷδε|Bentley|s.xviii in.|P.Bodl. Gr. class. e. 87|
@@ -838,7 +838,7 @@ Ar. Plut. 1037|τυγχάνει|τυγχάνοι|Valckenaer|1757|Marc. gr. 474 (
 Ar. Plut. 1116|ἐπιθύει|ἔτι θύει|Valckenaer|1757|Marc. gr. 474 (V)|
 Ar. Ran. 50|τρισ-|τρεῖς|Meineke||Marc. gr. 475 (G)|
 Ar. Ran. 77|om.|γ᾽|Bentley|s.xviii in.|Marc. gr. 475|teste Peppink ad Mnem. N.S. 60 (1933) 382
-Ar. Ran. 239|Libero|choro trib.|Reisig|n.d.|Reg. gr. 147 (Vs1)|
+Ar. Ran. 239|Libero|choro trib.|Karl Reisig|n.d.|Reg. gr. 147 (Vs1)|
 Ar. Ran. 252|γ᾽ ἄρα/γὰρ|γ᾽ αρ[|Elmsley|n.d.|BKT V/II 18|
 Ar. Ran. 269|τῷ κωπίῳ|τὼ κωπίω|Valckenaer|1757|Matrit. 4683|
 Ar. Ran. 673|ποιῆσαι|νοῆσαι|Valckenaer|1757|Marc. gr. 474 (V)|
@@ -3156,29 +3156,43 @@ Soph. OC 1728|ἔγωγε|ἐγώ|Nauck|n.d.|Palat. gr. 287 (Zo)|
 Soph. OC 1735|ποῖ|πῇ|Karl Halm|n.d.|Laur. 31.10 (K)|
 Soph. OC 1736|τλάμονων|τλάμον ̓|Hermann|n.d.|r|
 Soph. OC 1736|ἕξω/ἔξω|ἄξω|Frederick H. M. Blaydes|n.d.|Laur. 31.10 (K)|
+Soph. OT 65|ὕπνῳ γ'|ὕπνων|Reiske|1753|r|p. 20
 Soph. OT 75|χρόνου|-ον|Ludwig Purgold|1802|Marc. gr. 468 (V)|
 Soph. OT 79|προσστείχοντα|προστ-|C. G. A. Erfurdt|1809|Vat. gr. 2291 (R)|
+Soph. OT 90|οὖν|αὖ|Franz Ritter|1870|Paris. gr. 2735 (C)|
+Soph. OT 103|ἡμίν|ἧμιν|Elmsley|1806|LΛ|
+Soph. OT 104|ἀπευθύνειν|ἐπ–|C. J. Blomfield|1814|Laur. 32.40 (H)|ad Aesch. Pers. 867
+Soph. OT 105|γέ πω|γέ που|Ludwig Doederlein|1846|FVZc|
+Soph. OT 107|τινας|τινα|Demetrius Chalcondyles|1499|Lpc|
 Soph. OT 188|ὧν|τῶν|B. H. Kennedy|1885 (1882)|PSI XI 1192|τω]ν
 Soph. OT 222|ὕστερος|-ον|Frederick H. M. Blaydes|1859|Marc. gr. 616 (Zr)|
 Soph. OT 222|ἀστὸς|αὐτὸς|Elmsley|1811|pa|
+Soph. OT 239|μήτε|μήτ᾿ ἐν|Frederick H. M. Blaydes|1859|AZr|
 Soph. OT 258|ἐπικυρῶ|ἐπεὶ κυρῶ|Johannes Pierson|2009 (a1759)|Laur. Conv. Soppr. 66|apud Finglass
 Soph. OT 281|ἂν|ἃν|Henri Estienne|1568|Vindob. phil. gr. 161 (Xr)|
+Soph. OT 281|om.|ἂν|Benjamin Heath|1762|Monac. gr. 500|
 Soph. OT 290|παλαί ̓|μάται ̓|Tjalling Halbertsma|1896 (a1894)|SWaZg|
 Soph. OT 324|φών-|φρόνημ ̓|Naber|1881|rCac|'parum abest quin conjiciam Sophoclem dedisse Φ.'
 Soph. OT 360|λέγειν|λόγων|Brunck|1786|Laur. 32.9 (L)|s.l. teste West
 Soph. OT 430|οὐ|αὖ|Gustav Wolff|1870|P.Oxy. I 22|in linea
 Soph. OT 433|ᾔδει(ν)|ᾔδη|Benjamin Heath|1762|P.Oxy. XVIII 2180|in margine
+Soph. OT 441|εὑρήσεις|εὑρίσκεις|Henrik van Herwerden|1862|Vat. gr. 1333 (Zc)|
 Soph. OT 446|ἀλγύναις|-οις|Elmsley|1811|Matrit. gr. 4677 (N)|
 Soph. OT 458|αὐτὸς|αὑτὸς|Markland|1758–76|Vindob. suppl. gr. 71 (Xs)|pc
 Soph. OT 475|Παρνασοῦ|-ασσοῦ|C. G. A. Erfurdt|1811|Vindob. phil. gr. 161 (Xr)|
 Soph. OT 523|om.|δ'|Moriz Schmidt|1864|P.Oxy. XVIII 2180|in linea
 Soph. OT 525|τοὖπος/τοῦ πρὸς/πρὸς τοῦ|τοὔπος|Friederich Heimsoeth|1865|P.Oxy. XVIII 2180|
 Soph. OT 535|ἐναργὴς|-ῶς|Frederick H. M. Blaydes|1859|Paris. gr. 2735 (C)|
+Soph. OT 543|πο(ι)ήσων|ποιήσον|Willem Canter|1571|Vat. gr. 904 (Pa)|
+Soph. OT 555|χρεῖ' ἦ|χρείη|Dawes|1745|NOV|
+Soph. OT 557|ἔτ' αὐτός|ἔθ' αὑτός|Valckenaer|1755|LrmKΣL|ad Eur. Phoen. 927
 Soph. OT 630|οὐχὶ|οὐ|Brunck|1786|DZr|
 Soph. OT 658|ζητῇς|χρῄζῃς|Meineke|1863|(G)R|p. 234
 Soph. OT 685|προπονουμένῳ/προπονουμένας|προνοουμένῳ|Frederick H. M. Blaydes|1859|Marc. gr. 468 (V)|
+Soph. OT 689|ἄναξ|ὦναξ|Triclinius|s.xiv in.|Dresdensis Da. 22|
 Soph. OT 694|τ'|γ'|Turnebus|1553|p|
 Soph. OT 733 schol.|κέλευθον|κελεύθων|Scaliger|post-1568|GMR|
+Soph. OT 763|ὅδ'/ὅ γ'|ὡς|Hermann|1800|Laur. conv. soppr. 66|ad Eur. Hec.
 Soph. OT 766|τοῦτ ̓|τοῦδ ̓|Frederick H. M. Blaydes|1859|Vpc|
 Soph. OT 778|habent|del.|Valckenaer|pre-1775|P.Oxy. XI 1369|
 Soph. OT 791|χρεῖ' ἦ vel sim.|χρείη|Benjamin Heath|1762|Pa|pc
@@ -3188,12 +3202,15 @@ Soph. OT 870|μήν ποτε|μήποτε|Elmsley|1811|Paris. gr. 2884|
 Soph. OT 883|ὑπέροπτα|-οπλα|P. P. Dobree|1833 (a1825)|Cac|
 Soph. OT 1001|τε|γε|Hermann|1809|p|apud Erfurdt
 Soph. OT 1031|ἐν καιροῖς/κακοῖς|ἐν χεροῖν|Moriz Schmidt|1863|F2γρWγρ|
+Soph. OT 1055|τόν θ'|τόνδ'|Karl Reisig|1822|OPa|
 Soph. OT 1078|αὐτὴ|αὕτη|Hermann|1809|p|apud Erfurdt
+Soph. OT 1099|ἆρα|ἄρα|Benjamin Heath|1762|Laur. 31.10 (K)|
 Soph. OT 1108|-νιάδων|Ἑλικωνίδων|Porson|1798|Aac|ad Eur. Or. 614
 Soph. OT 1142|τότ'|τόδ'|Frederick H. M. Blaydes|1859|Voss. gr. Q. 6 (O)|
 Soph. OT 1153|μ'|γ'|Frederick H. M. Blaydes|1859|Palat. gr. 40 (P)|
 Soph. OT 1172|κάλλιστ'|μάλιστ'|Nauck|1856|p|
 Soph. OT 1197|-σας τ.|ἐκράτησε τοῦ|Hermann|1800|Ambros. L. 39 sup.|ad Eur. Hec.
+Soph. OT 1203|Θήβαις|Θήβαισιν|Benjamin Heath|1762|Neap. II. F. 9 (D)|
 Soph. OT 1217|om.|alterum σε|Eduard Wunder|1824|Voss. gr. Q. 6 (O)|
 Soph. OT 1232|ἤδειμεν|ἤδεμεν|Elmsley|1806|Vat. gr. 1333 (Zc)|
 Soph. OT 1245|κάλει|καλεῖ|Johannes Pierson|2009 (1759)|Ambros. G 56 sup.|apud Finglass
@@ -3202,9 +3219,11 @@ Soph. OT 1294|δείξει|δόξει|Reiske|1753|Vindob. phil. gr. 161 (Xr)|
 Soph. OT 1311|ἐξήλου|-ἤλλου|Hermann|1823|CS|
 Soph. OT 1312|ἐς|ὡς|Henrik van Herwerden|1866|Laur. 32.40 (H)|
 Soph. OT 1320|φον-|φρονεῖν|Bergk|1858|a|
+Soph. OT 1389|ἦν|ἦ|Elmsley|1811|Dac|
 Soph. OT 1453|ζῶντε|-τι|Reiske|1753|Vat. gr. 904 (Pa)|
 Soph. OT 1466|αἷν|ταῖν|Benjamin Heath|1762|Marc. gr. 616 (Zr)|
 Soph. OT 1474|ἐγγόνοιν|ἐκγόνοιν|Valckenaer|2009 (1743–6)|ZZn|apud Finglass
+Soph. OT 1481|ὡς|εἰς|Elmsley|1811|Laur. 31.10 (K)|s.l.
 Soph. Phil. 30|κυρῇ|κυρεῖ|G. H. Schaefer|n.d.|Gac|
 Soph. Phil. 81|κτῆμα|χρῆμα|Tournier|n.d.|Laur. 31.10 (K)|
 Soph. Phil. 144|ἴ. γ.|γὰρ ἴσως|Henrik van Herwerden||GS|
