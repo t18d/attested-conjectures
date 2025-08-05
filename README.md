@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-08-05T08:37:31+00:00
+last_modified_at: 2025-08-05T12:40:17+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -2183,6 +2183,9 @@ Pi. O. 6.77|ὄροις|ὄρος|Zacharias Callierges|1515|P.Oxy. XIII 1614|
 Pi. P. 1.67|Ζ. τέλει’, α.|Ζεῦ τέλει, αἰεὶ|J. C. de Pauw|1747|GPV|
 Pi. P. 3.166 schol.|ἐν κῷ|ἐν Ἴκῳ|Jean Brodeau|1549|DEGQ|Epigr. Gr. p. 372
 Pi. P. 6.14|-οι/-ος|τυπτόμενον|Dawes|n.d.|P.Oxy. LXXV 5039|
+Pi. P. 11.25|ἔννυχοι|ἐννύχιοι|Erasmus Schmid|1616|Vat gr. 1312 (B)|
+Pi. P. 11.35|Στρόφ-|Στροφίον|Otto Schroeder|1900|Laur. 32.33 (F)|
+Pi. P. 11.42|-α|ἄλλᾳ|Heyne|1798|Gotting. phil. 29 (G)|
 Pi. Pae. 9.4|ἰσχὺν πτανὸν (ἀν)δράσιν|ἰσχύν τ'ἀνδράσι(ν)|Blass|n.d.|P.Oxy. V 841|
 Pl. Chrm. 173b|(μὴ) ὑγιέσιν|η υ̣γιεϲ̣[ιν|L. F. Heindorf|1802–10|P.Oxy. LXXVI 5082|
 Pl. Crit. 48e|πείσαι κτλ.|πείσας|Philipp Buttmann|1830|Vat. gr. 225 (V)|
