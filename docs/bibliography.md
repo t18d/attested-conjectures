@@ -1,0 +1,326 @@
+---
+title: Bibliography @ Database of Greek and Latin Conjectural Emendations Attested in MSS
+description: The sources of the database
+permalink: bibliography/
+seo:
+  type: Dataset
+  name: Bibliography
+last_modified_at:
+layout: anchor
+---
+# Bibliography
+
+&nbsp;  
+&nbsp;  
+&nbsp;  
+## Theory
+
+-   Hine, Harry, [comment on 'confirmed conjectures'](https://t18d.github.io/attested-conjectures/hine/), database Wiki (22 Jan. 2024).
+-   Housman, A. E., _M. Annaei Lucani belli civilis libri decem_ (Oxford, 1927), [xxix](https://www.tonkunstler-on-the-bund.com/commonplace/conservative-editors/).
+-   James, Patrick, review of _The Oxyrhynchus Papyri. Volume LXXXI_, in _The Classical Review_, 68/2 (2018), 396.
+-   Kenney, E. J., _The Classical Text: Aspects of Editing in the Age of the Printed Book_ (Berkeley, 1974), 145.
+
+## Sources
+
+-   P.Lond.Lit.
+-   P.Oxy. I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XV, XVII, XIX, XX, XXII, XXIV, XXVI, XXVII, XXXI, XXXII, XXXVIII, XLI, XLII, XLIV, XLV, XLVII, XLVIII, XLIX, L, LIII, LIV, LVI, LVII, LIX, LX, LXI, LXII, LXIII, LXIV, LXVI, LXVII, LXVIII, LXXV, LXXVI, LXXVIII, LXXIX, LXXXI, LXXXIV (LXXXV, LXXXVII unavailable)
+-   P.Ryl. I, III
+-   Acusilaus of Argos, _Rhapsody in Prose_, ed. Ilaria Andolfi (Berlin, 2019).
+-   Aeschines, _Orationes_, ed. Mervin R. Dilts (Stuttgart, 1997).
+-   Aeschylus et al., _Aeschyli tragoediae cum incerti poetae Prometheo_, ed. Martin L. West (Stuttgart, 1998).
+-   Alciphro Rhetor, _Epistolae_, ed. E. E. Seiler (Leipzig, 1853), x.
+-   Alciphro Rhetor, _Epistularum libri IV_, ed. Menno Anton Schepers (Groningen, 1901).
+-   Alciphro Rhetor, _Epistularum libri IV_, ed. M. A. Schepers (Leipzig, 1905), vii–xviii.
+-   Ammianus Marcellinus, _Rerum gestarum libri qui supersunt_, ed. V. Gardthausen (Leipzig, 1874–5).
+-   Ammianus Marcellinus, _Rerum gestarum libri qui supersunt_, ed. Charles U. Clark (Berlin, 1910–15).
+-   Ammien Marcellin, _Histoire_, i, ed. Édouard Galletier (Paris, 1968).
+-   Ammien Marcellin, _Histoire_, v, ed. Marie-Anne Marié (Paris, 1984).
+-   Ammien Marcellin, _Histoire_, iii, ed. Jacques Fontaine (Paris, 1996). (ii, iv, vi unavailable)
+-   Andocides, _Orationes_, ed. J. H. Lipsius (Leipzig, 1888), xviiii.
+-   Anon., _Appendix Vergiliana_, ed. W. V. Clausen, J. A. Richmond et al. (Oxford, 1967).
+-   Anon., _Les Argonautiques orphiques_, ed. Francis Vian (Paris, 1987).
+-   Anon., _Ciris_, ed. Boris Kayachev (Swansea, 2020).
+-   Anon., _Declamationes XIX maiores Quintiliano falso ascriptae_, ed. Lennart Håkanson (Stuttgart, 1982).
+-   Anon., _The Minor Declamations Ascribed to Quintilian_, ed. Michael Winterbottom (Berlin, 1984).
+-   Anon., _Pervigilium Veneris_, ed. Cecil Clementi (2nd edn, Oxford, 1928).
+-   Anon., _Scriptores historiae Augustae_, 2 vols, ed. Ernst Hohl (Leipzig, 1965).
+-   Anon., _Suidae lexicon_, 4 vols, ed. Ada Adler (Munich, 1928–35).
+-   Antiphon, _Orationes et fragmenta adiunctis Gorgiae, Antisthenis, Alcidamantis declamationibus_, ed. Friedrich Blass (Leipzig, 1881).
+-   Apollonius Rhodius, _Argonautica_, ed. Hermann Fränkel (Oxford, 1961).
+-   Appianus, _Historia Romana_, ed. P. Viereck and A. G. Roos, 2 vols (Leipzig, 1905–39).
+-   Apuleius Platonicus Madaurensis, _De philosophia libri_, ed. Paul Thomas (Stuttgart, 1970).
+-   Apuleius Platonicus Madaurensis, _De philosophia libri_, ed. C. Moreschini (Stuttgart, 1991).
+-   Aratus, _Phaenomena_, ed. Douglas Kidd (Cambridge, 1997).
+-   Aristophanes, _Fabulae_, ed. N. G. Wilson, 2 vols (Oxford, 2007).
+-   Aristoteles, _Quae feruntur de plantis …_, ed. Otto Apelt (Leipzig, 1888).
+-   Aristoteles, _Atheniensium respublica_, ed. F. G. Kenyon (Oxford, 1920).
+-   Aristoteles, _Metaphysica_, ed. W. Jaeger (Oxford, 1957).
+-   Aristote, _Du Ciel_, ed. Paul Moraux (Paris, 1965).
+-   Aristote, _Topiques_, ed. Jacques Brunschwig, 2 vols (Paris, 1967–2007).
+-   Aristoteles, _Privatorum scriptorum fragmenta_, ed. Marian Plezia (Leipzig, 1977).
+-   Aristoteles, _Ethica Eudemia_, ed. R. R. Waltzer and J. Μ. Mingay (Oxford, 1991).
+-   Aristotle, _Poetics_, ed. Leonardo Tarán and Dimitri Gutas (Leiden, 2012).
+-   Aristotele, _La Politica: Libro IV_, ed. Lucio Bertelli and Mauro Moggi (Rome, 2014).
+-   Aristotle, _De Motu Animalium_, ed. Oliver Primavesi (Oxford, 2023).
+-   Arrianos, _Alexandrou anabasis_, i, ed. K. W. Krüger (Berlin, 1835).
+-   Arrianus, Flavius, _Alexandri anabasis, scripta minora et fragmenta_, ed. A. G. Roos, 2 vols (Leipzig, 1967–8).
+-   Asconius Pedianus, Q., _Orationum Ciceronis quinque enarratio_, ed. Albert Curtis Clark (Oxford, 1907).
+-   Asztalos, Monika, Tor Ivar Østmoe, et al., [Repertory of Conjectures on Horace](http://www.tekstlab.uio.no/horace/), University of Oslo, accessed 9 Feb. 2024.
+-   Athenaeus Naucratita, _Dipnosophistarum libri XV_, iii, ed. Georg Kaibel (Leipzig, 1887).
+-   Athenaeus, _Deipnosophistae_, ed. S. P. Peppink, 2 vols (Leiden, 1936–9).
+-   Ausonius, Decimus Magnus, _Burdigalensis opuscula_, ed. Rudolf Peiper (Leipzig, 1886).
+-   Avianus, _Fabulae_, ed. Antonio Guaglianone (Turin, 1958).
+-   Battezzato, Luigi, 'Livineius' unpublished Euripidean marginalia', _Revue d'histoire des textes_, 30 (2000), 323–48.
+-   Berlincourt, Valéry, 'Emericus Cruceus’ Conjectures on the _Thebaid_ and the _Achilleid_ (1620). A Supplement to the New Edition of Statius’ Epics', _Mnemosyne_, 64 (2011), 285–94.
+-   Billerbeck, Margarethe, and Mario Somazzi, _Repertorium der Konjekturen in den Seneca-Tragödien_ (Leiden, 2009).
+-   Borges, Cassandra, and C. Michael Sampson, _New literary papyri from the Michigan collection: mythographic lyric and a catalogue of poetic first lines_ (Ann Arbor, 2012), 20.
+-   Botley, Paul, _Richard ‘Dutch’ Thomson, c. 1569–1613_ (Leiden, 2016), 105.
+-   Brink, C. O. (= K. O.), _Horace on Poetry_ (Cambridge, 1971).
+-   Caesar, C. Iulius, _Commentarii belli civilis_, ed. Alfred Klotz (Leipzig, 1926).
+-   Caesar, C. Iulius, _Commentarii belli Alexandrini, belli Africi, belli Hispaniensis_, ed. Alfred Klotz (Leipzig, 1927).
+-   Caesar, C. Iulius, _Bellum Gallicum_, ed. Otto Seel (Leipzig, 1968).
+-   Callimachus, _Fragmenta_, ed. Rudolf Pfeiffer (Oxford, 1949).
+-   Callimachus, _Hymni et Epigrammata_, ed. Rudolf Pfeiffer (Oxford, 1953).
+-   Callimachus, _The Hymns_, ed. Susan A. Stephens (Oxford, 2015).
+-   Calpurnius Siculus, T., _Ecloga VII_, ed. Lucia di Salvo (Bologna, 1990).
+-   Cassius Dio Cocceianus, _Historiarum Romanarum quae supersunt_, ed. Ursul Philip Boissevain (Berlin, 1895–1901).
+-   Cato, M. Porcus, _De agri cultura liber_, ed. Heinrich Keil (Leipzig, 1884).
+-   Chariton Aphrodisiensis, _De Callirhoe narrationes amatoriae_, ed. B. P. Reardon (Munich, 2004).
+-   Cicero, M. Tullius, _Orationes pro Sex. Roscio, de imperio Cn. Pompei, pro Cluentio, in Catilinam, pro Murena, pro Caelio_, ed. Albert Curtis Clark (Oxford, 1905).
+-   Cicero, M. Tullius, _Paradoxa stoicorum, Academicorum reliquiae cum Lucullo, Timaeus, De natura deorum, De divinatione, De fato_, ed. Otto Plasberg (Leipzig, 1908–11).
+-   Cicero, M. Tullius, _Orationes pro Quinctio, pro Q. Roscio Comoedo, pro Caecina, de lege agraria contra Rullum, pro C. Rabirio perduellionis reo, pro L. Flacco, in L. Pisonem, pro C. Rabirio Postumo_, ed. Albert Curtis Clark (Oxford, 1909).
+-   Cicero, M. Tullius, _Ad Q. fratrem epistularum libri tres_, ed. H. Sjögren (Uppsala, 1911).
+-   Cicero, M. Tullius, _Orationes pro Tullio, pro Fonteio, pro Sulla, pro Archia, pro Plancio, pro Scauro_, ed. Albert Curtis Clark (Oxford, 1911).
+-   Cicero, M. Tullius, _Orationes: Divinatio in Q. Caecilium, In C. Verrem_, ed. William Peterson (Oxford, 1916).
+-   Cicero, M. Tullius, _Ad Atticum epistularum libri sedecim_, ed. H. Sjögren, G. Thörnell and A. Önnerfors (Uppsala, 1916–60).
+-   Cicero, M. Tullius, _Orationes pro Milone, pro Marcello, pro Ligario, pro rege Deiotaro, Philippicae I–XIV_, ed. Albert Curtis Clark (Oxford, 1918).
+-   Cicero, M. Tullius, _Orationes cum senatui gratias egit, cum populo gratias egit, de domo, de haruspicum responsis, pro Sestio, in Vatinium, pro Caelio, de provinciis consularibus, pro Balbo, in Pisonem, pro Rabirio Postumo, pro Scauro_, ed. A. Klotz and F. Schoell (Leipzig, 1919).
+-   Cicero, M. Tullius, _In Q. Caecilium divinatio, in C. Verrem actio I et II_, ed. A. Klotz (Leipzig, 1923).
+-   Cicero, M. Tullius, _De divinatione, De fato, Timaeus_, ed. Remo Giomini (Leipzig, 1975).
+-   Cicero, M. Tullius, _Orator_, ed. Rolf Westman (Munich, 1980).
+-   Cicero, M. Tullius, _Tusculanae Disputationes_, ed. Michaelangelus Giusta (Turin, 1984).
+-   Cicero, M. Tullius, _Pro A. Cluentio Habito oratio_, ed. Silvia Rizzo (Rome, 1991).
+-   Cicero, M. Tullius, _Oratio pro P. Quinctio_, ed. Michael D. Reeve (Leipzig, 1992).
+-   Cicero, M. Tullius, _Oraliones in P. Vatinium testem et Pro M. Caelio_, ed. Tadeusz Maslowski (Stuttgart, 1995).
+-   Cicero, M. Tullius, _Oraliones in L. Catilinam quattuor_, ed. Tadeusz Maslowski (Munich, 2003).
+-   Cicero, M. Tullius, _De finibus bonorum et malorum_, ed. Claudio Moreschini (Munich, 2005).
+-   Cicero, M. Tullius, and M. Brutus, _M. Tulli Ciceronis ad M. Brutum et M. Bruti ad M. Tullium Ciceronem epistularum liber novus_, ed. H. Sjögren (Uppsala, 1910).
+-   Citti, V., and R. Dawe, 'Congetture ad Eschilo dalle edizioni cinquecentine', _Lexis_, 22 (2004), 249–60.
+-   Clark, Albert C., _Anecdota Oxoniensia_, x: _The Vetus Cluniacensis of Poggio_ (Oxford, 1905). ('A. C. Clark's finest work')
+-   Clark, Albert C., _Anecdota Oxoniensia_, xi: _Inventa Italorum_ (Oxford, 1909).
+-   Claudianus, Claudius, _Carmina_, ed. John Barrie Hall (Leipzig, 1985).
+-   Claudius Donatus, Tiberius, _Ad Tiberium Claudium Maximum Donatianum filium suum interpretationes Vergilianae_, ii, ed. Heinrich Georges (Leipzig, 1906).
+-   Consentius, _De barbarismis et metaplasmis_, ed. Tommaso Mari (Oxford, 2021).
+-   Courtney, Edward (ed.), _The Fragmentary Latin Poets_ (Oxford, 1993). ('obscura diligentia')
+-   Demosthenes, _Orationes_, ed. S. H. Butcher and W. Rennie, 3 vols (Oxford, 1903–31).
+-   Demosthenes, _Orationes_, ed. M. R. Dilts, 4 vols (Oxford, 2002–9).
+-   Diggle, James, 'Apologies to Bothe (and Others)', in _Euripidea: collected essays_ (Oxford, 1994), 518–23.
+-   Dinarchus, _Orationes cum fragmentis_, ed. Nicos C. Conomis (Leipzig, 1975).
+-   Diodorus, _Bibliotheca historica_, ii, ed. Friedrich Vogel (Leipzig, 1890).
+-   Diodorus, _Bibliotheca historica_, v, ed. Curt Theodor Fischer (Leipzig, 1906).
+-   Diodore de Sicile, _Bibliothèque historique, livre XII_, ed. Michel Casevitz (Paris, 1972).
+-   Diogenes Laertius, _Vitae philosophorum_, ed. Miroslav Marcovich (Berlin, 2008).
+-   Diogenes Laertius, _Lives of Eminent Philosophers_, ed. Tiziano Dorandi (Cambridge, 2013).
+-   Dionysius Halicarnasensis, _Antiquitatum Romanarum quae supersunt_, i–ii, ed. Carl Jacoby (Leipzig, 1885–8).
+-   Dionysius Halicarnaseus, _Opuscula_, ed. Hermann Usener and Ludwig Radermacher, 2 vols (Leipzig, 1899–1904).
+-   Dorandi, Tiziano, and Stephen White (eds), _Clearchus of Soli: Text and Translation_ (Abingdon, 2022), 1–309.
+-   Driver, G. R., 'Hebrew Scrolls', _The Journal of Theological Studies_, 2 (1951), 17–30.
+-   El-Maghrabi, M. G., and C. Römer (eds), _Texts from the "Archive" of Socrates, the Tax Collector, and Other Contexts at Karanis (P. Cair. Mich. II)_ (Berlin, 2015), 48.
+-   Eschilo, _Agamennone_, ed. Enrico Medda (Rome, 2017).
+-   Eschilo, _Supplici_, ed. Carles Miralles, Vittorio Citti and Liana Lomiento (Rome, 2019).
+-   Euripides, _Fabulae_, ed. J. Diggle, 3 vols (Oxford, 1984–94).
+-   Euripide, _Ifigenia in Aulide_, ed. Valeria Andò (Venice, 2021).
+-   Finglass, P. J., 'Unpublished conjectures at Leiden on the Greek dramatists', _Greek, Roman and Byzantine Studies_, 49/2 (2009), 187–221.
+-   Finglass, P. J., 'Unpublished Conjectures on Sophocles by Jeremiah Markland', _Greek, Roman, and Byzantine Studies_, 51/2 (2011), 232–8.
+-   Finglass, Patrick J. 'Il valore dei papiri per la critica testuale di Sofocle', in _[Il valore dei papiri per la critica testuale di Sofocle](https://library.oapen.org/bitstream/handle/20.500.12657/55124/9788866553878.pdf)_ (Florence, 2013), 33–51.
+-   Finglass, P. J. 'Editions of Sappho since the Renaissance', in _The Cambridge Companion to Sappho_ (Cambridge, 2021), 247–59 at 255.
+-   Florus, L. Annaeus, _L. Annaei Flori quae exstant_, ed. Enrica Malcovati (Rome, 1972).
+-   Frontinus, Iulius, _Strategemata_, ed. Robert I. Ireland (Leipzig, 1990).
+-   Frontinus, _De aquaeductu urbis Romae_, ed. R. H. Rodgers (Cambridge, 2004).
+-   Fronto, M. Cornelius, _Epistulae_, ed. Michael P. J. van den Hout (Leipzig, 1988).
+-   Galán Vioque, Guillermo, 'Joseph Scaliger’s Notes on Quintus of Smyrna’s _Posthomerica_', _Greek, Roman and Byzantine Studies_, 55 (2015), 946–68.
+-   Galien, _Tome I_, ed. Véronique Boudon-Millot (Paris, 2007).
+-   Galletier, Édouard (ed.), _Panégyriques latins_, 3 vols (Paris, 1949–55).
+-   Gellius, A., _Noctium Atticarum libri XX_, ed. Martin Hertz (Berlin, 1883–5).
+-   Gellius, Aulus, _Noctes Atticae_, ed. Leofranc Holford-Strevens (Oxford, 2020).
+-   Gerber, Douglas E. '[Emendations in the Odes of Pindar: An Historical Analysis](https://doi.org/10.5169/seals-660688)', _Entretiens Hardt_, 31 (1984), 1–25.
+-   Grenfell, B. P., 'The Value of Papyri for the Textual Criticism of Extant Greek Authors', _The Journal of Hellenic Studies_, 39 (1919), 16–36.
+-   Hall, J. B., _Prolegomena to Claudian_ (Oxford, 1986).
+-   Havet, Louis, _Manuel de critique verbale appliquée aux textes latins_ (Paris, 1911).
+-   Harpocration, _Lexeis of the Ten Orators_, ed. John J. Keaney (Amsterdam, 1991).
+-   Hérodote, _Histoires_, ed. Ph.-E. Legrand (Paris, 1954–64).
+-   Herodotus, _Historiae_, ed. Haiim B. Rosén, 2 vols (Leipzig, 1987–97).
+-   Herodotus, _Historiae_, ed. N. G. Wilson, 2 vols (Oxford, 2015).
+-   Hesiod, _Works and Days_, ed. M. L. West (Oxford, 1978).
+-   Hesiodus, _Theogonia, Opera et dies, Scutum_, ed. Friedrich Solmsen (Oxford, 1983).
+-   Homerus, _Opera_, ed. Thomas W. Allen (Oxford, 1917–31).
+-   Homerus, _Ilias_, ed. Martin L. West, 2 vols (Munich, 1998–2000).
+-   Homerus, _Ilias_, ed. Helmut van Thiel (Hildesheim, 2010).
+-   Homerus, _Odyssea_, ed. Martin L. West (Berlin, 2017).
+-   Horatius Flaccus, Q., _Opera_, i: _Carminum libri IIII, epodon liber, Carmen Saeculare_, ed. Otto Keller (Leipzig, 1899).
+-   Isocrates, _Opera omnia_, ed. Basil G. Mandilaras, 2 vols (Munich, 2003).
+-   Iustinus, M. Iunianus, _Epitoma historiarum Philippicarum Pompei Trogi_, ed. Otto Seel (Stuttgart, 1985).
+-   Iuvenalis, D. Iunius, _Saturae sedecim_, ed. James Willis (Stuttgart, 1997).
+-   Kannicht, Richard (ed.), _Tragicorum Graecorum Fragmenta (TrGF)_, v: _Euripides_ (Göttingen, 2004).
+-   Kassel, R., and C. Austin (eds), _Poetae comici Graeci (PCG)_, iv: _Aristophon — Crobylus_ (Berlin, 1983).
+-   Kassel, R., and C. Austin (eds), _Poetae comici Graeci (PCG)_, iii/2: _Aristophanes: Testimonia et fragmenta_ (Berlin, 1984).
+-   Kassel, R., and C. Austin (eds), _Poetae comici Graeci (PCG)_, v: _Damoxenus — Magnes_ (Berlin, 1986).
+-   Kassel, R., and C. Austin (eds), _Poetae comici Graeci (PCG)_, vii: _Menecrates — Xenophon_ (Berlin, 1989).
+-   Kassel, R., and C. Austin (eds), _Poetae comici Graeci (PCG)_, ii: _Agathenor — Aristonymus_ (Berlin, 1991).
+-   Kassel, R., and C. Austin (eds), _Poetae comici Graeci (PCG)_, vi/2: _Menander: Testimonia et fragmenta apud scriptores servata_ (Berlin, 1998).
+-   Kassel, R., and C. Austin (eds), _Poetae comici Graeci (PCG)_, i: _Comoedia dorica mimi Phlyaces_ (Berlin, 2001).
+-   Kassel, R., and St. Schröder (eds), _Poetae comici Graeci (PCG)_, vi/1: _Menander: Dyscolus et fabulae quarum fragmenta in papyris membranisque servata sunt_ (Berlin, 2022).
+-   Keller, Otto (ed.), _Rerum naturalium scriptores Graeci minores_, i (Leipzig, 1877).
+-   Kenyon, Frederic George, _The Evidence of Greek Papyri with Regard to Textual Criticism_ (London, 1904).
+-   Kiss, Dániel, [Catullus Online: An Online Repertory of Conjectures on Catullus](http://www.catullusonline.org/), accessed 13 Feb. 2024.
+-   Krans, Jan, '[Release Notes](https://ntvmr.uni-muenster.de/nt-conjectures-release)', The Amsterdam Database of New Testament Conjectural Emendation (updated quarterly), accessed periodically.
+-   Krans-Plaisier, Jan, '[Amsterdam Database: Conjectures with Attestation](http://vuntblog.blogspot.com/2023/12/amsterdam-database-conjectures-with.html)', the Amsterdam NT Weblog (2 Dec. 2023), accessed 14 Dec. 2023.
+-   Livius, Titus, _Ab urbe condita libri_, iii, ed. Moritz Müller (Leipzig, 1884).
+-   Livius, Titus, _Ab urbe condita libri_, ii/i, ed. Moritz Müller (Leipzig, 1899).
+-   Livius, Titus, _Ab urbe condita libri_, i, ed. Moritz Müller (Leipzig, 1902).
+-   Livius, Titus, _Ab urbe condita_, i, ed. Robert Seymour Conway and Charles Flamstead Walters (Oxford, 1914).
+-   Livius, Titus, _Ab urbe condita_, ii, ed. Charles Flamstead Walters and Robert Seymour Conway (Oxford, 1919).
+-   Livius, Titus, _Ab urbe condita_, v, ed. Alexander Hugh McDonald (Oxford, 1965).
+-   Lucanus, M. Annaeus, _Belli civilis libri decem_, ed. A. E. Housman (Oxford, 1927).
+-   Lucien, _Œuvres_, ed. Jacques Bompaire, 3 vols (Paris, 1993–2003). (tome IV unavailable)
+-   Lycophron, _Alexandra_, ed. Lorenzo Mascialino (Leipzig, 1964).
+-   Lykophron, _Alexandra_, ed. Simon Hornblower (Oxford, 2015).
+-   Lycurgus, _Oratio in Leocratem_, ed. Nicos C. Conomis (Leipzig, 1970).
+-   Lysias, _Orationes cum fragmentis_, ed. C. Carey (Oxford, 2007).
+-   Pseudo-Manetho, _Apotelesmatica_, ed. J. L. Lightfoot, 2 vols (Oxford, 2020–3).
+-   Manilius, M., _Astronomica_, ed. George P. Goold (Stuttgart, 1998).
+-   Markus, D., and G. Schwendner, 'Seneca’s Medea in Egypt (663–704)', _ZPE_, 117 (1997), 73–84.
+-   Marshall, P. K., _The Manuscript Tradition of Cornelius Nepos_ (Oxford, 1977), 43.
+-   Martialis, M. Valerius, _Epigrammaton libri_, ed. W. Heraeus and Jacob Borovskij (Leipzig, 1976).
+-   Maximianus, _The Elegies_, ed. A. M. Juster (Philadelphia, 2018).
+-   Nemesianus, _The Eclogues and Cynegetica_, ed. Heather J. Williams (Leiden, 1986).
+-   Nemesianus, _Cynegetica_, ed. Rainer Jakobi (Berlin, 2014).
+-   Nepos, Cornelius, _Vitae cum fragmentis_, ed. Peter K. Marshall (Leipzig, 1985).
+-   Nicander, _Nicandrea_, ed. Otto Schneider (Leipzig, 1856).
+-   Nicandre, _Œuvres_, ed. Jean-Marie Jacques, 2 vols (Paris, 2002–7).
+-   Nonnos de Panopolis, _Les Dionysiaques_, i, ed. Francis Vian (Paris, 1976).
+-   Nonnos de Panopolis, _Les Dionysiaques_, ii, ed. Pierre Chuvin (Paris, 1976).
+-   Oppianus Apameensis, _Cynegetica_, ed. Manolis Papathomopoulos (Munich, 2003).
+-   Ovidius Naso, P., _Fastorum libri sex_, ed. R. Merkel (Berlin, 1841).
+-   Ovidius Naso, P., _Amores, epistulae, medic. fac. fem., ars amat., remedia amoris_, ed. R. Ehwald (Leipzig, 1888).
+-   Ovidius Naso, P., _Tristium libri quinque, Ibis, ex Ponto libri quattuor, Halieutica fragmenta_, ed. S. G. Owen (Oxford, 1915).
+-   Ovidius Naso, P., _Heroidas_, i, ed. Remus Giomini (Rome, 1963). (ii unavailable)
+-   Ovidius Naso, P., _Tristia_, ed. Georg Luck (Heidelberg, 1967).
+-   Ovidius Naso, P., _Ex Ponto libri quattuor_, ed. J. A. Richmond (Leipzig, 1990).
+-   Ovidius Naso, P., _Tristia_, ed. John Barrie Hall (Stuttgart, 1995).
+-   Ovidius Naso, P., _Fastorum libri sex_, ed. E. H. Alton, D. E. W. Wormell, E. Courtney (Munich, 1996).
+-   Ovidius Naso, P., _Metamorphoses_, ed. R. J. Tarrant (Oxford, 2004).
+-   Ovidius Naso, P., _Carmina amatoria_, ed. Antonio Ramírez de Verger (Munich, 2006).
+-   Page, D. L. (ed.), _Poetae melici Graeci_ (Oxford, 1967).
+-   Pascal, Carlo (ed.), _Carmina ludicra Romanorum_ (Turin, 1918).
+-   Pausanias, _Graeciae descriptio_, ed. Maria Helena Rocha-Pereira, 3 vols (Leipzig, 1989–90).
+-   Persius Flaccus, A., and D. Iunius Iuvenalis, _Saturae_, ed. W. V. Clausen (Oxford, 1966).
+-   Petronius Arbiter, _Satirarum reliquiae_, ed. Franz Bücheler (Berlin, 1862).
+-   Petronius et al., _Petronii Saturae et liber Priapeorum_, ed. Franz Buecheler (Berlin, 1904).
+-   Philo Alexandrinus, _Opera quae supersunt_, ed. Paul Wendland, Leopold Cohn and Siegfried Reiter, 6 vols (Berlin, 1896–1915).
+-   Philostratus, Flavius, _Flavii Philostrati quae supersunt, Philostrati Junioris Imagines, Callistrati Descriptiones_, ed. C. L. Kayser (Turin, 1844).
+-   Philostratus, Flavius, _Heroicus_, ed. Ludo de Lannoy (Leipzig, 1977).
+-   Philostratus, Flavius, _Vita Apollonii Tyanei_, ed. Gerard Boter (Berlin, 2022).
+-   Photius, _Patriarchae lexicon_, ed. Christos Theodoridis, 3 vols (Berlin, 1982–2013).
+-   Pindar, _First Pythian Ode_, ed. Almut Fries (Berlin, 2023).
+-   Places, Édouard des (ed.), _Oracles chaldaïques avec un choix de commentaires anciens_ (Paris, 1971).
+-   Plato, _Opera_, iii, ed. John Burnet (Oxford, 1903).
+-   Platon, _Théétète_, ed. Auguste Diès (Paris, 1924).
+-   Platon, _Le Sophiste_, ed. Auguste Diès (Paris, 1925).
+-   Platon, _Les Lois (livres VII–X)_, ed. Auguste Diès (Paris, 1956).
+-   Plato, _Gorgias_, ed. E. R. Dodds (Oxford, 1959).
+-   Plato, _Meno_, ed. R. S. Bluck (Cambridge, 1961).
+-   Platon, _Timée — Critias_, ed. Albert Rivaud (Paris, 1963).
+-   Platon, _Gorgias — Ménon_, ed. Alfred Croiset (Paris, 1965).
+-   Platon, _Parménide_, ed. Auguste Diès (Paris, 1965).
+-   Platon, _Philèbe_, ed. Auguste Diès (Paris, 1966).
+-   Platon, _Phèdre_, ed. Claudio Moreschini (Paris, 1985).
+-   Plautus, T. Maccus, _Comoediae_, ii/iv, ed. Georg Goetz (Leipzig, 1883).
+-   Plautus, T. Maccus, _Comoediae_, i/i, ed. Fritz Schöll (Leipzig, 1884).
+-   Plautus, T. Maccus, _Comoediae_, ii/v, ed. Georg Goetz and Gustav Loewe (Leipzig, 1884).
+-   Plautus, _Comoediae_, ii, ed. Friedrich Leo (Berlin, 1906).
+-   Plinius Secundus, C., _Naturalis historia: libri XXXVII_, ed. Karl Mayhoff (Munich, 1892–1909).
+-   Plinius Caecilius Secundus, C., _Epistularum libri decem_, ed. R. A. B. Mynors (Oxford, 1963).
+-   Pline le Jeune, _Lettres_, iii, ed. Anne-Marie Guillemin (Paris, 1967).
+-   Plutarchus, _Cimon_, ed. Arnold Ekker (Utrecht, 1843).
+-   Plutarch, _Moralia_, ii, ed. Frank Cole Babbitt (Cambridge, 1928).
+-   Plutarchus, _Moralia_, ed. M. Pohlenz, K. Hubert, et al., 7 vols (Leipzig, 1929–78).
+-   Plutarch, _Moralia_, iv–v, ed. Frank Cole Babbitt (Cambridge, 1936).
+-   Plutarch, _Moralia_, vi, ed. W. C. Helmbold (Cambridge, 1939).
+-   Plutarch, _Moralia_, xii, ed. (Harold Cherniss and) William C. Helmbold (Cambridge, 1957).
+-   Plutarch, _Moralia_, vii, ed. Phillip H. De Lacy and Benedict Einarson (Cambridge, 1959).
+-   Plutarch, _Moralia_, xiv, ed. Benedict Einarson and Phillip H. De Lacy (Cambridge, 1967).
+-   Plutarchus, _Vitae parallelae_, ed. Konrat Ziegler and Hans Gärtner, 3 vols (Munich, 1973–2000).
+-   Polybe, _Histoires livres VII–VIII et XI_, ed. Raymond Weil (Paris, 1982).
+-   Polybe, _Histoires livre XI_, ed. Raymond Weil (Paris, 1990).
+-   Propertius, Sextus, _Elegiarum libri IV_, ed. Paolo Fedeli (Munich, 1994).
+-   Ptolemæus, Claudius, _Geographia_, i, ed. Carl Müller (Paris, 1883).
+-   Publilius Syrus Mimus, _Sententiae_, ed. Otto Friedrich (Berlin, 1880).
+-   Quintilianus, M. Fabus, _Institutionis oratoriae libri duodecim_, ed. M. Winterbottom, 2 vols (Oxford, 1970).
+-   Quintus de Smyrne, _La Suite d'Homère_, ed. Francis Vian, 2 vols (Paris, 1963–6). (tome III unavailable)
+-   Radt, Stefan (ed.), _Tragicorum Graecorum Fragmenta (TrGF)_, iii: _Aeschylus_ (Göttingen, 1985).
+-   Radt, Stefan (ed.), _Tragicorum Graecorum Fragmenta (TrGF)_, iv: _Sophocles_ (2nd edn, Göttingen, 1999).
+-   Reeve, M. D., 'Tricipitinus's Son', _Zeitschrift für Papyrologie und Epigraphik_, 22 (1976), 21–31.
+-   Reeve, M. D., 'Acidalius on Manilius', _The Classical Quarterly_, 41/1 (1991), 226–39.
+-   Rossbach, Otto, _De Senecae philosophi librorum recensione et emendatione_ (Breslau, 1888).
+-   Rowe, Christopher, _Aristotelica: Studies on the Text of Aristotle’s_ Eudemian Ethics (Oxford, 2023).
+-   Sallustius Crispius, Gaius, _Gai Sallusti Crispi quae supersunt_, i, ed. Rudolf Dietsch (Leipzig, 1859).
+-   Sallustius Crispius, C., _C. Sallusti Crispi Historiae_, i: _Fragmenta 1.1–146_, ed. Antonio La Penna and Rodolfo Funari (Berlin, 2015).
+-   Sandri, Maria Giovanna (ed.), _Trattati greci sui tropi_ (Berlin, 2023).
+-   Sappho and Alcaeus, _Fragmenta_, ed. Eva-Maria Voigt (Amsterdam, 1971).
+-   Schenkl, Karl, 'Valckenarii animadversiones in Philostratos', _Wiener Studien_, 14 (1892), 270.
+-   Schöll, Rudolf, and Wilhelm Kroll (eds), _Novellae_ (Berlin, 1912).
+-   Scribonius Largus, _Compositiones_, ed. Sergio Sconocchia (Berlin, 2020).
+-   Seneca Maior, L. Annaeus, _Oratorum et rhetorum sententiae, divisiones, colores_, ed. Lennart Håkanson (Leipzig, 1989).
+-   Seneca, L. Annaeus, _Dialogorum libri XII_, ed. Emil Hermes (Leipzig, 1905).
+-   Seneca, L. Annaeus, _Ad Lucilium epistularum moralium quae supersunt_, ed. Otto Hense (Leipzig, 1914).
+-   Seneca, L. Annaeus, _Ad Lucilium epistularum moralium libri_, ed. Achilles Beltrami, 2 vols (Brescia, 1916–27).
+-   Seneca, L. Annaeus, _Divi Claudii Apotheosis per saturam quae Apocolocyntosis vulgo dicitur_, ed. Otto Rossbach (Bonn, 1926).
+-   Sénèque, _Dialogues_, ii, ed. A. Bourgery (Paris, 1923).
+-   Sénèque, _Lettres à Lucilius_, iv, ed. François Préchac (Paris, 1962).
+-   Seneca, _Agamemnon_, ed. R. J. Tarrant (Cambridge, 1976).
+-   Seneca, Lucio Anneo, _Tragedie_, ed. Giancarlo Giardina (Turin, 1987).
+-   Seneca, L. Annaeus, _Naturalium quaestionum libri_, ed. Harry M. Hine (Stuttgart, 1996).
+-   Sextus Empiricus, _Opera_, ed. Hermann Mutschmann and J. Mau, 3 vols (Leipzig, 1912–61).
+-   Silius Italicus, _Punica_, ed. Josef Delz (Stuttgart, 1987).
+-   Snell, Bruno, and Richard Kannicht (eds), _Tragicorum Graecorum Fragmenta (TrGF)_, i: _Didascaliae tragicae, catalogi tragicorum et tragoediarum, testimonia et fragmenta tragicorum minorum_ (Göttingen, 1986).
+-   Solinus, C. Iulius, _Collectanea rerum memorabilium_, ed. Theodor Mommsen (Berlin, 1895).
+-   Sommerstein, Alan H., 'The history of the text of Aristophanes', in _Brill's Companion to the Study of Greek Comedy_ (Leiden, 2010), 412 n. 69.
+-   Sophocles, _Fabulae_, ed. H. Lloyd-Jones and N. G. Wilson (Oxford, 1990).
+-   Sophocles, _Tragoediae_, ed. R. D. Dawe (Leipzig, 1996).
+-   Sophocles, _Ajax_, ed. P. J. Finglass (Cambridge, 2011).
+-   Sophocles, _Oedipus the King_, ed. P. J. Finglass (Cambridge, 2018).
+-   Statius, P. Papinius, _Thebaid and Achilleid_, i, ed. J. B. Hall, A. L. Ritchie and M. J. Edwards (Newcastle, 2007).
+-   Stobaeus, Ioannes, _Anthologium_, ed. Curt Wachsmuth and Otto Hense, 5 vols (Berlin, 1884–1912).
+-   Strabon, _Geographika_, ed. Stefan Radt, 4 vols (Göttingen, 2002–5).
+-   Tacitus, Cornelius, _Opera minora_, ed. M. Winterbottom and R. M. Ogilvie (Oxford, 1975).
+-   Tacitus, Cornelius, _Ab excessu divi Augusti libri XI–XVI_, ed. Kenneth Wellesley (Leipzig, 1986).
+-   Tacitus, Cornelius, _Historiarum libri_, ed. Kenneth Wellesley (Leipzig, 1989).
+-   Tacitus, P. Cornelius, _Agricola_, ed. Josef Delz and J. von Ungern-Sternberg (Berlin, 2010).
+-   Thémistios, _Discours I–IV_, ed. Omer Ballériaux and Jacques Schamp (Paris, 2022).
+-   Theocritus et al., _Theocritus quique feruntur bucolici Graeci_, ed. Carlo Gallavotti (Rome, 1993).
+-   Theodoridis, Christos (ed.), _Die Fragmente des Grammatikers Philoxenos_ (Berlin, 1976).
+-   Theodorus Prodromus, _De Rhodanthes et Dosiclis amoribus libri IX_, ed. Miroslav Marcovich (Stuttgart, 1992).
+-   Théon, Aelius, _Progymnasmata_, ed. Michel Patillon (Paris, 1997).
+-   Theophrastus, _Characters_, ed. James Diggle (Cambridge, 2004).
+-   Thomson, D. F. S. (ed.), _Catullus_ (Toronto, 1998).
+-   Thucydides, _Historiae_, ed. Giovan Battista Alberti, 3 vols (Rome, 1972–2000).
+-   Tibullus, Albius et al., _Albii Tibulli aliorumque carmina_, ed. Georg Luck (Stuttgart, 1998).
+-   Tov, Emanuel, _Textual Criticism of the Hebrew Bible_ (Minneapolis, 2012), 329.
+-   Valerius Flaccus, C., _Argonauticon libri octo_, ed. Edward Courtney (Leipzig, 1970).
+-   Velleius Paterculus, C., _Ex historiae Romanae libris duobus quae supersunt_, ed. Karl Halm (Leipzig, 1876).
+-   Velleius Paterculus, _The Tiberian Narrative (2.94–131)_, ed. A. J. Woodman (Cambridge, 1977).
+-   Velleius Paterculus, _The Caesarian and Augustan Narrative (2.41–93)_, ed. A. J. Woodman (Cambridge, 1983).
+-   Vergilius Maro, P., _Opera_, ed. Mario Geymonat (Rome, 2008).
+-   Vergilius Maro, P., _Aeneis_, ed. Gian Biagio Conte (Berlin, 2009).
+-   Vergilius Maro, P., _Bucolica Georgica_, ed. Silvia Ottaviano and Gian Biagio Conte (Berlin, 2013).
+-   West, M. L. (ed.), _Iambi et elegi Graeci ante Alexandrum cantati_, 2 vols (Oxford, 1998).
+-   Wilamowitz-Möllendorff, U. v., 'Zu Plutarchs Gastmahl der Sieben Weisen', _Hermes_, 25 (1890), 208.
+-   Willis, James (ed.), _Martianus Capella_ (Leipzig, 1983).
+-   Willis, William H., 'The Robinson–Cologne Papyrus of Achilles Tatius', _Greek, Roman and Byzantine Studies_, 31 (1990), 73–102.
+-   Wilson, N. G., _Herodotea: studies on the text of Herodotus_ (Oxford, 2015), xii–xiii.
+-   Xenophon, _Historia Graeca_, ed. Otto Keller (Leipzig, 1890).
+-   Xenophon, _Scripta minora_, ii, ed. Franz Rühl (Leipzig, 1912).
+-   Xénophon, _Économique_, ed. Pierre Chantraine (Paris, 1949).
+-   Xenophon Ephesius, _De Anthia et Habrocome Ephesiacorum libri V_, ed. James N. O'Sullivan (Munich, 2005).
+-   Young, Douglas (ed.), _Theognis, Ps.-Pythagoras, Ps.-Phocylides, Chares, anonymi aulodia, fragmentum teliambicum_ (Stuttgart, 1971).
