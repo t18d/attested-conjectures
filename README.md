@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-07-28T03:31:48+00:00
+last_modified_at: 2025-08-05T06:17:15+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -338,7 +338,7 @@ layout: no-anchor
 <p>See also Pasquali’s <a href="https://t18d.github.io/attested-conjectures/decalogo/">Twelve Commandments</a> and James Zetzel's <a href="https://t18d.github.io/attested-conjectures/zetzel/">Textual Criticism and the Transmission of Latin Texts</a>.</p>
 
 <!-- The following sequence of lines must not change – there must be 3 lines of code (including the next comment) below this, no more, no less. -->
-<p>The top 10 critics are Reiske (278), Scaliger (239), Nicolaus Heinsius (214), Adamantios Korais (192), Bentley (171), Thomas Mangey (154), Casaubon (114), Valckenaer (107), Bekker (97) and Madvig (95).</p>
+<p>The top 10 critics are Reiske (279), Scaliger (239), Nicolaus Heinsius (214), Adamantios Korais (192), Bentley (176), Thomas Mangey (154), Casaubon (114), Valckenaer (108), Bekker (97) and Madvig (95).</p>
 <br>
 <!-- Anything not in the table must be before this comment. -->
 
@@ -2983,51 +2983,84 @@ Sapph. fr. 94.24|deest|οὔτε τι]|Blass|1874|Schubart ap. Lobel, Ϲ. μ. p.
 Simon. fr. 20.9|νηπίοισι|νή]πιοι|Joachim Camerarius|1551|P.Oxy. LIX 3965|
 Simon. fr. 20.10|βιότου|βιότοι'|Joachim Camerarius|1551|P.Oxy. LIX 3965|
 Simon. fr. 25.5|χεέτω|χείτω|M. L. West|1989|P.Oxy. LXXXI 5261|
-Soph. Aj. 98|ὥστ'|ὡς|Elmsley|n.d.|Paris. suppl. gr. 109 (Q)|
-Soph. Aj. 135|-άλου|ἀγχίαλον|F. H. Bothe|n.d.|Laur. 32.40 (H)|
+Soph. Aj. 50|μαιμῶσ-|μαργῶσαν|Nauck|1866|Laur. 32.40 (H)|
+Soph. Aj. 58|ὅτ'|τότ'|Frederick H. M. Blaydes|1875|P.Oxy. XVII 2093|
+Soph. Aj. 98|ὥστ'|ὡς|Porson|1812 (a1808)|Paris. suppl. gr. 109 (Q)|
+Soph. Aj. 135|-άλου|ἀγχίαλον|F. H. Bothe|1806|Laur. 32.40 (H)|
 Soph. Aj. 146|λοιπή|κοινή|Henrik van Herwerden|1866|Gγρ|ad OT 591
-Soph. Aj. 181|μαχαναῖς|μη-|Gustav Wolff|1858–65|Laur. 32.40 (H)|
-Soph. Aj. 194|ποτὲ|ποτὶ|Ritschl||Vat. gr. 1333 (Zc)|
+Soph. Aj. 176|ἤ|ἦ|Lachmann|1818|Pragensis XXV C 26 (Zu)|
+Soph. Aj. 176|ἤ|ἦ|Karl Reisig|1818|Pragensis XXV C 26 (Zu)|
+Soph. Aj. 185|-αισι|ποίμναις|Triclinius|s.xiv in.|Vat. gr. 1333 (Zc)|
+Soph. Aj. 185|-ῶν|πίτνων|Elmsley|c1805|Laur. 31.10 (K)|
+Soph. Aj. 194|ποτὲ|ποτὶ|Ritschl|1829|Vat. gr. 1333 (Zc)|
+Soph. Aj. 205|ὁ μ.|μέγας|Bentley|1815 (a1808)|OVS|
+Soph. Aj. 208|ἁμ-|ἡμερίας|Jebb|1896|Laur. 32.40 (H)|
+Soph. Aj. 210|Τελεύ-|Τελλεύταντος|Bentley|a1742|AXr|
 Soph. Aj. 211|δορι-/δορυ-|δουριάλωτον|Brunck|1786|Livineii 'V'|
-Soph. Aj. 230|παραπλήκτῳ|-άκτῳ|Frederick H. M. Blaydes|n.d.|H s.l.|
-Soph. Aj. 369|ἐκνεμῇ|-εῖς|Frederick H. M. Blaydes|n.d.|KpcD|
-Soph. Aj. 378|ἔχειν|ἔχῃ|Valckenaer|pre-1775|Paris. gr. 2735 (C)|
-Soph. Aj. 379|πάνθ ̓ ὁ.|πᾶν θ ̓ ὁρῶν|Elmsley|n.d.|pXs|
+Soph. Aj. 230|παραπλήκτῳ|-άκτῳ|Frederick H. M. Blaydes|1875|H s.l.|
+Soph. Aj. 235|σφάζ'|’σφαζ'|Bentley|a1742|Mosquensis gr. 505 (Jb)|
+Soph. Aj. 239|-εῖ|ῥίπτει|Elmsley|c1805|Mosquensis gr. 505 (Jb)|
+Soph. Aj. 279|-οι|ἥκει|Elmsley|1814|ZrWa|
+Soph. Aj. 313|-είην|φανοίην|Johannes Pierson|1759|XrZf|
+Soph. Aj. 342|ἢ|ἦ|Brunck|1786|GpcQpcRNP|
+Soph. Aj. 369|ἐκνεμῇ|-εῖς|Frederick H. M. Blaydes|1875|KpcD|
+Soph. Aj. 371|choro trib.|Tecmessae trib.|Hermann|1848|Kac|
+Soph. Aj. 378|ἔχειν|ἔχῃ|Valckenaer|a1775|Paris. gr. 2735 (C)|p.c.
+Soph. Aj. 379|πάνθ ̓ ὁ.|πᾶν θ ̓ ὁρῶν|Elmsley|1814|pXs|
 Soph. Aj. 382|ἄγεις|ἔχεις|Henrik van Herwerden|1868|Vat. gr. 2291 (R)|p. 12
-Soph. Aj. 423|-έω|ἐξερῶ|Porson|n.d.|Hac|
-Soph. Aj. 456|γ ̓ ἂν|τἂν|Elmsley|n.d.|QC|
-Soph. Aj. 457|δρᾶν|δρᾶν μ'|Morstadt|n.d.|QC|
-Soph. Aj. 467|μόνος μόνοις|μόνος μόνῳ|Mekler|1885|Cac|
-Soph. Aj. 477|βροτὸν|-ῶν|C. E. Palmer|1878|Stob. cod. Aac|
-Soph. Aj. 503|οἵας λατρείας|οἵαν -αν|Frederick H. M. Blaydes|n.d.|p|
+Soph. Aj. 407|-αῖς|μώραις|Elmsley|1860|QRN|teste Dindorf
+Soph. Aj. 423|-έω|ἐξερῶ|Porson|1812 (a1808)|Hac|
+Soph. Aj. 451|ἐπεντύνοντ'|ἐπευθύνοντ'|Valckenaer|1768|ΛC|ad Eur. Hipp. 1183
+Soph. Aj. 457|δρᾶν|δρᾶν μ'|Rob. Ad. Morstadt|1864|Matrit. gr. 4677 (N)|
+Soph. Aj. 467|μόνος μόνοις|μόνος μόνῳ|Siegfried Mekler|1885|Cac|
+Soph. Aj. 503|οἵας λατρείας|οἵαν -αν|Frederick H. M. Blaydes|1875|p|
+Soph. Aj. 516|ἀλλ' ἡ|ἄλλη|Porson|1815 (a1808)|Neap. II. F. 9 (D)|
+Soph. Aj. 516|με|τε|F. H. Bothe|1806|Laur. 31.10 (K)|
+Soph. Aj. 535|φύ-|’φύλαξα|Bentley|a1742|Vindob. phil. gr. 161 (Xr)|
+Soph. Aj. 557|τρά-|’τράφης|Benjamin Heath|1762|NP|
 Soph. Aj. 560|ὑβρίσῃ|ὑβρίσει|Valckenaer|1743–6|MS|
-Soph. Aj. 625|δὲ|τε|Hermann|1848|Sud. s.v. ἔντροφος|ed. ter.
-Soph. Aj. 687|θ'|δ'|Frederick H. M. Blaydes|n.d.|Laur. 28.25 (F)|
-Soph. Aj. 689|ἅμα|(ὑμῶν) μετὰ|Naber|n.d.|Laur. 31.10 (K)|γρ
-Soph. Aj. 727|ὡς|ὥς τ ̓|Samuel Musgrave|1800|KF|
+Soph. Aj. 589|γε|με|J. G. Jaeger|1811|Monac. gr. 507|
+Soph. Aj. 687|θ'|δ'|Frederick H. M. Blaydes|1875|Laur. 28.25 (F)|
+Soph. Aj. 689|ἅμα|(ὑμῶν) μετὰ|Schneidewin|1853|Laur. 31.10 (K)|γρ
+Soph. Aj. 706|ἔ. γὰρ|ἔλυσεν|Benjamin Heath|1762|LacKac|
+Soph. Aj. 727|ὡς|ὥς τ ̓|Samuel Musgrave|1800 (a1780)|KF|
 Soph. Aj. 742|-ρήκ-|παρείκειν|Reiske|1753|Laur. 32.40 (H)|
-Soph. Aj. 756|τῇδέ θ ̓|τῇδ' ἐθ’|Markland|s.xviii med.|MS|
-Soph. Aj. 773|τότ'/ὅδ'|τόδ'|Johannes Pierson|2009|Laur. 32.40 (H)|GRBS
-Soph. Aj. 836|δ'|θ'|Johannes Livineius|1581–2|Bos. q. 7 (J)|
-Soph. Aj. 842|ἐκγόνων|ἐκγόνων τ’|Markland|s.xviii med.|MSS|
-Soph. Aj. 842|ἐκγόνων|ἐκγόνων τ’|Samuel Musgrave|1800|MSS|
-Soph. Aj. 882|Ὀλυμπιάδων|-αδᾶν|Elmsley|n.d.|Matrit. gr. 4677 (N)|
-Soph. Aj. 956|ὁ π.|πολύτλας|Porson|n.d.|Ambros. E. 1035 sup. (Wa)|
-Soph. Aj. 964|τἀγαθὸν ἐ.|τἀγάθ ̓ ἐν|Reiske|1753|Bos. q. 7 (J)|
-Soph. Aj. 1051|ὑβρίσῃ|οὔκουν|Valckenaer|1743–6|Vat. gr. 1333 (Zc)|
-Soph. Aj. 1065|παραλίοις|-ος|Naber|n.d.|Vat. gr. 2291 (R)|
-Soph. Aj. 1098|τὸν|τόνδ’|Markland|s.xviii med.|Laur. 32. 9 (L)|
-Soph. Aj. 1101|ἤγετ ̓/ἡγεῖτ ̓|ἤγαγ ̓|Elmsley|n.d.|Palat. gr. 40 (P)|
+Soph. Aj. 756|τῇδέ θ ̓|τῇδ' ἐθ’|Markland|a1776|Pragensis XXV C 26 (Zu)|
+Soph. Aj. 758|κἀνόνητα|κἀνόητα|Chalcondylas|1499|Zcac|
+Soph. Aj. 773|τότ'/ὅδ'|τόδ'|Johannes Pierson|2009 (a1759)|Laur. 32.40 (H)|GRBS
+Soph. Aj. 778|θ'|ἔθ'|Markland|a1776|Pragensis XXV C 26 (Zu)|
+Soph. Aj. 795|εἴ-|εἵργειν|Frederick H. M. Blaydes|1875|Paris. gr. 2735 (C)|
+Soph. Aj. 812|-ες|θέλοντας|Hermann|1817|Laur. 32.9 (L)|
+Soph. Aj. 836|δ'|θ'|Johannes Livineius|1581–2|JJb|
+Soph. Aj. 842|ἐκγόνων|ἐκγόνων τ’|Markland|a1776|JJb|
+Soph. Aj. 882|Ὀλυμπιάδων|-αδᾶν|Elmsley|c1805|Matrit. gr. 4677 (N)|
+Soph. Aj. 890|ἀμενηνὸν|μεμηνότ'|Musgrave|1800 (a1780)|NΔ|
+Soph. Aj. 956|ὁ π.|πολύτλας|Porson|1798|WaWb|ad Eur. Or. 1297
+Soph. Aj. 961|οἵδ' ο.|οἳ δ' οὖν|Hermann|1825|Lac|
+Soph. Aj. 964|τἀγαθὸν ἐ.|τἀγάθ ̓ ἐν|Reiske|1753|JJaJb|
+Soph. Aj. 1045|ἐστείλαμεν|-άμην|Reiske|1753|Lac|
+Soph. Aj. 1051|οὐκοῦν|οὔκουν|Valckenaer|1743–6|Vat. gr. 1333 (Zc)|
+Soph. Aj. 1056|ἕ. δορί|ἕλοι δόρει|Karl Reisig|1818|G2pcQ|
+Soph. Aj. 1065|παραλίοις|-ος|Naber|1881|Vat. gr. 2291 (R)|
+Soph. Aj. 1074|-οι|καθεστήκει|Benjamin Heath|1762|Neap. II. F. 9 (D)|
+Soph. Aj. 1098|τὸν|τόνδ’|Markland|a1776|Laur. 32.9 (L)|
+Soph. Aj. 1100|-ῶν|λεὼν|Housman|1892|Dpc|
+Soph. Aj. 1101|ἡγεῖτ ̓|ἤγαγ ̓|Elmsley|1814|Palat. gr. 40 (P)|
 Soph. Aj. 1117|ὡς|ἔστ'|Reiske|1753|Urb. gr. 141 (S)|
-Soph. Aj. 1205|ἀπέπαυσεν|-σε μ ̓|Frederick H. M. Blaydes|n.d.|Urb. gr. 141 (S)|
-Soph. Aj. 1237|ἔχειν|ποῖ|Valckenaer|pre-1775|cod. rec.|
+Soph. Aj. 1118–9|1118 Menelao, 1119 Teucro trib.|choro trib.|Benjamin Heath|1762|Σ|
+Soph. Aj. 1192|ὤφ-|ὄφελε|Triclinius|s.xiv in.|Palat. gr. 40 (P)|
+Soph. Aj. 1205|ἐ. ἐ. δ'|ἐρώτων δ' ἐρώτων|F. H. Bothe|1806|GRQ|
+Soph. Aj. 1205|ἀπέπαυσεν|-σε μ ̓|Frederick H. M. Blaydes|1875|Urb. gr. 141 (S)|
+Soph. Aj. 1237|prius ποῦ|ποῖ|Valckenaer|a1775|Dresd. Da. 22|
 Soph. Aj. 1243|ἤρεσκεν|ἤρκεσε|Johannes Pierson|2009|MS|GRBS
-Soph. Aj. 1245|λελειμ-|λελημμένοι|Pearson|n.d.|Laur. 32.40 (H)|
-Soph. Aj. 1274|οὗτος|ἐντός|Markland|s.xviii med.|a|
-Soph. Aj. 1283|αὐτὸς|αὑ-|Gustav Wolff|1858–65|Vindob. suppl. gr. 71 (Xs)|
-Soph. Aj. 1368|σόν|σόν γ'|Porson|n.d.|Paris. gr. 2735 (C)|
-Soph. Aj. 1371|τῆσ-|τήνδε|F. H. Bothe|n.d.|Paris. gr. 2735 (C)|
-Soph. Aj. 1379|-ον|ὅσων|Porson|n.d.|Vat. gr. 1333 (Zc)|s.l.
+Soph. Aj. 1245|λελειμ-|λελημμένοι|A. C. Pearson|1920|Laur. 32.40 (H)|
+Soph. Aj. 1274|οὗτος|ἐντός|Markland|a1776|Vindob. phil. gr. 161 (Xr)|
+Soph. Aj. 1283|αὐτὸς|αὑ-|Gustav Wolff|1858|Vindob. suppl. gr. 71 (Xs)|
+Soph. Aj. 1296|φυτεύσ-|φιτύσας|Johannes Pierson|a1759|Marc. gr. 616 (Zr)|
+Soph. Aj. 1303|δῶ-|’δῶκεν|Benjamin Heath|1762|Jenensis Bos. q. 7 (J)|
+Soph. Aj. 1337|κρά-|’κράτησα|Bentley|1816 (a1742)|QpcF|
+Soph. Aj. 1371|τῆσ-|τήνδε|F. H. Bothe|1806|Paris. gr. 2735 (C)|
+Soph. Aj. 1379|-ον|ὅσων|Porson|1812 (a1808)|ΔZc|s.l.
 Soph. Ant. 18|-ειν|ᾔδη|Johannes Pierson|1759|Zcac|Lexicon Atticum s.v. ᾔδη ('Quis non videt')
 Soph. Ant. 57|ἐπ ̓ ἀλλήλοιν|ἐπαλλήλοιν|Hermann|n.d.|KSUZf|
 Soph. Ant. 70|ἐμοῦ|ἐμοί|Meineke|1861|Laur. 31.10 (K)|
@@ -3115,7 +3148,7 @@ Soph. El. 1044||ποήσεις|Valckenaer|pre-1775|MSS|
 Soph. El. 1139|om.|σ’|Markland|s.xviii med.|p|
 Soph. El. 1226|ἔχεις|ἔχοις|Valckenaer|pre-1775|Laur. 32. 9 (L)|
 Soph. El. 1246|ἐνέβαλες|ὑπ-|Frederick H. M. Blaydes|n.d.|Vat. gr. 40|
-Soph. El. 1275|-ύστον-|πολύπονον|Hermann|n.d.|Bos. q. 7 (J)|
+Soph. El. 1275|-ύστον-|πολύπονον|Hermann|n.d.|Jenensis Bos. q. 7 (J)|
 Soph. El. 1281|φίλαι|φίλ ̓|Eduard Wunder|n.d.|Paris. gr. 2735 (C)|
 Soph. El. 1458|πύλας|πέλας|Reiske|1753|VXs|
 Soph. El. 1471|φίλως|-ους|Ludwig Purgold|n.d.|Vat. gr. 904 (Pa)|
