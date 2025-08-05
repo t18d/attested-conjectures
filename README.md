@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-08-05T13:07:54+00:00
+last_modified_at: 2025-08-05T13:54:19+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
