@@ -10,13 +10,20 @@ layout: no-anchor
 ---
 # Coniecerat, sicut coni., suo Marte
 
-<p align="right">This page keeps track of the terminology that editors <br>use to indicate an attested conjecture. Editors marked <br>as ‘ambiguous’ employ the same method to record <br>the fact that a critic supports a transmitted reading.</p>
+<p align="right">This page keeps track of the terminology that editors <br>use 
+  to indicate an attested conjecture. Editors marked <br>as ‘ambiguous’ employ 
+  the same method to record <br>the fact that a critic supports a transmitted 
+  reading.</p>
 
 &nbsp;  
 &nbsp;  
-**coniecera(n)t _critic_:** Bücheler, Boissevain (also **ut coni.**), Burnet, Hense (also **ut coniecit**), P. Thomas, Diès, Dodds, Bluck,  Pfeiffer, Chantraine, Lannoy, Legrand, Malcovati, Alberti, van den Hout, Carey, West (Hom.), Theodoridis, Conte
+**coniecera(n)t _critic_:** Bücheler, Boissevain (also **ut coni.**), Burnet, 
+Hense (also **ut coniecit**), P. Thomas, Diès, Dodds, Bluck,  Pfeiffer, 
+Chantraine, Lannoy, Legrand, Malcovati, Alberti, van den Hout, Carey, West 
+(Hom.), Theodoridis, Conte
 
-> less commonly, **emendavera(n)t**, **correxera(n)t**, **delevera(n)t**, **addidera(n)t**, **scripsera(n)t**
+> less commonly, **emendavera(n)t**, **correxera(n)t**, **delevera(n)t**,
+> **addidera(n)t**, **scripsera(n)t**
 
 **suo Marte _critic_:** Conte
 
@@ -25,7 +32,9 @@ layout: no-anchor
 > **sicut coniecerat _critic_:** Housman  
 **sicut/sic ut coniecit _critic_:** Hense
 
-**ut coni. _critic_:** O. Schneider, Wachsmuth, Boissevain, Hermes, Peterson (1907), A. Klotz, Allen (also **quod coni.**, **coni.**), Beltrami, Westman, Winterbottom (Quint., Tac.), Delz (1987), Hine
+**ut coni. _critic_:** O. Schneider, Wachsmuth, Boissevain, Hermes, Peterson 
+(1907), A. Klotz, Allen (also **quod coni.**, **coni.**), Beltrami, Westman, 
+Winterbottom (Quint., Tac.), Delz (1987), Hine
 
 > **ut ci. _critic_:** Usener, West (Hom.)  
 **ut coniecit _critic_:** Hense, Walters/Conway, Beltrami, Courtney
@@ -83,9 +92,13 @@ layout: no-anchor
 
 **_sigla_ cum _critic_:** Ekker (ambiguous)
 
-**_sigla_ (_critic_):** Pohlenz (ambiguous), Ziegler (ambiguous), Giusta (ambiguous), Wellesley (ambiguous), von Ungern-Sternberg
+**_sigla_ (_critic_):** Pohlenz (ambiguous), Ziegler (ambiguous), Giusta 
+(ambiguous), Wellesley (ambiguous), von Ungern-Sternberg
 
-**_sigla_, _critic_:** Sjögren (ambiguous), Galletier (ambiguous), Geymonat (ambiguous), Hall (ambiguous), H. J. Williams, Richmond (ambiguous), Lloyd-Jones/Wilson, Wilson, Flobert (ambiguous), Leofranc Holford-Strevens (ambiguous)
+**_sigla_, _critic_:** Sjögren (ambiguous), Galletier (ambiguous), Geymonat 
+(ambiguous), Hall (ambiguous), H. J. Williams, Richmond (ambiguous), 
+Lloyd-Jones/Wilson, Wilson, Flobert (ambiguous), Finglass, Leofranc 
+Holford-Strevens (ambiguous)
 
 **_sigla_ _critic_:** Jacoby (ambiguous), Mandilaras
 
