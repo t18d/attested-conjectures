@@ -70,13 +70,15 @@ Winterbottom (Quint., Tac.), Delz (1987), Hine
 > **_sigla_ (et _critic_):** Fedeli  
 **_sigla_ and _critic_:** De Lacy–Einarson
 
-**_sigla_ (coni. _critic_):** Cohn, Wendland, Seel, Hohl, Mayhoff, Tarrant, Dorandi
+**_sigla_ (coni. _critic_):** Cohn, Wendland, Seel, Hohl, Mayhoff, Tarrant, 
+Dorandi
 
 > **_sigla_ (ci. _critic_):** Blass, West (Hes. Op.), O’Sullivan, Boter  
 **_sigla_ (coniecit _critic_):** Radt  
 **_sigla_ (coniecerunt _critics_):** Radt  
 
-**_sigla_, coni. _critic_:** Allen, Diggle (ambiguous), Ireland, Lloyd-Jones/Wilson
+**_sigla_, coni. _critic_:** Allen, Diggle (ambiguous), Ireland, 
+Lloyd-Jones/Wilson, Finglass (pre-2011)
 
 > **_sigla_, ci. _critic_:** O’Sullivan, Tarán  
 **_sigla_, _critic_ ex coni.:** Luck (_opp_ **ex cod.**)  
@@ -97,7 +99,7 @@ Winterbottom (Quint., Tac.), Delz (1987), Hine
 
 **_sigla_, _critic_:** Sjögren (ambiguous), Galletier (ambiguous), Geymonat 
 (ambiguous), Hall (ambiguous), H. J. Williams, Richmond (ambiguous), 
-Lloyd-Jones/Wilson, Wilson, Flobert (ambiguous), Finglass, Leofranc 
+Lloyd-Jones/Wilson, Wilson, Flobert (ambiguous), Finglass (2011–), Leofranc 
 Holford-Strevens (ambiguous)
 
 **_sigla_ _critic_:** Jacoby (ambiguous), Mandilaras
