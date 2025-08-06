@@ -1,6 +1,6 @@
 ---
 title: Bibliography @ Database of Greek and Latin Conjectural Emendations Attested in MSS
-description: The sources of the database
+description: The secondary sources from which conjectures were collected
 permalink: bibliography/
 seo:
   type: Dataset
