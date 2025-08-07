@@ -288,6 +288,7 @@ last_modified_at: 2025-08-06T06:22:14+00:00
 - Sommerstein, Alan H., 'The history of the text of Aristophanes', in _Brill's Companion to the Study of Greek Comedy_ (Leiden, 2010), 412 n. 69.
 - Sophocles, _Fabulae_, ed. H. Lloyd-Jones and N. G. Wilson (Oxford, 1990).
 - Sophocles, _Tragoediae_, ed. R. D. Dawe (Leipzig, 1996).
+- Sophocles, _Electra_, ed. P. J. Finglass (corr. repr., Cambridge, 2010).
 - Sophocles, _Ajax_, ed. P. J. Finglass (Cambridge, 2011).
 - Sophocles, _Oedipus the King_, ed. P. J. Finglass (Cambridge, 2018).
 - Statius, P. Papinius, _Thebaid and Achilleid_, i, ed. J. B. Hall, A. L. Ritchie and M. J. Edwards (Newcastle, 2007).
