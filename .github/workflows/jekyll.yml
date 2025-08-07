@@ -81,7 +81,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3' # Not needed with a `.ruby-version` or `.tool-versions`
+          ruby-version: 'ruby' # Not needed with a `.ruby-version` or `.tool-versions`
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
       - name: Setup Pages
@@ -119,7 +119,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3' # Not needed with a `.ruby-version` or `.tool-versions`
+          ruby-version: 'ruby' # Not needed with a `.ruby-version` or `.tool-versions`
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
       - name: Setup Pages
