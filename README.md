@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-08-07T05:57:52+00:00
+last_modified_at: 2025-08-07T09:36:18+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -41,7 +41,7 @@ Commandments</a> and James Zetzel's
 and the Transmission of Latin Texts</a>.
 
 <!-- The following sequence of lines must not change – there must be 3 lines of code (including the next comment) below this, no more, no less. -->
-<p>The top 10 critics are Reiske (282), Scaliger (239), Nicolaus Heinsius (214), Adamantios Korais (192), Bentley (176), Thomas Mangey (154), Casaubon (114), Valckenaer (108), Bekker (97) and Madvig (95).</p>
+<p>The top 10 critics are Reiske (282), Scaliger (238), Nicolaus Heinsius (214), Adamantios Korais (192), Bentley (176), Thomas Mangey (154), Casaubon (114), Valckenaer (107), Bekker (97) and Madvig (95).</p>
 <br>
 <!-- Anything not in the table must be before this comment. -->
 
@@ -497,14 +497,12 @@ Ar. Eq. 545|-ῶς|σωφρονικὸς|Brunck|1783|Paris. gr. 2715 (B)|
 Ar. Eq. 726|om.|alterum ὦ|Elmsley|1809|P.Oxy. LXXIX 5196|
 Ar. Eq. 802|-ξῃς/-σῃς vel sim.|ἁρπάζῃς|Bentley|s.xviii in.|Paris. gr. 2715 (B)|
 Ar. Eq. 873|-ον|ὅσων|Bentley|s.xviii in.|Bpc|
-Ar. Eq. 881|τηλικουτονί|τηλικοῦτον|Valckenaer|1757|Laur. 31.13 (X)|
+Ar. Eq. 881|τηλικουτονί|τηλικοῦτον|Grynaeus|1532|Laur. 31.13 (X)|
 Ar. Eq. 895|τοῦ|τὸν|Bentley|s.xviii in.|Paris. gr. 2712 (A)|
-Ar. Eq. 981|γένοιθ'|’γένεθ'|Scaliger|n.d.|schol. Γ|
 Ar. Eq. 1017|ἐκέλευσ'|ἐκελευ'|Frederick H. M. Blaydes|1882|P.Oxy. XI 1373|
 Ar. Eq. 1046|-ροῦν|σιδήρου|Bergk|n.d.|P.Bingen 18|ac
 Ar. Eq. 1058|φράσαι/φράζευ|φρασ]σαι|Brunck|1783|P.Oxy. XI 1373|
 Ar. Eq. 1070|ἑκάστοτε|ἑκάστοθ᾽ ἃς|Frederick H. M. Blaydes|1882|P.Oxy. XXXI 2545|
-Ar. Eq. 1158|φράσεις|-ῃς|Porson|n.d.|VΓ|
 Ar. Lys. 81|om.|τὼ|Karl Reisig|n.d.|schol. R et Mu2|
 Ar. Lys. 106|πορπατιϲ-|πορπακιϲάμενοϲ|Ludolf Küster|1710|schol. O|lm.
 Ar. Lys. 126|μοι μυᾶτε|μοιμυᾶτε|L. Dindorf|n.d.|schol. O|lm.
