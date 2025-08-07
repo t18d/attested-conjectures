@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-08-06T06:22:14+00:00
+last_modified_at: 2025-08-07T06:00:55+00:00
 ---
 # Bibliography
 
