@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-08-08T03:42:03+00:00
+last_modified_at: 2025-08-08T08:12:55+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -1466,6 +1466,7 @@ Gal. Med.Phil. 3.5|om.|χρὴ|Adamantios Korais|1816|Hunaini uersio arabica|
 Gal. Med.Phil. 4.1|ἄξιον|ἀξιῶν|Theodore Goulston|1640|Hunaini uersio arabica|
 Gal. Med.Phil. 4.2|αὐτὴν|αὐτῶν|Ivan von Müller|1875|Hunaini uersio arabica|
 Gal. Med.Phil. 4.4|-ον|ἀναισχύντου|Ernst Wenkebach|1933|Hunaini uersio arabica|
+Gal. Mot.Liq. 1.16|-a|proprie|Klaus-Dietrich Fischer|2011|Vat. Urb. lat. 247 (U)|apud Nutton; m. sec.
 Gorg. Hel. 13|ὡς ε.|εὐμετάβολον|Reiske|1773|HW|
 Gorg. Hel. 20|ἔπραξε|ἔπραξεν ἃ ἔ.|Reiske|1773|Lond. Burn. 95 (A)|
 Gorg. Hel. 21|ἐπ' ἀ.|ἐν ἀρχῇ|Reiske|1773|Lond. Burn. 95 (A)|
