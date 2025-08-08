@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-08-08T08:12:55+00:00
+last_modified_at: 2025-08-08T13:42:12+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -1466,7 +1466,6 @@ Gal. Med.Phil. 3.5|om.|χρὴ|Adamantios Korais|1816|Hunaini uersio arabica|
 Gal. Med.Phil. 4.1|ἄξιον|ἀξιῶν|Theodore Goulston|1640|Hunaini uersio arabica|
 Gal. Med.Phil. 4.2|αὐτὴν|αὐτῶν|Ivan von Müller|1875|Hunaini uersio arabica|
 Gal. Med.Phil. 4.4|-ον|ἀναισχύντου|Ernst Wenkebach|1933|Hunaini uersio arabica|
-Gal. Mot.Liq. 1.16|-a|proprie|Klaus-Dietrich Fischer|2011|Vat. Urb. lat. 247 (U)|apud Nutton; m. sec.
 Gorg. Hel. 13|ὡς ε.|εὐμετάβολον|Reiske|1773|HW|
 Gorg. Hel. 20|ἔπραξε|ἔπραξεν ἃ ἔ.|Reiske|1773|Lond. Burn. 95 (A)|
 Gorg. Hel. 21|ἐπ' ἀ.|ἐν ἀρχῇ|Reiske|1773|Lond. Burn. 95 (A)|
@@ -4992,6 +4991,9 @@ Frontin. strat. 3.15.6|compelli|comportari|Franz van Oudendorp|1731–79|Lond. L
 Frontin. strat. 4.7.29|-e|armaret|Petrus Scriverius|1606–7|ϛ|
 Fronto p. 21.4|pari.|paria paribus|Rudolf Klussmann|1874|teste Hauler|p. 46
 Fronto p. 171.9|limit-|multis|L. F. Heindorf|1816|teste Mai a. 1817|apud Niebuhr
+Gal. Caus.Proc. 5|s. i. etiam|se ipsam|Kurt Bardong|1937|Paris. Acad. 53 (A)|
+Gal. Caus.Proc. 126|-i/-o|putata|Kurt Bardong|1937|Paris. Acad. 53 (A)|
+Gal. Mot.Liq. 1.16|-a|proprie|Klaus-Dietrich Fischer|2011|Vat. Urb. lat. 247 (U)|apud Nutton; m. sec.
 Gell. 1.2.4|grip(p)os|griphos|Jenson|1472|recc.|
 Gell. 1.3.3|recto ne|rectene|Ludovicus Carrio|1585|Palat. lat. 24 (A)|
 Gell. 1.3.27|permiss-|remissoque|Sebastianus Gryphius|1537|Palat. lat. 24 (A)|
