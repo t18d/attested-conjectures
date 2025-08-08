@@ -138,6 +138,7 @@ last_modified_at: 2025-08-08T08:14:56+00:00
 - Frontinus, _De aquaeductu urbis Romae_, ed. R. H. Rodgers (Cambridge, 2004).
 - Fronto, M. Cornelius, _Epistulae_, ed. Michael P. J. van den Hout (Leipzig, 1988).
 - Galán Vioque, Guillermo, 'Joseph Scaliger’s Notes on Quintus of Smyrna’s _Posthomerica_', _Greek, Roman and Byzantine Studies_, 55 (2015), 946–68.
+- Galen, _On Antecedent Causes_, ed. R. J. Hankinson (Cambridge, 1998).
 - Galen, _On Problematical Movements_, ed. Vivian Nutton (Cambridge, 2011).
 - Galien, _Tome I_, ed. Véronique Boudon-Millot (Paris, 2007).
 - Galletier, Édouard (ed.), _Panégyriques latins_, 3 vols (Paris, 1949–55).
