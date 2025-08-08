@@ -292,6 +292,7 @@ last_modified_at: 2025-08-07T06:00:55+00:00
 - Sophocles, _Ajax_, ed. P. J. Finglass (Cambridge, 2011).
 - Sophocles, _Oedipus the King_, ed. P. J. Finglass (Cambridge, 2018).
 - Statius, P. Papinius, _Thebaid and Achilleid_, i, ed. J. B. Hall, A. L. Ritchie and M. J. Edwards (Newcastle, 2007).
+- Stesichorus, _The Poems_, ed. M. Davies and P. J. Finglass (Cambridge, 2014).
 - Stobaeus, Ioannes, _Anthologium_, ed. Curt Wachsmuth and Otto Hense, 5 vols (Berlin, 1884–1912).
 - Strabon, _Geographika_, ed. Stefan Radt, 4 vols (Göttingen, 2002–5).
 - Tacitus, Cornelius, _Opera minora_, ed. M. Winterbottom and R. M. Ogilvie (Oxford, 1975).
