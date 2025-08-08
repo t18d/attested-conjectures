@@ -101,6 +101,7 @@ last_modified_at: 2025-08-08T13:45:40+00:00
 - Cicero, M. Tullius, _Pro A. Cluentio Habito oratio_, ed. Silvia Rizzo (Rome, 1991).
 - Cicero, M. Tullius, _Oratio pro P. Quinctio_, ed. Michael D. Reeve (Leipzig, 1992).
 - Cicero, M. Tullius, _Oraliones in P. Vatinium testem et Pro M. Caelio_, ed. Tadeusz Maslowski (Stuttgart, 1995).
+- Cicero, _Pro P. Sulla oratio_, ed. D. H. Berry (Cambridge, 1996).
 - Cicero, M. Tullius, _Oraliones in L. Catilinam quattuor_, ed. Tadeusz Maslowski (Munich, 2003).
 - Cicero, M. Tullius, _De finibus bonorum et malorum_, ed. Claudio Moreschini (Munich, 2005).
 - Cicero, M. Tullius, and M. Brutus, _M. Tulli Ciceronis ad M. Brutum et M. Bruti ad M. Tullium Ciceronem epistularum liber novus_, ed. H. Sjögren (Uppsala, 1910).
