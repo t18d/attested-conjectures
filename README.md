@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-08-09T02:45:27+00:00
+last_modified_at: 2025-08-09T05:37:48+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -41,7 +41,7 @@ Commandments</a> and James Zetzel's
 and the Transmission of Latin Texts</a>.
 
 <!-- The following sequence of lines must not change – there must be 3 lines of code (including the next comment) below this, no more, no less. -->
-<p>The top 10 critics are Reiske (282), Scaliger (238), Nicolaus Heinsius (214), Adamantios Korais (192), Bentley (176), Thomas Mangey (154), Casaubon (114), Valckenaer (107), Bekker (97) and Madvig (95).</p>
+<p>The top 10 critics are Reiske (282), Scaliger (238), Nicolaus Heinsius (214), Adamantios Korais (192), Bentley (177), Thomas Mangey (154), Casaubon (114), Valckenaer (107), Bekker (97) and Madvig (95).</p>
 <br>
 <!-- Anything not in the table must be before this comment. -->
 
@@ -6090,6 +6090,7 @@ Sen. Herc. O. 145|feracas pias/fera caseta|fera Caspia|Jodocus Badius|1514|Bodl.
 Sen. Herc. O. 542|-it|quatis|F. H. Bothe|1819|Eton. 110 (e)|
 Sen. Herc. O. 819|iussa|visa|Girolamo Avanzi|1517|cod. Orator. (O)|
 Sen. Herc. O. 825|vix|vis|F. H. Bothe|1819|Eton. 110 (e)|
+Sen. Herc. O. 1721|inermis|eneruis|Bentley|1882 (a1742)|MS (s.xiv)|
 Sen. Herc. f. 604|quae i.|qui iussit|Lipsius|1798|cod. Mogunt.|apud Baden
 Sen. Herc. f. 823|ob-|aborta|H. Weber|1907|V et recc.|
 Sen. Herc. f. 1032–4||choro attribuit|Leo|1878|Ambros. D 276 inf. (M)|
