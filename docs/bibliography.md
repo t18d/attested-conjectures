@@ -264,7 +264,7 @@ last_modified_at: 2025-08-09T06:15:41+00:00
 - Radt, Stefan (ed.), _Tragicorum Graecorum Fragmenta (TrGF)_, iii: _Aeschylus_ (Göttingen, 1985).
 - Radt, Stefan (ed.), _Tragicorum Graecorum Fragmenta (TrGF)_, iv: _Sophocles_ (2nd edn, Göttingen, 1999).
 - Reeve, M. D., 'Tricipitinus's Son', _Zeitschrift für Papyrologie und Epigraphik_, 22 (1976), 21–31.
-- Reeve, M. D., '_Eliminatio codicum descriptorum_: a methodological problem', in _Editing Greek and Latin texts_ (New York, 1989), 1–35.
+- Reeve, M. D., '_Eliminatio codicum descriptorum_: a methodological problem', in _Editing Greek and Latin texts_ (New York, 1989), 6.
 - Reeve, M. D., 'Acidalius on Manilius', _The Classical Quarterly_, 41/1 (1991), 226–39.
 - Rossbach, Otto, _De Senecae philosophi librorum recensione et emendatione_ (Breslau, 1888).
 - Rowe, Christopher, _Aristotelica: Studies on the Text of Aristotle’s_ Eudemian Ethics (Oxford, 2023).
