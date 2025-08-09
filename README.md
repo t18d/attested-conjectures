@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-08-08T14:34:17+00:00
+last_modified_at: 2025-08-09T02:45:27+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -4601,19 +4601,19 @@ Cic. S. Rosc. 115|Roscio|T. Roscio|C. G. Schütz|1814–23|ϛ|
 Cic. S. Rosc. 124|l. s. esse|laesos se|A. C. Clark|1905|ϛ|
 Cic. S. Rosc. 149|-ala|Messalla|Denys Lambin|1566|c2k|
 Cic. Sull. 1|victi|revicti|James S. Reid|1882|b2|
-Cic. Sull. 23|Curio|M' Curio|P. Manutius||schol. Bob.|
+Cic. Sull. 23|Curio|M' Curio|P. Manutius|1540|schol. Bob.|
 Cic. Sull. 46|aut/ac p.|atque perfregerim|A. C. Clark|1911|Brux. 9755–63 (B)|
-Cic. Sull. 48|cogitavit|cognovit|Denys Lambin||ac1|
+Cic. Sull. 48|cogitavit|cognovit|Denys Lambin|1566|ac1|
 Cic. Sull. 52|om.|et|James S. Reid|1882|Brux. 14492 (π)|
 Cic. Sull. 55|servili|Servili|Madvig|1871|Lag. 9|
-Cic. Sull. 58|rei p.|populo R.|Janus Gulielmius||cod. Tegerns. (T)|
-Cic. Sull. 63|de salute|dum saluti|Beck||cod. Tegerns. (T)|
+Cic. Sull. 58|rei p.|populo R.|Janus Gulielmius|a1584|cod. Tegerns. (T)|
+Cic. Sull. 63|de salute|dum saluti|Beck|1795–1807|cod. Tegerns. (T)|
 Cic. Sull. 74|-ii|iudices|Niccolò Angeli|1515|Berol. lat. fol. 252 (E)|
 Cic. Sull. 76|-it|posset|J. A. Ernesti|1773–7|Paris. 7779 (k)|
-Cic. Sull. 82|attestantem|ad testandam|Denys Lambin||TE|
+Cic. Sull. 82|attestantem|ad testandam|Denys Lambin|1566|TE|
 Cic. Sull. 83|quid? Ego|quid ego?|James S. Reid|1882|Laur. xxiii. Sin. 3 (a)|
 Cic. Sull. 90|etsi|et si|C. F. W. Müller|1892|πaΣψ|
-Cic. Sull. 92|est|sunt|Denys Lambin||TE|
+Cic. Sull. 92|est|sunt|Denys Lambin|1566|TE|
 Cic. Tim. 14|-unt|fuerant|Denys Lambin|1565–6|Vindob. lat. 189 (V)|
 Cic. Tull. 42|-matis|armis|P. E. Huschke|1826|Palimp. Taur. (T)|apud J. G. H.
 Cic. Tusc. 1.51|nisi|si|Moritz Seyffert|1864|ϛ|
