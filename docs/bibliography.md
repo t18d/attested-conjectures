@@ -58,6 +58,7 @@ last_modified_at: 2025-08-09T07:50:45+00:00
 - Aristote, _Topiques_, ed. Jacques Brunschwig, 2 vols (Paris, 1967–2007).
 - Aristoteles, _Privatorum scriptorum fragmenta_, ed. Marian Plezia (Leipzig, 1977).
 - Aristoteles, _Ethica Eudemia_, ed. R. R. Waltzer and J. Μ. Mingay (Oxford, 1991).
+- Aristotle, _Historia Animalium_, ed. D. M. Balme (Cambridge, 2002).
 - Aristotle, _Poetics_, ed. Leonardo Tarán and Dimitri Gutas (Leiden, 2012).
 - Aristotele, _La Politica: Libro IV_, ed. Lucio Bertelli and Mauro Moggi (Rome, 2014).
 - Aristotle, _De Motu Animalium_, ed. Oliver Primavesi (Oxford, 2023).
