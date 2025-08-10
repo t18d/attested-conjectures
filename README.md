@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-08-09T05:37:48+00:00
+last_modified_at: 2025-08-10T08:58:58+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -607,6 +607,9 @@ Arist. EE 1233a20|ἄξιον ἀξιοῦν|ἄ. μικρῶν ἀ.|Leonhard Sp
 Arist. EE 1237b4|ἄλλῳ. ὥστ’|ἄλλο. ὥ.|Henry Jackson||Laur. Plut. 81.4|m. sec.
 Arist. EE 1247a7|οὗτοι|οὐ τῷ|Demetrius Chalcondyles||Lib. de bon. fort.|apud Ambr.
 Arist. EE 1249b15|-ῶς|ἐπιτακτικὸς|Herbert Richards|1915|Monac. gr. 635 (B)|
+Arist. HA 553b17|-α(ι)/-οι|ἄναρχον|Aubert–Wimmer|1868|Marc. gr. 200 (Q)|
+Arist. HA 567b4|περιρράνῃ|ἐπιρράνη|J. G. Schneider|1811|Paris. suppl. gr. 1156 (Wc)|
+Arist. HA 605b24|ὀλιγοβιώ-/πολυχρονιώ-|ὀλιγοχρονιώτερα|J. C. Scaliger|1619|Ocrc mrc|
 Arist. MA 700a26|αὐτὸ α.|αὐτῶ αὑτὸ|Werner Jaeger|1913|λ(XHaLVg) ba.c.|
 Arist. MA 700b32|τὰ μ.|τὸ μὲν|A. S. L. Farquharson|1912|β(BeErb Γ2[hoc quidem GR″]) Za|
 Arist. MA 702a18|διὰ τὸ|δ. τὸ τὸ|Hermann Bonitz|1866|θ(NXHaLVg)|
