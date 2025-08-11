@@ -5,7 +5,7 @@ permalink: des-noms-latins/
 seo:
   type: Collection
   name: Des noms latins
-last_modified_at: 2025-08-05T13:23:46+00:00
+last_modified_at: 2025-08-11T08:12:43+00:00
 ---
 # Des noms latins
 
@@ -42,6 +42,13 @@ in his personal correspondence supports this.…
 as his career progressed, the name ‘Ascensius’
 appeared less frequently, and ‘Badius’ was used more often. 
 ([White](https://archive.org/details/jodocusbadiusasc0000whit/))
+
+## Martín Del Río
+A marginal note to a copy of Rosweyde’s _Life_, held in the Plantin-Moretus 
+Museum, says that ‘among serious-minded men in Spain, there was disagreement 
+about whether the names Delrio and Delrío were one and the same or different, a 
+doubt which caused the change of names,’ i.e. from Del Rio to Del Río. 
+(Maxwell-Stuart and Valverde)
 
 ## Conrad Gessner
 … we see a consistent pattern throughout Gessner's life of writing his and his 
