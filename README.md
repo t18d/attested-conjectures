@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-08-11T08:53:05+00:00
+last_modified_at: 2025-08-11T11:29:48+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -5574,8 +5574,8 @@ Ov. ars 2.569|simul ac|semel est|Rudolf Merkel|1852|Hamilt. 471 (Y)|
 Ov. ars 3.167|rubor|pudor|Dilthey|1969|Paris. lat. 8430 (P7)|ap. Lenz
 Ov. ars 3.217|faciem|formam|Nicolaus Heinsius|1658|Bodl. Canon. Class. Lat. 15 (O5)|
 Ov. ars 3.232|contempnens|contemnes|Madvig|1873|Hamilt. 471 (Y)|
-Ov. ars 3.232|-at|tegit|Münscher|n.d.|Hamilt. 471 (Y)|TLL s.v. brattea
-Ov. ars 3.273|analept-|analemptrides|W. Schulze|1894|Hamilt. 471 (Y)|
+Ov. ars 3.232|-at|tegit|Karl Münscher|1906|Hamilt. 471 (Y)|TLL s.v. brattea
+Ov. ars 3.273|analept-|analemptrides|Wilhelm Schulze|1958|Hamilt. 471 (Y)|
 Ov. ars 3.410|-os|contiguus|A. G. Parrasio|1500–5|Paris. lat. 7311 (R)|ad Claud. rapt. Pros. 1.222
 Ov. ars 3.418|ferre|ferte|Nicolaus Heinsius|1658|Antuerp. Plant. lat. D.68 (A)|
 Ov. ars 3.733|arcus|artus|Rudolf Merkel|1852|Matrit. 206 (Ma)|
