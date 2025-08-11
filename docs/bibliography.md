@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-08-10T09:01:56+00:00
+last_modified_at: 2025-08-11T11:08:38+00:00
 ---
 # Bibliography
 
@@ -41,6 +41,7 @@ last_modified_at: 2025-08-10T09:01:56+00:00
 - Anon., _Ciris_, ed. Boris Kayachev (Swansea, 2020).
 - Anon., _Declamationes XIX maiores Quintiliano falso ascriptae_, ed. Lennart Håkanson (Stuttgart, 1982).
 - Anon., _The Minor Declamations Ascribed to Quintilian_, ed. Michael Winterbottom (Berlin, 1984).
+- Anon., _Octavia_, ed. Rolando Ferri (Cambridge, 2003).
 - Anon., _Pervigilium Veneris_, ed. Cecil Clementi (2nd edn, Oxford, 1928).
 - Anon., _Scriptores historiae Augustae_, 2 vols, ed. Ernst Hohl (Leipzig, 1965).
 - Anon., _Suidae lexicon_, 4 vols, ed. Ada Adler (Munich, 1928–35).
