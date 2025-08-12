@@ -5,7 +5,7 @@ permalink: coniecerat/
 seo:
   type: Dataset
   name: Coniecerat, sicut coni., suo Marte
-last_modified_at: 2025-08-10T12:48:30+00:00
+last_modified_at: 2025-08-12T11:37:55+00:00
 layout: no-anchor
 ---
 # Coniecerat, sicut coni., suo Marte
@@ -27,7 +27,7 @@ Chantraine, Lannoy, Legrand, Malcovati, Alberti, van den Hout, Carey, West
 
 **suo Marte _critic_:** Conte
 
-**sicut coni. _critic_:** Housman, Diggle (also **coni.**), Clausen
+**sicut coni. _critic_:** Housman, Kenney, Diggle (also **coni.**), Clausen
 
 > **sicut coniecerat _critic_:** Housman  
 **sicut/sic ut coniecit _critic_:** Hense
