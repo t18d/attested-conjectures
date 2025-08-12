@@ -25,7 +25,7 @@ jobs:
       - run: |
           python scripts/csv-to-md.py
           sed -i "0,/last_modified_at.*/s//last_modified_at: $(date -Iseconds)/" README.md
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: stefanzweifel/git-auto-commit-action@v6
         with:
     # Optional. Commit message for the created commit.
     # Defaults to "Apply automatic changes"
