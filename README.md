@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-08-13T08:33:50+00:00
+last_modified_at: 2025-08-13T14:01:37+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -677,6 +677,7 @@ Ath. 8.359b|πάντως κρες ἡμῖν ἐστιν|π. κρέα ἡ. ἐ.|
 Ath. 9.369d|αλμ-|Δαλματίαν|Jacques Daléchamps|1583|Dmg B|
 Ath. 9.371a|τοῦ ταινας|τευτλίδας|Casaubon|1597|Dsl B|
 Ath. 9.375e|νοθ-|νοτοῦντι|J. C. de Pauw|1745|Marc. 447 (A)|
+Ath. 9.382e|τὰ μῆλα πρόβατ'|τὰ μῆλα πρόβατα; — μῆλα πρόβατ';|Cobet|1858|P.Cair. 65445|
 Ath. 9.406d|ἄν τις εἴποιμι|ἄ. τι ε.|Casaubon|1597|Dpc B|
 Ath. 9.408a|τὸ δειναὶ προσλελαληκέναι|τὸ δεῖνα π.|Casaubon|1597|Laur. Plut. 60.01 (B)|
 Ath. 11.463d|γοῦν|δ ̓ οὖν|P. P. Dobree|1833|C E|
