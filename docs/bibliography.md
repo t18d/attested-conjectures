@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-08-13T08:09:26+00:00
+last_modified_at: 2025-08-13T08:37:07+00:00
 ---
 # Bibliography
 
@@ -227,6 +227,7 @@ last_modified_at: 2025-08-13T08:09:26+00:00
 - Philostratus, Flavius, _Flavii Philostrati quae supersunt, Philostrati Junioris Imagines, Callistrati Descriptiones_, ed. C. L. Kayser (Turin, 1844).
 - Philostratus, Flavius, _Heroicus_, ed. Ludo de Lannoy (Leipzig, 1977).
 - Philostratus, Flavius, _Vita Apollonii Tyanei_, ed. Gerard Boter (Berlin, 2022).
+- Philp, R. H., 'The Manuscript Tradition of Seneca's Tragedies', _CQ_, 18 (1968), 158.
 - Photius, _Patriarchae lexicon_, ed. Christos Theodoridis, 3 vols (Berlin, 1982–2013).
 - Pindar, _Pythian Eleven_, ed. P. J. Finglass (Cambridge, 2007).
 - Pindar, _First Pythian Ode_, ed. Almut Fries (Berlin, 2023).
