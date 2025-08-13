@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-08-13T08:37:07+00:00
+last_modified_at: 2025-08-13T14:08:43+00:00
 ---
 # Bibliography
 
@@ -63,6 +63,7 @@ last_modified_at: 2025-08-13T08:37:07+00:00
 - Aristotle, _Poetics_, ed. Leonardo Tarán and Dimitri Gutas (Leiden, 2012).
 - Aristotele, _La Politica: Libro IV_, ed. Lucio Bertelli and Mauro Moggi (Rome, 2014).
 - Aristotle, _De Motu Animalium_, ed. Oliver Primavesi (Oxford, 2023).
+- Arnott, W. Geoffrey, _Alexis: The Fragments: A Commentary_ (Cambridge, 1996).
 - Arrianos, _Alexandrou anabasis_, i, ed. K. W. Krüger (Berlin, 1835).
 - Arrianus, Flavius, _Alexandri anabasis, scripta minora et fragmenta_, ed. A. G. Roos, 2 vols (Leipzig, 1967–8).
 - Asconius Pedianus, Q., _Orationum Ciceronis quinque enarratio_, ed. Albert Curtis Clark (Oxford, 1907).
