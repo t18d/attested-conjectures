@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-08-13T06:54:36+00:00
+last_modified_at: 2025-08-13T08:09:26+00:00
 ---
 # Bibliography
 
@@ -192,6 +192,7 @@ last_modified_at: 2025-08-13T06:54:36+00:00
 - Lycurgus, _Oratio in Leocratem_, ed. Nicos C. Conomis (Leipzig, 1970).
 - Lysias, _Orationes cum fragmentis_, ed. C. Carey (Oxford, 2007).
 - Pseudo-Manetho, _Apotelesmatica_, ed. J. L. Lightfoot, 2 vols (Oxford, 2020–3).
+- MacGregor, Alexander P., 'Parisinus 8031: Codex Optimus for the A-MSS of Seneca's Tragedies', _Philologus_, 122/1 (1978), 100.
 - Manilius, M., _Astronomica_, ed. George P. Goold (Stuttgart, 1998).
 - Markus, D., and G. Schwendner, 'Seneca’s Medea in Egypt (663–704)', _ZPE_, 117 (1997), 73–84.
 - Marshall, P. K., _The Manuscript Tradition of Cornelius Nepos_ (Oxford, 1977), 43.
