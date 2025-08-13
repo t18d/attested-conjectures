@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-08-13T14:01:37+00:00
+last_modified_at: 2025-08-13T15:12:46+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -41,7 +41,7 @@ Commandments</a> and James Zetzel's
 and the Transmission of Latin Texts</a>.
 
 <!-- The following sequence of lines must not change – there must be 3 lines of code (including the next comment) below this, no more, no less. -->
-<p>The top 10 critics are Reiske (282), Scaliger (239), Nicolaus Heinsius (220), Adamantios Korais (192), Bentley (180), Thomas Mangey (154), Casaubon (114), Valckenaer (107), Bekker (97) and Madvig (96).</p>
+<p>The top 10 critics are Reiske (282), Scaliger (239), Nicolaus Heinsius (220), Adamantios Korais (192), Bentley (180), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (96).</p>
 <br>
 <!-- Anything not in the table must be before this comment. -->
 
@@ -709,10 +709,9 @@ Call. Ap. 2|οἷο δ'|οἷον|Valckenaer|1799|P.Oxy. XX 2258|
 Call. Ap. 7|μακράν|-ρην|Meineke|1861|P.Oxy. ined. A fr. 2 recto|
 Call. Ap. 8 schol. Ψ|-ρευομ-|καθιερωμένων|Meineke|1861|Ambros. 734 (e)|
 Call. Ap. 10|ἴδη|ἴδεν|C. J. Blomfield|1815|P.Oxy. XX 2258|]δεν
-Call. Cer. 86|om. vel ἀμέλγει|ἀμιθρεῖ|David Ruhnken|1761|P.Oxy. XIX 2226|
-Call. Cer. 86|om. vel ἀμέλγει|ἀμιθρεῖ|Valckenaer|1799|P.Oxy. XIX 2226|
+Call. Cer. 86|om. vel ἀμέλγει|ἀμιθρεῖ|David Ruhnken|1751|P.Oxy. XIX 2226|
 Call. Cer. 93|ἶνες|ρινος|Valckenaer|1799|P.Oxy. XIX 2226|
-Call. Cer. 106|ἤδη|οὐδὲν|Bergk|s.xix med.|P.Oxy. XIX 2226|
+Call. Cer. 106|ἤδη|οὐδὲν|Bergk|1864|P.Oxy. XIX 2226|
 Call. Del. 25|ὑπαὶ ῥιπῆς|ὑπ]ὸ ῥιπαῖς|C. J. Blomfield|1815|P.Oxy. XIX 2225|
 Call. Del. 158|ὑπ᾽ ὀμ-|ὑφ᾽ ὁμοκλῆς|Janus Lascaris|1496|P.Oxy. XIX 2225|υφομ[
 Call. Del. 159|πανσυ-|πασσυδίῃ|Janus Lascaris|1496|P.Oxy. XIX 2225|
