@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-08-12T11:36:14+00:00
+last_modified_at: 2025-08-13T06:48:17+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -5501,7 +5501,7 @@ Octavia 89|superbos h.|superos hominesque|Martín Del Río|1594|δ|
 Octavia 489|specie|spiritu|Janus Gruterus|1604|GP|apud Scriverium (1621)?
 Ov. Ib. 133(41)|eva-|vanescere|Nicolaus Heinsius|1661|Bodl. Auct. F. 4. 24 (O2)|
 Ov. Ib. 627|age-/habe-|alebat|Housman|1905|Neap. CCLX (N)|m. pr.
-Ov. Pont. 1.1.63|manifest-|mansuetior|Bentley|1905|Hafn. Gl. Kgl. S.2013 4ᵗᵒ (ka)|
+Ov. Pont. 1.1.63|manifest-|mansuetior|Bentley|1905 (a1742)|Hafn. Gl. Kgl. S.2013 4ᵗᵒ (ka)|
 Ov. Pont. 1.3.86|Quae|Quod|P. H. Damsté|1918|Ambros. G 37 sup. (a)|
 Ov. Pont. 1.4.35|l. u.|uastum ligno|Nicolaus Heinsius|1661|flor. Gallici (φ)|
 Ov. Pont. 1.6.23|sint|sunt|Rudolf Ehwald|1896|Marc. lat. XII. 54 (wc)|p. 69
@@ -5513,15 +5513,15 @@ Ov. Pont. 2.3.37|abic-|abigi|Nicolaus Heinsius|1661|BC|'vel contra fidem membran
 Ov. Pont. 2.4.17|-i/-e|amicâ|Nicolaus Heinsius|1661|Berol. Hamilt. 371 (bl)|
 Ov. Pont. 2.5.1|-lan-/-lin-|salono|Nicolaus Heinsius|1727|Monac. c.l.m. 19476 (C)|apud Burmannum
 Ov. Pont. 2.5.15|quoque|quodque|Hugo Magnus|1920|bl k wa wc +|PhW
-Ov. Pont. 2.5.67|gest-|gustata|Bentley|1905|Hamburg. Bibl. Univ. scrin. 52 F (A)|
+Ov. Pont. 2.5.67|gest-|gustata|Bentley|1905 (a1742)|Hamburg. Bibl. Univ. scrin. 52 F (A)|
 Ov. Pont. 2.5.68|cal-|color|Rudolf Merkel|1837|Bodl. Canon. Class. Lat. 1 (o)|p. 373
 Ov. Pont. 2.7.24|-es|potest|Adolf Rothmaler|1871|le bl s|
 Ov. Pont. 2.7.55|quae|quis|Nicolaus Heinsius|1661|Vat. Barb. lat. 3292 (vh)|
 Ov. Pont. 3.3.14|Fulua|Fulcra|Scaliger|1661|Bodl. Rawl. G 109 (ol)|apud Heinsium
-Ov. Pont. 3.6.34|Qui|Quin|Bentley|1905|Lent. Bibl. Stud. 79 (le)|
+Ov. Pont. 3.6.34|Qui|Quin|Bentley|1905 (a1742)|Lent. Bibl. Stud. 79 (le)|
 Ov. Pont. 3.9.9|Accius|Agrius|Willem Canter|1571|Vat. Barb. lat. 3292 (vh)|p. 151
 Ov. Pont. 3.9.23|at|ut|Pieter Burman I|1727|Antuerp. Mus. Plant. D 68 (n)|
-Ov. Pont. 3.9.32|collig-|corrigere|Bentley|1905|B C le bl|
+Ov. Pont. 3.9.32|collig-|corrigere|Bentley|1905 (a1742)|B C le bl|
 Ov. Pont. 4.1.11|alii|aliud|Scaliger|1629|Paris. lat. 8239 (pp)|apud D. Heinsium
 Ov. Pont. 4.2.9|-a|falerno|Justus Zinzerling|1610|e bl bh d n|
 Ov. Pont. 4.4.34|erit|erunt|Nicolaus Heinsius|1661|Monac. c.l.m. 384 (B)|
@@ -5536,31 +5536,31 @@ Ov. Pont. 4.13.49|monumenta|momenta|Scaliger|1629|Vat. Barb. lat. 1595 (va)|apud
 Ov. Pont. 4.16.30|-is|leui|Nicolaus Heinsius|1661|Lond. Add. Mss. 49368 (h)|
 Ov. Pont. 4.16.31|-i|Tyran(n)is|Nicolaus Heinsius|1727|B C|apud Burmannum
 Ov. Pont. 4.16.44|-a|Maxime|Pieter Burman I|1727|B C bl|
-Ov. am. 1.1|_continuant_|_ab epigrammate separat_|Poliziano||YC|
+Ov. am. 1.1|_continuant_|_ab epigrammate separat_|Poliziano|1477|Y Ed|
 Ov. am. 1.2.14|pressi|prensi|Markland|1728|B2f|ad Stat. silv. 1.2.45
-Ov. am. 1.3.12|haec|hac|Palmer||unus Heinsi|
-Ov. am. 1.6.8|di-|derigit|Housman|n.d.|Hamilt. 471 (Y)|
-Ov. am. 1.7.46|nec n.|et nimium|Bentley|1905|Barb. lat. 26 (V)|
+Ov. am. 1.3.12|haec|hac|Arthur Palmer|1898|unus Heinsi|ad epist. 1.103
+Ov. am. 1.6.8|di-|derigit|Housman|1894|Hamilt. 471 (Y)|apud Edwards
+Ov. am. 1.7.46|nec n.|et nimium|Bentley|1905 (a1742)|Barb. lat. 26 (V)|
 Ov. am. 1.8.84|-e u. -e/-a u. -a|illa uel ille|J. Willis|1972|Lond. Bibl. Brit. Add. 49368 (L2)|
-Ov. am. 1.9.5|annos|animos|Foss||BVb|
+Ov. am. 1.9.5|annos|animos|Bernhard Foss|1862|BVb|p. 53
 Ov. am. 1.14.25|-erant/-erint|praebuerunt|Nicolaus Heinsius|1652|Turic. Bibl. Ciu. 47|
 Ov. am. 2.1.33|-es|facie|Nicolaus Heinsius|1652|Rom. Casan. 3227 (Ca2)|
-Ov. am. 2.2.1|-oe|bagoa|E. J. Kenney||Vat. Reg. Lat. 1787|ex corr.
+Ov. am. 2.2.1|-oe|bagoa|J. Lewis May|1930|Vat. Reg. Lat. 1787|ex corr.
 Ov. am. 2.2.37|-es|obiciens|Nicolaus Heinsius|a1661|Bodl. Auct. F. I. 17|
 Ov. am. 2.3|_separant_|_continuat_|Scaliger||Berol. Hamilt. 471 (Y)|
 Ov. am. 2.6.28|fiant/fient|fiunt|G. Némethy|1922|Turon. 879 (T)|
 Ov. am. 2.7.25|quae e.|quod erat|E. J. Kenney|1958|y|
 Ov. am. 2.10.33|eund-/arund-/irund-|arando|Nicolaus Heinsius|1652|Hamilt. 471 (Y)|
-Ov. am. 2.11.9|quid|quam|G. Némethy|1922|Francof. Barth. 110 (F)|Markland?
+Ov. am. 2.11.9|quid|quam|G. Némethy|1922|Francof. Barth. 110 (F)|cf. McKeown ad loc.
 Ov. am. 2.11.15|-a|signate|Andrea Navagero|1517?|Francof. Barth. 110 (F)|
-Ov. am. 2.13.10|-us|portas|Bentley|1905|FPa|
+Ov. am. 2.13.10|-us|portas|Bentley|1905 (a1742)|FPa|
 Ov. am. 2.13.17|meru-/ded-/ced-|sedit|Nicolaus Heinsius|1652|Lent. 329 (Le)|
 Ov. am. 2.13.18|ting-|tangit|G. Némethy|1922|Sagall. 864 (S)|
 Ov. am. 2.15.24|-a|gemmam|Lucian Müller|1856|Lond. Bibl. Brit. Add. 21169 (L4)|
 Ov. am. 2.19.32|pot-|portet|Lucian Müller|1856|Barb. lat. 26 (V)|
-Ov. am. 3.1.58|mers-|mergit|Housman||Neap. Bibl. Nat. IV. F. 13 (N)|
-Ov. am. 3.3.20|lus-|laesos|Bentley|1905|Lips. Rep. I fol. 7 (X)|
-Ov. am. 3.3.35|-o|suos|Bentley|1905|Bern. 478 (B)|
+Ov. am. 3.1.58|mers-|mergit|Housman|1912|Neap. Bibl. Nat. IV. F. 13 (N)|ad Manil. 2.949
+Ov. am. 3.3.20|lus-|laesos|Bentley|1905 (a1742)|Lips. Rep. I fol. 7 (X)|
+Ov. am. 3.3.35|-o|suos|Bentley|1905 (a1742)|Bern. 478 (B)|
 Ov. am. 3.6.23|debebant|debuerant|O. Tescari|1931–2|Lond. Bibl. Brit. Add. 21169 (L4)|
 Ov. am. 3.6.32|pithiadum|pthiotum|Ulrich Knoche|1932|Berol. Hamilt. 471 (Y)|p. 520
 Ov. am. 3.6.41|eban-|euanthe|Alexander Riese|1871|y|
@@ -5573,12 +5573,12 @@ Ov. am. 3.11.52|ut|quam|E. R. Rautenberg|1868|y|
 Ov. am. 3.11.52|quamvis|quam si|Madvig|1873|Lips. Rep. I fol. 7 (X)|
 Ov. am. 3.12.13|semper|saepe|Hugo Magnus|1904|Ed Plan.|
 Ov. am. 3.13.11|hic/hac/hinc|huc|Nicolaus Heinsius|a1661|Ab2Z|
-Ov. am. 3.13.29|tunc|tum|Housman||B2 et Oxon. Bodl. Auct. F.I.17|
+Ov. am. 3.13.29|tunc|tum|Housman|1894|B2 et Oxon. Bodl. Auct. F.I.17|apud Edwards
 Ov. am. 3.14.42|falsis|falli|Madvig|1873|Barb. lat. 26 (V)|
 Ov. am. 3.14.42|-is|falsum|Rudolf Merkel|1852|Matrit. 206 (Ma)|
 Ov. am. 3.15.15|amat hostia cultu(s)/Amathuntia culta|Amathusia culti|Nicolaus Heinsius|a1661|y et Itali|
 Ov. am. 3.15.18|magnis|nostris|L. Zurli|1996|Matrit. 206 (Ma)|
-Ov. ars 1.126|pudor|timor|Bentley|1905|RYS2L²|
+Ov. ars 1.126|pudor|timor|Bentley|1905 (a1742)|RYS2L²|
 Ov. ars 1.133|-ia|sollemni|Madvig|1873|Hamilt. 471 (Y)|
 Ov. ars 1.225|fac/facis/facit|facito|Nicolaus Heinsius|a1661|y|
 Ov. ars 1.303|quid/quod|quo|Nicolaus Heinsius|a1661|y|
@@ -5590,7 +5590,7 @@ Ov. ars 1.730|multi|uultu|Nicolaus Heinsius|a1661|Tolet. 102.14 (To2)|
 Ov. ars 1.745|-o|qua|Rudolf Ehwald|1888|Riccard. 489 (Ri)|
 Ov. ars 2.243|placitum-|planumque|Nicolaus Heinsius|a1661|Vat. lat. 3140|
 Ov. ars 2.440|candet/calet|canet|Nicolaus Heinsius|a1661|Lond. Bibl. Brit. Add. 21169 (L4)|
-Ov. ars 2.496|agit|adit|Bentley|1905|Hamilt. 471 (Y)|
+Ov. ars 2.496|agit|adit|Bentley|1905 (a1742)|Hamilt. 471 (Y)|
 Ov. ars 2.569|simul ac|semel est|Rudolf Merkel|1852|Hamilt. 471 (Y)|
 Ov. ars 3.167|rubor|pudor|Dilthey|1969|Paris. lat. 8430 (P7)|ap. Lenz
 Ov. ars 3.217|faciem/curam|formam|Nicolaus Heinsius|a1661|Bodl. Canon. Class. Lat. 15 (O5)|
@@ -5611,12 +5611,12 @@ Ov. fast. 1.494|-o|uacuum|P. V. Sormani|1886|U3 et flor. duo|
 Ov. fast. 3.115|illa quidem fœno|illaque de fœno|Scaliger|1629|Paris. lat. 7992 et flor. Berol. (Merkel)|apud D. Heinsium p. 391
 Ov. met. 1.2|-as|illa|P. Lejay|1894|ev U3c|
 Ov. met. 1.50|-amque|utrasque|J. Rappold|1881|ψ|
-Ov. met. 1.332|tec-|tinctum|Bentley|1905|φ|
+Ov. met. 1.332|tec-|tinctum|Bentley|1905 (a1742)|φ|
 Ov. met. 2.135|currum|cursum|Rudolf Merkel|1855|φ|
-Ov. met. 2.436|quae|quem|Bentley|1905|H Bac|
+Ov. met. 2.436|quae|quem|Bentley|1905 (a1742)|H Bac|
 Ov. met. 2.734|totum|textum|Alexander Riese|1872|recc.|
 Ov. met. 2.809|lenius|se(c/t)ius|Scaliger|n.d.|R1 v2v|
-Ov. met. 2.823|p. ungues|per artus|Bentley|1905|N4v|
+Ov. met. 2.823|p. ungues|per artus|Bentley|1905 (a1742)|N4v|
 Ov. met. 3.269|uni|uno|Jacob Micyllus||Monv M2v|
 Ov. met. 3.368|tamen|tantum|F. H. Bothe|1818|Laur. 36.12 (L)|
 Ov. met. 3.576|quon-|quendam|Nicolaus Heinsius|1652|h2 W|
@@ -5625,7 +5625,7 @@ Ov. met. 4.228|-us|oculis|Nicolaus Heinsius|1652|N1|
 Ov. met. 4.236|-umque|diffamatamque|Nicolaus Heinsius|1652|Plan. ψ|
 Ov. met. 4.260|n(y/i)ympharum p.|nimborum patiens|Bentley|n.d.|χ|
 Ov. met. 4.416|memor-|uenerabile|J. Gilbert|1896|b W|
-Ov. met. 4.488|est t.|exterrita|Bentley|1905|Paris. lat. 8001 (P/B)|
+Ov. met. 4.488|est t.|exterrita|Bentley|1905 (a1742)|Paris. lat. 8001 (P/B)|
 Ov. met. 4.770|Perseu|Cepheus|Haupt|1853|Plan.|
 Ov. met. 6.234|tamen dantem etc.|dabat; dantem|Nicolaus Heinsius|1652|χ|
 Ov. met. 6.399|rapidum|-dus|Housman|1890|χ|
@@ -5643,7 +5643,7 @@ Ov. met. 9.669|quon-|quendam|Housman|1890|Neap. IV.F.2 (R)|
 Ov. met. 10.133|ac ut|ut hunc|Alexander Riese|1872|gpc|
 Ov. met. 10.240|forma|fama|Pieter Burman I|1727|χ|
 Ov. met. 10.271|bl-|pandis|Gronovius|n.d.|χ|
-Ov. met. 11.45|tua c.|te carmina|Bentley|1905|χ|
+Ov. met. 11.45|tua c.|te carmina|Bentley|1905 (a1742)|χ|
 Ov. met. 11.180|cupit|caput|Schepper|n.d.|χ|
 Ov. met. 11.183|hoc|haec|F. H. Bothe|1818|χ|
 Ov. met. 11.257|tenebat|tep-|Markland|n.d.|χ|ad Stat. silv. 5.3.202
@@ -5657,7 +5657,7 @@ Ov. met. 12.408|-us|cultu|Haupt|1853|recc.|
 Ov. met. 13.2|ad hos|ad hoc|F. H. Bothe|1818|d W|
 Ov. met. 13.135|uidetur|fatetur|F. H. Bothe|1818|ψ|
 Ov. met. 13.175|(s)cyrum|syron|Andrea Navagero|1517|v3|
-Ov. met. 13.235|-posco|repono|Bentley|1905|B1c ov z|
+Ov. met. 13.235|-posco|repono|Bentley|1905 (a1742)|B1c ov z|
 Ov. met. 13.410|tractaque|tracta atque|F. Vollmer|n.d.|h2ac|apud Magnum
 Ov. met. 13.726|exp-/imp-|oppositum|Housman|1890|χ|
 Ov. met. 13.914|tegentem|ter-|Nicolaus Heinsius|1652|Monac. clm 23612 (m)|s.l.
