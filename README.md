@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-08-13T15:12:46+00:00
+last_modified_at: 2025-08-13T23:58:18+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -1050,7 +1050,8 @@ EM 229.44|καλεῖται|Καλλίμαχος|Alfons Hecker|1849|Et.Gen. B|Ph
 Epich. fr. 97|]ότως|και εοικοτως|Blass|1889|P.Oxy. XXV 2429|Jb. cl. Ph. 139 (1889) 261
 Epict. Diatr. 4.1.136|om.|εἰ|Hieronymus Wolf|1560|P.Cair.Mich. II 11|vel πότερον Wolf
 Epicur. Sent.Vat. 51|-ει|ἔθη|Wilhelm von Hartel|1888|P.Berol. 16369|apud Wotke
-Eub. fr. 39|δ' ἐπέσεσθε κτλ.|δὲ πεύσεσθ'|Meineke|1839–57|Et.Sym.|
+Eub. fr. 20.1|-ας|ἄνδρες|Meineke|1840|Cantab. Bibl. Acad. Dd IV 63 (Q)|
+Eub. fr. 40|δ' ἐπέσεσθε κτλ.|δὲ πεύσεσθ'|Meineke|1840|Et.Sym.|
 Eub. fr. 46|-λικὰ|σικελὰ|Bentley|1708|Poll. F|epist. ad Hemst. I p. 284 Wordsw.
 Eup. fr. 99.42|τ. π.|πέττειν τινὰ|Casaubon|1621|P.Cair. 43227|πέττειν τι[
 Eur. Alc. 493|γε|τι|Nauck|n.d.|Escor. gr. X.1.13 (gE)|
