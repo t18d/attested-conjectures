@@ -5,7 +5,7 @@ permalink: coniecerat/
 seo:
   type: Dataset
   name: Coniecerat, sicut coni., suo Marte
-last_modified_at: 2025-08-12T11:37:55+00:00
+last_modified_at: 2025-08-13T13:05:58+00:00
 layout: no-anchor
 ---
 # Coniecerat, sicut coni., suo Marte
@@ -116,7 +116,7 @@ Holford-Strevens (ambiguous)
 
 **corr. _sigla_ _critic_:** Hubert
 
-**_randomly_:** Marshall (Nep.), Willis
+**_randomly_:** Marshall (Nep.), Willis, Verger (ambiguous)
 
 \***
 
