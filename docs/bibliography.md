@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-08-11T11:08:38+00:00
+last_modified_at: 2025-08-13T06:54:36+00:00
 ---
 # Bibliography
 
@@ -211,6 +211,7 @@ last_modified_at: 2025-08-11T11:08:38+00:00
 - Ovidius Naso, P., _Heroidas_, i, ed. Remus Giomini (Rome, 1963). (ii unavailable)
 - Ovidius Naso, P., _Tristia_, ed. Georg Luck (Heidelberg, 1967).
 - Ovidius Naso, P., _Ex Ponto libri quattuor_, ed. J. A. Richmond (Leipzig, 1990).
+- Ovidius Naso, P., _Amores, Medicamina faciei femineae, Ars amatoria, Remedia amoris_, ed. E. J. Kenney (Oxford, 1995).
 - Ovidius Naso, P., _Tristia_, ed. John Barrie Hall (Stuttgart, 1995).
 - Ovidius Naso, P., _Fastorum libri sex_, ed. E. H. Alton, D. E. W. Wormell, E. Courtney (Munich, 1996).
 - Ovidius Naso, P., _Metamorphoses_, ed. R. J. Tarrant (Oxford, 2004).
