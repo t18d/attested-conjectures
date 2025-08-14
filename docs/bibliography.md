@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-08-14T00:02:45+00:00
+last_modified_at: 2025-08-14T07:41:17+00:00
 ---
 # Bibliography
 
@@ -38,6 +38,7 @@ last_modified_at: 2025-08-14T00:02:45+00:00
 - Andocides, _Orationes_, ed. J. H. Lipsius (Leipzig, 1888), xviiii.
 - Anon., _Appendix Vergiliana_, ed. W. V. Clausen, J. A. Richmond et al. (Oxford, 1967).
 - Anon., _Les Argonautiques orphiques_, ed. Francis Vian (Paris, 1987).
+- Anon., _Ciris_, ed. R. O. A. M. Lyne (Cambridge, 1978).
 - Anon., _Ciris_, ed. Boris Kayachev (Swansea, 2020).
 - Anon., _Declamationes XIX maiores Quintiliano falso ascriptae_, ed. Lennart Håkanson (Stuttgart, 1982).
 - Anon., _The Minor Declamations Ascribed to Quintilian_, ed. Michael Winterbottom (Berlin, 1984).
