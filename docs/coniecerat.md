@@ -5,7 +5,7 @@ permalink: coniecerat/
 seo:
   type: Dataset
   name: Coniecerat, sicut coni., suo Marte
-last_modified_at: 2025-08-14T00:00:39+00:00
+last_modified_at: 2025-08-14T04:19:39+00:00
 layout: no-anchor
 ---
 # Coniecerat, sicut coni., suo Marte
@@ -98,9 +98,9 @@ Lloyd-Jones/Wilson, Finglass (pre-2011)
 **_sigla_ (_critic_):** Pohlenz (ambiguous), Ziegler (ambiguous), Giusta 
 (ambiguous), Wellesley (ambiguous), von Ungern-Sternberg
 
-**_sigla_, _critic_:** Sjögren (ambiguous), Galletier (ambiguous), Geymonat 
-(ambiguous), Hall (ambiguous), H. J. Williams, Richmond (ambiguous), 
-Lloyd-Jones/Wilson, Wilson, Flobert (ambiguous), Finglass (2011–), Leofranc 
+**_sigla_, _critic_:** Sjögren (ambiguous), Galletier (ambiguous), Lyne, Hall 
+(ambiguous), H. J. Williams, Richmond (ambiguous), Lloyd-Jones/Wilson, Wilson, 
+Flobert (ambiguous), Geymonat (ambiguous), Finglass (2011–), Leofranc 
 Holford-Strevens (ambiguous)
 
 **_sigla_ _critic_:** Jacoby (ambiguous), Mandilaras
