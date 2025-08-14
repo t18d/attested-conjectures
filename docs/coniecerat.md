@@ -5,7 +5,7 @@ permalink: coniecerat/
 seo:
   type: Dataset
   name: Coniecerat, sicut coni., suo Marte
-last_modified_at: 2025-08-13T13:05:58+00:00
+last_modified_at: 2025-08-14T00:00:39+00:00
 layout: no-anchor
 ---
 # Coniecerat, sicut coni., suo Marte
@@ -19,8 +19,8 @@ layout: no-anchor
 &nbsp;  
 **coniecera(n)t _critic_:** Bücheler, Boissevain (also **ut coni.**), Burnet, 
 Hense (also **ut coniecit**), P. Thomas, Diès, Dodds, Bluck,  Pfeiffer, 
-Chantraine, Lannoy, Legrand, Malcovati, Alberti, van den Hout, Carey, West 
-(Hom.), Theodoridis, Conte
+Chantraine, Lannoy, Legrand, Malcovati, Alberti, Hunter, van den Hout, Carey, 
+West (Hom.), Theodoridis, Conte
 
 > less commonly, **emendavera(n)t**, **correxera(n)t**, **delevera(n)t**,
 > **addidera(n)t**, **scripsera(n)t**
