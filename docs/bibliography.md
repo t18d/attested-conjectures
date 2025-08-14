@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-08-13T14:08:43+00:00
+last_modified_at: 2025-08-14T00:02:45+00:00
 ---
 # Bibliography
 
@@ -131,6 +131,7 @@ last_modified_at: 2025-08-13T14:08:43+00:00
 - El-Maghrabi, M. G., and C. Römer (eds), _Texts from the "Archive" of Socrates, the Tax Collector, and Other Contexts at Karanis (P. Cair. Mich. II)_ (Berlin, 2015), 48.
 - Eschilo, _Agamennone_, ed. Enrico Medda (Rome, 2017).
 - Eschilo, _Supplici_, ed. Carles Miralles, Vittorio Citti and Liana Lomiento (Rome, 2019).
+- Eubulus, _The Fragments_, ed. R. L. Hunter (Cambridge, 1983).
 - Euripides, _Fabulae_, ed. J. Diggle, 3 vols (Oxford, 1984–94).
 - Euripide, _Ifigenia in Aulide_, ed. Valeria Andò (Venice, 2021).
 - Finglass, P. J., 'Unpublished conjectures at Leiden on the Greek dramatists', _Greek, Roman and Byzantine Studies_, 49/2 (2009), 187–221.
