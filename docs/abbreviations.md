@@ -5,23 +5,21 @@ permalink: abbreviations/
 seo:
   type: Dataset
   name: Classical Abbreviations
-last_modified_at: 2025-06-22T14:03:53+00:00
+last_modified_at: 2025-08-14T04:27:56+00:00
 layout: no-anchor
 ---
 # Classical Abbreviations
 
-<p align="right">This page is an attempt to fill the yawning <br>gap from the
-  invention of printing until <br>the professionalisation of scholarship –
-  <br>i.e., the period between those covered by <br>Lindsay–Bains and Cappelli 
-  on the one <br>side and J.&VeryThinSpace;S. Wellington, classical <br>librarian 
-  at Cincinnati, on the other.</p>
+<p align="right"><em>This page fills the gap between<br> Lindsay–Bains/Cappelli<br>
+  and J.&VeryThinSpace;S. Wellington.</em></p>
 
 &nbsp;  
 &nbsp;  
 † Of abbreviations seen in the critical apparatus, only those not already 
 covered by the [_Emploi_](https://archive.org/details/emploi-des-signes-critiques-j.-bidez-et-a.-b.-drachmann/page/n35/mode/1up), 
 [Maurer–Scullion](https://t18d.github.io/attested-conjectures/tools/#:~:text=Commonest%20Abbreviations%2C%20Signs%2C%20etc.%20Used%20in%20the%20Apparatus%20to%20a%20Classical%20Text) 
-or [Dickey](https://books.google.com/books?id=6GESDAAAQBAJ&lpg=PA135&ots=iWwbx9vh_D&pg=PA135#v=onepage&q&f=false) 
+or
+[Dickey](https://books.google.com/books?id=6GESDAAAQBAJ&lpg=PA135&ots=iWwbx9vh_D&pg=PA135#v=onepage&q&f=false) 
 are included.
 
 &nbsp;  
@@ -35,9 +33,9 @@ are included.
 
 **πρ. γρ.** _apud H. Stephanum_ — προτέρα γραφή
 
-_Klotzii_ **Act. lit.** — Acta litteraria
+_Klotzii_ **Act. lit.** — _Acta litteraria_
 
-**Acta philol. Monac.** — Acta philologorum Monacensium
+**Acta philol. Monac.** — _Acta philologorum Monacensium_
 
 **Aliàs** _apud Latinium_ — alia lectio
 
@@ -70,15 +68,18 @@ _Klotzii_ **Act. lit.** — Acta litteraria
 
 **F./f.** — fort(ass)e
 
-**H** _in app. apud Riese_ — Haupt, Opuscula I 271&thinsp;ff.
+**H** _in app. apud Riese_ — Haupt, _Opuscula_ I 271&thinsp;ff.
 
 **Heinz** _apud Patillon_ — D. Heinsius
 
-**JLZ** — Jenaer Literaturzeitung
+**JLZ** — _Jenaer Literaturzeitung_
 
-**Miscell. Obs. Nov.** — Miscellaneae observationes criticae novae
+**Miscell. Obs. Nov.** — _Miscellaneae observationes criticae novae_
 
-**Orio anth.** — Antholognomici
+**Mon.Ber.** – _Monatsberichte der Königlichen Preussischen Akademie der 
+Wissenschaften zu Berlin_
+
+**Orio anth.** — _Antholognomici_
 
 **pen.** — linea penultima
 
@@ -95,12 +96,13 @@ _Klotzii_ **Act. lit.** — Acta litteraria
 > For the sake of brevity and convenience I have generally prefixed to these
 > proposed conjectures the letters Qu. (Blaydes)
 
-_Iacobsii_ **Sokr.** — Elementarbuch der griechischen Sprache für Anfänger und 
-Geübtere, Dritter Theil
+_Iacobsii_ **Sokr.** — _Elementarbuch der griechischen Sprache für Anfänger und 
+Geübtere_, Dritter Theil
 
 **ult.** — linea ultima
 
-_Ravii_ **Varr. Lectt.** — Variarum lectionum liber ad Ciceronis orationes pertinens
+_Ravii_ **Varr. Lectt.** — _Variarum lectionum liber ad Ciceronis orationes 
+pertinens_
 
 **Vet.** — vetus
 
