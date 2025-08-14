@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-08-13T23:58:18+00:00
+last_modified_at: 2025-08-14T07:37:35+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -41,7 +41,7 @@ Commandments</a> and James Zetzel's
 and the Transmission of Latin Texts</a>.
 
 <!-- The following sequence of lines must not change – there must be 3 lines of code (including the next comment) below this, no more, no less. -->
-<p>The top 10 critics are Reiske (282), Scaliger (239), Nicolaus Heinsius (220), Adamantios Korais (192), Bentley (180), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (96).</p>
+<p>The top 10 critics are Reiske (282), Scaliger (239), Nicolaus Heinsius (222), Adamantios Korais (192), Bentley (180), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (96).</p>
 <br>
 <!-- Anything not in the table must be before this comment. -->
 
@@ -4721,8 +4721,17 @@ Cic. p. red. ad Quir. 3|quantum incolumitate|quam tum incolumes|François Hotoma
 Cic. parad. 39|spes|spe|Bentley||Vindob. 189 (V)|
 Cic. part. 62|in|del.|Thomas Stangl|1886|CI|Philol.
 Cic. prov. 47|si|del.|Gustav Sorof|1875|GEb|
-Ciris 350|-e mi(c)hi|uenientem ignem|Haupt|1858|Steiermärk. Landesarchiv 1814 (G)|
+Ciris 53|-ris|patria|Haupt|1858|Corsin. 43 F 21 (K)|Monatsberichte p. 660
+Ciris 172|pro-|perdita|Janus Dousa I|?|H2E|apud Ribbeck
+Ciris 205|-at|ascendit|Ludwig Schwabe|1871|Corsin. 43 F 21 (K)|
+Ciris 241|-o/-is|animi|Haupt|1858|cod. Adalbertinus IV F 36|p. 667
+Ciris 350|-e mihi/-e mane|uenientem ignem|Haupt|1858|Steiermärk. Landesarchiv 1814 (G)|p. 669
+Ciris 374|i. magno|inde mago|Ribbeck|1868|Steiermärk. Landesarchiv 1814 (G)|
 Ciris 450|labesc-|liuescunt|Nicolaus Heinsius|1789|Steiermärk. Landesarchiv 1814 (G)|apud Heyne
+Ciris 472|sin-/summus|sunius|Haupt|1858|Steiermärk. Landesarchiv 1814 (G)|p. 671
+Ciris 481|uexauit et|uexarier|Nicolaus Heinsius|1789|GB|
+Ciris 490|tener est/tenerae|tenera est|Haupt|1858|Corsin. 43 F 21 (K)|p. 671
+Ciris 513|-is|illi|Nicolaus Heinsius|1789|Bruxell. 10615–729 (B)|
 Claud. 1.9|anni-|amniadae|Julius Koch|1893|Erlang. 626 (e2)|
 Claud. 1.198|græca/grata|graia|Nicolaus Heinsius|1650|Vindob. 3246 (V4)|
 Claud. 3.48|quo|cur|Goodyear|1985|Paris. lat. 7936 (P14)|apud Hall
