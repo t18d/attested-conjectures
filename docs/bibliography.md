@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-08-14T07:41:17+00:00
+last_modified_at: 2025-08-15T06:36:26+00:00
 ---
 # Bibliography
 
@@ -26,7 +26,8 @@ last_modified_at: 2025-08-14T07:41:17+00:00
 - P.Ryl. I, III
 - Acusilaus of Argos, _Rhapsody in Prose_, ed. Ilaria Andolfi (Berlin, 2019).
 - Aeschines, _Orationes_, ed. Mervin R. Dilts (Stuttgart, 1997).
-- Aeschylus et al., _Aeschyli tragoediae cum incerti poetae Prometheo_, ed. Martin L. West (Stuttgart, 1998).
+- Aeschylus, _Septem quae supersunt tragoediae_, ed. Denys Page (Oxford, 1972).
+- Aeschylus, _Tragoediae cum incerti poetae Prometheo_, ed. Martin L. West (Stuttgart, 1998).
 - Alciphro Rhetor, _Epistolae_, ed. E. E. Seiler (Leipzig, 1853), x.
 - Alciphro Rhetor, _Epistularum libri IV_, ed. Menno Anton Schepers (Groningen, 1901).
 - Alciphro Rhetor, _Epistularum libri IV_, ed. M. A. Schepers (Leipzig, 1905), vii–xviii.
