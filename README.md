@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-08-14T07:37:35+00:00
+last_modified_at: 2025-08-15T03:51:18+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -65,6 +65,7 @@ Aesch. Ag. 231|-άν|εὐχᾶν|Maas|1951|Mac|CQ
 Aesch. Ag. 448|διὰ|διαὶ|Hermann|1852|Epim.Hom. δ 68|
 Aesch. Cho. 989|ψέ-|λέγω|Turnebus|1552|schol. vetus (Σ)|
 Aesch. PV 157|ἐπεγήθει/ἐπιγήθει|ἐγεγήθει|Valckenaer|s.xviii med.|Ambros. gr. G 56 (D) et Matrit. gr. 4677 (N)|
+Aesch. PV 401|-α|ἔτεγξε|Benjamin Heath||recc.|
 Aesch. PV 691–3|δείματ'|del.|Hermann|1852|Ambros. gr. G 56 (D)|
 Aesch. Sept. 322|Ἀΐδαι|ἄϊδι|Turnebus|1552|Monac. gr. 565 (Uc)|
 Aesch. Supp. 44|-αις|ἐπιπνοίας|Francesco Robortello|1552|schol. vetus (Σ)|
