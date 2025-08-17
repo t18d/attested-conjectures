@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-08-15T03:51:18+00:00
+last_modified_at: 2025-08-17T23:35:40+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -41,7 +41,7 @@ Commandments</a> and James Zetzel's
 and the Transmission of Latin Texts</a>.
 
 <!-- The following sequence of lines must not change – there must be 3 lines of code (including the next comment) below this, no more, no less. -->
-<p>The top 10 critics are Reiske (282), Scaliger (239), Nicolaus Heinsius (222), Adamantios Korais (192), Bentley (180), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (96).</p>
+<p>The top 10 critics are Reiske (282), Scaliger (239), Nicolaus Heinsius (223), Adamantios Korais (192), Bentley (180), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (96).</p>
 <br>
 <!-- Anything not in the table must be before this comment. -->
 
@@ -5639,6 +5639,7 @@ Ov. met. 4.260|n(y/i)ympharum p.|nimborum patiens|Bentley|n.d.|χ|
 Ov. met. 4.416|memor-|uenerabile|J. Gilbert|1896|b W|
 Ov. met. 4.488|est t.|exterrita|Bentley|1905 (a1742)|Paris. lat. 8001 (P/B)|
 Ov. met. 4.770|Perseu|Cepheus|Haupt|1853|Plan.|
+Ov. met. 5.462|et|per|Nicolaus Heinsius|2025 (a1681)|Lips. Bibl. Civ. 44 (Li3)|
 Ov. met. 6.234|tamen dantem etc.|dabat; dantem|Nicolaus Heinsius|1652|χ|
 Ov. met. 6.399|rapidum|-dus|Housman|1890|χ|
 Ov. met. 6.399|rapidum|-de|Anderson|1977|χ|
