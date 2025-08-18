@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-08-18T14:27:56+00:00
+last_modified_at: 2025-08-18T14:35:00+00:00
 ---
 # Bibliography
 
@@ -191,7 +191,7 @@ last_modified_at: 2025-08-18T14:27:56+00:00
 - Livius, Titus, _Ab urbe condita_, v, ed. Alexander Hugh McDonald (Oxford, 1965).
 - Lucanus, M. Annaeus, _Belli civilis libri decem_, ed. A. E. Housman (Oxford, 1927).
 - Lucien, _Œuvres_, ed. Jacques Bompaire, 3 vols (Paris, 1993–2003). (tome IV unavailable)
-- Luck, Georg, '[Naugerius’ Notes on Ovid’s Metamorphoses](https://www.uhu.es/publicaciones/ojs/index.php/exemplaria/article/view/433)', ExClass, 9 (2005), 209.
+- Luck, Georg, '[Naugerius’ Notes on Ovid’s Metamorphoses](https://www.uhu.es/publicaciones/ojs/index.php/exemplaria/article/view/433)', _ExClass_, 9 (2005), 209.
 - Lycophron, _Alexandra_, ed. Lorenzo Mascialino (Leipzig, 1964).
 - Lykophron, _Alexandra_, ed. Simon Hornblower (Oxford, 2015).
 - Lycurgus, _Oratio in Leocratem_, ed. Nicos C. Conomis (Leipzig, 1970).
