@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-08-18T02:10:17+00:00
+last_modified_at: 2025-08-18T13:03:34+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -41,7 +41,7 @@ Commandments</a> and James Zetzel's
 and the Transmission of Latin Texts</a>.
 
 <!-- The following sequence of lines must not change – there must be 3 lines of code (including the next comment) below this, no more, no less. -->
-<p>The top 10 critics are Reiske (282), Scaliger (239), Nicolaus Heinsius (223), Adamantios Korais (192), Bentley (180), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (96).</p>
+<p>The top 10 critics are Reiske (282), Scaliger (239), Nicolaus Heinsius (225), Adamantios Korais (192), Bentley (182), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (96).</p>
 <br>
 <!-- Anything not in the table must be before this comment. -->
 
@@ -5170,7 +5170,7 @@ Hor. carm. 1.15.36|Iliacas|Pergameas|Peter van Os|1500|pauci codd. (Peerlkamp)|
 Hor. carm. 1.20.5|ca-|clare|Denys Lambin|1561|cod. Reg. Soc. Bentleii|
 Hor. carm. 1.20.10|tu|tum|Ludwig Doederlein|1837|schol. sat. 2.2.48|
 Hor. carm. 1.31.3|-ae|optimas|Markland|1728|cod. Torrentii|ad Stat. silv. 4.6.65 ('ubi minus concinne vulgo legitur optimae')
-Hor. carm. 1.31.15|-unt|pascant|Tanaquillus Faber|1671|cod. Reg. Soc. Bentleii|'qui faisoit autant gloire de sa pauvreté que de sa profession'; 'Il mangeoit peu, & travailloit presque toûjours en mangeant; il ne dormoit pas davantage.' (Niceron)
+Hor. carm. 1.31.15|-unt|pascant|Tanneguy le Fèvre|1671|cod. Reg. Soc. Bentleii|'qui faisoit autant gloire de sa pauvreté que de sa profession'; 'Il mangeoit peu, & travailloit presque toûjours en mangeant; il ne dormoit pas davantage.' (Niceron)
 Hor. carm. 2.11.19|-guet|restinguit|F. H. Bothe|1820|Reg. lat. 1703 (R)|
 Hor. carm. 2.14.27|-o|superbus|Caspar von Barth|1624|corr. Vat. A (Fea)|
 Hor. carm. 3.8.26|parce|parte|Matthaeus Bonfinis|1518|v et cod. Battel. Bentleii|
@@ -5324,7 +5324,7 @@ Iuv. 16.24|caligatos|caligas tot|Josias Mercier|1650|recc.|apud Pricaeum
 Liv. 1 praef. 5|-et|possit|Madvig|1861|Vat. 3329 (R)|m. sec.
 Liv. 1.16.8|-es|fidei|Gronovius|1664|Einsiedl. 348 (E)|
 Liv. 1.36.7|t. a.|alterum tantum|Madvig|1579|R2 (teste M. Müller)|p. 78
-Liv. 2.31.6|ubi|ibi|Tanaquillus Faber|1738|fragm. Haverk.|apud Drakenborch
+Liv. 2.31.6|ubi|ibi|Tanneguy le Fèvre|1738|fragm. Haverk.|apud Drakenborch
 Liv. 2.46.3|-is|ordines|Gronovius|1664|Vat. 3329 (Rn)|m. sec.
 Liv. 2.47.11|-iit|redit|Madvig|1861|Laur. S. Marci 326 (D)|m. sec.
 Liv. 3.5.10|-is|caedes|Madvig|1861|Upsal. Univ. C 908 (U)|
@@ -5629,31 +5629,32 @@ Ov. met. 2.436|quae|quem|Bentley|1905 (a1742)|H Bac|
 Ov. met. 2.734|totum|textum|Alexander Riese|1872|recc.|
 Ov. met. 2.809|lenius|se(c/t)ius|Scaliger|n.d.|R1 v2v|
 Ov. met. 2.823|p. ungues|per artus|Bentley|1905 (a1742)|N4v|
+Ov. met. 3.31|condi-|creditus|Nicolaus Heinsius|1659|Be2pc|
 Ov. met. 3.37|-o|longe|F. Vollmer|1914|A3Hd|apud Magnum
 Ov. met. 3.76|uiciatas|uicinas|J. J. Hartman|1920|Lips. Bibl. Civ. 44 (Li3)|
-Ov. met. 3.269|uni|uno|Jacob Micyllus||Monv M2v|
+Ov. met. 3.269|uni|uno|Jacob Micyllus|1543|Monv M2v|
 Ov. met. 3.368|tamen|tantum|F. H. Bothe|1818|Laur. 36.12 (L)|
 Ov. met. 3.398|tantum atque|tantumque|F. H. Bothe|1818|Ap1cBe2|
-Ov. met. 3.576|quon-|quendam|Nicolaus Heinsius|1652|h2 W|
-Ov. met. 3.660|ueri|uera|Nicolaus Heinsius|1652|l5 χ|
-Ov. met. 4.228|-us|oculis|Nicolaus Heinsius|1652|N1|
-Ov. met. 4.236|-umque|diffamatamque|Nicolaus Heinsius|1652|Plan. ψ|
+Ov. met. 3.576|quon-|quendam|Nicolaus Heinsius||h2 W|
+Ov. met. 3.660|ueri|uera|Nicolaus Heinsius||l5 χ|
+Ov. met. 4.228|-us|oculis|Nicolaus Heinsius||N1|
+Ov. met. 4.236|-umque|diffamatamque|Nicolaus Heinsius||Plan. ψ|
 Ov. met. 4.260|n(y/i)ympharum p.|nimborum patiens|Bentley|n.d.|χ|
 Ov. met. 4.416|memor-|uenerabile|J. Gilbert|1896|b W|
 Ov. met. 4.488|est t.|exterrita|Bentley|1905 (a1742)|Paris. lat. 8001 (P/B)|
 Ov. met. 4.770|Perseu|Cepheus|Haupt|1853|Plan.|
 Ov. met. 5.462|et|per|Nicolaus Heinsius|2025 (a1681)|Lips. Bibl. Civ. 44 (Li3)|
-Ov. met. 6.234|tamen dantem etc.|dabat; dantem|Nicolaus Heinsius|1652|χ|
+Ov. met. 6.234|tamen dantem etc.|dabat; dantem|Nicolaus Heinsius||χ|
 Ov. met. 6.399|rapidum|-dus|Housman|1890|χ|
 Ov. met. 6.399|rapidum|-de|Anderson|1977|χ|
 Ov. met. 6.514|et uix animo|a. uix et|J. J. Hartman|1905|χ|
 Ov. met. 6.616|aut|atque|J. Rappold|1881|χ|
 Ov. met. 7.8|numeris|miseris|H. A. Koch|n.d.|Lond. Bibl. Brit. King's 26 (k)|
-Ov. met. 7.170|habent|del.|Nicolaus Heinsius|1652|MpcUacFac|
+Ov. met. 7.170|habent|del.|Nicolaus Heinsius||MpcUacFac|
 Ov. met. 7.223|despicit|disp-|Lachmann|1855|χ|ad Lucr. 4.418
 Ov. met. 7.259|-a|atri|Andrea Navagero|1517|Sagall. 866 (G)|
 Ov. met. 7.624|hic|huc|F. H. Bothe|1818|Plan.|
-Ov. met. 7.660|Austros|austrum|F. Polle|1888|NU|
+Ov. met. 7.660|Austros|austrum|Friedrich Polle|1888|NU|
 Ov. met. 8.629|tamen|tandem|F. H. Bothe|1818|Neap. IV.F.2 (R)|
 Ov. met. 9.669|quon-|quendam|Housman|1890|Neap. IV.F.2 (R)|
 Ov. met. 10.98|fic-|cinus|Giacomo Costanzi|1508|Guelferb. Bibl. Duc. 3034 (Gf4)|m. sec. in ras. e.v.l.
@@ -5661,13 +5662,30 @@ Ov. met. 10.133|ac ut|ut hunc|Alexander Riese|1872|gpc|
 Ov. met. 10.240|forma|fama|Pieter Burman I|1727|χ|
 Ov. met. 10.271|bl-|pandis|Gronovius|n.d.|χ|
 Ov. met. 11.45|tua c.|te carmina|Bentley|1905 (a1742)|χ|
-Ov. met. 11.180|cupit|caput|Schepper|n.d.|χ|
+Ov. met. 11.48|obstrusa-|obsutaque|Friedrich Polle|1888|Goth. Bibl. Ducalis II 58 (Go)|2ul
+Ov. met. 11.144|iam|tam|J. J. Hartman|1905|L32c Be2|
+Ov. met. 11.151|carmi-|numina|Bentley|1905 (a1742)|Dertus. ms. 134 Arch. Capit. (De)|a.c.
+Ov. met. 11.172|-et|placent|Georg Luck|1982|Antverp. Plantin. 51 (Av)|a.c.
+Ov. met. 11.180|cupit|caput|Isaac de Schepper|1665|χ|apud Fabrum
+Ov. met. 11.180|turpique pudore|turpemque pudorem|Anton Zingerle|1884|Gf5HdL4 Bs2|
 Ov. met. 11.183|hoc|haec|F. H. Bothe|1818|χ|
+Ov. met. 11.194|ultus|uictor|Isaac de Schepper|1665|P4 Ga|apud Fabrum
+Ov. met. 11.221|und-|udae|Bentley|1905 (a1742)|GacMo|
 Ov. met. 11.257|tenebat|tep-|Markland|n.d.|χ|ad Stat. silv. 5.3.202
 Ov. met. 11.293|quantum|iam tum|J. D. Fuss|s.xix med.|dl6|apud Magnum
+Ov. met. 11.325|imp-|expulit|Isaac de Schepper|1665|B3H2O3P5P6 V30|apud Fabrum
+Ov. met. 11.354|t. … q.|quantum … tantum|Gronovius|1727|Berol. Staatsbibl. Diez B Sant. 12 (B4)|apud Burmannum
+Ov. met. 11.361|-i/ponti|templis|Georg Luck|2008|Neap. Bibl. Naz. IV.F.3 (N)|3c
 Ov. met. 11.365|strepitu etc.|strepit et|Alexander Riese|1872|h2|
+Ov. met. 11.493|rat-|satis|J. J. Hartman|1918|Monac. Clm 23612 (Mo)|a.c.
+Ov. met. 11.547|uert-|flectere|Gronovius|1727|B3B4O3|apud Burmannum
+Ov. met. 11.547|uert-|flectere|Jacques Mentel|1727|B3B4O3|apud Burmannum
+Ov. met. 11.696|at|aut|J. J. Hartman|1905|B5OO4|
+Ov. met. 11.701|s. me|sine te|C. G. Lenz|1792|M2V2Be2DeH2HdR|ii 212
+Ov. met. 11.759|sensisset/cessisset|cessissent|Nicolaus Heinsius|1659|HM|
+Ov. met. 11.782|qui|ni|Giacomo Costanzi|1508|Gg Bs22v|
 Ov. met. 12.191|Achille|achille, est|D. C. G. Baumgartner-Crusius|1834|Sagall. 866 (G)|
-Ov. met. 12.256|spum-|sputantem|Nicolaus Heinsius|1652|Plan.|
+Ov. met. 12.256|spum-|sputantem|Nicolaus Heinsius||Plan.|
 Ov. met. 12.302|licidas-|licabasque|Andrea Navagero|1517|o W|
 Ov. met. 12.308|astilus|asbolus|W. H. Roscher|1872|Vat. lat. 5859 (W)|
 Ov. met. 12.408|-us|cultu|Haupt|1853|recc.|
@@ -5677,13 +5695,13 @@ Ov. met. 13.175|(s)cyrum|syron|Andrea Navagero|1517|v3|
 Ov. met. 13.235|-posco|repono|Bentley|1905 (a1742)|B1c ov z|
 Ov. met. 13.410|tractaque|tracta atque|F. Vollmer|n.d.|h2ac|apud Magnum
 Ov. met. 13.726|exp-/imp-|oppositum|Housman|1890|χ|
-Ov. met. 13.914|tegentem|ter-|Nicolaus Heinsius|1652|Monac. clm 23612 (m)|s.l.
+Ov. met. 13.914|tegentem|ter-|Nicolaus Heinsius||Monac. clm 23612 (m)|s.l.
 Ov. met. 14.24|fineque nil|fine opus est nullo|F. H. Bothe|1818|φ|
 Ov. met. 14.169|-cique|ithaceque|Andrea Navagero|1517|l4 et recc.|
-Ov. met. 14.281|toto|prono|Nicolaus Heinsius|1652|Sagall. 866 (G)|
+Ov. met. 14.281|toto|prono|Nicolaus Heinsius||Sagall. 866 (G)|
 Ov. met. 14.748|qua|quam|F. H. Bothe|1818|recc.|
 Ov. met. 15.311|athamantis|admotumque|Ehwald|1915|df W|
-Ov. met. 15.420|-a|tempore|Nicolaus Heinsius|1652|Guelf. Bibl. Duc. 2942 (w)|
+Ov. met. 15.420|-a|tempore|Nicolaus Heinsius||Guelf. Bibl. Duc. 2942 (w)|
 Ov. met. 15.620|aur-|aeratis|Jacobus a Cruce|n.d.|U4|
 Ov. rem. 364|-et|impugnent|Poliziano||Turon. 879 (T)|
 Ov. rem. 409|-o tibi/-æ tibi/-a est ibi|raræ sibi|Nicolaus Heinsius|a1661|Paris. lat. 7993 (P3)|
@@ -5708,7 +5726,7 @@ Ov. trist. 1.6.1|c. l.|clario est lyde|S. G. Owen|1889|Harl. 2699 (Lo)|
 Ov. trist. 1.7.5|-a|dissimulas|Nicolaus Heinsius|1661|Vat. lat. 2787 (Vb)|
 Ov. trist. 1.8.7|-am|negabant|S. G. Owen|1889|BlLn|
 Ov. trist. 1.8.35|aequoreos|Aeolios|Johannes Schrader|1776|Guelf. Gud. lat. 192 (G)|m. sec.
-Ov. trist. 1.8.45|non|nunc|Tanaquillus Faber|1659|LuMOb|p. 77
+Ov. trist. 1.8.45|non|nunc|Tanneguy le Fèvre|1659|LuMOb|p. 77
 Ov. trist. 1.9.27|-ae|Orestis|Rudolf Ehwald|1884|Paris. lat. 8465|
 Ov. trist. 1.9.40|pro sensu|processu|Pieter Burman I|1727|Laur. Marc. 223 (M)|
 Ov. trist. 1.10.24|-liquit|relegit|Jacob Micyllus|1543–9|Bodl. B. N. Rawl. 107 (Od)|
@@ -5736,10 +5754,10 @@ Ov. trist. 2.437|e. q. l.|et quorum in libris|Petrus Francius|1837|CD|apud Merke
 Ov. trist. 2.472|est|erat|Bentley|1889|Lond. Bibl. Brit. Add. 21169 (Ld)|apud Owen (in ora Heinsii, Burmanni)
 Ov. trist. 2.487|fusc-|fucandi|Jacobus Roverus|1727|GV|apud Burmannum
 Ov. trist. 2.495|-um|unus|Bentley|1889|Mac|apud Owen p. 229 (in ora Heinsii)
-Ov. trist. 2.498|victi|ficti|Tanaquillus Faber|1659|eEt|p. 15 ('Sed hæc satis, ὦ φιλότης; alias plura.')
+Ov. trist. 2.498|victi|ficti|Tanneguy le Fèvre|1659|eEt|p. 15 ('Sed hæc satis, ὦ φιλότης; alias plura.')
 Ov. trist. 2.542|irrequietus|irreprehensus|Alexander Riese|1874|Guelf. extr. 76.3 (Gu)|
 Ov. trist. 2.551|scrip-|coeptum|Pieter Burman I|1727|exc. Vossii|
-Ov. trist. 2.567|-i|scriptis|Tanaquillus Faber|1659|Laur. Marc. 223 (M)|p. 99 ('Et hæc quidem hactenus, Suauissime Chevræe; nam me plura scribere parantem opprimit tabellarius.')
+Ov. trist. 2.567|-i|scriptis|Tanneguy le Fèvre|1659|Laur. Marc. 223 (M)|p. 99 ('Et hæc quidem hactenus, Suauissime Chevræe; nam me plura scribere parantem opprimit tabellarius.')
 Ov. trist. 3.1.32|sator|stator|Poliziano|1661|Bodl. Douce 146 (O6)|apud Heinsium ('in ora sui exemplaris'); p.c.
 Ov. trist. 3.3.13|-tremis|externis|J. Ph. d'Orville|1732–51|AFHLuQObFf|
 Ov. trist. 3.3.57|quod|quà|Albertinus Mussatus|1636|Edinb. NLS Adu. Ms 18.2.9 (e)|p. 95
@@ -5779,7 +5797,7 @@ Ov. trist. 5.3.43|-es|releua|Nicolaus Heinsius|1661|Bern. 478 (Be)|
 Ov. trist. 5.3.55|-or|uenerer|E. J. Kenney|1967|Goth. membr. II. 122 (D)|apud Luck; v.l.
 Ov. trist. 5.4.14|dol-|docenda|Pieter Burman I|1727|Vat. Ottob. lat. 1469 (Ob)|
 Ov. trist. 5.5.3|-at|egerit|Nicolaus Heinsius|1661|Beac|
-Ov. trist. 5.6.35|labo-|malorum|Tanaquillus Faber|1659|BDFGOb|p. 230
+Ov. trist. 5.6.35|labo-|malorum|Tanneguy le Fèvre|1659|BDFGOb|p. 230
 Ov. trist. 5.7.17|mor-|Martis|Nicolaus Heinsius|1661|Goth. membr. II. 122 (D)|v.l.
 Ov. trist. 5.7.24|& t.|ut tamen|Daniel Heinsius|1629|Paris. lat. 8254 (R)|p. 406
 Ov. trist. 5.7.25||(incipit)|Nicolaus Heinsius|1727|Berol. lat. oct. 67 (Bn)|apud Burmannum
