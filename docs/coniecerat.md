@@ -5,15 +5,15 @@ permalink: coniecerat/
 seo:
   type: Dataset
   name: Coniecerat, sicut coni., suo Marte
-last_modified_at: 2025-08-18T02:23:23+00:00
+last_modified_at: 2025-08-18T03:59:37+00:00
 layout: no-anchor
 ---
 # Coniecerat, sicut coni., suo Marte
 
-<p align="right">This page keeps track of the terminology that editors <br>use 
-  to indicate an attested conjecture. Editors marked <br>as ‘ambiguous’ employ 
-  the same method to record <br>the fact that a critic supports a transmitted 
-  reading.</p>
+<p align="right"><em>This page keeps track of the terminology that <br>editors use 
+  to indicate an attested conjecture. <br>Editors marked as ‘ambiguous’ employ 
+  the<br> same method to record the fact that a <br>critic supports a transmitted 
+  reading.</em></p>
 
 &nbsp;  
 &nbsp;  
@@ -93,6 +93,8 @@ Lloyd-Jones/Wilson, Finglass (pre-2011), Fàbregas Salis
 
 > **_critic_ confirm. _siglum_:** Schepers (1901)  
 **_critic_ (conf. _siglum_):** Winterbottom
+
+**_sigla_ tempt. _critic_:** Díez Reboso (ambiguous)
 
 **_sigla_ cum _critic_:** Ekker (ambiguous)
 
