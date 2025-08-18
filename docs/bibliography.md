@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-08-18T02:19:22+00:00
+last_modified_at: 2025-08-18T13:05:26+00:00
 ---
 # Bibliography
 
@@ -221,6 +221,7 @@ last_modified_at: 2025-08-18T02:19:22+00:00
 - Ovidius Naso, P., _Fastorum libri sex_, ed. E. H. Alton, D. E. W. Wormell, E. Courtney (Munich, 1996).
 - Ovidius Naso, P., _Metamorphoses_, ed. R. J. Tarrant (Oxford, 2004).
 - Ovidius Naso, P., _Carmina amatoria_, ed. Antonio Ramírez de Verger (Munich, 2006).
+- Ovidius Naso, P., _Metamorphoseon liber undecimus_, ed. Samuel Díez Reboso (Huelva, 2014).
 - Ovidius Naso, P., _Metamorphoseon liber tertius_, ed. Ángela Suárez del Río (Huelva, 2015).
 - Ovidio, _Metamorfosis_, x, ed. Pere Fàbregas Salis (Barcelona, 2016).
 - Page, D. L. (ed.), _Poetae melici Graeci_ (Oxford, 1967).
