@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-08-18T13:03:34+00:00
+last_modified_at: 2025-08-18T14:20:39+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -5564,7 +5564,7 @@ Ov. am. 2.6.28|fiant/fient|fiunt|G. Némethy|1922|Turon. 879 (T)|
 Ov. am. 2.7.25|quae e.|quod erat|E. J. Kenney|1958|y|
 Ov. am. 2.10.33|eund-/arund-/irund-|arando|Nicolaus Heinsius|1652|Hamilt. 471 (Y)|
 Ov. am. 2.11.9|quid|quam|G. Némethy|1922|Francof. Barth. 110 (F)|cf. McKeown ad loc.
-Ov. am. 2.11.15|-a|signate|Andrea Navagero|1517?|Francof. Barth. 110 (F)|
+Ov. am. 2.11.15|-a|signate|Andrea Navagero|1516|Francof. Barth. 110 (F)|
 Ov. am. 2.13.10|-us|portas|Bentley|1905 (a1742)|FPa|
 Ov. am. 2.13.17|meru-/ded-/ced-|sedit|Nicolaus Heinsius|1652|Lent. 329 (Le)|
 Ov. am. 2.13.18|ting-|tangit|G. Némethy|1922|Sagall. 864 (S)|
@@ -5652,7 +5652,7 @@ Ov. met. 6.616|aut|atque|J. Rappold|1881|χ|
 Ov. met. 7.8|numeris|miseris|H. A. Koch|n.d.|Lond. Bibl. Brit. King's 26 (k)|
 Ov. met. 7.170|habent|del.|Nicolaus Heinsius||MpcUacFac|
 Ov. met. 7.223|despicit|disp-|Lachmann|1855|χ|ad Lucr. 4.418
-Ov. met. 7.259|-a|atri|Andrea Navagero|1517|Sagall. 866 (G)|
+Ov. met. 7.259|-a|atri|Andrea Navagero|1516|Sagall. 866 (G)|
 Ov. met. 7.624|hic|huc|F. H. Bothe|1818|Plan.|
 Ov. met. 7.660|Austros|austrum|Friedrich Polle|1888|NU|
 Ov. met. 8.629|tamen|tandem|F. H. Bothe|1818|Neap. IV.F.2 (R)|
@@ -5680,24 +5680,25 @@ Ov. met. 11.365|strepitu etc.|strepit et|Alexander Riese|1872|h2|
 Ov. met. 11.493|rat-|satis|J. J. Hartman|1918|Monac. Clm 23612 (Mo)|a.c.
 Ov. met. 11.547|uert-|flectere|Gronovius|1727|B3B4O3|apud Burmannum
 Ov. met. 11.547|uert-|flectere|Jacques Mentel|1727|B3B4O3|apud Burmannum
+Ov. met. 11.674|-as|lacrimans|Andrea Navagero|1516|EH2 et alt. ap. Heins.|
 Ov. met. 11.696|at|aut|J. J. Hartman|1905|B5OO4|
 Ov. met. 11.701|s. me|sine te|C. G. Lenz|1792|M2V2Be2DeH2HdR|ii 212
 Ov. met. 11.759|sensisset/cessisset|cessissent|Nicolaus Heinsius|1659|HM|
 Ov. met. 11.782|qui|ni|Giacomo Costanzi|1508|Gg Bs22v|
 Ov. met. 12.191|Achille|achille, est|D. C. G. Baumgartner-Crusius|1834|Sagall. 866 (G)|
 Ov. met. 12.256|spum-|sputantem|Nicolaus Heinsius||Plan.|
-Ov. met. 12.302|licidas-|licabasque|Andrea Navagero|1517|o W|
+Ov. met. 12.302|licidas-|licabasque|Andrea Navagero|1516|o W|
 Ov. met. 12.308|astilus|asbolus|W. H. Roscher|1872|Vat. lat. 5859 (W)|
 Ov. met. 12.408|-us|cultu|Haupt|1853|recc.|
 Ov. met. 13.2|ad hos|ad hoc|F. H. Bothe|1818|d W|
 Ov. met. 13.135|uidetur|fatetur|F. H. Bothe|1818|ψ|
-Ov. met. 13.175|(s)cyrum|syron|Andrea Navagero|1517|v3|
+Ov. met. 13.175|(s)cyrum|syron|Andrea Navagero|1516|v3|
 Ov. met. 13.235|-posco|repono|Bentley|1905 (a1742)|B1c ov z|
 Ov. met. 13.410|tractaque|tracta atque|F. Vollmer|n.d.|h2ac|apud Magnum
 Ov. met. 13.726|exp-/imp-|oppositum|Housman|1890|χ|
 Ov. met. 13.914|tegentem|ter-|Nicolaus Heinsius||Monac. clm 23612 (m)|s.l.
 Ov. met. 14.24|fineque nil|fine opus est nullo|F. H. Bothe|1818|φ|
-Ov. met. 14.169|-cique|ithaceque|Andrea Navagero|1517|l4 et recc.|
+Ov. met. 14.169|-cique|ithaceque|Andrea Navagero|1516|l4 et recc.|
 Ov. met. 14.281|toto|prono|Nicolaus Heinsius||Sagall. 866 (G)|
 Ov. met. 14.748|qua|quam|F. H. Bothe|1818|recc.|
 Ov. met. 15.311|athamantis|admotumque|Ehwald|1915|df W|
