@@ -5,7 +5,7 @@ permalink: coniecerat/
 seo:
   type: Dataset
   name: Coniecerat, sicut coni., suo Marte
-last_modified_at: 2025-08-18T03:59:37+00:00
+last_modified_at: 2025-08-19T00:54:04+00:00
 layout: no-anchor
 ---
 # Coniecerat, sicut coni., suo Marte
@@ -78,11 +78,12 @@ Dorandi
 **_sigla_ (coniecerunt _critics_):** Radt  
 
 **_sigla_, coni. _critic_:** Allen, Diggle (ambiguous), Ireland, 
-Lloyd-Jones/Wilson, Finglass (pre-2011), Fàbregas Salis
+Lloyd-Jones/Wilson, Finglass (pre-2011), Fàbregas Salis (also **e coni.**)
 
 > **_sigla_, ci. _critic_:** O’Sullivan, Tarán \
 **_sigla_, cj. _critic_:** Balme \
 **_sigla_, _critic_ ex coni.:** Luck (_opp_ **ex cod.**) \
+**_sigla_, e coni. _critic_:** Fàbregas Salis \
 **_sigla_ _critic_ ex coni.:** Suárez del Río \
 **_sigla_ coni. _critic_:** Moreschini (Budé), Kidd \
 **_sigla_ conj. _critic_:** Bompaire (ambiguous) \
