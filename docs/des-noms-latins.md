@@ -5,7 +5,7 @@ permalink: des-noms-latins/
 seo:
   type: Collection
   name: Des noms latins
-last_modified_at: 2025-08-11T08:12:43+00:00
+last_modified_at: 2025-08-19T03:45:44+00:00
 ---
 # Des noms latins
 
@@ -42,6 +42,12 @@ in his personal correspondence supports this.…
 as his career progressed, the name ‘Ascensius’
 appeared less frequently, and ‘Badius’ was used more often. 
 ([White](https://archive.org/details/jodocusbadiusasc0000whit/))
+
+## Pieter Burman I/II
+
+> `Burmann` is a back-formation from Latin used by foreigners like
+> [Lessing](https://books.google.com/books?id=LnYTAAAAQAAJ&pg=PA125) and
+> [Gibbon](https://books.google.com/books?id=17E8AAAAYAAJ&pg=PA14).
 
 ## Martín Del Río
 A marginal note to a copy of Rosweyde’s _Life_, held in the Plantin-Moretus 
