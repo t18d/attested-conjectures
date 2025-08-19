@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-08-18T14:20:39+00:00
+last_modified_at: 2025-08-19T12:50:19+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -41,7 +41,7 @@ Commandments</a> and James Zetzel's
 and the Transmission of Latin Texts</a>.
 
 <!-- The following sequence of lines must not change – there must be 3 lines of code (including the next comment) below this, no more, no less. -->
-<p>The top 10 critics are Reiske (282), Scaliger (239), Nicolaus Heinsius (225), Adamantios Korais (192), Bentley (182), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (96).</p>
+<p>The top 10 critics are Reiske (282), Scaliger (239), Nicolaus Heinsius (235), Adamantios Korais (192), Bentley (183), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (96).</p>
 <br>
 <!-- Anything not in the table must be before this comment. -->
 
@@ -5624,6 +5624,7 @@ Ov. fast. 3.115|illa quidem fœno|illaque de fœno|Scaliger|1629|Paris. lat. 799
 Ov. met. 1.2|-as|illa|P. Lejay|1894|ev U3c|
 Ov. met. 1.50|-amque|utrasque|J. Rappold|1881|ψ|
 Ov. met. 1.332|tec-|tinctum|Bentley|1905 (a1742)|φ|
+Ov. met. 1.779|-osque|patrios|Hugo Magnus|1914|χ|
 Ov. met. 2.135|currum|cursum|Rudolf Merkel|1855|φ|
 Ov. met. 2.436|quae|quem|Bentley|1905 (a1742)|H Bac|
 Ov. met. 2.734|totum|textum|Alexander Riese|1872|recc.|
@@ -5639,7 +5640,7 @@ Ov. met. 3.576|quon-|quendam|Nicolaus Heinsius||h2 W|
 Ov. met. 3.660|ueri|uera|Nicolaus Heinsius||l5 χ|
 Ov. met. 4.228|-us|oculis|Nicolaus Heinsius||N1|
 Ov. met. 4.236|-umque|diffamatamque|Nicolaus Heinsius||Plan. ψ|
-Ov. met. 4.260|n(y/i)ympharum p.|nimborum patiens|Bentley|n.d.|χ|
+Ov. met. 4.260|nympharum imp-|nimborum patiens|Bentley|1905 (a1742)|χ|
 Ov. met. 4.416|memor-|uenerabile|J. Gilbert|1896|b W|
 Ov. met. 4.488|est t.|exterrita|Bentley|1905 (a1742)|Paris. lat. 8001 (P/B)|
 Ov. met. 4.770|Perseu|Cepheus|Haupt|1853|Plan.|
@@ -5647,20 +5648,50 @@ Ov. met. 5.462|et|per|Nicolaus Heinsius|2025 (a1681)|Lips. Bibl. Civ. 44 (Li3)|
 Ov. met. 6.234|tamen dantem etc.|dabat; dantem|Nicolaus Heinsius||χ|
 Ov. met. 6.399|rapidum|-dus|Housman|1890|χ|
 Ov. met. 6.399|rapidum|-de|Anderson|1977|χ|
+Ov. met. 6.489|corpor-|tempora|Housman|1894|Vat. lat. 11457 (V4)|apud Edwards; m. sec.
 Ov. met. 6.514|et uix animo|a. uix et|J. J. Hartman|1905|χ|
 Ov. met. 6.616|aut|atque|J. Rappold|1881|χ|
 Ov. met. 7.8|numeris|miseris|H. A. Koch|n.d.|Lond. Bibl. Brit. King's 26 (k)|
 Ov. met. 7.170|habent|del.|Nicolaus Heinsius||MpcUacFac|
 Ov. met. 7.223|despicit|disp-|Lachmann|1855|χ|ad Lucr. 4.418
 Ov. met. 7.259|-a|atri|Andrea Navagero|1516|Sagall. 866 (G)|
+Ov. met. 7.555|igni/-e|ægre|Nicolaus Heinsius|1859|χ|
 Ov. met. 7.624|hic|huc|F. H. Bothe|1818|Plan.|
 Ov. met. 7.660|Austros|austrum|Friedrich Polle|1888|NU|
 Ov. met. 8.629|tamen|tandem|F. H. Bothe|1818|Neap. IV.F.2 (R)|
 Ov. met. 9.669|quon-|quendam|Housman|1890|Neap. IV.F.2 (R)|
+Ov. met. 10.36|mat-|natura|August Rode|1791|H Bo2 Cc2|
+Ov. met. 10.73|argu-|arcuerat|Giacomo Costanzi|1508|BT|
+Ov. met. 10.84|citra-|circaque|Arend van Slichtenhorst|1727 (a1657)|Bodl. Auct. F.4.22 (O4)|apud Burmannum
+Ov. met. 10.85|e. p.|primos et|Laurens van Santen|1801|Gf4cP5|AllgLitAnz col. 1828
 Ov. met. 10.98|fic-|cinus|Giacomo Costanzi|1508|Guelferb. Bibl. Duc. 3034 (Gf4)|m. sec. in ras. e.v.l.
 Ov. met. 10.133|ac ut|ut hunc|Alexander Riese|1872|gpc|
+Ov. met. 10.148|-unt|cedant|Nicolaus Heinsius|2016 (a1681)|Parm. Bibl. Palat. 3180 (Pr2)|apud Fàbregas
+Ov. met. 10.162|amyclid-|am(y/i)cliade|Robert Unger|1850|Dr Es5|
+Ov. met. 10.186|excip-|erigit|Nicolaus Heinsius|1652|Ambros. S 32 sup. (A6)|
+Ov. met. 10.190|riguove/rigidove|rigidumve|Friedrich Polle|1885|Paris. Bibl. Arsenal 1207 (P5)|
+Ov. met. 10.191|-que|liliave|F. H. Bothe|1818|A6Lr10P8 Es3 Cc2|
 Ov. met. 10.240|forma|fama|Pieter Burman I|1727|χ|
-Ov. met. 10.271|bl-|pandis|Gronovius|n.d.|χ|
+Ov. met. 10.243|c./crimina agentes|crimen agentis|G. M. Edwards|1894|Gf H2|apud CPL
+Ov. met. 10.262|liliaque pictasque/l. & p./lilia perpictasque|lilia fert pictasque|Nicolaus Heinsius|2016 (a1681)|Vat. lat. 8519 (V14)|apud Fàbregas
+Ov. met. 10.271|bl-|pandis|Gronovius|1659|χ|apud Heinsium
+Ov. met. 10.272|-ae|icta|Hugo Magnus|1914|Paris. lat. 8010 (P30)|
+Ov. met. 10.298|hac|hoc|Gregor Bersman|1582|Guelferb. Bibl. Duc. 3034 (Gf4)|a.c.
+Ov. met. 10.427|at|et|Capoferreus|1659|N3v B3P2TuV6|
+Ov. met. 10.429|-e|parentem|Capoferreus|1659|Laur. 36.12 (Lr)|
+Ov. met. 10.455|mot-|tactu|G. Liberman|2004|A B2vHdLi2LsO4TuVd|RhM
+Ov. met. 10.468|-i|sceleris|Otto Korn|1881|Matrit. ms. 13406 Bibl. Nac. (Mt5)|
+Ov. met. 10.478|rura|arva|Nicolaus Heinsius|2016 (a1681)|Dr Gf4 O12|apud Fàbregas
+Ov. met. 10.503|at|ut|George Waddel|1734|Guelferb. Bibl. Duc. 2942 (Gf)|
+Ov. met. 10.531|–que … -que|-ve … -ve|Bentley|1905 (a1742)|Plan.|
+Ov. met. 10.538|pronos|pavidos|Nicolaus Heinsius|2016 (a1681)|Turon. 879 (Tr)|apud Fàbregas
+Ov. met. 10.584|-amque tim-|invidiaque tumet|Nicolaus Heinsius|2016 (a1681)|Bonon. Bibl. Univ. 2278 (Bo)|apud Fàbregas
+Ov. met. 10.596|infic-|efficit|Nicolaus Heinsius|2016 (a1681)|Dresd. Säch. Landesbibl. App. 1092 (Fr)|apud Fàbregas
+Ov. met. 10.624|-at|interea|Heinrich Loriti|1538|MtTuVd1 Ds2|
+Ov. met. 10.637|quid facit|quid velit|Gustav Nick|1877|Cordub. ms. 150 Arch. Catedr. (Co)|
+Ov. met. 10.643|-is|opi|Nicolaus Heinsius|1659|Ambros. H 65 sup. (A2)|
+Ov. met. 10.681|honor-|odorem|Nicolaus Heinsius|1652|Vat. Palat. lat. 1667 (V9)|
+Ov. met. 10.690|a|et|Giacomo Costanzi|1508|C P38P39|
 Ov. met. 11.45|tua c.|te carmina|Bentley|1905 (a1742)|χ|
 Ov. met. 11.48|obstrusa-|obsutaque|Friedrich Polle|1888|Goth. Bibl. Ducalis II 58 (Go)|2ul
 Ov. met. 11.144|iam|tam|J. J. Hartman|1905|L32c Be2|
