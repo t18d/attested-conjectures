@@ -5,7 +5,7 @@ permalink: des-noms-latins/
 seo:
   type: Collection
   name: Des noms latins
-last_modified_at: 2025-08-19T03:45:44+00:00
+last_modified_at: 2025-08-19T07:18:50+00:00
 ---
 # Des noms latins
 
@@ -84,6 +84,14 @@ Hotoman, et non pas Hotman; c'est l'orthographe qu'il a toujours préférée.
 > Is de la Monnoye's theory that '[s]on vrai nom étoit <em><span class="sc">
 Hotman</span></em>, qu'il changea en <em><span class="sc">Hotoman</span></em> … on
 > a toujours dit <em>Hotman</em>' anything more than a theory?
+
+## Housman
+
+That Postgate spelt the Latinised form thus is shown by _Mnem._ 52 (1924), 21 
+_excogitauit Housmanus_. (In the _Corpus_ he does not use Latin forms of the 
+names of contemporary scholars.) Housman at first used this form himself (Burnett 
+1.518), but he came to prefer _Housmannus_ (Praef. ad _Man. ed. min._, viii n. 
+1). (Hopkinson)
 
 ## Iurinus
 James Jurin
