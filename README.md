@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-08-20T00:44:57+00:00
+last_modified_at: 2025-08-20T06:27:35+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -41,7 +41,7 @@ Commandments</a> and James Zetzel's
 and the Transmission of Latin Texts</a>.
 
 <!-- The following sequence of lines must not change – there must be 3 lines of code (including the next comment) below this, no more, no less. -->
-<p>The top 10 critics are Reiske (282), Scaliger (239), Nicolaus Heinsius (236), Adamantios Korais (192), Bentley (183), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (96).</p>
+<p>The top 10 critics are Reiske (282), Scaliger (239), Nicolaus Heinsius (238), Adamantios Korais (192), Bentley (183), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (96).</p>
 <br>
 <!-- Anything not in the table must be before this comment. -->
 
@@ -5645,12 +5645,17 @@ Ov. met. 4.416|memor-|uenerabile|J. Gilbert|1896|b W|
 Ov. met. 4.488|est t.|exterrita|Bentley|1905 (a1742)|Paris. lat. 8001 (P/B)|
 Ov. met. 4.770|Perseu|Cepheus|Haupt|1853|Plan.|
 Ov. met. 5.462|et|per|Nicolaus Heinsius|2025 (a1681)|Lips. Bibl. Civ. 44 (Li3)|
-Ov. met. 6.234|tamen dantem etc.|dabat; dantem|Nicolaus Heinsius||χ|
-Ov. met. 6.399|rapidum|-dus|Housman|1890|χ|
-Ov. met. 6.399|rapidum|-de|Anderson|1977|χ|
+Ov. met. 6.200|quae q. d./quantum distabat|qua quantum distat|Pieter Burman I|1727|V2rv Li2OacvP3Sb2m B8B11|
+Ov. met. 6.214|adiect-/admixt-|adiunctura|Pieter Burman I|1727|V23 N6|
+Ov. met. 6.217|-erant/contingunt|contigerunt|Nicolaus Heinsius|1659|BgvC V21v|
+Ov. met. 6.234|tamen dantem etc.|dabat; dantem|Nicolaus Heinsius|1659|χ|
+Ov. met. 6.399|rapidum|-dus|Clemens Hellmuth|1880|BvVdpc|
+Ov. met. 6.399|rapidum|-de|Anderson|1977|Lr22sO42s|
+Ov. met. 6.441|-am/-a/visuram|visendae|Nicolaus Heinsius|1659|Dresd. Säch. Landesbibl. App. 1092 (Dr)|
 Ov. met. 6.489|corpor-|tempora|Housman|1894|Vat. lat. 11457 (V4)|apud Edwards; m. sec.
-Ov. met. 6.514|et uix animo|a. uix et|J. J. Hartman|1905|χ|
-Ov. met. 6.616|aut|atque|J. Rappold|1881|χ|
+Ov. met. 6.514|et uix animo|a. uix et|J. J. Hartman|1905|Bs2 V36|
+Ov. met. 6.616|aut|atque|J. Rappold|1881|Vat. Palat. lat. 1667 (V9)|
+Ov. met. 6.635|-ras/-r es|degenera|F. H. Bothe|1818|M2Sph EF1vL4vTrTu|
 Ov. met. 7.8|numeris|miseris|H. A. Koch|n.d.|Lond. Bibl. Brit. King's 26 (k)|
 Ov. met. 7.170|habent|del.|Nicolaus Heinsius||MpcUacFac|
 Ov. met. 7.223|despicit|disp-|Lachmann|1855|χ|ad Lucr. 4.418
@@ -5686,7 +5691,7 @@ Ov. met. 10.503|at|ut|George Waddel|1734|Guelferb. Bibl. Duc. 2942 (Gf)|
 Ov. met. 10.531|–que … -que|-ve … -ve|Bentley|1905 (a1742)|Plan.|
 Ov. met. 10.538|pronos|pavidos|Nicolaus Heinsius|2016 (a1681)|Turon. 879 (Tr)|apud Fàbregas
 Ov. met. 10.584|-amque tim-|invidiaque tumet|Nicolaus Heinsius|2016 (a1681)|Bonon. Bibl. Univ. 2278 (Bo)|apud Fàbregas
-Ov. met. 10.596|infic-|efficit|Nicolaus Heinsius|2016 (a1681)|Dresd. Säch. Landesbibl. App. 1092 (Fr)|apud Fàbregas
+Ov. met. 10.596|infic-|efficit|Nicolaus Heinsius|2016 (a1681)|Dresd. Säch. Landesbibl. App. 1092 (Dr)|apud Fàbregas
 Ov. met. 10.624|-at|interea|Heinrich Loriti|1538|MtTuVd1 Ds2|
 Ov. met. 10.637|quid facit|quid velit|Gustav Nick|1877|Cordub. ms. 150 Arch. Catedr. (Co)|
 Ov. met. 10.643|-is|opi|Nicolaus Heinsius|1659|Ambros. H 65 sup. (A2)|
@@ -5743,7 +5748,7 @@ Ov. met. 14.281|toto|prono|Nicolaus Heinsius||Sagall. 866 (G)|
 Ov. met. 14.748|qua|quam|F. H. Bothe|1818|recc.|
 Ov. met. 15.311|athamantis|admotumque|Rudolf Ehwald|1915|df W|
 Ov. met. 15.420|-a|tempore|Nicolaus Heinsius||Guelf. Bibl. Duc. 2942 (w)|
-Ov. met. 15.620|aur-|aeratis|Jacobus a Cruce|n.d.|U4|
+Ov. met. 15.620|aur-|aeratis|Jacobus a Cruce|1518|U4|
 Ov. rem. 364|-et|impugnent|Poliziano||Turon. 879 (T)|
 Ov. rem. 409|-o tibi/-æ tibi/-a est ibi|raræ sibi|Nicolaus Heinsius|a1661|Paris. lat. 7993 (P3)|
 Ov. rem. 521|ubi sapientia|ubi si patientia|Madvig|1873|Hamilt. 471 (Y)|
