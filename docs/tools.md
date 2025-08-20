@@ -4,8 +4,8 @@ permalink: tools/
 seo:
   type: Collection
   name: Tools of the Trade
-last_modified_at: 2025-06-12T07:57:41+00:00
-description: Lesser-known resources for classical philologists
+last_modified_at: 2025-08-20T13:53:30+00:00
+description: Lesser-known resources for classical philology
 ---
 # Tools of the Trade
 
@@ -46,7 +46,9 @@ description: Lesser-known resources for classical philologists
 [The Pronunciation of English Words Derived from the Latin](https://books.google.com/books?id=PykcAQAAMAAJ) (Sargeaunt/Bradley)
 
 ## Wissenschaftsgeschichte
-[History of Classical Scholarship: A Biographical Dictionary](https://archive.org/details/isbn_9789004245938) (Brill)
+[_History of Classical Scholarship: A Biographical Dictionary_](https://archive.org/details/isbn_9789004245938) (Brill)
+
+_Nomenclator philologorum_: [1871](https://www.google.com/books/edition/Nomenclator_philologorum/--FFAAAAcAAJ) \| [2005](http://www.venturus.de/vframe.htm?vklass.htm) (Eckstein)
 
 [The Latinizations of the Modern Surname](https://github.com/t18d/attested-conjectures/raw/main/assets/pdf/The_Latinizations_of_the_modern_surname.pdf) (Bywater)
 
@@ -62,11 +64,15 @@ description: Lesser-known resources for classical philologists
 
 [E. L. Mark's system of citation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1834803/pdf/bmj00308-0078.pdf) (Chernin)
 
-> aka author–date, the only option when the use of notes is out of the question
+> aka author–date
 
 [M. L. West and the British Philological Method](https://github.com/t18d/attested-conjectures/raw/main/assets/pdf/M_L_West_and_the_British_Philological_Me.pdf) (Nikolaev)
 
 > from the horse’s mouth 
+
+## Metres
+
+[_Latin Hexameter Verse_](https://www.google.com/books/edition/Latin_Hexameter_Verse/yz9xAAAAIAAJ) (Winbolt)
 
 ## Aesch.
 [The Source of the Aldine Edition of Aeschylus’ _Supplices_](https://www.jstor.org/stable/43646869) (McCall)
