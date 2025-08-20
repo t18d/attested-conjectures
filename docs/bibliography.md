@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-08-20T00:49:51+00:00
+last_modified_at: 2025-08-20T06:29:01+00:00
 ---
 # Bibliography
 
@@ -226,6 +226,7 @@ last_modified_at: 2025-08-20T00:49:51+00:00
 - Ovidius Naso, P., _Metamorphoseon liber tertius_, ed. Ángela Suárez del Río (Huelva, 2015).
 - Ovidio, _Metamorfosis_, x, ed. Pere Fàbregas Salis (Barcelona, 2016).
 - Ovid, _Metamorphoses_, iii, ed. Luis Rivero García (Berlin, 2018).
+- Ovid, _Metamorphoses_, vi, ed. Antonio Ramírez de Verger (Berlin, 2021).
 - Page, D. L. (ed.), _Poetae melici Graeci_ (Oxford, 1967).
 - Pascal, Carlo (ed.), _Carmina ludicra Romanorum_ (Turin, 1918).
 - Pausanias, _Graeciae descriptio_, ed. Maria Helena Rocha-Pereira, 3 vols (Leipzig, 1989–90).
