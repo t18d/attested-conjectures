@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-08-20T06:27:35+00:00
+last_modified_at: 2025-08-20T09:23:34+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -41,7 +41,7 @@ Commandments</a> and James Zetzel's
 and the Transmission of Latin Texts</a>.
 
 <!-- The following sequence of lines must not change – there must be 3 lines of code (including the next comment) below this, no more, no less. -->
-<p>The top 10 critics are Reiske (282), Scaliger (239), Nicolaus Heinsius (238), Adamantios Korais (192), Bentley (183), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (96).</p>
+<p>The top 10 critics are Reiske (282), Scaliger (240), Nicolaus Heinsius (238), Adamantios Korais (192), Bentley (184), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (96).</p>
 <br>
 <!-- Anything not in the table must be before this comment. -->
 
@@ -5622,6 +5622,7 @@ Ov. fast. 1.281|possit|possim|Marcilius||cod. Götting.|ad Hor. epist. 2.1; v.l.
 Ov. fast. 1.494|-o|uacuum|P. V. Sormani|1886|U3 et flor. duo|
 Ov. fast. 3.115|illa quidem fœno|illaque de fœno|Scaliger|1629|Paris. lat. 7992 et flor. Berol. (Merkel)|apud D. Heinsium p. 391
 Ov. met. 1.2|-as|illa|P. Lejay|1894|ev U3c|
+Ov. met. 1.31|ult-|extima|Bentley||codd. Ciofani|ad Lucan. 9.456
 Ov. met. 1.50|-amque|utrasque|J. Rappold|1881|ψ|
 Ov. met. 1.332|tec-|tinctum|Bentley|1905 (a1742)|φ|
 Ov. met. 1.779|-osque|patrios|Hugo Magnus|1914|χ|
@@ -5746,9 +5747,19 @@ Ov. met. 14.24|fineque nil|fine opus est nullo|F. H. Bothe|1818|φ|
 Ov. met. 14.169|-cique|ithaceque|Andrea Navagero|1516|l4 et recc.|
 Ov. met. 14.281|toto|prono|Nicolaus Heinsius||Sagall. 866 (G)|
 Ov. met. 14.748|qua|quam|F. H. Bothe|1818|recc.|
+Ov. met. 15.31|-reum|sideribus|F. H. Bothe|1818|Laur. 36.14|
+Ov. met. 15.126|tot|quot|Housman||(e2)|
+Ov. met. 15.246|-ur|tenuatus|Jacob Micyllus|1543|Bvl o p Guelferb. 4427|
 Ov. met. 15.311|athamantis|admotumque|Rudolf Ehwald|1915|df W|
+Ov. met. 15.319|-a|undae|Scaliger||U2 B P v|
+Ov. met. 15.386|Cythereid-|Cythereiadasque|Giacomo Costanzi|1508|b2 k2|
+Ov. met. 15.407|aed-|urbe|Isaac de Schepper|1665|Basil 3 teste Bach|
 Ov. met. 15.420|-a|tempore|Nicolaus Heinsius||Guelf. Bibl. Duc. 2942 (w)|
+Ov. met. 15.500|-pheia|Pasiphaeia|Andrea Navagero|1516|(nv)|
 Ov. met. 15.620|aur-|aeratis|Jacobus a Cruce|1518|U4|
+Ov. met. 15.694|pressaque|pressa estque|Capoferreus|1659|U3 P e2 l|
+Ov. met. 15.718|anxur/ancon|antium|Raphael Regius|1493|U3pc Fpc Pac W|
+Ov. met. 15.729|-es|omnis|Alexander Riese|1872|(Gv)|
 Ov. rem. 364|-et|impugnent|Poliziano||Turon. 879 (T)|
 Ov. rem. 409|-o tibi/-æ tibi/-a est ibi|raræ sibi|Nicolaus Heinsius|a1661|Paris. lat. 7993 (P3)|
 Ov. rem. 521|ubi sapientia|ubi si patientia|Madvig|1873|Hamilt. 471 (Y)|
