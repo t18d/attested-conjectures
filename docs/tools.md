@@ -4,22 +4,30 @@ permalink: tools/
 seo:
   type: Collection
   name: Tools of the Trade
-last_modified_at: 2025-08-21T08:36:21+00:00
-description: Lesser-known resources for classical philology
+last_modified_at: 2025-08-21T14:11:49+00:00
+description: Lesser-known digital resources for philology
 ---
 # Tools of the Trade
 
-<p align="right">This page collects lesser-known <br>digital resources for classical <br>philology not mentioned in <br>Zeztel’s <a href="https://t18d.github.io/attested-conjectures/zetzel">bibliographical essay</a></p>
+<p align="right"><em>This page collects lesser-known <br>digital resources for 
+  classical <br>philology not mentioned in <br>Zeztel’s 
+  <a href="https://t18d.github.io/attested-conjectures/zetzel">bibliographical 
+    essay</a></em>
+</p>
 
 &nbsp;  
 &nbsp;  
-[Commonest Abbreviations, Signs, etc. Used in the Apparatus to a Classical Text](https://github.com/t18d/attested-conjectures/raw/main/assets/pdf/Commonest_Abbreviations_Signs_etc_Used_in_the_Apparatus_to_a_Classical_Text.pdf) (Maurer/Scullion)
-
-[_A New Introduction to Bibliography_](https://archive.org/details/newintroductiont0000gask) (Gaskell)
-
-[The Nomenclature of Manuscripts](https://archive.org/details/companiontoclass00halluoft/page/286/mode/1up) (Hall)
+## Bibliography
+[_A New Introduction to Bibliography_](https://archive.org/details/newintroductiont0000gask)
+(Gaskell)
 
 [Checklist of Editions of Greek, Latin, Demotic, and Coptic Papyri, Ostraca, and Tablets](https://papyri.info/docs/checklist) (Oates et al.)
+
+[The Nomenclature of Manuscripts](https://archive.org/details/companiontoclass00halluoft/page/286/mode/1up)
+(Hall)
+
+[Commonest Abbreviations, Signs, etc. Used in the Apparatus to a Classical Text](https://github.com/t18d/attested-conjectures/raw/main/assets/pdf/Commonest_Abbreviations_Signs_etc_Used_in_the_Apparatus_to_a_Classical_Text.pdf)
+(Maurer/Scullion)
 
 ## Typography
 [FAQ – Greek Language & Script](https://www.unicode.org/faq/greek.html#3) (Unicode Consortium)
@@ -36,7 +44,7 @@ description: Lesser-known resources for classical philology
 
 [Distinguishing æ and œ](https://www.pgdp.net/wiki/Æ_and_œ_ligatures#Distinguishing_the_ligatures) (DPWiki)
 
-## Latin in English
+## English
 [The 'zero genitive'](https://archive.org/details/comprehensivegra00quir/page/320/mode/1up) (Quirk et al.)
 
 > one of the places where this older grammar shines
@@ -71,7 +79,6 @@ _Nomenclator philologorum_: [1871](https://www.google.com/books/edition/Nomencla
 > from the horse’s mouth 
 
 ## Versification
-
 [_Latin Hexameter Verse_](https://www.google.com/books/edition/Latin_Hexameter_Verse/yz9xAAAAIAAJ) (Winbolt)
 
 ## Aesch.
