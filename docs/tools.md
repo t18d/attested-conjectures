@@ -4,7 +4,7 @@ permalink: tools/
 seo:
   type: Collection
   name: Tools of the Trade
-last_modified_at: 2025-08-21T14:30:09+00:00
+last_modified_at: 2025-08-21T14:41:21+00:00
 description: Lesser-known digital resources for philology
 ---
 # Tools of the Trade
@@ -183,6 +183,13 @@ Lucretius](https://www.uhu.es/publicaciones/ojs/index.php/exemplaria/article/vie
 > history of criticism of Lucretius intended to explain and justify his own
 > text. That kind of Whig history has long been discredited in other historical
 > disciplines …
+
+## Ov.
+### met.
+[Sigla of the Nicolaus Heinsius Research
+Group](https://www.uhu.es/proyectovidio/ing/20_manuscritos.html)
+
+> what's on 'the hard drive'
 
 ## Pl.
 [Schleiermacher as Plato Scholar](https://www.jstor.org/stable/1206234) (Lamm)
