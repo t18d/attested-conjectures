@@ -4,7 +4,7 @@ permalink: tools/
 seo:
   type: Collection
   name: Tools of the Trade
-last_modified_at: 2025-08-20T13:53:30+00:00
+last_modified_at: 2025-08-21T08:36:21+00:00
 description: Lesser-known resources for classical philology
 ---
 # Tools of the Trade
@@ -70,7 +70,7 @@ _Nomenclator philologorum_: [1871](https://www.google.com/books/edition/Nomencla
 
 > from the horse’s mouth 
 
-## Metres
+## Versification
 
 [_Latin Hexameter Verse_](https://www.google.com/books/edition/Latin_Hexameter_Verse/yz9xAAAAIAAJ) (Winbolt)
 
