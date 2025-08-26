@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-08-20T09:23:34+00:00
+last_modified_at: 2025-08-26T06:42:35+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -41,7 +41,7 @@ Commandments</a> and James Zetzel's
 and the Transmission of Latin Texts</a>.
 
 <!-- The following sequence of lines must not change – there must be 3 lines of code (including the next comment) below this, no more, no less. -->
-<p>The top 10 critics are Reiske (282), Scaliger (240), Nicolaus Heinsius (238), Adamantios Korais (192), Bentley (184), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (96).</p>
+<p>The top 10 critics are Reiske (282), Scaliger (240), Nicolaus Heinsius (238), Bentley (193), Adamantios Korais (192), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (96).</p>
 <br>
 <!-- Anything not in the table must be before this comment. -->
 
@@ -4621,10 +4621,46 @@ Cic. Sull. 90|etsi|et si|C. F. W. Müller|1892|πaΣψ|
 Cic. Sull. 92|est|sunt|Denys Lambin|1566|TE|
 Cic. Tim. 14|-unt|fuerant|Denys Lambin|1565–6|Vindob. lat. 189 (V)|
 Cic. Tull. 42|-matis|armis|P. E. Huschke|1826|Palimp. Taur. (T)|apud J. G. H.
+Cic. Tusc. 1.38|-um|primus|Denys Lambin|1565|Vrat. Univ. Lib. cod. Rehdiger. 64 (ϛ30)|
+Cic. Tusc. 1.43|cum … a.|tum … adeptus|Bentley|1805 (a1742)|Ambros. T 56 sup. (M)|m. sec.
 Cic. Tusc. 1.51|nisi|si|Moritz Seyffert|1864|ϛ|
+Cic. Tusc. 1.69|nitesc-|mitescere|Janus Gebhard|1615|Vat. Pal. lat. 1516 (ϛ24)|
+Cic. Tusc. 1.69|d., ipsorumque/d. eorum|deorum|Jean Bouhier|1737|ϛ9ϛ30|
+Cic. Tusc. 1.94|nullis|non n.|Otto Heine|1864|Ambros. T 56 sup. (M)|m. sec.
+Cic. Tusc. 1.98|iniquorum (circum)uentos|iniquo circumuentos|Bentley|1805 (a1742)|Vat. lat. 3246 (V)|m. sec.
+Cic. Tusc. 1.102|-e|morti|Denys Lambin|1565|Vat. lat. 2216 (U)|
+Cic. Tusc. 2.19|-labantur|consolantur|Bentley|1805 (a1742)|Paris. lat. 6334 (ϛ19)|
+Cic. Tusc. 2.45|nunc|hunc|Denys Lambin|1565|Bodl. Auct. F. 1. 12 (ϛ11)|
+Cic. Tusc. 2.67|si … non sint ut … sint|si … sint ut … non sint|Denys Lambin|1565|Vindob. lat. 222 (ϛ27)|
+Cic. Tusc. 3.1|-ni|inuentione|Jean Bouhier|1737|Ambros. T 56 sup. (M)|m. sec.
+Cic. Tusc. 3.33|-em|hebetat|P. Manutius|1543|Lond. BL Royal 15. B. XV (ϛ8)|
+Cic. Tusc. 3.34|a. c.|in aduersis casibus|Erasmus|1523|ϛ1acϛ30|
+Cic. Tusc. 3.35|quia/quod à/quia à|qui à|John Davies|1709|Vat. Pal. lat. 1514 (P)|m. pr.
+Cic. Tusc. 3.44|acced-|accidam|F. A. Wolf|1829|Bern. cod. 438 (ϛ1)|a.c.
+Cic. Tusc. 3.71|c. ut s.|clade subita|Erasmus|1523|Lond. BL Royal 15.C.XI (L)|
+Cic. Tusc. 4.10|tum|quum|A. S. Wesenberg|1841|ϛ12ϛ23|
+Cic. Tusc. 4.14|ea qua|eaque|John Bake|1852|GacMac|
 Cic. Tusc. 4.30|in insipientem|in sapientem|Turnebus|1564|V2|Adv. VII 17
+Cic. Tusc. 4.31|similibusque u.|similibus quoque uerbis|P. Manutius|1555|Monac. Clm 277 (ϛ10)|
+Cic. Tusc. 4.34|cogita-|concitantur|Joachim Camerarius|1543|Vindob. lat. 222 (ϛ27)|
+Cic. Tusc. 4.37|nam|num|Bentley|1709|Bodl. Auct. F. 1. 12 (ϛ11)|apud Davisium
+Cic. Tusc. 4.48|-im|possint|Bentley|1723|ϛ1ac|apud Davisium
+Cic. Tusc. 4.48|-i|atque|P. H. Tregder|1841|Cantab. Petr. cod. 269 (ϛ3)|
+Cic. Tusc. 4.52|perficit|-fecit|P. Manutius|1541|ϛ20ϛ27|
+Cic. Tusc. 4.57|et|ei|Denys Lambin|1565|Cantab. Petr. cod. 269 (ϛ3)|a.c.
+Cic. Tusc. 4.59|malum|nomen|Bentley|1709|Vat. Pal. lat. 1515 (ϛ23)|apud Davisium
+Cic. Tusc. 4.74|-dat|ostendatur|John Davies|1723|Monac. Clm 277 (ϛ10)|
+Cic. Tusc. 4.77|quae q.|quam|Filippo Beroaldo I|1496|E2ϛ24|
+Cic. Tusc. 5.3|d. i., e.|diffidere, interdum et|F. A. Wolf|1792|ϛ9ϛ20|
+Cic. Tusc. 5.40|-plectitur|compleatur|Thomas Wopkens|1730|Bodl. D’Orville 85 (ϛ14)|
+Cic. Tusc. 5.43|cum omnia cum|quae o. c.|Bentley|1723|Bodl. Holkham Misc. 33 (O)|
+Cic. Tusc. 5.62|his|iis|P. Manutius|1541|Vat. Pal. lat. 1516 (ϛ24)|
 Cic. Tusc. 5.63|tragicum|t. accepimus|Moritz Seyffert|1864|ϛ|
-Cic. Tusc. 5.119|observent/obscurentur|obruantur|John Davies|1723|frg. Oxon. (F)|Clark, 'A Bodleian fragment'
+Cic. Tusc. 5.74|uoluptatium|-tum|J. G. Baiter|1861|Ambros. T 56 sup. (M)|
+Cic. Tusc. 5.96|memoria|-ae|Bentley|1723|Brux. 5348-5352-II (B)|a.c. m. pr.
+Cic. Tusc. 5.98|quicquid|quid|John Davies|1723|Monac. Clm 763 (ϛ9)|
+Cic. Tusc. 5.107|demum a/damna|tandem a|John Davies|1730|ϛ6ϛ21|
+Cic. Tusc. 5.119|obseruant|obruantur|Bentley|1723|frg. Oxon. (F)|apud Davisium; Clark, 'A Bodleian fragment'
 Cic. Verr. I 41|-mae|nocentissimi|Madvig|1828|schol. Gronov.|Append. crit. p. 38
 Cic. Verr. II 1.123|ad-|idiurare|Reinhold Klotz|1852–62|Paris. 7776 (p)|
 Cic. Verr. II 1.123|et i. l.|at ille libertus|J. A. Ernesti|1773–7|Harl. 2687 (r)|
@@ -4702,13 +4738,13 @@ Cic. orat. 26|-et/-aret|appellat|F. Goeller|1838|Bud. M|
 Cic. orat. 33|i. nos|nos igitur|J. A. Ernesti|1774–7|Barb. lat. 126 (E)|
 Cic. orat. 62|om.|et suauitate|Hermann Sauppe|1857|Rem. bibl. mun. 1109 (R)|
 Cic. orat. 73|-imus|dicamus|J. A. Ernesti|1774–7|Matrit. bibl. nat. 10060 (V)|
-Cic. orat. 93|dix-|dicit|Janus Bake|1856|K f|
+Cic. orat. 93|dix-|dicit|John Bake|1856|K f|
 Cic. orat. 99|videtur|-ebitur|Henri Estienne|1885|Σ Θ Ξ|ap. Stangl
 Cic. orat. 115|quid ue/quodque|quidque|P. Manutius|1546|J γ|
-Cic. orat. 138|ut a — aliquantum|del.|Janus Bake|1856|Iul. Vict. rhet. 20|
+Cic. orat. 138|ut a — aliquantum|del.|John Bake|1856|Iul. Vict. rhet. 20|
 Cic. orat. 147|-in|qui|Madvig|1873|N E Q|p. 190
 Cic. orat. 147|-er|delectet|J. A. Ernesti|1774–7|K J E|
-Cic. orat. 159|in insano|in sano|Janus Bake|1856|K γ|
+Cic. orat. 159|in insano|in sano|John Bake|1856|K γ|
 Cic. orat. 160|pyrrhum etc.|phrygum|C. G. Schütz|1807|R Bud.|
 Cic. orat. 180|omnes|communes|P. Manutius|1546|Barcin. bibl. univ. 12 (B)|
 Cic. orat. 183|dimensa ratio/demensur-|dimensuratio|Thomas Stangl|1885|Δ Φ J|
