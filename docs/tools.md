@@ -4,7 +4,7 @@ permalink: tools/
 seo:
   type: Collection
   name: Tools of the Trade
-last_modified_at: 2025-08-26T03:08:43+00:00
+last_modified_at: 2025-08-26T09:30:42+00:00
 description: Lesser-known digital resources for philology
 ---
 # Tools of the Trade
@@ -152,7 +152,14 @@ Kaibel, Wilamowitz and early editions
 Pseudo-Asconius](https://www.jstor.org/stable/10.7834/phoenix.71.3-4.0321)
 (Welsh)
 
+## Ath.
+[Casaubon–Kaibel synoptic
+Athenaeus](https://www.digitalathenaeus.org/tools/Casaubon-Kaibel_converter/)
+
 ## Cic.
+
+_Onomasticon Tullianum_: [i
+(1836)](https://www.google.com/books/edition/Onomasticon_Tullianum_continens_M_Tullii/LfM9AAAAcAAJ)
 
 [The Fictitious MSS. of Bosius](https://www.jstor.org/stable/693279) (Clark)
 
