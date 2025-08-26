@@ -4,7 +4,7 @@ permalink: tools/
 seo:
   type: Collection
   name: Tools of the Trade
-last_modified_at: 2025-08-21T14:41:21+00:00
+last_modified_at: 2025-08-26T03:08:43+00:00
 description: Lesser-known digital resources for philology
 ---
 # Tools of the Trade
@@ -33,6 +33,18 @@ Manuscripts](https://archive.org/details/companiontoclass00halluoft/page/286/mod
 [Commonest Abbreviations, Signs, etc. Used in the Apparatus to a Classical
 Text](https://github.com/t18d/attested-conjectures/raw/main/assets/pdf/Commonest_Abbreviations_Signs_etc_Used_in_the_Apparatus_to_a_Classical_Text.pdf)
 (Maurer/Scullion)
+
+### ς or ϛ?
+
+… the notes are bulked out unnecessarily by the use of the cumbrous ‘recc.’ and 
+‘recc. aliquot’ in place of the now generally accepted symbols ω (omega) and ς 
+(final sigma) … 
+([Kenney](https://bmcr.brynmawr.edu/2004/2004.01.13/#:~:text=final%20sigma))
+
+… the many _recentiores_, never thoroughly examined and often lumped together 
+under ϛ … Hall, Ritchie, and Edwards (2008), 3.119 rightly castigate the practice, 
+found in, e.g., Klotz (1908) and Shackleton Bailey (2003). Hill (1983) and Dewar 
+(1991) use ς (a final sigma, not a stigma) … (Gervais)
 
 ## Typography
 [FAQ – Greek Language & Script](https://www.unicode.org/faq/greek.html#3)
