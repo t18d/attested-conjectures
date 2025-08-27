@@ -43,7 +43,7 @@ jobs:
     if: ${{ github.event_name == 'push' }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 2
           # Do a sparse checkout on given patterns. Each pattern should be separated with
@@ -118,7 +118,7 @@ jobs:
     if: ${{ github.event_name == 'workflow_run' || github.event_name == 'workflow_dispatch' }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           # Do a sparse checkout on given patterns. Each pattern should be separated with
           # new lines.

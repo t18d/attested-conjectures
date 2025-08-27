@@ -13,7 +13,7 @@ jobs:
       # added or changed files to the repository.
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           # Partially clone against a given filter. Overrides sparse-checkout if set.
           # Default: null
