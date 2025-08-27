@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-08-26T06:42:35+00:00
+last_modified_at: 2025-08-27T00:21:16+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -4644,6 +4644,7 @@ Cic. Tusc. 4.30|in insipientem|in sapientem|Turnebus|1564|V2|Adv. VII 17
 Cic. Tusc. 4.31|similibusque u.|similibus quoque uerbis|P. Manutius|1555|Monac. Clm 277 (ϛ10)|
 Cic. Tusc. 4.34|cogita-|concitantur|Joachim Camerarius|1543|Vindob. lat. 222 (ϛ27)|
 Cic. Tusc. 4.37|nam|num|Bentley|1709|Bodl. Auct. F. 1. 12 (ϛ11)|apud Davisium
+Cic. Tusc. 4.46|calamitates … (calamitates)|c. … calamitate|Moritz Seyffert|1864|WU|
 Cic. Tusc. 4.48|-im|possint|Bentley|1723|ϛ1ac|apud Davisium
 Cic. Tusc. 4.48|-i|atque|P. H. Tregder|1841|Cantab. Petr. cod. 269 (ϛ3)|
 Cic. Tusc. 4.52|perficit|-fecit|P. Manutius|1541|ϛ20ϛ27|
