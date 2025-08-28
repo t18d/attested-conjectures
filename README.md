@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-08-27T00:21:16+00:00
+last_modified_at: 2025-08-28T04:02:29+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -4019,7 +4019,7 @@ Thuc. 8.86.5|-ρῶν|λοιδοριῶν|Madvig|1871|Pi2|Adv. p. 334
 Thuc. 8.86.9|πεμπτοὺς/πέμπουσι|del.|Bekker|1832|recc.|
 Thuc. 8.95.6|οἱ|οἳ|Henri Estienne|1564|Pi2|
 Trypho II Trop. 22.1|πραγμάτων|προσώπων|C. E. Finckh|1866|Leid. BPG 74G (Z)|
-Trypho II Trop. 23.2|ἑαυτοῦ|ἑαυτῆς|Wenzel Klouček||Mac|apud Rzach
+Trypho II Trop. 23.2|ἑαυτοῦ|ἑαυτῆς|Wenzel Klouček|1913|Mac|apud Rzach
 Trypho II Trop. 23.2|ξένοις|ξύλοις|J. A. Cramer|1833|Leid. BPG 74G (Z)|
 Trypho II Trop. 24|προτερ-|πτερῷ|J. F. Boissonade|1831|MZ|
 Trypho Iβ Trop. 18.3|ἄγουσα|ἄγων|Michael Apostolis|s.xv|Bergom. MA 339 (E)|apud Sandri
