@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-08-28T04:02:29+00:00
+last_modified_at: 2025-09-01T12:51:57+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514820.svg)](https://doi.org/10.5281/zenodo.15514820)
@@ -41,7 +41,7 @@ Commandments</a> and James Zetzel's
 and the Transmission of Latin Texts</a>.
 
 <!-- The following sequence of lines must not change – there must be 3 lines of code (including the next comment) below this, no more, no less. -->
-<p>The top 10 critics are Reiske (282), Scaliger (240), Nicolaus Heinsius (238), Bentley (193), Adamantios Korais (192), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (96).</p>
+<p>The top 10 critics are Reiske (282), Scaliger (240), Nicolaus Heinsius (238), Bentley (194), Adamantios Korais (192), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Bekker (97) and Madvig (96).</p>
 <br>
 <!-- Anything not in the table must be before this comment. -->
 
@@ -5395,8 +5395,17 @@ Lucan. 6.558|si|sic|Sebastian Gryphius|n.d.|Paris. 7900A (Q)|
 Lucan. 7.780|desci-|desisset|Grotius|1614–39|GVa|
 Lucan. 8.311|-unt|fallent|Nicolaus Heinsius|1742|ZMc|
 Lucr. 4.897|ut ac|ut|Muretus|1563|O2|apud Lambinum
-Macr. Sat. 2.2.16|vetus-|venustatem|Joannes Meursius|1628|T2Rpc|p. 758
-Macr. Sat. 5.19.8|-ΤΡΑΙ|ΚΑΛΥΠΤΑΙ|Valckenaer|1767|TRFA|Diatr. 167C
+Macr. Sat. 1.7.22|-um|lusu|Ludwig von Jan|1852|GO2L|
+Macr. Sat. 1.16.29|-nis|nundinas|James Willis|1970 (?1963)|J2U2S|
+Macr. Sat. 2.2.5|equidem|et quidem|James Willis|1970 (?1963)|Lond. Cotton. Vit. C.III (O)|m. pr.
+Macr. Sat. 2.2.12|-em|tuitione|James Willis|1970 (?1963)|Argentorat. BNU 14 (G)|
+Macr. Sat. 2.2.16|vetus-|venustatem|Joannes Meursius|1628|T2R1|p. 758
+Macr. Sat. 2.7.9|decidas|cades|Noël-Étienne Sanadon|1843 (a1733)|flor. Gallicum teste Muñoz Jiménez|apud Schneidewin
+Macr. Sat. 2.7.11|-ii|benefici|Bentley|1781 (a1742)|Vat. Reg. lat. 1650 (V)|m. pr.
+Macr. Sat. 3.6.14|veratius|Veranius|Joannes Meursius|a1639|Neap. V.B.12 (E)|apud ed. Lugd. Bat. 1597
+Macr. Sat. 3.16.5|parvus|perrarus|Ludwig von Jan|1852|Vat. lat. 3417 (J)|m. sec.
+Macr. Sat. 5.19.10|-ΤΡΑΙ|ΚΑΛΥΠΤΑΙ|Valckenaer|1767|TRFA|Diatr. 167C
+Macr. Sat. 7.14.21|s. unus|sensus|Ludwig von Jan|1852|Cantab. Corp. Christ. Coll. 71 (C)|
 Macr. somn. 1.18.3|sibi|tibi|J. C. Zeune|1774|Paris. lat. 16677 (E)|
 Macr. somn. 1.18.8|-is|volubilitati|J. C. Zeune|1774|Bodl. Auct. T II 27 (d)|m. sec.
 Macr. somn. 1.20.2|-um|secundo|J. Gronovius|1670|Paris. lat. 16677 (E)|m. sec.
@@ -5590,7 +5599,7 @@ Ov. am. 1.2.14|pressi|prensi|Markland|1728|B2f|ad Stat. silv. 1.2.45
 Ov. am. 1.3.12|haec|hac|Arthur Palmer|1898|unus Heinsi|ad epist. 1.103
 Ov. am. 1.6.8|di-|derigit|Housman|1894|Hamilt. 471 (Y)|apud Edwards
 Ov. am. 1.7.46|nec n.|et nimium|Bentley|1905 (a1742)|Barb. lat. 26 (V)|
-Ov. am. 1.8.84|-e u. -e/-a u. -a|illa uel ille|J. Willis|1972|Lond. Bibl. Brit. Add. 49368 (L2)|
+Ov. am. 1.8.84|-e u. -e/-a u. -a|illa uel ille|James Willis|1972|Lond. Bibl. Brit. Add. 49368 (L2)|
 Ov. am. 1.9.5|annos|animos|Bernhard Foss|1862|BVb|p. 53
 Ov. am. 1.14.25|-erant/-erint|praebuerunt|Nicolaus Heinsius|1652|Turic. Bibl. Ciu. 47|
 Ov. am. 2.1.33|-es|facie|Nicolaus Heinsius|1652|Rom. Casan. 3227 (Ca2)|
