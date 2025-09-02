@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-09-02T00:10:23+00:00
+last_modified_at: 2025-09-02T03:53:29+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514819.svg)](https://doi.org/10.5281/zenodo.15514819)
@@ -6734,7 +6734,8 @@ Stat. Theb. 12.718|at|an|C. E. Sandström|1878|Monac. 19481 (F3)|p. 60; v.l.
 Stat. Theb. 12.729|tac-|iacent|Emil Baehrens|1884|Paris. lat. 10317 (Q)|apud Kohlmann; m. sec.
 Stat. Theb. 12.733|-ios|edonos|Gronovius|1653|Brux. 5337 (G)|v.l.
 Suet. Aug. 51.3|sedulo u./sedulo lentius|sed uiolentius|Pierre Pithou|1672|Vc|teste Graev.
-Suet. Iul. 55.3|existimat|-abat|C. G. Müller||Paris. lat. 6116 (Π)|m. pr.
+Suet. Iul. 52.1|appellare|-ari|B. Marzullo|2006|ζ|Philol.
+Suet. Iul. 56.6|uellet|uelit|J. A. Ernesti|1748|ζ|
 Tac. Agr. 3.3|senectutis|seruitutis|Fulvio Orsini|1595|Aesinas lat. 8 (E)|
 Tac. Agr. 9.3|-am|persona|Beatus Rhenanus|1533|Ec|
 Tac. Agr. 9.3|di-|deminuit|Lipsius|1574|Aesinas lat. 8 (E)|
