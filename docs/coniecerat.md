@@ -5,13 +5,13 @@ permalink: coniecerat/
 seo:
   type: Dataset
   name: Coniecerat, sicut coni., suo Marte
-last_modified_at: 2025-08-20T09:36:58+00:00
+last_modified_at: 2025-09-02T03:31:01+00:00
 layout: no-anchor
 ---
 # Coniecerat, sicut coni., suo Marte
 
 <p align="right"><em>This page keeps track of the terminology that <br>editors use 
-  to indicate an attested conjecture. <br>Editors marked as ‘ambiguous’ employ 
+  to indicate an attested conjecture. <br>Editors marked with asterisk (*) employ 
   the<br> same method to record the fact that a <br>critic supports a transmitted 
   reading.</em></p>
 
@@ -29,14 +29,14 @@ West (Hom.), Theodoridis, Conte
 
 **sicut coni. _critic_:** Housman, Kenney, Diggle (also **coni.**), Clausen
 
-> **sicut coniecerat _critic_:** Housman  
+> **sicut coniecerat _critic_:** Housman \
 **sicut/sic ut coniecit _critic_:** Hense
 
 **ut coni. _critic_:** O. Schneider, Wachsmuth, Boissevain, Hermes, Peterson 
 (1907), A. Klotz, Allen (also **quod coni.**, **coni.**), Beltrami, Westman, 
 Winterbottom (Quint., Tac.), Delz (1987), Hine
 
-> **ut ci. _critic_:** Usener, West (Hom.)  
+> **ut ci. _critic_:** Usener, West (Hom.) \
 **ut coniecit _critic_:** Hense, Walters/Conway, Beltrami, Courtney
 
 **ut voluerat _critic_:** O. Schneider
@@ -45,9 +45,9 @@ Winterbottom (Quint., Tac.), Delz (1987), Hine
 
 **quod coni. _critic_:** Allen, Roos (Arr.)
 
-> **quod iam coni. _critic_:** Sconocchia  
-**quod coniecit _critic_:** Hense  
-**quod coniecer. _critic_:** Guaglianone  
+> **quod iam coni. _critic_:** Sconocchia \
+**quod coniecit _critic_:** Hense \
+**quod coniecer. _critic_:** Guaglianone \
 **id _critic_ coniecer.:** Guaglianone
 
 **idem coni. _critic_:** Keller, Maslowski (95, 03)
@@ -56,26 +56,26 @@ Winterbottom (Quint., Tac.), Delz (1987), Hine
 
 **_sigla_, ita coni. _critic_:** Giomini
 
-> **_sigla_ (ita coniecer. _critic_):** Guaglianone  
-**sic coniecer. _critic_:** Guaglianone  
+> **_sigla_ (ita coniecer. _critic_):** Guaglianone \
+**sic coniecer. _critic_:** Guaglianone
 
 **et coni. _critic_:** Fränkel, Marcovich, Woodman (Vell.), Håkanson
 
-> **et ci. _critic_:** Blass, Conomis, West (Hom.), Tarán  
-**et _critic_ de/ex coniectura:** Viereck  
-**sic _sigla_ et de/ex conj. _critic_:** C. Müller (Ptol.)  
+> **et ci. _critic_:** Blass, Conomis, West (Hom.), Tarán \
+**et _critic_ de/ex coniectura:** Viereck \
+**sic _sigla_ et de/ex conj. _critic_:** C. Müller (Ptol.)
 
 **_sigla_ et _critic_:** Vian, Dilts (ambiguous)
 
-> **_sigla_ (et _critic_):** Fedeli  
+> **_sigla_ (et _critic_):** Fedeli \
 **_sigla_ and _critic_:** De Lacy–Einarson
 
 **_sigla_ (coni. _critic_):** Cohn, Wendland, Seel, Hohl, Mayhoff, Tarrant, 
 Dorandi
 
-> **_sigla_ (ci. _critic_):** Blass, West (Hes. Op.), O’Sullivan, Boter  
-**_sigla_ (coniecit _critic_):** Radt  
-**_sigla_ (coniecerunt _critics_):** Radt  
+> **_sigla_ (ci. _critic_):** Blass, West (Hes. Op.), O’Sullivan, Boter \
+**_sigla_ (coniecit _critic_):** Radt \
+**_sigla_ (coniecerunt _critics_):** Radt
 
 **_sigla_, coni. _critic_:** Allen, Diggle (ambiguous), Ireland, 
 Lloyd-Jones/Wilson, Finglass (pre-2011), Fàbregas Salis (also **e coni.**),
@@ -89,11 +89,11 @@ Rivero García
 **_sigla_ coni. _critic_:** Moreschini (Budé), Kidd \
 **_sigla_ conj. _critic_:** Bompaire (ambiguous) \
 **_sigla_ con. _critic_:** Moreschini (Apul.) \
-**_sigla_ coniec. _critic_:** R. Weil  
+**_sigla_ coniec. _critic_:** R. Weil
 
 **_critic_, confirmed by _siglum_:** Babbitt, Helmbold
 
-> **_critic_ confirm. _siglum_:** Schepers (1901)  
+> **_critic_ confirm. _siglum_:** Schepers (1901) \
 **_critic_ (conf. _siglum_):** Winterbottom
 
 **_sigla_ tempt. _critic_:** Díez Reboso (ambiguous)
@@ -112,9 +112,9 @@ Holford-Strevens (ambiguous)
 
 **iam _critic_:** Patillon, P.Oxy.
 
-> **iam coni. _critic_:** Brunschwig  
-**sed iam _critic_:** Boudon-Millot  
-**iam _sigla_:** Rodgers  
+> **iam coni. _critic_:** Brunschwig \
+**sed iam _critic_:** Boudon-Millot \
+**iam _sigla_:** Rodgers \
 **iam cod(d). _sigla_:** Billerbeck–Somazzi
 
 **so _critic_:** P.Oxy.
