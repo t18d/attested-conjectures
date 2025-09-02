@@ -5,7 +5,7 @@ permalink: coniecerat/
 seo:
   type: Dataset
   name: Coniecerat, sicut coni., suo Marte
-last_modified_at: 2025-09-02T03:39:02+00:00
+last_modified_at: 2025-09-02T03:58:01+00:00
 layout: no-anchor
 ---
 # Coniecerat, sicut coni., suo Marte
@@ -82,6 +82,7 @@ Dorandi
 
 > **_sigla_, ci. _critic_:** O’Sullivan, Tarán \
 **_sigla_, cj. _critic_:** Balme \
+**_sigla_, e coniect. _critic_:** Kaster (Suet.) \
 **_sigla_, _critic_ ex coni.:** Luck (_opp_ **ex cod.**) \
 **_sigla_, e coni. _critic_:** Fàbregas Salis \
 **_sigla_ _critic_ ex coni.:** Suárez del Río \
