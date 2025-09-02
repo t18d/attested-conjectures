@@ -5,7 +5,7 @@ permalink: coniecerat/
 seo:
   type: Dataset
   name: Coniecerat, sicut coni., suo Marte
-last_modified_at: 2025-09-02T03:31:01+00:00
+last_modified_at: 2025-09-02T03:39:02+00:00
 layout: no-anchor
 ---
 # Coniecerat, sicut coni., suo Marte
@@ -17,9 +17,9 @@ layout: no-anchor
 
 &nbsp;  
 &nbsp;  
-**coniecera(n)t _critic_:** Bücheler, Boissevain (also **ut coni.**), Burnet, 
-Hense (also **ut coniecit**), P. Thomas, Diès, Dodds, Bluck,  Pfeiffer, 
-Chantraine, Lannoy, Legrand, Malcovati, Alberti, Hunter, van den Hout, Carey, 
+**coniecera(n)t _critic_:** Bücheler, Boissevain (also **ut coni.**), Burnet,
+Hense (also **ut coniecit**), P. Thomas, Diès, Dodds, Bluck,  Pfeiffer,
+Chantraine, Lannoy, Legrand, Malcovati, Alberti, Hunter, van den Hout, Carey,
 West (Hom.), Theodoridis, Conte
 
 > less commonly, **emendavera(n)t**, **correxera(n)t**, **delevera(n)t**,
@@ -29,11 +29,11 @@ West (Hom.), Theodoridis, Conte
 
 **sicut coni. _critic_:** Housman, Kenney, Diggle (also **coni.**), Clausen
 
-> **sicut coniecerat _critic_:** Housman \
+> **sicut coniecerat _critic_:** Housman, Kaster (Macr.) \
 **sicut/sic ut coniecit _critic_:** Hense
 
-**ut coni. _critic_:** O. Schneider, Wachsmuth, Boissevain, Hermes, Peterson 
-(1907), A. Klotz, Allen (also **quod coni.**, **coni.**), Beltrami, Westman, 
+**ut coni. _critic_:** O. Schneider, Wachsmuth, Boissevain, Hermes, Peterson
+(1907), A. Klotz, Allen (also **quod coni.**, **coni.**), Beltrami, Westman,
 Winterbottom (Quint., Tac.), Delz (1987), Hine
 
 > **ut ci. _critic_:** Usener, West (Hom.) \
@@ -65,7 +65,7 @@ Winterbottom (Quint., Tac.), Delz (1987), Hine
 **et _critic_ de/ex coniectura:** Viereck \
 **sic _sigla_ et de/ex conj. _critic_:** C. Müller (Ptol.)
 
-**_sigla_ et _critic_:** Vian, Dilts (ambiguous)
+**_sigla_ et _critic_:** Vian, *Dilts (ambiguous)
 
 > **_sigla_ (et _critic_):** Fedeli \
 **_sigla_ and _critic_:** De Lacy–Einarson
@@ -77,9 +77,8 @@ Dorandi
 **_sigla_ (coniecit _critic_):** Radt \
 **_sigla_ (coniecerunt _critics_):** Radt
 
-**_sigla_, coni. _critic_:** Allen, Diggle (ambiguous), Ireland, 
-Lloyd-Jones/Wilson, Finglass (pre-2011), Fàbregas Salis (also **e coni.**),
-Rivero García
+**_sigla_, coni. _critic_:** Allen, *Diggle, Ireland, Lloyd-Jones/Wilson, Finglass 
+(pre-2011), Fàbregas Salis (also **e coni.**), Rivero García
 
 > **_sigla_, ci. _critic_:** O’Sullivan, Tarán \
 **_sigla_, cj. _critic_:** Balme \
@@ -87,7 +86,7 @@ Rivero García
 **_sigla_, e coni. _critic_:** Fàbregas Salis \
 **_sigla_ _critic_ ex coni.:** Suárez del Río \
 **_sigla_ coni. _critic_:** Moreschini (Budé), Kidd \
-**_sigla_ conj. _critic_:** Bompaire (ambiguous) \
+**_sigla_ conj. _critic_:** *Bompaire \
 **_sigla_ con. _critic_:** Moreschini (Apul.) \
 **_sigla_ coniec. _critic_:** R. Weil
 
@@ -96,19 +95,18 @@ Rivero García
 > **_critic_ confirm. _siglum_:** Schepers (1901) \
 **_critic_ (conf. _siglum_):** Winterbottom
 
-**_sigla_ tempt. _critic_:** Díez Reboso (ambiguous)
+**_sigla_ tempt. _critic_:** *Díez Reboso
 
-**_sigla_ cum _critic_:** Ekker (ambiguous)
+**_sigla_ cum _critic_:** *Ekker
 
-**_sigla_ (_critic_):** Pohlenz (ambiguous), Ziegler (ambiguous), Giusta 
-(ambiguous), Wellesley (ambiguous), von Ungern-Sternberg
+**_sigla_ (_critic_):** *Pohlenz, *Ziegler, *Giusta, *Wellesley, von
+Ungern-Sternberg
 
-**_sigla_, _critic_:** Sjögren (ambiguous), Galletier (ambiguous), Lyne, Hall 
-(ambiguous), H. J. Williams, Richmond (ambiguous), Lloyd-Jones/Wilson, Wilson, 
-Flobert (ambiguous), Geymonat (ambiguous), Finglass (2011–), Leofranc 
-Holford-Strevens (ambiguous)
+**_sigla_, _critic_:** *Sjögren, *Galletier, Lyne, *Hall, H. J. Williams,
+*Richmond, Lloyd-Jones/Wilson, Wilson, *Flobert, *Geymonat, Finglass (2011–),
+*Leofranc Holford-Strevens
 
-**_sigla_ _critic_:** Jacoby (ambiguous), Mandilaras
+**_sigla_ _critic_:** *Jacoby, Mandilaras
 
 **iam _critic_:** Patillon, P.Oxy.
 
@@ -121,7 +119,7 @@ Holford-Strevens (ambiguous)
 
 **corr. _sigla_ _critic_:** Hubert
 
-**_randomly_:** Marshall (Nep.), Willis, Ramírez de Verger (ambiguous)
+**_randomly_:** Marshall (Nep.), Willis, *Ramírez de Verger
 
 \***
 
