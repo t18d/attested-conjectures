@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-08-20T09:26:49+00:00
+last_modified_at: 2025-09-02T04:05:16+00:00
 ---
 # Bibliography
 
@@ -198,6 +198,7 @@ last_modified_at: 2025-08-20T09:26:49+00:00
 - Lysias, _Orationes cum fragmentis_, ed. C. Carey (Oxford, 2007).
 - Pseudo-Manetho, _Apotelesmatica_, ed. J. L. Lightfoot, 2 vols (Oxford, 2020–3).
 - MacGregor, Alexander P., 'Parisinus 8031: Codex Optimus for the A-MSS of Seneca's Tragedies', _Philologus_, 122/1 (1978), 100.
+- Macrobius Ambrosius Theodosius, _Saturnalia_, ed. R. A. Kaster (Oxford, 2011).
 - Manilius, M., _Astronomica_, ed. George P. Goold (Stuttgart, 1998).
 - Markus, D., and G. Schwendner, 'Seneca’s Medea in Egypt (663–704)', _ZPE_, 117 (1997), 73–84.
 - Marshall, P. K., _The Manuscript Tradition of Cornelius Nepos_ (Oxford, 1977), 43.
@@ -315,6 +316,7 @@ last_modified_at: 2025-08-20T09:26:49+00:00
 - Stesichorus, _The Poems_, ed. M. Davies and P. J. Finglass (Cambridge, 2014).
 - Stobaeus, Ioannes, _Anthologium_, ed. Curt Wachsmuth and Otto Hense, 5 vols (Berlin, 1884–1912).
 - Strabon, _Geographika_, ed. Stefan Radt, 4 vols (Göttingen, 2002–5).
+- Suetonius Tranquillus, C., _De uita Caesarum libri VIII et De grammaticis et rhetoribus liber_, ed. R. A. Kaster (Oxford, 2016).
 - Tacitus, Cornelius, _Opera minora_, ed. M. Winterbottom and R. M. Ogilvie (Oxford, 1975).
 - Tacitus, Cornelius, _Ab excessu divi Augusti libri XI–XVI_, ed. Kenneth Wellesley (Leipzig, 1986).
 - Tacitus, Cornelius, _Historiarum libri_, ed. Kenneth Wellesley (Leipzig, 1989).
