@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-09-02T04:05:16+00:00
+last_modified_at: 2025-09-04T11:23:56+00:00
 ---
 # Bibliography
 
@@ -109,6 +109,7 @@ last_modified_at: 2025-09-02T04:05:16+00:00
 - Cicero, _Pro P. Sulla oratio_, ed. D. H. Berry (Cambridge, 1996).
 - Cicero, M. Tullius, _Oraliones in L. Catilinam quattuor_, ed. Tadeusz Maslowski (Munich, 2003).
 - Cicero, M. Tullius, _De finibus bonorum et malorum_, ed. Claudio Moreschini (Munich, 2005).
+- Cicero, M. Tullius, _Tusculanarum disputationum libri V_, ed. Robert A. Kaster (Oxford, 2026).
 - Cicero, M. Tullius, and M. Brutus, _M. Tulli Ciceronis ad M. Brutum et M. Bruti ad M. Tullium Ciceronem epistularum liber novus_, ed. H. Sjögren (Uppsala, 1910).
 - Citti, V., and R. Dawe, 'Congetture ad Eschilo dalle edizioni cinquecentine', _Lexis_, 22 (2004), 249–60.
 - Clark, Albert C., _Anecdota Oxoniensia_, x: _The Vetus Cluniacensis of Poggio_ (Oxford, 1905). ('A. C. Clark's finest work')
@@ -302,6 +303,7 @@ last_modified_at: 2025-09-02T04:05:16+00:00
 - Seneca, _Agamemnon_, ed. R. J. Tarrant (Cambridge, 1976).
 - Seneca, Lucio Anneo, _Tragedie_, ed. Giancarlo Giardina (Turin, 1987).
 - Seneca, L. Annaeus, _Naturalium quaestionum libri_, ed. Harry M. Hine (Stuttgart, 1996).
+- Seneca, L. Annaeus, _De beneficiis libri VII, De clementia libri II, Apocolocyntosis_, ed. Robert A. Kaster (Oxford, 2022).
 - Sextus Empiricus, _Opera_, ed. Hermann Mutschmann and J. Mau, 3 vols (Leipzig, 1912–61).
 - Silius Italicus, _Punica_, ed. Josef Delz (Stuttgart, 1987).
 - Snell, Bruno, and Richard Kannicht (eds), _Tragicorum Graecorum Fragmenta (TrGF)_, i: _Didascaliae tragicae, catalogi tragicorum et tragoediarum, testimonia et fragmenta tragicorum minorum_ (Göttingen, 1986).
