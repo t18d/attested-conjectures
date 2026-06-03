@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2025-09-04T10:05:17+00:00
+last_modified_at: 2026-06-03T23:36:52+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514819.svg)](https://doi.org/10.5281/zenodo.15514819)
@@ -41,7 +41,7 @@ Commandments</a> and James Zetzel's
 and the Transmission of Latin Texts</a>.
 
 <!-- The following sequence of lines must not change – there must be 3 lines of code (including the next comment) below this, no more, no less. -->
-<p>The top 10 critics are Reiske (282), Scaliger (240), Nicolaus Heinsius (238), Bentley (197), Adamantios Korais (192), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Madvig (100) and Bekker (97).</p>
+<p>The top 10 critics are Reiske (282), Scaliger (240), Nicolaus Heinsius (237), Bentley (197), Adamantios Korais (192), Thomas Mangey (154), Casaubon (114), Valckenaer (106), Madvig (100) and Bekker (97).</p>
 <br>
 <!-- Anything not in the table must be before this comment. -->
 
@@ -5658,10 +5658,8 @@ Ov. ars 3.273|analept-|analemptrides|Wilhelm Schulze|1958|Hamilt. 471 (Y)|
 Ov. ars 3.410|-os|contiguus|A. G. Parrasio|1500–5|Paris. lat. 7311 (R)|ad Claud. rapt. Pros. 1.222
 Ov. ars 3.418|ferre|ferte|Nicolaus Heinsius|1652|Antuerp. Plant. lat. D.68 (A)|
 Ov. ars 3.733|arcus|artus|Rudolf Merkel|1852|Matrit. 206 (Ma)|
-Ov. epist. 1.110|aura|ara|Nicolaus Heinsius|1662|Dp G2|
-Ov. epist. 4.53|reddamus|debemus|Authur Palmer|1874|Bern. 512|s.l.
-Ov. epist. 4.151|et|at|Bentley|1820|Bern. 512|apud Lemaire
-Ov. epist. 5.16|depressa|defensa|A. G. Parrasio|1518|Paris. lat. 7993 (Pa)|
+Ov. epist. 4.53|reddamus|debemus|Petrus Francius||Beul Lb Lenul To|
+Ov. epist. 4.151|et|at|Bentley|1820|Axul Be Lb|apud Lemaire
 Ov. epist. 18.66|ipsa|ipse|F. X. Werfer|1814|Paris. lat. 8242 (P)|Acta philol. Monac. i/4 p. 517; m. pr.
 Ov. fast. 1.232|ni|si|J. M. Heinsius|1722|Plantin. 68|v.l.
 Ov. fast. 1.281|possit|possim|Marcilius||cod. Götting.|ad Hor. epist. 2.1; v.l.
