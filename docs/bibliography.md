@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2025-09-04T11:23:56+00:00
+last_modified_at: 2026-06-03T23:42:02+00:00
 ---
 # Bibliography
 
@@ -221,7 +221,7 @@ last_modified_at: 2025-09-04T11:23:56+00:00
 - Ovidius Naso, P., _Ex Ponto libri quattuor_, ed. J. A. Richmond (Leipzig, 1990).
 - Ovidius Naso, P., _Amores, Medicamina faciei femineae, Ars amatoria, Remedia amoris_, ed. E. J. Kenney (Oxford, 1995).
 - Ovidius Naso, P., _Tristia_, ed. John Barrie Hall (Stuttgart, 1995).
-- Ovidius Naso, P., _Fastorum libri sex_, ed. E. H. Alton, D. E. W. Wormell, E. Courtney (Munich, 1996).
+- Ovidius Naso, P., _Fastorum libri sex_, ed. E. H. Alton, D. E. W. Wormell and E. Courtney (Munich, 1996).
 - Ovidius Naso, P., _Metamorphoses_, ed. R. J. Tarrant (Oxford, 2004).
 - Ovidius Naso, P., _Carmina amatoria_, ed. Antonio Ramírez de Verger (Munich, 2006).
 - Ovidius Naso, P., _Metamorphoseon liber undecimus_, ed. Samuel Díez Reboso (Huelva, 2014).
@@ -230,6 +230,7 @@ last_modified_at: 2025-09-04T11:23:56+00:00
 - Ovid, _Metamorphoses_, xv, ed. Georg Luck (Huelva, 2017).
 - Ovid, _Metamorphoses_, iii, ed. Luis Rivero García (Berlin, 2018).
 - Ovid, _Metamorphoses_, vi, ed. Antonio Ramírez de Verger (Berlin, 2021).
+- Ovidius Naso, P., _Heroides_, ed. J. B. Hall, A. L. Ritchie and M. J. Edwards (Newcastle upon Tyne, 2023).
 - Page, D. L. (ed.), _Poetae melici Graeci_ (Oxford, 1967).
 - Pascal, Carlo (ed.), _Carmina ludicra Romanorum_ (Turin, 1918).
 - Pausanias, _Graeciae descriptio_, ed. Maria Helena Rocha-Pereira, 3 vols (Leipzig, 1989–90).
