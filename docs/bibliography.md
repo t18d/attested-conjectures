@@ -5,7 +5,7 @@ permalink: bibliography/
 seo:
   type: Dataset
   name: Bibliography
-last_modified_at: 2026-06-03T23:42:02+00:00
+last_modified_at: 2026-06-29T02:09:52+00:00
 ---
 # Bibliography
 
@@ -167,6 +167,7 @@ last_modified_at: 2026-06-03T23:42:02+00:00
 - Homerus, _Ilias_, ed. Helmut van Thiel (Hildesheim, 2010).
 - Homerus, _Odyssea_, ed. Martin L. West (Berlin, 2017).
 - Horatius Flaccus, Q., _Opera_, i: _Carminum libri IIII, epodon liber, Carmen Saeculare_, ed. Otto Keller (Leipzig, 1899).
+- Horváth, László, edition of Hyperides (forthcoming).
 - Isocrates, _Opera omnia_, ed. Basil G. Mandilaras, 2 vols (Munich, 2003).
 - Iustinus, M. Iunianus, _Epitoma historiarum Philippicarum Pompei Trogi_, ed. Otto Seel (Stuttgart, 1985).
 - Iuvenalis, D. Iunius, _Saturae sedecim_, ed. James Willis (Stuttgart, 1997).
