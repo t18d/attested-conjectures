@@ -5,7 +5,7 @@ permalink: /
 seo:
   type: Dataset
   name: Database of Greek and Latin Conjectural Emendations Attested in MSS
-last_modified_at: 2026-06-03T23:36:52+00:00
+last_modified_at: 2026-06-29T00:33:34+00:00
 layout: no-anchor
 ---
 # Database of Greek and Latin Conjectural Emendations Attested in MSS [![DOI](https://t18d.github.io/attested-conjectures/assets/zenodo.15514819.svg)](https://doi.org/10.5281/zenodo.15514819)
@@ -3647,6 +3647,7 @@ Sud. ε 460|-βληκεν|ἀποβέβηκεν|Meineke|1823|Phot. z|Men. et Phi
 Sud. κ 90|Καθιγ-|καθαγνίσαι|Hemsterhuis|1834|GI|apud Gaisford
 Sud. κ 2079|deest|σημᾶναι|Dindorf|1838|Laur. Plut. 55.1 (F)|ad schol. Ar.
 Sud. μ 1305|ἡμᾶς|ὑμᾶς|Maas|1922|Paris. gr. 2625 + 2626 (A)|ad Jul. Ep.
+Sud. π 847|κ. π. παίδων|καὶ παιδαρίων|Blass|1869|Archimedes Palimpsest 135v|
 Sud. π 926|προσφ-|προφέρειν|Bekker|1854|Phot. z|Suidae Lex. p. 836a
 Synag. 52.22|αἱρεθίζειν|αἱρετίζειν|Theodor Kock|1880–8|Phot. α 642|
 Synag. 177.16|ἀωρὶ θανάτωι|ἀωροθάνατος|Dindorf|1835|Phot. α 3493|
