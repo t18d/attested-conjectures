@@ -5,7 +5,7 @@ permalink: des-noms-latins/
 seo:
   type: Collection
   name: Des noms latins
-last_modified_at: 2025-08-19T07:18:50+00:00
+last_modified_at: 2026-08-10T01:40:47+00:00
 ---
 # Des noms latins
 
@@ -158,3 +158,6 @@ cap. 1. (Elmsley)
 ## Turnebus
 P. Daniel qui n’etoit pas des plus doctes, les avoit trouvez à S. Germain, les 
 montra à Monsieur Turnebus et à moy. (Scaliger)
+
+## Dionysius Zacharius
+D. Zecaire (1567); D. Zacaire (1574)
